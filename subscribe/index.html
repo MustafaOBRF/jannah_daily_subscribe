@@ -45,6 +45,9 @@
         <legend>Language(s)</legend>
         <label class="lang"><input type="checkbox" name="lang" value="ar"> العربية (Arabic)</label>
         <label class="lang"><input type="checkbox" name="lang" value="en"> English</label>
+        <label class="lang"><input type="checkbox" name="lang" value="ur"> اردو (Urdu)</label>
+        <label class="lang"><input type="checkbox" name="lang" value="fr"> Français (French)</label>
+        <label class="lang"><input type="checkbox" name="lang" value="es"> Español (Spanish)</label>
       </fieldset>
 
       <button type="submit" id="btn">Subscribe</button>
@@ -67,20 +70,18 @@
       e.preventDefault();
       const name = f.name.value.trim();
       const email = f.email.value.trim().toLowerCase();
-      const langs = [...f.querySelectorAll('input[name=lang]:checked')].map(x => x.value);
+      const lang = [...f.querySelectorAll('input[name=lang]:checked')].map(x => x.value);
 
       if (!name) return show("err", "Please enter your name.");
       if (!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email)) return show("err", "Please enter a valid email.");
-      if (langs.length === 0) return show("err", "Please choose at least one language.");
-
-      const lang = langs.sort().join(","); // "ar", "en", or "ar,en"
+      if (lang.length === 0) return show("err", "Please choose at least one language.");
 
       btn.disabled = true; show("", "");
       try {
         const res = await fetch(SUBSCRIBE_URL, {
           method: "POST",
           headers: { "content-type": "application/json" },
-          body: JSON.stringify({ name, email, lang }),
+          body: JSON.stringify({ name, email, lang }), // lang: array of codes
         });
         if (!res.ok) throw new Error((await res.json().catch(() => ({}))).error || "Subscription failed");
         show("ok", "You're subscribed. May Allah accept it — check your inbox soon.");

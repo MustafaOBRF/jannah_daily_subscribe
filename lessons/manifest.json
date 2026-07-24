@@ -1,0 +1,30 @@
+{
+  "lessons": [
+    {
+      "slug": "001_names_reality",
+      "order": 1,
+      "langs": [
+        "ar",
+        "en",
+        "ur",
+        "fr",
+        "es"
+      ],
+      "titles": {
+        "ar": "أسماء الجنة وحقيقتها",
+        "en": "The Names and Reality of Jannah",
+        "ur": "جنّت کے نام اور اس کی حقیقت",
+        "fr": "Les noms et la réalité de la Jannah",
+        "es": "Los nombres y la realidad de la Jannah"
+      },
+      "status": {
+        "ar": "arabic_reviewed",
+        "en": "translation_draft",
+        "ur": "translation_draft",
+        "fr": "translation_draft",
+        "es": "translation_draft"
+      },
+      "under_review": true
+    }
+  ]
+}
