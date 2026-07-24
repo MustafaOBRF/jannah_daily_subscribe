@@ -1,0 +1,96 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Subscribe — Jannah Daily Stories</title>
+  <style>
+    :root { --ink:#1c2b25; --accent:#1f7a5a; --bg:#f6f4ec; --line:#d9d3c4; }
+    * { box-sizing: border-box; }
+    body { font-family: system-ui, -apple-system, "Segoe UI", sans-serif;
+           background: var(--bg); color: var(--ink); margin: 0;
+           min-height: 100vh; display: grid; place-items: center; padding: 1.5rem; }
+    .card { background: #fff; max-width: 30rem; width: 100%; padding: 2rem;
+            border: 1px solid var(--line); border-radius: 14px;
+            box-shadow: 0 6px 24px rgba(0,0,0,.05); }
+    h1 { margin: 0 0 .25rem; font-size: 1.5rem; }
+    p.sub { margin: 0 0 1.5rem; color: #5a6b62; }
+    label { display: block; font-weight: 600; margin: 1rem 0 .35rem; }
+    input[type=text], input[type=email] { width: 100%; padding: .7rem .8rem;
+      border: 1px solid var(--line); border-radius: 8px; font-size: 1rem; }
+    fieldset { border: 1px solid var(--line); border-radius: 8px; margin: 1rem 0 0; padding: .6rem .9rem 1rem; }
+    legend { font-weight: 600; padding: 0 .4rem; }
+    .lang { display: flex; align-items: center; gap: .5rem; margin-top: .6rem; font-weight: 400; }
+    button { margin-top: 1.5rem; width: 100%; padding: .8rem; font-size: 1rem;
+      background: var(--accent); color: #fff; border: 0; border-radius: 8px; cursor: pointer; }
+    button:disabled { opacity: .6; cursor: default; }
+    .msg { margin-top: 1rem; padding: .8rem; border-radius: 8px; display: none; }
+    .msg.ok  { background: #e6f4ee; color: #14603f; display: block; }
+    .msg.err { background: #fbe9e7; color: #9a2b1f; display: block; }
+  </style>
+</head>
+<body>
+  <main class="card">
+    <h1>Jannah Daily Stories</h1>
+    <p class="sub">One short, source-based lesson about Paradise each day — for you and your children.</p>
+
+    <form id="f" novalidate>
+      <label for="name">Name</label>
+      <input type="text" id="name" name="name" autocomplete="name" required>
+
+      <label for="email">Email</label>
+      <input type="email" id="email" name="email" autocomplete="email" required>
+
+      <fieldset>
+        <legend>Language(s)</legend>
+        <label class="lang"><input type="checkbox" name="lang" value="ar"> العربية (Arabic)</label>
+        <label class="lang"><input type="checkbox" name="lang" value="en"> English</label>
+      </fieldset>
+
+      <button type="submit" id="btn">Subscribe</button>
+      <div class="msg" id="msg" role="status"></div>
+    </form>
+  </main>
+
+  <script>
+    // ---- CONFIG: Supabase subscribe Edge Function ----
+    const SUBSCRIBE_URL = "https://fjjtkdcitwjkkxjhdple.functions.supabase.co/subscribe";
+    // --------------------------------------------------
+
+    const f = document.getElementById("f");
+    const btn = document.getElementById("btn");
+    const msg = document.getElementById("msg");
+
+    function show(kind, text) { msg.className = "msg " + kind; msg.textContent = text; }
+
+    f.addEventListener("submit", async (e) => {
+      e.preventDefault();
+      const name = f.name.value.trim();
+      const email = f.email.value.trim().toLowerCase();
+      const langs = [...f.querySelectorAll('input[name=lang]:checked')].map(x => x.value);
+
+      if (!name) return show("err", "Please enter your name.");
+      if (!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email)) return show("err", "Please enter a valid email.");
+      if (langs.length === 0) return show("err", "Please choose at least one language.");
+
+      const lang = langs.sort().join(","); // "ar", "en", or "ar,en"
+
+      btn.disabled = true; show("", "");
+      try {
+        const res = await fetch(SUBSCRIBE_URL, {
+          method: "POST",
+          headers: { "content-type": "application/json" },
+          body: JSON.stringify({ name, email, lang }),
+        });
+        if (!res.ok) throw new Error((await res.json().catch(() => ({}))).error || "Subscription failed");
+        show("ok", "You're subscribed. May Allah accept it — check your inbox soon.");
+        f.reset();
+      } catch (err) {
+        show("err", err.message || "Something went wrong. Please try again.");
+      } finally {
+        btn.disabled = false;
+      }
+    });
+  </script>
+</body>
+</html>
