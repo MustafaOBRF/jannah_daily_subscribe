@@ -9,6 +9,9 @@
       "titles": {
         "ar": "نِدَاءَاتُ الْجَنَّةِ وَالْبِشَارَاتُ عِنْدَ الدُّخُولِ"
       },
+      "hooks": {
+        "ar": "أن يعرف المتعلم أن أهل الجنة يسمعون نداءات وبشارات عظيمة تثبت لهم الأمن والخلود."
+      },
       "status": {
         "ar": "arabic_draft"
       },
@@ -22,6 +25,9 @@
       ],
       "titles": {
         "ar": "اسْتِقْبَالُ الْمَلَائِكَةِ وَتَحِيَّتُهُمْ"
+      },
+      "hooks": {
+        "ar": "أن يعرف المتعلم أن من كرامات أهل الجنة استقبال الملائكة لهم بالسلام والبشارة."
       },
       "status": {
         "ar": "arabic_draft"
@@ -37,6 +43,9 @@
       "titles": {
         "ar": "كَيْفِيَّةُ دُخُولِ الْجَنَّةِ"
       },
+      "hooks": {
+        "ar": "أن يعرف المتعلم أن دخول الجنة له مشاهد إيمانية عظيمة: فتح الأبواب، الشفاعة، التهذيب، والدخول زمرا."
+      },
       "status": {
         "ar": "arabic_draft"
       },
@@ -50,6 +59,9 @@
       ],
       "titles": {
         "ar": "أَبْوَابُ الْجَنَّةِ وَسَعَتُهَا وَحِلَقُهَا"
+      },
+      "hooks": {
+        "ar": "أن يعرف المتعلم أن للجنة أبوابا، وأن من النصوص الصحيحة ذكر ثمانية أبواب."
       },
       "status": {
         "ar": "arabic_draft"
@@ -65,6 +77,9 @@
       "titles": {
         "ar": "عَدَدُ الْجِنَانِ وَأَنْوَاعُهَا"
       },
+      "hooks": {
+        "ar": "أن يعرف المتعلم أن نصوص الوحي تدل على تعدد الجنات وتفاوتها."
+      },
       "status": {
         "ar": "arabic_draft"
       },
@@ -78,6 +93,9 @@
       ],
       "titles": {
         "ar": "مَكَانُ الْجَنَّةِ وَسَعَتُهَا"
+      },
+      "hooks": {
+        "ar": "أن يعرف المتعلم أن الجنة دار عظيمة واسعة، فوق مقاييس الدنيا وخيالها."
       },
       "status": {
         "ar": "arabic_draft"
@@ -93,6 +111,9 @@
       "titles": {
         "ar": "خُلُودُ الْجَنَّةِ وَبَقَاءُ نَعِيمِهَا"
       },
+      "hooks": {
+        "ar": "أن يعرف المتعلم أن الجنة دار بقاء لا دار فناء."
+      },
       "status": {
         "ar": "arabic_draft"
       },
@@ -106,6 +127,9 @@
       ],
       "titles": {
         "ar": "خَلْقُ الْجَنَّةِ الآن"
+      },
+      "hooks": {
+        "ar": "أن يعرف المتعلم أن الجنة مخلوقة موجودة الآن، أعدها الله لعباده المتقين."
       },
       "status": {
         "ar": "arabic_draft"
@@ -128,6 +152,13 @@
         "ur": "جنّت کے نام اور اس کی حقیقت",
         "fr": "Les noms et la réalité de la Jannah",
         "es": "Los nombres y la realidad de la Jannah"
+      },
+      "hooks": {
+        "ar": "أن يعرف المتعلم أن أسماء الجنة في القرآن والسنة ليست مجرد ألفاظ جميلة، بل أبواب لمعرفة حقيقتها ومعاني نعيمها.",
+        "en": "Learners will understand that the names of Jannah in the Qur'an and Sunnah are not merely beautiful words; they are gateways to understanding its reality and the meanings of its bliss.",
+        "ur": "طالب علم یہ سمجھیں کہ قرآن و سنت میں جنّت کے نام صرف خوب صورت الفاظ نہیں، بلکہ اس کی حقیقت اور اس کی نعمتوں کے معانی تک پہنچنے کے دروازے ہیں۔",
+        "fr": "Comprendre que les noms de la Jannah dans le Coran et la Sunnah ne sont pas de simples mots beaux, mais des portes vers sa réalité et les sens de ses délices.",
+        "es": "Comprender que los nombres de la Jannah en el Corán y la Sunnah no son simples palabras hermosas, sino puertas para conocer su realidad y los significados de su dicha."
       },
       "status": {
         "ar": "arabic_reviewed",

@@ -30,6 +30,15 @@ function stripFrontmatter(md) {
   return m ? md.slice(m[0].length) : md;
 }
 
+/** marked has no footnote support. Convert markdown footnotes so they render:
+ *  inline  [^N]      -> superscript [N]
+ *  def     [^N]: txt -> its own paragraph "**[N]** txt" (bare URLs autolink via gfm) */
+function fixFootnotes(md) {
+  md = md.replace(/\[\^([^\]]+)\](?!:)/g, '<sup class="fnref">[$1]</sup>');
+  md = md.replace(/^[ \t]*\[\^([^\]]+)\]:[ \t]*(.*)$/gm, "\n\n**[$1]** $2\n");
+  return md;
+}
+
 /** Split a lesson body into sections keyed by its `## ` headings.
  * The leading `# Title` line is dropped (the page shows the title itself).
  * Any text before the first `##` is kept as an untitled preface section. */
@@ -63,15 +72,16 @@ async function renderIndex(mount) {
     mount.innerHTML = '<p class="status-msg">Could not load lessons. Please try again later.</p>';
     return;
   }
-  const items = (manifest.lessons || []).map((L) => {
-    const tEn = L.titles.en || L.titles[L.langs[0]] || L.slug;
-    const tAr = L.titles.ar || "";
-    const rev = L.under_review ? ' <span class="rev">under review</span>' : "";
+  const lessons = (manifest.lessons || []).slice().sort((a, b) => a.order - b.order);
+  const items = lessons.map((L) => {
     const num = String(L.order).padStart(3, "0");
+    const lines = LANGS
+      .filter((l) => L.titles && L.titles[l])
+      .map((l) => `<span class="tline" dir="${RTL.has(l) ? "rtl" : "ltr"}">${esc(L.titles[l])}</span>`)
+      .join("");
     return `<li><a href="lesson.html?slug=${encodeURIComponent(L.slug)}">` +
       `<span class="d">${esc(num)}</span>` +
-      `<span class="t">${esc(tEn)}</span>` +
-      `<span class="ta" dir="rtl">${esc(tAr)}</span></a>${rev}</li>`;
+      `<span class="titles">${lines}</span></a></li>`;
   });
   mount.innerHTML = items.length
     ? `<ul class="lessons">${items.join("")}</ul>`
@@ -105,7 +115,6 @@ async function renderLesson(root) {
 
   const langs = entry ? entry.langs.slice() : LANGS.slice();
   const titles = entry ? entry.titles : {};
-  const underReview = entry ? entry.under_review : false;
 
   // Fetch each language's markdown (only those that exist).
   const fetched = {};
@@ -141,9 +150,8 @@ async function renderLesson(root) {
       `<li><a href="#${l}-${i}">${esc(s.heading || ui.contents)}</a></li>`).join("");
     const secs = sections.map((s, i) =>
       `<details class="sec" id="${l}-${i}"><summary>${esc(s.heading || ui.contents)}</summary>` +
-      `<div class="secbody">${marked.parse(s.md)}</div></details>`).join("");
-    const banner = underReview ? `<div class="banner">⚠ ${esc(ui.review)}</div>` : "";
-    return `<div class="lang-block" data-lang="${l}" dir="${ui.dir}" hidden>${banner}` +
+      `<div class="secbody">${marked.parse(fixFootnotes(s.md))}</div></details>`).join("");
+    return `<div class="lang-block" data-lang="${l}" dir="${ui.dir}" hidden>` +
       `<nav class="toc" aria-label="${esc(ui.contents)}"><p class="toctitle">${esc(ui.contents)}</p><ul>${toc}</ul></nav>` +
       `${secs}</div>`;
   }).join("");
@@ -154,12 +162,17 @@ async function renderLesson(root) {
     const ui = UI[l];
     const subj = encodeURIComponent(reportTitles[l] || pageTitle);
     const body = encodeURIComponent((ui.report_body || "") + "\n\n" + location.href);
-    reportEl.href = `mailto:${REPORT_TO}?subject=${subj}&body=${body}`;
+    // Open a Gmail compose window in the browser (new tab).
+    reportEl.href = `https://mail.google.com/mail/?view=cm&fs=1&to=${encodeURIComponent(REPORT_TO)}&su=${subj}&body=${body}`;
+    reportEl.target = "_blank";
+    reportEl.rel = "noopener";
     reportEl.textContent = ui.report;
   }
   function showLang(l) {
     blocksEl.querySelectorAll(".lang-block").forEach((b) => { b.hidden = b.dataset.lang !== l; });
     toggleEl.querySelectorAll(".langbtn").forEach((x) => x.classList.toggle("active", x.dataset.showlang === l));
+    titleEl.textContent = titles[l] || pageTitle;   // title follows the selected language
+    titleEl.dir = RTL.has(l) ? "rtl" : "ltr";
     setReport(l);
   }
   toggleEl.querySelectorAll(".langbtn").forEach((b) => b.onclick = () => showLang(b.dataset.showlang));
