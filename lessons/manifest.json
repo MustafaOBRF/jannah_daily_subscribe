@@ -1,6 +1,118 @@
 {
   "lessons": [
     {
+      "slug": "031_calls_glad_tidings",
+      "order": 31,
+      "langs": [
+        "ar"
+      ],
+      "titles": {
+        "ar": "نِدَاءَاتُ الْجَنَّةِ وَالْبِشَارَاتُ عِنْدَ الدُّخُولِ"
+      },
+      "status": {
+        "ar": "arabic_draft"
+      },
+      "under_review": true
+    },
+    {
+      "slug": "030_angels_welcome",
+      "order": 30,
+      "langs": [
+        "ar"
+      ],
+      "titles": {
+        "ar": "اسْتِقْبَالُ الْمَلَائِكَةِ وَتَحِيَّتُهُمْ"
+      },
+      "status": {
+        "ar": "arabic_draft"
+      },
+      "under_review": true
+    },
+    {
+      "slug": "029_entering_jannah",
+      "order": 29,
+      "langs": [
+        "ar"
+      ],
+      "titles": {
+        "ar": "كَيْفِيَّةُ دُخُولِ الْجَنَّةِ"
+      },
+      "status": {
+        "ar": "arabic_draft"
+      },
+      "under_review": true
+    },
+    {
+      "slug": "006_gates",
+      "order": 6,
+      "langs": [
+        "ar"
+      ],
+      "titles": {
+        "ar": "أَبْوَابُ الْجَنَّةِ وَسَعَتُهَا وَحِلَقُهَا"
+      },
+      "status": {
+        "ar": "arabic_draft"
+      },
+      "under_review": true
+    },
+    {
+      "slug": "005_number_types",
+      "order": 5,
+      "langs": [
+        "ar"
+      ],
+      "titles": {
+        "ar": "عَدَدُ الْجِنَانِ وَأَنْوَاعُهَا"
+      },
+      "status": {
+        "ar": "arabic_draft"
+      },
+      "under_review": true
+    },
+    {
+      "slug": "004_location_vastness",
+      "order": 4,
+      "langs": [
+        "ar"
+      ],
+      "titles": {
+        "ar": "مَكَانُ الْجَنَّةِ وَسَعَتُهَا"
+      },
+      "status": {
+        "ar": "arabic_draft"
+      },
+      "under_review": true
+    },
+    {
+      "slug": "003_eternity",
+      "order": 3,
+      "langs": [
+        "ar"
+      ],
+      "titles": {
+        "ar": "خُلُودُ الْجَنَّةِ وَبَقَاءُ نَعِيمِهَا"
+      },
+      "status": {
+        "ar": "arabic_draft"
+      },
+      "under_review": true
+    },
+    {
+      "slug": "002_created_now",
+      "order": 2,
+      "langs": [
+        "ar"
+      ],
+      "titles": {
+        "ar": "خَلْقُ الْجَنَّةِ الآن"
+      },
+      "status": {
+        "ar": "arabic_draft"
+      },
+      "under_review": true
+    },
+    {
       "slug": "001_names_reality",
       "order": 1,
       "langs": [
