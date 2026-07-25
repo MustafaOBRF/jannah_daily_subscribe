@@ -32,7 +32,7 @@ function renderAuthBar(session) {
   const email = session?.user?.email || "";
   bar.innerHTML =
     `<span class="authuser">${email}</span>` +
-    `<button id="logoutbtn" class="linkbtn" type="button">Log out</button>`;
+    `<button id="logoutbtn" class="linkbtn" type="button">تسجيل الخروج</button>`;
   document.getElementById("logoutbtn").onclick = async () => {
     await window.sb.auth.signOut();
     location.replace("login.html");
@@ -54,7 +54,7 @@ function initLogin() {
     const password = f.password.value;
     show("", "");
     const { error } = await window.sb.auth.signInWithPassword({ email, password });
-    if (error) return show("err", "Sign-in failed. Check your email and password.");
+    if (error) return show("err", "فشل تسجيل الدخول. تحقّق من بريدك الإلكتروني وكلمة المرور.");
     location.replace("index.html");
   });
 
@@ -62,11 +62,11 @@ function initLogin() {
     e.preventDefault();
     const email = (f.email.value || "").trim().toLowerCase();
     if (!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email))
-      return show("err", "Enter your email above first, then click “Forgot password”.");
+      return show("err", "أدخل بريدك الإلكتروني في الحقل أعلاه أولاً، ثم اضغط «نسيت كلمة المرور».");
     const redirectTo = location.href.replace(/login\.html.*$/, "reset.html");
     const { error } = await window.sb.auth.resetPasswordForEmail(email, { redirectTo });
-    if (error) return show("err", "Could not send the reset email. Try again later.");
-    show("ok", "If that email has an account, a password-reset link is on its way.");
+    if (error) return show("err", "تعذّر إرسال رسالة إعادة التعيين. حاول مرة أخرى لاحقاً.");
+    show("ok", "إذا كان لهذا البريد حساب، فسيصلك رابط إعادة تعيين كلمة المرور.");
   });
 }
 
@@ -79,7 +79,7 @@ function initReset() {
   let ready = false;
 
   window.sb.auth.onAuthStateChange((event) => {
-    if (event === "PASSWORD_RECOVERY") { ready = true; show("ok", "Choose a new password."); }
+    if (event === "PASSWORD_RECOVERY") { ready = true; show("ok", "اختر كلمة مرور جديدة."); }
   });
   // Fallback: if a session already exists from the link, allow the update.
   currentSession().then((s) => { if (s) ready = true; });
@@ -87,11 +87,11 @@ function initReset() {
   f.addEventListener("submit", async (e) => {
     e.preventDefault();
     const pw = f.password.value;
-    if (pw.length < 8) return show("err", "Password must be at least 8 characters.");
-    if (!ready) return show("err", "Open this page from the reset link in your email.");
+    if (pw.length < 8) return show("err", "يجب أن تتكوّن كلمة المرور من 8 أحرف على الأقل.");
+    if (!ready) return show("err", "افتح هذه الصفحة من رابط إعادة التعيين في بريدك الإلكتروني.");
     const { error } = await window.sb.auth.updateUser({ password: pw });
-    if (error) return show("err", "Could not update the password. Request a new link.");
-    show("ok", "Password updated. Redirecting to sign in…");
+    if (error) return show("err", "تعذّر تحديث كلمة المرور. اطلب رابطاً جديداً.");
+    show("ok", "تم تحديث كلمة المرور. جارٍ تحويلك إلى تسجيل الدخول…");
     setTimeout(() => location.replace("login.html"), 1500);
   });
 }
