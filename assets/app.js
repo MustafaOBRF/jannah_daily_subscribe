@@ -10,6 +10,23 @@ const LANG_LABEL = { ar: "العربية", en: "English", ur: "اردو", fr: "F
 const RTL = new Set(["ar", "ur"]);
 const REPORT_TO = "fusha.adventures@gmail.com";
 
+// Site heading per language (shown one at a time on the index).
+const SITE_TITLE = {
+  ar: "يوميات مع الجنة",
+  en: "Daily Journal with Jannah",
+  ur: "جنت کے ساتھ روزنامچہ",
+  fr: "Journal quotidien avec la Jannah",
+  es: "Diario con Jannah",
+};
+
+// Shared language preference (index + lesson page), remembered across visits.
+const LANG_KEY = "jds_lang";
+function getLang() {
+  try { const l = localStorage.getItem(LANG_KEY); if (l && LANGS.includes(l)) return l; } catch (_) {}
+  return "en";
+}
+function setLang(l) { try { localStorage.setItem(LANG_KEY, l); } catch (_) {} }
+
 const UI = {
   en: { dir: "ltr", contents: "Contents", report: "Report an error", report_body: "Please describe the error:", review: "This lesson is under review and may be corrected.", missing: "Lesson not found." },
   ar: { dir: "rtl", contents: "المحتويات", report: "الإبلاغ عن خطأ", report_body: "يُرجى وصف الخطأ:", review: "هذا الدرس قيد المراجعة وقد يُصحَّح.", missing: "الدرس غير موجود." },
@@ -73,19 +90,38 @@ async function renderIndex(mount) {
     return;
   }
   const lessons = (manifest.lessons || []).slice().sort((a, b) => a.order - b.order);
-  const items = lessons.map((L) => {
-    const num = String(L.order).padStart(3, "0");
-    const lines = LANGS
-      .filter((l) => L.titles && L.titles[l])
-      .map((l) => `<span class="tline" dir="${RTL.has(l) ? "rtl" : "ltr"}">${esc(L.titles[l])}</span>`)
-      .join("");
-    return `<li><a href="lesson.html?slug=${encodeURIComponent(L.slug)}">` +
-      `<span class="d">${esc(num)}</span>` +
-      `<span class="titles">${lines}</span></a></li>`;
-  });
-  mount.innerHTML = items.length
-    ? `<ul class="lessons">${items.join("")}</ul>`
-    : '<p class="status-msg">No lessons published yet.</p>';
+  const titleEl = document.getElementById("sitetitle");
+  const toggleEl = document.getElementById("langtoggle");
+
+  /** Title for a lesson in the chosen language, falling back sensibly. */
+  const lessonTitle = (L, lang) =>
+    (L.titles && (L.titles[lang] || L.titles.en || L.titles[L.langs && L.langs[0]])) || L.slug;
+
+  function paint(lang) {
+    setLang(lang);
+    // Site heading in the selected language.
+    if (titleEl) { titleEl.textContent = SITE_TITLE[lang] || SITE_TITLE.en; titleEl.dir = RTL.has(lang) ? "rtl" : "ltr"; }
+    // Language toggle (all 5), active = current.
+    if (toggleEl) {
+      toggleEl.innerHTML = LANGS.map((l) =>
+        `<button class="langbtn${l === lang ? " active" : ""}" data-showlang="${l}">${LANG_LABEL[l]}</button>`
+      ).join("");
+      toggleEl.querySelectorAll(".langbtn").forEach((b) => b.onclick = () => paint(b.dataset.showlang));
+    }
+    // Lesson list — single title line in the selected language.
+    const dir = RTL.has(lang) ? "rtl" : "ltr";
+    const items = lessons.map((L) => {
+      const num = String(L.order).padStart(3, "0");
+      return `<li><a href="lesson.html?slug=${encodeURIComponent(L.slug)}">` +
+        `<span class="d">${esc(num)}</span>` +
+        `<span class="titles"><span class="tline" dir="${dir}">${esc(lessonTitle(L, lang))}</span></span></a></li>`;
+    });
+    mount.innerHTML = items.length
+      ? `<ul class="lessons">${items.join("")}</ul>`
+      : '<p class="status-msg">No lessons published yet.</p>';
+  }
+
+  paint(getLang());
 }
 
 // ---- lesson page ----------------------------------------------------------
@@ -130,7 +166,9 @@ async function renderLesson(root) {
     blocksEl.innerHTML = '<p class="status-msg">Lesson not found.</p>';
     return;
   }
-  const dflt = present.includes("en") ? "en" : present[0];
+  // Default to the visitor's remembered language when this lesson has it.
+  const pref = getLang();
+  const dflt = present.includes(pref) ? pref : (present.includes("en") ? "en" : present[0]);
 
   // Title (page + <title>), from manifest with markdown fallback.
   const pageTitle = titles[dflt] || titles.en || slug;
@@ -169,6 +207,7 @@ async function renderLesson(root) {
     reportEl.textContent = ui.report;
   }
   function showLang(l) {
+    setLang(l);   // remember choice; syncs with the lessons list
     blocksEl.querySelectorAll(".lang-block").forEach((b) => { b.hidden = b.dataset.lang !== l; });
     toggleEl.querySelectorAll(".langbtn").forEach((x) => x.classList.toggle("active", x.dataset.showlang === l));
     titleEl.textContent = titles[l] || pageTitle;   // title follows the selected language
