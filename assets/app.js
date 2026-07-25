@@ -185,7 +185,13 @@ async function renderLesson(root) {
 
 // ---- bootstrap ------------------------------------------------------------
 
-document.addEventListener("DOMContentLoaded", () => {
+document.addEventListener("DOMContentLoaded", async () => {
+  // Members-only gate: if auth.js is present, require a session before rendering
+  // (redirects to login.html when signed out and paints the account bar when in).
+  if (typeof requireSession === "function") {
+    const session = await requireSession();
+    if (!session) return; // redirected to login
+  }
   const list = document.getElementById("lesson-list");
   if (list) { renderIndex(list); return; }
   const lesson = document.getElementById("lesson");

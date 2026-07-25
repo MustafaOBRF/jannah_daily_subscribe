@@ -18,9 +18,17 @@ ul.lessons li { margin: .4rem 0; }
 ul.lessons a { display: flex; gap: .8rem; align-items: flex-start; text-decoration: none; color: inherit;
   background: #fff; border: 1px solid var(--line); border-radius: 10px; padding: .8rem 1rem; }
 ul.lessons a:hover { border-color: var(--accent); }
-.d { color: var(--muted); font-variant-numeric: tabular-nums; font-size: .85rem; padding-top: .15rem; }
-.titles { display: flex; flex-direction: column; gap: .2rem; }
+/* Lesson number: compact on phones (mobile-first)… */
+.d { color: var(--muted); font-variant-numeric: tabular-nums; font-size: .85rem; padding-top: .15rem;
+     flex: 0 0 auto; }
+.titles { display: flex; flex-direction: column; gap: .2rem; flex: 1 1 auto; }
 .tline { font-weight: 600; }
+/* …large and prominent (about half the row) on wider screens. */
+@media (min-width: 640px) {
+  ul.lessons a { align-items: center; gap: 1.2rem; }
+  .d { flex: 0 0 40%; font-size: 2.2rem; font-weight: 700; color: var(--accent);
+       text-align: center; padding-top: 0; }
+}
 
 /* Language toggle */
 .langtoggle { margin: .5rem 0 1rem; }
@@ -67,3 +75,27 @@ details.sec[open] > summary::before { transform: rotate(90deg); }
 [dir=rtl] { font-size: 1.1rem; }
 
 .status-msg { color: var(--muted); padding: 2rem 0; }
+
+/* Auth: account bar on gated pages */
+.authbar { display: flex; justify-content: flex-end; align-items: center; gap: .6rem;
+  min-height: 1.5rem; font-size: .85rem; color: var(--muted); margin-bottom: .5rem; }
+.authuser { color: var(--muted); }
+.linkbtn { background: none; border: 0; color: var(--accent); cursor: pointer; font: inherit;
+  padding: 0; text-decoration: underline; }
+
+/* Auth: login / reset pages */
+body.authpage { display: grid; place-items: center; min-height: 100vh; padding: 1.5rem; }
+.authcard { background: #fff; max-width: 24rem; width: 100%; padding: 2rem;
+  border: 1px solid var(--line); border-radius: 14px; box-shadow: 0 6px 24px rgba(0,0,0,.05); }
+.authcard h1 { font-size: 1.4rem; margin: 0 0 .2rem; }
+.authcard .sub { color: var(--muted); margin: 0 0 1.2rem; }
+.authcard label { display: block; font-weight: 600; margin: 1rem 0 .35rem; }
+.authcard input { width: 100%; padding: .7rem .8rem; border: 1px solid var(--line);
+  border-radius: 8px; font-size: 1rem; }
+.authcard button[type=submit] { margin-top: 1.4rem; width: 100%; padding: .8rem; font-size: 1rem;
+  background: var(--accent); color: #fff; border: 0; border-radius: 8px; cursor: pointer; }
+.forgotrow { margin: 1rem 0 0; font-size: .9rem; }
+.forgotrow a { color: var(--accent); }
+.msg { margin-top: 1rem; padding: .8rem; border-radius: 8px; display: none; }
+.msg.ok  { background: #e6f4ee; color: #14603f; display: block; }
+.msg.err { background: #fbe9e7; color: #9a2b1f; display: block; }
