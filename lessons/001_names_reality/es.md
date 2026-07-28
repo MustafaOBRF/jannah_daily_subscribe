@@ -9,7 +9,7 @@ title: "Los nombres y la realidad de la Jannah"
 audiences: ["adult", "ages_4_7", "ages_8_12", "teen_13_plus"]
 hadith_policy: "sahih_hasan_main"
 translation_note: "Borrador en español traducido a partir de la estructura árabe revisada."
-story_policy: "islamic_tradition_or_original_parable"
+story_policy: "original_parable_plus_authenticated_islamic_history"
 ---
 
 # Los nombres y la realidad de la Jannah
@@ -100,6 +100,11 @@ Desde ese día, cada vez que Sami construía una casa hermosa, decía: "La Janna
 
 El viernes por la mañana, su madre le pidió a Sami que escogiera una pequeña buena acción que le recordara la Jannah. Sami pensó y dijo: "Voy a empezar con el salam." Fue donde su hermana y dijo: "Assalamu alaykum", luego la ayudó a recoger los lápices que se habían caído al suelo. Su madre dijo: "Esta es una acción pequeña, pero enseña al corazón un camino grande. Quien ama `Dar as-Salam` intenta que sus palabras sean pacíficas y sus manos pacíficas." Sami se alegró, y entendió que hablar de la Jannah no es solo para cuentos; ayuda al niño a ser más amable y más cercano a Allah.
 
+
+### Historia verdadera de la historia islámica
+
+Rabi'ah ibn Ka'b, que Allah esté complacido con él, servía al Profeta, que la paz y las bendiciones sean con él. Una noche le llevó agua para el wudu. El Profeta le dijo que pidiera algo, y Rabi'ah pidió estar con él en la Jannah. El Profeta le enseñó a ayudarse a lograrlo con muchas prosternaciones.[^13]
+
 ### Preguntas cortas
 
 - ¿Quién creó la Jannah?
@@ -137,6 +142,11 @@ Luego el maestro dio a cada estudiante una tarjeta pequeña. Dijo: "Escriban un 
 Al final de la semana, el maestro colgó las tarjetas en el tablero de la clase. El tablero no era solo decoración; era un recordatorio de que los nombres de la Jannah no son solo para memorizar, sino para actuar. Cada vez que los estudiantes veían la palabra "paz", recordaban que sus lenguas debían ser más tranquilas. Cada vez que veían la palabra "eternidad", recordaban que la dicha del Más Allá es más larga que un placer corto que termina.
 
 El día de un examen, Yusuf encontró un papelito en el suelo con respuestas a algunas preguntas. Casi lo abrió, pero entonces vio su tarjeta colgada: `Dar al-Khuld`. Recordó que la calificación terminaría, y que la alegría de hacer trampa es corta, mientras que la complacencia de Allah es mayor y más duradera. Recogió el papel y se lo dio al maestro. Nadie en la clase supo lo que había pasado, pero Yusuf sintió que uno de los nombres de la Jannah lo había ayudado en un momento real. Después de clase se dijo: "Quiero una Jannah que no desaparezca, así que no la compraré con algo que desaparece."
+
+
+### Historia verdadera de la historia islámica
+
+Rabi'ah ibn Ka'b servía al Profeta, que la paz y las bendiciones sean con él. Cuando el Profeta lo invitó a pedir, Rabi'ah eligió algo mayor que la riqueza: la compañía del Profeta en la Jannah. El Profeta no lo dejó solo con un deseo; le dio un camino: abundar en sujud. Así los nombres y la realidad de la Jannah se vuelven adoración diaria.[^13]
 
 ### Vocabulario importante
 
@@ -178,6 +188,11 @@ Nadir preguntó: "¿Pero cómo vivo esto ahora?" El maestro dijo: "Empieza con u
 Nadir volvió a casa, y el mundo entero no cambió en una noche. Pero cambió una pregunta dentro de él. Ya no preguntaba solamente: "¿Cómo me veo delante de la gente?" Empezó a preguntar: "¿Hacia qué morada estoy caminando?" Después de unas semanas, notó que algunas de sus respuestas eran más calmadas, algunas de sus decisiones eran más limpias, y su du'a apuntaba más alto. En su sujud decía: `Allahumma inni as'aluka al-Firdaws al-a'la` - Oh Allah, Te pido el Firdaws más alto.
 
 Más tarde, Nadir entró en una discusión fuerte en un chat de amigos. Escribió una respuesta dura, luego se detuvo antes de enviarla. Recordó `Dar as-Salam`, borró las palabras hirientes y escribió en su lugar: "Creo que podemos discrepar con respeto." Nadie lo aplaudió, y no se convirtió en héroe ante los ojos de la gente, pero sintió que había vencido una versión de sí mismo que quería la victoria más que la verdad. Ese día entendió que los nombres de la Jannah no son solo información para memorizar; son una brújula que devuelve a la persona al camino cuando muchas voces compiten por el corazón.
+
+
+### Historia verdadera de la historia islámica
+
+La historia de Rabi'ah enseña que la ambición por la Jannah no es fantasía. Cuando tuvo oportunidad de pedir, no eligió estatus ni comodidad; pidió la compañía del Profeta en la Jannah. El Profeta, que la paz y las bendiciones sean con él, conectó esa petición elevada con una disciplina real: mucha prosternación. Conocer los nombres de la Jannah debe convertirse en oración, humildad y du'a elevado.[^13]
 
 ### Preguntas de discusión
 
@@ -246,3 +261,4 @@ Escribe una página titulada: "¿Qué nombre de la Jannah sana mi corazón ahora
 [^10]: Sahih al-Bukhari 2790, https://sunnah.com/bukhari:2790
 [^11]: Umar Sulayman al-Ashqar, `al-Jannah wa an-Nar`, sección: "La Jannah no tiene semejante", https://shamela.ws/book/12714/129
 [^12]: Abu Nu'aym al-Asbahani, `Sifat al-Jannah`, capítulo: "Mención de los nombres de la Jannah", https://shamela.ws/book/21602/243
+[^13]: Sahih Muslim 489, relato de Rabi'ah ibn Ka'b pidiendo la compañía del Profeta en la Jannah y siendo orientado a abundar en la prosternación, https://sunnah.com/muslim:489

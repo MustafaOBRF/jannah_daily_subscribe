@@ -9,7 +9,7 @@ title: "The Number and Types of Gardens"
 audiences: ["adult", "ages_4_7", "ages_8_12", "teen_13_plus"]
 hadith_policy: "sahih_hasan_main"
 translation_note: "English draft translated from the Arabic lesson structure."
-story_policy: "islamic_tradition_or_original_parable"
+story_policy: "original_parable_plus_authenticated_islamic_history"
 ---
 
 # The Number and Types of Gardens
@@ -53,6 +53,11 @@ This is an original teaching story.
 
 A child heard the lesson and chose one small good deed for the day. The deed was simple, but it made the meaning of Jannah feel close: kind words, truth, and a heart that remembers Allah.
 
+
+### True Story From Islamic History
+
+Musa, peace be upon him, asked his Lord about the lowest rank of the people of Jannah. Allah told him that the last person to enter Jannah will still receive an enormous kingdom and more. Then Musa asked about the highest ranks, and Allah told him of honor beyond what eyes, ears, and hearts can grasp. Jannah has many ranks, and Allah's generosity is vast.[^8]
+
 ### Short Questions
 
 - What did we learn about Jannah?
@@ -78,6 +83,11 @@ This lesson teaches that facts about Jannah are meant to change choices. A belie
 This is an original teaching story.
 
 A student remembered the lesson during a difficult choice. Instead of choosing what was easy but wrong, the student chose what pleased Allah and felt the sweetness of faith.
+
+
+### True Story From Islamic History
+
+In an authentic hadith, Musa, peace be upon him, asked Allah about the lowest person in Jannah. The answer amazes the heart: even the lowest person receives a great kingdom and what the soul desires. Then Musa asked about the highest people of Jannah, and Allah described a hidden honor prepared for them. The lesson is ambition with humility, not boasting.[^8]
 
 ### Important Vocabulary
 
@@ -106,6 +116,11 @@ For teens, the lesson should become a lens for pressure, ambition, and identity.
 This is an original teaching story.
 
 A teen wrote a private reminder after class: `I am walking toward Jannah.` During the week, that sentence helped with prayer, honesty, and self-control.
+
+
+### True Story From Islamic History
+
+Musa's question shows beautiful adab in asking about the unseen: a prophet asks his Lord, and the answer comes through revelation. The lowest person in Jannah receives enough to fill the heart with contentment, while the highest have what no human heart can imagine. For teens, this builds clean ambition: do not envy people's ranks; ask Allah from His bounty and work sincerely.[^8]
 
 ### Discussion Questions
 
@@ -139,3 +154,4 @@ Write a reflection: `What does this lesson ask me to change?`
 [^5]: Ibn al-Qayyim, `Hadi al-Arwah`, on the number of gardens, https://shamela.ws/book/13652/259
 [^6]: Abu Nu'aym al-Asbahani, `Sifat al-Jannah`, https://shamela.ws/book/21602/568
 [^7]: Umar Sulayman al-Ashqar, `al-Jannah wa an-Nar`, degrees of Jannah, https://shamela.ws/book/12714/136
+[^8]: Sahih Muslim 189b, the report of Musa asking Allah about the lowest and highest ranks of the people of Jannah, https://sunnah.com/muslim:189b

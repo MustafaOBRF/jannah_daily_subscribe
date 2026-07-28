@@ -9,7 +9,7 @@ title: "The Calls and Glad Tidings at Entry"
 audiences: ["adult", "ages_4_7", "ages_8_12", "teen_13_plus"]
 hadith_policy: "sahih_hasan_main"
 translation_note: "English draft translated from the Arabic lesson structure."
-story_policy: "islamic_tradition_or_original_parable"
+story_policy: "original_parable_plus_authenticated_islamic_history"
 ---
 
 # The Calls and Glad Tidings at Entry
@@ -53,6 +53,11 @@ This is an original teaching story.
 
 A child heard the lesson and chose one small good deed for the day. The deed was simple, but it made the meaning of Jannah feel close: kind words, truth, and a heart that remembers Allah.
 
+
+### True Story From Islamic History
+
+Jibril came to the Prophet, peace and blessings be upon him, and told him that Khadijah, may Allah be pleased with her, was coming with food or drink. He told the Prophet to give her salam from her Lord and from Jibril, and to give her glad tidings of a house in Jannah with no noise and no tiredness. This is a great glad tiding for someone who served the deen with patience and love.[^10]
+
 ### Short Questions
 
 - What did we learn about Jannah?
@@ -78,6 +83,11 @@ This lesson teaches that facts about Jannah are meant to change choices. A belie
 This is an original teaching story.
 
 A student remembered the lesson during a difficult choice. Instead of choosing what was easy but wrong, the student chose what pleased Allah and felt the sweetness of faith.
+
+
+### True Story From Islamic History
+
+Khadijah, may Allah be pleased with her, was among the first to believe and support the Prophet, peace and blessings be upon him. Then Jibril came with astonishing news: salam from Allah and from Jibril, and glad tidings of a house in Jannah with no noise and no fatigue. The story teaches that Allah sees quiet patience and sincere service.[^10]
 
 ### Important Vocabulary
 
@@ -106,6 +116,11 @@ For teens, the lesson should become a lens for pressure, ambition, and identity.
 This is an original teaching story.
 
 A teen wrote a private reminder after class: `I am walking toward Jannah.` During the week, that sentence helped with prayer, honesty, and self-control.
+
+
+### True Story From Islamic History
+
+The glad tiding to Khadijah is one of the most tender examples of a reassuring call: salam from the Lord, salam from Jibril, and a promise of a house in Jannah suited to her quiet struggle, with no noise and no fatigue. For teens, it redefines success: people may not see your patience and service, but Allah sees, and His glad tidings are greater than applause.[^10]
 
 ### Discussion Questions
 
@@ -141,3 +156,4 @@ Write a reflection: `What does this lesson ask me to change?`
 [^7]: Ibn al-Qayyim, `Hadi al-Arwah`, the caller of Jannah, https://shamela.ws/book/13652/390
 [^8]: Abu Nu'aym al-Asbahani, `Sifat al-Jannah`, glad tidings and calls, https://shamela.ws/book/21602/103
 [^9]: Abu Nu'aym al-Asbahani, `Sifat al-Jannah`, the great glad tidings at entry, https://shamela.ws/book/21602/374
+[^10]: Sahih al-Bukhari 3820 and Sahih Muslim 2432, the report of Allah's and Jibril's greeting to Khadijah and her glad tidings of a house in Jannah with no noise or fatigue, https://sunnah.com/bukhari:3820 , https://sunnah.com/muslim:2432

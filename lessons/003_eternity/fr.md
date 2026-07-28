@@ -9,7 +9,7 @@ title: "L'éternité de la Jannah et la permanence de ses délices"
 audiences: ["adult", "ages_4_7", "ages_8_12", "teen_13_plus"]
 hadith_policy: "sahih_hasan_main"
 translation_note: "Brouillon français traduit à partir de la structure arabe."
-story_policy: "islamic_tradition_or_original_parable"
+story_policy: "original_parable_plus_authenticated_islamic_history"
 ---
 
 # L'éternité de la Jannah et la permanence de ses délices
@@ -53,6 +53,11 @@ Ceci est une histoire éducative imaginaire.
 
 Un enfant entendit la leçon et choisit une petite bonne action pour la journée. L'action était simple, mais elle rendit le sens de la Jannah proche: des paroles douces, la vérité et un cœur qui se rappelle Allah.
 
+
+### Histoire vraie de l'histoire islamique
+
+Le Prophète, paix et bénédictions sur lui, nous a informés qu'un appel sera lancé aux gens de la Jannah: ils seront en bonne santé sans jamais tomber malades, vivants sans jamais mourir, jeunes sans jamais vieillir, et dans le bienfait sans jamais être malheureux. C'est une vraie bonne nouvelle: la joie de la Jannah ne finit pas.[^7]
+
 ### Questions courtes
 
 - Qu'avons-nous appris sur la Jannah?
@@ -78,6 +83,11 @@ Cette leçon enseigne que les vérités sur la Jannah doivent changer nos choix.
 Ceci est une histoire éducative imaginaire.
 
 Un élève se rappela la leçon au moment d'un choix difficile. Au lieu de choisir ce qui était facile mais mauvais, il choisit ce qui plaît à Allah.
+
+
+### Histoire vraie de l'histoire islamique
+
+Parmi les récits les plus clairs sur l'éternité de la Jannah, le Prophète enseigne qu'un appel annoncera une santé sans maladie, une vie sans mort, une jeunesse sans vieillesse, et un bienfait sans misère. Cet appel change le regard du croyant sur le monde: tout plaisir ici finit, mais la Jannah demeure.[^7]
 
 ### Vocabulaire important
 
@@ -106,6 +116,11 @@ Pour les adolescents, la leçon doit devenir un regard sur la pression, l'ambiti
 Ceci est une histoire éducative imaginaire.
 
 Un adolescent écrivit après le cours: `Je marche vers la Jannah.` Pendant la semaine, cette phrase l'aida dans la prière, l'honnêteté et la maîtrise de soi.
+
+
+### Histoire vraie de l'histoire islamique
+
+Le hadith de l'appel rassemble les sens de l'éternité: pas de maladie, pas de mort, pas de vieillesse et pas de misère. La leçon n'est donc pas seulement intellectuelle; elle soigne la peur humaine de la perte et des fins. Un adolescent qui l'entend comprend que les tentations brèves ne valent pas d'abîmer le chemin vers une joie sans fin.[^7]
 
 ### Questions de discussion
 

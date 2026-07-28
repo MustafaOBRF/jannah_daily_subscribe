@@ -9,7 +9,7 @@ title: "El lugar y la inmensidad de la Jannah"
 audiences: ["adult", "ages_4_7", "ages_8_12", "teen_13_plus"]
 hadith_policy: "sahih_hasan_main"
 translation_note: "Borrador en español traducido a partir de la estructura árabe."
-story_policy: "islamic_tradition_or_original_parable"
+story_policy: "original_parable_plus_authenticated_islamic_history"
 ---
 
 # El lugar y la inmensidad de la Jannah
@@ -53,6 +53,11 @@ Esta es una historia educativa imaginaria.
 
 Un niño escuchó la lección y eligió una pequeña buena acción para el día. Era simple, pero hizo cercano el significado de la Jannah: palabras amables, verdad y un corazón que recuerda a Allah.
 
+
+### Historia verdadera de la historia islámica
+
+Umm Harithah, que Allah esté complacido con ella, preguntó al Profeta, que la paz y las bendiciones sean con él, por su hijo Harithah, que murió en Badr. El Profeta le dijo que la Jannah tiene muchos jardines y que su hijo alcanzó al-Firdaws al-A'la. Así aprendemos que la Jannah es vasta y tiene grandes niveles ante Allah.[^8]
+
 ### Preguntas cortas
 
 - ¿Qué aprendimos sobre la Jannah?
@@ -78,6 +83,11 @@ Esta lección enseña que las verdades sobre la Jannah deben cambiar nuestras de
 Esta es una historia educativa imaginaria.
 
 Un estudiante recordó la lección durante una decisión difícil. En vez de elegir lo fácil pero incorrecto, eligió lo que complace a Allah.
+
+
+### Historia verdadera de la historia islámica
+
+Umm Harithah estaba triste por su hijo, alcanzado por una flecha en Badr, y preguntó al Profeta, que la paz y las bendiciones sean con él, por él. Él le dijo que la Jannah no es un lugar estrecho y único; tiene muchos jardines, y su hijo alcanzó el Firdaws más alto. La amplitud de la Jannah se volvió consuelo y esperanza.[^8]
 
 ### Vocabulario importante
 
@@ -106,6 +116,11 @@ Para adolescentes, la lección debe convertirse en una mirada sobre presión, am
 Esta es una historia educativa imaginaria.
 
 Un adolescente escribió después de clase: `Camino hacia la Jannah.` Durante la semana, esa frase le ayudó con la oración, la honestidad y el autocontrol.
+
+
+### Historia verdadera de la historia islámica
+
+La pregunta de Umm Harithah muestra fe sincera: quería saber el estado de su hijo para ser paciente si estaba en la Jannah. La respuesta del Profeta abrió una puerta de amplitud: hay jardines en la Jannah, y él alcanzó al-Firdaws al-A'la. Para adolescentes, la amplitud de la Jannah no es información de mapa; es una promesa que une paciencia con gran esperanza.[^8]
 
 ### Preguntas de discusión
 
@@ -139,3 +154,4 @@ Escribe una reflexión: `¿Qué me pide cambiar esta lección?`
 [^5]: Ibn al-Qayyim, `Hadi al-Arwah`, on Jannah's vastness, https://shamela.ws/book/13652/181 , https://shamela.ws/book/13652/645
 [^6]: Abu Nu'aym al-Asbahani, `Sifat al-Jannah`, https://shamela.ws/book/21602/61 , https://shamela.ws/book/21602/154
 [^7]: Umar Sulayman al-Ashqar, `al-Jannah wa an-Nar`, https://shamela.ws/book/12714/129 , https://shamela.ws/book/12714/203
+[^8]: Sahih al-Bukhari 2809, relato de Umm Harithah preguntando por su hijo y el Profeta diciendo que alcanzó al-Firdaws al-A'la, https://sunnah.com/bukhari:2809

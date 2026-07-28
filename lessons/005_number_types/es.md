@@ -9,7 +9,7 @@ title: "El número y los tipos de jardines"
 audiences: ["adult", "ages_4_7", "ages_8_12", "teen_13_plus"]
 hadith_policy: "sahih_hasan_main"
 translation_note: "Borrador en español traducido a partir de la estructura árabe."
-story_policy: "islamic_tradition_or_original_parable"
+story_policy: "original_parable_plus_authenticated_islamic_history"
 ---
 
 # El número y los tipos de jardines
@@ -53,6 +53,11 @@ Esta es una historia educativa imaginaria.
 
 Un niño escuchó la lección y eligió una pequeña buena acción para el día. Era simple, pero hizo cercano el significado de la Jannah: palabras amables, verdad y un corazón que recuerda a Allah.
 
+
+### Historia verdadera de la historia islámica
+
+Musa, la paz sea con él, preguntó a su Señor por el rango más bajo de la gente de la Jannah. Allah le informó que la última persona en entrar recibirá aun así un reino enorme y más. Luego Musa preguntó por los rangos más altos, y Allah le habló de un honor que ojos, oídos y corazones no pueden abarcar. La Jannah tiene muchos rangos, y la generosidad de Allah es inmensa.[^8]
+
 ### Preguntas cortas
 
 - ¿Qué aprendimos sobre la Jannah?
@@ -78,6 +83,11 @@ Esta lección enseña que las verdades sobre la Jannah deben cambiar nuestras de
 Esta es una historia educativa imaginaria.
 
 Un estudiante recordó la lección durante una decisión difícil. En vez de elegir lo fácil pero incorrecto, eligió lo que complace a Allah.
+
+
+### Historia verdadera de la historia islámica
+
+En un hadith auténtico, Musa, la paz sea con él, preguntó a Allah por la persona de menor rango en la Jannah. La respuesta asombra el corazón: incluso esa persona recibe un gran reino y lo que desea el alma. Luego preguntó por los más altos, y Allah describió un honor oculto preparado para ellos. La lección es ambición con humildad, no presumir.[^8]
 
 ### Vocabulario importante
 
@@ -106,6 +116,11 @@ Para adolescentes, la lección debe convertirse en una mirada sobre presión, am
 Esta es una historia educativa imaginaria.
 
 Un adolescente escribió después de clase: `Camino hacia la Jannah.` Durante la semana, esa frase le ayudó con la oración, la honestidad y el autocontrol.
+
+
+### Historia verdadera de la historia islámica
+
+La pregunta de Musa muestra un hermoso adab al preguntar por lo invisible: un profeta pregunta a su Señor, y la respuesta llega por revelación. La persona más baja de la Jannah recibe suficiente para llenar el corazón de satisfacción, mientras los más altos tienen lo que ningún corazón humano imagina. Para adolescentes, esto construye ambición limpia: no envidies rangos; pide a Allah de Su favor y obra con sinceridad.[^8]
 
 ### Preguntas de discusión
 
@@ -139,3 +154,4 @@ Escribe una reflexión: `¿Qué me pide cambiar esta lección?`
 [^5]: Ibn al-Qayyim, `Hadi al-Arwah`, on the number of gardens, https://shamela.ws/book/13652/259
 [^6]: Abu Nu'aym al-Asbahani, `Sifat al-Jannah`, https://shamela.ws/book/21602/568
 [^7]: Umar Sulayman al-Ashqar, `al-Jannah wa an-Nar`, degrees of Jannah, https://shamela.ws/book/12714/136
+[^8]: Sahih Muslim 189b, relato de Musa preguntando a Allah por el rango más bajo y el más alto de la gente de la Jannah, https://sunnah.com/muslim:189b

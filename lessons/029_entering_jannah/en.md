@@ -9,7 +9,7 @@ title: "How the People Enter Jannah"
 audiences: ["adult", "ages_4_7", "ages_8_12", "teen_13_plus"]
 hadith_policy: "sahih_hasan_main"
 translation_note: "English draft translated from the Arabic lesson structure."
-story_policy: "islamic_tradition_or_original_parable"
+story_policy: "original_parable_plus_authenticated_islamic_history"
 ---
 
 # How the People Enter Jannah
@@ -53,6 +53,11 @@ This is an original teaching story.
 
 A child heard the lesson and chose one small good deed for the day. The deed was simple, but it made the meaning of Jannah feel close: kind words, truth, and a heart that remembers Allah.
 
+
+### True Story From Islamic History
+
+The Prophet, peace and blessings be upon him, said that he will come to the gate of Jannah on the Day of Resurrection and ask for it to be opened. The keeper will ask who he is, and he will say, Muhammad. The keeper will say he was commanded not to open for anyone before him. Entry into Jannah begins with a great honor for the Prophet.[^2]
+
 ### Short Questions
 
 - What did we learn about Jannah?
@@ -78,6 +83,11 @@ This lesson teaches that facts about Jannah are meant to change choices. A belie
 This is an original teaching story.
 
 A student remembered the lesson during a difficult choice. Instead of choosing what was easy but wrong, the student chose what pleased Allah and felt the sweetness of faith.
+
+
+### True Story From Islamic History
+
+One report about entering Jannah tells us that the Prophet, peace and blessings be upon him, will be the first to seek its opening. He will come to the gate, the keeper will ask who he is, and he will answer, Muhammad. The keeper will say that he was ordered not to open for anyone before him. This teaches that love and following of the Prophet are tied to hope for entry into Jannah.[^2]
 
 ### Important Vocabulary
 
@@ -106,6 +116,11 @@ For teens, the lesson should become a lens for pressure, ambition, and identity.
 This is an original teaching story.
 
 A teen wrote a private reminder after class: `I am walking toward Jannah.` During the week, that sentence helped with prayer, honesty, and self-control.
+
+
+### True Story From Islamic History
+
+The hadith of seeking the gate's opening makes the scene of entry vivid. The Prophet, peace and blessings be upon him, describes a gate, a keeper, and an opening by Allah's command. For teens, this connects prophetic identity to the Hereafter: whoever wants an honored entry should follow Muhammad in faith, character, and obedience.[^2]
 
 ### Discussion Questions
 

@@ -9,7 +9,7 @@ title: "The Names and Reality of Jannah"
 audiences: ["adult", "ages_4_7", "ages_8_12", "teen_13_plus"]
 hadith_policy: "sahih_hasan_main"
 translation_note: "English draft translated from the reviewed Arabic lesson structure."
-story_policy: "islamic_tradition_or_original_parable"
+story_policy: "original_parable_plus_authenticated_islamic_history"
 ---
 
 # The Names and Reality of Jannah
@@ -100,6 +100,11 @@ From that day on, whenever Sami built a beautiful house, he said, "Jannah is mor
 
 On Friday morning, his mother asked Sami to choose one small deed that would remind him of Jannah. Sami thought, then said, "I will begin with salam." He went to his sister and said, "Assalamu alaykum," then helped her gather the pencils that had fallen on the floor. His mother said, "This is a small deed, but it teaches the heart a great path. Whoever loves `Dar as-Salam` tries to make their words peaceful and their hands peaceful." Sami was happy, and he understood that talking about Jannah is not only for stories; it helps a child become kinder and closer to Allah.
 
+
+### True Story From Islamic History
+
+Rabi'ah ibn Ka'b, may Allah be pleased with him, used to serve the Prophet, peace and blessings be upon him. One night he brought water for the Prophet's wudu. The Prophet told him to ask for something, and Rabi'ah asked to be with him in Jannah. The Prophet taught him to help himself toward that by making many prostrations.[^13]
+
 ### Short Questions
 
 - Who created Jannah?
@@ -137,6 +142,11 @@ Then the teacher gave each student a small card. He said, "Write one name of Jan
 At the end of the week, the teacher hung the cards on the classroom board. The board was not just decoration; it was a reminder that the names of Jannah are not only for memorizing, but for action. Whenever the students saw the word "peace," they remembered that their tongues should be calmer. Whenever they saw the word "eternity," they remembered that the bliss of the Hereafter is longer than a short pleasure that ends.
 
 On the day of a test, Yusuf found a small paper on the floor with answers to some questions. He almost opened it, then he saw his card hanging up: `Dar al-Khuld`. He remembered that the grade would end, and that the happiness of cheating is short, while the pleasure of Allah is greater and more lasting. He picked up the paper and gave it to the teacher. No one in the class knew what had happened, but Yusuf felt that one of the names of Jannah had helped him in a real moment. After class he said to himself, "I want a Jannah that does not disappear, so I will not buy it with something that disappears."
+
+
+### True Story From Islamic History
+
+Rabi'ah ibn Ka'b served the Prophet, peace and blessings be upon him. When the Prophet invited him to ask, Rabi'ah chose something greater than wealth: companionship with the Prophet in Jannah. The Prophet did not leave him with a wish only; he gave him a path: frequent sujud. This turns the names and reality of Jannah into daily worship.[^13]
 
 ### Important Vocabulary
 
@@ -178,6 +188,11 @@ Nadir asked, "But how do I live this now?" The teacher said, "Begin with one nam
 Nadir returned home, and the whole world did not change in one night. But one question inside him changed. He no longer asked only, "How do I look in front of people?" He began asking, "Toward which abode am I walking?" After a few weeks, he noticed that some of his replies had become calmer, some of his choices had become cleaner, and his du'a had become higher. In sujud he would say: `Allahumma inni as'aluka al-Firdaws al-a'la` - O Allah, I ask You for the highest Firdaws.
 
 Later, Nadir entered a heated discussion in a group chat. He typed a harsh reply, then stopped before sending it. He remembered `Dar as-Salam`, deleted the hurtful words, and wrote instead: "I think we can disagree respectfully." No one applauded him, and he did not become a hero in people's eyes, but he felt he had defeated a version of himself that wanted victory more than truth. That day he understood that the names of Jannah are not just information to memorize; they are a compass that returns a person to the path when many voices compete for the heart.
+
+
+### True Story From Islamic History
+
+Rabi'ah's story teaches that ambition for Jannah is not fantasy. When he was given a chance to ask, he did not choose status or comfort; he asked for the Prophet's company in Jannah. The Prophet, peace and blessings be upon him, connected that high request to a real discipline: much prostration. Knowing Jannah's names should become prayer, humility, and high du'a.[^13]
 
 ### Discussion Questions
 
@@ -246,3 +261,4 @@ Write one page titled: "Which name of Jannah heals my heart right now?" Begin by
 [^10]: Sahih al-Bukhari 2790, https://sunnah.com/bukhari:2790
 [^11]: Umar Sulayman al-Ashqar, `al-Jannah wa an-Nar`, section: "Jannah has no likeness", https://shamela.ws/book/12714/129
 [^12]: Abu Nu'aym al-Asbahani, `Sifat al-Jannah`, chapter: "Mention of the names of Jannah", https://shamela.ws/book/21602/243
+[^13]: Sahih Muslim 489, the report of Rabi'ah ibn Ka'b asking for the Prophet's company in Jannah and being directed to frequent prostration, https://sunnah.com/muslim:489

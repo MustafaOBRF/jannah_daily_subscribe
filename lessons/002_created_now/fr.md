@@ -9,7 +9,7 @@ title: "La création actuelle de la Jannah"
 audiences: ["adult", "ages_4_7", "ages_8_12", "teen_13_plus"]
 hadith_policy: "sahih_hasan_main"
 translation_note: "Brouillon français traduit à partir de la structure arabe."
-story_policy: "islamic_tradition_or_original_parable"
+story_policy: "original_parable_plus_authenticated_islamic_history"
 ---
 
 # La création actuelle de la Jannah
@@ -56,6 +56,11 @@ Ceci est une histoire éducative imaginaire.
 
 Layla attendait sa grand-mère. Sa mère dit: "Grand-mère t'a préparé un cadeau." Layla ne le voyait pas, mais le cadeau était réel. Quand sa grand-mère arriva avec la boîte, Layla sourit: "Il existait avant que je le voie." Sa mère dit: "La Jannah est bien plus grande. Allah l'a préparée, et nous la Lui demandons même si nous ne la voyons pas maintenant."
 
+
+### Histoire vraie de l'histoire islamique
+
+Pendant la prière de l'éclipse, le Prophète, paix et bénédictions sur lui, vit la Jannah et tendit la main vers une grappe de ses fruits. Après la prière, il informa les Compagnons de ce qu'Allah lui avait montré. Cela enseigne que la Jannah n'est pas une imagination; c'est une demeure invisible réelle qu'Allah a montrée à Son Messager.[^8]
+
 ### Questions courtes
 
 - La Jannah existe-t-elle maintenant?
@@ -81,6 +86,11 @@ Croire en la Jannah inclut croire qu'elle est créée maintenant. Nous n'invento
 Ceci est une histoire éducative imaginaire.
 
 Dans la classe, Umar apprit le mot `préparée`. Plus tard, il faillit tricher à un contrôle, puis se rappela que la Jannah est réelle et préparée pour les gens de la taqwa. Il déchira le papier et choisit la vérité.
+
+
+### Histoire vraie de l'histoire islamique
+
+Lors d'une éclipse à l'époque du Prophète, il dirigea les gens dans une grande prière. Il leur dit ensuite qu'il avait vu la Jannah et avait tendu la main vers une grappe de ses fruits. Il n'en prit rien, mais il leur enseigna que la Jannah est réellement vraie et que la révélation affermit l'invisible dans le cœur.[^8]
 
 ### Vocabulaire important
 
@@ -109,6 +119,11 @@ Croire que la Jannah existe maintenant donne du poids à la foi. L'au-delà n'es
 Ceci est une histoire éducative imaginaire.
 
 Yasir travaillait dur pour l'université et gardait une photo du campus sur son mur. Après avoir entendu le verset `préparée pour les pieux`, il ajouta une note: `Ce n'est pas la destination finale.` Ses objectifs mondains restèrent, mais son cœur fut réordonné.
+
+
+### Histoire vraie de l'histoire islamique
+
+L'incident de l'éclipse relie la croyance à l'adoration. Le Prophète, paix et bénédictions sur lui, vit la Jannah dans un moment de prière et d'humilité, puis enseigna aux gens que ce qu'il avait vu était vrai. Croire que la Jannah existe maintenant ne doit pas devenir un simple débat; cela doit rendre l'invisible plus lourd dans le cœur que la pression du moment.[^8]
 
 ### Questions de discussion
 
@@ -142,3 +157,4 @@ Yasir travaillait dur pour l'université et gardait une photo du campus sur son 
 [^5]: Qur'an, Surah as-Sajdah 32:17, https://quran.com/32/17
 [^6]: Ibn al-Qayyim, `Hadi al-Arwah ila Bilad al-Afrah`, on the present existence of Jannah, https://shamela.ws/book/13652/77
 [^7]: Umar Sulayman al-Ashqar, `al-Jannah wa an-Nar`, chapter: Jannah and the Fire are created, https://shamela.ws/book/12714/3
+[^8]: Sahih al-Bukhari 1052, récit de la prière de l'éclipse où le Prophète vit la Jannah et tendit la main vers une grappe de ses fruits, https://sunnah.com/bukhari:1052

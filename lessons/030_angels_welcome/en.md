@@ -9,7 +9,7 @@ title: "The Angels' Welcome and Greeting"
 audiences: ["adult", "ages_4_7", "ages_8_12", "teen_13_plus"]
 hadith_policy: "sahih_hasan_main"
 translation_note: "English draft translated from the Arabic lesson structure."
-story_policy: "islamic_tradition_or_original_parable"
+story_policy: "original_parable_plus_authenticated_islamic_history"
 ---
 
 # The Angels' Welcome and Greeting
@@ -53,6 +53,11 @@ This is an original teaching story.
 
 A child heard the lesson and chose one small good deed for the day. The deed was simple, but it made the meaning of Jannah feel close: kind words, truth, and a heart that remembers Allah.
 
+
+### True Story From Islamic History
+
+The Qur'an tells us that angels came to Ibrahim, peace be upon him, and greeted him with salam. He returned the greeting and honored them. This story from the prophets teaches that salam is an honored greeting among angels and the righteous, and that the angels' welcome in Jannah carries a great meaning.[^8]
+
 ### Short Questions
 
 - What did we learn about Jannah?
@@ -78,6 +83,11 @@ This lesson teaches that facts about Jannah are meant to change choices. A belie
 This is an original teaching story.
 
 A student remembered the lesson during a difficult choice. Instead of choosing what was easy but wrong, the student chose what pleased Allah and felt the sweetness of faith.
+
+
+### True Story From Islamic History
+
+In the story of Ibrahim, peace be upon him, angel messengers came to him, began with salam, and he returned salam before honoring his guests. The story is not directly about entering Jannah, but it teaches the manners of angels and the dignity of peace. When we hear that angels greet the people of Jannah, we know salam is not a small word; it is honor and safety.[^8]
 
 ### Important Vocabulary
 
@@ -106,6 +116,11 @@ For teens, the lesson should become a lens for pressure, ambition, and identity.
 This is an original teaching story.
 
 A teen wrote a private reminder after class: `I am walking toward Jannah.` During the week, that sentence helped with prayer, honesty, and self-control.
+
+
+### True Story From Islamic History
+
+The story of Ibrahim's guests gives Qur'anic background to the meaning of angelic welcome: salam, calm, and honor. The angels did not enter with chaos, but with greeting, and Ibrahim answered with hospitality. For teens, this connects today's manners to the Hereafter: whoever loves the angels' salam in Jannah should learn the salam of tongue and heart in this world.[^8]
 
 ### Discussion Questions
 
@@ -139,3 +154,4 @@ Write a reflection: `What does this lesson ask me to change?`
 [^5]: Sahih Muslim 197, https://sunnah.com/muslim:197
 [^6]: Abu Nu'aym al-Asbahani, `Sifat al-Jannah`, angels entering with salam, https://shamela.ws/book/21602/110
 [^7]: Umar Sulayman al-Ashqar, `al-Jannah wa an-Nar`, entering Jannah, https://shamela.ws/book/12714/103
+[^8]: Qur'an, Surah Hud 11:69, https://quran.com/11/69 ; Surah adh-Dhariyat 51:24-27, https://quran.com/51/24-27

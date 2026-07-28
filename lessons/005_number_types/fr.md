@@ -9,7 +9,7 @@ title: "Le nombre et les types de jardins"
 audiences: ["adult", "ages_4_7", "ages_8_12", "teen_13_plus"]
 hadith_policy: "sahih_hasan_main"
 translation_note: "Brouillon français traduit à partir de la structure arabe."
-story_policy: "islamic_tradition_or_original_parable"
+story_policy: "original_parable_plus_authenticated_islamic_history"
 ---
 
 # Le nombre et les types de jardins
@@ -53,6 +53,11 @@ Ceci est une histoire éducative imaginaire.
 
 Un enfant entendit la leçon et choisit une petite bonne action pour la journée. L'action était simple, mais elle rendit le sens de la Jannah proche: des paroles douces, la vérité et un cœur qui se rappelle Allah.
 
+
+### Histoire vraie de l'histoire islamique
+
+Moussa, paix sur lui, demanda à son Seigneur quel était le rang le plus bas des gens de la Jannah. Allah lui apprit que le dernier à y entrer recevra tout de même un immense royaume et davantage. Puis Moussa demanda les plus hauts rangs, et Allah lui parla d'un honneur que les yeux, les oreilles et les cœurs ne peuvent saisir. Les degrés de la Jannah sont nombreux, et la générosité d'Allah est vaste.[^8]
+
 ### Questions courtes
 
 - Qu'avons-nous appris sur la Jannah?
@@ -78,6 +83,11 @@ Cette leçon enseigne que les vérités sur la Jannah doivent changer nos choix.
 Ceci est une histoire éducative imaginaire.
 
 Un élève se rappela la leçon au moment d'un choix difficile. Au lieu de choisir ce qui était facile mais mauvais, il choisit ce qui plaît à Allah.
+
+
+### Histoire vraie de l'histoire islamique
+
+Dans un hadith authentique, Moussa, paix sur lui, demanda à Allah quel était le plus bas rang dans la Jannah. La réponse émerveille le cœur: même le plus bas reçoit un grand royaume et ce que l'âme désire. Puis il demanda les plus hauts rangs, et Allah décrivit un honneur caché préparé pour eux. La leçon est l'ambition avec humilité, non la vantardise.[^8]
 
 ### Vocabulaire important
 
@@ -106,6 +116,11 @@ Pour les adolescents, la leçon doit devenir un regard sur la pression, l'ambiti
 Ceci est une histoire éducative imaginaire.
 
 Un adolescent écrivit après le cours: `Je marche vers la Jannah.` Pendant la semaine, cette phrase l'aida dans la prière, l'honnêteté et la maîtrise de soi.
+
+
+### Histoire vraie de l'histoire islamique
+
+La question de Moussa montre un bel adab dans l'interrogation sur l'invisible: un prophète demande à son Seigneur, et la réponse vient par révélation. Le plus bas des gens de la Jannah reçoit de quoi remplir le cœur de satisfaction, tandis que les plus hauts ont ce qu'aucun cœur humain n'imagine. Pour les adolescents, cela construit une ambition pure: ne jalouse pas les rangs; demande à Allah de Sa grâce et agis sincèrement.[^8]
 
 ### Questions de discussion
 
@@ -139,3 +154,4 @@ Un adolescent écrivit après le cours: `Je marche vers la Jannah.` Pendant la s
 [^5]: Ibn al-Qayyim, `Hadi al-Arwah`, on the number of gardens, https://shamela.ws/book/13652/259
 [^6]: Abu Nu'aym al-Asbahani, `Sifat al-Jannah`, https://shamela.ws/book/21602/568
 [^7]: Umar Sulayman al-Ashqar, `al-Jannah wa an-Nar`, degrees of Jannah, https://shamela.ws/book/12714/136
+[^8]: Sahih Muslim 189b, récit de Moussa demandant à Allah quels sont les rangs le plus bas et le plus haut des gens de la Jannah, https://sunnah.com/muslim:189b

@@ -9,7 +9,7 @@ title: "The Gates of Jannah, Their Vastness, and Their Rings"
 audiences: ["adult", "ages_4_7", "ages_8_12", "teen_13_plus"]
 hadith_policy: "sahih_hasan_main"
 translation_note: "English draft translated from the Arabic lesson structure."
-story_policy: "islamic_tradition_or_original_parable"
+story_policy: "original_parable_plus_authenticated_islamic_history"
 ---
 
 # The Gates of Jannah, Their Vastness, and Their Rings
@@ -53,6 +53,11 @@ This is an original teaching story.
 
 A child heard the lesson and chose one small good deed for the day. The deed was simple, but it made the meaning of Jannah feel close: kind words, truth, and a heart that remembers Allah.
 
+
+### True Story From Islamic History
+
+The Prophet, peace and blessings be upon him, taught that people of righteous deeds will be called from gates of Jannah, such as prayer, fasting, and charity. Abu Bakr asked whether anyone would be called from all of them. The Prophet said yes, and hoped Abu Bakr would be among them. Many good deeds open many doors.[^3]
+
 ### Short Questions
 
 - What did we learn about Jannah?
@@ -78,6 +83,11 @@ This lesson teaches that facts about Jannah are meant to change choices. A belie
 This is an original teaching story.
 
 A student remembered the lesson during a difficult choice. Instead of choosing what was easy but wrong, the student chose what pleased Allah and felt the sweetness of faith.
+
+
+### True Story From Islamic History
+
+When the Prophet, peace and blessings be upon him, mentioned the gates of Jannah and the people of prayer, fasting, and charity, Abu Bakr did not think only of one gate. He asked if someone could be called from all the gates. The Prophet said this was possible and hoped it for him. This teaches children to diversify good deeds: prayer, fasting, charity, service, and kindness.[^3]
 
 ### Important Vocabulary
 
@@ -106,6 +116,11 @@ For teens, the lesson should become a lens for pressure, ambition, and identity.
 This is an original teaching story.
 
 A teen wrote a private reminder after class: `I am walking toward Jannah.` During the week, that sentence helped with prayer, honesty, and self-control.
+
+
+### True Story From Islamic History
+
+Abu Bakr's question reveals a soul with high aspiration. The gates of Jannah are not decorative ideas; they are calls connected to real deeds. Whoever longs for ar-Rayyan cares about fasting, whoever longs for the gate of prayer guards prayer, and whoever wants many doors gathers many acts of obedience with sincerity.[^3]
 
 ### Discussion Questions
 

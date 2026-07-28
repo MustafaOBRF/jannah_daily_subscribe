@@ -9,7 +9,7 @@ title: "The Eternity of Jannah and the Permanence of Its Bliss"
 audiences: ["adult", "ages_4_7", "ages_8_12", "teen_13_plus"]
 hadith_policy: "sahih_hasan_main"
 translation_note: "English draft translated from the Arabic lesson structure."
-story_policy: "islamic_tradition_or_original_parable"
+story_policy: "original_parable_plus_authenticated_islamic_history"
 ---
 
 # The Eternity of Jannah and the Permanence of Its Bliss
@@ -53,6 +53,11 @@ This is an original teaching story.
 
 A child heard the lesson and chose one small good deed for the day. The deed was simple, but it made the meaning of Jannah feel close: kind words, truth, and a heart that remembers Allah.
 
+
+### True Story From Islamic History
+
+The Prophet, peace and blessings be upon him, told us that a caller will announce to the people of Jannah that they will be healthy and never sick, alive and never die, young and never grow old, and blessed and never miserable. This is a true glad tiding: Jannah's joy does not end.[^7]
+
 ### Short Questions
 
 - What did we learn about Jannah?
@@ -78,6 +83,11 @@ This lesson teaches that facts about Jannah are meant to change choices. A belie
 This is an original teaching story.
 
 A student remembered the lesson during a difficult choice. Instead of choosing what was easy but wrong, the student chose what pleased Allah and felt the sweetness of faith.
+
+
+### True Story From Islamic History
+
+One of the clearest reports about Jannah's eternity is the Prophet's teaching that a caller will announce health with no sickness after it, life with no death after it, youth with no old age after it, and blessing with no misery after it. That call changes how a believer sees the world: every pleasure here ends, but Jannah remains.[^7]
 
 ### Important Vocabulary
 
@@ -106,6 +116,11 @@ For teens, the lesson should become a lens for pressure, ambition, and identity.
 This is an original teaching story.
 
 A teen wrote a private reminder after class: `I am walking toward Jannah.` During the week, that sentence helped with prayer, honesty, and self-control.
+
+
+### True Story From Islamic History
+
+The hadith of the caller gathers the meanings of eternity: no illness, no death, no aging, and no misery. So the lesson is not merely intellectual; it heals the human fear of loss and endings. A teen who hears this learns that brief temptations are not worth damaging the path to joy that never ends.[^7]
 
 ### Discussion Questions
 

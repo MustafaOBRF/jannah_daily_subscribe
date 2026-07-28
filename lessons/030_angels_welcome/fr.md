@@ -9,7 +9,7 @@ title: "L'accueil des anges et leur salutation"
 audiences: ["adult", "ages_4_7", "ages_8_12", "teen_13_plus"]
 hadith_policy: "sahih_hasan_main"
 translation_note: "Brouillon français traduit à partir de la structure arabe."
-story_policy: "islamic_tradition_or_original_parable"
+story_policy: "original_parable_plus_authenticated_islamic_history"
 ---
 
 # L'accueil des anges et leur salutation
@@ -53,6 +53,11 @@ Ceci est une histoire éducative imaginaire.
 
 Un enfant entendit la leçon et choisit une petite bonne action pour la journée. L'action était simple, mais elle rendit le sens de la Jannah proche: des paroles douces, la vérité et un cœur qui se rappelle Allah.
 
+
+### Histoire vraie de l'histoire islamique
+
+Le Coran nous dit que des anges vinrent à Ibrahim, paix sur lui, et le saluèrent par le salam. Il répondit au salut et les honora. Cette histoire des prophètes enseigne que le salam est une salutation noble chez les anges et les pieux, et que l'accueil des anges dans la Jannah porte un grand sens.[^8]
+
 ### Questions courtes
 
 - Qu'avons-nous appris sur la Jannah?
@@ -78,6 +83,11 @@ Cette leçon enseigne que les vérités sur la Jannah doivent changer nos choix.
 Ceci est une histoire éducative imaginaire.
 
 Un élève se rappela la leçon au moment d'un choix difficile. Au lieu de choisir ce qui était facile mais mauvais, il choisit ce qui plaît à Allah.
+
+
+### Histoire vraie de l'histoire islamique
+
+Dans l'histoire d'Ibrahim, paix sur lui, des messagers anges vinrent à lui, commencèrent par le salam, et il répondit au salam avant d'honorer ses invités. L'histoire ne parle pas directement de l'entrée dans la Jannah, mais elle enseigne les manières des anges et la dignité de la paix. Quand nous entendons que les anges saluent les gens de la Jannah, nous savons que le salam n'est pas un petit mot; c'est honneur et sécurité.[^8]
 
 ### Vocabulaire important
 
@@ -106,6 +116,11 @@ Pour les adolescents, la leçon doit devenir un regard sur la pression, l'ambiti
 Ceci est une histoire éducative imaginaire.
 
 Un adolescent écrivit après le cours: `Je marche vers la Jannah.` Pendant la semaine, cette phrase l'aida dans la prière, l'honnêteté et la maîtrise de soi.
+
+
+### Histoire vraie de l'histoire islamique
+
+L'histoire des invités d'Ibrahim donne un arrière-plan coranique au sens de l'accueil angélique: salam, calme et honneur. Les anges ne sont pas entrés avec agitation, mais avec salutation, et Ibrahim répondit par l'hospitalité. Pour les adolescents, cela relie les manières d'aujourd'hui à l'au-delà: celui qui aime le salam des anges dans la Jannah doit apprendre le salam de la langue et du cœur dans ce monde.[^8]
 
 ### Questions de discussion
 
@@ -139,3 +154,4 @@ Un adolescent écrivit après le cours: `Je marche vers la Jannah.` Pendant la s
 [^5]: Sahih Muslim 197, https://sunnah.com/muslim:197
 [^6]: Abu Nu'aym al-Asbahani, `Sifat al-Jannah`, angels entering with salam, https://shamela.ws/book/21602/110
 [^7]: Umar Sulayman al-Ashqar, `al-Jannah wa an-Nar`, entering Jannah, https://shamela.ws/book/12714/103
+[^8]: Coran, sourate Hud 11:69, https://quran.com/11/69 ; sourate adh-Dhariyat 51:24-27, https://quran.com/51/24-27

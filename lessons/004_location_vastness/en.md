@@ -9,7 +9,7 @@ title: "The Location and Vastness of Jannah"
 audiences: ["adult", "ages_4_7", "ages_8_12", "teen_13_plus"]
 hadith_policy: "sahih_hasan_main"
 translation_note: "English draft translated from the Arabic lesson structure."
-story_policy: "islamic_tradition_or_original_parable"
+story_policy: "original_parable_plus_authenticated_islamic_history"
 ---
 
 # The Location and Vastness of Jannah
@@ -53,6 +53,11 @@ This is an original teaching story.
 
 A child heard the lesson and chose one small good deed for the day. The deed was simple, but it made the meaning of Jannah feel close: kind words, truth, and a heart that remembers Allah.
 
+
+### True Story From Islamic History
+
+Umm Harithah, may Allah be pleased with her, asked the Prophet, peace and blessings be upon him, about her son Harithah, who was killed at Badr. The Prophet told her that Jannah has many gardens, and that her son had reached al-Firdaws al-A'la. So we learn that Jannah is vast and has great stations with Allah.[^8]
+
 ### Short Questions
 
 - What did we learn about Jannah?
@@ -78,6 +83,11 @@ This lesson teaches that facts about Jannah are meant to change choices. A belie
 This is an original teaching story.
 
 A student remembered the lesson during a difficult choice. Instead of choosing what was easy but wrong, the student chose what pleased Allah and felt the sweetness of faith.
+
+
+### True Story From Islamic History
+
+Umm Harithah was grieving for her son, who was struck by an arrow at Badr, so she asked the Prophet, peace and blessings be upon him, about him. He told her that Jannah is not one narrow place; it has many gardens, and her son reached the highest Firdaws. The vastness of Jannah became comfort and hope.[^8]
 
 ### Important Vocabulary
 
@@ -106,6 +116,11 @@ For teens, the lesson should become a lens for pressure, ambition, and identity.
 This is an original teaching story.
 
 A teen wrote a private reminder after class: `I am walking toward Jannah.` During the week, that sentence helped with prayer, honesty, and self-control.
+
+
+### True Story From Islamic History
+
+Umm Harithah's question shows sincere faith: she wanted to know her son's state so she could be patient if he was in Jannah. The Prophet's answer opened a door of vastness: there are gardens in Jannah, and he attained al-Firdaws al-A'la. For teens, the lesson is that Jannah's vastness is not map trivia; it is a promise that connects patience to great hope.[^8]
 
 ### Discussion Questions
 
@@ -139,3 +154,4 @@ Write a reflection: `What does this lesson ask me to change?`
 [^5]: Ibn al-Qayyim, `Hadi al-Arwah`, on Jannah's vastness, https://shamela.ws/book/13652/181 , https://shamela.ws/book/13652/645
 [^6]: Abu Nu'aym al-Asbahani, `Sifat al-Jannah`, https://shamela.ws/book/21602/61 , https://shamela.ws/book/21602/154
 [^7]: Umar Sulayman al-Ashqar, `al-Jannah wa an-Nar`, https://shamela.ws/book/12714/129 , https://shamela.ws/book/12714/203
+[^8]: Sahih al-Bukhari 2809, the report of Umm Harithah asking about her son and the Prophet saying he attained al-Firdaws al-A'la, https://sunnah.com/bukhari:2809

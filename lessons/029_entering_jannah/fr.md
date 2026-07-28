@@ -9,7 +9,7 @@ title: "Comment les gens entreront dans la Jannah"
 audiences: ["adult", "ages_4_7", "ages_8_12", "teen_13_plus"]
 hadith_policy: "sahih_hasan_main"
 translation_note: "Brouillon français traduit à partir de la structure arabe."
-story_policy: "islamic_tradition_or_original_parable"
+story_policy: "original_parable_plus_authenticated_islamic_history"
 ---
 
 # Comment les gens entreront dans la Jannah
@@ -53,6 +53,11 @@ Ceci est une histoire éducative imaginaire.
 
 Un enfant entendit la leçon et choisit une petite bonne action pour la journée. L'action était simple, mais elle rendit le sens de la Jannah proche: des paroles douces, la vérité et un cœur qui se rappelle Allah.
 
+
+### Histoire vraie de l'histoire islamique
+
+Le Prophète, paix et bénédictions sur lui, a dit qu'il viendra à la porte de la Jannah le Jour de la Résurrection et demandera qu'elle soit ouverte. Le gardien demandera qui il est, et il répondra: Muhammad. Le gardien dira qu'il a reçu l'ordre de n'ouvrir à personne avant lui. L'entrée dans la Jannah commence par un grand honneur pour le Prophète.[^2]
+
 ### Questions courtes
 
 - Qu'avons-nous appris sur la Jannah?
@@ -78,6 +83,11 @@ Cette leçon enseigne que les vérités sur la Jannah doivent changer nos choix.
 Ceci est une histoire éducative imaginaire.
 
 Un élève se rappela la leçon au moment d'un choix difficile. Au lieu de choisir ce qui était facile mais mauvais, il choisit ce qui plaît à Allah.
+
+
+### Histoire vraie de l'histoire islamique
+
+Un récit sur l'entrée dans la Jannah nous apprend que le Prophète, paix et bénédictions sur lui, sera le premier à demander son ouverture. Il viendra à la porte, le gardien demandera qui il est, et il répondra: Muhammad. Le gardien dira qu'il a reçu l'ordre de n'ouvrir à personne avant lui. Cela enseigne que l'amour et le suivi du Prophète sont liés à l'espoir d'entrer dans la Jannah.[^2]
 
 ### Vocabulaire important
 
@@ -106,6 +116,11 @@ Pour les adolescents, la leçon doit devenir un regard sur la pression, l'ambiti
 Ceci est une histoire éducative imaginaire.
 
 Un adolescent écrivit après le cours: `Je marche vers la Jannah.` Pendant la semaine, cette phrase l'aida dans la prière, l'honnêteté et la maîtrise de soi.
+
+
+### Histoire vraie de l'histoire islamique
+
+Le hadith de l'ouverture rend la scène d'entrée vivante dans le cœur. Le Prophète, paix et bénédictions sur lui, décrit une porte, un gardien et une ouverture par ordre d'Allah. Pour les adolescents, cela relie l'identité prophétique à l'au-delà: celui qui veut une entrée honorée doit suivre Muhammad dans la foi, le caractère et l'obéissance.[^2]
 
 ### Questions de discussion
 

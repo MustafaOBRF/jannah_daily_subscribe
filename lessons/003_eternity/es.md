@@ -9,7 +9,7 @@ title: "La eternidad de la Jannah y la permanencia de su dicha"
 audiences: ["adult", "ages_4_7", "ages_8_12", "teen_13_plus"]
 hadith_policy: "sahih_hasan_main"
 translation_note: "Borrador en español traducido a partir de la estructura árabe."
-story_policy: "islamic_tradition_or_original_parable"
+story_policy: "original_parable_plus_authenticated_islamic_history"
 ---
 
 # La eternidad de la Jannah y la permanencia de su dicha
@@ -53,6 +53,11 @@ Esta es una historia educativa imaginaria.
 
 Un niño escuchó la lección y eligió una pequeña buena acción para el día. Era simple, pero hizo cercano el significado de la Jannah: palabras amables, verdad y un corazón que recuerda a Allah.
 
+
+### Historia verdadera de la historia islámica
+
+El Profeta, que la paz y las bendiciones sean con él, nos informó que un llamador anunciará a la gente de la Jannah que estarán sanos y nunca enfermarán, vivos y nunca morirán, jóvenes y nunca envejecerán, y bendecidos y nunca serán miserables. Esta es una verdadera buena nueva: la alegría de la Jannah no termina.[^7]
+
 ### Preguntas cortas
 
 - ¿Qué aprendimos sobre la Jannah?
@@ -78,6 +83,11 @@ Esta lección enseña que las verdades sobre la Jannah deben cambiar nuestras de
 Esta es una historia educativa imaginaria.
 
 Un estudiante recordó la lección durante una decisión difícil. En vez de elegir lo fácil pero incorrecto, eligió lo que complace a Allah.
+
+
+### Historia verdadera de la historia islámica
+
+Uno de los relatos más claros sobre la eternidad de la Jannah es la enseñanza del Profeta de que un llamador anunciará salud sin enfermedad, vida sin muerte, juventud sin vejez y bendición sin miseria. Ese llamado cambia la manera en que el creyente mira el mundo: todo placer aquí termina, pero la Jannah permanece.[^7]
 
 ### Vocabulario importante
 
@@ -106,6 +116,11 @@ Para adolescentes, la lección debe convertirse en una mirada sobre presión, am
 Esta es una historia educativa imaginaria.
 
 Un adolescente escribió después de clase: `Camino hacia la Jannah.` Durante la semana, esa frase le ayudó con la oración, la honestidad y el autocontrol.
+
+
+### Historia verdadera de la historia islámica
+
+El hadith del llamador reúne los significados de eternidad: sin enfermedad, sin muerte, sin envejecimiento y sin miseria. Por eso la lección no es solo intelectual; cura el miedo humano a la pérdida y al final. Un adolescente que escucha esto aprende que las tentaciones breves no valen dañar el camino hacia una alegría que no termina.[^7]
 
 ### Preguntas de discusión
 

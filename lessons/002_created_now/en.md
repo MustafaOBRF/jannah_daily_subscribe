@@ -9,7 +9,7 @@ title: "The Creation of Jannah Now"
 audiences: ["adult", "ages_4_7", "ages_8_12", "teen_13_plus"]
 hadith_policy: "sahih_hasan_main"
 translation_note: "English draft translated from the Arabic lesson structure."
-story_policy: "islamic_tradition_or_original_parable"
+story_policy: "original_parable_plus_authenticated_islamic_history"
 ---
 
 # The Creation of Jannah Now
@@ -56,6 +56,11 @@ This is an original teaching story.
 
 Layla was waiting for her grandmother. Her mother said, "Grandmother has prepared a gift for you." Layla could not see it, but the gift was real. When her grandmother arrived with the box, Layla smiled and said, "It was there before I saw it." Her mother said, "Jannah is far greater. Allah has prepared it, and we ask Him for it even though we do not see it now."
 
+
+### True Story From Islamic History
+
+During the eclipse prayer, the Prophet, peace and blessings be upon him, saw Jannah and reached toward a bunch of its fruit. After the prayer he told the Companions what Allah had shown him. This teaches that Jannah is not imagination; it is a real unseen abode Allah showed His Messenger.[^8]
+
 ### Short Questions
 
 - Is Jannah real now?
@@ -81,6 +86,11 @@ Belief in Jannah includes believing that it is created now. We do not make up un
 This is an original teaching story.
 
 In class, Umar learned the word `prepared`. Later, he almost cheated on a test, then remembered that Jannah is real and prepared for the people of taqwa. He tore up the cheating note and chose truth.
+
+
+### True Story From Islamic History
+
+When an eclipse happened in the Prophet's time, he led the people in a great prayer. He later told them that he saw Jannah and stretched his hand toward a bunch of its fruit. He did not take it, but he taught them that Jannah is truly real and that revelation makes the unseen firm in the heart.[^8]
 
 ### Important Vocabulary
 
@@ -109,6 +119,11 @@ Believing that Jannah exists now gives faith weight. The Hereafter is not a vagu
 This is an original teaching story.
 
 Yasir worked hard for college and kept a picture of the campus on his wall. After hearing the ayah `prepared for the righteous`, he added another note: `This is not the final destination.` His worldly goals remained, but his heart was reordered.
+
+
+### True Story From Islamic History
+
+The eclipse incident connects creed to worship. The Prophet, peace and blessings be upon him, saw Jannah in a moment of prayer and humility, then taught the people that what he saw was true. Believing Jannah exists now should not become argument only; it should make the unseen heavier in the heart than the pressure of the moment.[^8]
 
 ### Discussion Questions
 
@@ -142,3 +157,4 @@ Write: `How would my week change if I remembered that Jannah exists now?`
 [^5]: Qur'an, Surah as-Sajdah 32:17, https://quran.com/32/17
 [^6]: Ibn al-Qayyim, `Hadi al-Arwah ila Bilad al-Afrah`, on the present existence of Jannah, https://shamela.ws/book/13652/77
 [^7]: Umar Sulayman al-Ashqar, `al-Jannah wa an-Nar`, chapter: Jannah and the Fire are created, https://shamela.ws/book/12714/3
+[^8]: Sahih al-Bukhari 1052, the eclipse prayer report in which the Prophet saw Jannah and reached toward a bunch of its fruit, https://sunnah.com/bukhari:1052

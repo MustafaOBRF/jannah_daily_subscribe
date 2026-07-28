@@ -9,7 +9,7 @@ title: "Les portes de la Jannah, leur largeur et leurs anneaux"
 audiences: ["adult", "ages_4_7", "ages_8_12", "teen_13_plus"]
 hadith_policy: "sahih_hasan_main"
 translation_note: "Brouillon français traduit à partir de la structure arabe."
-story_policy: "islamic_tradition_or_original_parable"
+story_policy: "original_parable_plus_authenticated_islamic_history"
 ---
 
 # Les portes de la Jannah, leur largeur et leurs anneaux
@@ -53,6 +53,11 @@ Ceci est une histoire éducative imaginaire.
 
 Un enfant entendit la leçon et choisit une petite bonne action pour la journée. L'action était simple, mais elle rendit le sens de la Jannah proche: des paroles douces, la vérité et un cœur qui se rappelle Allah.
 
+
+### Histoire vraie de l'histoire islamique
+
+Le Prophète, paix et bénédictions sur lui, enseigna que les gens des bonnes œuvres seront appelés par les portes de la Jannah, comme la prière, le jeûne et l'aumône. Abu Bakr demanda si quelqu'un serait appelé par toutes ces portes. Le Prophète répondit oui et espéra qu'Abu Bakr en ferait partie. Beaucoup de bonnes œuvres ouvrent beaucoup de portes.[^3]
+
 ### Questions courtes
 
 - Qu'avons-nous appris sur la Jannah?
@@ -78,6 +83,11 @@ Cette leçon enseigne que les vérités sur la Jannah doivent changer nos choix.
 Ceci est une histoire éducative imaginaire.
 
 Un élève se rappela la leçon au moment d'un choix difficile. Au lieu de choisir ce qui était facile mais mauvais, il choisit ce qui plaît à Allah.
+
+
+### Histoire vraie de l'histoire islamique
+
+Quand le Prophète, paix et bénédictions sur lui, mentionna les portes de la Jannah et les gens de la prière, du jeûne et de l'aumône, Abu Bakr ne pensa pas seulement à une porte. Il demanda si quelqu'un pouvait être appelé par toutes les portes. Le Prophète dit que c'était possible et l'espéra pour lui. Cela apprend aux enfants à varier les bonnes œuvres: prière, jeûne, aumône, service et gentillesse.[^3]
 
 ### Vocabulaire important
 
@@ -106,6 +116,11 @@ Pour les adolescents, la leçon doit devenir un regard sur la pression, l'ambiti
 Ceci est une histoire éducative imaginaire.
 
 Un adolescent écrivit après le cours: `Je marche vers la Jannah.` Pendant la semaine, cette phrase l'aida dans la prière, l'honnêteté et la maîtrise de soi.
+
+
+### Histoire vraie de l'histoire islamique
+
+La question d'Abu Bakr révèle une âme à grande aspiration. Les portes de la Jannah ne sont pas des idées décoratives; ce sont des appels liés à de vraies œuvres. Celui qui désire ar-Rayyan prend soin du jeûne, celui qui désire la porte de la prière garde sa prière, et celui qui veut beaucoup de portes réunit beaucoup d'obéissances avec sincérité.[^3]
 
 ### Questions de discussion
 

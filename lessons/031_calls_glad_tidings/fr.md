@@ -9,7 +9,7 @@ title: "Les appels et bonnes nouvelles à l'entrée"
 audiences: ["adult", "ages_4_7", "ages_8_12", "teen_13_plus"]
 hadith_policy: "sahih_hasan_main"
 translation_note: "Brouillon français traduit à partir de la structure arabe."
-story_policy: "islamic_tradition_or_original_parable"
+story_policy: "original_parable_plus_authenticated_islamic_history"
 ---
 
 # Les appels et bonnes nouvelles à l'entrée
@@ -53,6 +53,11 @@ Ceci est une histoire éducative imaginaire.
 
 Un enfant entendit la leçon et choisit une petite bonne action pour la journée. L'action était simple, mais elle rendit le sens de la Jannah proche: des paroles douces, la vérité et un cœur qui se rappelle Allah.
 
+
+### Histoire vraie de l'histoire islamique
+
+Jibril vint au Prophète, paix et bénédictions sur lui, et lui dit que Khadijah, qu'Allah l'agrée, arrivait avec de la nourriture ou une boisson. Il lui dit de transmettre à Khadijah le salam de son Seigneur et de Jibril, et de lui annoncer une maison dans la Jannah sans bruit ni fatigue. C'est une grande bonne nouvelle pour celle qui servit la religion avec patience et amour.[^10]
+
 ### Questions courtes
 
 - Qu'avons-nous appris sur la Jannah?
@@ -78,6 +83,11 @@ Cette leçon enseigne que les vérités sur la Jannah doivent changer nos choix.
 Ceci est une histoire éducative imaginaire.
 
 Un élève se rappela la leçon au moment d'un choix difficile. Au lieu de choisir ce qui était facile mais mauvais, il choisit ce qui plaît à Allah.
+
+
+### Histoire vraie de l'histoire islamique
+
+Khadijah, qu'Allah l'agrée, fut parmi les premières à croire et à soutenir le Prophète, paix et bénédictions sur lui. Puis Jibril vint avec une nouvelle étonnante: salam d'Allah et de Jibril, et bonne nouvelle d'une maison dans la Jannah sans bruit ni fatigue. L'histoire enseigne qu'Allah voit la patience discrète et le service sincère.[^10]
 
 ### Vocabulaire important
 
@@ -106,6 +116,11 @@ Pour les adolescents, la leçon doit devenir un regard sur la pression, l'ambiti
 Ceci est une histoire éducative imaginaire.
 
 Un adolescent écrivit après le cours: `Je marche vers la Jannah.` Pendant la semaine, cette phrase l'aida dans la prière, l'honnêteté et la maîtrise de soi.
+
+
+### Histoire vraie de l'histoire islamique
+
+La bonne nouvelle donnée à Khadijah est l'un des exemples les plus doux d'un appel rassurant: salam du Seigneur, salam de Jibril, et promesse d'une maison dans la Jannah adaptée à son combat discret, sans bruit ni fatigue. Pour les adolescents, cela redéfinit la réussite: les gens ne voient peut-être pas ta patience et ton service, mais Allah voit, et Sa bonne nouvelle est plus grande que les applaudissements.[^10]
 
 ### Questions de discussion
 
@@ -141,3 +156,4 @@ Un adolescent écrivit après le cours: `Je marche vers la Jannah.` Pendant la s
 [^7]: Ibn al-Qayyim, `Hadi al-Arwah`, the caller of Jannah, https://shamela.ws/book/13652/390
 [^8]: Abu Nu'aym al-Asbahani, `Sifat al-Jannah`, glad tidings and calls, https://shamela.ws/book/21602/103
 [^9]: Abu Nu'aym al-Asbahani, `Sifat al-Jannah`, the great glad tidings at entry, https://shamela.ws/book/21602/374
+[^10]: Sahih al-Bukhari 3820 et Sahih Muslim 2432, récit du salut d'Allah et de Jibril à Khadijah et de la bonne nouvelle d'une maison dans la Jannah sans bruit ni fatigue, https://sunnah.com/bukhari:3820 , https://sunnah.com/muslim:2432

@@ -9,7 +9,7 @@ title: "Los llamados y buenas nuevas al entrar"
 audiences: ["adult", "ages_4_7", "ages_8_12", "teen_13_plus"]
 hadith_policy: "sahih_hasan_main"
 translation_note: "Borrador en español traducido a partir de la estructura árabe."
-story_policy: "islamic_tradition_or_original_parable"
+story_policy: "original_parable_plus_authenticated_islamic_history"
 ---
 
 # Los llamados y buenas nuevas al entrar
@@ -53,6 +53,11 @@ Esta es una historia educativa imaginaria.
 
 Un niño escuchó la lección y eligió una pequeña buena acción para el día. Era simple, pero hizo cercano el significado de la Jannah: palabras amables, verdad y un corazón que recuerda a Allah.
 
+
+### Historia verdadera de la historia islámica
+
+Yibril vino al Profeta, que la paz y las bendiciones sean con él, y le dijo que Jadiya, que Allah esté complacido con ella, venía con comida o bebida. Le dijo que le transmitiera salam de su Señor y de Yibril, y que le diera la buena nueva de una casa en la Jannah sin ruido ni cansancio. Esta es una gran buena nueva para quien sirvió la religión con paciencia y amor.[^10]
+
 ### Preguntas cortas
 
 - ¿Qué aprendimos sobre la Jannah?
@@ -78,6 +83,11 @@ Esta lección enseña que las verdades sobre la Jannah deben cambiar nuestras de
 Esta es una historia educativa imaginaria.
 
 Un estudiante recordó la lección durante una decisión difícil. En vez de elegir lo fácil pero incorrecto, eligió lo que complace a Allah.
+
+
+### Historia verdadera de la historia islámica
+
+Jadiya, que Allah esté complacido con ella, fue de las primeras en creer y apoyar al Profeta, que la paz y las bendiciones sean con él. Luego Yibril vino con una noticia asombrosa: salam de Allah y de Yibril, y la buena nueva de una casa en la Jannah sin ruido ni fatiga. La historia enseña que Allah ve la paciencia silenciosa y el servicio sincero.[^10]
 
 ### Vocabulario importante
 
@@ -106,6 +116,11 @@ Para adolescentes, la lección debe convertirse en una mirada sobre presión, am
 Esta es una historia educativa imaginaria.
 
 Un adolescente escribió después de clase: `Camino hacia la Jannah.` Durante la semana, esa frase le ayudó con la oración, la honestidad y el autocontrol.
+
+
+### Historia verdadera de la historia islámica
+
+La buena nueva a Jadiya es uno de los ejemplos más tiernos de un llamado tranquilizador: salam del Señor, salam de Yibril y la promesa de una casa en la Jannah acorde con su lucha silenciosa, sin ruido ni fatiga. Para adolescentes, redefine el éxito: quizá la gente no vea tu paciencia y servicio, pero Allah ve, y Su buena nueva es mayor que cualquier aplauso.[^10]
 
 ### Preguntas de discusión
 
@@ -141,3 +156,4 @@ Escribe una reflexión: `¿Qué me pide cambiar esta lección?`
 [^7]: Ibn al-Qayyim, `Hadi al-Arwah`, the caller of Jannah, https://shamela.ws/book/13652/390
 [^8]: Abu Nu'aym al-Asbahani, `Sifat al-Jannah`, glad tidings and calls, https://shamela.ws/book/21602/103
 [^9]: Abu Nu'aym al-Asbahani, `Sifat al-Jannah`, the great glad tidings at entry, https://shamela.ws/book/21602/374
+[^10]: Sahih al-Bukhari 3820 y Sahih Muslim 2432, relato del saludo de Allah y Yibril a Jadiya y la buena nueva de una casa en la Jannah sin ruido ni fatiga, https://sunnah.com/bukhari:3820 , https://sunnah.com/muslim:2432

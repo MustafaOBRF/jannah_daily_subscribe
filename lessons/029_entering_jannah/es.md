@@ -9,7 +9,7 @@ title: "Cómo entrará la gente en la Jannah"
 audiences: ["adult", "ages_4_7", "ages_8_12", "teen_13_plus"]
 hadith_policy: "sahih_hasan_main"
 translation_note: "Borrador en español traducido a partir de la estructura árabe."
-story_policy: "islamic_tradition_or_original_parable"
+story_policy: "original_parable_plus_authenticated_islamic_history"
 ---
 
 # Cómo entrará la gente en la Jannah
@@ -53,6 +53,11 @@ Esta es una historia educativa imaginaria.
 
 Un niño escuchó la lección y eligió una pequeña buena acción para el día. Era simple, pero hizo cercano el significado de la Jannah: palabras amables, verdad y un corazón que recuerda a Allah.
 
+
+### Historia verdadera de la historia islámica
+
+El Profeta, que la paz y las bendiciones sean con él, dijo que vendrá a la puerta de la Jannah el Día de la Resurrección y pedirá que se abra. El guardián preguntará quién es, y él dirá: Muhammad. El guardián dirá que recibió la orden de no abrir a nadie antes que a él. La entrada a la Jannah comienza con un gran honor para el Profeta.[^2]
+
 ### Preguntas cortas
 
 - ¿Qué aprendimos sobre la Jannah?
@@ -78,6 +83,11 @@ Esta lección enseña que las verdades sobre la Jannah deben cambiar nuestras de
 Esta es una historia educativa imaginaria.
 
 Un estudiante recordó la lección durante una decisión difícil. En vez de elegir lo fácil pero incorrecto, eligió lo que complace a Allah.
+
+
+### Historia verdadera de la historia islámica
+
+Un relato sobre la entrada a la Jannah nos enseña que el Profeta, que la paz y las bendiciones sean con él, será el primero en pedir que se abra. Llegará a la puerta, el guardián preguntará quién es y él responderá: Muhammad. El guardián dirá que se le ordenó no abrir a nadie antes que a él. Esto enseña que amar y seguir al Profeta está unido a la esperanza de entrar en la Jannah.[^2]
 
 ### Vocabulario importante
 
@@ -106,6 +116,11 @@ Para adolescentes, la lección debe convertirse en una mirada sobre presión, am
 Esta es una historia educativa imaginaria.
 
 Un adolescente escribió después de clase: `Camino hacia la Jannah.` Durante la semana, esa frase le ayudó con la oración, la honestidad y el autocontrol.
+
+
+### Historia verdadera de la historia islámica
+
+El hadith de pedir la apertura de la puerta hace viva la escena de entrada. El Profeta, que la paz y las bendiciones sean con él, describe una puerta, un guardián y una apertura por orden de Allah. Para adolescentes, esto conecta la identidad profética con el Más Allá: quien quiere una entrada honrada debe seguir a Muhammad en fe, carácter y obediencia.[^2]
 
 ### Preguntas de discusión
 

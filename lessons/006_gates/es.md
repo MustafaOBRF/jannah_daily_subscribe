@@ -9,7 +9,7 @@ title: "Las puertas de la Jannah, su amplitud y sus aros"
 audiences: ["adult", "ages_4_7", "ages_8_12", "teen_13_plus"]
 hadith_policy: "sahih_hasan_main"
 translation_note: "Borrador en español traducido a partir de la estructura árabe."
-story_policy: "islamic_tradition_or_original_parable"
+story_policy: "original_parable_plus_authenticated_islamic_history"
 ---
 
 # Las puertas de la Jannah, su amplitud y sus aros
@@ -53,6 +53,11 @@ Esta es una historia educativa imaginaria.
 
 Un niño escuchó la lección y eligió una pequeña buena acción para el día. Era simple, pero hizo cercano el significado de la Jannah: palabras amables, verdad y un corazón que recuerda a Allah.
 
+
+### Historia verdadera de la historia islámica
+
+El Profeta, que la paz y las bendiciones sean con él, enseñó que la gente de buenas obras será llamada desde las puertas de la Jannah, como la oración, el ayuno y la caridad. Abu Bakr preguntó si alguien sería llamado desde todas ellas. El Profeta dijo que sí, y esperó que Abu Bakr estuviera entre ellos. Muchas buenas obras abren muchas puertas.[^3]
+
 ### Preguntas cortas
 
 - ¿Qué aprendimos sobre la Jannah?
@@ -78,6 +83,11 @@ Esta lección enseña que las verdades sobre la Jannah deben cambiar nuestras de
 Esta es una historia educativa imaginaria.
 
 Un estudiante recordó la lección durante una decisión difícil. En vez de elegir lo fácil pero incorrecto, eligió lo que complace a Allah.
+
+
+### Historia verdadera de la historia islámica
+
+Cuando el Profeta, que la paz y las bendiciones sean con él, mencionó las puertas de la Jannah y la gente de la oración, el ayuno y la caridad, Abu Bakr no pensó solo en una puerta. Preguntó si alguien podría ser llamado desde todas. El Profeta dijo que era posible y lo esperó para él. Esto enseña a los niños a diversificar el bien: oración, ayuno, caridad, servicio y bondad.[^3]
 
 ### Vocabulario importante
 
@@ -106,6 +116,11 @@ Para adolescentes, la lección debe convertirse en una mirada sobre presión, am
 Esta es una historia educativa imaginaria.
 
 Un adolescente escribió después de clase: `Camino hacia la Jannah.` Durante la semana, esa frase le ayudó con la oración, la honestidad y el autocontrol.
+
+
+### Historia verdadera de la historia islámica
+
+La pregunta de Abu Bakr revela un alma de alta aspiración. Las puertas de la Jannah no son ideas decorativas; son llamados conectados con obras reales. Quien anhela ar-Rayyan cuida el ayuno, quien anhela la puerta de la oración guarda su oración, y quien quiere muchas puertas reúne muchas obediencias con sinceridad.[^3]
 
 ### Preguntas de discusión
 
