@@ -1,6 +1,204 @@
 {
   "lessons": [
     {
+      "slug": "041_palaces",
+      "order": 41,
+      "langs": [
+        "ar",
+        "en",
+        "ur",
+        "fr",
+        "es"
+      ],
+      "titles": {
+        "ar": "قصور الجنة ومساكنها",
+        "en": "041_palaces",
+        "ur": "041_palaces",
+        "fr": "041_palaces",
+        "es": "041_palaces"
+      },
+      "hooks": {
+        "ar": "أن يعرف المتعلم أصل المعنى كما ورد في النصوص الشرعية.",
+        "en": "---",
+        "ur": "---",
+        "fr": "---",
+        "es": "---"
+      },
+      "status": {
+        "ar": "arabic_draft",
+        "en": "",
+        "ur": "",
+        "fr": "",
+        "es": ""
+      },
+      "under_review": true
+    },
+    {
+      "slug": "040_fragrance_weather",
+      "order": 40,
+      "langs": [
+        "ar",
+        "en",
+        "ur",
+        "fr",
+        "es"
+      ],
+      "titles": {
+        "ar": "ريح الجنة ونسيمها واعتدال هوائها",
+        "en": "040_fragrance_weather",
+        "ur": "040_fragrance_weather",
+        "fr": "040_fragrance_weather",
+        "es": "040_fragrance_weather"
+      },
+      "hooks": {
+        "ar": "أن يعرف المتعلم أصل المعنى كما ورد في النصوص الشرعية.",
+        "en": "---",
+        "ur": "---",
+        "fr": "---",
+        "es": "---"
+      },
+      "status": {
+        "ar": "arabic_draft",
+        "en": "",
+        "ur": "",
+        "fr": "",
+        "es": ""
+      },
+      "under_review": true
+    },
+    {
+      "slug": "039_day_night",
+      "order": 39,
+      "langs": [
+        "ar",
+        "en",
+        "ur",
+        "fr",
+        "es"
+      ],
+      "titles": {
+        "ar": "نهار الجنة وبكرها وعشيها",
+        "en": "039_day_night",
+        "ur": "039_day_night",
+        "fr": "039_day_night",
+        "es": "039_day_night"
+      },
+      "hooks": {
+        "ar": "أن يعرف المتعلم أصل المعنى كما ورد في النصوص الشرعية.",
+        "en": "---",
+        "ur": "---",
+        "fr": "---",
+        "es": "---"
+      },
+      "status": {
+        "ar": "arabic_draft",
+        "en": "",
+        "ur": "",
+        "fr": "",
+        "es": ""
+      },
+      "under_review": true
+    },
+    {
+      "slug": "038_light_color",
+      "order": 38,
+      "langs": [
+        "ar",
+        "en",
+        "ur",
+        "fr",
+        "es"
+      ],
+      "titles": {
+        "ar": "نور الجنة ولونها وبياضها",
+        "en": "038_light_color",
+        "ur": "038_light_color",
+        "fr": "038_light_color",
+        "es": "038_light_color"
+      },
+      "hooks": {
+        "ar": "أن يعرف المتعلم أصل المعنى كما ورد في النصوص الشرعية.",
+        "en": "---",
+        "ur": "---",
+        "fr": "---",
+        "es": "---"
+      },
+      "status": {
+        "ar": "arabic_draft",
+        "en": "",
+        "ur": "",
+        "fr": "",
+        "es": ""
+      },
+      "under_review": true
+    },
+    {
+      "slug": "037_construction",
+      "order": 37,
+      "langs": [
+        "ar",
+        "en",
+        "ur",
+        "fr",
+        "es"
+      ],
+      "titles": {
+        "ar": "بناء الجنة ولبنها وحيطانها",
+        "en": "037_construction",
+        "ur": "037_construction",
+        "fr": "037_construction",
+        "es": "037_construction"
+      },
+      "hooks": {
+        "ar": "أن يعرف المتعلم أصل المعنى كما ورد في النصوص الشرعية.",
+        "en": "---",
+        "ur": "---",
+        "fr": "---",
+        "es": "---"
+      },
+      "status": {
+        "ar": "arabic_draft",
+        "en": "",
+        "ur": "",
+        "fr": "",
+        "es": ""
+      },
+      "under_review": true
+    },
+    {
+      "slug": "036_soil",
+      "order": 36,
+      "langs": [
+        "ar",
+        "en",
+        "ur",
+        "fr",
+        "es"
+      ],
+      "titles": {
+        "ar": "أرض الجنة وتربتها وحصباؤها",
+        "en": "036_soil",
+        "ur": "036_soil",
+        "fr": "036_soil",
+        "es": "036_soil"
+      },
+      "hooks": {
+        "ar": "أن يعرف المتعلم أصل المعنى كما ورد في النصوص الشرعية.",
+        "en": "---",
+        "ur": "---",
+        "fr": "---",
+        "es": "---"
+      },
+      "status": {
+        "ar": "arabic_draft",
+        "en": "",
+        "ur": "",
+        "fr": "",
+        "es": ""
+      },
+      "under_review": true
+    },
+    {
       "slug": "031_calls_glad_tidings",
       "order": 31,
       "langs": [
