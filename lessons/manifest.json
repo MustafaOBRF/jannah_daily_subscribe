@@ -4,16 +4,32 @@
       "slug": "031_calls_glad_tidings",
       "order": 31,
       "langs": [
-        "ar"
+        "ar",
+        "en",
+        "ur",
+        "fr",
+        "es"
       ],
       "titles": {
-        "ar": "نِدَاءَاتُ الْجَنَّةِ وَالْبِشَارَاتُ عِنْدَ الدُّخُولِ"
+        "ar": "نِدَاءَاتُ الْجَنَّةِ وَالْبِشَارَاتُ عِنْدَ الدُّخُولِ",
+        "en": "The Calls and Glad Tidings at Entry",
+        "ur": "داخلے کے وقت نداءیں اور بشارتیں",
+        "fr": "Les appels et bonnes nouvelles à l'entrée",
+        "es": "Los llamados y buenas nuevas al entrar"
       },
       "hooks": {
-        "ar": "أن يعرف المتعلم أن أهل الجنة يسمعون نداءات وبشارات عظيمة تثبت لهم الأمن والخلود."
+        "ar": "أن يعرف المتعلم أن أهل الجنة يسمعون نداءات وبشارات عظيمة تثبت لهم الأمن والخلود.",
+        "en": "Understand the main belief of this lesson.",
+        "ur": "اس درس کے بنیادی عقیدے کو سمجھنا۔",
+        "fr": "Comprendre la croyance principale de cette leçon.",
+        "es": "Comprender la creencia principal de esta lección."
       },
       "status": {
-        "ar": "arabic_draft"
+        "ar": "arabic_draft",
+        "en": "translation_draft",
+        "ur": "translation_draft",
+        "fr": "translation_draft",
+        "es": "translation_draft"
       },
       "under_review": true
     },
@@ -21,16 +37,32 @@
       "slug": "030_angels_welcome",
       "order": 30,
       "langs": [
-        "ar"
+        "ar",
+        "en",
+        "ur",
+        "fr",
+        "es"
       ],
       "titles": {
-        "ar": "اسْتِقْبَالُ الْمَلَائِكَةِ وَتَحِيَّتُهُمْ"
+        "ar": "اسْتِقْبَالُ الْمَلَائِكَةِ وَتَحِيَّتُهُمْ",
+        "en": "The Angels' Welcome and Greeting",
+        "ur": "فرشتوں کا استقبال اور سلام",
+        "fr": "L'accueil des anges et leur salutation",
+        "es": "La bienvenida y el saludo de los ángeles"
       },
       "hooks": {
-        "ar": "أن يعرف المتعلم أن من كرامات أهل الجنة استقبال الملائكة لهم بالسلام والبشارة."
+        "ar": "أن يعرف المتعلم أن من كرامات أهل الجنة استقبال الملائكة لهم بالسلام والبشارة.",
+        "en": "Understand the main belief of this lesson.",
+        "ur": "اس درس کے بنیادی عقیدے کو سمجھنا۔",
+        "fr": "Comprendre la croyance principale de cette leçon.",
+        "es": "Comprender la creencia principal de esta lección."
       },
       "status": {
-        "ar": "arabic_draft"
+        "ar": "arabic_draft",
+        "en": "translation_draft",
+        "ur": "translation_draft",
+        "fr": "translation_draft",
+        "es": "translation_draft"
       },
       "under_review": true
     },
@@ -38,16 +70,32 @@
       "slug": "029_entering_jannah",
       "order": 29,
       "langs": [
-        "ar"
+        "ar",
+        "en",
+        "ur",
+        "fr",
+        "es"
       ],
       "titles": {
-        "ar": "كَيْفِيَّةُ دُخُولِ الْجَنَّةِ"
+        "ar": "كَيْفِيَّةُ دُخُولِ الْجَنَّةِ",
+        "en": "How the People Enter Jannah",
+        "ur": "اہل جنّت کا جنّت میں داخل ہونا",
+        "fr": "Comment les gens entreront dans la Jannah",
+        "es": "Cómo entrará la gente en la Jannah"
       },
       "hooks": {
-        "ar": "أن يعرف المتعلم أن دخول الجنة له مشاهد إيمانية عظيمة: فتح الأبواب، الشفاعة، التهذيب، والدخول زمرا."
+        "ar": "أن يعرف المتعلم أن دخول الجنة له مشاهد إيمانية عظيمة: فتح الأبواب، الشفاعة، التهذيب، والدخول زمرا.",
+        "en": "Understand the main belief of this lesson.",
+        "ur": "اس درس کے بنیادی عقیدے کو سمجھنا۔",
+        "fr": "Comprendre la croyance principale de cette leçon.",
+        "es": "Comprender la creencia principal de esta lección."
       },
       "status": {
-        "ar": "arabic_draft"
+        "ar": "arabic_draft",
+        "en": "translation_draft",
+        "ur": "translation_draft",
+        "fr": "translation_draft",
+        "es": "translation_draft"
       },
       "under_review": true
     },
@@ -55,16 +103,32 @@
       "slug": "006_gates",
       "order": 6,
       "langs": [
-        "ar"
+        "ar",
+        "en",
+        "ur",
+        "fr",
+        "es"
       ],
       "titles": {
-        "ar": "أَبْوَابُ الْجَنَّةِ وَسَعَتُهَا وَحِلَقُهَا"
+        "ar": "أَبْوَابُ الْجَنَّةِ وَسَعَتُهَا وَحِلَقُهَا",
+        "en": "The Gates of Jannah, Their Vastness, and Their Rings",
+        "ur": "جنّت کے دروازے، ان کی وسعت اور حلقے",
+        "fr": "Les portes de la Jannah, leur largeur et leurs anneaux",
+        "es": "Las puertas de la Jannah, su amplitud y sus aros"
       },
       "hooks": {
-        "ar": "أن يعرف المتعلم أن للجنة أبوابا، وأن من النصوص الصحيحة ذكر ثمانية أبواب."
+        "ar": "أن يعرف المتعلم أن للجنة أبوابا، وأن من النصوص الصحيحة ذكر ثمانية أبواب.",
+        "en": "Understand the main belief of this lesson.",
+        "ur": "اس درس کے بنیادی عقیدے کو سمجھنا۔",
+        "fr": "Comprendre la croyance principale de cette leçon.",
+        "es": "Comprender la creencia principal de esta lección."
       },
       "status": {
-        "ar": "arabic_draft"
+        "ar": "arabic_draft",
+        "en": "translation_draft",
+        "ur": "translation_draft",
+        "fr": "translation_draft",
+        "es": "translation_draft"
       },
       "under_review": true
     },
@@ -72,16 +136,32 @@
       "slug": "005_number_types",
       "order": 5,
       "langs": [
-        "ar"
+        "ar",
+        "en",
+        "ur",
+        "fr",
+        "es"
       ],
       "titles": {
-        "ar": "عَدَدُ الْجِنَانِ وَأَنْوَاعُهَا"
+        "ar": "عَدَدُ الْجِنَانِ وَأَنْوَاعُهَا",
+        "en": "The Number and Types of Gardens",
+        "ur": "جنتوں کی تعداد اور اقسام",
+        "fr": "Le nombre et les types de jardins",
+        "es": "El número y los tipos de jardines"
       },
       "hooks": {
-        "ar": "أن يعرف المتعلم أن نصوص الوحي تدل على تعدد الجنات وتفاوتها."
+        "ar": "أن يعرف المتعلم أن نصوص الوحي تدل على تعدد الجنات وتفاوتها.",
+        "en": "Understand the main belief of this lesson.",
+        "ur": "اس درس کے بنیادی عقیدے کو سمجھنا۔",
+        "fr": "Comprendre la croyance principale de cette leçon.",
+        "es": "Comprender la creencia principal de esta lección."
       },
       "status": {
-        "ar": "arabic_draft"
+        "ar": "arabic_draft",
+        "en": "translation_draft",
+        "ur": "translation_draft",
+        "fr": "translation_draft",
+        "es": "translation_draft"
       },
       "under_review": true
     },
@@ -89,16 +169,32 @@
       "slug": "004_location_vastness",
       "order": 4,
       "langs": [
-        "ar"
+        "ar",
+        "en",
+        "ur",
+        "fr",
+        "es"
       ],
       "titles": {
-        "ar": "مَكَانُ الْجَنَّةِ وَسَعَتُهَا"
+        "ar": "مَكَانُ الْجَنَّةِ وَسَعَتُهَا",
+        "en": "The Location and Vastness of Jannah",
+        "ur": "جنّت کا مقام اور اس کی وسعت",
+        "fr": "Le lieu et l'immensité de la Jannah",
+        "es": "El lugar y la inmensidad de la Jannah"
       },
       "hooks": {
-        "ar": "أن يعرف المتعلم أن الجنة دار عظيمة واسعة، فوق مقاييس الدنيا وخيالها."
+        "ar": "أن يعرف المتعلم أن الجنة دار عظيمة واسعة، فوق مقاييس الدنيا وخيالها.",
+        "en": "Understand the main belief of this lesson.",
+        "ur": "اس درس کے بنیادی عقیدے کو سمجھنا۔",
+        "fr": "Comprendre la croyance principale de cette leçon.",
+        "es": "Comprender la creencia principal de esta lección."
       },
       "status": {
-        "ar": "arabic_draft"
+        "ar": "arabic_draft",
+        "en": "translation_draft",
+        "ur": "translation_draft",
+        "fr": "translation_draft",
+        "es": "translation_draft"
       },
       "under_review": true
     },
@@ -106,16 +202,32 @@
       "slug": "003_eternity",
       "order": 3,
       "langs": [
-        "ar"
+        "ar",
+        "en",
+        "ur",
+        "fr",
+        "es"
       ],
       "titles": {
-        "ar": "خُلُودُ الْجَنَّةِ وَبَقَاءُ نَعِيمِهَا"
+        "ar": "خُلُودُ الْجَنَّةِ وَبَقَاءُ نَعِيمِهَا",
+        "en": "The Eternity of Jannah and the Permanence of Its Bliss",
+        "ur": "جنّت کی ابدیت اور اس کی نعمتوں کا باقی رہنا",
+        "fr": "L'éternité de la Jannah et la permanence de ses délices",
+        "es": "La eternidad de la Jannah y la permanencia de su dicha"
       },
       "hooks": {
-        "ar": "أن يعرف المتعلم أن الجنة دار بقاء لا دار فناء."
+        "ar": "أن يعرف المتعلم أن الجنة دار بقاء لا دار فناء.",
+        "en": "Understand the main belief of this lesson.",
+        "ur": "اس درس کے بنیادی عقیدے کو سمجھنا۔",
+        "fr": "Comprendre la croyance principale de cette leçon.",
+        "es": "Comprender la creencia principal de esta lección."
       },
       "status": {
-        "ar": "arabic_draft"
+        "ar": "arabic_draft",
+        "en": "translation_draft",
+        "ur": "translation_draft",
+        "fr": "translation_draft",
+        "es": "translation_draft"
       },
       "under_review": true
     },
@@ -123,16 +235,32 @@
       "slug": "002_created_now",
       "order": 2,
       "langs": [
-        "ar"
+        "ar",
+        "en",
+        "ur",
+        "fr",
+        "es"
       ],
       "titles": {
-        "ar": "خَلْقُ الْجَنَّةِ الآن"
+        "ar": "خَلْقُ الْجَنَّةِ الآن",
+        "en": "The Creation of Jannah Now",
+        "ur": "جنّت ابھی مخلوق ہے",
+        "fr": "La création actuelle de la Jannah",
+        "es": "La creación actual de la Jannah"
       },
       "hooks": {
-        "ar": "أن يعرف المتعلم أن الجنة مخلوقة موجودة الآن، أعدها الله لعباده المتقين."
+        "ar": "أن يعرف المتعلم أن الجنة مخلوقة موجودة الآن، أعدها الله لعباده المتقين.",
+        "en": "Know that Jannah is already created and present, prepared by Allah for the people of taqwa.",
+        "ur": "یہ جاننا کہ جنّت ابھی مخلوق اور موجود ہے، اللہ نے اسے اہل تقویٰ کے لیے تیار کیا ہے۔",
+        "fr": "Savoir que la Jannah est déjà créée et présente, préparée par Allah pour les gens de la taqwa.",
+        "es": "Saber que la Jannah ya está creada y existe ahora, preparada por Allah para la gente de taqwa."
       },
       "status": {
-        "ar": "arabic_draft"
+        "ar": "arabic_draft",
+        "en": "translation_draft",
+        "ur": "translation_draft",
+        "fr": "translation_draft",
+        "es": "translation_draft"
       },
       "under_review": true
     },
@@ -147,7 +275,7 @@
         "es"
       ],
       "titles": {
-        "ar": "أسماء الجنة وحقيقتها",
+        "ar": "أَسْمَاءُ الْجَنَّةِ وَحَقِيقَتُهَا",
         "en": "The Names and Reality of Jannah",
         "ur": "جنّت کے نام اور اس کی حقیقت",
         "fr": "Les noms et la réalité de la Jannah",

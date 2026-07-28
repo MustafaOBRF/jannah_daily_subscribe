@@ -4,14 +4,14 @@ topic_id: "jannah.001"
 translation_key: "jannah.names_reality"
 lang: "ar"
 status: "arabic_reviewed"
-title: "أسماء الجنة وحقيقتها"
+title: "أَسْمَاءُ الْجَنَّةِ وَحَقِيقَتُهَا"
 audiences: ["adult", "ages_4_7", "ages_8_12", "teen_13_plus"]
 hadith_policy: "sahih_hasan_main"
 tashkeel_scope: "texts_only"
 story_policy: "islamic_tradition_or_original_parable"
 ---
 
-# أسماء الجنة وحقيقتها
+# أَسْمَاءُ الْجَنَّةِ وَحَقِيقَتُهَا
 
 ## أهداف الدرس
 
