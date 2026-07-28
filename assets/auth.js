@@ -12,6 +12,13 @@
   window.sb = window.supabase.createClient(window.SUPABASE_URL, window.SUPABASE_ANON_KEY);
 })();
 
+/** Escape for interpolation into innerHTML. app.js has its own copy (esc); this file
+ *  loads first and must not depend on it. */
+function escAttr(s) {
+  return String(s == null ? "" : s).replace(/[&<>"']/g, (c) =>
+    ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
+}
+
 async function currentSession() {
   const { data } = await window.sb.auth.getSession();
   return data.session;
@@ -30,8 +37,14 @@ function renderAuthBar(session) {
   const bar = document.getElementById("authbar");
   if (!bar) return;
   const email = session?.user?.email || "";
-  bar.innerHTML =
-    `<span class="authuser">${email}</span>` +
+  // Any non-prod environment gets a visible badge -- staging and production look
+  // identical otherwise, and mistaking one for the other is how test data ends up
+  // in the live database.
+  const env = window.SUPABASE_ENV || "";
+  const badge = env && env !== "prod"
+    ? `<span class="envbadge">${escAttr(env)}</span>` : "";
+  bar.innerHTML = badge +
+    `<span class="authuser">${escAttr(email)}</span>` +
     `<button id="logoutbtn" class="linkbtn" type="button">تسجيل الخروج</button>`;
   document.getElementById("logoutbtn").onclick = async () => {
     await window.sb.auth.signOut();

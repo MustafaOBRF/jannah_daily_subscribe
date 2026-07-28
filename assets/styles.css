@@ -18,6 +18,16 @@ ul.lessons li { margin: .4rem 0; }
 ul.lessons a { display: flex; gap: .8rem; align-items: flex-start; text-decoration: none; color: inherit;
   background: #fff; border: 1px solid var(--line); border-radius: 10px; padding: .8rem 1rem; }
 ul.lessons a:hover { border-color: var(--accent); }
+
+/* Completion checkbox: a sibling of the row link, never inside it. */
+li.lrow { display: flex; align-items: center; gap: .6rem; }
+li.lrow > a { flex: 1 1 auto; min-width: 0; }
+.donebox { flex: 0 0 auto; width: 1.4rem; height: 1.4rem; margin: 0; cursor: pointer;
+  accent-color: var(--accent); }
+.donebox:disabled { cursor: default; opacity: .5; }
+/* Finished lessons recede without disappearing. */
+li.lrow.done > a { opacity: .6; }
+li.lrow.done .d { color: var(--muted); }
 /* Lesson number: compact on phones (mobile-first)… */
 .d { color: var(--muted); font-variant-numeric: tabular-nums; font-size: .85rem; padding-top: .15rem;
      flex: 0 0 auto; }
@@ -76,10 +86,37 @@ details.sec[open] > summary::before { transform: rotate(90deg); }
 
 .status-msg { color: var(--muted); padding: 2rem 0; }
 
+/* Progress: counter + bar on the index, complete button on a lesson */
+.progress { margin: 1rem 0 1.2rem; }
+.progress:empty { margin: 0; }
+.progress-line { margin: 0; font-weight: 600; font-size: .95rem; }
+.progress-line + .progress-line { color: var(--muted); font-weight: 400; font-size: .85rem; }
+/* Percentage width, so the fill grows from the start edge in both directions. */
+.progressbar { margin-top: .5rem; height: .5rem; background: var(--line); border-radius: 999px;
+  overflow: hidden; }
+.progressbar > span { display: block; height: 100%; background: var(--accent);
+  border-radius: 999px; transition: width .2s; }
+
+.lesson-done { margin: 2rem 0 .5rem; text-align: center; }
+.donebtn { border: 1px solid var(--accent); background: #fff; color: var(--accent);
+  padding: .6rem 1.2rem; border-radius: 999px; cursor: pointer; font: inherit; }
+.donebtn:hover { background: #e6f4ee; }
+.donebtn.is-done { background: var(--accent); color: #fff; }
+.donebtn:disabled { opacity: .6; cursor: default; }
+
+/* Inline save failure (hidden until progressError() shows it) */
+.progress-err { display: none; margin: .6rem 0; padding: .6rem .8rem; border-radius: 8px;
+  background: #fbe9e7; color: #9a2b1f; font-size: .9rem; }
+.progress-err.show { display: block; }
+
 /* Auth: account bar on gated pages */
 .authbar { display: flex; justify-content: flex-end; align-items: center; gap: .6rem;
   min-height: 1.5rem; font-size: .85rem; color: var(--muted); margin-bottom: .5rem; }
 .authuser { color: var(--muted); }
+/* Non-prod environment badge — deliberately loud, so staging is never mistaken for live. */
+.envbadge { background: #9a2b1f; color: #fff; font-weight: 700; text-transform: uppercase;
+  letter-spacing: .04em; font-size: .7rem; padding: .15rem .5rem; border-radius: 999px;
+  margin-inline-end: .2rem; }
 .linkbtn { background: none; border: 0; color: var(--accent); cursor: pointer; font: inherit;
   padding: 0; text-decoration: underline; }
 

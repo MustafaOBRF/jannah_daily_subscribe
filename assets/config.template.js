@@ -15,6 +15,6 @@
  * boundary, and the members table is locked to service_role. NEVER put the
  * service_role key here.
  */
-window.SUPABASE_URL = "https://fjjtkdcitwjkkxjhdple.supabase.co";
-window.SUPABASE_ANON_KEY = "sb_publishable_YdVmhe9wnxX9ZEBnNsRvcQ_sfVdEaEB";
-window.SUPABASE_ENV = "prod";
+window.SUPABASE_URL = "{{SUPABASE_URL}}";
+window.SUPABASE_ANON_KEY = "{{SUPABASE_ANON_KEY}}";
+window.SUPABASE_ENV = "{{ENV_NAME}}";
