@@ -11,25 +11,25 @@
         "es"
       ],
       "titles": {
-        "ar": "قصور الجنة ومساكنها",
-        "en": "041_palaces",
-        "ur": "041_palaces",
-        "fr": "041_palaces",
-        "es": "041_palaces"
+        "ar": "مَسَاكِنُ الْجَنَّةِ وَبَيْتُ السَّلَامِ",
+        "en": "Homes of Peace in Jannah: Palaces Built by Sincerity",
+        "ur": "جنت کے امن والے گھر: اخلاص سے بنے محل",
+        "fr": "Les demeures de paix au Jannah : des palais bâtis par la sincérité",
+        "es": "Moradas de paz en el Jannah: palacios construidos con sinceridad"
       },
       "hooks": {
-        "ar": "أن يعرف المتعلم أصل المعنى كما ورد في النصوص الشرعية.",
-        "en": "---",
-        "ur": "---",
-        "fr": "---",
-        "es": "---"
+        "ar": "أن يعرف المتعلم أن مساكن الجنة حق ثابت في القرآن والسنة، وأن وصفها من الغيب الذي نؤمن به بتعظيم وأدب.",
+        "en": "Know that the homes of Jannah are a true part of the Qur'an and Sunnah, and that their reality belongs to the unseen.",
+        "ur": "یہ جاننا کہ جنت کے گھر قرآن و سنت سے ثابت حق ہیں، اور ان کی حقیقت غیب میں سے ہے۔",
+        "fr": "Savoir que les demeures du Jannah sont une vérité établie dans le Coran et la Sunnah, et que leur réalité appartient à l'invisible.",
+        "es": "Saber que las moradas del Jannah son una verdad establecida en el Corán y la Sunnah, y que su realidad pertenece a lo invisible."
       },
       "status": {
         "ar": "arabic_draft",
-        "en": "",
-        "ur": "",
-        "fr": "",
-        "es": ""
+        "en": "translation_draft",
+        "ur": "translation_draft",
+        "fr": "translation_draft",
+        "es": "translation_draft"
       },
       "under_review": true
     },
@@ -44,25 +44,25 @@
         "es"
       ],
       "titles": {
-        "ar": "ريح الجنة ونسيمها واعتدال هوائها",
-        "en": "040_fragrance_weather",
-        "ur": "040_fragrance_weather",
-        "fr": "040_fragrance_weather",
-        "es": "040_fragrance_weather"
+        "ar": "نَسِيمُ الْجَنَّةِ وَرِيحُهَا الطَّيِّبَةُ",
+        "en": "The Breeze of Jannah: Comfort, Fragrance, and True Longing",
+        "ur": "جنت کی نسیم: راحت، خوشبو اور سچی طلب",
+        "fr": "La brise du Jannah : repos, parfum et désir sincère",
+        "es": "La brisa del Jannah: descanso, perfume y anhelo sincero"
       },
       "hooks": {
-        "ar": "أن يعرف المتعلم أصل المعنى كما ورد في النصوص الشرعية.",
-        "en": "---",
-        "ur": "---",
-        "fr": "---",
-        "es": "---"
+        "ar": "أن يعرف المتعلم أن راحة الجنة تشمل المكان والهواء والطيب، مع تنزيهها عن أذى الحر والبرد.",
+        "en": "Understand that Jannah's comfort includes place, air, and fragrance, with no harmful heat or bitter cold.",
+        "ur": "طالب علم یہ سمجھے کہ جنت کی راحت جگہ، ہوا اور خوشبو کو بھی شامل ہے، وہاں نقصان دینے والی گرمی یا سخت سردی نہیں۔",
+        "fr": "Comprendre que le repos du Jannah inclut le lieu, l'air et le parfum, sans chaleur nuisible ni froid mordant.",
+        "es": "Comprender que el descanso del Jannah incluye lugar, aire y perfume, sin calor dañino ni frío amargo."
       },
       "status": {
         "ar": "arabic_draft",
-        "en": "",
-        "ur": "",
-        "fr": "",
-        "es": ""
+        "en": "translation_draft",
+        "ur": "translation_draft",
+        "fr": "translation_draft",
+        "es": "translation_draft"
       },
       "under_review": true
     },
@@ -77,25 +77,25 @@
         "es"
       ],
       "titles": {
-        "ar": "نهار الجنة وبكرها وعشيها",
-        "en": "039_day_night",
-        "ur": "039_day_night",
-        "fr": "039_day_night",
-        "es": "039_day_night"
+        "ar": "بُكْرَةُ الْجَنَّةِ وَعَشِيُّهَا: وَقْتٌ بِلَا تَعَبٍ",
+        "en": "Morning and Evening in Jannah: Time Without Weariness",
+        "ur": "جنت کی صبح و شام: تھکن کے بغیر وقت",
+        "fr": "Matin et soir au Jannah : le temps sans fatigue",
+        "es": "Mañana y tarde en el Jannah: tiempo sin cansancio"
       },
       "hooks": {
-        "ar": "أن يعرف المتعلم أصل المعنى كما ورد في النصوص الشرعية.",
-        "en": "---",
-        "ur": "---",
-        "fr": "---",
-        "es": "---"
+        "ar": "أن يعرف المتعلم أن ذكر البكرة والعشي في الجنة ثابت في القرآن والسنة، لكن كيفية الزمن هناك من الغيب.",
+        "en": "Understand that morning and evening in Jannah are mentioned in the Qur'an and Sunnah, while the exact reality of time there belongs to the unseen.",
+        "ur": "طالب علم یہ سمجھے کہ جنت میں صبح و شام کا ذکر قرآن و سنت میں ثابت ہے، مگر وہاں وقت کی حقیقت غیب سے ہے۔",
+        "fr": "Comprendre que le matin et le soir au Jannah sont mentionnés dans le Coran et la Sunnah, tandis que la réalité exacte du temps là-bas relève de l'invisible.",
+        "es": "Comprender que la mañana y la tarde en el Jannah se mencionan en el Corán y la Sunnah, mientras que la realidad exacta del tiempo allí pertenece a lo oculto."
       },
       "status": {
         "ar": "arabic_draft",
-        "en": "",
-        "ur": "",
-        "fr": "",
-        "es": ""
+        "en": "translation_draft",
+        "ur": "translation_draft",
+        "fr": "translation_draft",
+        "es": "translation_draft"
       },
       "under_review": true
     },
@@ -110,25 +110,25 @@
         "es"
       ],
       "titles": {
-        "ar": "نور الجنة ولونها وبياضها",
-        "en": "038_light_color",
-        "ur": "038_light_color",
-        "fr": "038_light_color",
-        "es": "038_light_color"
+        "ar": "نُورُ الْجَنَّةِ وَبَهَاءُ أَهْلِهَا",
+        "en": "The Light of Jannah: Beauty That Begins in the Heart",
+        "ur": "جنت کا نور: وہ حسن جو دل سے شروع ہوتا ہے",
+        "fr": "La lumière du Jannah : une beauté qui commence dans le cœur",
+        "es": "La luz del Jannah: belleza que empieza en el corazón"
       },
       "hooks": {
-        "ar": "أن يعرف المتعلم أصل المعنى كما ورد في النصوص الشرعية.",
-        "en": "---",
-        "ur": "---",
-        "fr": "---",
-        "es": "---"
+        "ar": "أن يعرف المتعلم أن نور الجنة من الغيب الذي لا يشبه أنوار الدنيا ولا يختصر في صورة أو لون.",
+        "en": "Understand that Jannah's light belongs to the unseen and is not like worldly lights, colors, or images.",
+        "ur": "طالب علم یہ سمجھے کہ جنت کا نور غیب سے ہے، دنیا کی روشنیوں، رنگوں یا تصویروں جیسا نہیں۔",
+        "fr": "Comprendre que la lumière du Jannah relève de l'invisible et ne ressemble pas aux lumières, couleurs ou images de ce monde.",
+        "es": "Comprender que la luz del Jannah pertenece a lo oculto y no se parece a las luces, colores o imágenes de este mundo."
       },
       "status": {
         "ar": "arabic_draft",
-        "en": "",
-        "ur": "",
-        "fr": "",
-        "es": ""
+        "en": "translation_draft",
+        "ur": "translation_draft",
+        "fr": "translation_draft",
+        "es": "translation_draft"
       },
       "under_review": true
     },
@@ -143,25 +143,25 @@
         "es"
       ],
       "titles": {
-        "ar": "بناء الجنة ولبنها وحيطانها",
-        "en": "037_construction",
-        "ur": "037_construction",
-        "fr": "037_construction",
-        "es": "037_construction"
+        "ar": "بِنَاءُ الْجَنَّةِ وَبَيْتُ الْإِخْلَاصِ",
+        "en": "Building for Allah: Jannah's Homes and the Architecture of Sincerity",
+        "ur": "اللہ کے لیے تعمیر: جنت کے گھر اور اخلاص",
+        "fr": "Bâtir pour Allah : les demeures du Jannah et la sincérité",
+        "es": "Construir para Allah: hogares del Jannah y sinceridad"
       },
       "hooks": {
-        "ar": "أن يعرف المتعلم أصل المعنى كما ورد في النصوص الشرعية.",
-        "en": "---",
-        "ur": "---",
-        "fr": "---",
-        "es": "---"
+        "ar": "أن يعرف المتعلم أن بناء الجنة من الغيب الذي نؤمن به كما ورد، مع ترك التوسع في تفاصيل لا تثبت.",
+        "en": "Understand that Jannah's construction belongs to the unseen, so we believe what is authentically reported and avoid building lessons on unstable details.",
+        "ur": "طالب علم یہ سمجھے کہ جنت کی تعمیر غیب کا معاملہ ہے؛ ہم اسی بات پر ایمان رکھتے ہیں جو معتبر طور پر ثابت ہو، اور کمزور تفصیلات پر سبق کی بنیاد نہیں رکھتے۔",
+        "fr": "Comprendre que la construction du Jannah releve de l'invisible: on croit ce qui est authentiquement rapporte et on evite de fonder la lecon sur des details instables.",
+        "es": "Comprender que la construccion del Jannah pertenece a lo oculto: creemos lo que esta autenticamente transmitido y evitamos basar la leccion en detalles inestables."
       },
       "status": {
         "ar": "arabic_draft",
-        "en": "",
-        "ur": "",
-        "fr": "",
-        "es": ""
+        "en": "translation_draft",
+        "ur": "translation_draft",
+        "fr": "translation_draft",
+        "es": "translation_draft"
       },
       "under_review": true
     },
@@ -176,25 +176,25 @@
         "es"
       ],
       "titles": {
-        "ar": "أرض الجنة وتربتها وحصباؤها",
-        "en": "036_soil",
-        "ur": "036_soil",
-        "fr": "036_soil",
-        "es": "036_soil"
+        "ar": "أَرْضُ الْجَنَّةِ وَتُرْبَتُهَا وَحَصْبَاؤُهَا",
+        "en": "Jannah Beneath Our Feet: Pure Ground and Musk-Scented Soil",
+        "ur": "جنت کی طرف ہمارے قدم: پاک زمین اور مشک والی مٹی",
+        "fr": "Sous nos pas vers le Jannah : une terre pure au parfum de musc",
+        "es": "Bajo nuestros pasos hacia el Jannah: tierra pura con perfume de almizcle"
       },
       "hooks": {
-        "ar": "أن يعرف المتعلم أصل المعنى كما ورد في النصوص الشرعية.",
-        "en": "---",
-        "ur": "---",
-        "fr": "---",
-        "es": "---"
+        "ar": "أن يعرف المتعلم أن أرض الجنة وتربتها من الغيب الحق، نؤمن بها كما جاءت في النصوص، ولا نقيسها على تراب الدنيا.",
+        "en": "Understand that the ground and soil of Jannah are part of the true unseen: we believe what the texts say without measuring them by worldly soil.",
+        "ur": "یہ سمجھنا کہ جنت کی زمین اور مٹی غیب کی سچی باتوں میں سے ہیں: ہم نصوص پر ایمان رکھتے ہیں، انہیں دنیا کی مٹی پر قیاس نہیں کرتے۔",
+        "fr": "Comprendre que le sol et la terre du Jannah relèvent de l'invisible vrai : nous croyons ce que les textes disent sans les mesurer à la terre d'ici-bas.",
+        "es": "Comprender que el suelo y la tierra del Jannah pertenecen al verdadero mundo oculto: creemos lo que dicen los textos sin medirlo con la tierra de este mundo."
       },
       "status": {
         "ar": "arabic_draft",
-        "en": "",
-        "ur": "",
-        "fr": "",
-        "es": ""
+        "en": "translation_draft",
+        "ur": "translation_draft",
+        "fr": "translation_draft",
+        "es": "translation_draft"
       },
       "under_review": true
     },
