@@ -57,8 +57,12 @@ function date(iso) {
 }
 
 function bar(done, total) {
-  const pct = total > 0 ? Math.round((done / total) * 100) : 0;
-  return `<span class="minibar" title="${pct}%"><span style="width:${pct}%"></span></span>`;
+  const raw = total > 0 ? Math.round((done / total) * 100) : 0;
+  // Clamp. The Lessons tab divides a real SQL count by a member total; if those
+  // ever disagree (a stale total, or a lesson completed more times than there are
+  // current accounts) an unclamped width renders as a bar shooting off the row.
+  const pct = Math.max(0, Math.min(100, raw));
+  return `<span class="minibar" title="${raw}%"><span style="width:${pct}%"></span></span>`;
 }
 
 /** Truncate a user agent to something readable in a cell. */
@@ -218,7 +222,14 @@ function renderStats() {
 function renderTabs() {
   const el = document.getElementById("tabs");
   el.innerHTML = TABS.map((t) => {
-    const n = (DATA[t.key] || []).length;
+    // Show the true total on the badge where we know it, not the length of the
+    // page we happen to be holding -- otherwise the Members tab reads "1000"
+    // forever once the list exceeds the row cap.
+    const shown = (DATA[t.key] || []).length;
+    const real = t.key === "members" ? DATA.totals?.members
+               : t.key === "subscribers" ? DATA.totals?.subscribers
+               : null;
+    const n = (typeof real === "number" && real > shown) ? `${shown} / ${real}` : shown;
     return `<button class="langbtn${t.key === activeTab ? " active" : ""}" data-tab="${t.key}">` +
            `${t.label} <span class="tabn">${n}</span></button>`;
   }).join("");
@@ -382,9 +393,18 @@ function renderTable() {
     ? ` · <button type="button" id="rawtoggle" class="linkbtn">` +
       `${showRaw ? "hide" : "show"} raw audit payload</button>`
     : "";
+  // Say so when the table is only part of the data. Silently showing a page as
+  // though it were everything is how "the dashboard says 1000 members" becomes
+  // a belief rather than a display limit.
+  const cut = DATA.truncated?.[activeTab]
+    ? `<span class="warn"> — showing the newest ${rows.length} only; ` +
+      `filter or sort applies to this page, not the full table</span>`
+    : "";
+  const src = DATA.totals_source === "capped-sample"
+    ? '<span class="warn"> — totals are a sample; apply migration 0009</span>' : "";
   document.getElementById("meta").innerHTML =
-    `${rows.length} row(s) shown · generated ${esc(date(DATA.generated_at))} ` +
-    `${esc(ago(DATA.generated_at))} · signed in as ${esc(DATA.as || "")}${err}${rawToggle}`;
+    `${rows.length} row(s) shown${cut} · generated ${esc(date(DATA.generated_at))} ` +
+    `${esc(ago(DATA.generated_at))} · signed in as ${esc(DATA.as || "")}${err}${src}${rawToggle}`;
   const rt = document.getElementById("rawtoggle");
   if (rt) rt.onclick = () => { showRaw = !showRaw; renderTable(); };
 }
