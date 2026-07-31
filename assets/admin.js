@@ -316,9 +316,14 @@ function renderTable() {
       // The real Supabase message, which is the diagnostic: "Email address not
       // authorized" means the default SMTP sender is still in use; a rate-limit
       // message means the hourly cap was hit.
-      return flash(`Could not send to ${email} — ${r.error}`, "err");
+      return flash(`Could not send to ${email} (${r.stage || "send"}) — ${r.error}`, "err");
     }
-    flash(`Invite re-sent to ${email}. It can take a few minutes to arrive.`);
+    // Say WHICH email was sent: an invite and a password-reset look different in
+    // the inbox, and knowing which one to look for matters.
+    flash(r.via === "recovery"
+      ? `Account already exists, so a password-reset email was sent to ${email} ` +
+        `(subject line is about resetting your password, not an invite).`
+      : `Invite sent to ${email}. It can take a few minutes to arrive.`);
   });
 
   const err = DATA.errors
