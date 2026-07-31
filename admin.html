@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="robots" content="noindex, nofollow">
+  <title>Admin — Jannah Daily Stories</title>
+  <link rel="stylesheet" href="assets/styles.css">
+</head>
+<body>
+  <!-- This page is published to a PUBLIC repo, so the URL is world-reachable.
+       The DATA is gated server-side by the admin-report Edge Function, which
+       verifies the caller's JWT against the ADMIN_EMAILS allowlist. A non-admin
+       who loads this page sees an access-denied message and no data. -->
+  <div class="wrap wrap-wide" id="admin">
+    <div id="authbar" class="authbar"></div>
+    <a class="back" href="./">← archive</a>
+    <h1>Admin</h1>
+    <div id="admin-status"><p class="status-msg">Loading…</p></div>
+    <div id="admin-body" hidden>
+      <div id="stats" class="stats"></div>
+      <div class="langtoggle" id="tabs"></div>
+      <div class="adminbox">
+        <input type="search" id="filter" class="adminfilter" placeholder="Filter…" autocomplete="off">
+        <div id="table"></div>
+      </div>
+      <p class="adminmeta" id="meta"></p>
+    </div>
+  </div>
+  <script src="assets/config.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2.45.4/dist/umd/supabase.js"></script>
+  <script src="assets/auth.js"></script>
+  <script src="assets/admin.js"></script>
+</body>
+</html>
