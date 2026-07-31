@@ -15,7 +15,7 @@ const TABS = [
   { key: "members",     label: "Members" },
   { key: "lessons",     label: "Lessons" },
   { key: "logins",      label: "Logins" },
-  { key: "subscribers", label: "Subscribers" },
+  { key: "subscribers", label: "Legacy list" },
   { key: "admins",      label: "Admins" },
 ];
 
@@ -151,6 +151,26 @@ const COLUMNS = {
       cell: r => `<span class="nums">${Number(r.distinct_members || 0)}</span>` },
     { key: "last_completed_at", label: "Last",      get: r => Date.parse(r.last_completed_at || 0) || 0, num: true,
       cell: r => `<span class="nums">${ago(r.last_completed_at)}</span>` },
+    // Publish state. Unpublishing withholds the lesson from the site AND from
+    // the email notification — but only from the next mirror run onwards.
+    { key: "published", label: "Published", get: r => (r.published === false ? 0 : 1), num: true,
+      cell: r => `<input type="checkbox" class="pubbox" data-slug="${esc(r.slug)}"` +
+                 `${r.published === false ? "" : " checked"} ` +
+                 `aria-label="Published"${r.published === false ? "" : ""}>` },
+    // Review state. `inherit` follows the lesson frontmatter; the other two
+    // override it. A lesson is only emailed when it resolves to reviewed.
+    { key: "review_state", label: "Review", get: r => r.review_state || "inherit",
+      cell: r => {
+        const v = r.review_state || "inherit";
+        const opt = (val, label) =>
+          `<option value="${val}"${v === val ? " selected" : ""}>${label}</option>`;
+        const inherited = r.under_review ? "under review" : "reviewed";
+        return `<select class="revsel" data-slug="${esc(r.slug)}" aria-label="Review state">` +
+               opt("inherit", `from file (${inherited})`) +
+               opt("reviewed", "reviewed") +
+               opt("under_review", "under review") +
+               `</select>`;
+      } },
   ],
   logins: [
     { key: "created_at", label: "When",   get: r => Date.parse(r.created_at || 0) || 0, num: true,
@@ -365,6 +385,28 @@ function renderTable() {
     flash(`Admin access removed for ${email}.`);
     await refresh();
   });
+
+  // Lesson publish/review state. Both send the same action; the site only
+  // reflects `published` on the next mirror run, which the message says.
+  const setState = async (control, payload, describe) => {
+    control.disabled = true;
+    const r = await callAction({ action: "set_lesson_state", ...payload });
+    control.disabled = false;
+    if (r.error) {
+      await refresh();          // repaint from the server, so the control cannot
+      return flash(r.error, "err");   // sit showing a change that did not happen
+    }
+    flash(`${describe} The site updates on the next publish run.`);
+    await refresh();
+  };
+
+  el.querySelectorAll(".pubbox").forEach((b) => b.onchange = () => setState(
+    b, { slug: b.dataset.slug, published: b.checked },
+    `${b.dataset.slug} ${b.checked ? "published" : "unpublished"}.`));
+
+  el.querySelectorAll(".revsel").forEach((s) => s.onchange = () => setState(
+    s, { slug: s.dataset.slug, review_state: s.value },
+    `${s.dataset.slug} review state set to ${s.value.replace("_", " ")}.`));
 
   el.querySelectorAll("[data-resend]").forEach((b) => b.onclick = async () => {
     const email = b.dataset.resend;
