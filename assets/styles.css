@@ -178,6 +178,11 @@ details.sec[open] > summary::before { transform: rotate(90deg); }
 .grantrow input { flex: 1 1 16rem; max-width: 22rem; padding: .45rem .7rem; font: inherit;
   border: 1px solid var(--line); border-radius: 8px; }
 
+/* Raw audit payload (Logins tab escape hatch) */
+.rawpayload { background: #f4f2ea; border: 1px solid var(--line); border-radius: 8px;
+  padding: .8rem; margin: .8rem 0 0; font-size: .75rem; line-height: 1.45;
+  max-height: 22rem; overflow: auto; white-space: pre-wrap; word-break: break-word; }
+
 /* #flash reuses .msg / .msg.ok / .msg.err, which are display:none until classed */
 
 /* Auth: login / reset pages */

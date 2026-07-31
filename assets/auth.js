@@ -53,6 +53,30 @@ function renderAuthBar(session) {
 }
 
 /** Wire the login form (login.html). */
+/** Tell the backend a sign-in happened, so the admin dashboard has a login
+ *  history with a real client IP (the server reads it from request headers).
+ *
+ *  Fire-and-forget by design: the caller redirects immediately afterwards, so
+ *  `keepalive` is what lets the request survive the page unload -- a plain fetch
+ *  would be cancelled mid-flight. Every failure is swallowed: a missing
+ *  analytics row is nothing, a login delayed or broken by a logging call is a
+ *  real outage. */
+function recordLogin(session) {
+  try {
+    if (!session?.access_token || !window.SUPABASE_URL) return;
+    fetch(`${window.SUPABASE_URL}/functions/v1/record-login`, {
+      method: "POST",
+      headers: {
+        "Authorization": `Bearer ${session.access_token}`,
+        "apikey": window.SUPABASE_ANON_KEY,
+        "content-type": "application/json",
+      },
+      body: "{}",          // the function ignores the body; identity is the token
+      keepalive: true,
+    }).catch(() => {});
+  } catch (_) { /* never let this affect signing in */ }
+}
+
 function initLogin() {
   const f = document.getElementById("loginform");
   const msg = document.getElementById("msg");
@@ -66,8 +90,9 @@ function initLogin() {
     const email = f.email.value.trim().toLowerCase();
     const password = f.password.value;
     show("", "");
-    const { error } = await window.sb.auth.signInWithPassword({ email, password });
+    const { data, error } = await window.sb.auth.signInWithPassword({ email, password });
     if (error) return show("err", "فشل تسجيل الدخول. تحقّق من بريدك الإلكتروني وكلمة المرور.");
+    recordLogin(data?.session);   // fire-and-forget; never blocks the redirect
     location.replace("index.html");
   });
 

@@ -25,6 +25,7 @@ let activeTab = "members";
 let sortKey = null;
 let sortDir = 1;          // 1 asc, -1 desc
 let lessonTotal = 0;      // total published lessons, from the manifest
+let showRaw = false;      // Logins tab: show the unparsed audit payload
 
 // ---- helpers ---------------------------------------------------------------
 
@@ -154,6 +155,10 @@ const COLUMNS = {
       cell: r => esc(r.email || "—") },
     { key: "action",     label: "Event",  get: r => r.action || "",
       cell: r => esc(r.action || "—") },
+    { key: "source",     label: "Source", get: r => r.source || "",
+      cell: r => r.source === "site"
+        ? '<span title="Recorded by this site — reliable client IP">site</span>'
+        : '<span class="muted-cell" title="Supabase auth audit log">supabase</span>' },
     { key: "ip",         label: "IP",     get: r => r.ip || "",
       cell: r => `<span class="nums">${esc(r.ip || "—")}</span>` },
     { key: "place",      label: "Location", get: r => placeText(r.ip),
@@ -263,15 +268,36 @@ function renderTable() {
     : `<tr><td colspan="${cols.length}" class="status-msg">${emptyMsg}</td></tr>`;
 
   const el = document.getElementById("table");
-  // The Admins tab gets an inline "add" form above the table.
-  const addForm = activeTab === "admins"
-    ? `<form id="grantform" class="grantrow">` +
+  // Members and Admins each get an inline "add" form above the table.
+  let addForm = "";
+  if (activeTab === "admins") {
+    addForm =
+      `<form id="grantform" class="grantrow">` +
       `<input type="email" id="grantemail" placeholder="email@example.com" required ` +
       `autocomplete="off" aria-label="Email to grant admin access">` +
-      `<button type="submit" class="minibtn">Grant admin</button></form>`
+      `<button type="submit" class="minibtn">Grant admin</button></form>`;
+  } else if (activeTab === "members") {
+    addForm =
+      `<form id="inviteform" class="grantrow">` +
+      `<input type="email" id="inviteemail" placeholder="email@example.com" required ` +
+      `autocomplete="off" aria-label="Email to invite as a member">` +
+      `<button type="submit" class="minibtn">Invite member</button>` +
+      `<span class="muted-cell">creates the account and emails a set-password link</span>` +
+      `</form>`;
+  }
+
+  // The Logins tab can show the unparsed audit payload. This is the escape hatch
+  // for when the IP/user-agent extraction misses a key: the answer is visible
+  // here instead of needing a round of SQL.
+  const rawBlock = (activeTab === "logins" && showRaw)
+    ? `<pre class="rawpayload">` +
+      esc(JSON.stringify(
+        (DATA.logins || []).find((l) => l.raw_payload)?.raw_payload ?? "(no audit payload)",
+        null, 2)) + `</pre>`
     : "";
+
   el.innerHTML = addForm +
-    `<table><thead><tr>${head}</tr></thead><tbody>${body}</tbody></table>`;
+    `<table><thead><tr>${head}</tr></thead><tbody>${body}</tbody></table>` + rawBlock;
 
   el.querySelectorAll("th[data-sort]").forEach((th) => th.onclick = () => {
     const k = th.dataset.sort;
@@ -281,6 +307,29 @@ function renderTable() {
   });
 
   // ---- actions -------------------------------------------------------------
+  const invite = el.querySelector("#inviteform");
+  if (invite) invite.onsubmit = async (e) => {
+    e.preventDefault();
+    const email = el.querySelector("#inviteemail").value.trim().toLowerCase();
+    if (!email) return;
+    const btn = invite.querySelector("button");
+    btn.disabled = true; btn.textContent = "inviting…";
+    const r = await callAction({ action: "invite_member", email });
+    btn.disabled = false; btn.textContent = "Invite member";
+    if (r.error) {
+      // `partial` means the email went out but the member row failed -- a retry
+      // would resend the email, so the message must not read like a plain failure.
+      return flash(r.partial ? r.error
+        : `Could not invite ${email} (${r.stage || "send"}) — ${r.error}`, "err");
+    }
+    el.querySelector("#inviteemail").value = "";
+    flash(r.via === "recovery"
+      ? `${email} already had an account, so a password-reset email was sent ` +
+        `(not an invite). They are now recorded as a member.`
+      : `Invited ${email}. They will get an email with a link to set a password.`);
+    await refresh();
+  };
+
   const grant = el.querySelector("#grantform");
   if (grant) grant.onsubmit = async (e) => {
     e.preventDefault();
@@ -329,9 +378,15 @@ function renderTable() {
   const err = DATA.errors
     ? ` — could not load: ${esc(Object.keys(DATA.errors).join(", "))}`
     : "";
+  const rawToggle = activeTab === "logins"
+    ? ` · <button type="button" id="rawtoggle" class="linkbtn">` +
+      `${showRaw ? "hide" : "show"} raw audit payload</button>`
+    : "";
   document.getElementById("meta").innerHTML =
     `${rows.length} row(s) shown · generated ${esc(date(DATA.generated_at))} ` +
-    `${esc(ago(DATA.generated_at))} · signed in as ${esc(DATA.as || "")}${err}`;
+    `${esc(ago(DATA.generated_at))} · signed in as ${esc(DATA.as || "")}${err}${rawToggle}`;
+  const rt = document.getElementById("rawtoggle");
+  if (rt) rt.onclick = () => { showRaw = !showRaw; renderTable(); };
 }
 
 function showStatus(html) {
