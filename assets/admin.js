@@ -16,9 +16,11 @@ const TABS = [
   { key: "lessons",     label: "Lessons" },
   { key: "logins",      label: "Logins" },
   { key: "subscribers", label: "Subscribers" },
+  { key: "admins",      label: "Admins" },
 ];
 
 let DATA = null;          // the whole payload from the function
+let SESSION = null;       // kept for follow-up action calls
 let activeTab = "members";
 let sortKey = null;
 let sortDir = 1;          // 1 asc, -1 desc
@@ -65,6 +67,48 @@ function shortUA(ua) {
   return m ? [...new Set(m)].join(" / ") : ua.slice(0, 28);
 }
 
+/** "🇺🇸 San Jose, California" from the geo map the function attaches. */
+function place(ip) {
+  const g = DATA && DATA.geo ? DATA.geo[ip] : null;
+  if (!g) return "—";
+  const parts = [g.city, g.region].filter(Boolean).join(", ");
+  const flag = g.flag ? g.flag + " " : "";
+  return (flag + (parts || g.country || "")).trim() || "—";
+}
+function placeText(ip) {   // sort/filter value, no emoji
+  const g = DATA && DATA.geo ? DATA.geo[ip] : null;
+  if (!g) return "";
+  return [g.country, g.region, g.city, g.isp].filter(Boolean).join(" ");
+}
+
+/** POST an action back to the same function. Returns the parsed body. */
+async function callAction(payload) {
+  const res = await fetch(`${window.SUPABASE_URL}/functions/v1/admin-report`, {
+    method: "POST",
+    headers: {
+      "Authorization": `Bearer ${SESSION.access_token}`,
+      "apikey": window.SUPABASE_ANON_KEY,
+      "content-type": "application/json",
+    },
+    body: JSON.stringify(payload),
+  });
+  try { return await res.json(); } catch (_) { return { error: `HTTP ${res.status}` }; }
+}
+
+/** Transient message under the table. */
+function flash(text, kind) {
+  const el = document.getElementById("flash");
+  el.className = "msg " + (kind || "ok");
+  el.textContent = text;
+  if (kind !== "err") setTimeout(() => { el.className = "msg"; el.textContent = ""; }, 6000);
+}
+
+/** Re-fetch the report and repaint, after an action changed something. */
+async function refresh() {
+  const d = await callAction({ action: "report" });
+  if (d && d.ok) { DATA = d; renderStats(); renderTabs(); renderTable(); }
+}
+
 // ---- column definitions ----------------------------------------------------
 // `get` pulls the sort/filter value; `cell` renders. Keeping them separate means
 // sorting works on the raw value (a timestamp) while the cell shows "2h ago".
@@ -72,7 +116,12 @@ function shortUA(ua) {
 const COLUMNS = {
   members: [
     { key: "email",           label: "Email",     get: r => r.email || "",
-      cell: r => `${esc(r.email)}${r.never_signed_in ? ' <span class="warn" title="Invited but never signed in">not activated</span>' : ""}` },
+      cell: r => esc(r.email) },
+    { key: "never_signed_in", label: "",          get: r => (r.never_signed_in ? 1 : 0), num: true,
+      cell: r => r.never_signed_in
+        ? '<span class="warn" title="Invited but never signed in">not activated</span>' +
+          ` <button class="minibtn" data-resend="${esc(r.email)}">resend invite</button>`
+        : "" },
     { key: "lessons_done",    label: "Progress",  get: r => Number(r.lessons_done || 0), num: true,
       cell: r => `<span class="nums">${Number(r.lessons_done || 0)}${lessonTotal ? "/" + lessonTotal : ""}</span> ${bar(Number(r.lessons_done || 0), lessonTotal)}` },
     { key: "last_activity",   label: "Last read", get: r => Date.parse(r.last_activity || 0) || 0, num: true,
@@ -107,10 +156,28 @@ const COLUMNS = {
       cell: r => esc(r.action || "—") },
     { key: "ip",         label: "IP",     get: r => r.ip || "",
       cell: r => `<span class="nums">${esc(r.ip || "—")}</span>` },
-    { key: "country",    label: "Country", get: r => r.country || "",
-      cell: r => esc(r.country || "—") },
+    { key: "place",      label: "Location", get: r => placeText(r.ip),
+      cell: r => esc(place(r.ip)) },
+    { key: "isp",        label: "Network", get: r => (DATA?.geo?.[r.ip]?.isp || ""),
+      cell: r => esc(DATA?.geo?.[r.ip]?.isp || "—") },
     { key: "user_agent", label: "Device", get: r => r.user_agent || "",
       cell: r => `<span title="${esc(r.user_agent)}">${esc(shortUA(r.user_agent))}</span>` },
+  ],
+  admins: [
+    { key: "email",      label: "Email",   get: r => r.email || "",
+      cell: r => esc(r.email) },
+    { key: "source",     label: "Source",  get: r => r.source || "",
+      cell: r => r.locked
+        ? '<span title="Set in the ADMIN_EMAILS secret">secret · locked</span>'
+        : "granted" },
+    { key: "granted_by", label: "By",      get: r => r.granted_by || "",
+      cell: r => esc(r.granted_by || "—") },
+    { key: "granted_at", label: "When",    get: r => Date.parse(r.granted_at || 0) || 0, num: true,
+      cell: r => `<span class="nums">${r.granted_at ? date(r.granted_at) : "—"}</span>` },
+    { key: "_act",       label: "",        get: () => "",
+      cell: r => r.locked
+        ? '<span class="muted-cell">cannot be removed here</span>'
+        : `<button class="minibtn danger" data-revoke="${esc(r.email)}">revoke</button>` },
   ],
   subscribers: [
     { key: "email",      label: "Email",     get: r => r.email || "",
@@ -196,11 +263,62 @@ function renderTable() {
     : `<tr><td colspan="${cols.length}" class="status-msg">${emptyMsg}</td></tr>`;
 
   const el = document.getElementById("table");
-  el.innerHTML = `<table><thead><tr>${head}</tr></thead><tbody>${body}</tbody></table>`;
+  // The Admins tab gets an inline "add" form above the table.
+  const addForm = activeTab === "admins"
+    ? `<form id="grantform" class="grantrow">` +
+      `<input type="email" id="grantemail" placeholder="email@example.com" required ` +
+      `autocomplete="off" aria-label="Email to grant admin access">` +
+      `<button type="submit" class="minibtn">Grant admin</button></form>`
+    : "";
+  el.innerHTML = addForm +
+    `<table><thead><tr>${head}</tr></thead><tbody>${body}</tbody></table>`;
+
   el.querySelectorAll("th[data-sort]").forEach((th) => th.onclick = () => {
     const k = th.dataset.sort;
+    if (!k) return;
     if (sortKey === k) sortDir = -sortDir; else { sortKey = k; sortDir = 1; }
     renderTable();
+  });
+
+  // ---- actions -------------------------------------------------------------
+  const grant = el.querySelector("#grantform");
+  if (grant) grant.onsubmit = async (e) => {
+    e.preventDefault();
+    const email = el.querySelector("#grantemail").value.trim().toLowerCase();
+    if (!email) return;
+    const btn = grant.querySelector("button");
+    btn.disabled = true;
+    const r = await callAction({ action: "grant_admin", email });
+    btn.disabled = false;
+    if (r.error) return flash(r.error, "err");
+    flash(r.noop ? `${email}: ${r.noop}` : `${email} is now an administrator.`);
+    await refresh();
+  };
+
+  el.querySelectorAll("[data-revoke]").forEach((b) => b.onclick = async () => {
+    const email = b.dataset.revoke;
+    if (!confirm(`Remove admin access for ${email}?`)) return;
+    b.disabled = true;
+    const r = await callAction({ action: "revoke_admin", email });
+    b.disabled = false;
+    if (r.error) return flash(r.error, "err");
+    flash(`Admin access removed for ${email}.`);
+    await refresh();
+  });
+
+  el.querySelectorAll("[data-resend]").forEach((b) => b.onclick = async () => {
+    const email = b.dataset.resend;
+    const label = b.textContent;
+    b.disabled = true; b.textContent = "sending…";
+    const r = await callAction({ action: "resend_invite", email });
+    b.disabled = false; b.textContent = label;
+    if (r.error) {
+      // The real Supabase message, which is the diagnostic: "Email address not
+      // authorized" means the default SMTP sender is still in use; a rate-limit
+      // message means the hourly cap was hit.
+      return flash(`Could not send to ${email} — ${r.error}`, "err");
+    }
+    flash(`Invite re-sent to ${email}. It can take a few minutes to arrive.`);
   });
 
   const err = DATA.errors
@@ -221,6 +339,7 @@ function showStatus(html) {
 document.addEventListener("DOMContentLoaded", async () => {
   const session = typeof requireSession === "function" ? await requireSession() : null;
   if (!session) return;   // redirected to login
+  SESSION = session;      // reused by the action calls
 
   // Total published lessons, for the "x / N" denominators. Non-fatal.
   try {
@@ -245,9 +364,10 @@ document.addEventListener("DOMContentLoaded", async () => {
   }
 
   if (res.status === 403) {
-    showStatus('<p class="msg err">This account is not an administrator.</p>' +
-               '<p class="status-msg">If that is unexpected, check the ADMIN_EMAILS ' +
-               'function secret in Supabase. See docs/admin-dashboard.md.</p>');
+    // Deliberately terse: this renders for anyone who finds the URL, so it must
+    // not name the allowlist mechanism, the secret, or where the docs live.
+    showStatus('<p class="msg err">This account does not have access to this page.</p>' +
+               '<p class="status-msg"><a href="./">Back to the archive</a></p>');
     return;
   }
   if (!res.ok) {

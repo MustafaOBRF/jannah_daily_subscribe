@@ -164,6 +164,22 @@ details.sec[open] > summary::before { transform: rotate(90deg); }
 
 .adminmeta { color: var(--muted); font-size: .8rem; margin: .8rem 0 2rem; }
 
+/* Small inline action buttons (resend invite, revoke) */
+.minibtn { font: inherit; font-size: .78rem; padding: .2rem .55rem; border-radius: 999px;
+  border: 1px solid var(--accent); background: #fff; color: var(--accent); cursor: pointer; }
+.minibtn:hover { background: #e6f4ee; }
+.minibtn:disabled { opacity: .55; cursor: default; }
+.minibtn.danger { border-color: #e0b4ad; color: #9a2b1f; }
+.minibtn.danger:hover { background: #fbe9e7; }
+.muted-cell { color: var(--muted); font-size: .78rem; }
+
+/* Grant-admin form above the Admins table */
+.grantrow { display: flex; gap: .5rem; align-items: center; margin: 0 0 .8rem; flex-wrap: wrap; }
+.grantrow input { flex: 1 1 16rem; max-width: 22rem; padding: .45rem .7rem; font: inherit;
+  border: 1px solid var(--line); border-radius: 8px; }
+
+/* #flash reuses .msg / .msg.ok / .msg.err, which are display:none until classed */
+
 /* Auth: login / reset pages */
 body.authpage { display: grid; place-items: center; min-height: 100vh; padding: 1.5rem; }
 .authcard { background: #fff; max-width: 24rem; width: 100%; padding: 2rem;
