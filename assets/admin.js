@@ -92,7 +92,7 @@ async function callAction(payload) {
     method: "POST",
     headers: {
       "Authorization": `Bearer ${SESSION.access_token}`,
-      "apikey": window.SUPABASE_ANON_KEY,
+      "apikey": window.SUPABASE_PUBLISHABLE_KEY,
       "content-type": "application/json",
     },
     body: JSON.stringify(payload),
@@ -475,7 +475,7 @@ document.addEventListener("DOMContentLoaded", async () => {
       method: "POST",
       headers: {
         "Authorization": `Bearer ${session.access_token}`,
-        "apikey": window.SUPABASE_ANON_KEY,
+        "apikey": window.SUPABASE_PUBLISHABLE_KEY,
         "content-type": "application/json",
       },
       body: "{}",

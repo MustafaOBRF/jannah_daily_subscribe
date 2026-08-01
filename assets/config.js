@@ -16,5 +16,5 @@
  * service_role key here.
  */
 window.SUPABASE_URL = "https://fjjtkdcitwjkkxjhdple.supabase.co";
-window.SUPABASE_ANON_KEY = "sb_publishable_YdVmhe9wnxX9ZEBnNsRvcQ_sfVdEaEB";
+window.SUPABASE_PUBLISHABLE_KEY = "sb_publishable_YdVmhe9wnxX9ZEBnNsRvcQ_sfVdEaEB";
 window.SUPABASE_ENV = "prod";

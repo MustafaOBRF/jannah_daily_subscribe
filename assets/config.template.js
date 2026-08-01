@@ -16,5 +16,5 @@
  * service_role key here.
  */
 window.SUPABASE_URL = "{{SUPABASE_URL}}";
-window.SUPABASE_ANON_KEY = "{{SUPABASE_ANON_KEY}}";
+window.SUPABASE_PUBLISHABLE_KEY = "{{SUPABASE_PUBLISHABLE_KEY}}";
 window.SUPABASE_ENV = "{{ENV_NAME}}";

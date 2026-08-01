@@ -5,11 +5,11 @@
  * soft gate — it controls access to the UI, not the underlying public lesson files.
  */
 (function () {
-  if (!window.supabase || !window.SUPABASE_URL || !window.SUPABASE_ANON_KEY ||
-      window.SUPABASE_ANON_KEY === "REPLACE_WITH_ANON_KEY") {
+  if (!window.supabase || !window.SUPABASE_URL || !window.SUPABASE_PUBLISHABLE_KEY ||
+      window.SUPABASE_PUBLISHABLE_KEY === "REPLACE_WITH_PUBLISHABLE_KEY") {
     console.error("Supabase not configured — set assets/config.js");
   }
-  window.sb = window.supabase.createClient(window.SUPABASE_URL, window.SUPABASE_ANON_KEY);
+  window.sb = window.supabase.createClient(window.SUPABASE_URL, window.SUPABASE_PUBLISHABLE_KEY);
 })();
 
 /** Escape for interpolation into innerHTML. app.js has its own copy (esc); this file
@@ -68,7 +68,7 @@ function recordLogin(session) {
       method: "POST",
       headers: {
         "Authorization": `Bearer ${session.access_token}`,
-        "apikey": window.SUPABASE_ANON_KEY,
+        "apikey": window.SUPABASE_PUBLISHABLE_KEY,
         "content-type": "application/json",
       },
       body: "{}",          // the function ignores the body; identity is the token
