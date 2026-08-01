@@ -461,6 +461,39 @@
         "es": "translation_draft"
       },
       "under_review": true
+    },
+    {
+      "slug": "001_names_reality",
+      "order": 1,
+      "langs": [
+        "ar",
+        "en",
+        "ur",
+        "fr",
+        "es"
+      ],
+      "titles": {
+        "ar": "أَسْمَاءُ الْجَنَّةِ وَحَقِيقَتُهَا",
+        "en": "The Names and Reality of Jannah",
+        "ur": "جنّت کے نام اور اس کی حقیقت",
+        "fr": "Les noms et la réalité de la Jannah",
+        "es": "Los nombres y la realidad de la Jannah"
+      },
+      "hooks": {
+        "ar": "أن يعرف المتعلم أن أسماء الجنة في القرآن والسنة ليست مجرد ألفاظ جميلة، بل أبواب لمعرفة حقيقتها ومعاني نعيمها.",
+        "en": "Learners will understand that the names of Jannah in the Qur'an and Sunnah are not merely beautiful words; they are gateways to understanding its reality and the meanings of its bliss.",
+        "ur": "طالب علم یہ سمجھیں کہ قرآن و سنت میں جنّت کے نام صرف خوب صورت الفاظ نہیں، بلکہ اس کی حقیقت اور اس کی نعمتوں کے معانی تک پہنچنے کے دروازے ہیں۔",
+        "fr": "Comprendre que les noms de la Jannah dans le Coran et la Sunnah ne sont pas de simples mots beaux, mais des portes vers sa réalité et les sens de ses délices.",
+        "es": "Comprender que los nombres de la Jannah en el Corán y la Sunnah no son simples palabras hermosas, sino puertas para conocer su realidad y los significados de su dicha."
+      },
+      "status": {
+        "ar": "arabic_reviewed",
+        "en": "translation_draft",
+        "ur": "translation_draft",
+        "fr": "translation_draft",
+        "es": "translation_draft"
+      },
+      "under_review": true
     }
   ]
 }
