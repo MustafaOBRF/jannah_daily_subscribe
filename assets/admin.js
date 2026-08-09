@@ -25,6 +25,7 @@ let activeTab = "members";
 let sortKey = null;
 let sortDir = 1;          // 1 asc, -1 desc
 let lessonTotal = 0;      // total published lessons, from the manifest
+let MANIFEST = [];        // the published lessons themselves — see the bootstrap
 let showRaw = false;      // Logins tab: show the unparsed audit payload
 
 // ---- helpers ---------------------------------------------------------------
@@ -108,6 +109,37 @@ function flash(text, kind) {
   if (kind !== "err") setTimeout(() => { el.className = "msg"; el.textContent = ""; }, 6000);
 }
 
+/** Every published lesson, with its stats and admin state merged in.
+ *
+ *  The report's `lessons` come from admin_lesson_stats, which aggregates
+ *  lesson_progress — so it only contains lessons somebody has completed. The
+ *  manifest is the real list of what is published. Merging on slug means a
+ *  brand-new lesson with no readers still gets a row, and can therefore be
+ *  unpublished or marked reviewed. */
+function lessonRows() {
+  const stats = new Map((DATA.lessons || []).map((l) => [String(l.slug), l]));
+  const rows = MANIFEST.map((m) => {
+    const st = stats.get(String(m.slug)) || {};
+    stats.delete(String(m.slug));
+    return {
+      slug: m.slug,
+      order: m.order ?? 0,
+      under_review: m.under_review === true,
+      completions: st.completions ?? 0,
+      distinct_members: st.distinct_members ?? 0,
+      last_completed_at: st.last_completed_at ?? null,
+      published: st.published ?? true,
+      review_state: st.review_state ?? "inherit",
+    };
+  });
+  // Anything with progress but no manifest entry: a withheld or deleted lesson.
+  // Show it rather than hiding it — an unpublished lesson still needs a way back.
+  for (const st of stats.values()) {
+    rows.push({ ...st, order: st.order ?? 0, withheld: true });
+  }
+  return rows.sort((a, b) => (b.order || 0) - (a.order || 0));
+}
+
 /** Re-fetch the report and repaint, after an action changed something. */
 async function refresh() {
   const d = await callAction({ action: "report" });
@@ -144,7 +176,9 @@ const COLUMNS = {
   ],
   lessons: [
     { key: "slug",              label: "Lesson",    get: r => r.slug || "",
-      cell: r => esc(r.slug) },
+      cell: r => esc(r.slug) + (r.withheld
+        ? ' <span class="warn" title="Not in the published manifest — withheld or removed from the vault">not on site</span>'
+        : "") },
     { key: "completions",       label: "Completed", get: r => Number(r.completions || 0), num: true,
       cell: r => `<span class="nums">${Number(r.completions || 0)}</span> ${bar(Number(r.completions || 0), DATA?.totals?.members || 0)}` },
     { key: "distinct_members",  label: "Members",   get: r => Number(r.distinct_members || 0), num: true,
@@ -249,6 +283,10 @@ function renderTabs() {
     const real = t.key === "members" ? DATA.totals?.members
                : t.key === "subscribers" ? DATA.totals?.subscribers
                : null;
+    if (t.key === "lessons" && MANIFEST.length) {
+      return `<button class="langbtn${t.key === activeTab ? " active" : ""}" data-tab="${t.key}">` +
+             `${t.label} <span class="tabn">${MANIFEST.length}</span></button>`;
+    }
     const n = (typeof real === "number" && real > shown) ? `${shown} / ${real}` : shown;
     return `<button class="langbtn${t.key === activeTab ? " active" : ""}" data-tab="${t.key}">` +
            `${t.label} <span class="tabn">${n}</span></button>`;
@@ -264,7 +302,9 @@ function renderTabs() {
 function renderTable() {
   const cols = COLUMNS[activeTab];
   const q = (document.getElementById("filter").value || "").trim().toLowerCase();
-  let rows = (DATA[activeTab] || []).slice();
+  let rows = activeTab === "lessons" && MANIFEST.length
+    ? lessonRows()
+    : (DATA[activeTab] || []).slice();
 
   if (q) {
     rows = rows.filter((r) => cols.some((c) => String(c.get(r)).toLowerCase().includes(q)));
@@ -463,10 +503,18 @@ document.addEventListener("DOMContentLoaded", async () => {
   if (!session) return;   // redirected to login
   SESSION = session;      // reused by the action calls
 
-  // Total published lessons, for the "x / N" denominators. Non-fatal.
+  // The manifest is the definitive list of published lessons. Keep the lessons
+  // themselves, not just the count: the Lessons tab is built from
+  // admin_lesson_stats, which aggregates lesson_progress — so a lesson nobody
+  // has ticked yet has no row there and would be invisible, and therefore
+  // impossible to publish/unpublish. Non-fatal: without the manifest the tab
+  // still shows whatever has completion data.
   try {
     const r = await fetch("lessons/manifest.json", { cache: "no-cache" });
-    if (r.ok) lessonTotal = ((await r.json()).lessons || []).length;
+    if (r.ok) {
+      MANIFEST = ((await r.json()).lessons || []);
+      lessonTotal = MANIFEST.length;
+    }
   } catch (_) { /* denominators just omit the total */ }
 
   let res;
