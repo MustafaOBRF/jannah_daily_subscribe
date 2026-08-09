@@ -298,6 +298,39 @@
       "under_review": true
     },
     {
+      "slug": "007_gatekeepers",
+      "order": 7,
+      "langs": [
+        "ar",
+        "en",
+        "ur",
+        "fr",
+        "es"
+      ],
+      "titles": {
+        "ar": "خَزَنَةُ الْجَنَّةِ وَبَوَّابُوهَا",
+        "en": "The Keepers and Gatekeepers of Jannah",
+        "ur": "جنّت کے نگہبان اور دربان",
+        "fr": "Les gardiens et les portiers de la Jannah",
+        "es": "Los guardianes y porteros de la Jannah"
+      },
+      "hooks": {
+        "ar": "أن يعرف المتعلم أن خزنة الجنة ملائكة موكلون بأبوابها، يعملون بأمر الله.",
+        "en": "Understand that the keepers of Jannah are angels assigned to its gates who act by Allah's command.",
+        "ur": "یہ جاننا کہ جنّت کے نگہبان وہ فرشتے ہیں جو اس کے دروازوں پر مقرر ہیں اور اللہ کے حکم پر عمل کرتے ہیں۔",
+        "fr": "Savoir que les gardiens de la Jannah sont des anges chargés de ses portes et qu'ils agissent sur l'ordre d'Allah.",
+        "es": "Saber que los guardianes de la Jannah son ángeles encargados de sus puertas y que actúan por orden de Allah."
+      },
+      "status": {
+        "ar": "arabic_draft",
+        "en": "translation_draft",
+        "ur": "translation_draft",
+        "fr": "translation_draft",
+        "es": "translation_draft"
+      },
+      "under_review": true
+    },
+    {
       "slug": "006_gates",
       "order": 6,
       "langs": [
