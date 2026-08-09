@@ -298,6 +298,39 @@
       "under_review": true
     },
     {
+      "slug": "008_key_price",
+      "order": 8,
+      "langs": [
+        "ar",
+        "en",
+        "ur",
+        "fr",
+        "es"
+      ],
+      "titles": {
+        "ar": "مِفْتَاحُ الْجَنَّةِ وَثَمَنُهَا",
+        "en": "The Key to Jannah and Its Price",
+        "ur": "جنّت کی کنجی اور اس کی قیمت",
+        "fr": "La clé de la Jannah et son prix",
+        "es": "La llave de la Jannah y su precio"
+      },
+      "hooks": {
+        "ar": "أن يعرف المتعلم أن التوحيد أصل النجاة وأساس الطريق إلى الجنة.",
+        "en": "Know that tawhid is the foundation of salvation and the path to Jannah.",
+        "ur": "یہ جاننا کہ توحید نجات اور جنّت کے راستے کی بنیاد ہے۔",
+        "fr": "Savoir que le tawhid est le fondement du salut et du chemin vers la Jannah.",
+        "es": "Saber que el tawhid es el fundamento de la salvación y del camino hacia la Jannah."
+      },
+      "status": {
+        "ar": "arabic_reviewed",
+        "en": "translation_draft",
+        "ur": "translation_draft",
+        "fr": "translation_draft",
+        "es": "translation_draft"
+      },
+      "under_review": true
+    },
+    {
       "slug": "007_gatekeepers",
       "order": 7,
       "langs": [
