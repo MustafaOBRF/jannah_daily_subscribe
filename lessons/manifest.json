@@ -298,6 +298,39 @@
       "under_review": true
     },
     {
+      "slug": "009_hard_path",
+      "order": 9,
+      "langs": [
+        "ar",
+        "en",
+        "ur",
+        "fr",
+        "es"
+      ],
+      "titles": {
+        "ar": "طَرِيقُ الْجَنَّةِ وَأَنَّهَا مَحْفُوفَةٌ بِالْمَكَارِهِ",
+        "en": "The Path to Jannah and the Hardships Around It",
+        "ur": "جنّت کا راستہ اور اس کے گرد مشکلات",
+        "fr": "Le chemin vers la Jannah et les difficultés qui l’entourent",
+        "es": "El camino hacia la Jannah y las dificultades que lo rodean"
+      },
+      "hooks": {
+        "ar": "فهم معنى إحاطة الجنة بالمكاره والنار بالشهوات.",
+        "en": "Understand that Jannah is surrounded by hardships and the Fire by temptations.",
+        "ur": "یہ سمجھنا کہ جنّت مشکلات سے اور جہنم خواہشات سے گھیر دی گئی ہے۔",
+        "fr": "Comprendre que la Jannah est entourée de difficultés et le Feu de tentations.",
+        "es": "Comprender que la Jannah está rodeada de dificultades y el Fuego de tentaciones."
+      },
+      "status": {
+        "ar": "arabic_reviewed",
+        "en": "translation_reviewed",
+        "ur": "translation_reviewed",
+        "fr": "translation_reviewed",
+        "es": "translation_reviewed"
+      },
+      "under_review": false
+    },
+    {
       "slug": "008_key_price",
       "order": 8,
       "langs": [
