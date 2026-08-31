@@ -8,6 +8,8 @@ title: "امن، ہمیشہ کی زندگی اور موت کا خاتمہ"
 audiences: ["adult", "ages_4_7", "ages_8_12", "teen_13_plus"]
 hadith_policy: "sahih_hasan_main"
 story_policy: "original_parable_plus_authenticated_islamic_history"
+---
+
 # سلامتی، ہمیشہ کی زندگی، اور موت کا ذبح
 
 ## سبق کے مقاصد

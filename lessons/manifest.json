@@ -211,21 +211,21 @@
       "titles": {
         "ar": "الْأَمْنُ وَالْخُلُودُ وَذَبْحُ الْمَوْتِ",
         "en": "Security, Everlasting Life, and the Slaughter of Death",
-        "ur": "032_security_death_slaughter",
+        "ur": "امن، ہمیشہ کی زندگی اور موت کا خاتمہ",
         "fr": "La sécurité, la vie éternelle et l'immolation de la mort",
         "es": "Seguridad, vida eterna y el sacrificio de la muerte"
       },
       "hooks": {
         "ar": "أن يبيّن المتعلم أن أمن أهل الجنة كامل: لا موت، ولا مرض، ولا هرم، ولا انقطاع للنعيم.",
         "en": "Explain that the security enjoyed by the people of Jannah is complete: no death, sickness, old age, or end to its delight.",
-        "ur": "---",
+        "ur": "اس بات کی وضاحت کریں کہ جنت والوں کو جو تحفظ حاصل ہے وہ مکمل ہے: کوئی موت، بیماری، بڑھاپا یا اس کی لذت کا خاتمہ نہیں۔",
         "fr": "Expliquer que la sécurité des habitants du Paradis est complète : ni mort, ni maladie, ni vieillesse, ni fin des délices.",
         "es": "Explicar que la seguridad de la gente del Paraíso es completa: no habrá muerte, enfermedad, vejez ni final de sus delicias."
       },
       "status": {
         "ar": "arabic_draft",
         "en": "translation_draft",
-        "ur": "",
+        "ur": "translation_draft",
         "fr": "translation_draft",
         "es": "translation_draft"
       },
