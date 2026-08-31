@@ -199,6 +199,23 @@
       "under_review": true
     },
     {
+      "slug": "032_security_death_slaughter",
+      "order": 32,
+      "langs": [
+        "ar"
+      ],
+      "titles": {
+        "ar": "الْأَمْنُ وَالْخُلُودُ وَذَبْحُ الْمَوْتِ"
+      },
+      "hooks": {
+        "ar": "أن يبيّن المتعلم أن أمن أهل الجنة كامل: لا موت، ولا مرض، ولا هرم، ولا انقطاع للنعيم."
+      },
+      "status": {
+        "ar": "arabic_draft"
+      },
+      "under_review": true
+    },
+    {
       "slug": "031_calls_glad_tidings",
       "order": 31,
       "langs": [
