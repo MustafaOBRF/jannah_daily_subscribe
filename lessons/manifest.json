@@ -331,6 +331,57 @@
       "under_review": true
     },
     {
+      "slug": "015_planting_dhikr",
+      "order": 15,
+      "langs": [
+        "ar"
+      ],
+      "titles": {
+        "ar": "غِراسُ الجَنَّةِ وَأَذْكَارُهَا"
+      },
+      "hooks": {
+        "ar": "<!-- reader:start audience=\"adults\" estimatedminutes=\"6.0\" -->"
+      },
+      "status": {
+        "ar": "arabic_draft"
+      },
+      "under_review": true
+    },
+    {
+      "slug": "014_houses_deeds",
+      "order": 14,
+      "langs": [
+        "ar"
+      ],
+      "titles": {
+        "ar": "الْأَعْمَالُ الَّتِي تَبْنِي بُيُوتَ الْجَنَّةِ"
+      },
+      "hooks": {
+        "ar": "<!-- reader:start audience=\"adults\" estimatedminutes=\"6.0\" -->"
+      },
+      "status": {
+        "ar": "arabic_draft"
+      },
+      "under_review": true
+    },
+    {
+      "slug": "013_entry_deeds",
+      "order": 13,
+      "langs": [
+        "ar"
+      ],
+      "titles": {
+        "ar": "الْأَعْمَالُ الَّتِي يَسْتَحِقُّ بِهَا الْعَبْدُ الْجَنَّةَ"
+      },
+      "hooks": {
+        "ar": "<!-- reader:start audience=\"adults\" estimatedminutes=\"6.5\" -->"
+      },
+      "status": {
+        "ar": "arabic_draft"
+      },
+      "under_review": true
+    },
+    {
       "slug": "012_preparation",
       "order": 12,
       "langs": [
