@@ -331,6 +331,73 @@
       "under_review": true
     },
     {
+      "slug": "012_preparation",
+      "order": 12,
+      "langs": [
+        "ar",
+        "en",
+        "ur",
+        "fr",
+        "es"
+      ],
+      "titles": {
+        "ar": "التَّشْمِيرُ وَالِاسْتِعْدَادُ لِلْجَنَّةِ",
+        "en": "Hastening and Preparing for Jannah",
+        "ur": "جنّت کی طرف سبقت اور مکمل تیاری",
+        "fr": "Se hâter et se préparer pour le Paradis",
+        "es": "Apresurarse y prepararse para el Yanna"
+      },
+      "hooks": {
+        "ar": "<!-- reader:start audience=\"adults\" estimatedminutes=\"6.5\" -->",
+        "en": "<!-- reader:start audience=\"adults\" estimatedminutes=\"6.5\" -->",
+        "ur": "<!-- reader:start audience=\"adults\" estimatedminutes=\"6.5\" -->",
+        "fr": "<!-- reader:start audience=\"adults\" estimatedminutes=\"6.5\" -->",
+        "es": "<!-- reader:start audience=\"adults\" estimatedminutes=\"6.5\" -->"
+      },
+      "status": {
+        "ar": "arabic_draft",
+        "en": "translation_draft",
+        "ur": "translation_draft",
+        "fr": "translation_draft",
+        "es": "translation_draft"
+      },
+      "under_review": true
+    },
+    {
+      "slug": "011_longing_dua",
+      "order": 11,
+      "langs": [
+        "ar"
+      ],
+      "titles": {
+        "ar": "طَلَبُ الْجَنَّةِ وَالشَّوْقُ إِلَيْهَا وَدُعَاؤُهَا"
+      },
+      "hooks": {
+        "ar": "<!-- reader:start audience=\"adults\" estimatedminutes=\"6.5\" -->"
+      },
+      "status": {
+        "ar": "arabic_draft"
+      },
+      "under_review": true
+    },
+    {
+      "slug": "010_mercy_not_price",
+      "order": 10,
+      "langs": [
+        "ar"
+      ],
+      "titles": {
+        "ar": "الْجَنَّةُ فَضْلٌ وَرَحْمَةٌ وَلَيْسَتْ ثَمَنًا لِلْعَمَلِ"
+      },
+      "hooks": {
+        "ar": "<!-- reader:start audience=\"adults\" estimatedminutes=\"6.0\" -->"
+      },
+      "status": {
+        "ar": "arabic_draft"
+      },
+      "under_review": true
+    },
+    {
       "slug": "009_hard_path",
       "order": 9,
       "langs": [
