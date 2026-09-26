@@ -17,6 +17,16 @@ bedtime_dua_id: "lesson.012.dua.aid-in-worship"
 
 # Apresurarse y prepararse para el Yanna
 
+## Objetivos y resultados de la lección
+
+Al terminar esta lección, el alumno será capaz de:
+
+- Explicar el significado de "at-tashmir" como elevar la determinación y apresurarse de inmediato hacia el bien, y distinguirlo de la temeridad o la impulsividad no regulada por un límite legítimo.
+- Exponer el sentido de la orden de "competir" hacia el perdón y el Yanna en la aya de Al-Hadid (57:21), y relacionarla con el hadiz "Apresúrense con las buenas obras", que advierte que los corazones pueden cambiar con rapidez durante las pruebas.
+- Narrar el relato de Umair ibn al-Humam el día de Badr y analizar su decisión inmediata una vez que el Profeta ﷺ le confirmó la promesa del Yanna.
+- Distinguir la actitud legítima de Umair en su propio contexto de cualquier uso de "at-tashmir" para justificar el riesgo o la impulsividad sin control.
+- Aplicar de forma práctica el principio de no postergar el bien mediante la "tarjeta de la carrera del bien", identificando una buena obra postergada, una fecha próxima y un primer paso concreto para realizarla.
+
 ## Sección académica para adultos
 
 <!-- reader:start audience="adults" estimated_minutes="6.5" -->

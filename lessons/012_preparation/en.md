@@ -17,6 +17,16 @@ bedtime_dua_id: "lesson.012.dua.aid-in-worship"
 
 # Hastening and Preparing for Jannah
 
+## Lesson Goals and Outcomes
+
+After this lesson, the learner will be able to:
+
+- Explain the meaning of "tashmīr" as raising one's resolve and hastening immediately toward good, and distinguish it from recklessness or impulsiveness unrestrained by Sharia boundaries.
+- State the significance of the command to "race" toward forgiveness and Jannah in the ayah of Al-Ḥadīd (57:21), and connect it to the hadith "Hasten to do good deeds" warning that hearts can change quickly amid trials.
+- Retell the account of 'Umayr ibn al-Ḥumām on the Day of Badr and analyze his immediate decision once the Prophet ﷺ confirmed the promise of Jannah to him.
+- Distinguish 'Umayr's legitimate stance in its own context from using "tashmīr" to justify any unrestrained risk-taking or impulsiveness.
+- Apply the principle of not delaying good through the "Race-to-Good Card," by naming one postponed righteous deed, a near deadline, and a concrete first step to carry it out.
+
 ## Academic Section for Adults
 
 <!-- reader:start audience="adults" estimated_minutes="6.5" -->

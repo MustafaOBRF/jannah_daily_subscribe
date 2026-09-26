@@ -17,6 +17,16 @@ bedtime_dua_id: "lesson.012.dua.aid-in-worship"
 
 # Se hâter et se préparer pour le Paradis
 
+## Objectifs et résultats de la leçon
+
+Après cette leçon, l'apprenant sera capable de :
+
+- Expliquer le sens du « tashmîr » comme le fait d'élever sa détermination et de se hâter immédiatement vers le bien, et le distinguer de la témérité ou de l'impulsivité non encadrée par une règle légale.
+- Énoncer la portée de l'ordre de « rivaliser » vers le pardon et le Paradis dans le verset d'Al-Hadîd (57:21), et le relier au hadith « Hâtez-vous vers les bonnes œuvres », qui avertit que les cœurs peuvent changer rapidement au cours des épreuves.
+- Raconter l'épisode de 'Umayr ibn al-Humâm le jour de Badr et analyser sa décision immédiate une fois que le Prophète ﷺ lui eut confirmé la promesse du Paradis.
+- Distinguer l'attitude légitime de 'Umayr dans son propre contexte de toute utilisation du « tashmîr » pour justifier une prise de risque ou une impulsivité non encadrée.
+- Appliquer concrètement le principe de non-report grâce à la « carte de la course au bien », en identifiant une bonne action reportée, une échéance proche et une première étape concrète pour l'accomplir.
+
 ## Section académique pour adultes
 
 <!-- reader:start audience="adults" estimated_minutes="6.5" -->

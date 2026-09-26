@@ -340,7 +340,7 @@
         "ar": "غِراسُ الجَنَّةِ وَأَذْكَارُهَا"
       },
       "hooks": {
-        "ar": "<!-- reader:start audience=\"adults\" estimatedminutes=\"6.0\" -->"
+        "ar": "بعد هذا الدرس، يكون المتعلم قادرًا على:"
       },
       "status": {
         "ar": "arabic_draft"
@@ -357,7 +357,7 @@
         "ar": "الْأَعْمَالُ الَّتِي تَبْنِي بُيُوتَ الْجَنَّةِ"
       },
       "hooks": {
-        "ar": "<!-- reader:start audience=\"adults\" estimatedminutes=\"6.0\" -->"
+        "ar": "بعد هذا الدرس، يكون المتعلم قادرًا على:"
       },
       "status": {
         "ar": "arabic_draft"
@@ -399,11 +399,11 @@
         "es": "Apresurarse y prepararse para el Yanna"
       },
       "hooks": {
-        "ar": "<!-- reader:start audience=\"adults\" estimatedminutes=\"6.5\" -->",
-        "en": "<!-- reader:start audience=\"adults\" estimatedminutes=\"6.5\" -->",
-        "ur": "<!-- reader:start audience=\"adults\" estimatedminutes=\"6.5\" -->",
-        "fr": "<!-- reader:start audience=\"adults\" estimatedminutes=\"6.5\" -->",
-        "es": "<!-- reader:start audience=\"adults\" estimatedminutes=\"6.5\" -->"
+        "ar": "بعد هذا الدرس، يكون المتعلم قادرًا على:",
+        "en": "After this lesson, the learner will be able to:",
+        "ur": "اس سبق کے بعد متعلم اس قابل ہو گا کہ:",
+        "fr": "Après cette leçon, l'apprenant sera capable de :",
+        "es": "Al terminar esta lección, el alumno será capaz de:"
       },
       "status": {
         "ar": "arabic_draft",
@@ -424,7 +424,7 @@
         "ar": "طَلَبُ الْجَنَّةِ وَالشَّوْقُ إِلَيْهَا وَدُعَاؤُهَا"
       },
       "hooks": {
-        "ar": "<!-- reader:start audience=\"adults\" estimatedminutes=\"6.5\" -->"
+        "ar": "بعد هذا الدرس، يكون المتعلم قادرًا على:"
       },
       "status": {
         "ar": "arabic_draft"
@@ -441,7 +441,7 @@
         "ar": "الْجَنَّةُ فَضْلٌ وَرَحْمَةٌ وَلَيْسَتْ ثَمَنًا لِلْعَمَلِ"
       },
       "hooks": {
-        "ar": "<!-- reader:start audience=\"adults\" estimatedminutes=\"6.0\" -->"
+        "ar": "بعد هذا الدرس، يكون المتعلم قادرًا على:"
       },
       "status": {
         "ar": "arabic_draft"
