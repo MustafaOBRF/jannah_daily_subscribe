@@ -12,11 +12,11 @@ const REPORT_TO = "fusha.adventures@gmail.com";
 
 // Site heading per language (shown one at a time on the index).
 const SITE_TITLE = {
-  ar: "يوميات مع الجنة",
-  en: "Daily Journal with Jannah",
-  ur: "جنت کے ساتھ روزنامچہ",
-  fr: "Journal quotidien avec la Jannah",
-  es: "Diario con Jannah",
+  ar: "يوميات في الجنة",
+  en: "Daily Journal in Jannah",
+  ur: "جنت میں روزنامچہ",
+  fr: "Journal quotidien dans la Jannah",
+  es: "Diario en Jannah",
 };
 
 // Shared language preference (index + lesson page), remembered across visits.
