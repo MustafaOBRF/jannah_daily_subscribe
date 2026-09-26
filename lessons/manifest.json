@@ -331,6 +331,23 @@
       "under_review": true
     },
     {
+      "slug": "016_first_entrants",
+      "order": 16,
+      "langs": [
+        "ar"
+      ],
+      "titles": {
+        "ar": "السَّابِقُونَ وَأَوَّلُ الدَّاخِلِينَ إِلَى الْجَنَّةِ"
+      },
+      "hooks": {
+        "ar": "بعد هذا الدرس، يكون المتعلم قادرًا على:"
+      },
+      "status": {
+        "ar": "arabic_draft"
+      },
+      "under_review": true
+    },
+    {
       "slug": "015_planting_dhikr",
       "order": 15,
       "langs": [
