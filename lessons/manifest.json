@@ -351,16 +351,32 @@
       "slug": "015_planting_dhikr",
       "order": 15,
       "langs": [
-        "ar"
+        "ar",
+        "en",
+        "ur",
+        "fr",
+        "es"
       ],
       "titles": {
-        "ar": "غِراسُ الجَنَّةِ وَأَذْكَارُهَا"
+        "ar": "غِراسُ الجَنَّةِ وَأَذْكَارُهَا",
+        "en": "The Plantings of Paradise and Its Remembrances",
+        "ur": "جنّت کے پودے اور اس کے اذکار",
+        "fr": "Les plantations du Paradis et ses invocations",
+        "es": "Las Plantaciones del Jannah y Sus Recuerdos"
       },
       "hooks": {
-        "ar": "بعد هذا الدرس، يكون المتعلم قادرًا على:"
+        "ar": "بعد هذا الدرس، يكون المتعلم قادرًا على:",
+        "en": "After this lesson, the learner will be able to:",
+        "ur": "اس سبق کے بعد متعلم اس قابل ہو گا کہ:",
+        "fr": "Après cette leçon, l'apprenant sera capable de :",
+        "es": "Al terminar esta lección, el estudiante será capaz de:"
       },
       "status": {
-        "ar": "arabic_draft"
+        "ar": "arabic_draft",
+        "en": "translation_draft",
+        "ur": "translation_draft",
+        "fr": "translation_draft",
+        "es": "translation_draft"
       },
       "under_review": true
     },
@@ -368,16 +384,32 @@
       "slug": "014_houses_deeds",
       "order": 14,
       "langs": [
-        "ar"
+        "ar",
+        "en",
+        "ur",
+        "fr",
+        "es"
       ],
       "titles": {
-        "ar": "الْأَعْمَالُ الَّتِي تَبْنِي بُيُوتَ الْجَنَّةِ"
+        "ar": "الْأَعْمَالُ الَّتِي تَبْنِي بُيُوتَ الْجَنَّةِ",
+        "en": "The Deeds That Build Houses in Paradise",
+        "ur": "وہ اعمال جن سے جنّت میں گھر بنتے ہیں",
+        "fr": "Les œuvres qui construisent des maisons au Paradis",
+        "es": "Las Obras Que Edifican Casas en el Jannah"
       },
       "hooks": {
-        "ar": "بعد هذا الدرس، يكون المتعلم قادرًا على:"
+        "ar": "بعد هذا الدرس، يكون المتعلم قادرًا على:",
+        "en": "After this lesson, the learner will be able to:",
+        "ur": "اس سبق کے بعد متعلم اس قابل ہو گا کہ:",
+        "fr": "Après cette leçon, l'apprenant sera capable de :",
+        "es": "Al terminar esta lección, el estudiante será capaz de:"
       },
       "status": {
-        "ar": "arabic_draft"
+        "ar": "arabic_draft",
+        "en": "translation_draft",
+        "ur": "translation_draft",
+        "fr": "translation_draft",
+        "es": "translation_draft"
       },
       "under_review": true
     },
@@ -385,16 +417,32 @@
       "slug": "013_entry_deeds",
       "order": 13,
       "langs": [
-        "ar"
+        "ar",
+        "en",
+        "ur",
+        "fr",
+        "es"
       ],
       "titles": {
-        "ar": "الْأَعْمَالُ الَّتِي يَسْتَحِقُّ بِهَا الْعَبْدُ الْجَنَّةَ"
+        "ar": "الْأَعْمَالُ الَّتِي يَسْتَحِقُّ بِهَا الْعَبْدُ الْجَنَّةَ",
+        "en": "The Deeds by Which a Servant Deserves Paradise",
+        "ur": "وہ اعمال جن سے بندہ جنّت کا مستحق بنتا ہے",
+        "fr": "Les œuvres par lesquelles le serviteur mérite le Paradis",
+        "es": "Las Obras por las Cuales el Siervo Merece la Jannah"
       },
       "hooks": {
-        "ar": "بعد هذا الدرس، يكون المتعلم قادرًا على:"
+        "ar": "بعد هذا الدرس، يكون المتعلم قادرًا على:",
+        "en": "After this lesson, the learner will be able to:",
+        "ur": "اس سبق کے بعد متعلم اس قابل ہو گا کہ:",
+        "fr": "Après cette leçon, l'apprenant sera capable de :",
+        "es": "Al terminar esta lección, el estudiante será capaz de:"
       },
       "status": {
-        "ar": "arabic_draft"
+        "ar": "arabic_draft",
+        "en": "translation_draft",
+        "ur": "translation_draft",
+        "fr": "translation_draft",
+        "es": "translation_draft"
       },
       "under_review": true
     },
@@ -435,16 +483,32 @@
       "slug": "011_longing_dua",
       "order": 11,
       "langs": [
-        "ar"
+        "ar",
+        "en",
+        "ur",
+        "fr",
+        "es"
       ],
       "titles": {
-        "ar": "طَلَبُ الْجَنَّةِ وَالشَّوْقُ إِلَيْهَا وَدُعَاؤُهَا"
+        "ar": "طَلَبُ الْجَنَّةِ وَالشَّوْقُ إِلَيْهَا وَدُعَاؤُهَا",
+        "en": "Seeking Jannah, Longing for It, and Its Du'a",
+        "ur": "جنّت کا سوال، اس کا شوق اور اس کی دعا",
+        "fr": "Demander la Jannah, l'y aspirer, et l'invoquer",
+        "es": "Pedir la Jannah, el Anhelo por Ella y su Du'a"
       },
       "hooks": {
-        "ar": "بعد هذا الدرس، يكون المتعلم قادرًا على:"
+        "ar": "بعد هذا الدرس، يكون المتعلم قادرًا على:",
+        "en": "After this lesson, the learner will be able to:",
+        "ur": "اس سبق کے بعد متعلم اس قابل ہو گا کہ:",
+        "fr": "Après cette leçon, l'apprenant sera capable de :",
+        "es": "Al terminar esta lección, el estudiante será capaz de:"
       },
       "status": {
-        "ar": "arabic_draft"
+        "ar": "arabic_draft",
+        "en": "translation_draft",
+        "ur": "translation_draft",
+        "fr": "translation_draft",
+        "es": "translation_draft"
       },
       "under_review": true
     },
@@ -452,16 +516,32 @@
       "slug": "010_mercy_not_price",
       "order": 10,
       "langs": [
-        "ar"
+        "ar",
+        "en",
+        "ur",
+        "fr",
+        "es"
       ],
       "titles": {
-        "ar": "الْجَنَّةُ فَضْلٌ وَرَحْمَةٌ وَلَيْسَتْ ثَمَنًا لِلْعَمَلِ"
+        "ar": "الْجَنَّةُ فَضْلٌ وَرَحْمَةٌ وَلَيْسَتْ ثَمَنًا لِلْعَمَلِ",
+        "en": "Jannah Is Grace and Mercy, Not a Price for Deeds",
+        "ur": "جنّت فضل اور رحمت ہے، عمل کی قیمت نہیں",
+        "fr": "La Jannah est Grâce et Miséricorde, non un Prix pour les Œuvres",
+        "es": "La Jannah Es Gracia y Misericordia, No un Precio por las Obras"
       },
       "hooks": {
-        "ar": "بعد هذا الدرس، يكون المتعلم قادرًا على:"
+        "ar": "بعد هذا الدرس، يكون المتعلم قادرًا على:",
+        "en": "After this lesson, the learner will be able to:",
+        "ur": "اس سبق کے بعد متعلم اس قابل ہو گا کہ:",
+        "fr": "Après cette leçon, l'apprenant sera capable de :",
+        "es": "Al terminar esta lección, el estudiante será capaz de:"
       },
       "status": {
-        "ar": "arabic_draft"
+        "ar": "arabic_draft",
+        "en": "translation_draft",
+        "ur": "translation_draft",
+        "fr": "translation_draft",
+        "es": "translation_draft"
       },
       "under_review": true
     },
@@ -608,18 +688,18 @@
         "es"
       ],
       "titles": {
-        "ar": "عَدَدُ الْجِنَانِ وَأَنْوَاعُهَا",
-        "en": "The Number and Types of Gardens",
-        "ur": "جنتوں کی تعداد اور اقسام",
-        "fr": "Le nombre et les types de jardins",
-        "es": "El número y los tipos de jardines"
+        "ar": "عَدَدُ الْجِنَانِ وَأَنْوَاعُهَا وَتَفَاوُتُ دَرَجَاتِهَا",
+        "en": "The Number and Types of the Gardens of Jannah, and the Vast Difference in Their Ranks",
+        "ur": "جنتوں کی تعداد، اقسام اور درجات کا تفاوت",
+        "fr": "Le Nombre des Jardins de la Jannah et la Diversité de leurs Rangs",
+        "es": "El Número de las Jannas, sus Tipos y la Variación de sus Rangos"
       },
       "hooks": {
-        "ar": "أن يعرف المتعلم أن نصوص الوحي تدل على تعدد الجنات وتفاوتها.",
-        "en": "Understand the main belief of this lesson.",
-        "ur": "اس درس کے بنیادی عقیدے کو سمجھنا۔",
-        "fr": "Comprendre la croyance principale de cette leçon.",
-        "es": "Comprender la creencia principal de esta lección."
+        "ar": "بعد هذا الدرس، يكون المتعلم قادرًا على:",
+        "en": "After this lesson, the learner will be able to:",
+        "ur": "اس سبق کے بعد متعلم اس قابل ہو گا کہ:",
+        "fr": "Après cette leçon, l'apprenant sera capable de :",
+        "es": "Al terminar esta lección, el estudiante será capaz de:"
       },
       "status": {
         "ar": "arabic_draft",
@@ -641,18 +721,18 @@
         "es"
       ],
       "titles": {
-        "ar": "مَكَانُ الْجَنَّةِ وَسَعَتُهَا",
-        "en": "The Location and Vastness of Jannah",
+        "ar": "مَكَانُ الْجَنَّةِ وَسَعَتُهَا",
+        "en": "The Location of Jannah and Its Vastness",
         "ur": "جنّت کا مقام اور اس کی وسعت",
-        "fr": "Le lieu et l'immensité de la Jannah",
-        "es": "El lugar y la inmensidad de la Jannah"
+        "fr": "Le Lieu de la Jannah et Son Immensité",
+        "es": "El Lugar de la Jannah y su Amplitud"
       },
       "hooks": {
-        "ar": "أن يعرف المتعلم أن الجنة دار عظيمة واسعة، فوق مقاييس الدنيا وخيالها.",
-        "en": "Understand the main belief of this lesson.",
-        "ur": "اس درس کے بنیادی عقیدے کو سمجھنا۔",
-        "fr": "Comprendre la croyance principale de cette leçon.",
-        "es": "Comprender la creencia principal de esta lección."
+        "ar": "بعد هذا الدرس، يكون المتعلم قادرًا على:",
+        "en": "After this lesson, the learner will be able to:",
+        "ur": "اس سبق کے بعد متعلم اس قابل ہو گا کہ:",
+        "fr": "Après cette leçon, l'apprenant sera capable de :",
+        "es": "Al terminar esta lección, el estudiante será capaz de:"
       },
       "status": {
         "ar": "arabic_draft",
@@ -674,18 +754,18 @@
         "es"
       ],
       "titles": {
-        "ar": "خُلُودُ الْجَنَّةِ وَبَقَاءُ نَعِيمِهَا",
+        "ar": "خُلُودُ الْجَنَّةِ وَبَقَاءُ نَعِيمِهَا",
         "en": "The Eternity of Jannah and the Permanence of Its Bliss",
-        "ur": "جنّت کی ابدیت اور اس کی نعمتوں کا باقی رہنا",
-        "fr": "L'éternité de la Jannah et la permanence de ses délices",
-        "es": "La eternidad de la Jannah y la permanencia de su dicha"
+        "ur": "جنّت کی ابدیت اور اس کی نعمتوں کا دوام",
+        "fr": "L'Éternité de la Jannah et la Pérennité de son Bonheur",
+        "es": "La Eternidad de la Jannah y la Permanencia de su Dicha"
       },
       "hooks": {
-        "ar": "أن يعرف المتعلم أن الجنة دار بقاء لا دار فناء.",
-        "en": "Understand the main belief of this lesson.",
-        "ur": "اس درس کے بنیادی عقیدے کو سمجھنا۔",
-        "fr": "Comprendre la croyance principale de cette leçon.",
-        "es": "Comprender la creencia principal de esta lección."
+        "ar": "بعد هذا الدرس، يكون المتعلم قادرًا على:",
+        "en": "After this lesson, the learner will be able to:",
+        "ur": "اس سبق کے بعد متعلم اس قابل ہو گا کہ:",
+        "fr": "Après cette leçon, l'apprenant sera capable de :",
+        "es": "Al terminar esta lección, el estudiante será capaz de:"
       },
       "status": {
         "ar": "arabic_draft",
@@ -707,18 +787,18 @@
         "es"
       ],
       "titles": {
-        "ar": "خَلْقُ الْجَنَّةِ الآن",
-        "en": "The Creation of Jannah Now",
+        "ar": "الْجَنَّةُ مَخْلُوقَةٌ الآنَ",
+        "en": "Jannah Is Created Now",
         "ur": "جنّت ابھی مخلوق ہے",
-        "fr": "La création actuelle de la Jannah",
-        "es": "La creación actual de la Jannah"
+        "fr": "La Jannah est Créée Maintenant",
+        "es": "La Jannah Está Creada Ahora"
       },
       "hooks": {
-        "ar": "أن يعرف المتعلم أن الجنة مخلوقة موجودة الآن، أعدها الله لعباده المتقين.",
-        "en": "Know that Jannah is already created and present, prepared by Allah for the people of taqwa.",
-        "ur": "یہ جاننا کہ جنّت ابھی مخلوق اور موجود ہے، اللہ نے اسے اہل تقویٰ کے لیے تیار کیا ہے۔",
-        "fr": "Savoir que la Jannah est déjà créée et présente, préparée par Allah pour les gens de la taqwa.",
-        "es": "Saber que la Jannah ya está creada y existe ahora, preparada por Allah para la gente de taqwa."
+        "ar": "بعد هذا الدرس، يكون المتعلم قادرًا على:",
+        "en": "After this lesson, the learner will be able to:",
+        "ur": "اس سبق کے بعد متعلم اس قابل ہو گا کہ:",
+        "fr": "Après cette leçon, l'apprenant sera capable de :",
+        "es": "Al terminar esta lección, el estudiante será capaz de:"
       },
       "status": {
         "ar": "arabic_draft",
@@ -740,21 +820,21 @@
         "es"
       ],
       "titles": {
-        "ar": "أَسْمَاءُ الْجَنَّةِ وَحَقِيقَتُهَا",
-        "en": "The Names and Reality of Jannah",
-        "ur": "جنّت کے نام اور اس کی حقیقت",
-        "fr": "Les noms et la réalité de la Jannah",
-        "es": "Los nombres y la realidad de la Jannah"
+        "ar": "أَسْمَاءُ الْجَنَّةِ وَحَقِيقَتُهَا",
+        "en": "The Names of Jannah and Its Reality",
+        "ur": "جنّت کے نام اور اُن کی حقیقت",
+        "fr": "Les Noms de la Jannah et Sa Réalité",
+        "es": "Los Nombres de la Jannah y Su Realidad"
       },
       "hooks": {
-        "ar": "أن يعرف المتعلم أن أسماء الجنة في القرآن والسنة ليست مجرد ألفاظ جميلة، بل أبواب لمعرفة حقيقتها ومعاني نعيمها.",
-        "en": "Learners will understand that the names of Jannah in the Qur'an and Sunnah are not merely beautiful words; they are gateways to understanding its reality and the meanings of its bliss.",
-        "ur": "طالب علم یہ سمجھیں کہ قرآن و سنت میں جنّت کے نام صرف خوب صورت الفاظ نہیں، بلکہ اس کی حقیقت اور اس کی نعمتوں کے معانی تک پہنچنے کے دروازے ہیں۔",
-        "fr": "Comprendre que les noms de la Jannah dans le Coran et la Sunnah ne sont pas de simples mots beaux, mais des portes vers sa réalité et les sens de ses délices.",
-        "es": "Comprender que los nombres de la Jannah en el Corán y la Sunnah no son simples palabras hermosas, sino puertas para conocer su realidad y los significados de su dicha."
+        "ar": "بعد هذا الدرس، يكون المتعلم قادرًا على:",
+        "en": "After this lesson, the learner will be able to:",
+        "ur": "اس سبق کے بعد متعلم اس قابل ہو گا کہ:",
+        "fr": "Après cette leçon, l'apprenant sera capable de :",
+        "es": "Al terminar esta lección, el estudiante será capaz de:"
       },
       "status": {
-        "ar": "arabic_reviewed",
+        "ar": "arabic_draft",
         "en": "translation_draft",
         "ur": "translation_draft",
         "fr": "translation_draft",
