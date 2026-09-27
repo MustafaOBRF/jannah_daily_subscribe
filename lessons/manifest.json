@@ -751,7 +751,7 @@
         "es": "translation_draft"
       },
       "under_review": true,
-      "has_illustration": false,
+      "has_illustration": true,
       "has_audio": false
     },
     {
@@ -786,7 +786,7 @@
         "es": "translation_draft"
       },
       "under_review": true,
-      "has_illustration": false,
+      "has_illustration": true,
       "has_audio": false
     },
     {
@@ -821,7 +821,7 @@
         "es": "translation_draft"
       },
       "under_review": true,
-      "has_illustration": false,
+      "has_illustration": true,
       "has_audio": false
     },
     {
@@ -856,7 +856,7 @@
         "es": "translation_draft"
       },
       "under_review": true,
-      "has_illustration": false,
+      "has_illustration": true,
       "has_audio": false
     },
     {
@@ -891,7 +891,7 @@
         "es": "translation_draft"
       },
       "under_review": true,
-      "has_illustration": false,
+      "has_illustration": true,
       "has_audio": true
     }
   ]
