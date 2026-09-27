@@ -224,6 +224,32 @@ async function renderLesson(root, session) {
   const langs = entry ? entry.langs.slice() : LANGS.slice();
   const titles = entry ? entry.titles : {};
 
+  // Illustration + audio are shared/untranslated, so they render once regardless
+  // of the selected language. Gated on manifest flags set by sync_lessons.py.
+  const illustrationEl = document.getElementById("lesson-illustration");
+  const audioEl = document.getElementById("lesson-audio");
+
+  if (illustrationEl) {
+    if (entry && entry.has_illustration) {
+      illustrationEl.onerror = () => { illustrationEl.hidden = true; };
+      illustrationEl.src = `lessons/${encodeURIComponent(slug)}/illustration.png`;
+      illustrationEl.hidden = false;
+    } else {
+      illustrationEl.hidden = true;
+      illustrationEl.removeAttribute("src");
+    }
+  }
+
+  if (audioEl) {
+    if (entry && entry.has_audio) {
+      audioEl.src = `lessons/${encodeURIComponent(slug)}/song.mp3`;
+      audioEl.hidden = false;
+    } else {
+      audioEl.hidden = true;
+      audioEl.removeAttribute("src");
+    }
+  }
+
   // Fetch each language's markdown (only those that exist).
   const fetched = {};
   await Promise.all(langs.map(async (l) => {

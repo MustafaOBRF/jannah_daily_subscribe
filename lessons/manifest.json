@@ -31,7 +31,9 @@
         "fr": "translation_draft",
         "es": "translation_draft"
       },
-      "under_review": true
+      "under_review": true,
+      "has_illustration": false,
+      "has_audio": false
     },
     {
       "slug": "040_fragrance_weather",
@@ -64,7 +66,9 @@
         "fr": "translation_draft",
         "es": "translation_draft"
       },
-      "under_review": true
+      "under_review": true,
+      "has_illustration": false,
+      "has_audio": false
     },
     {
       "slug": "039_day_night",
@@ -97,7 +101,9 @@
         "fr": "translation_draft",
         "es": "translation_draft"
       },
-      "under_review": true
+      "under_review": true,
+      "has_illustration": false,
+      "has_audio": false
     },
     {
       "slug": "038_light_color",
@@ -130,7 +136,9 @@
         "fr": "translation_draft",
         "es": "translation_draft"
       },
-      "under_review": true
+      "under_review": true,
+      "has_illustration": false,
+      "has_audio": false
     },
     {
       "slug": "037_construction",
@@ -163,7 +171,9 @@
         "fr": "translation_draft",
         "es": "translation_draft"
       },
-      "under_review": true
+      "under_review": true,
+      "has_illustration": false,
+      "has_audio": false
     },
     {
       "slug": "036_soil",
@@ -196,7 +206,9 @@
         "fr": "translation_draft",
         "es": "translation_draft"
       },
-      "under_review": true
+      "under_review": true,
+      "has_illustration": false,
+      "has_audio": false
     },
     {
       "slug": "032_security_death_slaughter",
@@ -229,7 +241,9 @@
         "fr": "translation_draft",
         "es": "translation_draft"
       },
-      "under_review": true
+      "under_review": true,
+      "has_illustration": false,
+      "has_audio": false
     },
     {
       "slug": "031_calls_glad_tidings",
@@ -262,7 +276,9 @@
         "fr": "translation_draft",
         "es": "translation_draft"
       },
-      "under_review": true
+      "under_review": true,
+      "has_illustration": false,
+      "has_audio": false
     },
     {
       "slug": "030_angels_welcome",
@@ -295,7 +311,9 @@
         "fr": "translation_draft",
         "es": "translation_draft"
       },
-      "under_review": true
+      "under_review": true,
+      "has_illustration": false,
+      "has_audio": false
     },
     {
       "slug": "029_entering_jannah",
@@ -328,7 +346,9 @@
         "fr": "translation_draft",
         "es": "translation_draft"
       },
-      "under_review": true
+      "under_review": true,
+      "has_illustration": false,
+      "has_audio": false
     },
     {
       "slug": "016_first_entrants",
@@ -345,7 +365,9 @@
       "status": {
         "ar": "arabic_draft"
       },
-      "under_review": true
+      "under_review": true,
+      "has_illustration": false,
+      "has_audio": false
     },
     {
       "slug": "015_planting_dhikr",
@@ -378,7 +400,9 @@
         "fr": "translation_draft",
         "es": "translation_draft"
       },
-      "under_review": true
+      "under_review": true,
+      "has_illustration": true,
+      "has_audio": false
     },
     {
       "slug": "014_houses_deeds",
@@ -411,7 +435,9 @@
         "fr": "translation_draft",
         "es": "translation_draft"
       },
-      "under_review": true
+      "under_review": true,
+      "has_illustration": true,
+      "has_audio": false
     },
     {
       "slug": "013_entry_deeds",
@@ -444,7 +470,9 @@
         "fr": "translation_draft",
         "es": "translation_draft"
       },
-      "under_review": true
+      "under_review": true,
+      "has_illustration": true,
+      "has_audio": false
     },
     {
       "slug": "012_preparation",
@@ -477,7 +505,9 @@
         "fr": "translation_draft",
         "es": "translation_draft"
       },
-      "under_review": true
+      "under_review": true,
+      "has_illustration": true,
+      "has_audio": false
     },
     {
       "slug": "011_longing_dua",
@@ -510,7 +540,9 @@
         "fr": "translation_draft",
         "es": "translation_draft"
       },
-      "under_review": true
+      "under_review": true,
+      "has_illustration": true,
+      "has_audio": false
     },
     {
       "slug": "010_mercy_not_price",
@@ -543,7 +575,9 @@
         "fr": "translation_draft",
         "es": "translation_draft"
       },
-      "under_review": true
+      "under_review": true,
+      "has_illustration": true,
+      "has_audio": false
     },
     {
       "slug": "009_hard_path",
@@ -576,7 +610,9 @@
         "fr": "translation_reviewed",
         "es": "translation_reviewed"
       },
-      "under_review": false
+      "under_review": false,
+      "has_illustration": false,
+      "has_audio": false
     },
     {
       "slug": "008_key_price",
@@ -609,7 +645,9 @@
         "fr": "translation_draft",
         "es": "translation_draft"
       },
-      "under_review": true
+      "under_review": true,
+      "has_illustration": false,
+      "has_audio": false
     },
     {
       "slug": "007_gatekeepers",
@@ -642,7 +680,9 @@
         "fr": "translation_draft",
         "es": "translation_draft"
       },
-      "under_review": true
+      "under_review": true,
+      "has_illustration": false,
+      "has_audio": false
     },
     {
       "slug": "006_gates",
@@ -675,7 +715,9 @@
         "fr": "translation_draft",
         "es": "translation_draft"
       },
-      "under_review": true
+      "under_review": true,
+      "has_illustration": false,
+      "has_audio": false
     },
     {
       "slug": "005_number_types",
@@ -708,7 +750,9 @@
         "fr": "translation_draft",
         "es": "translation_draft"
       },
-      "under_review": true
+      "under_review": true,
+      "has_illustration": false,
+      "has_audio": false
     },
     {
       "slug": "004_location_vastness",
@@ -741,7 +785,9 @@
         "fr": "translation_draft",
         "es": "translation_draft"
       },
-      "under_review": true
+      "under_review": true,
+      "has_illustration": false,
+      "has_audio": false
     },
     {
       "slug": "003_eternity",
@@ -774,7 +820,9 @@
         "fr": "translation_draft",
         "es": "translation_draft"
       },
-      "under_review": true
+      "under_review": true,
+      "has_illustration": false,
+      "has_audio": false
     },
     {
       "slug": "002_created_now",
@@ -807,7 +855,9 @@
         "fr": "translation_draft",
         "es": "translation_draft"
       },
-      "under_review": true
+      "under_review": true,
+      "has_illustration": false,
+      "has_audio": false
     },
     {
       "slug": "001_names_reality",
@@ -840,7 +890,9 @@
         "fr": "translation_draft",
         "es": "translation_draft"
       },
-      "under_review": true
+      "under_review": true,
+      "has_illustration": false,
+      "has_audio": false
     }
   ]
 }
