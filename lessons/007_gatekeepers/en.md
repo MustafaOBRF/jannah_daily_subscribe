@@ -1,239 +1,609 @@
 ---
+title: "The Keepers and Gatekeepers of Jannah"
 lesson_id: "lesson.007"
 topic_id: "jannah.007"
 translation_key: "jannah.gatekeepers"
 lang: "en"
 status: "translation_draft"
-source_lang: "ar"
-title: "The Keepers and Gatekeepers of Jannah"
-audiences: ["adult", "ages_4_7", "ages_8_12", "teen_13_plus"]
-hadith_policy: "sahih_hasan_main"
-translation_note: "English draft translated from the Arabic lesson structure."
-story_policy: "original_parable_plus_authenticated_islamic_history"
+authoring_standard: "full_text_depth_v2"
+story_policy: "authenticated_primary_v2"
+primary_story_type: "hadith"
+primary_story_source_id: "muslim-197"
+primary_story_authenticated: "true"
+authenticated_account_id: "muslim-197"
+activity_concept_id: "lesson.007.activity.keeper-of-the-door"
+bedtime_dua_id: "lesson.007.dua.gatekeepers-salaam"
 ---
 
 # The Keepers and Gatekeepers of Jannah
 
-## Lesson Objectives
+## Lesson Objectives And Outcomes
 
-- Understand that the keepers of Jannah are angels assigned to its gates who act by Allah's command.
-- Reflect on their greeting of peace, purity, and everlasting life for the people of Jannah.
-- Know that Prophet Muhammad ﷺ will be the first for whom the gate of Jannah is opened.
-- Distinguish what is established in the Qur'an and authentic Sunnah from popular details that are not authentically established.
-- Connect the lesson to trustworthiness, gracious welcome, and preparation for meeting Allah through righteous deeds.
+After this lesson, the learner will be able to:
+
+- Recite Allah's words `And its keepers will say to them, "Peace be upon you, you have been pure, so enter it to remain forever"` (az-Zumar 39:73), and explain what `you have been pure` and `to remain forever` each mean in the keepers' greeting to the people of Jannah.
+- Narrate the hadith in Sahih Muslim about the Prophet's request, peace and blessings be upon him, to open the gate of Jannah, and the keeper's exchange with him — `Who are you?... I was commanded regarding you: I do not open for anyone before you` — and explain what this exchange shows about the keeper's complete obedience and the Prophet's precedence in having the gate opened for him.
+- Connect the hadith of the four gates of Jannah (prayer, striving, ar-Rayyan, charity) and Abu Bakr's question, may Allah be pleased with him, to the meaning that entering Jannah is tied to real righteous deeds, not a bare wish.
+- Distinguish between what is established by authentic evidence about the keepers of Jannah (their existence, their greeting of peace, the Prophet's precedence) and the popular name `Ridwan`, for which no authentic hadith is established, comparing this to the Qur'an's explicit naming of the keeper of the Fire, `Malik`.
+- Carry out the "Keeper of the Door" activity, which connects verifying identity before granting entry to verifying a report before believing or sharing it.
 
 ## Academic Section for Adults
 
-### Introduction
+<!-- reader:start audience="adults" estimated_minutes="6.5" -->
 
-The Qur'an mentions the keepers of Jannah in the scene of the God-conscious entering it. A keeper is one entrusted with what has been placed in their care. The keepers of Jannah are honored angels who do not act independently; they carry out Allah's command. They welcome the people of Jannah with words joining peace, purity, and security: `Peace be upon you. You have done well, so enter it to remain forever.`[^1]
+<!-- unit:start id="adults.explanation" kind="explanation" -->
 
-This subject is not an invitation to invent their appearance or fill the unseen with unsupported details. It teaches us to stop where revelation stops, honor the welcome given to the people of Jannah, and prepare for the day when its gate opens only by Allah's permission.
+Every real gate needs someone entrusted with it: someone who knows who deserves to enter, and who holds the authority to open or close it. The Qur'an has told us that the gates of Jannah have keepers — honored angels who do not act on their own, but carry out Allah's command alone, and who welcome the people of Jannah with a single phrase joining peace, purity, and eternity: `Peace be upon you, you have been pure, so enter it to remain forever`.[^1]
 
-### Central Meanings
+This lesson does not aim to draw an imagined picture of these angels or fill the unseen with details that are not established. It joins what the Qur'an has established about the keepers' existence and their greeting with what authentic Sunnah has established about a real exchange between the keeper of Jannah and the Prophet, peace and blessings be upon him, at its gate — then stops at the limit of the evidence when it comes to the popular name of the chief keeper.
 
-First, the keepers of Jannah are real angels affirmed by the Qur'an.[^1]
+<!-- unit:end -->
 
-Second, their reception is one of peace and honor. `You have done well` suits a pure home into which no impurity enters, while `to remain forever` announces the end of all fear of separation or loss.
+<!-- unit:start id="adults.evidence" kind="evidence" -->
 
-Third, Prophet Muhammad ﷺ will be the first for whom the gate is opened. In Sahih Muslim, the keeper asks who he is and then says: `I was commanded regarding you not to open for anyone before you.`[^2]
+## Central Evidence
 
-Fourth, the gates and their keepers are connected to actual righteous deeds. The people of prayer, fasting, charity, and striving are called from their respective gates, and the Prophet ﷺ hoped that Abu Bakr would be called from all of them.[^3]
+<!-- evidence:start id="quran-39-73" kind="quran" mode="canonical" -->
 
-### Central Verses
+### "And Its Keepers Will Say To Them: Peace Be Upon You, You Have Been Pure, So Enter It To Remain Forever"
 
-- `Those who were mindful of their Lord will be led to Paradise in groups. When they arrive at its already open gates, its keepers will say, “Peace be upon you! You have done well, so enter it, to stay forever.”`[^1]
-- `The angels will enter upon them from every gate, saying, “Peace be upon you for your perseverance. How excellent is the ultimate abode!”`[^4]
-- `They never disobey whatever Allah orders—always doing as commanded.`[^5] This general description of the angels governs our understanding of the keepers' role: complete obedience to Allah.
+> **وَسِيقَ الَّذِينَ اتَّقَوْا رَبَّهُمْ إِلَى الْجَنَّةِ زُمَرًا حَتَّىٰ إِذَا جَاءُوهَا وَفُتِحَتْ أَبْوَابُهَا وَقَالَ لَهُمْ خَزَنَتُهَا سَلَامٌ عَلَيْكُمْ طِبْتُمْ فَادْخُلُوهَا خَالِدِينَ.** [الزمر: ٧٣][^1]
 
-### Authenticated Hadith and Reports
+<!-- evidence:translation -->
 
-The Prophet ﷺ said: `I will come to the gate of Paradise on the Day of Resurrection and ask that it be opened. The keeper will say, “Who are you?” I will say, “Muhammad.” He will say, “I was commanded regarding you not to open for anyone before you.”` This is narrated by Muslim.[^2]
+#### Target-language translation
 
-Sahih al-Bukhari also records that the people of prayer will be called from the gate of prayer, the people of striving from its gate, the people of fasting from ar-Rayyan, and the people of charity from the gate of charity. When Abu Bakr asked whether anyone would be called from all the gates, the Prophet ﷺ replied: `Yes, and I hope that you will be among them.`[^3]
+> **"And those who feared their Lord will be driven to Paradise in groups until, when they reach it and its gates have been opened, its keepers will say to them, 'Peace be upon you; you have been pure, so enter it to remain forever.'"** (az-Zumar 39:73)[^1]
 
-Ibn al-Qayyim and Abu Nu'aym gathered narrations about the gatekeepers and keepers of Jannah. Their collections benefit researchers, but every report must be assessed separately; inclusion in a book about Jannah does not by itself prove authenticity.[^6][^7]
+#### Scholarly Tafsir
 
-### Is the Keeper of Jannah Authentically Named Ridwan?
+Commentators note that `zumaran` ("in groups") means successive companies, an honor for the God-conscious in their arrival, unlike the driving of the people of the Fire, which uses the same word `zumar` but in a context of humiliation. They explain that the keepers' word `tibtum` ("you have been pure") is a fitting greeting for a home Allah has purified of every impurity, pointing to the purity of its people's hearts and deeds in this world, and that `khalidin` ("to remain forever") is an explicit glad tiding that every fear of ending or separation is over.[^2]
 
-It is widely said that the chief keeper is named `Ridwan`, but no authentic hadith establishes this. Scholars examining those reports have noted that some are very weak and others objectionable. We therefore affirm with confidence that Jannah has keepers, while stopping short of naming them without evidence. By contrast, the Qur'an explicitly names Malik, the keeper of Hell; one cannot establish a name for Jannah's keeper by analogy.[^6][^8]
+#### Lesson Explanation
 
-This caution does not diminish a beautiful belief. It is proper conduct toward the unseen: affirm what Allah and His Messenger taught and do not state uncertain details as fact.
+Notice the order of the scene: an honored group procession, then the gates opening, then the keepers' speech. The keepers here are not guards who refuse; they are welcomers who bring glad tidings once Allah has given permission to open. This corrects a picture that might come to a child's or an adult's mind of a "door guard" as someone who blocks; the keeper of Jannah is trustworthy with Allah's permission, carries it out the moment it comes, and welcomes with it rather than turning anyone away.
 
-### Bringing the Sources Together
+<!-- evidence:end -->
 
-The Qur'an gives the central scene: gates opened by Allah's command, keepers greeting the God-conscious, and angels entering upon them from every gate. Authentic Sunnah explains that the keeper recognizes the Prophet ﷺ and opens first for him, while people of righteous deeds are called from fitting gates. Classical works collect further routes and reports, which are used with authentication.
+<!-- evidence:start id="muslim-197" kind="hadith" mode="canonical" -->
 
-The practical result is that a believer does not become preoccupied with an unproven name or an undescribed appearance. The useful question is: am I preparing to receive that greeting?
+### "I Was Commanded Regarding You: I Do Not Open For Anyone Before You"
 
-### Scholarly and Teaching Notes
+> عَنْ أَنَسِ بْنِ مَالِكٍ رضي الله عنه، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ: **«آتِي بَابَ الْجَنَّةِ يَوْمَ الْقِيَامَةِ فَأَسْتَفْتِحُ، فَيَقُولُ الْخَازِنُ: مَنْ أَنْتَ؟ فَأَقُولُ: مُحَمَّدٌ، فَيَقُولُ: بِكَ أُمِرْتُ لَا أَفْتَحُ لِأَحَدٍ قَبْلَكَ».**[^3]
 
-- Do not state the name of Jannah's keeper as certain because the popular name lacks authentic evidence.
-- Do not draw angels or invent their appearance.
-- The keepers admit no one independently; all judgment and command belong to Allah.
-- Do not turn the hadith about the gates into a personal guarantee. Work, hope in Allah's mercy, and remain aware of shortcomings.
-- Trustworthiness can illustrate the meaning of a keeper, while clarifying that angelic obedience is perfect.
+<!-- evidence:translation -->
 
-## For Young Children, Ages 4-7
+> On the authority of Anas ibn Malik, may Allah be pleased with him, from the Prophet, peace and blessings be upon him, who said: **"I will come to the gate of Jannah on the Day of Resurrection and ask that it be opened. The keeper will say: 'Who are you?' I will say: 'Muhammad.' He will say: 'I was commanded regarding you: I do not open for anyone before you.'"**[^3]
 
-### Simple Explanation
+#### Scholarly Explanation
 
-Jannah has gates, and honored angels called its keepers are there. They do what Allah commands. When the people of Jannah enter, the keepers say: `Peace be upon you.` We ask Allah for Jannah and prepare for it with faith and good deeds.
+This hadith in Sahih Muslim establishes two things together: the existence of a real keeper entrusted with the gate of Jannah who asks about the identity of the one knocking before opening, and that he does not open for anyone of his own accord, but by a prior command from Allah, Most High, singling out the Prophet, peace and blessings be upon him, above all others, so that he is the first for whom the gate is opened on the Day of Resurrection.
 
-### Short Story
+#### Lesson Explanation
 
-This is an imaginary teaching story.
+This hadith answers a practical question that might come to mind: how does the keeper know who deserves to enter first? The answer: by Allah's prior command, not by personal acquaintance or favoritism. The keeper asks `Who are you?`, verifying identity before any permission — exactly as anyone entrusted with a door or a trust must verify before granting permission. This connects the Prophet's, peace and blessings be upon him, magnificent standing with Allah to a practical lesson in verifying before permitting, which is what this lesson's activity is built on.
 
-Maryam's teacher asked her to welcome the children at the classroom door on activity day. She gave her a small list and said, “Welcome everyone and show each child where to go. This is a trust.”
+<!-- evidence:end -->
 
-As the children arrived, Maryam said, “Peace be upon you. Welcome!” She helped a younger child carry his bag and told the teacher when everyone had arrived. Maryam was happy that she kept her trust instead of leaving the door to play.
+<!-- evidence:start id="bukhari-1897" kind="hadith" mode="canonical" -->
 
-After the activity, the teacher said, “Did you know that Jannah has keepers from among the angels? They welcome its people with peace and obey Allah.” Maryam asked, “Do we know their names?” The teacher replied, “We know what the Qur'an tells us, and we do not guess what it does not tell us.”
+### "Whoever Is Among The People Of Prayer Is Called From The Gate Of Prayer"
 
-Another child asked, “Do they decide who enters?” The teacher answered, “Allah alone judges and commands, and the angels obey Him.”
+> عَنْ أَبِي هُرَيْرَةَ رضي الله عنه، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ: **«مَنْ أَنْفَقَ زَوْجَيْنِ فِي سَبِيلِ اللَّهِ نُودِيَ مِنْ أَبْوَابِ الْجَنَّةِ: يَا عَبْدَ اللَّهِ هَذَا خَيْرٌ، فَمَنْ كَانَ مِنْ أَهْلِ الصَّلَاةِ دُعِيَ مِنْ بَابِ الصَّلَاةِ، وَمَنْ كَانَ مِنْ أَهْلِ الْجِهَادِ دُعِيَ مِنْ بَابِ الْجِهَادِ، وَمَنْ كَانَ مِنْ أَهْلِ الصِّيَامِ دُعِيَ مِنْ بَابِ الرَّيَّانِ، وَمَنْ كَانَ مِنْ أَهْلِ الصَّدَقَةِ دُعِيَ مِنْ بَابِ الصَّدَقَةِ». فَقَالَ أَبُو بَكْرٍ رضي الله عنه: مَا عَلَى مَنْ دُعِيَ مِنْ تِلْكَ الْأَبْوَابِ مِنْ ضَرُورَةٍ، فَهَلْ يُدْعَى أَحَدٌ مِنْ تِلْكَ الْأَبْوَابِ كُلِّهَا؟ قَالَ: **«نَعَمْ، وَأَرْجُو أَنْ تَكُونَ مِنْهُمْ».**[^4]
 
-At home, Maryam greeted her brother warmly. From then on, whenever she was given a small responsibility, she remembered that the angels never neglect what Allah commands.
+<!-- evidence:translation -->
 
-### True Story From Islamic History
+> On the authority of Abu Hurayrah, may Allah be pleased with him, from the Prophet, peace and blessings be upon him, who said: **"Whoever spends a pair of something in the way of Allah will be called from the gates of Jannah: 'O servant of Allah, this is good.' So whoever is among the people of prayer is called from the gate of prayer, whoever is among the people of striving is called from the gate of striving, whoever is among the people of fasting is called from the gate of ar-Rayyan, and whoever is among the people of charity is called from the gate of charity."** Abu Bakr, may Allah be pleased with him, said: "There is no necessity that a person be called from all those gates — but can anyone be called from all of those gates together?" He said: **"Yes, and I hope that you will be among them."**[^4]
 
-Abu Bakr رضي الله عنه loved many kinds of good deeds. The Prophet ﷺ spoke of gates for prayer, fasting, charity, and striving. Abu Bakr asked whether anyone would be called from all those gates. The Prophet ﷺ said yes and hoped Abu Bakr would be among them. His story teaches us to prepare to meet the keepers of Jannah through many good deeds.[^3]
+#### Scholarly Explanation
+
+This hadith, agreed upon, shows that the gates of Jannah are not identical without reason; rather, each gate is tied to a specific kind of righteous deed: prayer, striving, fasting, and charity. Abu Bakr's question, may Allah be pleased with him, is not idle curiosity about the number of gates, but a practical ambition: can one combine all the gates of good together?
+
+#### Lesson Explanation
+
+This hadith completes the previous hadith of the Prophet's request to enter: just as the keeper does not open except by a prior command, the call from the gates is tied to real prior deeds, not merely a desire to enter. The Prophet's answer to Abu Bakr, peace and blessings be upon him, `Yes, and I hope that you will be among them`, connects the multiplicity of gates of good to sincerity of effort across all of them, not settling for just one gate.
+
+<!-- evidence:end -->
+
+<!-- evidence:start id="quran-13-23-24" kind="quran" mode="canonical" -->
+
+### "And The Angels Will Enter Upon Them From Every Gate"
+
+> **جَنَّاتُ عَدْنٍ يَدْخُلُونَهَا وَمَنْ صَلَحَ مِنْ آبَائِهِمْ وَأَزْوَاجِهِمْ وَذُرِّيَّاتِهِمْ ۖ وَالْمَلَائِكَةُ يَدْخُلُونَ عَلَيْهِمْ مِنْ كُلِّ بَابٍ * سَلَامٌ عَلَيْكُمْ بِمَا صَبَرْتُمْ ۚ فَنِعْمَ عُقْبَى الدَّارِ.** [الرعد: ٢٣-٢٤][^5]
+
+<!-- evidence:translation -->
+
+> **"Gardens of perpetual residence, which they will enter along with the righteous among their fathers, spouses, and descendants, while the angels will enter upon them from every gate, 'Peace be upon you for what you patiently endured. And excellent is the final home.'"** (ar-Ra'd 13:23-24)[^5]
+
+#### Scholarly Tafsir
+
+Commentators explain that this scene describes an added honor beyond simply entering Jannah: the angels visit its people from every gate to congratulate them, tying this honor explicitly to the patience they practiced in the world — in obedience, in avoiding sin, and in facing decreed hardship.
+
+#### Lesson Explanation
+
+This ayah widens the scene of the keepers at the entrance into a fuller scene: angels entering upon the people of Jannah from every gate in their own home, not only at its outer gate, repeating the same greeting of peace, but this time joined to its direct cause: `for what you patiently endured`. The reader learns that every greeting of peace the people of Jannah hear from the keepers or other angels is the fruit of real patience that preceded it in the world.
+
+<!-- evidence:end -->
+
+<!-- evidence:start id="quran-66-6" kind="quran" mode="canonical" -->
+
+### "Angels, Harsh And Severe; They Do Not Disobey Allah In What He Commands Them"
+
+> **يَا أَيُّهَا الَّذِينَ آمَنُوا قُوا أَنْفُسَكُمْ وَأَهْلِيكُمْ نَارًا وَقُودُهَا النَّاسُ وَالْحِجَارَةُ عَلَيْهَا مَلَائِكَةٌ غِلَاظٌ شِدَادٌ لَا يَعْصُونَ اللَّهَ مَا أَمَرَهُمْ وَيَفْعَلُونَ مَا يُؤْمَرُونَ.** [التحريم: ٦][^6]
+
+<!-- evidence:translation -->
+
+> **"O you who have believed, protect yourselves and your families from a Fire whose fuel is people and stones, over which are angels, harsh and severe; they do not disobey Allah in what He commands them, but do as they are commanded."** (at-Tahrim 66:6)[^6]
+
+#### Scholarly Tafsir
+
+This ayah was revealed describing the angels of the Fire and their severity in carrying out Allah's command, but scholars cite its general wording to establish a trait common to all angels, not specific to the angels of the Fire alone: complete obedience, with disobedience being simply impossible for them.
+
+#### Lesson Explanation
+
+This general trait explains for us the keeper of Jannah's conduct in the hadith of the request to enter: he does not open the gate out of personal sympathy or esteem, nor does he refuse out of his own harshness, but carries out Allah's command completely, with no room for personal judgment or change. Just as the angels of the Fire do not disobey what they are commanded in severity, the keepers of Jannah do not disobey what they are commanded in peace and welcome.
+
+<!-- evidence:end -->
+
+<!-- evidence:start id="quran-43-77" kind="quran" mode="canonical" -->
+
+### "And They Will Call, 'O Malik, Let Your Lord Put An End To Us'"
+
+> **وَنَادَوْا يَا مَالِكُ لِيَقْضِ عَلَيْنَا رَبُّكَ ۖ قَالَ إِنَّكُمْ مَاكِثُونَ.** [الزخرف: ٧٧][^7]
+
+<!-- evidence:translation -->
+
+> **"And they will call, 'O Malik, let your Lord put an end to us!' He will say, 'Indeed, you will remain.'"** (az-Zukhruf 43:77)[^7]
+
+#### Scholarly Tafsir
+
+Here the Qur'an names the keeper of the Fire explicitly by his name, `Malik`. This is a decisive text regarding the naming, needing no research or weighing of evidence — unlike what will be explained about the popular name of the keeper of Jannah.
+
+#### Lesson Explanation
+
+This contrast is deliberate for anyone who reflects on it: when the Qur'an wanted to name a keeper, it named him explicitly, as in this ayah, but it did not name the greater keeper of Jannah with a comparable explicit statement, and no authentic hadith from the Prophet, peace and blessings be upon him, has established a name for him. The silence here is silence about the naming, not a deficiency in knowledge; we follow the evidence wherever it leads — naming when it is established, and withholding when it is absent.
+
+<!-- evidence:end -->
+
+### Scholarly Note: Is It Established That the Keeper of Jannah Is Named Ridwan?
+
+It has become popular on people's tongues to name the chief keeper of Jannah `Ridwan`, so much that many assume it is established the way the name `Malik` is established for the keeper of the Fire. But the reports regarding this name do not include any authentic hadith with an unbroken chain to the Prophet, peace and blessings be upon him; some have a weak chain, and some are objectionable. Ibn al-Qayyim, may Allah have mercy on him, and the hadith scholar Abu Nu'aym al-Asbahani, may Allah have mercy on him, gathered what has been reported on this subject in their respective books devoted to describing Jannah, and their collections benefit a researcher looking into the routes of the report — but a report's mere presence in a book on the subject of description is not by itself enough to judge it established; the authenticity of each report is examined on its own chain.[^8][^9]
+
+This caution is not a diminishing of a beautiful meaning the heart loves; it is proper conduct toward the unseen: we affirm with certainty what Allah and His Messenger have told us, and we do not assert with certainty what is not established, even if it is popular on people's tongues. The educational fruit is that the believer does not busy himself with an unproven name, but busies himself with the more useful question: am I preparing to hear that greeting of peace myself?
+
+<!-- unit:end -->
+
+<!-- unit:start id="adults.questions" kind="questions" -->
+
+## Questions for Understanding and Reflection
+
+1. What does each of `you have been pure` and `to remain forever` signify in the keepers' greeting to the people of Jannah?
+2. What does the hadith of the request to enter establish about how the keeper of Jannah operates, and about the Prophet's, peace and blessings be upon him, standing?
+3. How does the hadith of the gates of prayer, striving, fasting, and charity connect the call from a gate to the deed that actually preceded it?
+4. Why did the Qur'an name the keeper of the Fire explicitly, while no name was established for the chief keeper of Jannah?
+5. How do you practically distinguish between religious information that is popular on people's tongues and information established by authentic evidence, in what you hear or share this week?
+
+<!-- unit:end -->
+
+<!-- unit:start id="adults.activity" kind="activity" -->
+
+### Activity: Keeper of the Door
+
+<!-- activity:start audience="adults" concept_id="lesson.007.activity.keeper-of-the-door" -->
+
+Choose a real door you are entrusted with in your life: an administrative privilege, a shared family account, a messaging group you moderate, or even your home's door when its people are away. Write down your actual standard for verifying before you "open": what do you genuinely confirm before you grant permission? Then choose a religious report or piece of information you recently heard or repeated without verifying, and look up its source this week before repeating or sharing it again, drawing on this lesson's distinction between what is popular and what is established, as in the name of the keeper of Jannah. Close with one commitment sentence connecting verifying before granting entry to verifying before believing a report.
+
+<!-- activity:end -->
+
+<!-- unit:end -->
+
+<!-- reader:end -->
+
+## For Children Ages 4 to 7
+
+<!-- reader:start audience="4-7" estimated_minutes="5.0" -->
+
+<!-- unit:start id="4-7.explanation" kind="explanation" -->
+
+Jannah has gates, and at each gate is an honored angel with one of his names being "keeper," meaning: one entrusted with the gate. The angel does only what Allah commands him; he does not open for anyone on his own. And when the people of Jannah enter, the keepers say to them a beautiful word: `Peace be upon you`. What a beautiful greeting!
+
+<!-- unit:end -->
+
+<!-- unit:start id="4-7.primary-story" kind="primary_story" -->
+
+### An Authentic Hadith: I Was Commanded Regarding You, I Do Not Open For Anyone Before You
+
+<!-- story:start audience="4-7" role="primary" type="hadith" source_id="muslim-197" authenticated="true" -->
+
+**This is a true report the Prophet, peace and blessings be upon him, told us, not an imagined story.**
+
+Our Prophet Muhammad, peace and blessings be upon him, told us about a great day coming, a day when all people will stand at the great gate of Jannah. He said, peace and blessings be upon him: `I will come to the gate of Jannah on the Day of Resurrection and ask that it be opened`, meaning: I will knock on the gate and ask for it to be opened for me.[^3]
+
+At the gate is a trustworthy angel called the keeper. The keeper does not know anyone he opens for on his own, so he asks: `Who are you?`. The Prophet, peace and blessings be upon him, answers him: `Muhammad`. Then the keeper says an amazing word: `I was commanded regarding you: I do not open for anyone before you`, meaning: Allah commanded me beforehand not to open this gate for any person before you, O Muhammad.[^3]
+
+<!-- retelling:start source_id="muslim-197" audience="4-7" -->
+
+All of this simply means: our Prophet, peace and blessings be upon him, is the very first person for whom the gate of Jannah is opened on the Day of Resurrection, because Allah commanded the keeper of the gate to do so beforehand.[^3] And the keeper is trustworthy; he does not open for anyone except by Allah's permission.
+
+<!-- retelling:end -->
+
+<!-- story:end -->
+
+<!-- unit:end -->
+
+<!-- unit:start id="4-7.questions" kind="questions" -->
 
 ### Short Questions
 
-- Who are the keepers of Jannah?
-- What do they say to its people?
-- Who commands the angels?
-- How can you keep a trust at home?
+1. What does the keeper say before he opens the gate?
+2. Who is the first person for whom the gate of Jannah is opened?
+3. Does the keeper of Jannah open the gate on his own, or by Allah's command?
 
-### Home or Circle Activity
+<!-- unit:end -->
 
-Make a welcome card saying `Peace be upon you`. Stand at the room's door, welcome your family, and name one good deed through which you hope for Jannah.
+<!-- unit:start id="4-7.activity" kind="activity" -->
 
-### Bedtime Version
+### Activity: Keeper of My Door
 
-Angels guard the gates of Jannah and welcome its people with peace. Say: `O Allah, admit us into Jannah in peace.`
+<!-- activity:start audience="4-7" concept_id="lesson.007.activity.keeper-of-the-door" -->
 
-## For Middle Children, Ages 8-12
+The child stands at the door of their room holding a card the grown-up wrote with `Peace be upon you`. The grown-up agrees with the child on a simple secret word or a certain signal, and the child does not open the door for anyone in the family until the one knocking says it. Afterward the grown-up explains to the child: this is how the keeper of Jannah is too, he does not open for anyone except by Allah's permission for him.
 
-### Age-Appropriate Explanation
+<!-- activity:end -->
 
-The keepers are angels assigned to the gates of Jannah. The Qur'an does not tell us their appearance, but it tells us their beautiful words. Authentic Sunnah also tells us that the Prophet ﷺ will be the first for whom its keeper opens the gate.
+<!-- unit:end -->
 
-This teaches two rules: believe in the unseen as revealed, and work to become worthy of the glad tidings. Do not invent details, and do not collect information without turning it into obedience.
+<!-- unit:start id="4-7.bedtime-dua" kind="bedtime_dua" -->
 
-### Short Story
+### Bedtime Du'a
 
-This is an imaginary teaching story.
+<!-- bedtime-dua:start audience="4-7" id="lesson.007.dua.gatekeepers-salaam" provenance="lesson_authored" source_id="" attribution="not_prophetic" -->
 
-At the school book fair, Salim was entrusted with a box of tablets. The principal said, “Only give a device to someone with a card, and record every return.”
+**Lesson-authored thematic du'a; not attributed to the Prophet, peace and blessings be upon him.**
 
-His friend soon asked for one without a card. Salim almost agreed, but remembered that friendship did not cancel his trust. He politely asked his friend to bring the card. His friend was briefly annoyed, then returned with it and understood.
+> اللَّهُمَّ افْتَحْ لَنَا أَبْوَابَ جَنَّتِكَ بِسَلَامِكَ، وَاجْعَلْنَا مِمَّنْ يُقَالُ لَهُ: سَلَامٌ عَلَيْكُمْ طِبْتُمْ فَادْخُلُوهَا خَالِدِينَ.
+>
+> *"O Allah, open for us the gates of Your Jannah with Your peace, and make us among those to whom it is said: Peace be upon you, you have been pure, so enter it to remain forever."*
 
-In Islamic studies, the teacher read the greeting of Jannah's keepers. Salim asked whether their work involved keeping a trust. The teacher said, “Yes, in that they carry out what Allah assigns—but angelic obedience is perfect, while we struggle and learn.”
+<!-- bedtime-dua:end -->
 
-A student asked, “Is their leader named Ridwan?” The teacher replied, “That is popular, but it is not established in an authentic hadith. Honesty in knowledge means distinguishing what is popular from what is proven.”
+<!-- unit:end -->
 
-Salim learned that there is trustworthiness in action and trustworthiness when speaking about religion. At day's end, he returned every device and wrote: “I prepare for the keepers' greeting through good deeds, and I protect my religion from unsupported claims.”
+<!-- reader:end -->
 
-### True Story From Islamic History
+## For Children Ages 8 to 12
 
-When the Prophet ﷺ described the gates for prayer, fasting, charity, and striving, Abu Bakr رضي الله عنه asked about the person called from all of them. His question was not curiosity about their shape or the keepers' names; it reflected ambition to act. The Prophet ﷺ gave him glad tidings by expressing hope that he would be among them. Sound knowledge should lead to sound action.[^3]
+<!-- reader:start audience="8-12" estimated_minutes="6.0" -->
 
-### Important Vocabulary
+<!-- unit:start id="8-12.explanation" kind="explanation" -->
 
-- `Keepers of Jannah`: angels assigned to its gates.
-- `Keeper`: one entrusted with what is placed in their care.
-- `You have done well`: you have become pure from every evil.
-- `The unseen`: what we can know only through truthful revelation.
+The keepers of Jannah are honored angels entrusted with its gates, who never act on their own, but carry out Allah's command alone. The Qur'an tells us they welcome the people of Jannah with the greeting `Peace be upon you, you have been pure, so enter it to remain forever`, and authentic Sunnah tells us that the Prophet, peace and blessings be upon him, is the first for whom the gate is opened. This lesson also teaches us how to distinguish between what is established by authentic evidence and what is merely popular without evidence.
 
-### Questions for Understanding and Reflection
+<!-- unit:end -->
 
-- What do we know with certainty about Jannah's keepers?
-- Why should we not invent an appearance for angels?
-- What is the difference between a popular claim and an established fact?
-- How did Abu Bakr turn knowledge of the gates into motivation?
+<!-- unit:start id="8-12.primary-story" kind="primary_story" -->
 
-### Practical Activity
+### An Authentic Hadith: A Conversation at the Gate of Jannah
 
-Make two columns: `Established by revelation` and `Not established`. In the first place the keepers, their greeting, and the gate opening first for the Prophet ﷺ. In the second place their appearance and a certain name for their chief. Then choose one trust to keep this week.
+<!-- story:start audience="8-12" role="primary" type="hadith" source_id="muslim-197" authenticated="true" -->
+
+**This is a true report in Sahih Muslim, told to us by the Prophet, peace and blessings be upon him, not an imagined story.**
+
+The Prophet, peace and blessings be upon him, tells us about himself on the Day of Resurrection, saying: `I will come to the gate of Jannah on the Day of Resurrection and ask that it be opened`. Imagine that great day: every person who has ever lived, from Adam, peace be upon him, to the very last human being, standing — and the first one to reach the gate and ask for it to be opened is our Prophet Muhammad, peace and blessings be upon him.
+
+But the keeper at the gate does not know anyone on his own, so he asks him: `Who are you?`. The Prophet, peace and blessings be upon him, answers him: `Muhammad`. Then the keeper reveals something he already knew beforehand: `I was commanded regarding you: I do not open for anyone before you`.[^3]
+
+This exchange establishes two things together: that the keeper is trustworthy and does not open except by a prior command from Allah, and that Allah honored His Prophet, peace and blessings be upon him, by making him the very first of all creation to enter Jannah.
+
+<!-- retelling:start source_id="muslim-197" audience="8-12" -->
+
+In other words: the keeper of Jannah verifies the identity of everyone who asks to enter before he opens for them, and he does not open except by a prior permission from Allah. Allah gave permission for our Prophet Muhammad, peace and blessings be upon him, to be the first for whom it is opened, and this is a magnificent honor for him, peace and blessings be upon him.[^3]
+
+<!-- retelling:end -->
+
+<!-- story:end -->
+
+<!-- unit:end -->
+
+<!-- unit:start id="8-12.terms" kind="terms" -->
+
+<!-- terminology:start source_id="quran-39-73" -->
+
+- **`خَزَنَةُ الْجَنَّةِ`** ("the keepers of Jannah") — the angels entrusted with the gates of Jannah, who open them by Allah's command, not on their own.
+- **`طِبْتُمْ`** ("you have been pure") — you have become good and pure of every impurity, a greeting befitting a home Allah has purified.
+- **`الْخَازِن`** ("the keeper") — one entrusted with what has been placed in his care, who acts in it only with the permission of the one who entrusted him.
+
+<!-- terminology:end -->
+
+<!-- unit:end -->
+
+<!-- unit:start id="8-12.questions" kind="questions" -->
+
+### Understanding and Reflection Questions
+
+1. What does the keeper of Jannah do before he opens the gate for anyone?
+2. What made the keeper of Jannah know he should open first for the Prophet, peace and blessings be upon him?
+3. List the four gates mentioned in Abu Bakr's hadith, may Allah be pleased with him, and which deed each one is tied to.
+4. Why do we not assert with certainty that the name of the chief keeper of Jannah is Ridwan?
+
+<!-- unit:end -->
+
+<!-- unit:start id="8-12.activity" kind="activity" -->
+
+### Activity: Entry Card and the "Established / Not Established" List
+
+<!-- activity:start audience="8-12" concept_id="lesson.007.activity.keeper-of-the-door" -->
+
+Play "door keeper" with a sibling or friend: make simple entry cards for three people only, and the keeper does not allow anyone to enter without a valid card, even someone he personally knows. Then make two columns headed "Established by the text" and "Not established." In the first, place: the existence of the keepers, their greeting of peace, the gate being opened for the Prophet, peace and blessings be upon him, first, and the gates of prayer, striving, fasting, and charity. In the second, place the name "Ridwan" for the chief keeper. Connect the game and the list with one sentence explaining why "I know him" or "I've heard it a lot" alone are not proof that something is authentic.
+
+<!-- activity:end -->
+
+<!-- unit:end -->
+
+<!-- unit:start id="8-12.bedtime-dua" kind="bedtime_dua" -->
+
+### Bedtime Du'a
+
+<!-- bedtime-dua:start audience="8-12" id="lesson.007.dua.gatekeepers-salaam" provenance="lesson_authored" source_id="" attribution="not_prophetic" -->
+
+**Lesson-authored thematic du'a; not attributed to the Prophet, peace and blessings be upon him.**
+
+> اللَّهُمَّ افْتَحْ لَنَا أَبْوَابَ جَنَّتِكَ بِسَلَامِكَ، وَاجْعَلْنَا مِمَّنْ يُقَالُ لَهُ: سَلَامٌ عَلَيْكُمْ طِبْتُمْ فَادْخُلُوهَا خَالِدِينَ.
+>
+> *"O Allah, open for us the gates of Your Jannah with Your peace, and make us among those to whom it is said: Peace be upon you, you have been pure, so enter it to remain forever."*
+
+<!-- bedtime-dua:end -->
+
+<!-- unit:end -->
+
+<!-- reader:end -->
 
 ## For Teens, Ages 13+
 
-### Deeper Explanation
+<!-- reader:start audience="13+" estimated_minutes="6.5" -->
 
-The keepers of Jannah offer practical training in how to approach the unseen. Faith does not unleash imagination; it submits to authentic revelation and stops where revelation stops. The Qur'an affirms the keepers and their greeting, and Sahih Muslim records their keeper's words to the Prophet ﷺ, but the popular name of their chief has no authentic chain.
+<!-- unit:start id="13+.explanation" kind="explanation" -->
 
-This precision does not make the lesson dry; it makes it truthful. A believer needs no weak story to love Jannah. Allah's promise, the greeting of peace, eternal life, and the Prophet's precedence at the gate are enough.
+The subject of the keepers of Jannah is practical training in two approaches you need together every day: submitting to what is authentically established in revelation, and stopping at what is not established no matter how popular it becomes. The Qur'an establishes the existence of the keepers and their greeting, and Sahih Muslim establishes a real exchange between the keeper of Jannah and the Prophet, peace and blessings be upon him, but the popular name of their chief, `Ridwan`, is not established by an authentic chain — unlike the name `Malik`, the keeper of the Fire, which the Qur'an states explicitly. This distinction is not a dry technicality; it is training in how to handle every piece of religious information that reaches you, especially through a screen.
 
-### Short Story
+<!-- unit:end -->
 
-This is an imaginary teaching story.
+<!-- unit:start id="13+.primary-story" kind="primary_story" -->
 
-Yasir was creating a digital poster about the angels of Jannah. He found an attractive post listing supposed names and descriptions of its keepers and nearly copied it. When he checked the sources, however, he found no verse or authentic hadith supporting most of it.
+### An Authentic Hadith: The Keeper's Trustworthiness and the Prophet's Precedence, Peace and Blessings Be Upon Him
 
-His friend said, “Everyone shares it, so what is the problem?” Yasir answered, “A claim does not become revelation through repetition.” He removed the unsupported details, used the verse from az-Zumar and the hadith from Sahih Muslim, and added: “The name Ridwan is popular for Jannah's keeper, but no authentic hadith establishes it.”
+<!-- story:start audience="13+" role="primary" type="hadith" source_id="muslim-197" authenticated="true" -->
 
-He worried that the poster would be less exciting. Instead, his teacher thanked him: “You protected not only the integrity of your design but the trust of speaking about religion.”
+**This is a true report in Sahih Muslim, told to us by the Prophet, peace and blessings be upon him, not an imagined scene.**
 
-Yasir ended his presentation with a question: “The useful issue is not how I imagine the keeper, but what deeds I hope will bring me to the gate.” He then made a small plan: prayer on time, weekly charity, and voluntary fasting when able. Verification had not ended the lesson; it had cleared the way for action.
+The Prophet, peace and blessings be upon him, describes a precise moment on the Day of Resurrection, when he stands at the gate of Jannah to ask that it be opened: `I will come to the gate of Jannah on the Day of Resurrection and ask that it be opened`. The keeper at the gate does not grant him permission merely because he recognizes his standing or out of personal feeling; instead he first asks him: `Who are you?` — an explicit verification of identity before any decision.
 
-### True Story From Islamic History
+The Prophet, peace and blessings be upon him, answers: `Muhammad`. At that point the keeper reveals what he already knew beforehand, not something he observed or concluded on his own: `I was commanded regarding you: I do not open for anyone before you`.[^3]
 
-Abu Bakr رضي الله عنه hastened to many forms of goodness. On hearing about the gates of prayer, striving, ar-Rayyan, and charity, he asked whether someone could be called from all of them. The Prophet ﷺ said: `Yes, and I hope that you will be among them.` Abu Bakr sought no sensational unseen detail; he sought a rank reached by completing acts of obedience. That is the difference between curiosity that changes nothing and knowledge that raises ambition.[^3]
+Notice that the keeper did not say "you are the best of people, so I will open for you," but said "I was commanded regarding you"; his reference is a prior command from Allah alone, not personal judgment. This is the essence of the keeper's trustworthiness: he carries out exactly what he was commanded, neither adding nor subtracting, and does not open for anyone except by a permission already fixed beforehand.
+
+<!-- retelling:start source_id="muslim-197" audience="13+" -->
+
+In other words: the keeper of Jannah's grant of permission to the Prophet, peace and blessings be upon him, was not a personal decision of his own, but the carrying out of a prior command from Allah alone, after first verifying his identity through a direct question.[^3] This is a precise standard: verify first, then execute without addition or personal judgment.
+
+<!-- retelling:end -->
+
+<!-- story:end -->
+
+<!-- unit:end -->
+
+<!-- unit:start id="13+.terms" kind="terms" -->
+
+<!-- terminology:start source_id="muslim-197" -->
+
+- **`أَسْتَفْتِحُ`** ("I ask that it be opened") — I request permission to open the gate; it is a request for permission, not an act done on one's own authority.
+- **`بِكَ أُمِرْتُ`** ("I was commanded regarding you") — a phrase stating that the reference for the action is a prior command from Allah, not personal judgment or estimation by the keeper.
+- **`The exception in naming`** — a scholarly principle: an unseen figure's name is not established except by evidence specific to it, and it cannot be inferred by analogy to another figure's name even if their description is similar, as in the difference between `Malik`, whose naming is established, and `Ridwan`, whose naming is not established.
+
+<!-- terminology:end -->
+
+<!-- unit:end -->
+
+<!-- unit:start id="13+.questions" kind="questions" -->
 
 ### Discussion Questions
 
-- Why is withholding certainty about an unproven claim a scholarly strength?
-- How should you verify an attractive religious post with no source?
-- What does `I was commanded regarding you` teach about angelic obedience?
-- Which gates of goodness need strengthening in your life?
+1. What does the keeper's statement `I was commanded regarding you` teach us about the difference between carrying out a command and acting on personal judgment?
+2. Why is withholding certainty about the name `Ridwan` a scholarly strength, not a shortfall in faith or love?
+3. How do you verify a religious post that looks beautiful but has no clear source before you share it?
+4. What is the relationship between the hadith of the gates of prayer, striving, fasting, and charity and the idea that entry is tied to a real prior deed, not a mere wish?
+5. Which gate of goodness in your life needs strengthening this week, and why that gate specifically?
 
-### Practical Applications
+<!-- unit:end -->
 
-- Verify one widespread religious claim this week before sharing it.
-- Combine two gates of goodness: one private act of worship and one service to people.
-- Practice warm greetings at home or the mosque.
-- Ask Allah for Jannah with work and hope, without declaring yourself worthy.
+<!-- unit:start id="13+.activity" kind="activity" -->
 
-### Reflective Writing Activity
+### Activity: The Weekly Door-Keeper Log
 
-Write a page titled `At the Gate` with three lines: a fact I affirm, a detail about which I do not claim certainty, and a deed through which I prepare. Review it with a trusted teacher.
+<!-- activity:start audience="13+" concept_id="lesson.007.activity.keeper-of-the-door" -->
 
-## Short Teaching Plan
+For one week, record every time you encounter a widely shared piece of religious information (a post, a clip, a message) before you share it or fully believe it. For each one, write: did you search for its source? Did you find a verse or an authentic hadith establishing it, or is it something popular without evidence, like the name `Ridwan`? Then choose two gates of goodness established by evidence (such as prayer and charity, for example) and commit to actually strengthening them this week, rather than settling for knowing the hadith about them. Close your log with a short paragraph connecting "verifying before opening" in the hadith of the keeper to "verifying before believing" in your digital life.
 
-### Adults
+<!-- activity:end -->
 
-- Suggested time: 45-60 minutes.
-- Study az-Zumar 39:73 and the hadith of the Prophet's request to enter.
-- Discuss the difference between popular and authentic reports about the keeper's name.
-- End with a personal plan to strengthen gates of obedience.
+<!-- unit:end -->
 
-### Ages 4-7
+<!-- unit:start id="13+.bedtime-dua" kind="bedtime_dua" -->
 
-- Suggested time: 10-15 minutes.
-- Use a peace greeting card at the classroom door.
-- Emphasize that angels obey Allah and should not be drawn.
+### Bedtime Du'a
 
-### Ages 8-12
+<!-- bedtime-dua:start audience="13+" id="lesson.007.dua.gatekeepers-salaam" provenance="lesson_authored" source_id="" attribution="not_prophetic" -->
 
-- Suggested time: 25-35 minutes.
-- Complete the `established / not established` activity.
-- Connect keeping a gate with trustworthiness without equating humans and angels.
+**Lesson-authored thematic du'a; not attributed to the Prophet, peace and blessings be upon him.**
 
-### Ages 13+
+> اللَّهُمَّ افْتَحْ لَنَا أَبْوَابَ جَنَّتِكَ بِسَلَامِكَ، وَاجْعَلْنَا مِمَّنْ يُقَالُ لَهُ: سَلَامٌ عَلَيْكُمْ طِبْتُمْ فَادْخُلُوهَا خَالِدِينَ.
+>
+> *"O Allah, open for us the gates of Your Jannah with Your peace, and make us among those to whom it is said: Peace be upon you, you have been pure, so enter it to remain forever."*
 
-- Suggested time: 35-45 minutes.
-- Discuss verification of religious posts.
-- Analyze the Qur'anic verse and the two authentic hadiths.
-- End with a two-part plan for righteous deeds.
+<!-- bedtime-dua:end -->
+
+<!-- unit:end -->
+
+<!-- reader:end -->
+
+## Detailed Teaching Plans
+
+<!-- lesson-plan:start audience="adults" minutes="60" -->
+
+### Adults — 60 Minutes
+
+<!-- lesson-plan:outcomes -->
+**Learning Outcomes:** The learner explains az-Zumar 39:73 and the hadith of the request to enter, connects the hadith of the four gates to the meaning of a prior deed required for entry, distinguishes the established name `Malik` from the unestablished name `Ridwan`, and carries out the Keeper of the Door activity.
+
+<!-- lesson-plan:materials -->
+**Materials:** A complete copy of az-Zumar 39:73, ar-Ra'd 13:23-24, at-Tahrim 66:6, and az-Zukhruf 43:77; the text of Sahih Muslim 197 and Sahih al-Bukhari 1897; blank entry cards; paper and pens.
+
+<!-- lesson-plan:preparation -->
+**Preparation:** The teacher reviews the scholarly distinction between the established name `Malik` and the unestablished name `Ridwan` in Ibn al-Qayyim and Abu Nu'aym, and prepares a neutral example of a popular religious claim for the learners to verify together.
+
+<!-- lesson-plan:opening -->
+**Opening — 5 minutes:** Ask: "If you were entrusted with an important door or account, what is the first thing you would verify before letting anyone in?"
+
+<!-- lesson-plan:evidence -->
+**Studying the Evidence — 15 minutes:** Groups read the four ayat and the two hadiths in full, and each group identifies: who actually grants permission to open, and how each gate relates to a specific deed.
+
+<!-- lesson-plan:instruction -->
+**Guided Instruction — 15 minutes:** The teacher explains the hadith of the request to enter and the hadith of the four gates, then briefly presents the question of the name `Ridwan` and how it differs from the Qur'an's explicit naming of `Malik`.
+
+<!-- lesson-plan:activity -->
+**Activity — 15 minutes:** Learners individually carry out the Keeper of the Door activity, then whoever wishes shares one example of information they verified this week.
+
+<!-- lesson-plan:assessment -->
+**Assessment and Closing — 10 minutes:** Exit card: "State the difference between what is established and what is popular regarding the keepers of Jannah, with one example of each." The teacher closes by reading the du'a, noting it is his own educational composition.
+
+<!-- lesson-plan:differentiation -->
+**Differentiation:** Give a beginner the text of both hadiths with the key phrases highlighted, and assign an advanced learner to discuss Ibn al-Qayyim's and Abu Nu'aym's method of collecting reports on Jannah's description and the importance of examining each report's chain individually.
+
+<!-- lesson-plan:safeguards -->
+**Teaching Cautions:** Do not describe the angels with imagined physical traits, and do not present the caution about the name `Ridwan` in a way that shakes the learner's confidence in the unseen generally, but rather as an application of the method of verification.
+
+<!-- lesson-plan:end -->
+
+<!-- lesson-plan:start audience="4-7" minutes="30" -->
+
+### Children Ages 4-7 — 30 Minutes
+
+<!-- lesson-plan:outcomes -->
+**Learning Outcomes:** The child states that Jannah has a trustworthy keeper who does not open except by Allah's command, repeats the word `Peace be upon you`, and participates in the Keeper of My Door activity.
+
+<!-- lesson-plan:materials -->
+**Materials:** A small card with `Peace be upon you` written on it; a room door or curtain for acting it out; a du'a card in clear handwriting.
+
+<!-- lesson-plan:preparation -->
+**Preparation:** The teacher agrees on a simple secret word with one or two children before the activity begins, and practices narrating the hadith simply.
+
+<!-- lesson-plan:opening -->
+**Opening — 4 minutes:** Ask: "Do you know who stands at our home's door and doesn't open it for just anyone?"
+
+<!-- lesson-plan:evidence -->
+**Reading the Evidence — 6 minutes:** The teacher narrates the keeper's exchange with the Prophet, peace and blessings be upon him, simply, pausing to ask the children: "What will the keeper say?"
+
+<!-- lesson-plan:instruction -->
+**Guided Instruction — 6 minutes:** The teacher explains that the keeper is trustworthy, does not open on his own, but only by Allah's command.
+
+<!-- lesson-plan:activity -->
+**Activity — 9 minutes:** The children carry out the Keeper of My Door activity with the secret word, then the teacher hangs the peace card on the door.
+
+<!-- lesson-plan:assessment -->
+**Assessment and Closing — 5 minutes:** Ask: "What does the keeper of Jannah say before he opens?" Then read the du'a slowly so the children can repeat what they can.
+
+<!-- lesson-plan:differentiation -->
+**Differentiation:** Allow pointing or gesturing instead of a full answer, and give an older child a chance to explain why the keeper does not open for anyone on his own.
+
+<!-- lesson-plan:safeguards -->
+**Teaching Cautions:** Do not draw the angel or describe his appearance, and do not use the activity to frighten the child about "strangers" beyond the simple teaching goal.
+
+<!-- lesson-plan:end -->
+
+<!-- lesson-plan:start audience="8-12" minutes="45" -->
+
+### Children Ages 8-12 — 45 Minutes
+
+<!-- lesson-plan:outcomes -->
+**Learning Outcomes:** The student summarizes the exchange of the request to enter and the hadith of the four gates, distinguishes what is established from what is popular in the name of the keeper of Jannah, and applies the entry-card and two-column list activity.
+
+<!-- lesson-plan:materials -->
+**Materials:** The text of Sahih Muslim 197 and Sahih al-Bukhari 1897; paper entry cards; a notebook for the "established / not established" table; pens.
+
+<!-- lesson-plan:preparation -->
+**Preparation:** The teacher prepares ready-made entry cards for three names only, and a completed model of the "established / not established" table to display before students begin their own.
+
+<!-- lesson-plan:opening -->
+**Opening — 5 minutes:** The teacher shows a blank entry card and asks: "If someone you know asked to enter without a card, would you let them in? Why or why not?"
+
+<!-- lesson-plan:evidence -->
+**Studying the Evidence — 10 minutes:** Students read both hadiths in full and underline every phrase that shows verification before permission.
+
+<!-- lesson-plan:instruction -->
+**Guided Instruction — 10 minutes:** The teacher explains the three terms and connects them to the scene of the request to enter and to the gates of prayer, striving, fasting, and charity.
+
+<!-- lesson-plan:activity -->
+**Activity — 14 minutes:** Students carry out the entry-card game and then the "established / not established" table, and each shares the closing connecting sentence with a classmate.
+
+<!-- lesson-plan:assessment -->
+**Assessment and Closing — 6 minutes:** Each student writes two sentences summarizing the difference between what is popular and what is established, then the teacher reads the du'a.
+
+<!-- lesson-plan:differentiation -->
+**Differentiation:** Give a struggling student ready-made examples for the "established / not established" table, and assign an advanced student to research, with the teacher's help, the difference between a weak report and an objectionable one.
+
+<!-- lesson-plan:safeguards -->
+**Teaching Cautions:** No student should mock a classmate during the entry-card game, and the caution about the name `Ridwan` should not turn into general doubt about books of Islamic history, but rather training in verifying a chain of narration.
+
+<!-- lesson-plan:end -->
+
+<!-- lesson-plan:start audience="13+" minutes="55" -->
+
+### Teens, Ages 13+ — 55 Minutes
+
+<!-- lesson-plan:outcomes -->
+**Learning Outcomes:** The student analyzes the hadith of the request to enter and the method of distinguishing the established name `Malik` from the unestablished name `Ridwan`, connects this to verifying digital information, and carries out the weekly Door-Keeper Log.
+
+<!-- lesson-plan:materials -->
+**Materials:** A file of the six pieces of evidence; term cards; a weekly log template; exit slips.
+
+<!-- lesson-plan:preparation -->
+**Preparation:** The teacher prepares a neutral example of a widely shared religious post with no clear source, to use as a model for verification without singling out any specific source negatively.
+
+<!-- lesson-plan:opening -->
+**Opening — 5 minutes:** Ask: "When have you shared a piece of religious information without verifying its source first?"
+
+<!-- lesson-plan:evidence -->
+**Studying the Evidence — 12 minutes:** Three groups read az-Zumar 39:73 and the hadiths of Sahih Muslim 197 and Sahih al-Bukhari 1897, and each group works out the meaning of `I was commanded regarding you` and the significance of the gates tied to deeds.
+
+<!-- lesson-plan:instruction -->
+**Guided Instruction — 13 minutes:** The teacher explains the terms of the request to enter and the exception in naming, and briefly discusses the difference between a report established by chain and a report popular without a chain.
+
+<!-- lesson-plan:activity -->
+**Activity — 15 minutes:** Students begin the weekly Door-Keeper Log, plan their week of tracking, and write an opening paragraph about one religious claim they will verify.
+
+<!-- lesson-plan:assessment -->
+**Assessment and Closing — 10 minutes:** The student writes a three-line response connecting the opening question to the meaning of `I was commanded regarding you`, then the teacher reads the du'a.
+
+<!-- lesson-plan:differentiation -->
+**Differentiation:** Give a struggling student one ready-made claim to verify instead of finding their own, and assign an advanced student to discuss this method's effect on a real social decision, such as sharing a news item or an article.
+
+<!-- lesson-plan:safeguards -->
+**Teaching Cautions:** Do not use the lesson to condemn everything shared online in general, but to build the individual habit of verification, and do not require anyone to disclose an embarrassing post they shared in front of the class.
+
+<!-- lesson-plan:end -->
+
+<!-- references:start -->
 
 ## References
 
-[^1]: Qur'an, Surah az-Zumar 39:73, https://quran.com/39/73
-[^2]: Sahih Muslim 197, https://sunnah.com/muslim:197
-[^3]: Sahih al-Bukhari 1897, https://sunnah.com/bukhari:1897
-[^4]: Qur'an, Surah ar-Ra'd 13:23-24, https://quran.com/13/23-24
-[^5]: Qur'an, Surah at-Tahrim 66:6, https://quran.com/66/6
-[^6]: Ibn al-Qayyim, `Hadi al-Arwah ila Bilad al-Afrah`, chapter 24 on the gatekeepers and keepers of Jannah, including the editor's authentication note concerning the name Ridwan, https://shamela.ws/book/13652/274
-[^7]: Abu Nu'aym al-Asbahani, `Sifat al-Jannah`, “The attendants and keepers of Jannah,” https://shamela.ws/book/21602/222
-[^8]: Qur'an, Surah az-Zukhruf 43:77, https://quran.com/43/77
+[^1]: The Noble Qur'an, Surah az-Zumar, ayah 73: [Qur'anic text](https://quran.com/39/73).
+[^2]: Abu al-Fida' Isma'il ibn Kathir's commentary and that of the majority of commentators on `zumaran` and `tibtum` in Surah az-Zumar, ayah 73: [King Saud University Digital Mushaf, Ibn Kathir's tafsir](https://quran.ksu.edu.sa/tafseer/katheer/sura39-aya73.html).
+[^3]: Sahih Muslim, hadith 197, narrated by Anas ibn Malik, may Allah be pleased with him: [Sunnah.com, hadith 197](https://sunnah.com/muslim:197).
+[^4]: Sahih al-Bukhari, hadith 1897 (and Muslim 1027), narrated by Abu Hurayrah, may Allah be pleased with him: [Sunnah.com, hadith 1897](https://sunnah.com/bukhari:1897).
+[^5]: The Noble Qur'an, Surah ar-Ra'd, ayat 23-24: [Qur'anic text](https://quran.com/13/23-24).
+[^6]: The Noble Qur'an, Surah at-Tahrim, ayah 6: [Qur'anic text](https://quran.com/66/6).
+[^7]: The Noble Qur'an, Surah az-Zukhruf, ayah 77: [Qur'anic text](https://quran.com/43/77).
+[^8]: Muhammad ibn Abi Bakr Ibn Qayyim al-Jawziyyah, *Hadi al-Arwah ila Bilad al-Afrah*, chapter twenty-four: on the gatekeepers and keepers of Jannah, with the editor's note on the weakness of the reports regarding the name Ridwan: [al-Maktaba ash-Shamila](https://shamela.ws/book/13652/274).
+[^9]: Abu Nu'aym al-Asbahani, *Sifat al-Jannah*, the chapter on the attendants and keepers of Jannah: [al-Maktaba ash-Shamila](https://shamela.ws/book/21602/222).
+
+<!-- references:end -->

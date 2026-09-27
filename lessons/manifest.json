@@ -351,22 +351,178 @@
       "has_audio": false
     },
     {
+      "slug": "020_children_pre_accountability",
+      "order": 20,
+      "langs": [
+        "ar",
+        "en",
+        "ur",
+        "fr",
+        "es"
+      ],
+      "titles": {
+        "ar": "الْأَطْفَالُ وَمَنْ مَاتُوا قَبْلَ بُلُوغِ سِنِّ التَّكْلِيفِ",
+        "en": "Children and Those Who Died Before the Age of Accountability",
+        "ur": "وہ بچے اور لوگ جو تکلیف کی عمر سے پہلے وفات پا گئے",
+        "fr": "Les enfants et ceux qui sont morts avant l'âge de responsabilité religieuse",
+        "es": "Los niños y quienes murieron antes de la edad de responsabilidad religiosa"
+      },
+      "hooks": {
+        "ar": "مِنْ رَحْمَةِ اللهِ تَعَالَى بِعِبَادِهِ أَنَّ الْأَطْفَالَ الَّذِينَ يُتَوَفَّوْنَ قَبْلَ أَنْ يَبْلُغُوا سِنَّ التَّكْلِيفِ لَا يُحَاسَبُونَ كَمَا يُحَاسَبُ الْبَالِغُونَ، لِأَنَّ الْقَلَمَ رُفِعَ ع",
+        "en": "It is part of Allah's mercy toward His servants that children who pass away before reaching the age of religious accountability (taklif) are not held to account the way adults are, because the Pen has",
+        "ur": "اللہ تعالیٰ کی اپنے بندوں پر رحمت کا حصہ ہے کہ جو بچے تکلیف کی عمر کو پہنچنے سے پہلے وفات پا جاتے ہیں، ان کا حساب بڑوں کی طرح نہیں لیا جاتا، کیونکہ ان سے قلم اٹھا لیا گیا ہے۔ نبی کریم ﷺ نے مومنوں کو ی",
+        "fr": "Il fait partie de la miséricorde d'Allah envers Ses serviteurs que les enfants qui décèdent avant d'atteindre l'âge de responsabilité religieuse (taklif) ne sont pas jugés comme le sont les adultes, c",
+        "es": "Es parte de la misericordia de Allah hacia Sus siervos que los niños que fallecen antes de alcanzar la edad de responsabilidad religiosa (taklif) no rinden cuentas como lo hacen los adultos, porque el"
+      },
+      "status": {
+        "ar": "draft",
+        "en": "draft",
+        "ur": "draft",
+        "fr": "draft",
+        "es": "draft"
+      },
+      "under_review": true,
+      "has_illustration": true,
+      "has_audio": false
+    },
+    {
+      "slug": "019_last_entrant",
+      "order": 19,
+      "langs": [
+        "ar",
+        "en",
+        "ur",
+        "fr",
+        "es"
+      ],
+      "titles": {
+        "ar": "آخِرُ مَنْ يَدْخُلُ الْجَنَّةَ",
+        "en": "The Last Person to Enter Jannah",
+        "ur": "جنت میں سب سے آخر میں داخل ہونے والا شخص",
+        "fr": "La Dernière Personne à Entrer au Jannah",
+        "es": "La Última Persona en Entrar al Jannah"
+      },
+      "hooks": {
+        "ar": "في هذا الدرس، يتعرّف المتعلم على حديث آخر رجل يدخل الجنة، وهو آخر من يخرج من النار، فيظنّ أنها امتلأت ولم يبقَ له فيها مكان، فيعطيه الله مثل الدنيا وعشرة أمثالها، حتى يظنّ أنّ الله يمازحه من عِظَم ما",
+        "en": "In this lesson, the learner meets the hadith of the last man to enter Jannah — who is also the very last person to come out of the Fire. He thinks Jannah has already filled up and there is no place le",
+        "ur": "اس سبق میں سیکھنے والا اُس حدیث سے آگاہ ہوتا ہے جو جنت میں سب سے آخر میں داخل ہونے والے شخص کے بارے میں ہے، جو دراصل جہنم سے سب سے آخر میں نکلنے والا بھی ہے۔ وہ سمجھتا ہے کہ جنت بھر چکی ہے اور اس کے ل",
+        "fr": "Dans cette leçon, l'apprenant découvre le hadith du dernier homme à entrer au Jannah, qui est aussi la toute dernière personne à sortir du Feu. Il pense que le Jannah est déjà plein et qu'il n'y a plu",
+        "es": "En esta lección, el estudiante conoce el hadiz del último hombre en entrar al Jannah, quien también es la última persona en salir del Fuego. Él piensa que el Jannah ya se ha llenado y no queda lugar p"
+      },
+      "status": {
+        "ar": "arabic_draft",
+        "en": "translation_draft",
+        "ur": "translation_draft",
+        "fr": "translation_draft",
+        "es": "translation_draft"
+      },
+      "under_review": true,
+      "has_illustration": true,
+      "has_audio": false
+    },
+    {
+      "slug": "018_poor_weak_ummah",
+      "order": 18,
+      "langs": [
+        "ar",
+        "en",
+        "ur",
+        "fr",
+        "es"
+      ],
+      "titles": {
+        "ar": "الفقراء والضعفاء، وكثرة أمة محمد ﷺ في الجنة",
+        "en": "The Poor, the Weak, and the Great Numbers of Muhammad's ﷺ Nation in Paradise",
+        "ur": "غریب، کمزور لوگ، اور جنت میں امتِ محمد ﷺ کی کثرت",
+        "fr": "Les pauvres, les faibles, et le grand nombre de la nation de Muhammad ﷺ au Paradis",
+        "es": "Los pobres, los débiles y el gran número de la nación de Muhammad ﷺ en el Paraíso"
+      },
+      "hooks": {
+        "ar": "<!-- unit:start id=\"jannah.018.intro\" kind=\"explanation\" -->",
+        "en": "<!-- unit:start id=\"jannah.018.intro\" kind=\"explanation\" -->",
+        "ur": "<!-- unit:start id=\"jannah.018.intro\" kind=\"explanation\" -->",
+        "fr": "<!-- unit:start id=\"jannah.018.intro\" kind=\"explanation\" -->",
+        "es": "<!-- unit:start id=\"jannah.018.intro\" kind=\"explanation\" -->"
+      },
+      "status": {
+        "ar": "draft",
+        "en": "draft",
+        "ur": "draft",
+        "fr": "draft",
+        "es": "draft"
+      },
+      "under_review": true,
+      "has_illustration": true,
+      "has_audio": false
+    },
+    {
+      "slug": "017_without_account",
+      "order": 17,
+      "langs": [
+        "ar",
+        "en",
+        "ur",
+        "fr",
+        "es"
+      ],
+      "titles": {
+        "ar": "مَنْ يَدْخُلُ الْجَنَّةَ بِغَيْرِ حِسَابٍ؟",
+        "en": "Who Enters Paradise Without Reckoning?",
+        "ur": "بغیر حساب کے جنت میں کون داخل ہوگا؟",
+        "fr": "Qui entre au Paradis sans reddition de comptes ?",
+        "es": "¿Quién entra al Paraíso sin rendir cuentas?"
+      },
+      "hooks": {
+        "ar": "أَنْ يَتَعَرَّفَ الدَّارِسُ عَلَى مَعْنَى دُخُولِ الْجَنَّةِ \"بِغَيْرِ حِسَابٍ\"، وَأَنَّهُ فَضْلٌ عَظِيمٌ يَخُصُّ بِهِ اللهُ مَنْ يَشَاءُ مِنْ عِبَادِهِ.",
+        "en": "To help the learner understand the meaning of entering Paradise \"without reckoning\" (بِغَيْرِ حِسَابٍ), and that it is a magnificent favor Allah grants to whom He wills among His servants.",
+        "ur": "سیکھنے والے کو یہ سمجھانا کہ \"بِغَیْرِ حِسَابٍ\" (بغیر حساب کے) جنت میں داخل ہونے کا کیا مطلب ہے، اور یہ کہ یہ اللہ تعالیٰ کا اپنے جن بندوں پر چاہے عطا کیا جانے والا ایک عظیم فضل ہے۔",
+        "fr": "Aider l'apprenant à comprendre le sens d'entrer au Paradis \"sans reddition de comptes\" (بِغَيْرِ حِسَابٍ), une faveur magnifique qu'Allah accorde à qui Il veut parmi Ses serviteurs.",
+        "es": "Ayudar al aprendiz a comprender el significado de entrar al Paraíso \"sin rendir cuentas\" (بِغَيْرِ حِسَابٍ), un favor magnífico que Allah concede a quien Él quiere de Sus siervos."
+      },
+      "status": {
+        "ar": "arabic_draft",
+        "en": "draft",
+        "ur": "draft",
+        "fr": "draft",
+        "es": "draft"
+      },
+      "under_review": true,
+      "has_illustration": true,
+      "has_audio": false
+    },
+    {
       "slug": "016_first_entrants",
       "order": 16,
       "langs": [
-        "ar"
+        "ar",
+        "en",
+        "ur",
+        "fr",
+        "es"
       ],
       "titles": {
-        "ar": "السَّابِقُونَ وَأَوَّلُ الدَّاخِلِينَ إِلَى الْجَنَّةِ"
+        "ar": "السَّابِقُونَ وَأَوَّلُ الدَّاخِلِينَ إِلَى الْجَنَّةِ",
+        "en": "The Foremost and the First to Enter Jannah",
+        "ur": "سبقت لے جانے والے اور جنّت میں سب سے پہلے داخل ہونے والے",
+        "fr": "Les Devanciers et les Premiers à Entrer au Jannah",
+        "es": "Los Adelantados y los Primeros en Entrar al Jannah"
       },
       "hooks": {
-        "ar": "بعد هذا الدرس، يكون المتعلم قادرًا على:"
+        "ar": "بعد هذا الدرس، يكون المتعلم قادرًا على:",
+        "en": "After this lesson, the learner will be able to:",
+        "ur": "اس سبق کے بعد، سیکھنے والا اس قابل ہو گا کہ:",
+        "fr": "Après cette leçon, l'apprenant sera capable de :",
+        "es": "Después de esta lección, el alumno será capaz de:"
       },
       "status": {
-        "ar": "arabic_draft"
+        "ar": "arabic_draft",
+        "en": "translation_draft",
+        "ur": "translation_draft",
+        "fr": "translation_draft",
+        "es": "translation_draft"
       },
       "under_review": true,
-      "has_illustration": false,
+      "has_illustration": true,
       "has_audio": false
     },
     {
@@ -590,28 +746,28 @@
         "es"
       ],
       "titles": {
-        "ar": "طَرِيقُ الْجَنَّةِ وَأَنَّهَا مَحْفُوفَةٌ بِالْمَكَارِهِ",
-        "en": "The Path to Jannah and the Hardships Around It",
-        "ur": "جنّت کا راستہ اور اس کے گرد مشکلات",
-        "fr": "Le chemin vers la Jannah et les difficultés qui l’entourent",
-        "es": "El camino hacia la Jannah y las dificultades que lo rodean"
+        "ar": "طَرِيقُ الْجَنَّةِ وَأَنَّهَا مَحْفُوفَةٌ بِالْمَكَارِهِ",
+        "en": "The Path to Jannah Is Surrounded by Hardships",
+        "ur": "جنّت کا راستہ اور یہ کہ وہ مشکلات سے گھری ہوئی ہے",
+        "fr": "Le chemin de la Jannah est entouré de difficultés",
+        "es": "El camino hacia la Yanna y que está rodeado de dificultades"
       },
       "hooks": {
-        "ar": "فهم معنى إحاطة الجنة بالمكاره والنار بالشهوات.",
-        "en": "Understand that Jannah is surrounded by hardships and the Fire by temptations.",
-        "ur": "یہ سمجھنا کہ جنّت مشکلات سے اور جہنم خواہشات سے گھیر دی گئی ہے۔",
-        "fr": "Comprendre que la Jannah est entourée de difficultés et le Feu de tentations.",
-        "es": "Comprender que la Jannah está rodeada de dificultades y el Fuego de tentaciones."
+        "ar": "يَتَعَلَّمُ الدَّارِسُ فِي هَذَا الدَّرْسِ أَنَّ اللَّهَ تَعَالَى جَعَلَ طَرِيقَ الْجَنَّةِ مَحْفُوفَةً بِالْمَكَارِهِ، وَطَرِيقَ النَّارِ مَحْفُوفَةً بِالشَّهَوَاتِ، كَمَا أَخْبَرَ بِذَلِكَ رَسُولُ ا",
+        "en": "In this lesson, the learner discovers that Allah, Exalted is He, made the path to Jannah surrounded by hardships, and the path to the Fire surrounded by desires, just as the Messenger of Allah ﷺ told",
+        "ur": "اس سبق میں سیکھنے والا یہ جانے گا کہ اللہ تعالیٰ نے جنّت کے راستے کو مشکلات (مکارہ) سے گھیر دیا ہے، اور جہنم کے راستے کو خواہشات (شہوات) سے گھیر دیا ہے، جیسا کہ رسول اللہ صلی اللہ علیہ وسلم نے خبر دی۔",
+        "fr": "Dans cette leçon, l'apprenant découvre qu'Allah, exalté soit-Il, a fait du chemin de la Jannah un chemin entouré de difficultés (al-makârih), et du chemin du Feu un chemin entouré de désirs faciles (a",
+        "es": "En esta lección el alumno aprende que Allah, Glorificado sea, hizo que el camino hacia la Yanna estuviera rodeado de dificultades, y el camino hacia el Fuego rodeado de deseos, tal como lo informó el"
       },
       "status": {
-        "ar": "arabic_reviewed",
-        "en": "translation_reviewed",
-        "ur": "translation_reviewed",
-        "fr": "translation_reviewed",
-        "es": "translation_reviewed"
+        "ar": "arabic_draft",
+        "en": "translation_draft",
+        "ur": "translation_draft",
+        "fr": "translation_draft",
+        "es": "translation_draft"
       },
-      "under_review": false,
-      "has_illustration": false,
+      "under_review": true,
+      "has_illustration": true,
       "has_audio": false
     },
     {
@@ -625,28 +781,28 @@
         "es"
       ],
       "titles": {
-        "ar": "مِفْتَاحُ الْجَنَّةِ وَثَمَنُهَا",
+        "ar": "مِفْتَاحُ الْجَنَّةِ وَثَمَنُهَا",
         "en": "The Key to Jannah and Its Price",
         "ur": "جنّت کی کنجی اور اس کی قیمت",
-        "fr": "La clé de la Jannah et son prix",
+        "fr": "La Clé de la Jannah et Son Prix",
         "es": "La llave de la Jannah y su precio"
       },
       "hooks": {
-        "ar": "أن يعرف المتعلم أن التوحيد أصل النجاة وأساس الطريق إلى الجنة.",
-        "en": "Know that tawhid is the foundation of salvation and the path to Jannah.",
-        "ur": "یہ جاننا کہ توحید نجات اور جنّت کے راستے کی بنیاد ہے۔",
-        "fr": "Savoir que le tawhid est le fondement du salut et du chemin vers la Jannah.",
-        "es": "Saber que el tawhid es el fundamento de la salvación y del camino hacia la Jannah."
+        "ar": "بعد هذا الدرس، يكون المتعلم قادرًا على:",
+        "en": "After this lesson, the learner will be able to:",
+        "ur": "اس سبق کے بعد سیکھنے والا اس قابل ہو گا کہ:",
+        "fr": "Après cette leçon, l'apprenant sera capable de :",
+        "es": "Después de esta lección, el aprendiz será capaz de:"
       },
       "status": {
-        "ar": "arabic_reviewed",
+        "ar": "arabic_draft",
         "en": "translation_draft",
         "ur": "translation_draft",
         "fr": "translation_draft",
         "es": "translation_draft"
       },
       "under_review": true,
-      "has_illustration": false,
+      "has_illustration": true,
       "has_audio": false
     },
     {
@@ -660,18 +816,18 @@
         "es"
       ],
       "titles": {
-        "ar": "خَزَنَةُ الْجَنَّةِ وَبَوَّابُوهَا",
+        "ar": "خَزَنَةُ الْجَنَّةِ وَبَوَّابُوهَا",
         "en": "The Keepers and Gatekeepers of Jannah",
-        "ur": "جنّت کے نگہبان اور دربان",
-        "fr": "Les gardiens et les portiers de la Jannah",
-        "es": "Los guardianes y porteros de la Jannah"
+        "ur": "جنّت کے خزانہ دار اور اس کے دربان",
+        "fr": "Les Gardiens Et Portiers De La Jannah",
+        "es": "Los Guardianes y Porteros de la Jannah"
       },
       "hooks": {
-        "ar": "أن يعرف المتعلم أن خزنة الجنة ملائكة موكلون بأبوابها، يعملون بأمر الله.",
-        "en": "Understand that the keepers of Jannah are angels assigned to its gates who act by Allah's command.",
-        "ur": "یہ جاننا کہ جنّت کے نگہبان وہ فرشتے ہیں جو اس کے دروازوں پر مقرر ہیں اور اللہ کے حکم پر عمل کرتے ہیں۔",
-        "fr": "Savoir que les gardiens de la Jannah sont des anges chargés de ses portes et qu'ils agissent sur l'ordre d'Allah.",
-        "es": "Saber que los guardianes de la Jannah son ángeles encargados de sus puertas y que actúan por orden de Allah."
+        "ar": "بعد هذا الدرس، يكون المتعلم قادرًا على:",
+        "en": "After this lesson, the learner will be able to:",
+        "ur": "اس درس کے بعد سیکھنے والا اس قابل ہو گا کہ:",
+        "fr": "Après cette leçon, l'apprenant sera capable de :",
+        "es": "Después de esta lección, el aprendiz será capaz de:"
       },
       "status": {
         "ar": "arabic_draft",
@@ -681,7 +837,7 @@
         "es": "translation_draft"
       },
       "under_review": true,
-      "has_illustration": false,
+      "has_illustration": true,
       "has_audio": false
     },
     {
@@ -695,18 +851,18 @@
         "es"
       ],
       "titles": {
-        "ar": "أَبْوَابُ الْجَنَّةِ وَسَعَتُهَا وَحِلَقُهَا",
-        "en": "The Gates of Jannah, Their Vastness, and Their Rings",
-        "ur": "جنّت کے دروازے، ان کی وسعت اور حلقے",
-        "fr": "Les portes de la Jannah, leur largeur et leurs anneaux",
-        "es": "Las puertas de la Jannah, su amplitud y sus aros"
+        "ar": "أَبْوَابُ الْجَنَّةِ الثَّمَانِيَةُ",
+        "en": "The Eight Gates of Jannah",
+        "ur": "جنّت کے آٹھ دروازے",
+        "fr": "Les Huit Portes de la Jannah",
+        "es": "Las Ocho Puertas del Jannah"
       },
       "hooks": {
-        "ar": "أن يعرف المتعلم أن للجنة أبوابا، وأن من النصوص الصحيحة ذكر ثمانية أبواب.",
-        "en": "Understand the main belief of this lesson.",
-        "ur": "اس درس کے بنیادی عقیدے کو سمجھنا۔",
-        "fr": "Comprendre la croyance principale de cette leçon.",
-        "es": "Comprender la creencia principal de esta lección."
+        "ar": "بعد هذا الدرس، يكون المتعلم قادرًا على:",
+        "en": "After this lesson, the learner will be able to:",
+        "ur": "اس درس کے بعد، سیکھنے والا اس قابل ہو گا کہ:",
+        "fr": "À l'issue de cette leçon, l'apprenant sera capable de :",
+        "es": "Al terminar esta lección, el estudiante será capaz de:"
       },
       "status": {
         "ar": "arabic_draft",
@@ -716,7 +872,7 @@
         "es": "translation_draft"
       },
       "under_review": true,
-      "has_illustration": false,
+      "has_illustration": true,
       "has_audio": false
     },
     {
