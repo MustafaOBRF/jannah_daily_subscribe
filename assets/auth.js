@@ -43,13 +43,20 @@ function renderAuthBar(session) {
   const env = window.SUPABASE_ENV || "";
   const badge = env && env !== "prod"
     ? `<span class="envbadge">${escAttr(env)}</span>` : "";
+  const logoutLabel = (typeof UI !== "undefined" && typeof getLang === "function" && UI[getLang()]?.logout) || "Log out";
   bar.innerHTML = badge +
     `<span class="authuser">${escAttr(email)}</span>` +
-    `<button id="logoutbtn" class="linkbtn" type="button">تسجيل الخروج</button>`;
+    `<button id="logoutbtn" class="linkbtn" type="button">${escAttr(logoutLabel)}</button>`;
   document.getElementById("logoutbtn").onclick = async () => {
     await window.sb.auth.signOut();
     location.replace("login.html");
   };
+}
+
+/** Re-paint just the logout button's label — called by app.js whenever the language changes. */
+function setAuthBarLang(lang) {
+  const btn = document.getElementById("logoutbtn");
+  if (btn && typeof UI !== "undefined") btn.textContent = UI[lang]?.logout || UI.en.logout;
 }
 
 /** Wire the login form (login.html). */
