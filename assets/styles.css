@@ -23,6 +23,11 @@ h1 { font-size: 1.6rem; margin: .5rem 0 .2rem; }
 /* Lesson audio player */
 .lesson-audio { display: block; width: 100%; margin: 0 0 1.2rem; border-radius: 999px; }
 
+/* An author `display` rule above beats the browser's own [hidden] rule at equal
+   specificity (author origin always wins over user-agent origin), so the hero,
+   illustration, and audio player would otherwise stay visible while hidden. */
+.hero[hidden], .illustration[hidden], .lesson-audio[hidden] { display: none; }
+
 /* Index list */
 ul.lessons { list-style: none; padding: 0; }
 ul.lessons li { margin: .4rem 0; }
