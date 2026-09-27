@@ -892,7 +892,7 @@
       },
       "under_review": true,
       "has_illustration": false,
-      "has_audio": false
+      "has_audio": true
     }
   ]
 }
