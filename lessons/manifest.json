@@ -361,21 +361,21 @@
         "es"
       ],
       "titles": {
-        "ar": "الْأَطْفَالُ وَمَنْ مَاتُوا قَبْلَ بُلُوغِ سِنِّ التَّكْلِيفِ",
+        "ar": "الْأَطْفَالُ الَّذِينَ سَبَقُونَا إِلَى الْجَنَّةِ",
         "en": "Children and Those Who Died Before the Age of Accountability",
         "ur": "وہ بچے اور لوگ جو تکلیف کی عمر سے پہلے وفات پا گئے",
         "fr": "Les enfants et ceux qui sont morts avant l'âge de responsabilité religieuse",
         "es": "Los niños y quienes murieron antes de la edad de responsabilidad religiosa"
       },
       "hooks": {
-        "ar": "مِنْ رَحْمَةِ اللهِ تَعَالَى بِعِبَادِهِ أَنَّ الْأَطْفَالَ الَّذِينَ يُتَوَفَّوْنَ قَبْلَ أَنْ يَبْلُغُوا سِنَّ التَّكْلِيفِ لَا يُحَاسَبُونَ كَمَا يُحَاسَبُ الْبَالِغُونَ، لِأَنَّ الْقَلَمَ رُفِعَ ع",
+        "ar": "بعد هذا الدرس، يخرج المتعلم بيقين أن الطفل الذي يقبضه الله إليه قبل بلوغ سنّ التكليف لا يُحاسَب على شيء، لأن القلم رُفع عنه، وأنه بفضل الله ورحمته من أهل الجنة. يتعرّف المتعلم على حديث «دعاميص الجنة»،",
         "en": "It is part of Allah's mercy toward His servants that children who pass away before reaching the age of religious accountability (taklif) are not held to account the way adults are, because the Pen has",
         "ur": "اللہ تعالیٰ کی اپنے بندوں پر رحمت کا حصہ ہے کہ جو بچے تکلیف کی عمر کو پہنچنے سے پہلے وفات پا جاتے ہیں، ان کا حساب بڑوں کی طرح نہیں لیا جاتا، کیونکہ ان سے قلم اٹھا لیا گیا ہے۔ نبی کریم ﷺ نے مومنوں کو ی",
         "fr": "Il fait partie de la miséricorde d'Allah envers Ses serviteurs que les enfants qui décèdent avant d'atteindre l'âge de responsabilité religieuse (taklif) ne sont pas jugés comme le sont les adultes, c",
         "es": "Es parte de la misericordia de Allah hacia Sus siervos que los niños que fallecen antes de alcanzar la edad de responsabilidad religiosa (taklif) no rinden cuentas como lo hacen los adultos, porque el"
       },
       "status": {
-        "ar": "draft",
+        "ar": "arabic_draft",
         "en": "draft",
         "ur": "draft",
         "fr": "draft",
@@ -403,7 +403,7 @@
         "es": "La Última Persona en Entrar al Jannah"
       },
       "hooks": {
-        "ar": "في هذا الدرس، يتعرّف المتعلم على حديث آخر رجل يدخل الجنة، وهو آخر من يخرج من النار، فيظنّ أنها امتلأت ولم يبقَ له فيها مكان، فيعطيه الله مثل الدنيا وعشرة أمثالها، حتى يظنّ أنّ الله يمازحه من عِظَم ما",
+        "ar": "بعد هذا الدرس، يكون المتعلم قادرًا على:",
         "en": "In this lesson, the learner meets the hadith of the last man to enter Jannah — who is also the very last person to come out of the Fire. He thinks Jannah has already filled up and there is no place le",
         "ur": "اس سبق میں سیکھنے والا اُس حدیث سے آگاہ ہوتا ہے جو جنت میں سب سے آخر میں داخل ہونے والے شخص کے بارے میں ہے، جو دراصل جہنم سے سب سے آخر میں نکلنے والا بھی ہے۔ وہ سمجھتا ہے کہ جنت بھر چکی ہے اور اس کے ل",
         "fr": "Dans cette leçon, l'apprenant découvre le hadith du dernier homme à entrer au Jannah, qui est aussi la toute dernière personne à sortir du Feu. Il pense que le Jannah est déjà plein et qu'il n'y a plu",
@@ -431,21 +431,21 @@
         "es"
       ],
       "titles": {
-        "ar": "الفقراء والضعفاء، وكثرة أمة محمد ﷺ في الجنة",
+        "ar": "فُقَرَاءُ الْأُمَّةِ وَضُعَفَاؤُهَا عِنْدَ اللَّهِ",
         "en": "The Poor, the Weak, and the Great Numbers of Muhammad's ﷺ Nation in Paradise",
         "ur": "غریب، کمزور لوگ، اور جنت میں امتِ محمد ﷺ کی کثرت",
         "fr": "Les pauvres, les faibles, et le grand nombre de la nation de Muhammad ﷺ au Paradis",
         "es": "Los pobres, los débiles y el gran número de la nación de Muhammad ﷺ en el Paraíso"
       },
       "hooks": {
-        "ar": "<!-- unit:start id=\"jannah.018.intro\" kind=\"explanation\" -->",
+        "ar": "بعد هذا الدرس، يكون المتعلم قادرًا على:",
         "en": "<!-- unit:start id=\"jannah.018.intro\" kind=\"explanation\" -->",
         "ur": "<!-- unit:start id=\"jannah.018.intro\" kind=\"explanation\" -->",
         "fr": "<!-- unit:start id=\"jannah.018.intro\" kind=\"explanation\" -->",
         "es": "<!-- unit:start id=\"jannah.018.intro\" kind=\"explanation\" -->"
       },
       "status": {
-        "ar": "draft",
+        "ar": "arabic_draft",
         "en": "draft",
         "ur": "draft",
         "fr": "draft",
@@ -466,14 +466,14 @@
         "es"
       ],
       "titles": {
-        "ar": "مَنْ يَدْخُلُ الْجَنَّةَ بِغَيْرِ حِسَابٍ؟",
+        "ar": "بِغَيْرِ حِسَابٍ: تَوَكُّلٌ يُدْخِلُ الْجَنَّةَ بِلَا عَدٍّ",
         "en": "Who Enters Paradise Without Reckoning?",
         "ur": "بغیر حساب کے جنت میں کون داخل ہوگا؟",
         "fr": "Qui entre au Paradis sans reddition de comptes ?",
         "es": "¿Quién entra al Paraíso sin rendir cuentas?"
       },
       "hooks": {
-        "ar": "أَنْ يَتَعَرَّفَ الدَّارِسُ عَلَى مَعْنَى دُخُولِ الْجَنَّةِ \"بِغَيْرِ حِسَابٍ\"، وَأَنَّهُ فَضْلٌ عَظِيمٌ يَخُصُّ بِهِ اللهُ مَنْ يَشَاءُ مِنْ عِبَادِهِ.",
+        "ar": "بعد هذا الدرس، يكون المتعلم قادرًا على:",
         "en": "To help the learner understand the meaning of entering Paradise \"without reckoning\" (بِغَيْرِ حِسَابٍ), and that it is a magnificent favor Allah grants to whom He wills among His servants.",
         "ur": "سیکھنے والے کو یہ سمجھانا کہ \"بِغَیْرِ حِسَابٍ\" (بغیر حساب کے) جنت میں داخل ہونے کا کیا مطلب ہے، اور یہ کہ یہ اللہ تعالیٰ کا اپنے جن بندوں پر چاہے عطا کیا جانے والا ایک عظیم فضل ہے۔",
         "fr": "Aider l'apprenant à comprendre le sens d'entrer au Paradis \"sans reddition de comptes\" (بِغَيْرِ حِسَابٍ), une faveur magnifique qu'Allah accorde à qui Il veut parmi Ses serviteurs.",
