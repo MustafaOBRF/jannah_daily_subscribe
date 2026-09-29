@@ -128,6 +128,8 @@ function lessonRows() {
       under_review: m.under_review === true,
       completions: st.completions ?? 0,
       distinct_members: st.distinct_members ?? 0,
+      plays: st.plays ?? 0,
+      distinct_listeners: st.distinct_listeners ?? 0,
       last_completed_at: st.last_completed_at ?? null,
       published: st.published ?? true,
       review_state: st.review_state ?? "inherit",
@@ -189,6 +191,10 @@ const COLUMNS = {
       cell: r => `<span class="nums">${Number(r.completions || 0)}</span> ${bar(Number(r.completions || 0), DATA?.totals?.members || 0)}` },
     { key: "distinct_members",  label: "Members",   get: r => Number(r.distinct_members || 0), num: true,
       cell: r => `<span class="nums">${Number(r.distinct_members || 0)}</span>` },
+    { key: "plays",             label: "Plays",     get: r => Number(r.plays || 0), num: true,
+      cell: r => `<span class="nums">${Number(r.plays || 0)}</span>` },
+    { key: "distinct_listeners", label: "Listeners", get: r => Number(r.distinct_listeners || 0), num: true,
+      cell: r => `<span class="nums">${Number(r.distinct_listeners || 0)}</span>` },
     { key: "last_completed_at", label: "Last",      get: r => Date.parse(r.last_completed_at || 0) || 0, num: true,
       cell: r => `<span class="nums">${ago(r.last_completed_at)}</span>` },
     // Publish state. Unpublishing withholds the lesson from the site AND from
@@ -272,6 +278,7 @@ function renderStats() {
     ["Avg read", lessonTotal ? `${t.avg_lessons_done} / ${lessonTotal}` : t.avg_lessons_done],
     ["Login 7d", t.signed_in_this_week],
     ["Not activated", t.never_signed_in],
+    ["Plays", t.plays_total],
     ["Subscribers", `${t.subscribers_active} / ${t.subscribers}`],
   ];
   document.getElementById("stats").innerHTML = tiles.map(([label, v]) =>

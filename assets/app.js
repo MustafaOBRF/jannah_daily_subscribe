@@ -245,9 +245,18 @@ async function renderLesson(root, session) {
     if (entry && entry.has_audio) {
       audioEl.src = `lessons/${encodeURIComponent(slug)}/song.mp3`;
       audioEl.hidden = false;
+      // One play logged per page visit: the flag stops a pause/resume or a
+      // seek from re-firing "play" and inflating the count.
+      let logged = false;
+      audioEl.onplay = () => {
+        if (logged || !userId || typeof logSongPlay !== "function") return;
+        logged = true;
+        logSongPlay(slug);
+      };
     } else {
       audioEl.hidden = true;
       audioEl.removeAttribute("src");
+      audioEl.onplay = null;
     }
   }
 
