@@ -84,6 +84,25 @@ function recordLogin(session) {
   } catch (_) { /* never let this affect signing in */ }
 }
 
+/** Ask check-reset-eligible whether this email belongs to a revoked member,
+ *  so a "forgot password" click doesn't hand them a link they could never
+ *  use (a ban blocks sign-in, not the reset email itself). Fails open --
+ *  a lookup failure must never be the reason a real member can't reset. */
+async function resetBlocked(email) {
+  try {
+    if (!window.SUPABASE_URL) return false;
+    const res = await fetch(`${window.SUPABASE_URL}/functions/v1/check-reset-eligible`, {
+      method: "POST",
+      headers: { "apikey": window.SUPABASE_PUBLISHABLE_KEY, "content-type": "application/json" },
+      body: JSON.stringify({ email }),
+    });
+    const data = await res.json();
+    return data?.blocked === true;
+  } catch (_) {
+    return false;
+  }
+}
+
 function initLogin() {
   const f = document.getElementById("loginform");
   const msg = document.getElementById("msg");
@@ -108,10 +127,12 @@ function initLogin() {
     const email = (f.email.value || "").trim().toLowerCase();
     if (!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email))
       return show("err", "أدخل بريدك الإلكتروني في الحقل أعلاه أولاً، ثم اضغط «نسيت كلمة المرور».");
+    const ok = "إذا كان لهذا البريد حساب، فسيصلك رابط إعادة تعيين كلمة المرور.";
+    if (await resetBlocked(email)) return show("ok", ok);  // revoked: same message, no email sent
     const redirectTo = location.href.replace(/login\.html.*$/, "reset.html");
     const { error } = await window.sb.auth.resetPasswordForEmail(email, { redirectTo });
     if (error) return show("err", "تعذّر إرسال رسالة إعادة التعيين. حاول مرة أخرى لاحقاً.");
-    show("ok", "إذا كان لهذا البريد حساب، فسيصلك رابط إعادة تعيين كلمة المرور.");
+    show("ok", ok);
   });
 }
 
