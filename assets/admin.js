@@ -127,7 +127,6 @@ function lessonRows() {
       titles: m.titles || {},
       under_review: m.under_review === true,
       completions: st.completions ?? 0,
-      distinct_members: st.distinct_members ?? 0,
       plays: st.plays ?? 0,
       distinct_listeners: st.distinct_listeners ?? 0,
       last_completed_at: st.last_completed_at ?? null,
@@ -188,11 +187,11 @@ const COLUMNS = {
         ? ' <span class="warn" title="Not in the published manifest — withheld or removed from the vault">not on site</span>'
         : "") },
     { key: "completions",       label: "Completed", get: r => Number(r.completions || 0), num: true,
-      cell: r => `<span class="nums">${Number(r.completions || 0)}</span> ${bar(Number(r.completions || 0), DATA?.totals?.members || 0)}` },
-    { key: "distinct_members",  label: "Members",   get: r => Number(r.distinct_members || 0), num: true,
-      cell: r => `<span class="nums">${Number(r.distinct_members || 0)}</span>` },
+      cell: r => `<button type="button" class="linkbtn nums" data-lesson-completions="${esc(r.slug)}">` +
+        `${Number(r.completions || 0)}</button> ${bar(Number(r.completions || 0), DATA?.totals?.members || 0)}` },
     { key: "plays",             label: "Plays",     get: r => Number(r.plays || 0), num: true,
-      cell: r => `<span class="nums">${Number(r.plays || 0)}</span>` },
+      cell: r => `<button type="button" class="linkbtn nums" data-lesson-plays="${esc(r.slug)}">` +
+        `${Number(r.plays || 0)}</button>` },
     { key: "distinct_listeners", label: "Listeners", get: r => Number(r.distinct_listeners || 0), num: true,
       cell: r => `<span class="nums">${Number(r.distinct_listeners || 0)}</span>` },
     { key: "last_completed_at", label: "Last",      get: r => Date.parse(r.last_completed_at || 0) || 0, num: true,
@@ -517,6 +516,19 @@ function renderTable() {
     s, { slug: s.dataset.slug, review_state: s.value },
     `${s.dataset.slug} review state set to ${s.value.replace("_", " ")}.`));
 
+  el.querySelectorAll("[data-lesson-completions]").forEach((b) => b.onclick = () =>
+    openLessonMembersModal(
+      "lesson_completions", b.dataset.lessonCompletions, `Completed: ${b.dataset.lessonCompletions}`,
+      ["Email", "Completed"],
+      (row) => [esc(row.email), `<span class="nums" title="${esc(row.completed_at)}">${ago(row.completed_at)}</span>`]));
+
+  el.querySelectorAll("[data-lesson-plays]").forEach((b) => b.onclick = () =>
+    openLessonMembersModal(
+      "lesson_plays", b.dataset.lessonPlays, `Plays: ${b.dataset.lessonPlays}`,
+      ["Email", "Plays", "Last played"],
+      (row) => [esc(row.email), `<span class="nums">${Number(row.play_count || 0)}</span>`,
+        `<span class="nums" title="${esc(row.last_played_at)}">${ago(row.last_played_at)}</span>`]));
+
   el.querySelectorAll("[data-resend]").forEach((b) => b.onclick = async () => {
     const email = b.dataset.resend;
     const label = b.textContent;
@@ -558,6 +570,54 @@ function renderTable() {
     `${esc(ago(DATA.generated_at))} · signed in as ${esc(DATA.as || "")}${err}${src}${rawToggle}`;
   const rt = document.getElementById("rawtoggle");
   if (rt) rt.onclick = () => { showRaw = !showRaw; renderTable(); };
+}
+
+/** A single modal overlay, replaced wholesale on each open. */
+function closeModal() {
+  document.getElementById("modal-overlay")?.remove();
+  document.removeEventListener("keydown", modalEscHandler);
+}
+
+function modalEscHandler(e) {
+  if (e.key === "Escape") closeModal();
+}
+
+function openModal(title, bodyHtml) {
+  closeModal();
+  const div = document.createElement("div");
+  div.id = "modal-overlay";
+  div.className = "modal-overlay";
+  div.innerHTML =
+    `<div class="modal-box" role="dialog" aria-modal="true" aria-label="${esc(title)}">` +
+    `<div class="modal-head"><h2>${esc(title)}</h2>` +
+    `<button type="button" class="modal-close" aria-label="Close">&times;</button></div>` +
+    `<div class="modal-body">${bodyHtml}</div></div>`;
+  document.body.appendChild(div);
+  div.addEventListener("click", (e) => { if (e.target === div) closeModal(); });
+  div.querySelector(".modal-close").onclick = closeModal;
+  document.addEventListener("keydown", modalEscHandler);
+}
+
+function modalTable(headers, rows) {
+  if (!rows.length) return `<p class="status-msg">No rows.</p>`;
+  const head = headers.map((h) => `<th>${esc(h)}</th>`).join("");
+  const body = rows.map((r) =>
+    `<tr>${r.map((c) => `<td>${c}</td>`).join("")}</tr>`).join("");
+  return `<table><thead><tr>${head}</tr></thead><tbody>${body}</tbody></table>`;
+}
+
+async function openLessonMembersModal(action, slug, title, headers, toRow) {
+  openModal(title, `<p class="status-msg">Loading…</p>`);
+  const overlay = document.getElementById("modal-overlay");
+  overlay.dataset.reqSlug = slug;
+  const r = await callAction({ action, slug });
+  // The user may have closed the modal, or opened a different one, while this
+  // request was in flight -- only paint if it's still the same open request.
+  const stillOpen = document.getElementById("modal-overlay");
+  if (!stillOpen || stillOpen.dataset.reqSlug !== slug) return;
+  const body = stillOpen.querySelector(".modal-body");
+  if (r.error) { body.innerHTML = `<p class="msg err">${esc(r.error)}</p>`; return; }
+  body.innerHTML = modalTable(headers, (r.rows || []).map(toRow));
 }
 
 function showStatus(html) {
