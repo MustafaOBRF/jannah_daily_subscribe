@@ -124,6 +124,7 @@ function lessonRows() {
     return {
       slug: m.slug,
       order: m.order ?? 0,
+      titles: m.titles || {},
       under_review: m.under_review === true,
       completions: st.completions ?? 0,
       distinct_members: st.distinct_members ?? 0,
@@ -168,15 +169,20 @@ const COLUMNS = {
     { key: "created_at",      label: "Joined",    get: r => Date.parse(r.created_at || 0) || 0, num: true,
       cell: r => `<span class="nums">${date(r.created_at)}</span>` },
     { key: "active",          label: "Member",    get: r => (r.active === true ? 1 : r.active === false ? 0 : -1), num: true,
-      cell: r => r.active === true ? "yes"
-               : r.active === false ? '<span class="warn">inactive</span>'
-               : '<span class="warn" title="Auth account with no members row">no record</span>' },
+      cell: r => r.active === true
+        ? `yes <button class="minibtn danger" data-revoke-member="${esc(r.email)}">revoke</button>`
+        : r.active === false
+          ? '<span class="warn">inactive</span> ' +
+            `<button class="minibtn" data-restore-member="${esc(r.email)}">restore</button> ` +
+            `<button class="minibtn danger" data-delete-member="${esc(r.email)}">delete</button>`
+          : '<span class="warn" title="Auth account with no members row">no record</span>' },
     { key: "source",          label: "Source",    get: r => r.source || "",
       cell: r => esc(r.source || "—") },
   ],
   lessons: [
-    { key: "slug",              label: "Lesson",    get: r => r.slug || "",
-      cell: r => esc(r.slug) + (r.withheld
+    { key: "order",             label: "Lesson",    get: r => Number(r.order || 0), num: true,
+      cell: r => `<span class="nums">${String(r.order || 0).padStart(3, "0")}</span> · ` +
+        esc((r.titles && r.titles.ar) || r.slug) + (r.withheld
         ? ' <span class="warn" title="Not in the published manifest — withheld or removed from the vault">not on site</span>'
         : "") },
     { key: "completions",       label: "Completed", get: r => Number(r.completions || 0), num: true,
@@ -355,6 +361,14 @@ function renderTable() {
       `<button type="submit" class="minibtn">Invite member</button>` +
       `<span class="muted-cell">creates the account and emails a set-password link</span>` +
       `</form>`;
+  } else if (activeTab === "lessons") {
+    const on = DATA.email_settings?.reviewed_emails_enabled !== false;
+    addForm =
+      `<div class="grantrow">` +
+      `<label><input type="checkbox" id="emailsettingsbox"${on ? " checked" : ""}> ` +
+      `Send emails when a lesson is marked reviewed</label>` +
+      `<span class="muted-cell">turn off if you are announcing lessons yourself via CCM</span>` +
+      `</div>`;
   }
 
   // The Logins tab can show the unparsed audit payload. This is the escape hatch
@@ -437,6 +451,54 @@ function renderTable() {
       return flash(r.error, "err");   // sit showing a change that did not happen
     }
     flash(`${describe} The site updates on the next publish run.`);
+    await refresh();
+  };
+
+  el.querySelectorAll("[data-revoke-member]").forEach((b) => b.onclick = async () => {
+    const email = b.dataset.revokeMember;
+    if (!confirm(`Revoke access for ${email}? They will be signed out and unable to sign back in until restored.`)) return;
+    b.disabled = true;
+    const r = await callAction({ action: "revoke_member", email });
+    b.disabled = false;
+    if (r.error) return flash(r.error, "err");
+    flash(`Access revoked for ${email}.`);
+    await refresh();
+  });
+
+  el.querySelectorAll("[data-restore-member]").forEach((b) => b.onclick = async () => {
+    const email = b.dataset.restoreMember;
+    b.disabled = true;
+    const r = await callAction({ action: "restore_member", email });
+    b.disabled = false;
+    if (r.error) return flash(r.error, "err");
+    flash(`Access restored for ${email}.`);
+    await refresh();
+  });
+
+  el.querySelectorAll("[data-delete-member]").forEach((b) => b.onclick = async () => {
+    const email = b.dataset.deleteMember;
+    if (!confirm(`Permanently delete the account for ${email}? This cannot be undone -- ` +
+                 `their Supabase Auth account, progress, and login history are all removed.`)) return;
+    b.disabled = true;
+    const r = await callAction({ action: "delete_member", email });
+    b.disabled = false;
+    if (r.error) return flash(r.error, "err");
+    flash(`${email} was deleted.`);
+    await refresh();
+  });
+
+  const emailBox = el.querySelector("#emailsettingsbox");
+  if (emailBox) emailBox.onchange = async () => {
+    emailBox.disabled = true;
+    const r = await callAction({ action: "set_email_settings", reviewed_emails_enabled: emailBox.checked });
+    emailBox.disabled = false;
+    if (r.error) {
+      await refresh();
+      return flash(r.error, "err");
+    }
+    flash(emailBox.checked
+      ? "Reviewed-lesson emails are back on."
+      : "Reviewed-lesson emails are paused. Nothing will be sent until this is switched back on.");
     await refresh();
   };
 
