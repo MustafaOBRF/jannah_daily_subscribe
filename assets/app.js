@@ -386,9 +386,15 @@ async function renderLesson(root, session) {
     const backEl = document.getElementById("backlink");
     if (backEl) backEl.textContent = UI[l]?.back || UI.en.back;
     const summaryHeadingEl = document.getElementById("lesson-summary-heading");
-    if (summaryHeadingEl) summaryHeadingEl.textContent = UI[l]?.summary_heading || UI.en.summary_heading;
+    if (summaryHeadingEl) {
+      summaryHeadingEl.textContent = UI[l]?.summary_heading || UI.en.summary_heading;
+      summaryHeadingEl.dir = RTL.has(l) ? "rtl" : "ltr";
+    }
     const songHeadingEl = document.getElementById("lesson-song-heading");
-    if (songHeadingEl) songHeadingEl.textContent = UI[l]?.song_heading || UI.en.song_heading;
+    if (songHeadingEl) {
+      songHeadingEl.textContent = UI[l]?.song_heading || UI.en.song_heading;
+      songHeadingEl.dir = RTL.has(l) ? "rtl" : "ltr";
+    }
     if (typeof setAuthBarLang === "function") setAuthBarLang(l);
     setReport(l);
     paintDone(l);   // the complete button follows the selected language too
