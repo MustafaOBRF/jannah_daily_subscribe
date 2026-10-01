@@ -1005,7 +1005,7 @@
       },
       "under_review": true,
       "has_illustration": true,
-      "has_audio": false,
+      "has_audio": true,
       "has_summary_audio": false
     },
     {
