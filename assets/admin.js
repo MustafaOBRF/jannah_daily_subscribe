@@ -127,8 +127,10 @@ function lessonRows() {
       titles: m.titles || {},
       under_review: m.under_review === true,
       completions: st.completions ?? 0,
-      plays: st.plays ?? 0,
-      distinct_listeners: st.distinct_listeners ?? 0,
+      song_plays: st.song_plays ?? 0,
+      distinct_song_listeners: st.distinct_song_listeners ?? 0,
+      summary_plays: st.summary_plays ?? 0,
+      distinct_summary_listeners: st.distinct_summary_listeners ?? 0,
       last_completed_at: st.last_completed_at ?? null,
       published: st.published ?? true,
       review_state: st.review_state ?? "inherit",
@@ -189,11 +191,16 @@ const COLUMNS = {
     { key: "completions",       label: "Completed", get: r => Number(r.completions || 0), num: true,
       cell: r => `<button type="button" class="linkbtn nums" data-lesson-completions="${esc(r.slug)}">` +
         `${Number(r.completions || 0)}</button> ${bar(Number(r.completions || 0), DATA?.totals?.members || 0)}` },
-    { key: "plays",             label: "Plays",     get: r => Number(r.plays || 0), num: true,
+    { key: "song_plays",        label: "Song plays", get: r => Number(r.song_plays || 0), num: true,
       cell: r => `<button type="button" class="linkbtn nums" data-lesson-plays="${esc(r.slug)}">` +
-        `${Number(r.plays || 0)}</button>` },
-    { key: "distinct_listeners", label: "Listeners", get: r => Number(r.distinct_listeners || 0), num: true,
-      cell: r => `<span class="nums">${Number(r.distinct_listeners || 0)}</span>` },
+        `${Number(r.song_plays || 0)}</button>` },
+    { key: "distinct_song_listeners", label: "Song listeners", get: r => Number(r.distinct_song_listeners || 0), num: true,
+      cell: r => `<span class="nums">${Number(r.distinct_song_listeners || 0)}</span>` },
+    { key: "summary_plays",     label: "Summary plays", get: r => Number(r.summary_plays || 0), num: true,
+      cell: r => `<button type="button" class="linkbtn nums" data-lesson-summary-plays="${esc(r.slug)}">` +
+        `${Number(r.summary_plays || 0)}</button>` },
+    { key: "distinct_summary_listeners", label: "Summary listeners", get: r => Number(r.distinct_summary_listeners || 0), num: true,
+      cell: r => `<span class="nums">${Number(r.distinct_summary_listeners || 0)}</span>` },
     { key: "last_completed_at", label: "Last",      get: r => Date.parse(r.last_completed_at || 0) || 0, num: true,
       cell: r => `<span class="nums">${ago(r.last_completed_at)}</span>` },
     // Publish state. Unpublishing withholds the lesson from the site AND from
@@ -277,7 +284,8 @@ function renderStats() {
     ["Avg read", lessonTotal ? `${t.avg_lessons_done} / ${lessonTotal}` : t.avg_lessons_done],
     ["Login 7d", t.signed_in_this_week],
     ["Not activated", t.never_signed_in],
-    ["Plays", t.plays_total],
+    ["Song plays", t.plays_total],
+    ["Summary plays", t.summary_plays_total],
     ["Subscribers", `${t.subscribers_active} / ${t.subscribers}`],
   ];
   document.getElementById("stats").innerHTML = tiles.map(([label, v]) =>
@@ -524,7 +532,14 @@ function renderTable() {
 
   el.querySelectorAll("[data-lesson-plays]").forEach((b) => b.onclick = () =>
     openLessonMembersModal(
-      "lesson_plays", b.dataset.lessonPlays, `Plays: ${b.dataset.lessonPlays}`,
+      "lesson_plays", b.dataset.lessonPlays, `Song plays: ${b.dataset.lessonPlays}`,
+      ["Email", "Plays", "Last played"],
+      (row) => [esc(row.email), `<span class="nums">${Number(row.play_count || 0)}</span>`,
+        `<span class="nums" title="${esc(row.last_played_at)}">${ago(row.last_played_at)}</span>`]));
+
+  el.querySelectorAll("[data-lesson-summary-plays]").forEach((b) => b.onclick = () =>
+    openLessonMembersModal(
+      "lesson_summary_plays", b.dataset.lessonSummaryPlays, `Summary plays: ${b.dataset.lessonSummaryPlays}`,
       ["Email", "Plays", "Last played"],
       (row) => [esc(row.email), `<span class="nums">${Number(row.play_count || 0)}</span>`,
         `<span class="nums" title="${esc(row.last_played_at)}">${ago(row.last_played_at)}</span>`]));

@@ -33,7 +33,8 @@
       },
       "under_review": true,
       "has_illustration": false,
-      "has_audio": false
+      "has_audio": false,
+      "has_summary_audio": false
     },
     {
       "slug": "040_fragrance_weather",
@@ -68,7 +69,8 @@
       },
       "under_review": true,
       "has_illustration": false,
-      "has_audio": false
+      "has_audio": false,
+      "has_summary_audio": false
     },
     {
       "slug": "039_day_night",
@@ -103,7 +105,8 @@
       },
       "under_review": true,
       "has_illustration": false,
-      "has_audio": false
+      "has_audio": false,
+      "has_summary_audio": false
     },
     {
       "slug": "038_light_color",
@@ -138,7 +141,8 @@
       },
       "under_review": true,
       "has_illustration": false,
-      "has_audio": false
+      "has_audio": false,
+      "has_summary_audio": false
     },
     {
       "slug": "037_construction",
@@ -173,7 +177,8 @@
       },
       "under_review": true,
       "has_illustration": false,
-      "has_audio": false
+      "has_audio": false,
+      "has_summary_audio": false
     },
     {
       "slug": "036_soil",
@@ -208,7 +213,8 @@
       },
       "under_review": true,
       "has_illustration": false,
-      "has_audio": false
+      "has_audio": false,
+      "has_summary_audio": false
     },
     {
       "slug": "032_security_death_slaughter",
@@ -243,7 +249,8 @@
       },
       "under_review": true,
       "has_illustration": false,
-      "has_audio": false
+      "has_audio": false,
+      "has_summary_audio": false
     },
     {
       "slug": "031_calls_glad_tidings",
@@ -278,7 +285,8 @@
       },
       "under_review": true,
       "has_illustration": false,
-      "has_audio": false
+      "has_audio": false,
+      "has_summary_audio": false
     },
     {
       "slug": "030_angels_welcome",
@@ -313,7 +321,8 @@
       },
       "under_review": true,
       "has_illustration": false,
-      "has_audio": false
+      "has_audio": false,
+      "has_summary_audio": false
     },
     {
       "slug": "029_entering_jannah",
@@ -348,7 +357,8 @@
       },
       "under_review": true,
       "has_illustration": false,
-      "has_audio": false
+      "has_audio": false,
+      "has_summary_audio": false
     },
     {
       "slug": "020_children_pre_accountability",
@@ -383,7 +393,8 @@
       },
       "under_review": true,
       "has_illustration": true,
-      "has_audio": false
+      "has_audio": false,
+      "has_summary_audio": false
     },
     {
       "slug": "019_last_entrant",
@@ -418,7 +429,8 @@
       },
       "under_review": true,
       "has_illustration": true,
-      "has_audio": false
+      "has_audio": false,
+      "has_summary_audio": false
     },
     {
       "slug": "018_poor_weak_ummah",
@@ -453,7 +465,8 @@
       },
       "under_review": true,
       "has_illustration": true,
-      "has_audio": false
+      "has_audio": false,
+      "has_summary_audio": false
     },
     {
       "slug": "017_without_account",
@@ -488,7 +501,8 @@
       },
       "under_review": true,
       "has_illustration": true,
-      "has_audio": false
+      "has_audio": false,
+      "has_summary_audio": false
     },
     {
       "slug": "016_first_entrants",
@@ -523,7 +537,8 @@
       },
       "under_review": true,
       "has_illustration": true,
-      "has_audio": false
+      "has_audio": false,
+      "has_summary_audio": false
     },
     {
       "slug": "015_planting_dhikr",
@@ -558,7 +573,8 @@
       },
       "under_review": true,
       "has_illustration": true,
-      "has_audio": false
+      "has_audio": false,
+      "has_summary_audio": false
     },
     {
       "slug": "014_houses_deeds",
@@ -593,7 +609,8 @@
       },
       "under_review": true,
       "has_illustration": true,
-      "has_audio": false
+      "has_audio": false,
+      "has_summary_audio": false
     },
     {
       "slug": "013_entry_deeds",
@@ -628,7 +645,8 @@
       },
       "under_review": true,
       "has_illustration": true,
-      "has_audio": false
+      "has_audio": false,
+      "has_summary_audio": false
     },
     {
       "slug": "012_preparation",
@@ -663,7 +681,8 @@
       },
       "under_review": true,
       "has_illustration": true,
-      "has_audio": false
+      "has_audio": false,
+      "has_summary_audio": false
     },
     {
       "slug": "011_longing_dua",
@@ -698,7 +717,8 @@
       },
       "under_review": true,
       "has_illustration": true,
-      "has_audio": false
+      "has_audio": false,
+      "has_summary_audio": false
     },
     {
       "slug": "010_mercy_not_price",
@@ -733,7 +753,8 @@
       },
       "under_review": true,
       "has_illustration": true,
-      "has_audio": false
+      "has_audio": false,
+      "has_summary_audio": false
     },
     {
       "slug": "009_hard_path",
@@ -768,7 +789,8 @@
       },
       "under_review": true,
       "has_illustration": true,
-      "has_audio": false
+      "has_audio": false,
+      "has_summary_audio": false
     },
     {
       "slug": "008_key_price",
@@ -803,7 +825,8 @@
       },
       "under_review": true,
       "has_illustration": true,
-      "has_audio": false
+      "has_audio": false,
+      "has_summary_audio": false
     },
     {
       "slug": "007_gatekeepers",
@@ -838,7 +861,8 @@
       },
       "under_review": true,
       "has_illustration": true,
-      "has_audio": false
+      "has_audio": false,
+      "has_summary_audio": false
     },
     {
       "slug": "006_gates",
@@ -873,7 +897,8 @@
       },
       "under_review": true,
       "has_illustration": true,
-      "has_audio": false
+      "has_audio": false,
+      "has_summary_audio": false
     },
     {
       "slug": "005_number_types",
@@ -908,7 +933,8 @@
       },
       "under_review": true,
       "has_illustration": true,
-      "has_audio": false
+      "has_audio": false,
+      "has_summary_audio": false
     },
     {
       "slug": "004_location_vastness",
@@ -943,7 +969,8 @@
       },
       "under_review": true,
       "has_illustration": true,
-      "has_audio": false
+      "has_audio": false,
+      "has_summary_audio": false
     },
     {
       "slug": "003_eternity",
@@ -978,7 +1005,8 @@
       },
       "under_review": true,
       "has_illustration": true,
-      "has_audio": false
+      "has_audio": false,
+      "has_summary_audio": false
     },
     {
       "slug": "002_created_now",
@@ -1013,7 +1041,8 @@
       },
       "under_review": true,
       "has_illustration": true,
-      "has_audio": true
+      "has_audio": true,
+      "has_summary_audio": false
     },
     {
       "slug": "001_names_reality",
@@ -1048,7 +1077,8 @@
       },
       "under_review": true,
       "has_illustration": true,
-      "has_audio": true
+      "has_audio": true,
+      "has_summary_audio": false
     }
   ]
 }

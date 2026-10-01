@@ -28,11 +28,11 @@ function getLang() {
 function setLang(l) { try { localStorage.setItem(LANG_KEY, l); } catch (_) {} }
 
 const UI = {
-  en: { dir: "ltr", contents: "Contents", report: "Report an error", report_body: "Please describe the error:", review: "This lesson is under review and may be corrected.", missing: "Lesson not found.", done: "Mark this lesson complete", undone: "✓ Completed — undo", done_short: "Lesson complete", save_failed: "Could not save — check your connection.", progress: (d, t) => `${d} of ${t} lessons complete`, back: "← All Lessons", logout: "Log out" },
-  ar: { dir: "rtl", contents: "المحتويات", report: "الإبلاغ عن خطأ", report_body: "يُرجى وصف الخطأ:", review: "هذا الدرس قيد المراجعة وقد يُصحَّح.", missing: "الدرس غير موجود.", done: "تم إكمال هذا الدرس", undone: "✓ مكتمل — إلغاء", done_short: "تم إكمال الدرس", save_failed: "تعذّر الحفظ. تحقّق من اتصالك.", progress: (d, t) => `أكملتَ ${d} من ${t}`, back: "← جميع الدروس", logout: "تسجيل الخروج" },
-  ur: { dir: "rtl", contents: "فہرست", report: "غلطی کی اطلاع دیں", report_body: "براہِ کرم غلطی بیان کریں:", review: "یہ سبق زیرِ نظرثانی ہے اور اس میں تصحیح ہو سکتی ہے۔", missing: "سبق نہیں ملا۔", done: "اس سبق کو مکمل نشان زد کریں", undone: "✓ مکمل — واپس لیں", done_short: "سبق مکمل", save_failed: "محفوظ نہیں ہو سکا۔ اپنا کنکشن دیکھیں۔", progress: (d, t) => `${t} میں سے ${d} اسباق مکمل`, back: "← تمام اسباق", logout: "لاگ آؤٹ" },
-  fr: { dir: "ltr", contents: "Sommaire", report: "Signaler une erreur", report_body: "Veuillez décrire l’erreur :", review: "Cette leçon est en cours de révision et pourra être corrigée.", missing: "Leçon introuvable.", done: "Marquer cette leçon comme terminée", undone: "✓ Terminée — annuler", done_short: "Leçon terminée", save_failed: "Enregistrement impossible — vérifiez votre connexion.", progress: (d, t) => `${d} leçons terminées sur ${t}`, back: "← Toutes les leçons", logout: "Déconnexion" },
-  es: { dir: "ltr", contents: "Contenido", report: "Informar de un error", report_body: "Describa el error, por favor:", review: "Esta lección está en revisión y puede ser corregida.", missing: "Lección no encontrada.", done: "Marcar esta lección como completada", undone: "✓ Completada — deshacer", done_short: "Lección completada", save_failed: "No se pudo guardar — comprueba tu conexión.", progress: (d, t) => `${d} de ${t} lecciones completadas`, back: "← Todas las lecciones", logout: "Cerrar sesión" },
+  en: { dir: "ltr", contents: "Contents", report: "Report an error", report_body: "Please describe the error:", review: "This lesson is under review and may be corrected.", missing: "Lesson not found.", done: "Mark this lesson complete", undone: "✓ Completed — undo", done_short: "Lesson complete", save_failed: "Could not save — check your connection.", progress: (d, t) => `${d} of ${t} lessons complete`, back: "← All Lessons", logout: "Log out", summary_heading: "Summary", song_heading: "Song" },
+  ar: { dir: "rtl", contents: "المحتويات", report: "الإبلاغ عن خطأ", report_body: "يُرجى وصف الخطأ:", review: "هذا الدرس قيد المراجعة وقد يُصحَّح.", missing: "الدرس غير موجود.", done: "تم إكمال هذا الدرس", undone: "✓ مكتمل — إلغاء", done_short: "تم إكمال الدرس", save_failed: "تعذّر الحفظ. تحقّق من اتصالك.", progress: (d, t) => `أكملتَ ${d} من ${t}`, back: "← جميع الدروس", logout: "تسجيل الخروج", summary_heading: "ملخص", song_heading: "أنشودة" },
+  ur: { dir: "rtl", contents: "فہرست", report: "غلطی کی اطلاع دیں", report_body: "براہِ کرم غلطی بیان کریں:", review: "یہ سبق زیرِ نظرثانی ہے اور اس میں تصحیح ہو سکتی ہے۔", missing: "سبق نہیں ملا۔", done: "اس سبق کو مکمل نشان زد کریں", undone: "✓ مکمل — واپس لیں", done_short: "سبق مکمل", save_failed: "محفوظ نہیں ہو سکا۔ اپنا کنکشن دیکھیں۔", progress: (d, t) => `${t} میں سے ${d} اسباق مکمل`, back: "← تمام اسباق", logout: "لاگ آؤٹ", summary_heading: "خلاصہ", song_heading: "نغمہ" },
+  fr: { dir: "ltr", contents: "Sommaire", report: "Signaler une erreur", report_body: "Veuillez décrire l’erreur :", review: "Cette leçon est en cours de révision et pourra être corrigée.", missing: "Leçon introuvable.", done: "Marquer cette leçon comme terminée", undone: "✓ Terminée — annuler", done_short: "Leçon terminée", save_failed: "Enregistrement impossible — vérifiez votre connexion.", progress: (d, t) => `${d} leçons terminées sur ${t}`, back: "← Toutes les leçons", logout: "Déconnexion", summary_heading: "Résumé", song_heading: "Chanson" },
+  es: { dir: "ltr", contents: "Contenido", report: "Informar de un error", report_body: "Describa el error, por favor:", review: "Esta lección está en revisión y puede ser corregida.", missing: "Lección no encontrada.", done: "Marcar esta lección como completada", undone: "✓ Completada — deshacer", done_short: "Lección completada", save_failed: "No se pudo guardar — comprueba tu conexión.", progress: (d, t) => `${d} de ${t} lecciones completadas`, back: "← Todas las lecciones", logout: "Cerrar sesión", summary_heading: "Resumen", song_heading: "Canción" },
 };
 
 // Digits per language. Arabic and Urdu read naturally in Arabic-Indic numerals.
@@ -228,6 +228,9 @@ async function renderLesson(root, session) {
   // Illustration + audio are shared/untranslated, so they render once regardless
   // of the selected language. Gated on manifest flags set by sync_lessons.py.
   const illustrationEl = document.getElementById("lesson-illustration");
+  const summarySectionEl = document.getElementById("lesson-summary-section");
+  const summaryAudioEl = document.getElementById("lesson-summary-audio");
+  const songSectionEl = document.getElementById("lesson-song-section");
   const audioEl = document.getElementById("lesson-audio");
 
   if (illustrationEl) {
@@ -241,10 +244,32 @@ async function renderLesson(root, session) {
     }
   }
 
-  if (audioEl) {
+  if (summarySectionEl && summaryAudioEl) {
+    if (entry && entry.has_summary_audio) {
+      summaryAudioEl.src = `lessons/${encodeURIComponent(slug)}/summary.mp3`;
+      summaryAudioEl.hidden = false;
+      summarySectionEl.hidden = false;
+      // One play logged per page visit: the flag stops a pause/resume or a
+      // seek from re-firing "play" and inflating the count.
+      let loggedSummary = false;
+      summaryAudioEl.onplay = () => {
+        if (loggedSummary || !userId || typeof logSummaryPlay !== "function") return;
+        loggedSummary = true;
+        logSummaryPlay(slug);
+      };
+    } else {
+      summarySectionEl.hidden = true;
+      summaryAudioEl.hidden = true;
+      summaryAudioEl.removeAttribute("src");
+      summaryAudioEl.onplay = null;
+    }
+  }
+
+  if (songSectionEl && audioEl) {
     if (entry && entry.has_audio) {
       audioEl.src = `lessons/${encodeURIComponent(slug)}/song.mp3`;
       audioEl.hidden = false;
+      songSectionEl.hidden = false;
       // One play logged per page visit: the flag stops a pause/resume or a
       // seek from re-firing "play" and inflating the count.
       let logged = false;
@@ -254,6 +279,7 @@ async function renderLesson(root, session) {
         logSongPlay(slug);
       };
     } else {
+      songSectionEl.hidden = true;
       audioEl.hidden = true;
       audioEl.removeAttribute("src");
       audioEl.onplay = null;
@@ -359,6 +385,10 @@ async function renderLesson(root, session) {
     if (doneMount) doneMount.dir = RTL.has(l) ? "rtl" : "ltr";
     const backEl = document.getElementById("backlink");
     if (backEl) backEl.textContent = UI[l]?.back || UI.en.back;
+    const summaryHeadingEl = document.getElementById("lesson-summary-heading");
+    if (summaryHeadingEl) summaryHeadingEl.textContent = UI[l]?.summary_heading || UI.en.summary_heading;
+    const songHeadingEl = document.getElementById("lesson-song-heading");
+    if (songHeadingEl) songHeadingEl.textContent = UI[l]?.song_heading || UI.en.song_heading;
     if (typeof setAuthBarLang === "function") setAuthBarLang(l);
     setReport(l);
     paintDone(l);   // the complete button follows the selected language too
