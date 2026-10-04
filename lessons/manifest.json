@@ -361,6 +361,166 @@
       "has_summary_audio": false
     },
     {
+      "slug": "028_homes_rooms",
+      "order": 28,
+      "langs": [
+        "ar"
+      ],
+      "titles": {
+        "ar": "مَعْرِفَةُ الْمَنَازِلِ وَالْغُرَفِ"
+      },
+      "hooks": {
+        "ar": "بعد هذا الدرس، يكون المتعلم قادرًا على:"
+      },
+      "status": {
+        "ar": "arabic_draft"
+      },
+      "under_review": true,
+      "has_illustration": false,
+      "has_audio": false,
+      "has_summary_audio": false
+    },
+    {
+      "slug": "027_raised_ranks_descendants",
+      "order": 27,
+      "langs": [
+        "ar"
+      ],
+      "titles": {
+        "ar": "رَفْعُ الدَّرَجَاتِ وَإِلْحَاقُ الذُّرِّيَّةِ"
+      },
+      "hooks": {
+        "ar": "بعد هذا الدرس، يكون المتعلم قادرًا على:"
+      },
+      "status": {
+        "ar": "arabic_draft"
+      },
+      "under_review": true,
+      "has_illustration": false,
+      "has_audio": false,
+      "has_summary_audio": false
+    },
+    {
+      "slug": "026_jannat_adn",
+      "order": 26,
+      "langs": [
+        "ar"
+      ],
+      "titles": {
+        "ar": "جَنَّاتُ عَدْنٍ وَمَا خَلَقَهُ اللَّهُ بِيَدِهِ"
+      },
+      "hooks": {
+        "ar": "بعد هذا الدرس، يكون المتعلم قادرًا على:"
+      },
+      "status": {
+        "ar": "arabic_draft"
+      },
+      "under_review": true,
+      "has_illustration": false,
+      "has_audio": false,
+      "has_summary_audio": false
+    },
+    {
+      "slug": "025_wasilah",
+      "order": 25,
+      "langs": [
+        "ar"
+      ],
+      "titles": {
+        "ar": "الْوَسِيلَةُ وَمَقَامُ النَّبِيِّ ﷺ"
+      },
+      "hooks": {
+        "ar": "بعد هذا الدرس، يكون المتعلم قادرًا على:"
+      },
+      "status": {
+        "ar": "arabic_draft"
+      },
+      "under_review": true,
+      "has_illustration": false,
+      "has_audio": false,
+      "has_summary_audio": false
+    },
+    {
+      "slug": "024_firdaws",
+      "order": 24,
+      "langs": [
+        "ar"
+      ],
+      "titles": {
+        "ar": "الْفِرْدَوْسُ الْأَعْلَى"
+      },
+      "hooks": {
+        "ar": "بعد هذا الدرس، يكون المتعلم قادرًا على:"
+      },
+      "status": {
+        "ar": "arabic_draft"
+      },
+      "under_review": true,
+      "has_illustration": false,
+      "has_audio": false,
+      "has_summary_audio": false
+    },
+    {
+      "slug": "023_highest_lowest",
+      "order": 23,
+      "langs": [
+        "ar"
+      ],
+      "titles": {
+        "ar": "أَعْلَى أَهْلِ الْجَنَّةِ وَأَدْنَاهُمْ مَنْزِلَةً"
+      },
+      "hooks": {
+        "ar": "بعد هذا الدرس، يكون المتعلم قادرًا على:"
+      },
+      "status": {
+        "ar": "arabic_draft"
+      },
+      "under_review": true,
+      "has_illustration": false,
+      "has_audio": false,
+      "has_summary_audio": false
+    },
+    {
+      "slug": "022_degrees",
+      "order": 22,
+      "langs": [
+        "ar"
+      ],
+      "titles": {
+        "ar": "دَرَجَاتُ الْجَنَّةِ وَتَفَاضُلُ أَهْلِهَا"
+      },
+      "hooks": {
+        "ar": "بعد هذا الدرس، يكون المتعلم قادرًا على:"
+      },
+      "status": {
+        "ar": "arabic_draft"
+      },
+      "under_review": true,
+      "has_illustration": false,
+      "has_audio": false,
+      "has_summary_audio": false
+    },
+    {
+      "slug": "021_named_glad_tidings",
+      "order": 21,
+      "langs": [
+        "ar"
+      ],
+      "titles": {
+        "ar": "سَادَةُ أَهْلِ الْجَنَّةِ وَالْمُبَشَّرُونَ بِهَا"
+      },
+      "hooks": {
+        "ar": "بعد هذا الدرس، يكون المتعلم قادرًا على:"
+      },
+      "status": {
+        "ar": "arabic_draft"
+      },
+      "under_review": true,
+      "has_illustration": false,
+      "has_audio": false,
+      "has_summary_audio": false
+    },
+    {
       "slug": "020_children_pre_accountability",
       "order": 20,
       "langs": [
