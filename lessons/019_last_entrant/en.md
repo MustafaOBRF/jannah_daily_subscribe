@@ -28,8 +28,6 @@ After this lesson, the learner will be able to:
 - Carry out the "My World × 10" activity, which links imagining one's most treasured things multiplied tenfold to the reality of what Allah gives the lowest-ranking person in Jannah.
 - Recall the du'a "O Allah, never let us despair of Your mercy" as a daily reminder never to lose hope in Allah's mercy, however small one's deeds may seem or however heavy one's sins.
 
----
-
 ## Academic Section for Adults
 
 <!-- reader:start audience="adults" estimated_minutes="6.5" -->

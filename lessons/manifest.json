@@ -376,7 +376,7 @@
         "ar": "arabic_draft"
       },
       "under_review": true,
-      "has_illustration": false,
+      "has_illustration": true,
       "has_audio": false,
       "has_summary_audio": false
     },
@@ -396,7 +396,7 @@
         "ar": "arabic_draft"
       },
       "under_review": true,
-      "has_illustration": false,
+      "has_illustration": true,
       "has_audio": false,
       "has_summary_audio": false
     },
@@ -416,7 +416,7 @@
         "ar": "arabic_draft"
       },
       "under_review": true,
-      "has_illustration": false,
+      "has_illustration": true,
       "has_audio": false,
       "has_summary_audio": false
     },
@@ -436,7 +436,7 @@
         "ar": "arabic_draft"
       },
       "under_review": true,
-      "has_illustration": false,
+      "has_illustration": true,
       "has_audio": false,
       "has_summary_audio": false
     },
@@ -456,7 +456,7 @@
         "ar": "arabic_draft"
       },
       "under_review": true,
-      "has_illustration": false,
+      "has_illustration": true,
       "has_audio": false,
       "has_summary_audio": false
     },
@@ -476,7 +476,7 @@
         "ar": "arabic_draft"
       },
       "under_review": true,
-      "has_illustration": false,
+      "has_illustration": true,
       "has_audio": false,
       "has_summary_audio": false
     },
@@ -496,7 +496,7 @@
         "ar": "arabic_draft"
       },
       "under_review": true,
-      "has_illustration": false,
+      "has_illustration": true,
       "has_audio": false,
       "has_summary_audio": false
     },
@@ -516,7 +516,7 @@
         "ar": "arabic_draft"
       },
       "under_review": true,
-      "has_illustration": false,
+      "has_illustration": true,
       "has_audio": false,
       "has_summary_audio": false
     },

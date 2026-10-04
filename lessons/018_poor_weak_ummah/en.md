@@ -36,7 +36,7 @@ The measure of closeness to Jannah is not wealth, status, or worldly power -- it
 <!-- unit:end -->
 
 <!-- unit:start id="jannah.018.adults.evidence" kind="evidence" -->
-### The Evidence
+## The Evidence
 
 <!-- evidence:start id="jannah.018.ev.tirmidhi2353" kind="hadith" mode="canonical" -->
 عن أبي هريرة رضي الله عنه، عن النبي ﷺ قال: «فُقَرَاءُ الْمُهَاجِرِينَ يَسْبِقُونَ الْأَغْنِيَاءَ يَوْمَ الْقِيَامَةِ إِلَى الْجَنَّةِ بِخَمْسِمِائَةِ عَامٍ» [رواه الترمذي (٢٣٥٣)، وأحمد، وابن حبان، وقال الترمذي: حديث حسن صحيح، وحسّنه الألباني].
@@ -113,7 +113,7 @@ Despite this poverty and severe need, the people of Suffah did not complain in r
 <!-- unit:end -->
 
 <!-- unit:start id="jannah.018.adults.questions" kind="questions" -->
-### Questions for Reflection
+## Questions for Reflection
 1. What is the difference between the "merit of precedence" and the "merit of elevation," as Ibn al-Qayyim explained it? Why does this distinction matter so we do not misunderstand these hadiths?
 2. How can we reconcile the poor preceding others into Jannah with the fact that some wealthy Companions, such as Uthman and Abdur-Rahman ibn Awf, were among those given glad tidings of Jannah?
 3. What does the story of the people of Suffah teach us about the relationship between poverty, patience, and contentment?
@@ -203,7 +203,7 @@ Choose one day this week to deliberately place someone else ahead of yourself in
 <!-- unit:end -->
 
 <!-- unit:start id="jannah.018.teen.evidence" kind="evidence" -->
-### Evidence
+## Evidence
 <!-- evidence:start id="jannah.018.teen.ev1" kind="hadith" mode="canonical" -->
 The Prophet ﷺ said: «فُقَرَاءُ الْمُهَاجِرِينَ يَسْبِقُونَ الْأَغْنِيَاءَ يَوْمَ الْقِيَامَةِ إِلَى الْجَنَّةِ بِخَمْسِمِائَةِ عَامٍ» [al-Tirmidhi 2353, hasan sahih].
 <!-- evidence:translation -->
@@ -286,7 +286,7 @@ We will learn that someone who is poor but patient and thankful to Allah is love
 <!-- unit:end -->
 
 <!-- unit:start id="jannah.018.812.evidence" kind="evidence" -->
-### A Hadith
+## A Hadith
 <!-- evidence:start id="jannah.018.812.ev1" kind="hadith" mode="canonical" -->
 The Prophet ﷺ said: «أَلَا أُخْبِرُكُمْ بِأَهْلِ الْجَنَّةِ؟ كُلُّ ضَعِيفٍ مُتَضَعِّفٍ، لَوْ أَقْسَمَ عَلَى اللهِ لَأَبَرَّهُ» [Bukhari 6071].
 <!-- evidence:translation -->

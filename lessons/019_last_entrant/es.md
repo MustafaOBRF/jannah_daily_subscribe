@@ -28,8 +28,6 @@ Después de esta lección, el aprendiz será capaz de:
 - Realizar la actividad "Mi mundo × 10", que une el ejercicio de imaginar multiplicado por diez lo que el aprendiz más aprecia con la realidad de lo que Allah concede a quien ocupa el rango más bajo del Paraíso.
 - Recordar la súplica "Oh Allah, no permitas que desesperemos de Tu misericordia" como un recordatorio diario de no perder nunca la esperanza en la misericordia de Allah, por pequeñas que parezcan las propias obras o por grandes que parezcan los propios pecados.
 
----
-
 ## Sección académica para adultos
 
 <!-- reader:start audience="adults" estimated_minutes="6.5" -->

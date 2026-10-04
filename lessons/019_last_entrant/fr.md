@@ -28,8 +28,6 @@ Après cette leçon, l'apprenant sera capable de :
 - Réaliser l'activité « Mon monde × 10 », qui relie l'exercice d'imaginer multiplié par dix ce que l'apprenant a de plus précieux à la réalité du don d'Allah envers celui dont le rang est le plus bas en Jannah.
 - Retenir l'invocation « Ô Allah, ne nous laisse pas désespérer de Ta miséricorde » comme un rappel quotidien : ne jamais désespérer de la miséricorde d'Allah, si mince que paraisse son œuvre ou si lourds que semblent ses péchés.
 
----
-
 ## Section Académique Pour Adultes
 
 <!-- reader:start audience="adults" estimated_minutes="6.5" -->

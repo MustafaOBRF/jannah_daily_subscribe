@@ -42,7 +42,7 @@ bedtime_dua_id: "lesson.018.dua.dignity-not-wealth"
 
 <!-- unit:start id="adults.evidence" kind="evidence" -->
 
-### الأدلة المركزية
+## الأدلة المركزية
 
 <!-- evidence:start id="bukhari-6071" kind="hadith" mode="canonical" -->
 
@@ -116,7 +116,7 @@ bedtime_dua_id: "lesson.018.dua.dignity-not-wealth"
 
 <!-- unit:start id="adults.questions" kind="questions" -->
 
-### أسئلة للفهم والتأمل
+## أسئلة للفهم والتأمل
 
 ١. ما الفرق بين سبق الفقراء الزمني إلى الجنة وبين علوّ الدرجة فيها؟ ولماذا لا يتعارض هذا مع تبشير بعض الأغنياء كعثمان وعبد الرحمن بن عوف رضي الله عنهما؟
 ٢. كيف يمنع تفسير "أصحاب الجدّ محبوسون" بأنه حبسٌ للحساب من فهم الحديث على أنه ذمٌّ للغنى في ذاته؟

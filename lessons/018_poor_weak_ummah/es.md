@@ -36,7 +36,7 @@ La medida de la cercanía al Jannah no es la riqueza, el estatus ni el poder mun
 <!-- unit:end -->
 
 <!-- unit:start id="jannah.018.adults.evidence" kind="evidence" -->
-### Las pruebas
+## Las pruebas
 
 <!-- evidence:start id="jannah.018.ev.tirmidhi2353" kind="hadith" mode="canonical" -->
 عن أبي هريرة رضي الله عنه، عن النبي ﷺ قال: «فُقَرَاءُ الْمُهَاجِرِينَ يَسْبِقُونَ الْأَغْنِيَاءَ يَوْمَ الْقِيَامَةِ إِلَى الْجَنَّةِ بِخَمْسِمِائَةِ عَامٍ» [رواه الترمذي (٢٣٥٣)].
@@ -113,7 +113,7 @@ A pesar de esta pobreza y necesidad severa, la gente de Suffa no se quejaba con 
 <!-- unit:end -->
 
 <!-- unit:start id="jannah.018.adults.questions" kind="questions" -->
-### Preguntas para la reflexión
+## Preguntas para la reflexión
 1. ¿Cuál es la diferencia entre el "mérito de precedencia" y el "mérito de elevación", tal como lo explicó Ibn al-Qayyim? ¿Por qué importa esta distinción para no malinterpretar estos hadices?
 2. ¿Cómo podemos conciliar el hecho de que los pobres precedan a otros al Jannah con que algunos Compañeros ricos, como Uzman y Abdurrahmán ibn Awf, recibieran la buena noticia del Jannah?
 3. ¿Qué nos enseña la historia de la gente de Suffa sobre la relación entre pobreza, paciencia y conformidad?
@@ -203,7 +203,7 @@ Elige un día esta semana para deliberadamente poner a otra persona antes que a 
 <!-- unit:end -->
 
 <!-- unit:start id="jannah.018.teen.evidence" kind="evidence" -->
-### Pruebas
+## Pruebas
 <!-- evidence:start id="jannah.018.teen.ev1" kind="hadith" mode="canonical" -->
 El Profeta ﷺ dijo: «فُقَرَاءُ الْمُهَاجِرِينَ يَسْبِقُونَ الْأَغْنِيَاءَ يَوْمَ الْقِيَامَةِ إِلَى الْجَنَّةِ بِخَمْسِمِائَةِ عَامٍ» [al-Tirmidhi 2353, hasan sahih].
 <!-- evidence:translation -->
@@ -286,7 +286,7 @@ Aprenderemos que alguien pobre pero paciente y agradecido con Allah es amado por
 <!-- unit:end -->
 
 <!-- unit:start id="jannah.018.812.evidence" kind="evidence" -->
-### Un hadiz
+## Un hadiz
 <!-- evidence:start id="jannah.018.812.ev1" kind="hadith" mode="canonical" -->
 El Profeta ﷺ dijo: «أَلَا أُخْبِرُكُمْ بِأَهْلِ الْجَنَّةِ؟ كُلُّ ضَعِيفٍ مُتَضَعِّفٍ، لَوْ أَقْسَمَ عَلَى اللهِ لَأَبَرَّهُ» [Bujari 6071].
 <!-- evidence:translation -->
