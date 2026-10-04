@@ -372,24 +372,24 @@
       ],
       "titles": {
         "ar": "الْأَطْفَالُ الَّذِينَ سَبَقُونَا إِلَى الْجَنَّةِ",
-        "en": "Children and Those Who Died Before the Age of Accountability",
-        "ur": "وہ بچے اور لوگ جو تکلیف کی عمر سے پہلے وفات پا گئے",
-        "fr": "Les enfants et ceux qui sont morts avant l'âge de responsabilité religieuse",
-        "es": "Los niños y quienes murieron antes de la edad de responsabilidad religiosa"
+        "en": "The Little Ones Who Went Ahead of Us to Jannah",
+        "ur": "وہ ننھے جو ہم سے پہلے جنت جا پہنچے",
+        "fr": "Les Petits Qui Nous Ont Devancés en Jannah",
+        "es": "Los pequeños que se nos adelantaron al Paraíso"
       },
       "hooks": {
         "ar": "بعد هذا الدرس، يخرج المتعلم بيقين أن الطفل الذي يقبضه الله إليه قبل بلوغ سنّ التكليف لا يُحاسَب على شيء، لأن القلم رُفع عنه، وأنه بفضل الله ورحمته من أهل الجنة. يتعرّف المتعلم على حديث «دعاميص الجنة»،",
-        "en": "It is part of Allah's mercy toward His servants that children who pass away before reaching the age of religious accountability (taklif) are not held to account the way adults are, because the Pen has",
-        "ur": "اللہ تعالیٰ کی اپنے بندوں پر رحمت کا حصہ ہے کہ جو بچے تکلیف کی عمر کو پہنچنے سے پہلے وفات پا جاتے ہیں، ان کا حساب بڑوں کی طرح نہیں لیا جاتا، کیونکہ ان سے قلم اٹھا لیا گیا ہے۔ نبی کریم ﷺ نے مومنوں کو ی",
-        "fr": "Il fait partie de la miséricorde d'Allah envers Ses serviteurs que les enfants qui décèdent avant d'atteindre l'âge de responsabilité religieuse (taklif) ne sont pas jugés comme le sont les adultes, c",
-        "es": "Es parte de la misericordia de Allah hacia Sus siervos que los niños que fallecen antes de alcanzar la edad de responsabilidad religiosa (taklif) no rinden cuentas como lo hacen los adultos, porque el"
+        "en": "By the end of this lesson, the learner comes away certain that a child whom Allah takes back to Himself before reaching the age of accountability is not held to account for anything, because the Pen h",
+        "ur": "اس سبق کے بعد سیکھنے والا اس یقین کے ساتھ اٹھتا ہے کہ جس بچے یا بچی کو اللہ شرعی ذمہ داری کی عمر (سِنِّ تکلیف) کو پہنچنے سے پہلے اپنے پاس بلا لیتا ہے، اس سے کسی بات کا حساب نہیں لیا جاتا، کیونکہ اس سے",
+        "fr": "Au terme de cette leçon, l'apprenant repart avec une certitude : l'enfant qu'Allah rappelle à Lui avant l'âge de la responsabilité religieuse n'aura de comptes à rendre pour rien, car le Calame est le",
+        "es": "Al terminar esta lección, el aprendiz tendrá la certeza de que el niño al que Allah se lleva consigo antes de alcanzar la edad de responsabilidad religiosa no rinde cuentas de nada, porque el Cálamo h"
       },
       "status": {
         "ar": "arabic_draft",
-        "en": "draft",
-        "ur": "draft",
-        "fr": "draft",
-        "es": "draft"
+        "en": "translation_draft",
+        "ur": "translation_draft",
+        "fr": "translation_draft",
+        "es": "translation_draft"
       },
       "under_review": true,
       "has_illustration": true,
@@ -410,15 +410,15 @@
         "ar": "آخِرُ مَنْ يَدْخُلُ الْجَنَّةَ",
         "en": "The Last Person to Enter Jannah",
         "ur": "جنت میں سب سے آخر میں داخل ہونے والا شخص",
-        "fr": "La Dernière Personne à Entrer au Jannah",
-        "es": "La Última Persona en Entrar al Jannah"
+        "fr": "Le Dernier à Entrer en Jannah",
+        "es": "La última persona en entrar al Jannah"
       },
       "hooks": {
         "ar": "بعد هذا الدرس، يكون المتعلم قادرًا على:",
-        "en": "In this lesson, the learner meets the hadith of the last man to enter Jannah — who is also the very last person to come out of the Fire. He thinks Jannah has already filled up and there is no place le",
-        "ur": "اس سبق میں سیکھنے والا اُس حدیث سے آگاہ ہوتا ہے جو جنت میں سب سے آخر میں داخل ہونے والے شخص کے بارے میں ہے، جو دراصل جہنم سے سب سے آخر میں نکلنے والا بھی ہے۔ وہ سمجھتا ہے کہ جنت بھر چکی ہے اور اس کے ل",
-        "fr": "Dans cette leçon, l'apprenant découvre le hadith du dernier homme à entrer au Jannah, qui est aussi la toute dernière personne à sortir du Feu. Il pense que le Jannah est déjà plein et qu'il n'y a plu",
-        "es": "En esta lección, el estudiante conoce el hadiz del último hombre en entrar al Jannah, quien también es la última persona en salir del Fuego. Él piensa que el Jannah ya se ha llenado y no queda lugar p"
+        "en": "After this lesson, the learner will be able to:",
+        "ur": "اس سبق کے بعد سیکھنے والا اس قابل ہو گا کہ:",
+        "fr": "Après cette leçon, l'apprenant sera capable de :",
+        "es": "Después de esta lección, el aprendiz será capaz de:"
       },
       "status": {
         "ar": "arabic_draft",

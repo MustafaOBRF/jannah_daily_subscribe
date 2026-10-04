@@ -1,310 +1,616 @@
 ---
-lesson_id: "jannah.020"
+title: "Les Petits Qui Nous Ont Devancés en Jannah"
+lesson_id: "lesson.020"
 topic_id: "jannah.020"
 translation_key: "jannah.children_pre_accountability"
 lang: "fr"
-status: "draft"
+status: "translation_draft"
 authoring_standard: "full_text_depth_v2"
 story_policy: "rotating_primary_with_authenticated_account_v2"
-hadith_policy: "sahih_hasan_main"
-tashkeel_scope: "texts_only"
 primary_story_type: "hadith"
 primary_story_source_id: "bukhari.tabir.samurah_ruya"
-primary_story_authenticated: true
+primary_story_authenticated: "true"
 authenticated_account_id: "muslim.ahmad.daaamees_al_jannah"
 activity_concept_id: "lesson.020.activity.garden_lanterns"
 bedtime_dua_id: "lesson.020.dua.gentle_mercy"
-title: "Les enfants et ceux qui sont morts avant l'âge de responsabilité religieuse"
 ---
 
-# Les enfants et ceux qui sont morts avant l'âge de responsabilité religieuse
+# Les Petits Qui Nous Ont Devancés en Jannah
 
-Il fait partie de la miséricorde d'Allah envers Ses serviteurs que les enfants qui décèdent avant d'atteindre l'âge de responsabilité religieuse (taklif) ne sont pas jugés comme le sont les adultes, car le Calame a été levé pour eux. Le Prophète ﷺ a annoncé aux croyants une magnifique bonne nouvelle : leurs enfants qui meurent en bas âge sont dans le Paradis d'Allah, dans une tendre bienveillance, attendant leurs parents avec amour et impatience. Cette leçon parle avec douceur de cette grande bonne nouvelle, et rappelle aux grands comme aux petits que la miséricorde d'Allah embrasse toute chose, et que quiconque a perdu un enfant a auprès d'Allah une récompense immense et un espoir qui ne s'éteint jamais. Cette leçon s'arrête à la frontière de la bonne nouvelle et de la miséricorde, et n'aborde aucun détail qui pourrait inquiéter un enfant ou éveiller de la tristesse dans le cœur de celui qui l'écoute.
+## Objectifs Et Résultats De La Leçon
 
-<!-- reader:start audience="adults" estimated_minutes="14" -->
+Au terme de cette leçon, l'apprenant repart avec une certitude : l'enfant qu'Allah rappelle à Lui avant l'âge de la responsabilité religieuse n'aura de comptes à rendre pour rien, car le Calame est levé pour lui, et il compte, par la grâce et la miséricorde d'Allah, parmi les gens de la Jannah. Il découvre le hadith des « *da'amis* de la Jannah », qui montre que le tout-petit n'oublie pas ses parents, mais les attend avec amour pour les saisir par le vêtement et les conduire jusqu'à la Jannah ; ainsi que le hadith du songe rapporté par Samurah ibn Jundab, qu'Allah soit satisfait de lui, qui dépeint le prophète d'Allah Ibrahim, paix sur lui, veillant avec tendresse sur ces enfants dans un magnifique jardin verdoyant de la Jannah. L'apprenant comprend que ces deux bonnes nouvelles sont une source d'espérance et de miséricorde, et non une occasion de tristesse, et que celui qui perd un enfant trouve auprès d'Allah une récompense immense et une cause d'entrée dans la Jannah. Parmi les résultats de la leçon, chaque apprenant réalise, selon son âge, l'activité « La lanterne du jardin », en exprimant par un dessin ou par l'écriture la lumière paisible et l'attente aimante que représente cette scène, sans s'attarder sur des détails douloureux ; et il apprend par cœur l'invocation « Ô Allah, fais miséricorde aux plus faibles de notre communauté et à nos enfants », en en gardant le sens présent à l'esprit.
 
-### Pour les Adultes
+## Section Académique Pour Adultes
 
-<!-- unit:start id="jannah.020.adults.explanation" kind="explanation" -->
+<!-- reader:start audience="adults" estimated_minutes="7.0" -->
 
-Parmi ce qui apaise le plus le cœur des croyants est le fait que leurs enfants morts avant l'âge de responsabilité sont parmi les gens du Paradis par la faveur et la miséricorde d'Allah, non par leurs propres œuvres, puisqu'ils n'avaient encore reçu aucune obligation. De nombreux textes authentiques du Prophète ﷺ l'indiquent, au point que plusieurs savants ont rapporté un consensus savant à ce sujet, spécifiquement concernant les enfants des croyants.
+<!-- unit:start id="adults.explanation" kind="explanation" -->
 
-<!-- evidence:start id="jannah.020.ev.dawamees" kind="hadith" mode="canonical" -->
+Peu de choses apaisent autant le cœur du croyant que cette certitude : Allah, gloire à Lui, n'a rendu l'enfant responsable de rien tant qu'il n'a pas atteint l'âge de la responsabilité religieuse. Le Calame est levé pour lui : aucune mauvaise action ne lui est inscrite, aucun manquement ne lui est reproché. Si donc Allah rappelle à Lui un tout-petit avant cet âge, l'enfant se trouve auprès de son Seigneur dans une miséricorde que ne vient troubler ni jugement ni châtiment — une miséricorde faite tout entière de bonne nouvelle et de grâce. Le Prophète, paix et bénédictions sur lui, a annoncé clairement cette bonne nouvelle à sa communauté dans plus d'un hadith authentique, et il a promis aux parents qui endurent leur perte avec patience, en espérant leur récompense auprès d'Allah, que leurs enfants partis avant eux vers l'au-delà occupent auprès de Lui une place immense : ils sont dans Sa Jannah, entourés de soins généreux, et ils attendent leurs parents avec amour, et non avec tristesse ; bien plus, ils deviennent pour leurs parents une cause d'entrée dans la Jannah.
 
-عَنْ أَبِي هُرَيْرَةَ رَضِيَ اللهُ عَنْهُ، عَنِ النَّبِيِّ ﷺ قَالَ: «صِغَارُهُمْ دَعَامِيصُ الْجَنَّةِ، يَتَلَقَّى أَحَدُهُمْ أَبَاهُ - أَوْ قَالَ: أَبَوَيْهِ - فَيَأْخُذُ بِثَوْبِهِ - أَوْ قَالَ: بِيَدِهِ - كَمَا آخُذُ أَنَا بِصَنِفَةِ ثَوْبِكَ هَذَا، فَلَا يَتَنَاهَى - أَوْ قَالَ: فَلَا يَنْتَهِي - حَتَّى يُدْخِلَهُ اللهُ وَإِيَّاهُ الْجَنَّةَ» رَوَاهُ مُسْلِمٌ وَأَحْمَدُ، وَصَحَّحَهُ الْأَلْبَانِيُّ فِي سِلْسِلَةِ الْأَحَادِيثِ الصَّحِيحَةِ (١/١٧٤، رَقْمُ ٤٣٢).[^1]
+Quant au statut des enfants de non-croyants qui meurent avant l'âge de la responsabilité, un texte prophétique explicite le mentionne dans le long hadith du songe que cite cette leçon (voir le dernier passage de l'unité des preuves) ; les savants en ont débattu avec courtoisie et dans le respect mutuel, et toute la question se ramène, en dernier ressort, à la justice d'Allah et à Sa miséricorde, qui embrasse toute chose.
 
-**evidence:translation:** Abu Hurayrah (qu'Allah soit satisfait de lui) a rapporté que le Prophète ﷺ a dit : « Leurs petits sont les "da'amees" (petites créatures se mouvant librement) du Paradis. L'un d'eux rencontre son père — ou il a dit ses parents — et saisit son vêtement, ou il a dit sa main, tout comme je saisis le bord de ton vêtement maintenant, et il ne le lâchera pas jusqu'à ce qu'Allah le fasse entrer, lui et son parent, ensemble au Paradis. » Rapporté par Muslim et Ahmad ; authentifié (sahih) par al-Albani dans *Silsilat al-Ahadith as-Sahihah* (1/174, n° 432).[^1]
+<!-- unit:end -->
+
+<!-- unit:start id="adults.evidence" kind="evidence" -->
+
+## Les Preuves Centrales
+
+<!-- evidence:start id="quran-52-21" kind="quran" mode="canonical" -->
+
+### Ceux Qui Ont Cru Et Que Leur Descendance A Suivis Dans La Foi, Nous Leur Réunirons Leur Descendance
+
+> **وَالَّذِينَ آمَنُوا وَاتَّبَعَتْهُمْ ذُرِّيَّتُهُمْ بِإِيمَانٍ أَلْحَقْنَا بِهِمْ ذُرِّيَّتَهُمْ وَمَا أَلَتْنَاهُمْ مِنْ عَمَلِهِمْ مِنْ شَيْءٍ ۚ كُلُّ امْرِئٍ بِمَا كَسَبَ رَهِينٌ.** [الطُّورِ: ٢١][^1]
+
+<!-- evidence:translation -->
+
+#### Traduction Française
+
+> **« Ceux qui ont cru et que leur descendance a suivis dans la foi, Nous leur réunirons leur descendance, sans rien retrancher de leurs œuvres. Chaque homme est tenu en gage de ce qu'il a acquis. »** (at-Tur 52:21)[^1]
+
+#### Interprétation Savante
+
+Les exégètes expliquent que ce verset annonce aux croyants une bonne nouvelle : Allah réunira à eux leur descendance dans la Jannah, pour honorer la foi des parents, sans rien retrancher de la récompense de leurs propres œuvres. Plus d'un savant s'est appuyé sur ce verset, ainsi que sur d'autres, comme la parole d'Allah, exalté soit-Il : « Et Nous ne châtions jamais avant d'avoir envoyé un messager » (al-Isra' 17:15), pour établir que la jeune descendance n'est pas tenue en gage d'œuvres qu'elle n'a pas encore acquises.
+
+#### Explication De La Leçon
+
+Ce verset est la racine coranique de tous les hadiths qui suivent dans cette leçon : Allah ne laisse pas se perdre le lien qui unit le croyant à sa descendance ; Il les réunit au contraire dans la Jannah, par Sa miséricorde — et non en demandant des comptes à un enfant qui n'a encore jamais été responsable.
 
 <!-- evidence:end -->
 
-**Explication et lien avec la leçon :** L'expression « da'amees al-jannah » signifie qu'ils se meuvent librement et joyeusement au Paradis, comme une petite créature aquatique se déplaçant dans l'eau sans crainte. Ce hadith montre qu'un enfant qui meurt jeune n'oublie pas ses parents, mais les attend plutôt à la porte du Paradis et s'accroche à eux jusqu'à ce qu'Allah les fasse entrer ensemble, une scène d'amour et de fidélité qui transforme le chagrin du croyant en espoir.
+<!-- evidence:start id="hadith.rafa_al-qalam" kind="hadith" mode="canonical" -->
 
-<!-- story:start audience="adults" role="primary" type="hadith" source_id="bukhari.tabir.samurah_ruya" authenticated="true" -->
+### Le Calame Est Levé Pour Trois Personnes
 
-Cette miséricorde est encore confirmée par le long hadith bien connu du rêve (ru'ya) de Samurah ibn Jundab (qu'Allah soit satisfait de lui), que le Prophète ﷺ avait l'habitude de raconter à ses compagnons. Dans celui-ci, il ﷺ vit en songe qu'il était emmené vers une prairie verte avec un grand arbre, et à sa base un homme très grand dont la tête pouvait à peine être vue tant il était grand, et autour de lui plus d'enfants qu'il n'en avait jamais vu. Interrogé à leur sujet, on lui répondit :
+> عَنْ عَائِشَةَ رضي الله عنها، عَنِ النَّبِيِّ ﷺ قَالَ: **«رُفِعَ الْقَلَمُ عَنْ ثَلَاثَةٍ: عَنِ الصَّبِيِّ حَتَّى يَبْلُغَ، وَعَنِ النَّائِمِ حَتَّى يَسْتَيْقِظَ، وَعَنِ الْمَجْنُونِ حَتَّى يَعْقِلَ»**.[^2]
 
-عَنْ سَمُرَةَ بْنِ جُنْدَبٍ رَضِيَ اللهُ عَنْهُ فِي حَدِيثِ الرُّؤْيَا الطَّوِيلِ: «الرَّجُلُ الطَّوِيلُ فِي الرَّوْضَةِ إِبْرَاهِيمُ عَلَيْهِ السَّلَامُ، وَالْوِلْدَانُ حَوْلَهُ أَوْلَادُ النَّاسِ». رَوَاهُ الْإِمَامُ الْبُخَارِيُّ فِي كِتَابِ التَّعْبِيرِ ضِمْنَ حَدِيثِ الرُّؤْيَا الطَّوِيلِ.[^2]
+<!-- evidence:translation -->
 
-**evidence:translation:** « L'homme grand dans la prairie est Ibrahim (Abraham), paix sur lui, et les enfants autour de lui sont les enfants des gens. » Rapporté par l'Imam al-Bukhari, Livre de l'Interprétation des Rêves, au sein du long hadith du songe.[^2]
+#### Traduction Française
 
-<!-- retelling:start source_id="bukhari.tabir.samurah_ruya" audience="adults" -->
+> D'après 'A'ishah, qu'Allah soit satisfait d'elle, le Prophète, paix et bénédictions sur lui, a dit : **« Le Calame est levé pour trois personnes : pour l'enfant jusqu'à ce qu'il atteigne la puberté, pour le dormeur jusqu'à ce qu'il se réveille, et pour celui qui a perdu la raison jusqu'à ce qu'il la recouvre. »**[^2]
 
-Ainsi, Ibrahim (paix sur lui) — père des prophètes et intime (Khalil) du Tout Miséricordieux — fut désigné comme tuteur tendre pour ces petits dans cette prairie verte, prenant soin d'eux comme un grand-père aimant prend soin de ses petits-enfants. Ce sens est explicité dans un autre hadith rapporté d'Abu Hurayrah (qu'Allah soit satisfait de lui), attribué au Prophète ﷺ :
+#### Interprétation Savante
 
-عَنْ أَبِي هُرَيْرَةَ رَضِيَ اللهُ عَنْهُ مَرْفُوعًا: «ذَرَارِيُّ الْمُسْلِمِينَ فِي الْجَنَّةِ يَكْفُلُهُمْ إِبْرَاهِيمُ عَلَيْهِ السَّلَامُ» رَوَاهُ أَحْمَدُ وَابْنُ حِبَّانَ وَالْحَاكِمُ، وَقَالَ الْحَاكِمُ: صَحِيحٌ، وَوَافَقَهُ الذَّهَبِيُّ، وَحَسَّنَهُ الْأَلْبَانِيُّ فِي سِلْسِلَةِ الْأَحَادِيثِ الصَّحِيحَةِ (٢/١٥٦، رَقْمُ ٦٠٣).[^3]
+Les commentateurs du hadith expliquent que « le Calame est levé » signifie que les anges chargés d'inscrire les actes n'inscrivent à la charge de ces trois personnes ni péché ni désobéissance, parce que leur aptitude à la responsabilité n'est pas complète : l'enfant n'a pas encore atteint la pleine maturité de sa raison et de sa responsabilité, le dormeur n'a pas conscience de lui-même, et celui qui a perdu la raison est privé de discernement.
 
-**evidence:translation:** « La descendance des musulmans est au Paradis, prise en charge par Ibrahim, paix sur lui. » Rapporté par Ahmad, Ibn Hibban et al-Hakim (qui l'a jugé sahih, avec l'accord d'adh-Dhahabi), d'après Abu Hurayrah ; jugé hasan (bon) par al-Albani dans *Silsilat al-Ahadith as-Sahihah* (2/156, n° 603).[^3]
+#### Explication De La Leçon
+
+Ce hadith est le fondement légal du titre même de cette leçon : pas une seule mauvaise action n'est inscrite à l'enfant qui n'a pas atteint la puberté. Si Allah le rappelle à Lui avant cet âge, l'enfant ne rencontre pas son Seigneur chargé d'un péché dont il devrait rendre compte : il Le rencontre pur, tel qu'au jour de sa naissance.
+
+<!-- evidence:end -->
+
+<!-- evidence:start id="bukhari.muslim.three_children" kind="hadith" mode="canonical" -->
+
+### Il N'est Pas Un Musulman Qui Perde Trois Enfants N'ayant Pas Atteint L'âge De La Responsabilité
+
+> عَنْ أَنَسِ بْنِ مَالِكٍ رضي الله عنه، عَنِ النَّبِيِّ ﷺ قَالَ: **«مَا مِنَ الْمُسْلِمِينَ مَنْ يُتَوَفَّى لَهُ ثَلَاثَةٌ مِنَ الْوَلَدِ لَمْ يَبْلُغُوا الْحِنْثَ، إِلَّا أَدْخَلَهُ اللَّهُ الْجَنَّةَ بِفَضْلِ رَحْمَتِهِ إِيَّاهُمْ»**. مُتَّفَقٌ عَلَيْهِ.[^3]
+
+<!-- evidence:translation -->
+
+#### Traduction Française
+
+> D'après Anas ibn Malik, qu'Allah soit satisfait de lui, le Prophète, paix et bénédictions sur lui, a dit : **« Il n'est pas un musulman qui perde trois enfants n'ayant pas atteint al-hinth (l'âge de la responsabilité) sans qu'Allah ne le fasse entrer dans la Jannah, par la grâce de Sa miséricorde envers eux. »** Hadith rapporté par al-Bukhari et Muslim.[^3]
+
+#### Interprétation Savante
+
+Les savants expliquent que « n'ayant pas atteint al-hinth » signifie : n'ayant pas atteint l'âge de la responsabilité, à partir duquel les péchés commencent à être inscrits à la charge de l'être humain ; et que l'entrée du parent dans la Jannah est ici une pure faveur d'Allah, et non un dû acquis par les œuvres de l'enfant, puisque l'enfant n'a encore aucune œuvre.
+
+#### Explication De La Leçon
+
+Ce hadith retourne le regard que l'on porte sur le deuil et le fait passer de la tristesse à l'espérance : l'enfant que perdent ses parents n'est pas une pure perte ; il devient une cause qui les élève jusqu'à la Jannah, s'ils endurent avec patience et en espèrent la récompense, de sorte qu'ils réunissent la récompense de la patience et l'intercession de leur enfant.
+
+<!-- evidence:end -->
+
+<!-- evidence:start id="muslim.ahmad.daaamees_al_jannah" kind="hadith" mode="canonical" -->
+
+### Leurs Petits Sont Les *Da'amis* De La Jannah
+
+> عَنْ أَبِي هُرَيْرَةَ رضي الله عنه، عَنِ النَّبِيِّ ﷺ قَالَ: **«صِغَارُهُمْ دَعَامِيصُ الْجَنَّةِ، يَتَلَقَّى أَحَدُهُمْ أَبَاهُ - أَوْ قَالَ: أَبَوَيْهِ - فَيَأْخُذُ بِثَوْبِهِ - أَوْ قَالَ: بِيَدِهِ - كَمَا آخُذُ أَنَا بِصَنِفَةِ ثَوْبِكَ هَذَا، فَلَا يَتَنَاهَى - أَوْ قَالَ: فَلَا يَنْتَهِي - حَتَّى يُدْخِلَهُ اللَّهُ وَإِيَّاهُ الْجَنَّةَ»**.[^4]
+
+<!-- evidence:translation -->
+
+#### Traduction Française
+
+> D'après Abu Hurayrah, qu'Allah soit satisfait de lui, le Prophète, paix et bénédictions sur lui, a dit : **« Leurs petits sont les *da'amis* de la Jannah. L'un d'eux vient à la rencontre de son père — ou il a dit : de ses parents —, le saisit par son vêtement — ou il a dit : par la main —, comme je saisis, moi, le bord de ton vêtement que voici, et il ne le lâche pas — ou il a dit : il ne s'arrête pas — avant qu'Allah ne les fasse entrer, lui et son père, dans la Jannah. »**[^4]
+
+#### Interprétation Savante
+
+Les lexicographes expliquent que *da'amis* est le pluriel de *du'mus*, une petite créature qui évolue dans l'eau en toute liberté, comme chez elle : le Prophète, paix et bénédictions sur lui, lui a comparé les petits de la Jannah, qui y vont et viennent sans cesse, comblés, sans peine ni crainte. Quant à *as-sanifah*, c'est le bord du vêtement, son ourlet.
+
+#### Explication De La Leçon
+
+Ce hadith peint la plus belle des scènes pour un enfant parti vers la miséricorde d'Allah : il n'a oublié ni son père ni sa mère ; il se tient là, à les attendre avec joie, et dès qu'il les aperçoit, il saisit leur vêtement et ne le lâche plus, jusqu'à ce qu'ils entrent avec lui dans la Jannah. Perdre un enfant n'est donc ni un oubli ni une rupture : c'est un amour qui attend des retrouvailles à venir, si Allah le veut.
+
+<!-- evidence:end -->
+
+<!-- evidence:start id="bukhari.tabir.samurah_ruya" kind="hadith" mode="canonical" -->
+
+### Le Hadith Du Songe De Samurah Ibn Jundab, Qu'Allah Soit Satisfait De Lui : Ibrahim, Paix Sur Lui, Et Les Enfants Des Gens
+
+> كَانَ رَسُولُ اللَّهِ ﷺ يَقُصُّ عَلَى أَصْحَابِهِ فِي كَثِيرٍ مِنَ الصَّبَاحَاتِ مَا رَآهُ فِي مَنَامِهِ، وَقَدْ رَوَى عَنْهُ سَمُرَةُ بْنُ جُنْدَبٍ رضي الله عنه رُؤْيَا طَوِيلَةً ذَاتَ مَشَاهِدَ كَثِيرَةٍ، فِيهَا آتِيَانِ أَخَذَا بِيَدِهِ ﷺ يُطْلِعَانِهِ عَلَى أَحْوَالِ النَّاسِ فِي الْبَرْزَخِ [وَقَدِ اقْتُصِرَ هُنَا عَلَى مَوْضِعِ الشَّاهِدِ مِنْهَا، وَحُذِفَتْ بَقِيَّةُ مَشَاهِدِهَا الطَّوِيلَةِ لِخُرُوجِهَا عَنْ مَوْضُوعِ هَذَا الدَّرْسِ]: قَالَ ﷺ: **«فَانْطَلَقْنَا حَتَّى أَتَيْنَا عَلَى رَوْضَةٍ مُعْتَمَّةٍ، فِيهَا مِنْ كُلِّ لَوْنِ الرَّبِيعِ، وَإِذَا فِي وَسَطِ الرَّوْضَةِ رَجُلٌ طَوِيلٌ لَا أَكَادُ أَرَى رَأْسَهُ طُولًا فِي السَّمَاءِ، وَإِذَا حَوْلَهُ مِنْ أَكْثَرِ وِلْدَانٍ رَأَيْتُهُمْ قَطُّ. قُلْتُ لَهُمَا: مَا هَذَا؟ وَمَنْ هَؤُلَاءِ؟»** حَتَّى انْتَهَيَا بِهِ إِلَى مَوْضِعِ الْبَيَانِ، فَقَالَا لَهُ: **«أَمَّا الرَّجُلُ الطَّوِيلُ الَّذِي فِي الرَّوْضَةِ فَإِبْرَاهِيمُ عَلَيْهِ السَّلَامُ، وَأَمَّا الْوِلْدَانُ الَّذِينَ حَوْلَهُ فَكُلُّ مَوْلُودٍ مَاتَ عَلَى الْفِطْرَةِ»**. فَقَالَ بَعْضُ الْمُسْلِمِينَ: يَا رَسُولَ اللَّهِ، وَأَوْلَادُ الْمُشْرِكِينَ؟ فَقَالَ رَسُولُ اللَّهِ ﷺ: **«وَأَوْلَادُ الْمُشْرِكِينَ»**.[^5]
+
+<!-- evidence:translation -->
+
+#### Traduction Française
+
+> Le Messager d'Allah, paix et bénédictions sur lui, racontait bien des matins à ses Compagnons ce qu'il avait vu en songe. Samurah ibn Jundab, qu'Allah soit satisfait de lui, a rapporté de lui un long songe aux nombreuses scènes, dans lequel deux visiteurs le prirent par la main pour lui faire voir l'état des gens dans le barzakh [seul le passage pertinent est cité ici ; les autres scènes, fort longues, ont été omises parce qu'elles sortent du sujet de cette leçon]. Il dit, paix et bénédictions sur lui : **« Nous partîmes, jusqu'à arriver à un jardin luxuriant, couvert d'une végétation haute et dense, où s'épanouissaient toutes les couleurs du printemps. Au milieu du jardin se tenait un homme si grand que je distinguais à peine sa tête, tant elle s'élevait dans le ciel, et autour de lui se trouvaient des enfants, plus nombreux que tous ceux que j'avais jamais vus. Je leur demandai : “Qu'est-ce que cela ? Et qui sont ceux-là ?” »** Puis, lorsque les deux visiteurs en vinrent à lui expliquer ce qu'il avait vu, ils lui dirent : **« Quant à l'homme de grande taille qui se trouve dans le jardin, c'est Ibrahim, paix sur lui ; et quant aux enfants qui l'entourent, ce sont tous les enfants morts dans la fitrah. »** Quelques musulmans demandèrent alors : « Ô Messager d'Allah, et les enfants des polythéistes ? » Le Messager d'Allah, paix et bénédictions sur lui, répondit : **« Et les enfants des polythéistes. »**[^5]
+
+#### Interprétation Savante
+
+Le Dr 'Umar Sulayman al-Ashqar cite ce passage du long hadith du songe dans son ouvrage *al-Jannah wa an-Nar* (Le Paradis et le Feu), pour établir le sort des petits enfants des croyants monothéistes. Il relève que la parole du Prophète, paix et bénédictions sur lui, « Et les enfants des polythéistes » est un texte explicite qui touche à une question bien connue, sur laquelle les savants divergent depuis les premiers siècles : certains ont pris cet ajout à la lettre et ont dit que les enfants des polythéistes sont eux aussi des gens de la Jannah, en vertu de la portée générale de l'expression « morts dans la fitrah » et du hadith « Tout enfant naît dans la fitrah » ; d'autres ont suspendu leur jugement à leur sujet et ont remis la question à la science et à la volonté d'Allah. C'est là une divergence légitime entre savants éminents, qui se ramène tout entière à ceci : Allah ne lèse personne, fût-ce du poids d'un atome, et Il est bien trop savant et trop miséricordieux pour demander des comptes à quelqu'un contre qui la preuve n'a pas été établie.
+
+#### Explication De La Leçon
+
+Ce hadith est le cœur de cette leçon : l'enfant qui meurt petit ne part ni vers l'inconnu ni vers la solitude. Il part vers un jardin verdoyant et magnifique de la Jannah, où le père des prophètes, Ibrahim, paix sur lui, veille sur lui avec tendresse, comme un grand-père plein de bonté veille sur ses petits-enfants. Cette seule scène suffit à changer le chagrin de la perte en sérénité et en espérance.
+
+<!-- evidence:end -->
+
+<!-- unit:end -->
+
+<!-- unit:start id="adults.questions" kind="questions" -->
+
+## Questions Pour Comprendre Et Méditer
+
+1. Que signifie « le Calame est levé » pour l'enfant, et quel lien cela a-t-il avec le sort de l'enfant qui meurt avant la puberté ?
+2. Comment le hadith « Il n'est pas un musulman qui perde trois enfants… » fait-il passer le regard des parents d'une pure tristesse à l'espérance ?
+3. Que révèle le hadith des « *da'amis* de la Jannah » du lien qui unit l'enfant à ses parents après son départ vers la miséricorde d'Allah ?
+4. Pourquoi Allah a-t-Il choisi précisément Ibrahim, paix sur lui, pour veiller sur les enfants des gens dans ce jardin, au regard de ce que vous savez de sa vie et de sa tendresse ?
+5. Comment répondriez-vous, avec délicatesse et miséricorde, à une famille qui a perdu un tout-petit et qui vous interroge sur son sort auprès d'Allah ?
+
+<!-- unit:end -->
+
+<!-- unit:start id="adults.activity" kind="activity" -->
+
+### Activité : Le Jardin De L'espérance
+
+<!-- activity:start audience="adults" concept_id="lesson.020.activity.garden_lanterns" -->
+
+Écrivez un court paragraphe décrivant ce que vous ressentez après avoir lu les hadiths des « *da'amis* de la Jannah » et du « songe de Samurah ibn Jundab ». Inscrivez ensuite sur une petite carte le prénom d'un enfant de votre connaissance parti vers la miséricorde d'Allah (dans votre famille ou votre entourage) ou, si vous n'en connaissez aucun, le prénom d'un enfant quelconque, et écrivez en dessous une seule invocation de miséricorde pour lui et pour les siens. Pliez la carte et gardez-la dans un endroit calme qui n'appartient qu'à vous, que vous appellerez « le jardin de l'espérance » ; et rappelez-vous que cette seule invocation est déjà une aumône continue (*sadaqah jariyah*) et une miséricorde qui parvient jusqu'à lui.
+
+<!-- activity:end -->
+
+<!-- unit:end -->
+
+<!-- reader:end -->
+
+## Pour Les Enfants De 4 À 7 Ans
+
+<!-- reader:start audience="4-7" estimated_minutes="4.5" -->
+
+<!-- unit:start id="4-7.explanation" kind="explanation" -->
+
+Mon trésor, Allah aime les enfants d'un amour immense. Parfois, Allah prend auprès de Lui un enfant encore tout petit, avant qu'il ait eu le temps de grandir. Ce n'est pas quelque chose qui doit te faire peur : Allah aime très fort cet enfant, et Il l'emmène dans un endroit merveilleux qui s'appelle la Jannah, où il y a un jardin tout vert, plein de lumière et de joie.
+
+<!-- unit:end -->
+
+<!-- unit:start id="4-7.primary-story" kind="primary_story" -->
+
+### Un Hadith Authentique : Le Jardin D'Ibrahim, Paix Sur Lui
+
+<!-- story:start audience="4-7" role="primary" type="hadith" source_id="bukhari.tabir.samurah_ruya" authenticated="true" -->
+
+**Ceci est un récit véridique que nous a confié notre Prophète Muhammad, paix et bénédictions sur lui, et non une histoire inventée.**
+
+Notre Prophète, paix et bénédictions sur lui, a raconté qu'il avait vu en rêve un magnifique jardin tout vert, avec un arbre immense. Près de cet arbre se tenait un homme très grand, au cœur très bon, et tout autour de lui, beaucoup d'enfants jouaient joyeusement. Le Prophète, paix et bénédictions sur lui, demanda : « Qui est cet homme si bon ? » On lui répondit : « C'est le prophète d'Allah Ibrahim, paix sur lui. Et les enfants autour de lui sont des petits qu'Allah a aimés et qu'Il a pris auprès de Lui quand ils étaient encore tout petits. »[^5]
+
+Ibrahim, paix sur lui, prend soin de ces enfants dans ce beau jardin, avec douceur et avec amour, comme un grand-père plein de tendresse prend soin de ses petits-enfants. Là-bas, pas de peur, pas de tristesse : seulement de la lumière, et une joie qui ne s'arrête jamais.
+
+<!-- retelling:start source_id="bukhari.tabir.samurah_ruya" audience="4-7" -->
+
+Tout cela veut dire, tout simplement : chaque petit enfant qui part tôt auprès d'Allah s'en va dans un beau jardin de la Jannah, où un prophète très bon, qui s'appelle Ibrahim, paix sur lui, prend soin de lui avec tout son amour.[^5]
 
 <!-- retelling:end -->
 
 <!-- story:end -->
 
-**Note sur les sources :** Le hadith du rêve de Samurah est très long et bien connu dans le Livre de l'Interprétation des Rêves du Sahih al-Bukhari. Nous avons pris soin de restituer fidèlement la partie pertinente, en nous appuyant sur la citation du Dr Umar Sulayman al-Ashqar dans son ouvrage *al-Jannah wa an-Nar* (Le Paradis et le Feu) ; cependant, lors de cette session de rédaction, nous n'avons pas pu confirmer de manière indépendante le numéro exact du hadith sur sunnah.com en raison d'une limitation d'accès au réseau, les relecteurs devraient donc confirmer la référence précise avant la publication finale.
-
-**Concernant les enfants des non-croyants :** Les savants ont divergé sur leur statut d'une manière bien connue, et il convient de présenter cela aux adultes avec honnêteté et courtoisie savante, sans affirmer une position unique et définitive, car la question relève de l'invisible (ghayb) qu'Allah seul connaît pleinement. L'Imam an-Nawawi (qu'Allah lui fasse miséricorde) a dit que l'avis correct et retenu est qu'ils sont parmi les gens du Paradis, citant les paroles d'Allah : « Et Nous ne châtiions pas avant d'avoir envoyé un messager » (al-Isra 17:15). D'autres — comme Hammad ibn Zayd, Hammad ibn Salamah, Ibn al-Mubarak et Ishaq ibn Rahwayh, et cela fut attribué par Abu al-Hasan al-Ash'ari à Ahl as-Sunnah — ont soutenu que leur sort revient à la volonté d'Allah, sans jugement définitif dans un sens ou dans l'autre, et Allah sait le mieux ce qu'ils auraient fait s'ils avaient vécu. Cheikh al-Islam Ibn Taymiyyah (qu'Allah lui fasse miséricorde) a choisi une position combinant ces sens : ils seront mis à l'épreuve le Jour du Jugement dans ses vastes plaines par un ordre qu'ils obéiront ou désobéiront, citant un récit au sujet d'un feu allumé qu'on leur ordonne d'y entrer — celui qui obéit le trouve frais et sûr et entre au Paradis, celui qui désobéit est châtié. Ce récit fut rapporté par al-Bazzar d'après Anas et Abu Sa'id, et par at-Tabarani d'après Mu'adh ibn Jabal. Le Dr Umar Sulayman al-Ashqar, dans *al-Jannah wa an-Nar*, a discuté de sa gradation et de l'objection soulevée contre elle (que l'Au-delà est une demeure de rétribution, non une demeure d'épreuve), et a conclu qu'il existe des parallèles acceptés à cela dans la présentation des œuvres, l'interrogatoire de la tombe et d'autres états du barzakh et de l'Au-delà qui ne sont pas de même nature que la responsabilité terrestre.[^4] En somme, il s'agit d'une question purement savante et légitime de divergence pour laquelle personne ne devrait être blâmé de part et d'autre, et le point de référence final est la justice et la miséricorde d'Allah, qui embrassent toute chose — Allah ne lèse personne, fût-ce du poids d'un atome.
-
-**Note pour les éducateurs :** Cette section de la leçon est réservée aux adultes, et ne doit jamais être simplifiée ni transmise à des enfants, quel que soit leur âge. Si quelqu'un a perdu un enfant parmi ses proches, qu'il sache que cette discussion savante ne le concerne pas si l'enfant était celui de croyants — cette question bénéficie d'un consensus savant quant à la miséricorde d'Allah. Et même dans les cas où les savants ont divergé, cette discussion savante ne doit jamais être soulevée auprès d'une famille endeuillée ni utilisée pour porter un jugement sur un cas précis ; Ibn Taymiyyah lui-même a déclaré qu' « on ne peut témoigner individuellement pour aucun enfant nommé parmi les enfants des croyants qu'il est au Paradis, bien que le jugement général pour la catégorie tienne. »[^4] À plus forte raison donc pour une question de divergence savante authentique ! Que notre parole envers les endeuillés soit toujours empreinte de miséricorde et de bonne pensée envers Allah, jamais d'argumentation savante.
-
 <!-- unit:end -->
 
-<!-- unit:start id="jannah.020.adults.questions" kind="questions" -->
+<!-- unit:start id="4-7.authenticated-story" kind="authenticated_story" -->
 
-**Questions de réflexion :**
-1. Que nous enseigne le hadith des « da'amees al-jannah » sur le lien d'un enfant avec ses parents même après son décès ?
-2. Pourquoi pensez-vous qu'Allah a choisi Ibrahim, paix sur lui, spécifiquement pour être le tuteur de ces petits, au vu de ce que vous connaissez de son histoire ?
-3. Comment concilier le respect de la divergence savante sur une question de l'invisible avec la certitude en la miséricorde et la justice d'Allah ?
+### Un Hadith Authentique : L'enfant Qui Attend Sa Famille
 
-<!-- unit:end -->
+<!-- story:start audience="4-7" role="authenticated" type="hadith" source_id="muslim.ahmad.daaamees_al_jannah" authenticated="true" -->
 
-<!-- activity:start audience="adults" concept_id="lesson.020.activity.garden_lanterns" -->
+<!-- retelling:start source_id="muslim.ahmad.daaamees_al_jannah" audience="4-7" -->
 
-**Activité :** Demandez à chaque participant d'écrire sur un papier le nom d'un enfant qu'il connaît (un proche, ou quelqu'un dont il a lu l'histoire) décédé jeune, puis d'écrire en dessous une seule invocation de miséricorde pour sa famille, sans discuter du jugement de son cas. Pliez les papiers et placez-les dans un récipient symbolique appelé « le Jardin de l'Espoir », pour ancrer le sens de miséricorde plutôt que de tristesse.
+Notre Prophète, paix et bénédictions sur lui, nous a aussi appris que le petit enfant — garçon ou fille — qui s'en va dans ce beau jardin n'oublie jamais son papa et sa maman : il les aime toujours, et il les attend avec une immense joie. Quand il les voit arriver, il attrape tendrement le vêtement de l'un d'eux et ne le lâche plus, jusqu'à ce qu'ils entrent tous ensemble dans la Jannah ![^4] N'est-ce pas une belle nouvelle, qui remplit le cœur de joie ?
 
-<!-- activity:end -->
-
-<!-- bedtime-dua:start audience="adults" id="lesson.020.dua.gentle_mercy" provenance="lesson_authored" source_id="jannah.020" attribution="not_prophetic" -->
-
-Ô Allah, le Plus Miséricordieux des miséricordieux, aie pitié de tout enfant passé auprès de Toi, réunis-le avec les vertueux, répare les cœurs de ceux qui l'ont aimé, et fais de lui pour eux une récompense anticipée, un trésor et un intercesseur au Jour du Jugement, par Ta miséricorde, Ô Plus Miséricordieux des miséricordieux.
-
-<!-- bedtime-dua:end -->
-
-<!-- reader:end -->
-
-<!-- reader:start audience="4-7" estimated_minutes="6" -->
-
-### Pour les Petits (4-7 ans)
-
-<!-- unit:start id="jannah.020.47.explanation" kind="explanation" -->
-
-Sais-tu, mon chéri, qu'Allah aime énormément les enfants ? Lorsqu'un petit enfant part rejoindre son Seigneur, Allah l'emmène dans un beau jardin du Paradis, verdoyant et ombragé, et y place un homme bon et tendre nommé Ibrahim, paix sur lui, qui prend soin des enfants là-bas comme un grand-père aimant prend soin de ses petits-enfants, avec tout l'amour et la tendresse, et ils n'y ressentent jamais ni peur ni tristesse.
-
-<!-- story:start audience="4-7" role="primary" type="hadith" source_id="bukhari.tabir.samurah_ruya" authenticated="true" -->
-
-Le Prophète ﷺ a dit qu'il avait vu en songe un beau jardin vert, avec un homme grand et bon, et autour de lui de nombreux enfants qui jouaient joyeusement. Il demanda : « Qui sont-ils ? » et on lui répondit : « Voici Ibrahim, paix sur lui, et voici de petits enfants dont il prend soin dans ce beau jardin. »[^2]
+<!-- retelling:end -->
 
 <!-- story:end -->
 
-Ces petits enfants au Paradis aiment beaucoup leurs mamans et papas, et ils les attendent à la porte du Paradis avec joie, pour prendre leurs mains et entrer ensemble au Paradis, si Allah le veut.
+<!-- unit:end -->
+
+<!-- unit:start id="4-7.questions" kind="questions" -->
+
+### Questions Courtes
+
+1. Qui est le prophète très bon qui prend soin des enfants dans le beau jardin ?
+2. Que fait le petit enfant quand il voit son papa ou sa maman arriver ?
+3. La Jannah, est-ce un bel endroit plein de lumière, ou un endroit qui fait peur ?
 
 <!-- unit:end -->
 
-<!-- unit:start id="jannah.020.47.questions" kind="questions" -->
+<!-- unit:start id="4-7.activity" kind="activity" -->
 
-**Questions simples :**
-1. Qui est l'homme bon qui prend soin des enfants dans le jardin ?
-2. Comment se sentent les petits enfants dans ce beau jardin ?
-
-<!-- unit:end -->
+### Activité : La Lanterne Du Jardin
 
 <!-- activity:start audience="4-7" concept_id="lesson.020.activity.garden_lanterns" -->
 
-**Activité :** Demande à l'enfant de dessiner un beau jardin vert avec des papillons et des fleurs lumineuses, et dis-lui : « C'est comme le jardin où Ibrahim, paix sur lui, prend soin des enfants avec amour. »
+Avec ton papa ou ta maman, dessinez un beau jardin tout vert, plein d'arbres et de fleurs. Puis dessine au milieu une petite lanterne allumée, posée parmi les fleurs. Ensuite, dis avec ton papa ou ta maman : « Cette lanterne, c'est comme la lumière de l'amour qui éclaire le beau jardin de la Jannah, où le prophète d'Allah Ibrahim, paix sur lui, prend soin des enfants. »
 
 <!-- activity:end -->
+
+<!-- unit:end -->
+
+<!-- unit:start id="4-7.bedtime-dua" kind="bedtime_dua" -->
+
+### Du'a Avant De Dormir
 
 <!-- bedtime-dua:start audience="4-7" id="lesson.020.dua.gentle_mercy" provenance="lesson_authored" source_id="jannah.020" attribution="not_prophetic" -->
 
-Ô Allah, aie pitié de chaque petit enfant auprès de Toi, protège-moi ainsi que ma famille, et fais de nous ceux qui entrent dans Ton Paradis avec joie.
+**Du'a thématique composée pour cette leçon ; non attribuée au Prophète, paix et bénédictions sur lui.**
+
+> اللَّهُمَّ ارْحَمْ ضُعَفَاءَ أُمَّتِنَا وَأَطْفَالَنَا، وَاجْمَعْ بَيْنَنَا وَبَيْنَ مَنْ سَبَقَنَا مِنْهُمْ فِي جَنَّتِكَ بِرَحْمَتِكَ يَا أَرْحَمَ الرَّاحِمِينَ.
+>
+> *« Ô Allah, fais miséricorde aux plus faibles de notre communauté et à nos enfants, et réunis-nous dans Ta Jannah avec ceux d'entre eux qui nous ont devancés, par Ta miséricorde, ô le plus Miséricordieux des miséricordieux. »*
 
 <!-- bedtime-dua:end -->
 
-<!-- reader:end -->
-
-<!-- reader:start audience="8-12" estimated_minutes="9" -->
-
-### Pour les Enfants (8-12 ans)
-
-<!-- unit:start id="jannah.020.812.explanation" kind="explanation" -->
-
-Il fait partie de la miséricorde d'Allah qu'un enfant qu'Allah rappelle jeune, avant de grandir et de devenir responsable des ordres et des interdits, ne soit pas jugé comme le sont les adultes ; Allah le fait plutôt entrer au Paradis par Sa faveur et Sa miséricorde. Le Prophète ﷺ nous a dit qu'il avait vu en songe un jardin du Paradis où Ibrahim, paix sur lui — père des prophètes — prend soin de petits enfants, étant pour eux comme un grand-père aimant qui ne manque jamais de les soigner, ne serait-ce qu'un instant.
-
-<!-- evidence:start id="jannah.020.ev.anas_three" kind="hadith" mode="canonical" -->
-
-عَنْ أَنَسِ بْنِ مَالِكٍ رَضِيَ اللهُ عَنْهُ، عَنِ النَّبِيِّ ﷺ قَالَ: «مَا مِنَ النَّاسِ مُسْلِمٌ يُتَوَفَّى لَهُ ثَلَاثَةٌ لَمْ يَبْلُغُوا الْحِنْثَ، إِلَّا أَدْخَلَهُ اللهُ الْجَنَّةَ بِفَضْلِ رَحْمَتِهِ إِيَّاهُمْ». رَوَاهُ الْبُخَارِيُّ.[^5]
-
-**evidence:translation:** Anas ibn Malik (qu'Allah soit satisfait de lui) a rapporté que le Prophète ﷺ a dit : « Il n'y a pas de musulman à qui meurent trois enfants avant qu'ils n'atteignent l'âge de responsabilité, sans qu'Allah ne le fasse entrer au Paradis par la grâce de Sa miséricorde envers eux. » Rapporté par al-Bukhari.[^5]
-
-<!-- evidence:end -->
-
-**Explication et lien avec la leçon :** « Avant d'atteindre l'âge de responsabilité » signifie avant d'atteindre l'âge où les péchés commencent à être inscrits pour une personne. Ces enfants deviennent un moyen pour leurs parents d'entrer au Paradis s'ils sont patients et recherchent la récompense d'Allah, et eux-mêmes sont au Paradis par la miséricorde d'Allah, attendant leurs proches.
-
-Il est aussi rapporté d'Abu Hurayrah (qu'Allah soit satisfait de lui) que le Prophète ﷺ a dit : « Leurs petits sont les da'amees du Paradis. L'un d'eux rencontre son père et saisit son vêtement — tout comme je saisis le bord de ton vêtement maintenant — et ne le lâchera pas jusqu'à ce qu'Allah le fasse entrer, lui et son parent, ensemble au Paradis. » Rapporté par Muslim et Ahmad.[^1] Imagine avec moi cette belle scène : un petit enfant debout à la porte du Paradis, qui voit son père approcher, et saisit son vêtement avec joie, sans le lâcher jusqu'à ce qu'ils entrent ensemble au Paradis !
-
 <!-- unit:end -->
-
-<!-- unit:start id="jannah.020.812.questions" kind="questions" -->
-
-**Questions de réflexion :**
-1. Que signifie le fait que « le Calame est levé » pour un enfant qui n'a pas atteint l'âge de responsabilité ?
-2. Comment un petit enfant peut-il devenir un moyen pour ses parents d'entrer au Paradis ?
-3. Pourquoi penses-tu qu'Allah a choisi Son prophète Ibrahim, paix sur lui, pour prendre soin de ces petits ?
-
-<!-- unit:end -->
-
-<!-- terminology:start source_id="jannah.020" -->
-
-**al-hinth** — l'âge de responsabilité religieuse, c'est-à-dire l'âge de la puberté auquel les actes commencent à être inscrits pour une personne.
-**da'amees al-jannah** — une description des petits enfants au Paradis, se mouvant librement et joyeusement, comme une petite créature aquatique se déplaçant dans l'eau.
-**le Calame est levé** — une expression prophétique signifiant que les actes ne sont pas inscrits contre un enfant, une personne endormie, ou quelqu'un dont l'esprit n'est pas sain, jusqu'à ce qu'ils se réveillent, se rétablissent, ou atteignent la puberté.
-
-<!-- terminology:end -->
-
-<!-- activity:start audience="8-12" concept_id="lesson.020.activity.garden_lanterns" -->
-
-**Activité :** Fabriquez ensemble une « Lanterne du Jardin » : décorez un bocal en verre transparent avec de petites feuilles vertes et des étoiles brillantes, et demandez à l'enfant d'écrire sur une petite carte le nom d'une belle qualité avec laquelle il espère rencontrer Allah (comme l'honnêteté ou la miséricorde), en la plaçant à l'intérieur de la lanterne, en rappel que le Paradis est un lieu de lumière et de joie pour quiconque a aimé Allah.
-
-<!-- activity:end -->
-
-<!-- bedtime-dua:start audience="8-12" id="lesson.020.dua.gentle_mercy" provenance="lesson_authored" source_id="jannah.020" attribution="not_prophetic" -->
-
-Ô Allah, aie pitié de tous les petits enfants des musulmans, fais de moi celui qui Te rencontre satisfait et agréé, et réunis-moi avec ceux que j'aime dans Ton Paradis, par Ta miséricorde, Ô Plus Miséricordieux des miséricordieux.
-
-<!-- bedtime-dua:end -->
 
 <!-- reader:end -->
 
-<!-- reader:start audience="13+" estimated_minutes="12" -->
+## Pour Les Enfants De 8 À 12 Ans
 
-### Pour les 13 ans et plus
+<!-- reader:start audience="8-12" estimated_minutes="6.0" -->
 
-<!-- unit:start id="jannah.020.13.explanation" kind="explanation" -->
+<!-- unit:start id="8-12.explanation" kind="explanation" -->
 
-Les savants musulmans s'accordent à dire qu'un enfant n'est pas jugé avant d'atteindre la puberté, car la responsabilité est liée à la raison saine et à la puberté, et le Calame est levé pour le jeune jusqu'à ce qu'il atteigne la maturité. De là, les enfants des croyants qui meurent avant cela sont parmi les gens du Paradis par le consensus de la majorité des savants, par la grâce d'Allah — non par des actes qui ne leur ont pas encore été inscrits.
-
-<!-- evidence:start id="jannah.020.ev.tur" kind="quran" mode="canonical" -->
-
-قَالَ اللهُ تَعَالَى: ﴿وَالَّذِينَ آمَنُوا وَاتَّبَعَتْهُمْ ذُرِّيَّتُهُمْ بِإِيمَانٍ أَلْحَقْنَا بِهِمْ ذُرِّيَّتَهُمْ وَمَا أَلَتْنَاهُمْ مِنْ عَمَلِهِمْ مِنْ شَيْءٍ﴾ (الطُّورِ: ٢١).
-
-**evidence:translation:** Allah, l'Exalté, dit : « Et ceux qui ont cru et que leur descendance a suivis dans la foi, Nous réunirons à eux leur descendance, et Nous ne diminuerons rien de leurs œuvres. » (at-Tur 52:21)
-
-<!-- evidence:end -->
-
-**Explication savante :** Ali ibn Abi Talib (qu'Allah soit satisfait de lui) s'est servi de ce verset, avec les paroles d'Allah « Et à tout homme Nous avons attaché son destin à son cou » (al-Isra 17:13) et « Toute âme est retenue en gage de ce qu'elle a acquis » (al-Muddaththir 74:38), comme preuve que la jeune descendance n'est pas retenue en gage d'actes qu'elle n'a jamais acquis, et se trouve donc réunie à ses parents croyants au Paradis, par une faveur d'Allah.
+L'islam nous enseigne que l'enfant qui n'a pas encore atteint « l'âge de la responsabilité » n'aura de comptes à rendre pour rien, car le Calame est levé pour lui : ses actes ne sont pas inscrits à sa charge comme ils le sont pour les grands. Si Allah rappelle à Lui un enfant avant sa puberté, cet enfant se trouve auprès d'Allah dans une immense miséricorde, sans jugement ni châtiment. Le Prophète, paix et bénédictions sur lui, a dit : « Il n'est pas un musulman qui perde trois enfants n'ayant pas atteint l'âge de la responsabilité sans qu'Allah ne le fasse entrer dans la Jannah, par la grâce de Sa miséricorde envers eux. »[^3] Le petit enfant devient donc pour ses parents une cause d'entrée dans la Jannah, et non une pure perte.
 
 <!-- unit:end -->
 
-<!-- story:start audience="13+" role="primary" type="hadith" source_id="bukhari.tabir.samurah_ruya" authenticated="true" -->
+<!-- unit:start id="8-12.primary-story" kind="primary_story" -->
 
-Dans le long hadith bien connu du rêve de Samurah ibn Jundab (qu'Allah soit satisfait de lui), que le Prophète ﷺ avait l'habitude de raconter à ses compagnons chaque matin, il ﷺ mentionna avoir vu en songe une prairie verte avec un grand arbre, et à sa base un homme très grand, dont la tête pouvait à peine se distinguer contre le ciel tant il était grand, et autour de lui plus d'enfants que le Prophète ﷺ n'en avait jamais vu. On lui dit que l'homme grand était Ibrahim, paix sur lui, et que les enfants autour de lui étaient « les enfants des gens ». Rapporté par al-Bukhari, Livre de l'Interprétation des Rêves.[^2]
+### Un Hadith Authentique : Le Songe Du Prophète, Paix Et Bénédictions Sur Lui, Et Le Jardin D'Ibrahim, Paix Sur Lui
+
+<!-- story:start audience="8-12" role="primary" type="hadith" source_id="bukhari.tabir.samurah_ruya" authenticated="true" -->
+
+**Ceci est un récit véridique rapporté par Samurah ibn Jundab, qu'Allah soit satisfait de lui, d'après le Prophète, paix et bénédictions sur lui, et non une histoire inventée.**
+
+Le Prophète, paix et bénédictions sur lui, racontait souvent à ses Compagnons ce qu'il avait vu en rêve. Samurah ibn Jundab, qu'Allah soit satisfait de lui, a rapporté de lui un long songe, où l'on trouve ces mots : « Nous partîmes, jusqu'à arriver à un jardin luxuriant, couvert d'une végétation haute et dense, où s'épanouissaient toutes les couleurs du printemps. Au milieu du jardin se tenait un homme si grand que je distinguais à peine sa tête, tant elle s'élevait dans le ciel, et autour de lui se trouvaient des enfants, plus nombreux que tous ceux que j'avais jamais vus. » Le Prophète, paix et bénédictions sur lui, interrogea sur cette scène les deux compagnons qui le guidaient dans son rêve, et ils lui répondirent : « Quant à l'homme de grande taille qui se trouve dans le jardin, c'est Ibrahim, paix sur lui ; et quant aux enfants qui l'entourent, ce sont tous les enfants morts dans la fitrah. »[^5]
+
+<!-- retelling:start source_id="bukhari.tabir.samurah_ruya" audience="8-12" -->
+
+Autrement dit : le Prophète, paix et bénédictions sur lui, a vu en rêve un magnifique jardin verdoyant, où Ibrahim, paix sur lui, veillait sur une foule d'enfants morts tout petits, avant d'avoir atteint l'âge de la responsabilité. Le père des prophètes est ainsi devenu leur protecteur plein de tendresse, dans ce beau jardin de la Jannah.[^5]
+
+<!-- retelling:end -->
 
 <!-- story:end -->
 
-**Note sur les sources :** Nous avons restitué la partie pertinente de ce long hadith telle que citée par le Dr Umar Sulayman al-Ashqar dans *al-Jannah wa an-Nar*. Nous n'avons pas pu vérifier directement le numéro du hadith sur sunnah.com lors de cette session de rédaction en raison d'une défaillance technique de nos outils de recherche ; quiconque relit cette leçon pour publication devrait confirmer la référence précise.
+<!-- unit:end -->
 
-**La question des enfants des non-croyants :** Quant aux enfants morts avant l'âge de responsabilité qui ne sont pas les enfants de croyants, c'est là une question bien connue de divergence savante, que nous mentionnons ici brièvement et avec respect, car elle relève de l'invisible et aucun avis unique ne doit être affirmé avec certitude :
+<!-- unit:start id="8-12.authenticated-story" kind="authenticated_story" -->
 
-**Le premier avis :** Qu'ils sont parmi les gens du Paradis. C'est l'avis retenu par l'Imam an-Nawawi (qu'Allah lui fasse miséricorde), citant les paroles d'Allah : « Et Nous ne châtiions pas avant d'avoir envoyé un messager » (al-Isra 17:15), ainsi qu'un récit de la Compagne Khansa bint Mu'awiyah, rapporté de sa tante, attribué au Prophète ﷺ : « ...et le nouveau-né est au Paradis. » Rapporté par l'Imam Ahmad avec une chaîne hasan (bonne).[^6]
+### Un Hadith Authentique : Les *Da'amis* De La Jannah
 
-**Le deuxième avis :** Que leur sort revient à la volonté d'Allah, sans jugement définitif ni pour le Paradis ni pour le Feu. C'était l'avis de Hammad ibn Zayd, Hammad ibn Salamah, Abdullah ibn al-Mubarak et Ishaq ibn Rahwayh, et Abu al-Hasan al-Ash'ari l'a attribué à Ahl as-Sunnah wal-Jama'ah, se basant sur des versets tels que : « Et Allah sait mieux ce qu'ils auraient fait » (al-An'am 6:128).
+<!-- story:start audience="8-12" role="authenticated" type="hadith" source_id="muslim.ahmad.daaamees_al_jannah" authenticated="true" -->
 
-**Le troisième avis :** Qu'ils seront mis à l'épreuve le Jour du Jugement dans ses vastes plaines par un ordre qu'ils obéiront ou désobéiront. C'était le choix de Cheikh al-Islam Ibn Taymiyyah (qu'Allah lui fasse miséricorde), fondé sur un récit au sujet d'une épreuve avec un feu allumé qu'on leur ordonne d'y entrer — celui qui obéit le trouve frais et sûr et entre au Paradis, celui qui désobéit est châtié. Ce récit fut rapporté par al-Bazzar d'après Anas et Abu Sa'id (qu'Allah soit satisfait d'eux), et par at-Tabarani d'après Mu'adh ibn Jabal (qu'Allah soit satisfait de lui), et les savants ont divergé sur la solidité de sa chaîne. Le Dr Umar Sulayman al-Ashqar a discuté de l'objection soulevée contre cette épreuve (que l'Au-delà est une demeure de rétribution, non d'épreuve), et a répondu qu'il existe des parallèles acceptés à cela dans les états du barzakh et les plaines de la Résurrection, qui diffèrent par nature de la responsabilité terrestre.[^4]
+Le Prophète, paix et bénédictions sur lui, a dit : « Leurs petits sont les *da'amis* de la Jannah. L'un d'eux vient à la rencontre de son père et le saisit par son vêtement — comme je saisis, moi, le bord de ton vêtement que voici —, et il ne le lâche pas avant qu'Allah ne les fasse entrer, lui et son père, dans la Jannah. »[^4]
 
-**Résumé et étiquette dans le traitement de cette question :** C'est là une divergence légitime entre savants éminents, et personne ne devrait être blâmé pour l'un ou l'autre avis ; en définitive, toute la question revient à la justice et à la miséricorde d'Allah, qui embrassent toute chose. Cette discussion ne doit jamais servir à juger un enfant précis, ni être soulevée auprès d'une famille ayant perdu un enfant, car cela éveille tristesse et anxiété sans aucun bénéfice légitime. Allah, Qu'Il soit glorifié, ne lèse personne, fût-ce du poids d'un atome, et Il est bien trop savant, sage et miséricordieux pour demander des comptes à quelqu'un contre qui la preuve n'a jamais été établie.
+<!-- retelling:start source_id="muslim.ahmad.daaamees_al_jannah" audience="8-12" -->
+
+Imagine avec moi cette belle scène : un petit garçon ou une petite fille attend à la porte de la Jannah. Soudain, l'enfant aperçoit son père qui arrive ; il saisit tendrement le bord de son vêtement et ne le lâche plus, jusqu'à ce qu'ils entrent ensemble dans la Jannah. L'enfant parti vers la miséricorde d'Allah continue donc d'aimer ses parents et d'espérer les retrouver.[^4]
+
+<!-- retelling:end -->
+
+<!-- story:end -->
 
 <!-- unit:end -->
 
-<!-- unit:start id="jannah.020.13.questions" kind="questions" -->
+<!-- unit:start id="8-12.terms" kind="terms" -->
 
-**Questions de discussion :**
-1. Pourquoi les savants s'accordent-ils sur le jugement concernant les enfants des croyants tout en divergeant sur celui des autres ?
-2. Quelle étiquette devons-nous conserver en discutant de questions où les savants ont divergé ?
-3. Comment cette divergence savante légitime apaise-t-elle le cœur d'un croyant plutôt que de l'inquiéter ?
+<!-- terminology:start source_id="hadith.rafa_al-qalam" -->
+
+- **`L'âge de la responsabilité`** (*sinn at-taklif*, ou *al-hinth*) — l'âge à partir duquel l'être humain devient responsable de ses actes devant Allah ; avant cet âge, le Calame est levé pour l'enfant, et il n'a de comptes à rendre pour rien.[^2]
+- **`Les da'amis de la Jannah`** (*da'amis al-jannah*) — une image qui décrit les petits de la Jannah : ils y vont et viennent librement et joyeusement, comme une petite créature qui s'ébat dans l'eau.[^4]
+- **`La fitrah`** — l'état naturel et pur dans lequel naît chaque être humain, avant d'atteindre la puberté et de devenir responsable.[^5]
+
+<!-- terminology:end -->
 
 <!-- unit:end -->
 
-<!-- activity:start audience="13+" concept_id="lesson.020.activity.garden_lanterns" -->
+<!-- unit:start id="8-12.questions" kind="questions" -->
 
-**Activité :** Discutez avec les adolescents : pourquoi la Charia laisse-t-elle certaines questions de l'invisible ouvertes au raisonnement savant plutôt que de les trancher définitivement ? Puis demandez-leur d'écrire un court paragraphe sur la manière de concilier le respect de la divergence savante avec une confiance totale en la miséricorde et la justice d'Allah.
+### Questions De Compréhension Et De Réflexion
+
+1. Que veut dire « le Calame est levé » pour l'enfant qui n'a pas atteint l'âge de la responsabilité ?
+2. Comment un petit enfant que ses parents ont perdu peut-il devenir pour eux une cause d'entrée dans la Jannah ?
+3. Dans le hadith des « *da'amis* de la Jannah », que fait l'enfant quand il voit son père ou sa mère ?
+4. Qui est l'homme qui prend soin des enfants dans le jardin de la Jannah, et que sais-tu de sa vie ?
+
+<!-- unit:end -->
+
+<!-- unit:start id="8-12.activity" kind="activity" -->
+
+### Activité : La Lanterne Du Jardin De La Jannah
+
+<!-- activity:start audience="8-12" concept_id="lesson.020.activity.garden_lanterns" -->
+
+Fabrique avec ton père ou ta mère « la lanterne du jardin » : décore un petit verre transparent avec des feuilles vertes et des fleurs découpées dans du papier de couleur, puis place à l'intérieur une bougie électrique sans danger, ou un papier plié en forme de flamme. Sur une petite carte posée à côté de la lanterne, écris un mot par lequel tu aimerais qu'Allah se souvienne de toi (par exemple : la miséricorde, la sincérité, l'amour). Installe enfin la lanterne dans un coin calme de ta chambre, pour te rappeler que le jardin de la Jannah est un lieu de lumière et de joie éternelles.
 
 <!-- activity:end -->
 
-<!-- bedtime-dua:start audience="13+" id="lesson.020.dua.gentle_mercy" provenance="lesson_authored" source_id="jannah.020" attribution="not_prophetic" -->
+<!-- unit:end -->
 
-Ô Allah, nous Te demandons Ta miséricorde qui embrasse toute chose ; aie pitié des petits enfants des musulmans, répare tout cœur blessé ayant perdu un être cher, et fais de notre savoir un moyen d'accroître notre certitude en Ta justice et Ta miséricorde, non une source d'anxiété ou de doute.
+<!-- unit:start id="8-12.bedtime-dua" kind="bedtime_dua" -->
+
+### Du'a Avant De Dormir
+
+<!-- bedtime-dua:start audience="8-12" id="lesson.020.dua.gentle_mercy" provenance="lesson_authored" source_id="jannah.020" attribution="not_prophetic" -->
+
+**Du'a thématique composée pour cette leçon ; non attribuée au Prophète, paix et bénédictions sur lui.**
+
+> اللَّهُمَّ ارْحَمْ ضُعَفَاءَ أُمَّتِنَا وَأَطْفَالَنَا، وَاجْمَعْ بَيْنَنَا وَبَيْنَ مَنْ سَبَقَنَا مِنْهُمْ فِي جَنَّتِكَ بِرَحْمَتِكَ يَا أَرْحَمَ الرَّاحِمِينَ.
+>
+> *« Ô Allah, fais miséricorde aux plus faibles de notre communauté et à nos enfants, et réunis-nous dans Ta Jannah avec ceux d'entre eux qui nous ont devancés, par Ta miséricorde, ô le plus Miséricordieux des miséricordieux. »*
 
 <!-- bedtime-dua:end -->
 
+<!-- unit:end -->
+
 <!-- reader:end -->
 
-## Plans de Leçon Détaillés Pour les Enseignants
+## Pour Les Adolescents, 13 Ans Et Plus
 
-<!-- lesson-plan:start audience="adults" minutes="14" -->
+<!-- reader:start audience="13+" estimated_minutes="7.0" -->
 
-**Objectifs :** L'apprenant reconnaîtra les preuves authentiques concernant le sort des enfants des croyants, et se familiarisera, avec courtoisie, avec la divergence savante légitime concernant les enfants des non-croyants.
-**Matériel :** Copie de la leçon, petits papiers, un récipient symbolique.
-**Préparation :** L'enseignant révise à l'avance les hadiths et les avis savants, et vérifie qu'aucun membre du groupe n'a subi de perte récente avant de commencer.
-**Ouverture :** L'enseignant rappelle aux participants l'immensité de la miséricorde d'Allah avant d'entrer dans les détails.
-**Présentation des preuves :** Lisez lentement le hadith des da'amees et le hadith du rêve, en notant la remarque sur les sources.
-**Instruction :** Expliquez d'abord le consensus concernant les enfants des croyants très clairement, puis présentez la divergence concernant les enfants des non-croyants brièvement et avec neutralité savante, sans jugement définitif.
-**Activité :** Réalisez l'activité du « Jardin de l'Espoir ».
-**Évaluation :** Demandez aux participants comment cette miséricorde affecte leur regard sur la perte d'enfants.
-**Différenciation :** Pour ceux ayant une formation académique, on peut approfondir les avis d'Ibn Taymiyyah et d'an-Nawawi.
-**Garde-fous :** Ne jamais soulever la question des enfants des non-croyants devant quelqu'un ayant récemment perdu un enfant, éviter toute généralisation qui inquiéterait quelqu'un sur le sort d'un enfant précis, et rappeler constamment qu'Allah est plus miséricordieux envers Ses serviteurs qu'une mère envers son enfant.
+<!-- unit:start id="13+.explanation" kind="explanation" -->
+
+En islam, la notion d'« âge de la responsabilité » repose sur un principe : l'obligation religieuse est liée à la raison et à la puberté. Le Calame est levé pour l'enfant jusqu'à sa puberté ; aucune mauvaise action ne lui est donc inscrite avant cela. C'est pourquoi les enfants des croyants qui meurent avant cet âge comptent parmi les gens de la Jannah, par la grâce d'Allah, et non en vertu d'œuvres qui n'avaient pas encore été inscrites. Quant au statut des enfants de non-croyants morts avant l'âge de la responsabilité, un texte prophétique explicite le mentionne dans le hadith du songe que tu vas découvrir dans cette leçon ; certains détails de la question sont pourtant restés, depuis des siècles, matière à effort d'interprétation (*ijtihad*) entre les savants. C'est une divergence légitime, qui ne doit inquiéter personne : toute la question se ramène à la justice d'Allah et à Sa vaste miséricorde.
+
+<!-- unit:end -->
+
+<!-- unit:start id="13+.primary-story" kind="primary_story" -->
+
+### Un Hadith Authentique : Le Songe Rapporté Par Samurah Ibn Jundab, Qu'Allah Soit Satisfait De Lui
+
+<!-- story:start audience="13+" role="primary" type="hadith" source_id="bukhari.tabir.samurah_ruya" authenticated="true" -->
+
+**Ceci est un récit véridique rapporté par Samurah ibn Jundab, qu'Allah soit satisfait de lui, d'après le Prophète, paix et bénédictions sur lui, dans Sahih al-Bukhari, et non une scène imaginée.**
+
+Le Prophète, paix et bénédictions sur lui, avait l'habitude de raconter à ses Compagnons, la plupart des matins, ce qu'il avait vu en songe la nuit précédente. Samurah ibn Jundab, qu'Allah soit satisfait de lui, a rapporté de lui un long songe aux scènes multiples, dans lequel deux visiteurs l'emmenèrent pour lui faire voir l'état des gens. Au détour de l'une de ces scènes, il dit, paix et bénédictions sur lui : « Nous partîmes, jusqu'à arriver à un jardin luxuriant, couvert d'une végétation haute et dense, où s'épanouissaient toutes les couleurs du printemps. Au milieu du jardin se tenait un homme si grand que je distinguais à peine sa tête, tant elle s'élevait dans le ciel, et autour de lui se trouvaient des enfants, plus nombreux que tous ceux que j'avais jamais vus. Je leur demandai : “Qu'est-ce que cela ? Et qui sont ceux-là ?” »[^5]
+
+À la fin du songe, lorsque les deux visiteurs lui expliquèrent tout ce qu'il avait vu, ils lui dirent au sujet de cette scène précise : « Quant à l'homme de grande taille qui se trouve dans le jardin, c'est Ibrahim, paix sur lui ; et quant aux enfants qui l'entourent, ce sont tous les enfants morts dans la fitrah. » Quelques-uns des présents demandèrent : « Ô Messager d'Allah, et les enfants des polythéistes ? » Il répondit, paix et bénédictions sur lui : « Et les enfants des polythéistes. »[^5]
+
+<!-- retelling:start source_id="bukhari.tabir.samurah_ruya" audience="13+" -->
+
+En d'autres termes : Allah a montré à Son Prophète, paix et bénédictions sur lui, dans son sommeil, la scène bien réelle d'un jardin de la Jannah, où Ibrahim, paix sur lui — le père des prophètes et l'ami intime (*khalil*) du Tout-Miséricordieux — veille sur chaque enfant mort dans la fitrah avant d'être devenu responsable, avec la tendresse d'un grand-père plein de bonté envers ses petits-enfants. Et lorsqu'on interrogea explicitement le Prophète, paix et bénédictions sur lui, au sujet des enfants des polythéistes, il les fit entrer dans ce même statut ; c'est ce qui a conduit les savants à approfondir cette question au fil des siècles, certains de ses détails demeurant matière à ijtihad.[^5]
+
+<!-- retelling:end -->
+
+<!-- story:end -->
+
+<!-- unit:end -->
+
+<!-- unit:start id="13+.authenticated-story" kind="authenticated_story" -->
+
+### Un Hadith Authentique : Les *Da'amis* De La Jannah
+
+<!-- story:start audience="13+" role="authenticated" type="hadith" source_id="muslim.ahmad.daaamees_al_jannah" authenticated="true" -->
+
+Le Prophète, paix et bénédictions sur lui, a dit : « Leurs petits sont les *da'amis* de la Jannah. L'un d'eux vient à la rencontre de son père — ou il a dit : de ses parents —, le saisit par son vêtement — ou il a dit : par la main —, comme je saisis, moi, le bord de ton vêtement que voici, et il ne le lâche pas avant qu'Allah ne les fasse entrer, lui et son père, dans la Jannah. »[^4]
+
+<!-- retelling:start source_id="muslim.ahmad.daaamees_al_jannah" audience="13+" -->
+
+Ce hadith redéfinit le sens même de la perte : le lien entre l'enfant et ses parents ne se rompt pas lorsqu'il meurt petit ; il se change en intercession et en attente aimante, le Jour de la Résurrection, jusqu'à ce que l'enfant s'agrippe au vêtement de son père ou de sa mère et ne le lâche plus avant qu'ils n'entrent avec lui dans la Jannah. Cela signifie que la patience et l'ihtisab face à la perte d'un tout-petit ne se réduisent pas à supporter la douleur : c'est un investissement dans une relation qui portera ses fruits en retrouvailles et en une réunion éternelle, si Allah le veut.[^4]
+
+<!-- retelling:end -->
+
+<!-- story:end -->
+
+<!-- unit:end -->
+
+<!-- unit:start id="13+.terms" kind="terms" -->
+
+<!-- terminology:start source_id="hadith.rafa_al-qalam" -->
+
+- **`Le taklif`** (la responsabilité religieuse) — l'obligation, que la Loi fait peser sur l'être humain doué de raison et pubère, de suivre ses commandements et ses interdits ; avant sa puberté, on ne le dit pas responsable (*mukallaf*), et il n'a de comptes à rendre pour rien.[^2]
+- **`La fitrah`** — l'état naturel et sain dans lequel chaque être humain a été créé, avant que son milieu ne l'influence ou qu'il n'atteigne l'âge de la responsabilité.[^5]
+- **`L'ihtisab`** — le fait, pour le croyant, d'endurer l'épreuve avec patience en espérant sa récompense auprès d'Allah, au lieu de simplement la subir sans penser à ce qu'elle lui vaut.[^3]
+
+<!-- terminology:end -->
+
+<!-- unit:end -->
+
+<!-- unit:start id="13+.questions" kind="questions" -->
+
+### Questions De Discussion
+
+1. Comment le hadith du songe rapporté par Samurah ibn Jundab montre-t-il que le sort de l'enfant qui meurt petit n'est ni inconnu ni obscur ?
+2. Pourquoi la réponse du Prophète, paix et bénédictions sur lui, à la question « Et les enfants des polythéistes ? » est-elle si importante sur ce point précis ?
+3. Comment le hadith des « *da'amis* de la Jannah » change-t-il ta compréhension de ce que veut dire « perdre » un tout-petit ?
+4. Comment aider un ami ou un proche qui a perdu un tout-petit à trouver dans ces deux hadiths une espérance véritable, et pas seulement des mots de consolation ?
+5. Pourquoi certains détails du sort des enfants de non-croyants restent-ils matière à ijtihad entre les savants, malgré l'existence d'un texte explicite ? Et en quoi cela peut-il t'apaiser plutôt que t'inquiéter ?
+
+<!-- unit:end -->
+
+<!-- unit:start id="13+.activity" kind="activity" -->
+
+### Activité : Ma Propre Lanterne
+
+<!-- activity:start audience="13+" concept_id="lesson.020.activity.garden_lanterns" -->
+
+Écris un paragraphe personnel où tu décris ce qui t'a le plus touché dans les hadiths des « *da'amis* de la Jannah » et du « songe de Samurah ibn Jundab » : est-ce l'image du jardin, ou celle de l'enfant agrippé au vêtement de son père ? Écris ensuite une invocation personnelle pour ta famille, ou pour un enfant que tu connais et qui est parti vers la miséricorde d'Allah, ou pour un enfant quelconque si tu n'en connais aucun. Plie la feuille en forme de petite lanterne et garde-la dans un endroit calme qui n'appartient qu'à toi, comme le symbole de la lumière de cette espérance dans ton cœur.
+
+<!-- activity:end -->
+
+<!-- unit:end -->
+
+<!-- unit:start id="13+.bedtime-dua" kind="bedtime_dua" -->
+
+### Du'a Avant De Dormir
+
+<!-- bedtime-dua:start audience="13+" id="lesson.020.dua.gentle_mercy" provenance="lesson_authored" source_id="jannah.020" attribution="not_prophetic" -->
+
+**Du'a thématique composée pour cette leçon ; non attribuée au Prophète, paix et bénédictions sur lui.**
+
+> اللَّهُمَّ ارْحَمْ ضُعَفَاءَ أُمَّتِنَا وَأَطْفَالَنَا، وَاجْمَعْ بَيْنَنَا وَبَيْنَ مَنْ سَبَقَنَا مِنْهُمْ فِي جَنَّتِكَ بِرَحْمَتِكَ يَا أَرْحَمَ الرَّاحِمِينَ.
+>
+> *« Ô Allah, fais miséricorde aux plus faibles de notre communauté et à nos enfants, et réunis-nous dans Ta Jannah avec ceux d'entre eux qui nous ont devancés, par Ta miséricorde, ô le plus Miséricordieux des miséricordieux. »*
+
+<!-- bedtime-dua:end -->
+
+<!-- unit:end -->
+
+<!-- reader:end -->
+
+## Plans D'enseignement Détaillés
+
+<!-- lesson-plan:start audience="adults" minutes="50" -->
+
+### Les Adultes — 50 Minutes
+
+<!-- lesson-plan:outcomes -->
+**Résultats d'apprentissage :** l'apprenant explique le fondement légal qui fait que l'enfant n'est pas tenu pour responsable avant l'âge de la responsabilité, rapporte fidèlement les hadiths des « *da'amis* de la Jannah » et du « songe de Samurah ibn Jundab », et sait se comporter avec délicatesse et miséricorde envers une personne qui a perdu un tout-petit.
+
+<!-- lesson-plan:materials -->
+**Matériel :** une copie de la leçon ; un Coran pour se référer au verset d'at-Tur ; de petites cartes vierges pour l'activité.
+
+<!-- lesson-plan:preparation -->
+**Préparation :** avant la séance, l'enseignant révise les cinq preuves, leurs sources et leurs degrés d'authenticité ; il s'assure avec tact qu'aucun membre du groupe n'a vécu de deuil récent ; et il se prépare à instaurer une atmosphère calme et bienveillante, et non un débat juridique aride.
+
+<!-- lesson-plan:opening -->
+**Ouverture — 5 minutes :** l'enseignant demande : « Qu'imaginez-vous lorsque vous apprenez qu'un tout-petit est parti vers la miséricorde d'Allah ? », puis il écoute attentivement, sans corriger aussitôt.
+
+<!-- lesson-plan:evidence -->
+**Étude des preuves — 20 minutes :** lire le verset d'at-Tur, puis le hadith du Calame levé, puis celui des trois enfants, puis celui des *da'amis* de la Jannah, et enfin le hadith du songe de Samurah ibn Jundab en entier, en s'arrêtant particulièrement sur la question « Et les enfants des polythéistes ? » et sur sa réponse.
+
+<!-- lesson-plan:instruction -->
+**Enseignement guidé — 15 minutes :** l'enseignant relie les cinq preuves pour en dégager un tableau d'ensemble : la levée de la responsabilité, puis la récompense des parents, puis l'amour persistant de l'enfant, puis la scène du jardin et la tendre garde d'Ibrahim, paix sur lui ; il présente aussi, brièvement et avec mesure, la divergence des savants sur le détail du statut des enfants de non-croyants, sans trancher de manière catégorique.
+
+<!-- lesson-plan:activity -->
+**Activité — 7 minutes :** réaliser l'activité « Le jardin de l'espérance » telle que décrite dans l'unité d'activité.
+
+<!-- lesson-plan:assessment -->
+**Évaluation et clôture — 3 minutes :** demander à chaque apprenant de dire, en une phrase, comment cette leçon a changé son regard sur la perte d'un tout-petit.
+
+<!-- lesson-plan:differentiation -->
+**Différenciation :** avec les apprenants qui ont une formation savante, on peut approfondir les positions d'an-Nawawi et d'Ibn Taymiyyah sur la question des enfants de non-croyants ; pour les autres, on se limite aux quatre premières preuves et à un résumé de la cinquième.
+
+<!-- lesson-plan:safeguards -->
+**Précautions pédagogiques :** il est strictement interdit d'utiliser cette leçon pour se prononcer sur le sort d'un enfant précis dont la famille est présente ; toute personne visiblement très éprouvée est orientée, après la séance, vers un échange individuel de soutien ; et la rencontre reste centrée sur la miséricorde et l'espérance, non sur la controverse juridique.
 
 <!-- lesson-plan:end -->
 
-<!-- lesson-plan:start audience="4-7" minutes="6" -->
+<!-- lesson-plan:start audience="4-7" minutes="18" -->
 
-**Objectifs :** L'enfant se sentira en sécurité et rassuré au sujet du thème de la mort sans peur, et se familiarisera avec Ibrahim, paix sur lui, comme tuteur bienveillant au Paradis.
-**Matériel :** Papier à dessin et couleurs.
-**Préparation :** L'éducateur veille à garder un ton calme et souriant tout au long de la leçon.
-**Ouverture :** Demandez à l'enfant : Aimes-tu les beaux jardins verts ?
-**Présentation des preuves :** Racontez l'histoire du rêve avec une totale simplicité, sans utiliser directement le mot « mort ».
-**Instruction :** Concentrez-vous sur l'amour d'Ibrahim pour les enfants et leur bonheur dans le jardin.
-**Activité :** Dessiner le jardin.
-**Évaluation :** Observez si l'enfant se sent réconforté plutôt qu'inquiet après la leçon.
-**Différenciation :** Pour ceux plus proches de 7 ans, le terme « da'amees al-jannah » peut être mentionné comme un mot tendre.
-**Garde-fous :** Ne jamais mentionner de détail sur la façon dont un enfant est mort, et ne jamais interroger l'enfant sur un frère ou un proche décédé. Si l'enfant demande spontanément au sujet de quelqu'un qu'il a perdu, répondez avec beaucoup de douceur et de brièveté, uniquement rassurante, et ramenez rapidement la conversation vers l'image joyeuse du jardin.
+### Les Enfants De 4 À 7 Ans — 18 Minutes
+
+<!-- lesson-plan:outcomes -->
+**Résultats d'apprentissage :** l'enfant sait décrire, par une phrase simple, le beau jardin où Ibrahim, paix sur lui, prend soin des enfants, et il se sent rassuré, et non effrayé, en écoutant la leçon.
+
+<!-- lesson-plan:materials -->
+**Matériel :** des feuilles et des crayons de couleur ; la carte du du'a, écrite en gros caractères bien lisibles.
+
+<!-- lesson-plan:preparation -->
+**Préparation :** l'éducateur prépare une voix calme et rassurante, évite tout mot qui pourrait effrayer l'enfant, et révise les deux récits simplifiés avant la rencontre.
+
+<!-- lesson-plan:opening -->
+**Ouverture — 3 minutes :** demander à l'enfant : « Est-ce que tu aimes les beaux jardins tout verts, pleins de fleurs ? »
+
+<!-- lesson-plan:evidence -->
+**Lecture de la preuve — 6 minutes :** raconter l'histoire du jardin d'Ibrahim, paix sur lui, d'une voix chaleureuse et douce, puis mentionner brièvement que le petit enfant, là-bas, attend sa famille avec amour.
+
+<!-- lesson-plan:instruction -->
+**Enseignement guidé — 3 minutes :** l'éducateur rappelle à l'enfant qu'Allah aime beaucoup les enfants, et que la Jannah est un lieu de lumière et de joie, où il n'y a aucune tristesse.
+
+<!-- lesson-plan:activity -->
+**Activité — 5 minutes :** réaliser l'activité « La lanterne du jardin » telle que décrite dans l'unité d'activité.
+
+<!-- lesson-plan:assessment -->
+**Évaluation et clôture — 1 minute :** observer si l'enfant parvient à décrire le jardin avec ses propres mots, puis lire le du'a.
+
+<!-- lesson-plan:differentiation -->
+**Différenciation :** pour les plus jeunes, se contenter d'une seule phrase : « Allah aime les enfants, et Il les emmène dans un beau jardin. »
+
+<!-- lesson-plan:safeguards -->
+**Précautions pédagogiques :** ne jamais mentionner le moindre détail sur la mort, la maladie ou la douleur ; toujours employer l'expression « parti vers la miséricorde d'Allah » ou une formule semblable ; si l'enfant pose une question directe et difficile, lui répondre par une phrase courte et rassurante, puis ramener doucement la conversation vers le jardin et la joie.
 
 <!-- lesson-plan:end -->
 
-<!-- lesson-plan:start audience="8-12" minutes="9" -->
+<!-- lesson-plan:start audience="8-12" minutes="30" -->
 
-**Objectifs :** L'enfant comprendra le sens du Calame levé pour celui qui n'est pas encore responsable, et ressentira la miséricorde d'Allah envers les petits.
-**Matériel :** Un pot en verre, des feuilles vertes en papier, de petites cartes.
-**Préparation :** L'enseignant prépare à l'avance le matériel de la « Lanterne du Jardin ».
-**Ouverture :** Demandez : Que signifie que personne ne soit jugé pour quelque chose qu'il n'a pas encore fait ?
-**Présentation des preuves :** Lisez clairement le hadith d'Anas et le hadith des da'amees.
-**Instruction :** Expliquez les significations d' « al-hinth » et de « da'amees » à partir de l'unité de terminologie.
-**Activité :** Fabriquer la Lanterne du Jardin.
-**Évaluation :** Demandez à l'enfant de raconter à nouveau le sens du hadith avec ses propres mots.
-**Différenciation :** Pour les plus âgés de ce groupe, le verset d'at-Tur peut être mentionné simplement.
-**Garde-fous :** Évitez entièrement la question des enfants des non-croyants pour ce groupe d'âge. Si un enfant pose la question, dites : « C'est une question profonde dont nous parlerons quand tu seras un peu plus grand », puis réorientez vers la miséricorde d'Allah qui embrasse tout, en étant pleinement attentif à quiconque dans le groupe pourrait avoir perdu un jeune frère ou un proche.
+### Les Enfants De 8 À 12 Ans — 30 Minutes
+
+<!-- lesson-plan:outcomes -->
+**Résultats d'apprentissage :** l'élève explique le sens de « l'âge de la responsabilité » et des « *da'amis* de la Jannah », et relie les deux hadiths à la garde qu'exerce Ibrahim, paix sur lui, sur les enfants dans la Jannah.
+
+<!-- lesson-plan:materials -->
+**Matériel :** les cartes des trois termes ; un verre transparent et du papier de couleur pour fabriquer la lanterne ; la carte du du'a.
+
+<!-- lesson-plan:preparation -->
+**Préparation :** l'enseignant prépare à l'avance le matériel de la lanterne et révise les trois termes pour pouvoir les expliquer clairement et simplement.
+
+<!-- lesson-plan:opening -->
+**Ouverture — 4 minutes :** demander aux élèves : « Que penseriez-vous de quelqu'un qui serait entièrement dispensé de rendre des comptes pour ses actes ? Qui est cette personne dans notre religion ? »
+
+<!-- lesson-plan:evidence -->
+**Étude de la preuve — 10 minutes :** expliquer brièvement le hadith des « trois enfants », puis raconter en entier le songe du Prophète, paix et bénédictions sur lui, puis le hadith des « *da'amis* de la Jannah », en expliquant les termes au fil de la lecture.
+
+<!-- lesson-plan:instruction -->
+**Enseignement guidé — 8 minutes :** l'enseignant discute avec les élèves du sens de l'expression « n'ayant pas atteint al-hinth », de la raison pour laquelle Allah a choisi précisément Ibrahim, paix sur lui, pour prendre soin des enfants, et de la manière dont le hadith des *da'amis* décrit l'amour persistant de l'enfant pour ses parents.
+
+<!-- lesson-plan:activity -->
+**Activité — 6 minutes :** réaliser l'activité « La lanterne du jardin de la Jannah » telle que décrite dans l'unité d'activité.
+
+<!-- lesson-plan:assessment -->
+**Évaluation et clôture — 2 minutes :** demander à chaque élève d'expliquer oralement, avec ses propres mots, le sens de l'un des trois termes, puis lire le du'a.
+
+<!-- lesson-plan:differentiation -->
+**Différenciation :** pour les élèves en difficulté, se limiter au hadith des « trois enfants » et à celui des « *da'amis* de la Jannah » ; pour les plus avancés, ajouter le récit détaillé du songe en entier, avec la question sur les enfants des polythéistes.
+
+<!-- lesson-plan:safeguards -->
+**Précautions pédagogiques :** évoquer le départ de l'enfant vers la miséricorde d'Allah brièvement, sans rien d'effrayant et sans s'attarder sur sa cause ; ne jamais demander directement à un élève s'il a perdu un frère, une sœur ou un jeune proche ; le laisser libre de partager s'il le souhaite, sans jamais l'y obliger.
 
 <!-- lesson-plan:end -->
 
-<!-- lesson-plan:start audience="13+" minutes="12" -->
+<!-- lesson-plan:start audience="13+" minutes="40" -->
 
-**Objectifs :** L'adolescent saisira la différence entre une question de consensus et une question de divergence savante légitime, et apprendra l'étiquette de la présentation d'un désaccord savant.
-**Matériel :** Copie de la leçon, feuilles de discussion.
-**Préparation :** L'enseignant s'assure de bien comprendre personnellement les avis d'an-Nawawi et d'Ibn Taymiyyah avant de les présenter.
-**Ouverture :** Question : Toute question religieuse a-t-elle une réponse unique et définitive ?
-**Présentation des preuves :** Le verset d'at-Tur, le hadith du rêve, puis présentez les trois avis dans l'ordre.
-**Instruction :** Insistez sur le fait que l'accord concernant les enfants des croyants est très fort, tandis que la divergence concernant les autres est légitime et ne doit pas être affirmée avec certitude.
-**Activité :** Rédiger le court paragraphe.
-**Évaluation :** Discussion collective sur ce qui a été écrit.
-**Différenciation :** Les apprenants avancés peuvent se voir confier la lecture complète de la discussion d'al-Ashqar dans *al-Jannah wa an-Nar*.
-**Garde-fous :** L'enseignant doit explicitement préciser au début de cette section que quiconque sent que ce sujet touche une blessure personnelle a parfaitement le droit de ne pas participer à cette partie de la discussion, et doit insister sur le fait qu'il s'agit d'une divergence savante qui ne doit jamais devenir un verdict sur la situation personnelle de quiconque présent ou de sa famille.
+### Les Adolescents, 13 Ans Et Plus — 40 Minutes
+
+<!-- lesson-plan:outcomes -->
+**Résultats d'apprentissage :** l'adolescent analyse le lien entre la levée de la responsabilité pour le jeune enfant et la miséricorde d'Allah envers les enfants des croyants, discute avec courtoisie de la question des enfants de non-croyants, et rédige une méditation personnelle sur le sens de la perte et de l'espérance.
+
+<!-- lesson-plan:materials -->
+**Matériel :** une copie de la leçon ; une feuille pour l'activité écrite ; les cartes des termes.
+
+<!-- lesson-plan:preparation -->
+**Préparation :** l'enseignant se prépare à une discussion équilibrée sur la question des enfants de non-croyants, et se tient prêt à soutenir tout élève qui aurait perdu un frère, une sœur ou un jeune proche.
+
+<!-- lesson-plan:opening -->
+**Ouverture — 5 minutes :** poser la question : « Avez-vous déjà essayé de consoler quelqu'un qui avait perdu un tout-petit ? Que lui avez-vous dit ? »
+
+<!-- lesson-plan:evidence -->
+**Étude des preuves — 12 minutes :** lire les quatre hadiths en s'attardant particulièrement sur le hadith du songe et sur la question « Et les enfants des polythéistes ? », avec une brève discussion sur ce que signifie le fait que certains de ses détails restent matière à ijtihad.
+
+<!-- lesson-plan:instruction -->
+**Enseignement guidé — 10 minutes :** l'enseignant montre que l'ihtisab face à la perte d'un enfant n'est pas seulement le fait de supporter la douleur, mais un investissement dans une relation qui porte ses fruits en intercession et en retrouvailles, et que respecter la divergence des savants sur les détails ne diminue en rien la certitude de la justice et de la miséricorde d'Allah.
+
+<!-- lesson-plan:activity -->
+**Activité — 8 minutes :** réaliser l'activité « Ma propre lanterne » telle que décrite dans l'unité d'activité.
+
+<!-- lesson-plan:assessment -->
+**Évaluation et clôture — 5 minutes :** chaque élève écrit deux phrases résumant comment cette leçon changera sa manière de consoler ceux qui perdent un tout-petit.
+
+<!-- lesson-plan:differentiation -->
+**Différenciation :** pour ceux qui souhaitent une discussion plus approfondie, ajouter une brève présentation des positions d'an-Nawawi et d'Ibn Taymiyyah ; pour ceux qui préfèrent une méditation tranquille, se contenter de l'écriture personnelle, sans discussion collective.
+
+<!-- lesson-plan:safeguards -->
+**Précautions pédagogiques :** l'enseignant veille à ne jamais presser un adolescent de partager devant le groupe une expérience personnelle de deuil ; toute personne visiblement très éprouvée est orientée, après la rencontre, vers un échange individuel de soutien ; et la leçon ne doit jamais servir à se prononcer sur le sort d'un enfant précis.
 
 <!-- lesson-plan:end -->
 
@@ -312,11 +618,10 @@ Dans le long hadith bien connu du rêve de Samurah ibn Jundab (qu'Allah soit sat
 
 ## Références
 
-[^1]: Sahih Muslim et Musnad Ahmad, rapporté par Abu Hurayrah, qu'Allah soit satisfait de lui ; authentifié (sahih) par al-Albani dans *Silsilat al-Ahadith as-Sahihah* (1/174, n° 432), cité via : Umar Sulayman al-Ashqar, *al-Jannah wa an-Nar*, sixième section.
-[^2]: Sahih al-Bukhari, Livre de l'Interprétation des Rêves, au sein du long hadith du rêve de Samurah ibn Jundab, qu'Allah soit satisfait de lui ; partie pertinente citée via : Umar Sulayman al-Ashqar, *al-Jannah wa an-Nar*. Le numéro exact du hadith n'a pas pu être vérifié de manière indépendante sur sunnah.com lors de cette session de rédaction en raison d'une limitation d'accès réseau/outils ; un relecteur devrait confirmer la référence précise avant la publication finale.
-[^3]: Musnad Ahmad, Ibn Hibban et al-Hakim (qui l'a jugé sahih, avec l'accord d'adh-Dhahabi), rapporté d'Abu Hurayrah, qu'Allah soit satisfait de lui ; jugé hasan (bon) par al-Albani dans *Silsilat al-Ahadith as-Sahihah* (2/156, n° 603).
-[^4]: Umar Sulayman al-Ashqar, *al-Jannah wa an-Nar*, deuxième thème : Les enfants des polythéistes ; et Ibn Taymiyyah, *Majmu' al-Fatawa*. Le récit sur l'épreuve du feu fut rapporté par al-Bazzar d'après Anas et Abu Sa'id, qu'Allah soit satisfait d'eux, et par at-Tabarani d'après Mu'adh ibn Jabal, qu'Allah soit satisfait de lui.
-[^5]: Sahih al-Bukhari, rapporté d'Anas ibn Malik, qu'Allah soit satisfait de lui.
-[^6]: Musnad Ahmad, rapporté de Khansa bint Mu'awiyah d'après sa tante, qu'Allah soit satisfait d'elles, avec une chaîne hasan ; cité via : Umar Sulayman al-Ashqar, *al-Jannah wa an-Nar*.
+[^1]: Le Noble Coran, sourate at-Tur, verset 21 : [texte coranique](https://quran.com/52/21).
+[^2]: Le hadith « Le Calame est levé pour trois personnes », rapporté par 'A'ishah, qu'Allah soit satisfait d'elle ; recueilli par Abu Dawud, at-Tirmidhi, an-Nasa'i et Ibn Majah, et jugé authentique par de nombreux savants en raison de la multiplicité de ses voies de transmission (dont l'une est également rapportée d'après 'Ali ibn Abi Talib, qu'Allah soit satisfait de lui) : [Sunnah.com, Sunan Abi Dawud, Livre des peines légales](https://sunnah.com/abudawud/40).
+[^3]: Le hadith « Il n'est pas un musulman qui perde trois enfants », rapporté par Anas ibn Malik, qu'Allah soit satisfait de lui ; hadith unanimement reconnu (*muttafaq 'alayh* : Sahih al-Bukhari et Sahih Muslim) : [Sunnah.com, Sahih al-Bukhari](https://sunnah.com/bukhari), [Sahih Muslim](https://sunnah.com/muslim).
+[^4]: Le hadith « Leurs petits sont les *da'amis* de la Jannah », rapporté par Abu Hurayrah, qu'Allah soit satisfait de lui ; il est bien connu dans les recueils consacrés aux mérites et transmis d'après le Musnad de l'imam Ahmad ibn Hanbal, et cheikh al-Albani, qu'Allah lui fasse miséricorde, l'a jugé authentique dans *Silsilat al-Ahadith as-Sahihah* : [Sunnah.com, Musnad Ahmad](https://sunnah.com/ahmad). **Note documentaire :** il n'a pas été possible de vérifier directement le numéro exact de ce hadith dans la numérotation de Sunnah.com pendant la préparation, en raison de pannes répétées des outils d'accès au réseau ; le relecteur est prié de confirmer ce numéro avant la publication définitive.
+[^5]: Le long hadith du songe rapporté par Samurah ibn Jundab, qu'Allah soit satisfait de lui, recueilli par l'imam al-Bukhari dans son Sahih, Livre de l'interprétation des rêves (*Kitab at-Ta'bir*) ; le passage pertinent (la scène du jardin, d'Ibrahim, paix sur lui, et des enfants des gens, ainsi que la question « Et les enfants des polythéistes ? ») est cité ici d'après ce qu'en rapporte le Dr 'Umar Sulayman al-Ashqar dans son ouvrage *al-Jannah wa an-Nar* (chapitre consacré aux enfants des musulmans et des polythéistes). **Note documentaire importante :** en raison de pannes répétées des outils d'accès au réseau pendant la préparation, nous n'avons pas pu vérifier directement le numéro de ce hadith dans la numérotation de Sunnah.com ; il est donc cité ici par l'intermédiaire de la référence secondaire du Dr al-Ashqar, et non par une vérification directe dans la source originale. Le relecteur savant doit fixer le numéro exact et s'assurer que le libellé cité ici correspond parfaitement à celui de Sahih al-Bukhari avant que cette leçon ne soit approuvée pour la publication définitive.
 
 <!-- references:end -->
