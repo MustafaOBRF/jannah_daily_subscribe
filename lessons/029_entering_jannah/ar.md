@@ -29,7 +29,7 @@ bedtime_dua_id: "lesson.029.dua.saved-cleared-entered"
 
 ## القسم الأكاديمي للبالغين
 
-<!-- reader:start audience="adults" estimated_minutes="6.5" -->
+<!-- reader:start audience="adults" estimated_minutes="7.0" -->
 
 <!-- unit:start id="adults.explanation" kind="explanation" -->
 
@@ -53,7 +53,7 @@ bedtime_dua_id: "lesson.029.dua.saved-cleared-entered"
 
 #### التفسير العلمي
 
-أصحاب الشجرة هم الذين بايعوا النبي صلى الله عليه وسلم تحت الشجرة يوم الحديبية، وهي بيعة الرضوان. قال النووي: معناه لا يدخلها أحد منهم قطعًا، وإنما قال "إن شاء الله" للتبرك لا للشك. وقال: في الحديث دليل للمناظرة والاعتراض والجواب على وجه الاسترشاد، وهو مقصود حفصة، لا أنها أرادت ردّ مقالته صلى الله عليه وسلم. وقرّر أن الصحيح في معنى الورود أنه المرور على الصراط، وهو جسر منصوب على جهنم، فيقع فيها أهلها وينجو الآخرون.[^7]
+أصحاب الشجرة هم الذين بايعوا النبي صلى الله عليه وسلم تحت الشجرة يوم الحديبية، وهي بيعة الرضوان. نقل النووي عن العلماء أن معناه: لا يدخلها أحد منهم قطعًا، وأنه إنما قال "إن شاء الله" للتبرك لا للشك. وقال: في الحديث دليل للمناظرة والاعتراض والجواب على وجه الاسترشاد، وهو مقصود حفصة، لا أنها أرادت ردّ مقالته صلى الله عليه وسلم. وقرّر أن الصحيح في معنى الورود أنه المرور على الصراط، وهو جسر منصوب على جهنم، فيقع فيها أهلها وينجو الآخرون.[^7]
 
 #### شرح الدرس
 
@@ -173,7 +173,7 @@ bedtime_dua_id: "lesson.029.dua.saved-cleared-entered"
 
 ## للأطفال من ٤ إلى ٧ سنوات
 
-<!-- reader:start audience="4-7" estimated_minutes="4.0" -->
+<!-- reader:start audience="4-7" estimated_minutes="4.5" -->
 
 <!-- unit:start id="4-7.explanation" kind="explanation" -->
 
@@ -251,7 +251,7 @@ bedtime_dua_id: "lesson.029.dua.saved-cleared-entered"
 
 ## للأطفال من ٨ إلى ١٢ سنة
 
-<!-- reader:start audience="8-12" estimated_minutes="5.0" -->
+<!-- reader:start audience="8-12" estimated_minutes="5.5" -->
 
 <!-- unit:start id="8-12.explanation" kind="explanation" -->
 

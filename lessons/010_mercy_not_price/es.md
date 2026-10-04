@@ -22,26 +22,26 @@ bedtime_dua_id: "lesson.010.dua.mercy-deeds-jannah"
 Al terminar esta lección, el estudiante será capaz de:
 
 - Distinguir entre la obra como causa ordenada por Allah y la idea errónea de verla como un precio equivalente a la Jannah o un derecho que el siervo impone a su Señor.
-- Conciliar las aleyas `fadlan min rabbik` (ad-Dukhan) y `bima kuntum ta'maloon` (al-A'raf) sin contradicción, mostrando que la letra «con» en cada una expresa causalidad, no compraventa.
-- Narrar el hadiz «Sean moderados, sean rectos y alégrense» y explicar que nadie se salva solo por su obra, ni siquiera el Profeta, que la paz y las bendiciones de Allah sean con él, sino por la misericordia y la gracia de Allah.
-- Reconocer los tres males del corazón de los que protege esta comprensión: la vanidad, el abandono de la obra, y la desesperanza; e identificar cada uno en una frase o situación dada.
+- Conciliar las aleyas `fadlan min rabbik` (ad-Dukhan) y `bima kuntum ta'malun` (al-A'raf) sin contradicción, mostrando que la partícula *bi-* («por») en cada una expresa causalidad, no compraventa.
+- Narrar el hadiz «Acérquense y procuren acertar» y explicar que nadie se salva solo por su obra, ni siquiera el Profeta, que la paz y las bendiciones de Allah sean con él, sino por la misericordia y la gracia de Allah.
+- Reconocer los tres males del corazón de los que protege esta comprensión: la vanidad, el abandono de la obra y la desesperanza, e identificar cada uno en una frase o situación dada.
 - Clasificar una afirmación sobre las obras y la Jannah como correcta, incompleta o errónea, y corregir la incompleta o errónea apoyándose en uno de los tres textos.
 
 ## Sección Académica para Adultos
 
-<!-- reader:start audience="adults" estimated_minutes="6.0" -->
+<!-- reader:start audience="adults" estimated_minutes="6.5" -->
 
 <!-- unit:start id="adults.explanation" kind="explanation" -->
 
-La revelación une dos verdades que no se contradicen: Allah vincula la recompensa con las buenas obras, y el Profeta, que la paz y las bendiciones de Allah sean con él, enseña que nadie se salva por su obra de manera independiente de la misericordia de Allah. La obra es **una causa ordenada**, no un precio equivalente a la Jannah ni un derecho que el siervo impone a su Señor. El origen de la salvación, la entrada y el deleite es la gracia y la misericordia de Allah.
+La revelación une dos verdades que no se contradicen: Allah vincula la recompensa con las buenas obras, y el Profeta, que la paz y las bendiciones de Allah sean con él, enseña que nadie se salva por su obra con independencia de la misericordia de Allah. La obra es **una causa ordenada**, no un precio equivalente a la Jannah ni un derecho que el siervo impone a su Señor. En cambio, el origen de la salvación, de la entrada en la Jannah y del deleite está en la gracia y la misericordia de Allah.
 
 Esta comprensión protege el corazón de tres desviaciones:
 
-1. **La vanidad:** el que obra no dice: «Merecí la Jannah por mi fuerza y la abundancia de mis obras.»
-2. **El abandono de la obra:** el negligente no dice: «Si la Jannah es por la misericordia de Allah, no hace falta obedecer»; el hadiz mismo comienza ordenando la rectitud y la moderación.
-3. **La desesperanza:** el pecador arrepentido no cree que su descuido cerró la puerta de la esperanza; corrige lo que puede, se arrepiente, y confía en la misericordia de Allah sin sentirse a salvo ni caer en la soberbia.
+1. **La vanidad:** el que obra no dice: «Merecí la Jannah por mi fuerza y la abundancia de mis obras».
+2. **El abandono de la obra:** el negligente no dice: «Si la Jannah es por la misericordia de Allah, no hace falta obedecer»; el propio hadiz comienza ordenando procurar acertar y acercarse a lo correcto.
+3. **La desesperanza:** el pecador arrepentido no cree que su descuido cerró la puerta de la esperanza; corrige lo que puede, se arrepiente y confía en la misericordia de Allah, sin creerse a salvo ni dejarse engañar.
 
-`As-sadad` es buscar lo correcto y la rectitud, y `al-muqaraba` es esforzarse al máximo cuando el ser humano no alcanza la perfección. Por eso el Islam no exige una obra infalible, ni acepta abandonar la obra en nombre de la esperanza; exige sinceridad de intención, esfuerzo constante y necesidad de Allah.
+`As-sadad` es buscar lo correcto y la rectitud, y `al-muqaraba` es esforzarse al máximo cuando el ser humano no alcanza la perfección. Por eso el Islam no exige una obra infalible, ni acepta abandonar la obra en nombre de la esperanza; exige una orientación sincera, un esfuerzo constante y sentirse necesitado de Allah.
 
 <!-- unit:end -->
 
@@ -53,7 +53,7 @@ Esta comprensión protege el corazón de tres desviaciones:
 
 ### La Gracia de Allah en la Plenitud del Triunfo
 
-> **إِنَّ الْمُتَّقِينَ فِي مَقَامٍ أَمِينٍ ۝ فِي جَنَّاتٍ وَعُيُونٍ ۝ يَلْبَسُونَ مِنْ سُنْدُسٍ وَإِسْتَبْرَقٍ مُتَقَابِلِينَ ۝ كَذَٰلِكَ وَزَوَّجْنَاهُمْ بِحُورٍ عِينٍ ۝ يَدْعُونَ فِيهَا بِكُلِّ فَاكِهَةٍ آمِنِينَ ۝ لَا يَذُوقُونَ فِيهَا الْمَوْتَ إِلَّا الْمَوْتَةَ الْأُولَىٰ وَوَقَاهُمْ عَذَابَ الْجَحِيمِ ۝ فَضْلًا مِنْ رَبِّكَ ۚ ذَٰلِكَ هُوَ الْفَوْزُ الْعَظِيمُ.** [الدخان: ٥١-٥٧]
+> **إِنَّ الْمُتَّقِينَ فِي مَقَامٍ أَمِينٍ ۝ فِي جَنَّاتٍ وَعُيُونٍ ۝ يَلْبَسُونَ مِنْ سُنْدُسٍ وَإِسْتَبْرَقٍ مُتَقَابِلِينَ ۝ كَذَٰلِكَ وَزَوَّجْنَاهُمْ بِحُورٍ عِينٍ ۝ يَدْعُونَ فِيهَا بِكُلِّ فَاكِهَةٍ آمِنِينَ ۝ لَا يَذُوقُونَ فِيهَا الْمَوْتَ إِلَّا الْمَوْتَةَ الْأُولَىٰ ۖ وَوَقَاهُمْ عَذَابَ الْجَحِيمِ ۝ فَضْلًا مِنْ رَبِّكَ ۚ ذَٰلِكَ هُوَ الْفَوْزُ الْعَظِيمُ.** [الدخان: ٥١-٥٧]
 
 <!-- evidence:translation -->
 
@@ -77,15 +77,15 @@ Las aleyas mencionan primero el temor de Allah, y luego atribuyen la plenitud de
 
 <!-- evidence:translation -->
 
-> «Y arrancaremos todo rencor de sus pechos; correrán ríos bajo ellos, y dirán: "¡Alabado sea Allah, que nos guió a esto! No habríamos hallado la guía si Allah no nos hubiera guiado. Ciertamente vinieron los mensajeros de nuestro Señor con la verdad." Y se les llamará: "**Esa es la Jannah que heredáis por lo que solíais hacer.**"» [al-A'raf: 43][^3]
+> «Y arrancaremos todo rencor de sus pechos; correrán ríos bajo ellos, y dirán: "¡Alabado sea Allah, que nos guió a esto! No habríamos hallado la guía si Allah no nos hubiera guiado. Ciertamente vinieron los mensajeros de nuestro Señor con la verdad." Y se les llamará: "**Esa es la Jannah que han heredado por lo que solían hacer.**"» [al-A'raf: 43][^3]
 
 #### Explicación Académica
 
-La aleya confirma el efecto de la obra, pero comienza con el reconocimiento de la gente de la Jannah de que la guía viene de Allah. Los sabios explicaron que la partícula en `bima kuntum ta'maloon` («por lo que solíais hacer») expresa causalidad: entraron a causa de obras a las que Allah los guió y que aceptó de ellos, no porque la obra sea un precio independiente que se equipare a la Jannah.[^4]
+La aleya confirma el efecto de la obra, pero comienza con el reconocimiento de la gente de la Jannah de que la guía viene de Allah. Los sabios explicaron que la partícula *bi-* de `bima kuntum ta'malun` («por lo que solían hacer») expresa causalidad: entraron a causa de obras a las que Allah los guió y que aceptó de ellos, no porque la obra sea un precio independiente que se equipare a la Jannah.[^4]
 
 #### Explicación de la Lección
 
-El siervo obra de verdad, es juzgado por su elección, y espera la recompensa; pero sabe que la guía hacia la obra, la perseverancia en ella, su aceptación y la salvación por ella son todo gracia de Allah.
+El siervo obra de verdad, rinde cuentas de su elección y espera la recompensa; pero sabe que la guía hacia la obra, la perseverancia en ella, su aceptación y la salvación por ella son, todo ello, gracia de Allah.
 
 <!-- evidence:end -->
 
@@ -93,19 +93,19 @@ El siervo obra de verdad, es juzgado por su elección, y espera la recompensa; p
 
 ### La Rectitud Junto a la Necesidad de la Misericordia
 
-> عَنْ أَبِي هُرَيْرَةَ رضي الله عنه قَالَ: قَالَ رَسُولُ اللهِ صلى الله عليه وسلم: **«قَارِبُوا وَسَدِّدُوا وَأَبْشِرُوا، وَاعْلَمُوا أَنَّهُ لَنْ يَنْجُوَ أَحَدٌ مِنْكُمْ بِعَمَلِهِ». قَالُوا: يَا رَسُولَ اللهِ، وَلَا أَنْتَ؟ قَالَ: «وَلَا أَنَا، إِلَّا أَنْ يَتَغَمَّدَنِيَ اللهُ بِرَحْمَةٍ مِنْهُ وَفَضْلٍ».**
+> عَنْ أَبِي هُرَيْرَةَ رضي الله عنه قَالَ: قَالَ رَسُولُ اللهِ صلى الله عليه وسلم: **«قَارِبُوا وَسَدِّدُوا، وَاعْلَمُوا أَنَّهُ لَنْ يَنْجُوَ أَحَدٌ مِنْكُمْ بِعَمَلِهِ». قَالُوا: يَا رَسُولَ اللهِ، وَلَا أَنْتَ؟ قَالَ: «وَلَا أَنَا، إِلَّا أَنْ يَتَغَمَّدَنِيَ اللهُ بِرَحْمَةٍ مِنْهُ وَفَضْلٍ».**
 
 <!-- evidence:translation -->
 
-> Narró Abu Hurayrah, que Allah esté complacido con él, que el Mensajero de Allah, que la paz y las bendiciones de Allah sean con él, dijo: **«Sean moderados, sean rectos y alégrense, y sepan que ninguno de ustedes se salvará solo por su obra.»** Dijeron: «¿Ni siquiera tú, Mensajero de Allah?» Dijo: **«Ni siquiera yo, a menos que Allah me cubra con Su misericordia y Su gracia.»**[^5]
+> Narró Abu Hurayrah, que Allah esté complacido con él, que el Mensajero de Allah, que la paz y las bendiciones de Allah sean con él, dijo: **«Acérquense y procuren acertar, y sepan que ninguno de ustedes se salvará por su obra».** Dijeron: «¿Ni siquiera tú, Mensajero de Allah?» Dijo: **«Ni siquiera yo, a menos que Allah me cubra con Su misericordia y Su gracia».**[^5]
 
 #### Explicación Académica
 
-El hadiz une la orden de obrar, la moderación y la buena noticia con la negación de que la obra por sí sola salve. Ibn al-Qayyim explicó que la partícula negada aquí expresa compraventa, como si la obra fuera un precio equivalente a la Jannah, mientras que la partícula afirmada en las aleyas expresa causalidad.[^4]
+El hadiz une la orden de obrar y la moderación con la negación de que la obra por sí sola salve. Ibn al-Qayyim explicó que la partícula *bi-* negada en el hadiz expresa compraventa, como si la obra fuera un precio equivalente a la Jannah, mientras que la partícula afirmada en las aleyas expresa causalidad.[^4]
 
 #### Explicación de la Lección
 
-La pregunta de los compañeros, «¿Ni siquiera tú?», corta el camino a la soberbia; si el Mensajero de Allah, que la paz y las bendiciones de Allah sean con él, el más perfecto en adoración, necesita la misericordia de Allah, con más razón cualquier otro. Y aun así no les dijo que abandonaran la obra, sino: `Sean moderados, sean rectos y alégrense`.
+La pregunta de los compañeros, «¿Ni siquiera tú?», cierra el paso al engreimiento: si el Mensajero de Allah, que la paz y las bendiciones de Allah sean con él, el más perfecto en adoración, necesita la misericordia de Allah, con mayor razón la necesitan los demás. Y aun así no les dijo que abandonaran la obra, sino: `Acérquense y procuren acertar`.
 
 <!-- evidence:end -->
 
@@ -115,10 +115,10 @@ La pregunta de los compañeros, «¿Ni siquiera tú?», corta el camino a la sob
 
 ## Preguntas para la Comprensión y la Reflexión
 
-1. ¿Cómo concilian los textos `bima kuntum ta'maloon` y `fadlan min rabbik`?
+1. ¿Cómo concilian los textos `bima kuntum ta'malun` y `fadlan min rabbik`?
 2. ¿Cuál es la diferencia entre la obra como causa y la obra como precio?
 3. ¿Cómo responde el hadiz a la vez a la vanidad, al abandono de la obra y a la desesperanza?
-4. ¿En qué obra necesitas mayor rectitud junto con una necesidad más clara de Allah?
+4. ¿En qué obra necesitas mayor rectitud junto con una conciencia más clara de tu necesidad de Allah?
 
 <!-- unit:end -->
 
@@ -128,7 +128,7 @@ La pregunta de los compañeros, «¿Ni siquiera tú?», corta el camino a la sob
 
 <!-- activity:start audience="adults" concept_id="lesson.010.activity.claim-classify-repair" -->
 
-Clasifica las siguientes seis afirmaciones como **correcta**, **incompleta** o **errónea**: (1) «La obra no vale nada, ya que la entrada es por la misericordia de Allah»; (2) «La abundancia de mi adoración me da un derecho sobre Allah a la Jannah»; (3) «Obro porque Allah me lo ordenó, y espero Su aceptación y misericordia»; (4) «Las obras son causa para entrar en la Jannah»; (5) «Allah es misericordioso, así que no hay prisa por arrepentirse»; (6) «Mi guía hacia la obra es una bendición, y soy responsable de mi elección y debo perseverar». Vincula cada juicio con una prueba de los tres textos, y reformula cada afirmación incompleta o errónea en una frase que una la causa y la gracia.
+Clasifica las siguientes seis afirmaciones como **correcta**, **incompleta** o **errónea**: (1) «La obra no vale nada, ya que la entrada es por la misericordia de Allah»; (2) «Lo mucho que adoro me da ante Allah un derecho a la Jannah»; (3) «Obro porque Allah me lo ordenó, y espero Su aceptación y misericordia»; (4) «Las obras son causa para entrar en la Jannah»; (5) «Allah es misericordioso, así que no hay prisa por arrepentirse»; (6) «Mi guía hacia la obra es una bendición, y soy responsable de mi elección y debo perseverar». Vincula cada juicio con una prueba de los tres textos, y reformula cada afirmación incompleta o errónea en una frase que una la causa y la gracia.
 
 <!-- activity:end -->
 
@@ -136,13 +136,13 @@ Clasifica las siguientes seis afirmaciones como **correcta**, **incompleta** o *
 
 <!-- reader:end -->
 
-<!-- reader:start audience="4-7" estimated_minutes="5.5" -->
+<!-- reader:start audience="4-7" estimated_minutes="5.0" -->
 
 <!-- unit:start id="4-7.explanation" kind="explanation" -->
 
 ## Para Niños de 4 a 7 Años
 
-Rezamos, decimos la verdad y somos amables con la gente porque Allah ama las buenas obras. Pero nuestras obras no compran la Jannah como compramos un juguete. La Jannah es más grande que todo lo que podamos hacer, y Allah hace entrar a Sus siervos en la Jannah por Su misericordia y Su gracia. Por eso decimos: **hago el bien, pido la misericordia de Allah, y no me presumo a mí mismo.**
+Rezamos, decimos la verdad y somos amables con la gente porque Allah ama las buenas obras. Pero nuestras obras no compran la Jannah como compramos un juguete. La Jannah es más grande que todo lo que podamos hacer, y Allah hace entrar a Sus siervos en la Jannah por Su misericordia y Su gracia. Por eso decimos: **hago el bien, pido la misericordia de Allah y no presumo de mí mismo.**
 
 <!-- unit:end -->
 
@@ -158,7 +158,7 @@ Un viernes por la mañana, Adam fue con su familia al centro del barrio para lle
 
 Miró la cajita de su hermana pequeña y dijo: «¡Yo hice más, así que soy mejor!» Su padre le preguntó con dulzura: «¿Y quién nos dio la comida? ¿Quién te dio la fuerza? ¿Quién nos enseñó a ser compasivos?» Adam se quedó callado un momento, y luego vio a un niño más pequeño que no podía levantar una lata, así que lo ayudó en vez de seguir contando sus propias obras.
 
-Al volver a casa, Adam dijo: «Estoy feliz de que Allah nos haya ayudado a hacer el bien. Seguiré trabajando, y le pediré que acepte de nosotros y nos tenga misericordia.» Aprendió que la buena obra es importante, pero es una bendición de Allah, no un precio con el que se compra la Jannah.
+Al volver a casa, Adam dijo: «Estoy feliz de que Allah nos haya ayudado a hacer el bien. Seguiré haciéndolo y le pediré que acepte lo que hicimos y que tenga misericordia de nosotros». Aprendió que la buena obra es importante, pero es una bendición de Allah, no un precio con el que se compra la Jannah.
 
 <!-- story:end -->
 
@@ -172,9 +172,9 @@ Al volver a casa, Adam dijo: «Estoy feliz de que Allah nos haya ayudado a hacer
 
 <!-- retelling:start source_id="muslim-2816c" audience="4-7" -->
 
-El Profeta, que la paz y las bendiciones de Allah sean con él, dijo a sus compañeros: intenten hacer lo correcto, acérquense a ello, y alégrense con la buena noticia de Allah. Luego les enseñó que la obra sola no salva al ser humano sin la misericordia de Allah. Le preguntaron: «¿Ni siquiera tú, Mensajero de Allah?» Y él dijo que ni siquiera él se salva a menos que Allah lo cubra con Su misericordia y Su gracia.[^5]
+El Profeta, que la paz y las bendiciones de Allah sean con él, dijo a sus compañeros: intenten hacer lo correcto y acérquense a ello. Luego les enseñó que la obra sola no salva al ser humano sin la misericordia de Allah. Le preguntaron: «¿Ni siquiera tú, Mensajero de Allah?» Y él dijo que ni siquiera él se salva a menos que Allah lo cubra con Su misericordia y Su gracia.[^5]
 
-Esto no significa que dejemos la oración y el bien; el Profeta, que la paz y las bendiciones de Allah sean con él, comenzó ordenando la obra correcta. Así que obramos, y si nos equivocamos, nos arrepentimos e intentamos de nuevo, y nuestros corazones saben que la gracia es de Allah.
+Esto no significa que dejemos la oración y el bien; el Profeta, que la paz y las bendiciones de Allah sean con él, comenzó mandando obrar bien. Así que obramos, y si nos equivocamos, nos arrepentimos e intentamos de nuevo, y nuestros corazones saben que la gracia es de Allah.
 
 <!-- retelling:end -->
 
@@ -213,7 +213,7 @@ El adulto muestra dos tarjetas ilustradas: «Hago el bien y pido la misericordia
 **Du'a temático redactado para esta lección, y no atribuido al Profeta, que la paz y las bendiciones de Allah sean con él.**
 
 > اللَّهُمَّ تَغَمَّدْنِي بِرَحْمَتِكَ، وَأَعِنِّي عَلَى الْعَمَلِ الصَّالِحِ، وَأَدْخِلْنِي الْجَنَّةَ بِفَضْلِكَ.
-> «Oh Allah, cúbreme con Tu misericordia, ayúdame a hacer las obras rectas, e introdúceme en la Jannah por Tu gracia.»
+> «Oh Allah, cúbreme con Tu misericordia, ayúdame a hacer buenas obras y hazme entrar en la Jannah por Tu gracia».
 
 <!-- bedtime-dua:end -->
 
@@ -227,7 +227,7 @@ El adulto muestra dos tarjetas ilustradas: «Hago el bien y pido la misericordia
 
 ## Para Niños de 8 a 12 Años
 
-Algunos podrían pensar que la abundancia de sus buenas obras les da un derecho garantizado a la Jannah, y otros podrían pensar que la misericordia de Allah significa que pueden dejar de rezar o de decir la verdad. Ambas ideas están equivocadas. Las obras son causas que Allah nos ordenó, pero la guía hacia ellas, la capacidad de hacerlas y su aceptación son todo gracia Suya, y la entrada a la Jannah es por Su misericordia.
+Algunos podrían pensar que la abundancia de sus buenas obras les da un derecho garantizado a la Jannah, y otros podrían pensar que la misericordia de Allah significa que pueden dejar de rezar o de decir la verdad. Ambas ideas están equivocadas. Las obras son causas que Allah nos ordenó, pero la guía hacia ellas, la capacidad de hacerlas y su aceptación son, todo ello, gracia Suya, y la entrada a la Jannah es por Su misericordia.
 
 Imagina a un estudiante que aprobó porque su maestro le enseñó, su familia lo ayudó, y luego él mismo hizo un esfuerzo real. No sería correcto que negara su esfuerzo, ni que olvidara todo lo que recibió. El ejemplo es limitado; la misericordia y la gracia de Allah son mucho más grandes, y nada de lo que dan los humanos se les parece.
 
@@ -241,11 +241,11 @@ Imagina a un estudiante que aprobó porque su maestro le enseñó, su familia lo
 
 **Esta es una historia educativa imaginada, no un hadiz ni un relato histórico.**
 
-Yasir participó en la campaña escolar para preparar canastas de alimentos. Su meta era servir a las familias y animar a sus compañeros, pero empezó a escribir junto a cada nombre el número de latas que había reunido. Cuando encabezó la lista, le dijo a su amigo: «Soy el que más bien ha hecho aquí.» Luego vio a un compañero que solo había reunido dos latas, y pensó que no le importaba la campaña.
+Yasir participó en la campaña escolar para preparar canastas de alimentos. Su meta era servir a las familias y animar a sus compañeros, pero empezó a escribir junto a cada nombre el número de latas que cada uno había reunido. Cuando encabezó la lista, le dijo a su amigo: «Soy el que más bien ha hecho aquí». Luego vio a un compañero que solo había reunido dos latas, y pensó que no le importaba la campaña.
 
 La maestra preguntó al grupo: «¿Quién les dio el dinero, la salud y el tiempo? ¿Quién los guió hacia esta obra? ¿Y sabemos acaso qué obra es aceptada ante Allah?» Yasir recordó que ese compañero se había quedado después de la hora de salida para ayudar a cargar las cajas, sin anotar su nombre.
 
-Yasir se disculpó con él, borró el orden de los nombres, e hizo que el cartel mostrara la necesidad del proyecto en vez de la competencia entre personas. Siguió trabajando con entusiasmo, pero ahora decía: «Alabado sea Allah que nos ayudó, y le pedimos aceptación y misericordia.» Aprendió que la buena obra es una responsabilidad y una causa para el bien, no una factura que le da un derecho sobre Allah ni un medio para despreciar a otros.
+Yasir se disculpó con él, borró la clasificación e hizo que el cartel mostrara lo que necesitaba el proyecto en vez de una competencia entre personas. Siguió trabajando con entusiasmo, pero ahora decía: «Alabado sea Allah, que nos ayudó; le pedimos aceptación y misericordia». Aprendió que la buena obra es una responsabilidad y una causa para el bien, no una factura que le da un derecho sobre Allah ni un medio para despreciar a otros.
 
 <!-- story:end -->
 
@@ -259,9 +259,9 @@ Yasir se disculpó con él, borró el orden de los nombres, e hizo que el cartel
 
 <!-- retelling:start source_id="muslim-2816c" audience="8-12" -->
 
-El Profeta, que la paz y las bendiciones de Allah sean con él, orientó a sus compañeros hacia tres cosas: buscar lo correcto, esforzarse al máximo por acercarse a ello, y alegrarse con buenas noticias. Luego les informó que nadie se salva solo por su obra. La siguiente pregunta fue importante: «¿Ni siquiera tú, Mensajero de Allah?» Respondió que ni siquiera él se salva a menos que Allah lo cubra con Su misericordia y Su gracia.[^5]
+El Profeta, que la paz y las bendiciones de Allah sean con él, orientó a sus compañeros hacia dos cosas: buscar lo correcto y esforzarse al máximo por acercarse a ello. Luego les dijo que nadie se salva solo por su obra. La siguiente pregunta fue importante: «¿Ni siquiera tú, Mensajero de Allah?» Respondió que ni siquiera él se salva a menos que Allah lo cubra con Su misericordia y Su gracia.[^5]
 
-Se ve en el orden del hadiz que la misericordia de Allah no es excusa para la pereza, pues la orden de rectitud vino junto con la noticia de la misericordia. Y se ve en la respuesta del Profeta, que la paz y las bendiciones de Allah sean con él, que la abundancia de adoración no es motivo de soberbia. La conclusión correcta es: **me esfuerzo, me arrepiento de mis descuidos, y espero la misericordia de Allah.**
+Se ve en el orden del hadiz que la misericordia de Allah no es excusa para la pereza, pues la orden de rectitud vino junto con la noticia de la misericordia. Y se ve en la respuesta del Profeta, que la paz y las bendiciones de Allah sean con él, que adorar mucho no es motivo de engreimiento. La conclusión correcta es: **me esfuerzo, me arrepiento de mis descuidos, y espero la misericordia de Allah.**
 
 <!-- retelling:end -->
 
@@ -298,7 +298,7 @@ Se ve en el orden del hadiz que la misericordia de Allah no es excusa para la pe
 
 <!-- activity:start audience="8-12" concept_id="lesson.010.activity.claim-classify-repair" -->
 
-Clasifica cinco tarjetas: «No sirve de nada obrar»; «Entro en la Jannah porque mis buenas obras equivalen a su precio»; «Obro porque Allah me lo ordenó y espero Su misericordia»; «Las obras son causa para entrar en la Jannah»; «Me basta con desear el bien». Coloca cada tarjeta bajo **correcta**, **incompleta** o **errónea**; la cuarta es correcta en su origen pero necesita aclarar que la causa no es independiente de la gracia de Allah. Corrige las afirmaciones incorrectas, completa la incompleta, y escribe bajo una de ellas una prueba breve del hadiz.
+Clasifica cinco tarjetas: «No sirve de nada obrar»; «Entro en la Jannah porque mis buenas obras equivalen a su precio»; «Obro porque Allah me lo ordenó y espero Su misericordia»; «Las obras son causa para entrar en la Jannah»; «Me basta con desear el bien». Coloca cada tarjeta bajo **correcta**, **incompleta** o **errónea**; la cuarta es correcta en su origen pero necesita aclarar que la causa no es independiente de la gracia de Allah. Corrige las afirmaciones erróneas, completa la incompleta y escribe bajo una de ellas una prueba breve del hadiz.
 
 <!-- activity:end -->
 
@@ -313,7 +313,7 @@ Clasifica cinco tarjetas: «No sirve de nada obrar»; «Entro en la Jannah porqu
 **Du'a temático redactado para esta lección, y no atribuido al Profeta, que la paz y las bendiciones de Allah sean con él.**
 
 > اللَّهُمَّ تَغَمَّدْنِي بِرَحْمَتِكَ، وَأَعِنِّي عَلَى الْعَمَلِ الصَّالِحِ، وَأَدْخِلْنِي الْجَنَّةَ بِفَضْلِكَ.
-> «Oh Allah, cúbreme con Tu misericordia, ayúdame a hacer las obras rectas, e introdúceme en la Jannah por Tu gracia.»
+> «Oh Allah, cúbreme con Tu misericordia, ayúdame a hacer buenas obras y hazme entrar en la Jannah por Tu gracia».
 
 <!-- bedtime-dua:end -->
 
@@ -321,7 +321,7 @@ Clasifica cinco tarjetas: «No sirve de nada obrar»; «Entro en la Jannah porqu
 
 <!-- reader:end -->
 
-<!-- reader:start audience="13+" estimated_minutes="6.5" -->
+<!-- reader:start audience="13+" estimated_minutes="6.0" -->
 
 <!-- unit:start id="13+.explanation" kind="explanation" -->
 
@@ -329,7 +329,7 @@ Clasifica cinco tarjetas: «No sirve de nada obrar»; «Entro en la Jannah porqu
 
 El problema de «la obra y el precio» aparece hoy de varias formas. Una persona puede comparar su adoración con la de otros y sentirse más merecedora de aceptación, o abandonar el esfuerzo con el pretexto de que Allah es misericordioso, o desesperarse porque su pasado está lleno de descuidos. La revelación corrige las tres imágenes: ni merecimiento soberbio, ni esperanza perezosa, ni arrepentimiento desesperado.
 
-La aleya de al-A'raf dice que la gente de la Jannah alabó a Allah por Su guía antes de escuchar: `uritumuha bima kuntum ta'maloon` («la heredaron por lo que solían hacer»). Y las aleyas de ad-Dukhan dicen que el triunfo grandioso es `fadlan min rabbik` («por gracia de tu Señor»). El acto humano es real y responsable, pero está rodeado de una gracia previa: la guía, la capacidad, el ocultamiento de las faltas, el arrepentimiento y la aceptación.
+La aleya de al-A'raf dice que la gente de la Jannah alabó a Allah por Su guía antes de escuchar: `uriztumuha bima kuntum ta'malun` («la han heredado por lo que solían hacer»). Y las aleyas de ad-Dukhan dicen que el triunfo grandioso es `fadlan min rabbik` («por gracia de tu Señor»). El acto humano es real y responsable, pero está rodeado de una gracia previa: la guía, la capacidad, el ocultamiento de las faltas, el arrepentimiento y la aceptación.
 
 <!-- unit:end -->
 
@@ -341,11 +341,11 @@ La aleya de al-A'raf dice que la gente de la Jannah alabó a Allah por Su guía 
 
 **Esta es una historia educativa imaginada, no un hadiz ni un relato histórico.**
 
-Zayd dirigió un equipo juvenil en una campaña de alimentos de dos semanas. Organizó los horarios, se comunicó con los donantes, y se quedaba después de que los demás se iban para ordenar las cajas. Al terminar la campaña, escribió una publicación con las cifras, y la cerró con una frase que sugería que este logro probaba su posición ante Allah. Empezó a seguir los «me gusta» y a comparar sus horas de trabajo con las de sus compañeros.
+Zayd dirigió un equipo juvenil en una campaña de alimentos de dos semanas. Organizó los horarios, se comunicó con los donantes y se quedaba después de que los demás se iban para ordenar las cajas. Al terminar la campaña, escribió una publicación con las cifras, y la cerró con una frase que sugería que este logro probaba su posición ante Allah. Empezó a estar pendiente de los «me gusta» y a comparar sus horas de trabajo con las de sus compañeros.
 
 Su supervisor leyó el borrador y le preguntó: «¿Puedes garantizar que tu obra será aceptada? ¿Quién te dio la idea, la salud, el tiempo y el equipo? ¿Acaso dos semanas de servicio equivalen a un deleite eterno?» Zayd sintió que la pregunta no anulaba su esfuerzo, pero revelaba lo que había entrado en su corazón: merecimiento y comparación.
 
-Cambió la publicación para agradecer al equipo y mencionar la necesidad de las familias, y borró el elogio a sí mismo. Al día siguiente volvió a completar la entrega en una tarea que no aparecería en fotos. No abandonó la obra por miedo a la ostentación, ni se atribuyó mérito por ella; siguió sirviendo, pidió perdón por su vanidad, y suplicó a Allah aceptación y misericordia.
+Cambió la publicación para agradecer al equipo y mencionar la necesidad de las familias, y borró el elogio a sí mismo. Al día siguiente volvió para terminar el reparto, en una tarea que no saldría en las fotos. No abandonó la obra por miedo a la ostentación, ni se atribuyó mérito por ella; siguió sirviendo, pidió perdón a Allah por su vanidad y le suplicó a Allah aceptación y misericordia.
 
 <!-- story:end -->
 
@@ -353,15 +353,15 @@ Cambió la publicación para agradecer al equipo y mencionar la necesidad de las
 
 <!-- unit:start id="13+.authenticated-story" kind="authenticated_story" -->
 
-### Una Situación Profética que Derriba la Ilusión del Merecimiento
+### Un Episodio Profético que Derriba la Ilusión del Merecimiento
 
 <!-- story:start audience="13+" role="authenticated" type="hadith" source_id="muslim-2816c" authenticated="true" -->
 
 <!-- retelling:start source_id="muslim-2816c" audience="13+" -->
 
-En el hadiz de Abu Hurayrah, que Allah esté complacido con él, el Profeta, que la paz y las bendiciones de Allah sean con él, no ofreció una fórmula cómoda para ninguna de las dos posturas. Dijo: `Sean moderados, sean rectos y alégrense`, afirmando así el deber, el esfuerzo y la esperanza. Luego dijo que nadie se salvará por su obra, y los compañeros pasaron directamente al caso más fuerte imaginable: el propio Mensajero de Allah. Preguntaron: «¿Ni siquiera tú?» Y la respuesta llegó clara: «Ni siquiera yo, a menos que Allah me cubra con Su misericordia y Su gracia.»[^5]
+En el hadiz de Abu Hurayrah, que Allah esté complacido con él, el Profeta, que la paz y las bendiciones de Allah sean con él, no ofreció una fórmula cómoda para ninguna de las dos posturas. Dijo: `Acérquense y procuren acertar`, afirmando así el deber y el esfuerzo. Luego dijo que nadie se salvará por su obra, y los compañeros pasaron directamente al caso más extremo imaginable: el propio Mensajero de Allah. Preguntaron: «¿Ni siquiera tú?» Y la respuesta llegó clara: «Ni siquiera yo, a menos que Allah me cubra con Su misericordia y Su gracia».[^5]
 
-La pregunta y la respuesta impiden construir una identidad religiosa basada en la superioridad sobre los demás. La buena obra no da a su dueño licencia para despreciar a un pecador, así como la amplitud de la misericordia no da al pecador licencia para persistir en el pecado. El creyente ve su buena obra como un favor que necesita aceptación, y ve su falta como una puerta hacia un arrepentimiento sincero, no un argumento para la desesperanza.
+La pregunta y la respuesta impiden construir una identidad religiosa basada en la superioridad sobre los demás. La buena obra no da a quien la hace licencia para despreciar a un pecador, así como la amplitud de la misericordia no da al pecador licencia para persistir en el pecado. El creyente ve su buena obra como un don de Allah (*tawfiq*) que aún necesita ser aceptado, y ve su falta como una puerta hacia un arrepentimiento sincero, no un argumento para la desesperanza.
 
 <!-- retelling:end -->
 
@@ -373,8 +373,8 @@ La pregunta y la respuesta impiden construir una identidad religiosa basada en l
 
 <!-- terminology:start source_id="muslim-2816c" -->
 
-- **La causalidad** — indica que la obra es un camino y una causa sobre la que Allah dispuso la recompensa.
-- **La compraventa** — indica intercambiar una cosa por otra, como el precio de una mercancía; este es el sentido que se niega entre la obra y la Jannah.
+- **La *bi-* causal** (*ba' as-sababiyya*) — indica que la obra es un camino y una causa sobre la que Allah dispuso la recompensa.
+- **La *bi-* de compraventa** (*ba' al-mu'awada*) — indica intercambiar una cosa por otra, como el precio de una mercancía; este es el sentido que se niega entre la obra y la Jannah.
 - **La vanidad** — que el ser humano vea su obra con exaltación y olvide el favor de Allah y su propia insuficiencia.
 
 <!-- terminology:end -->
@@ -399,7 +399,7 @@ La pregunta y la respuesta impiden construir una identidad religiosa basada en l
 
 <!-- activity:start audience="13+" concept_id="lesson.010.activity.claim-classify-repair" -->
 
-Analiza tres casos: alguien que desprecia a otro por su adoración, alguien que aplaza el arrepentimiento confiando en la misericordia, y alguien desesperado porque su obra es escasa. Identifica la creencia errónea en cada caso, clasifícala como vanidad, abandono de la obra o desesperanza, y escribe una respuesta de dos líneas que use una prueba y una la obra con la necesidad de la misericordia.
+Analiza tres casos: alguien que desprecia a otro por su adoración, alguien que aplaza el arrepentimiento confiando en la misericordia, y alguien desesperado porque su obra es imperfecta. Identifica la creencia errónea en cada caso, clasifícala como vanidad, abandono de la obra o desesperanza, y escribe una respuesta de dos líneas que use una prueba y una la obra con la necesidad de la misericordia.
 
 <!-- activity:end -->
 
@@ -414,7 +414,7 @@ Analiza tres casos: alguien que desprecia a otro por su adoración, alguien que 
 **Du'a temático redactado para esta lección, y no atribuido al Profeta, que la paz y las bendiciones de Allah sean con él.**
 
 > اللَّهُمَّ تَغَمَّدْنِي بِرَحْمَتِكَ، وَأَعِنِّي عَلَى الْعَمَلِ الصَّالِحِ، وَأَدْخِلْنِي الْجَنَّةَ بِفَضْلِكَ.
-> «Oh Allah, cúbreme con Tu misericordia, ayúdame a hacer las obras rectas, e introdúceme en la Jannah por Tu gracia.»
+> «Oh Allah, cúbreme con Tu misericordia, ayúdame a hacer buenas obras y hazme entrar en la Jannah por Tu gracia».
 
 <!-- bedtime-dua:end -->
 
@@ -441,16 +441,16 @@ Analiza tres casos: alguien que desprecia a otro por su adoración, alguien que 
 **Apertura — 5 minutos:** plantea la pregunta: «¿Significa que la Jannah es por la misericordia de Allah que la obra no importa?» Recoge respuestas sin corregir de inmediato, y anuncia que los textos construirán la respuesta.
 
 <!-- lesson-plan:evidence -->
-**Estudio de las pruebas — 15 minutos:** los grupos leen ad-Dukhan 51-57, al-A'raf 43, y el hadiz de Muslim 2816. Subrayan las palabras sobre la obra, y encierran en un círculo las palabras sobre guía, gracia, misericordia y buena noticia.
+**Estudio de las pruebas — 15 minutos:** los grupos leen ad-Dukhan 51-57, al-A'raf 43 y el hadiz de Muslim 2816. Subrayan las palabras sobre la obra, y encierran en un círculo las palabras sobre guía, gracia y misericordia.
 
 <!-- lesson-plan:instruction -->
-**Enseñanza guiada — 15 minutos:** el maestro dibuja dos columnas: «Causa» y «Precio». Explica la causalidad y la compraventa, y pide a los estudiantes que interpreten el orden de `Sean moderados, sean rectos y alégrense` antes de la negación de la salvación por la obra.
+**Enseñanza guiada — 15 minutos:** el maestro dibuja dos columnas: «Causa» y «Precio». Explica la causalidad y la compraventa, y pide a los estudiantes que interpreten el orden de `Acérquense y procuren acertar` antes de la negación de la salvación por la obra.
 
 <!-- lesson-plan:activity -->
 **Actividad — 15 minutos:** los grupos realizan la actividad de clasificación y corrección. No se acepta una reformulación hasta que incluya la responsabilidad de la obra y la necesidad de la misericordia de Allah, con una prueba adecuada.
 
 <!-- lesson-plan:assessment -->
-**Evaluación y cierre — 10 minutos:** tarjeta de salida: «Define la causa y el precio, concilia las aleyas de al-A'raf y ad-Dukhan, y escribe una aplicación que te proteja de la vanidad, el abandono de la obra o la desesperanza.» El maestro cierra con el du'a de la lección, aclarando que es de redacción educativa propia.
+**Evaluación y cierre — 10 minutos:** tarjeta de salida: «Define la causa y el precio, concilia las aleyas de al-A'raf y ad-Dukhan, y escribe una aplicación que te proteja de la vanidad, el abandono de la obra o la desesperanza». El maestro cierra con el du'a de la lección, aclarando que es de redacción educativa propia.
 
 <!-- lesson-plan:differentiation -->
 **Atención a las diferencias:** al principiante se le dan frases incompletas para que elija su continuación, y al avanzado se le encarga explicar cómo el hadiz une el temor y la esperanza. Los estudiantes pueden discutir un caso general en vez de revelar una experiencia personal.
@@ -468,7 +468,7 @@ Analiza tres casos: alguien que desprecia a otro por su adoración, alguien que 
 **Resultados de aprendizaje:** que el niño diga que hacemos el bien y pedimos la misericordia de Allah, que distinga la frase correcta de «compro la Jannah con mi obra», y que mencione una buena obra propia.
 
 <!-- lesson-plan:materials -->
-**Materiales:** dos tarjetas ilustradas para la actividad; hoja de dibujo; colores seguros; pegatina de corazón y pegatina de mano trabajando; tarjeta del du'a con letra clara.
+**Materiales:** dos tarjetas ilustradas para la actividad; hoja de dibujo; colores no tóxicos; pegatina de corazón y pegatina de mano trabajando; tarjeta del du'a con letra clara.
 
 <!-- lesson-plan:preparation -->
 **Preparación:** el maestro prepara imágenes sin monedas ni balanzas, para no fijar en la mente del niño la idea de compraventa, y practica explicar la palabra «misericordia» con frases cortas.
@@ -501,25 +501,25 @@ Analiza tres casos: alguien que desprecia a otro por su adoración, alguien que 
 ### Niños de 8-12 — 45 minutos
 
 <!-- lesson-plan:outcomes -->
-**Resultados de aprendizaje:** que defina la rectitud y el acercamiento, distinga entre causa y precio, ordene el mensaje del hadiz, y corrija dos afirmaciones erróneas con una prueba.
+**Resultados de aprendizaje:** que defina la rectitud y el acercamiento, distinga entre causa y precio, ordene el mensaje del hadiz y corrija dos afirmaciones erróneas con una prueba.
 
 <!-- lesson-plan:materials -->
-**Materiales:** texto del hadiz; tarjetas de vocabulario; tarjetas de «Correcto/Incompleto/Erróneo»; hojas de actividad; bolígrafos de tres colores.
+**Materiales:** texto del hadiz; tarjetas de vocabulario; tarjetas de «Correcta/Incompleta/Errónea»; hojas de actividad; bolígrafos de tres colores.
 
 <!-- lesson-plan:preparation -->
-**Preparación:** el maestro escribe las cinco afirmaciones, y prepara un modelo de corrección de una frase de otro tema para que los estudiantes entiendan el mecanismo. Clave rápida: la tercera es correcta, la cuarta incompleta, y el resto erróneas.
+**Preparación:** el maestro escribe las cinco afirmaciones y prepara un modelo de corrección de una frase de otro tema para que los estudiantes entiendan el mecanismo. Clave rápida: la tercera es correcta, la cuarta incompleta y el resto erróneas.
 
 <!-- lesson-plan:opening -->
-**Apertura — 5 minutos:** presenta dos frases: «Mi esfuerzo no importa» y «Mi éxito es todo mío». Pregunta: «¿Existe una respuesta más precisa que ambos extremos?» Luego traslada la pregunta a la obra por la otra vida.
+**Apertura — 5 minutos:** presenta dos frases: «Mi esfuerzo no importa» y «Mi éxito es todo mío». Pregunta: «¿Existe una respuesta más precisa que ambos extremos?» Luego traslada la pregunta a las obras para la otra vida.
 
 <!-- lesson-plan:evidence -->
 **Estudio de la prueba — 10 minutos:** los estudiantes leen completo el hadiz de Muslim y la aleya de al-A'raf 43. Subrayan de un color las órdenes de obrar, y de otro las palabras de misericordia y guía.
 
 <!-- lesson-plan:instruction -->
-**Enseñanza guiada — 10 minutos:** el maestro explica los tres términos, y construye con la clase la frase: «La obra es causa, y la guía, la aceptación y la salvación son por la gracia de Allah.» Vuelve a la historia del cartel de los números y pregunta cómo cambió la meta de comparar personas a servir a los necesitados.
+**Enseñanza guiada — 10 minutos:** el maestro explica los tres términos y construye con la clase la frase: «La obra es causa, y la guía, la aceptación y la salvación son por la gracia de Allah». Vuelve a la historia del cartel de los números y pregunta cómo cambió la meta de comparar personas a servir a los necesitados.
 
 <!-- lesson-plan:activity -->
-**Actividad — 14 minutos:** los grupos clasifican las tarjetas y las corrigen. Cada grupo presenta una tarjeta y explica por qué era correcta, incompleta o errónea, y luego se les da dos minutos para revisar sus correcciones a la luz del hadiz.
+**Actividad — 14 minutos:** los grupos clasifican las tarjetas y las corrigen. Cada grupo presenta una tarjeta y explica por qué era correcta, incompleta o errónea, y luego se les dan dos minutos para revisar sus correcciones a la luz del hadiz.
 
 <!-- lesson-plan:assessment -->
 **Evaluación y cierre — 6 minutos:** cada estudiante escribe: «Después de una buena obra, yo…» y «Después de un error, me arrepentiré y luego…». El maestro revisa que una respuesta esté libre de vanidad y la otra de desesperanza, y lee un modelo equilibrado antes de cerrar.
@@ -528,7 +528,7 @@ Analiza tres casos: alguien que desprecia a otro por su adoración, alguien que 
 **Atención a las diferencias:** se dan inicios de frases a quienes tienen dificultad, y se pide a los avanzados unir la aleya de al-A'raf con las aleyas de ad-Dukhan en una interpretación de tres líneas.
 
 <!-- lesson-plan:safeguards -->
-**Advertencias de enseñanza:** no se convierte la discusión en comparación entre la religiosidad de los estudiantes, ni se les pide declarar sus pecados o adoraciones privadas. Corrige con delicadeza la frase «la obra no vale nada» y la frase «yo tengo la Jannah garantizada».
+**Advertencias de enseñanza:** no se convierte la discusión en comparación entre la religiosidad de los estudiantes, ni se les pide declarar sus pecados o adoraciones privadas. Se corrige con delicadeza la frase «la obra no vale nada» y la frase «yo tengo la Jannah garantizada».
 
 <!-- lesson-plan:end -->
 
@@ -543,25 +543,25 @@ Analiza tres casos: alguien que desprecia a otro por su adoración, alguien que 
 **Materiales:** carpeta de pruebas; extracto breve de la explicación de Ibn al-Qayyim; tarjetas de los tres casos; plantilla «Afirmación/Error/Prueba/Corrección»; hojas de salida.
 
 <!-- lesson-plan:preparation -->
-**Preparación:** el maestro repasa las palabras del hadiz y evita cualquier atribución no confirmada, elige casos que no señalen a un estudiante en particular, y prepara una derivación pedagógica para quien muestre señales de escrúpulo o desesperanza severa.
+**Preparación:** el maestro repasa las palabras del hadiz y descarta cualquier redacción no confirmada que se le atribuya, elige casos que no señalen a un estudiante en particular, y prepara una derivación pedagógica para quien muestre señales de escrúpulo o desesperanza severa.
 
 <!-- lesson-plan:opening -->
-**Apertura — 5 minutos:** escribe en la pizarra: «bima kuntum ta'maloon» y «nadie se salvará por su obra». Pide a los estudiantes proponer una forma de conciliar ambos sin anular ninguno.
+**Apertura — 5 minutos:** escribe en la pizarra: «bima kuntum ta'malun» y «nadie se salvará por su obra». Pide a los estudiantes proponer una forma de conciliar ambos sin anular ninguno.
 
 <!-- lesson-plan:evidence -->
-**Estudio de las pruebas — 12 minutos:** tres grupos leen las tres pruebas, y de cada texto extraen: la acción requerida, la gracia mencionada, y el error que el texto corrige.
+**Estudio de las pruebas — 12 minutos:** tres grupos leen las tres pruebas, y de cada texto extraen: la acción requerida, la gracia mencionada y el error que el texto corrige.
 
 <!-- lesson-plan:instruction -->
 **Enseñanza guiada — 13 minutos:** el maestro explica la diferencia lingüística y doctrinal entre causalidad y compraventa, y discute cómo la pregunta de los compañeros impide construir una identidad basada en el merecimiento y la superioridad.
 
 <!-- lesson-plan:activity -->
-**Actividad — 15 minutos:** los grupos realizan «la clínica de las afirmaciones» con la plantilla. La respuesta debe incluir diagnóstico, prueba, y una corrección práctica que no abra la puerta a la pereza ni a la desesperanza.
+**Actividad — 15 minutos:** los grupos realizan «la clínica de las afirmaciones» con la plantilla. La respuesta debe incluir diagnóstico, prueba y una corrección práctica que no abra la puerta a la pereza ni a la desesperanza.
 
 <!-- lesson-plan:assessment -->
-**Evaluación y cierre — 10 minutos:** el estudiante escribe una respuesta de cuatro líneas a la pregunta de apertura, y luego un paso privado que no necesita revelar: una adoración que corregirá, un pecado del que se arrepentirá, o una vanidad de la que pedirá refugio en Allah.
+**Evaluación y cierre — 10 minutos:** el estudiante escribe una respuesta de cuatro líneas a la pregunta de apertura, y luego un paso privado que no necesita revelar: un acto de adoración que procurará hacer mejor, un pecado del que se arrepentirá, o una vanidad de la que pedirá refugio en Allah.
 
 <!-- lesson-plan:differentiation -->
-**Atención a las diferencias:** a quien tenga dificultad se le da un esquema con flechas entre «guía de Allah — obra del siervo — aceptación de Allah — Su misericordia», y al avanzado se le encarga criticar una frase filosófica sobre el merecimiento sin profundizar en el debate teológico general.
+**Atención a las diferencias:** a quien tenga dificultad se le da un esquema con flechas entre «guía de Allah — obra del siervo — aceptación de Allah — Su misericordia», y al avanzado se le encarga criticar una frase filosófica sobre el merecimiento sin entrar en las polémicas entre escuelas teológicas.
 
 <!-- lesson-plan:safeguards -->
 **Advertencias de enseñanza:** no se usa la lección para negar la responsabilidad ni para acusar de incredulidad a quien se exprese distinto, ni para alimentar el escrúpulo religioso. Si un estudiante expresa desesperanza o autolesión, se detiene la discusión y se sigue el protocolo de protección y apoyo establecido.
@@ -576,6 +576,6 @@ Analiza tres casos: alguien que desprecia a otro por su adoración, alguien que 
 [^2]: 'Abd ar-Rahman ibn Nasir as-Sa'di, *Taysir al-Karim ar-Rahman*, comentario de la sura ad-Dukhan, aleya 57, donde explica que la salvación y el deleite son gracia y bondad de Allah: [El Corán electrónico de la Universidad Rey Saud](https://quran.ksu.edu.sa/tafseer/saadi/sura44-aya57.html).
 [^3]: El Sagrado Corán, sura al-A'raf, aleya 43: [Texto coránico](https://quran.com/7/43).
 [^4]: Ibn Qayyim al-Yawziyya, *Hadi al-Arwah ila Bilad al-Afrah*, capítulo diecinueve, sección sobre conciliar la entrada a la Jannah por la obra y la entrada por la misericordia de Allah, donde distingue entre la partícula de compraventa y la de causalidad: [al-Maktaba ash-Shamila](https://shamela.ws/book/13652/229).
-[^5]: Sahih Muslim, Libro de la descripción del Día de la Resurrección, el Paraíso y el Infierno, hadiz 2816, narrado por Abu Hurayrah, que Allah esté complacido con él, hadiz auténtico: [Sunnah.com, narración 2816c](https://sunnah.com/muslim:2816c).
+[^5]: Sahih Muslim, Libro de la descripción del Día de la Resurrección, el Paraíso y el Infierno, hadiz 2816, narrado por Abu Hurayrah, que Allah esté complacido con él, hadiz auténtico: [Sunnah.com, narración 2816g](https://sunnah.com/muslim:2816g).
 
 <!-- references:end -->

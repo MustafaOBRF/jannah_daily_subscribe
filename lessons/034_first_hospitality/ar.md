@@ -31,7 +31,7 @@ bedtime_dua_id: "lesson.034.dua.honoured-guests-of-jannah"
 
 ## القسم الأكاديمي للبالغين
 
-<!-- reader:start audience="adults" estimated_minutes="6.5" -->
+<!-- reader:start audience="adults" estimated_minutes="7.0" -->
 
 <!-- unit:start id="adults.explanation" kind="explanation" -->
 
@@ -85,7 +85,7 @@ bedtime_dua_id: "lesson.034.dua.honoured-guests-of-jannah"
 
 #### شرح الدرس
 
-ضحك النبي ﷺ لأن الحَبْر وافق ما أخبر به. ونثبت ما ورد في الحديث، ومنه صفة اليد لله تعالى، على ما يليق بجلاله، {لَيْسَ كَمِثْلِهِ شَيْءٌ}، بلا تكييف ولا تشبيه، ولا نزيد على النص في وصف الغيب.
+ضحك النبي ﷺ لأن الرجل اليهودي وافق ما أخبر به. ونثبت ما ورد في الحديث، ومنه صفة اليد لله تعالى، على ما يليق بجلاله، {لَيْسَ كَمِثْلِهِ شَيْءٌ}، بلا تكييف ولا تشبيه، ولا نزيد على النص في وصف الغيب.
 
 <!-- evidence:end -->
 
@@ -226,7 +226,7 @@ bedtime_dua_id: "lesson.034.dua.honoured-guests-of-jannah"
 
 ## للأطفال من ٨ إلى ١٢ سنة
 
-<!-- reader:start audience="8-12" estimated_minutes="6.0" -->
+<!-- reader:start audience="8-12" estimated_minutes="5.5" -->
 
 <!-- unit:start id="8-12.explanation" kind="explanation" -->
 
@@ -322,7 +322,7 @@ bedtime_dua_id: "lesson.034.dua.honoured-guests-of-jannah"
 
 ## للمراهقين ١٣+
 
-<!-- reader:start audience="13+" estimated_minutes="6.5" -->
+<!-- reader:start audience="13+" estimated_minutes="5.5" -->
 
 <!-- unit:start id="13+.explanation" kind="explanation" -->
 

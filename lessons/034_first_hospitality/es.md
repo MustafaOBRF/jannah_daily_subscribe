@@ -103,7 +103,7 @@ An-Nawawi, que Allah tenga misericordia de él, explicó: el `nuzul` es "lo que 
 
 #### Explicación de la lección
 
-El Profeta, la paz y las bendiciones de Allah sean con él, rio porque el sabio judío confirmó lo que él había anunciado. Afirmamos lo que ha llegado en el hadiz, incluido el atributo de la mano de Allah, Exaltado sea, de la manera que conviene a Su majestad —{No hay nada como Él}—, sin preguntar por el cómo ni establecer semejanzas, y sin añadir nada al texto cuando describe lo oculto.
+El Profeta, la paz y las bendiciones de Allah sean con él, rio porque el hombre judío confirmó lo que él había anunciado. Afirmamos lo que ha llegado en el hadiz, incluido el atributo de la mano de Allah, Exaltado sea, de la manera que conviene a Su majestad —{No hay nada como Él}—, sin preguntar por el cómo ni establecer semejanzas, y sin añadir nada al texto cuando describe lo oculto.
 
 <!-- evidence:end -->
 

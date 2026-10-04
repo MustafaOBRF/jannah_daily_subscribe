@@ -31,7 +31,7 @@ bedtime_dua_id: "lesson.032.dua.enter-secure-joy-upon-joy"
 
 ## القسم الأكاديمي للبالغين
 
-<!-- reader:start audience="adults" estimated_minutes="6.5" -->
+<!-- reader:start audience="adults" estimated_minutes="7.0" -->
 
 <!-- unit:start id="adults.explanation" kind="explanation" -->
 
@@ -136,7 +136,7 @@ bedtime_dua_id: "lesson.032.dua.enter-secure-joy-upon-joy"
 
 ## للأطفال من ٤ إلى ٧ سنوات
 
-<!-- reader:start audience="4-7" estimated_minutes="5.0" -->
+<!-- reader:start audience="4-7" estimated_minutes="4.0" -->
 
 <!-- unit:start id="4-7.explanation" kind="explanation" -->
 
@@ -217,7 +217,7 @@ bedtime_dua_id: "lesson.032.dua.enter-secure-joy-upon-joy"
 
 ## للأطفال من ٨ إلى ١٢ سنة
 
-<!-- reader:start audience="8-12" estimated_minutes="6.0" -->
+<!-- reader:start audience="8-12" estimated_minutes="5.0" -->
 
 <!-- unit:start id="8-12.explanation" kind="explanation" -->
 
@@ -243,7 +243,7 @@ bedtime_dua_id: "lesson.032.dua.enter-secure-joy-upon-joy"
 
 <!-- story:start audience="8-12" role="primary" type="hadith" source_id="bukhari-4730" authenticated="true" -->
 
-**هذا خبر حقيقي رواه أبو سعيد الخدري رضي الله عنه عن النبي ﷺ في صحيح البخاري، وليس قصة متخيلة.**
+**هذا خبر حقيقي رواه أبو سعيد الخدري رضي الله عنه عن النبي ﷺ في الصحيحين، وليس قصة متخيلة.**
 
 بعد أن يصير أهل الجنة إلى الجنة، وأهل النار إلى النار، يحدث أمر لم يحدث مثله قط.
 
@@ -311,7 +311,7 @@ bedtime_dua_id: "lesson.032.dua.enter-secure-joy-upon-joy"
 
 ## للمراهقين ١٣+
 
-<!-- reader:start audience="13+" estimated_minutes="6.5" -->
+<!-- reader:start audience="13+" estimated_minutes="5.0" -->
 
 <!-- unit:start id="13+.explanation" kind="explanation" -->
 
@@ -556,7 +556,7 @@ bedtime_dua_id: "lesson.032.dua.enter-secure-joy-upon-joy"
 [^3]: القرآن الكريم، سورة الحجر، الآيات ٤٥-٤٨: [quran.com/15/45-48](https://quran.com/15/45-48).
 [^4]: ابن كثير، تفسير القرآن العظيم، تفسير سورة مريم، الآية ٣٩: [quran.ksu.edu.sa/tafseer/katheer/sura19-aya39.html](https://quran.ksu.edu.sa/tafseer/katheer/sura19-aya39.html).
 [^5]: السعدي، تيسير الكريم الرحمن، تفسير سورة الحجر، الآيتان ٤٦ و٤٨: [quran.ksu.edu.sa/tafseer/saadi/sura15-aya46.html](https://quran.ksu.edu.sa/tafseer/saadi/sura15-aya46.html) و[quran.ksu.edu.sa/tafseer/saadi/sura15-aya48.html](https://quran.ksu.edu.sa/tafseer/saadi/sura15-aya48.html).
-[^6]: ابن قيم الجوزية، حادي الأرواح إلى بلاد الأفراح، الباب التاسع والستون، فصل في ذبح الموت بين الجنة والنار (ط. عطاءات العلم، ص ٨١٣-٨١٥)، مع حاشية المحقق في معنى "يشرئبون": [shamela.ws/book/13652/865](https://shamela.ws/book/13652/865)؛ وفي معنى "الأملح" (ما فيه بياض وسواد) ينظر: النووي، المنهاج شرح صحيح مسلم، شرح الحديث ٢٨٤٩.
+[^6]: ابن قيم الجوزية، حادي الأرواح إلى بلاد الأفراح، الباب التاسع والستون، فصل في ذبح الموت بين الجنة والنار (ط. عطاءات العلم، ص ٨١٣-٨١٦)، مع حاشية المحقق في معنى "يشرئبون": [shamela.ws/book/13652/865](https://shamela.ws/book/13652/865)؛ وفي معنى "الأملح" (ما فيه بياض وسواد) ينظر: النووي، المنهاج شرح صحيح مسلم، شرح الحديث ٢٨٤٩.
 [^7]: السعدي، تيسير الكريم الرحمن، تفسير سورة مريم، الآيتان ٣٩-٤٠: [quran.ksu.edu.sa/tafseer/saadi/sura19-aya39.html](https://quran.ksu.edu.sa/tafseer/saadi/sura19-aya39.html).
 [^8]: القرآن الكريم، سورة مريم، الآيتان ٣٩-٤٠: [quran.com/19/39-40](https://quran.com/19/39-40).
 

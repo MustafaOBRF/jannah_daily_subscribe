@@ -1,5 +1,5 @@
 ---
-title: "Los Adelantados y los Primeros en Entrar al Jannah"
+title: "Los adelantados y los primeros en entrar al Jannah"
 lesson_id: "lesson.016"
 topic_id: "jannah.016"
 translation_key: "jannah.first_entrants"
@@ -15,28 +15,28 @@ activity_concept_id: "lesson.016.activity.quiet-foremost-log"
 bedtime_dua_id: "lesson.016.dua.make-us-foremost"
 ---
 
-# Los Adelantados y los Primeros en Entrar al Jannah
+# Los adelantados y los primeros en entrar al Jannah
 
 ## Objetivos y resultados de la lección
 
 Después de esta lección, el alumno será capaz de:
 
-- Recitar el dicho de Allah `وَالسَّابِقُونَ السَّابِقُونَ * أُولَـٰئِكَ الْمُقَرَّبُونَ` — "Y los adelantados, los adelantados, esos son los allegados [a Allah]" (Al-Waqi'ah 56:10-11) — y explicar que el adelantamiento al que se refiere es el adelantarse en la obediencia y la sinceridad, no en la fama o la notoriedad.
+- Recitar las palabras de Allah `وَالسَّابِقُونَ السَّابِقُونَ * أُولَـٰئِكَ الْمُقَرَّبُونَ` — "Y los adelantados, los adelantados, esos son los allegados [a Allah]" (Al-Waqi'ah 56:10-11) — y explicar que el adelantamiento al que se refiere es el adelantarse en la obediencia y la sinceridad, no en la fama o la notoriedad.
 - Narrar el hadiz «Yo soy el primero en tocar la puerta del Jannah» y explicar su significado para la posición del Profeta ﷺ entre los profetas y su nación el Día del Juicio.
-- Narrar el hadiz de At-Tirmidhi sobre los primeros tres que entrarán al Jannah, nombrando las tres categorías y describiendo cada una con precisión: el mártir, el casto que se abstiene, y el siervo que hace el bien y da consejo sincero.
+- Narrar el hadiz de At-Tirmidhi sobre los tres primeros que entrarán al Jannah, nombrando las tres categorías y describiendo cada una con precisión: el mártir, el casto que se abstiene, y el siervo que adora bien a Allah y es leal y sincero con sus señores.
 - Distinguir entre medir el adelantamiento hacia el Jannah por lo visible o famoso que sea un acto, y medirlo correctamente por la sinceridad y excelencia del acto, aunque esté oculto y nadie lo vea.
 - Vincular las historias educativas de la lección con las tres evidencias, y aplicar el significado del "adelantamiento silencioso" a situaciones personales de la vida diaria.
 - Realizar la actividad «Registro del Adelantamiento Silencioso» para anotar un acto sincero que no busca ser visto, y vincularlo con una de las tres evidencias.
 
 ## Sección académica para adultos
 
-<!-- reader:start audience="adults" estimated_minutes="6.5" -->
+<!-- reader:start audience="adults" estimated_minutes="7.0" -->
 
 <!-- unit:start id="adults.explanation" kind="explanation" -->
 
-Muchas personas piensan que "adelantarse" se mide por lo que otros pueden ver: quién ocupa el centro de atención, a quién se elogia públicamente, a quién se le reconocen grandes logros visibles. Pero el Corán ofrece otra balanza para el adelantamiento cuando dice: `وَالسَّابِقُونَ السَّابِقُونَ * أُولَـٰئِكَ الْمُقَرَّبُونَ`. Los verdaderos adelantados son quienes se adelantaron en la obediencia a Allah y en la sinceridad de sus obras, ya sea que la gente los viera o no.
+Muchas personas piensan que "adelantarse" se mide por lo que otros pueden ver: quién ocupa el centro de atención, a quién se elogia públicamente, a quién se le reconocen grandes logros visibles. Pero el Corán ofrece otra vara de medir el adelantamiento cuando dice: `وَالسَّابِقُونَ السَّابِقُونَ * أُولَـٰئِكَ الْمُقَرَّبُونَ`. Los verdaderos adelantados son quienes se adelantaron en la obediencia a Allah y en la sinceridad de sus obras, ya sea que la gente los viera o no.
 
-El mayor ejemplo de este adelantamiento es el propio Profeta ﷺ, quien nos informó que él es **el primero en tocar la puerta del Jannah** el Día del Juicio, honrado por haberse adelantado en la fe, en la predicación y en la paciencia. Luego llega otro hadiz que muestra que este adelantamiento no está reservado para los profetas y los famosos, sino que lo alcanzan personas comunes que quizás nadie conozca: al Profeta ﷺ le fue mostrado que los primeros tres en entrar al Jannah son un mártir que dio su vida, una persona casta que se abstuvo de lo prohibido a pesar de su necesidad, y un siervo que cumplió su confianza con excelencia y sinceridad.
+El mayor ejemplo de este adelantamiento es el propio Profeta ﷺ, quien nos informó que él es **el primero en tocar la puerta del Jannah** el Día del Juicio, honrado por haberse adelantado en la fe, en la predicación y en la paciencia. Luego llega otro hadiz que muestra que este adelantamiento no está reservado para los profetas y los famosos, sino que lo alcanzan personas comunes que quizás nadie conozca: al Profeta ﷺ le fue mostrado que los tres primeros en entrar al Jannah son un mártir que dio su vida, una persona casta que se abstuvo de lo prohibido a pesar de su necesidad, y un sirviente que cumplió con excelencia y sinceridad lo que se le había confiado.
 
 Esta comprensión corrige dos desviaciones opuestas en la manera de ver el mérito y el adelantamiento:
 
@@ -53,7 +53,7 @@ El verdadero adelantamiento hacia el Jannah comienza con la sinceridad del coraz
 
 <!-- evidence:start id="quran-56-10" kind="quran" mode="canonical" -->
 
-### Y los Adelantados, los Adelantados — Esos Son los Allegados
+### Y los adelantados, los adelantados: esos son los allegados
 
 > **وَالسَّابِقُونَ السَّابِقُونَ * أُولَـٰئِكَ الْمُقَرَّبُونَ.** [Al-Waqi'ah 56:10-11][^1]
 >
@@ -61,17 +61,17 @@ El verdadero adelantamiento hacia el Jannah comienza con la sinceridad del coraz
 
 #### Interpretación erudita
 
-Ibn Kazir mencionó en su tafsir de esta aleya que `los adelantados` son quienes se adelantan a la obediencia y al bien en cada nación, y en esta nación son los primeros en creer y en emigrar; ocupan el rango más alto en el Jannah, siendo `los allegados`, cuyo rango supera al de `la gente de la derecha`, mencionados después de ellos en la sura.[^2]
+Ibn Kazir citó en su tafsir de esta aleya las opiniones de los primeros sabios sobre `los adelantados` y dijo que todas son correctas: son quienes se apresuran al bien tal como se les ordenó, y quien se adelanta al bien en esta vida se adelantará a la honra en la Otra Vida, porque la recompensa es del mismo género que la obra. Son `los allegados`, cuyo rango supera al de `la gente de la derecha`, mencionados después de ellos en la sura.[^2]
 
 #### Explicación de la lección
 
-La aleya repite la palabra `los adelantados` dos veces para subrayar que lo que importa es la realidad de estar adelantado, no simplemente pretenderlo, y vincula este adelantamiento directamente con la cercanía a Allah, no con cuánto vea la gente de la obra de quien la realiza. El adelantamiento que elogia la aleya es el adelantamiento en la obediencia sincera, un criterio abierto a todo creyente sincero, no solo a quien se hizo famoso por sus obras.
+La aleya repite la palabra `los adelantados` dos veces para subrayar que lo que importa es la realidad de estar adelantado, no simplemente pretenderlo, y vincula este adelantamiento directamente con la cercanía a Allah, no con cuánto ve la gente de las obras de cada uno. El adelantamiento que elogia la aleya es el adelantamiento en la obediencia sincera, un criterio abierto a todo creyente sincero, no solo a quien se hizo famoso por sus obras.
 
 <!-- evidence:end -->
 
 <!-- evidence:start id="muslim-197" kind="hadith" mode="canonical" -->
 
-### Yo Soy el Primero en Tocar la Puerta del Jannah
+### Yo soy el primero en tocar la puerta del Jannah
 
 > عَنْ أَنَسِ بْنِ مَالِكٍ رضي الله عنه، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ: **«أَنَا أَكْثَرُ الْأَنْبِيَاءِ تَبَعًا يَوْمَ الْقِيَامَةِ، وَأَنَا أَوَّلُ مَنْ يَقْرَعُ بَابَ الْجَنَّةِ».**[^3]
 >
@@ -89,19 +89,19 @@ El adelantamiento del Profeta ﷺ ante la puerta del Jannah no es un simple hono
 
 <!-- evidence:start id="tirmidhi-1642" kind="hadith" mode="canonical" -->
 
-### Me Fueron Mostrados los Primeros Tres en Entrar al Jannah
+### Me fueron mostrados los tres primeros en entrar al Jannah
 
 > عَنْ أَبِي هُرَيْرَةَ رضي الله عنه، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ: **«عُرِضَ عَلَيَّ أَوَّلُ ثَلَاثَةٍ يَدْخُلُونَ الْجَنَّةَ: شَهِيدٌ، وَعَفِيفٌ مُتَعَفِّفٌ، وَعَبْدٌ أَحْسَنَ عِبَادَةَ اللَّهِ وَنَصَحَ لِمَوَالِيهِ».**[^4]
 >
-> *De Abu Hurayrah, que Allah esté complacido con él, que el Profeta ﷺ dijo: "Me fueron mostrados los primeros tres en entrar al Jannah: un mártir, una persona casta que se abstiene, y un siervo que adoró bien a Allah y dio consejo sincero a quienes servía."*
+> *De Abu Hurayrah, que Allah esté complacido con él, que el Profeta ﷺ dijo: "Me fueron mostrados los tres primeros en entrar al Jannah: un mártir, una persona casta que se abstiene, y un siervo que adoró bien a Allah y fue leal y sincero con sus señores."*
 
 #### Interpretación erudita
 
-Allah mostró a Su Profeta ﷺ la imagen de tres tipos de personas que se adelantan a otros hacia el Jannah, ninguno de ellos conocido por rango o riqueza: **el mártir**, que dio su vida en el camino de Allah; **el casto que se abstiene**, que se apartó de lo prohibido y buscó bastarse a sí mismo sin depender de la gente, a pesar de su necesidad; y **el siervo**, que adoró bien a su Señor y fue sincero en la confianza de quienes lo empleaban, sin traicionarlos jamás. El hadiz es hasan (bueno), narrado por At-Tirmidhi, quien él mismo lo calificó de hasan.
+Allah mostró a Su Profeta ﷺ la imagen de tres tipos de personas que se adelantan a otros hacia el Jannah, ninguno de ellos conocido por rango o riqueza: **el mártir**, que dio su vida en el camino de Allah; **el casto que se abstiene**, que se apartó de lo prohibido y buscó bastarse a sí mismo sin depender de la gente, a pesar de su necesidad; y **el siervo**, que adoró bien a su Señor y fue fiel a la confianza de quienes lo empleaban, sin traicionarlos. Lo narró At-Tirmidhi y dijo: "hadiz hasan (bueno)", mientras que algunos especialistas en hadiz de épocas posteriores calificaron su cadena de débil.
 
 #### Explicación de la lección
 
-Estas tres categorías comparten una sola cualidad: la sinceridad de la obra en un lugar donde quien la realiza normalmente no es observado, no la fama o la visibilidad. El mártir da su vida en el momento más oculto y difícil, lejos de las miradas de la gente; el casto resiste su necesidad estando solo, cuando nadie está para ayudarlo; y el siervo sirve su confianza con excelencia incluso cuando no hay ningún supervisor presente. El adelantamiento hacia el Jannah, entonces, no está reservado para los famosos, sino que es una puerta abierta para todo aquel cuya obra sea sincera, aunque esa obra esté oculta.
+Estas tres categorías comparten una sola cualidad: la sinceridad de la obra en situaciones en las que normalmente nadie observa a quien la realiza, no la fama o la visibilidad. El mártir da su vida en el momento más oculto y difícil, lejos de las miradas de la gente; el casto resiste su necesidad a solas, cuando nadie lo ve; y el siervo cumple con excelencia lo que se le confió, aunque no haya ningún supervisor presente. El adelantamiento hacia el Jannah, entonces, no está reservado para los famosos, sino que es una puerta abierta para todo aquel cuya obra sea sincera, aunque esa obra esté oculta.
 
 <!-- evidence:end -->
 
@@ -125,7 +125,7 @@ Estas tres categorías comparten una sola cualidad: la sinceridad de la obra en 
 
 <!-- activity:start audience="adults" concept_id="lesson.016.activity.quiet-foremost-log" -->
 
-Durante tres días, anota cada día una obra sincera que hayas hecho sin intención de que alguien la viera o te elogiara por ella, y clasifícala bajo uno de tres títulos inspirados en el hadiz de At-Tirmidhi: **sacrificio y entrega**, o **contentamiento y abstención de algo prohibido a pesar de la necesidad**, o **excelencia en una confianza que se te ha encomendado y sinceridad con quien sirves**. Escribe una línea junto a cada obra vinculándola con una de las tres evidencias (la aleya de los adelantados, o uno de los dos hadices). Al final del tercer día, escribe un párrafo breve comparando lo que solías considerar "adelantarse" antes de esta lección con cómo lo ves ahora.
+Durante tres días, anota cada día una obra sincera que hayas hecho sin intención de que alguien la viera o te elogiara por ella, y clasifícala bajo uno de tres títulos inspirados en el hadiz de At-Tirmidhi: **sacrificio y entrega**, o **contentamiento y abstención de algo prohibido a pesar de la necesidad**, o **esmero en lo que se te ha encomendado y sinceridad con quien sirves**. Escribe una línea junto a cada obra vinculándola con una de las tres evidencias (la aleya de los adelantados, o uno de los dos hadices). Al final del tercer día, escribe un párrafo breve comparando lo que solías considerar "adelantarse" antes de esta lección con cómo lo ves ahora.
 
 <!-- activity:end -->
 
@@ -133,7 +133,7 @@ Durante tres días, anota cada día una obra sincera que hayas hecho sin intenci
 
 <!-- reader:end -->
 
-<!-- reader:start audience="4-7" estimated_minutes="5.0" -->
+<!-- reader:start audience="4-7" estimated_minutes="4.5" -->
 
 <!-- unit:start id="4-7.explanation" kind="explanation" -->
 
@@ -151,11 +151,11 @@ Allah dice en el Corán: `وَالسَّابِقُونَ السَّابِقُو�
 
 **Esta es una historia educativa imaginaria, no un hadiz ni un relato histórico.**
 
-Al primo de Yusuf le encantaba que lo aplaudieran cada vez que hacía algo delante de todos, como poner la mesa grande para los invitados. Yusuf, en cambio, se despertaba cada mañana antes de que nadie lo llamara, doblaba su propia cama y ayudaba a su hermanita a ponerse los zapatos, sin decírselo a nadie.
+Al primo de Yusuf le encantaba que lo aplaudieran cada vez que hacía algo delante de todos, como poner la mesa grande para los invitados. Yusuf, en cambio, se despertaba cada mañana antes de que nadie lo llamara, hacía su cama él solo y ayudaba a su hermanita a ponerse los zapatos, sin decírselo a nadie.
 
 Un día, Yusuf le preguntó a su madre: "¿Por qué nadie me elogia como elogian a mi primo?" Su madre sonrió y le dijo: "¿Sabías que Allah nos dijo que hay personas que se adelantan hacia el Jannah, personas comunes que nadie conoce, pero Allah conoce su sinceridad? Su adelantamiento no necesita aplausos de nadie."
 
-Yusuf se alegró al escuchar esto, y siguió doblando su cama y ayudando a su hermana cada mañana, sonriendo para sí mismo, sabiendo que Allah ve lo que nadie más ve.
+Yusuf se alegró al escuchar esto, y siguió haciendo su cama y ayudando a su hermana cada mañana, sonriendo para sus adentros, sabiendo que Allah ve lo que nadie más ve.
 
 <!-- story:end -->
 
@@ -163,13 +163,13 @@ Yusuf se alegró al escuchar esto, y siguió doblando su cama y ayudando a su he
 
 <!-- unit:start id="4-7.authenticated-story" kind="authenticated_story" -->
 
-### Una historia verdadera: Los primeros tres en entrar al Jannah
+### Una historia verdadera: los tres primeros en entrar al Jannah
 
 <!-- story:start audience="4-7" role="authenticated" type="hadith" source_id="tirmidhi-1642" authenticated="true" -->
 
 <!-- retelling:start source_id="tirmidhi-1642" audience="4-7" -->
 
-El Profeta ﷺ nos contó que Allah le mostró a los primeros tres hombres en entrar al Jannah: un hombre que dio su vida en el camino de Allah, un hombre que se conformó con poco y nunca extendió su mano hacia lo prohibido aunque lo necesitaba, y un siervo que obedeció a su Señor e hizo bien su trabajo para quienes lo empleaban, con sinceridad y honestidad.[^4] Estos tres se adelantaron hacia el Jannah, no porque la gente los conociera, sino porque Allah conocía su sinceridad.
+El Profeta ﷺ nos contó que Allah le mostró a las tres primeras personas que entrarán al Jannah: un hombre que dio su vida en el camino de Allah, un hombre que se conformó con poco y nunca extendió su mano hacia lo prohibido aunque lo necesitaba, y un sirviente que obedeció a su Señor e hizo bien su trabajo para quienes lo empleaban, con sinceridad y honestidad.[^4] Estos tres se adelantaron hacia el Jannah, no porque la gente los conociera, sino porque Allah conocía su sinceridad.
 
 <!-- retelling:end -->
 
@@ -182,7 +182,7 @@ El Profeta ﷺ nos contó que Allah le mostró a los primeros tres hombres en en
 ### Preguntas cortas
 
 1. ¿Qué hacía Yusuf cada mañana sin decírselo a nadie?
-2. ¿Quiénes son los primeros tres hombres que el Profeta ﷺ nos dijo que entrarán al Jannah?
+2. ¿Quiénes son las tres primeras personas que, según nos dijo el Profeta ﷺ, entrarán al Jannah?
 3. ¿Tu obra sincera necesita el elogio de alguien para ser amada por Allah?
 
 <!-- unit:end -->
@@ -209,7 +209,7 @@ Un adulto prepara una cajita cerrada. Cada día, cuando el niño hace una obra s
 
 > اللَّهُمَّ اجْعَلْنِي مِنَ السَّابِقِينَ إِلَى مَا تُحِبُّ، وَأَدْخِلْنِي الْجَنَّةَ مَعَ عِبَادِكَ الصَّادِقِينَ.
 >
-> Significado: "Oh Allah, hazme de los adelantados hacia lo que Tú amas, y admíteme en el Jannah junto con Tus siervos sinceros."
+> Significado: "Oh Allah, ponme entre los que se adelantan hacia lo que Tú amas, y hazme entrar en el Jannah con Tus siervos sinceros."
 
 <!-- bedtime-dua:end -->
 
@@ -223,7 +223,7 @@ Un adulto prepara una cajita cerrada. Cada día, cuando el niño hace una obra s
 
 ## Para niños de 8 a 12 años
 
-Podrías pensar que adelantarse hacia el favor de Allah requiere una gran obra que todos vean y elogien. Pero Allah nos dijo que los primeros tres en entrar al Jannah no son necesariamente las personas más famosas, sino las más sinceras en situaciones donde quizás nadie las observa: quien dio su vida, quien se conformó con lo lícito a pesar de su necesidad, y quien cumplió con sinceridad la confianza de su trabajo. El verdadero adelantamiento se mide por la sinceridad del corazón en secreto, no por el tamaño del aplauso en público.
+Podrías pensar que adelantarse hacia el favor de Allah requiere una gran obra que todos vean y elogien. Pero Allah nos dijo que los tres primeros en entrar al Jannah no son necesariamente las personas más famosas, sino las más sinceras en situaciones donde quizás nadie las observa: quien dio su vida, quien se conformó con lo lícito a pesar de su necesidad, y quien cumplió con honradez lo que se le confió en su trabajo. El verdadero adelantamiento se mide por la sinceridad del corazón en secreto, no por el tamaño del aplauso en público.
 
 <!-- unit:end -->
 
@@ -235,11 +235,11 @@ Podrías pensar que adelantarse hacia el favor de Allah requiere una gran obra q
 
 **Esta es una historia educativa imaginaria, no un hadiz ni un relato histórico.**
 
-Salma ayudaba a su padre en su pequeña tienda cada tarde después de la escuela, atendiendo a los clientes y cobrando sus cuentas. Un día, su padre se ausentó unos minutos para contestar una llamada, y una clienta le dio dinero para comprar algunas cosas, así que Salma se encargó ella misma de la cuenta. Después de que la clienta se fue, Salma descubrió que le había dado mucho más cambio del debido, por error.
+Salma ayudaba a su padre en su pequeña tienda cada tarde después de la escuela, atendiendo a los clientes y cobrando sus cuentas. Un día, su padre se ausentó unos minutos para contestar una llamada, y una clienta le dio dinero para comprar algunas cosas, así que Salma se encargó ella misma de la cuenta. Cuando la clienta ya se había ido, Salma se dio cuenta de que, por error, le había pagado bastante más de lo debido.
 
-Salma pensó por un momento: "Nadie me vio, y nadie lo sabría si me quedara con eso en la caja de la tienda." Pero recordó una lección que había escuchado sobre los primeros tres en entrar al Jannah, entre ellos uno que adoró bien a su Señor y fue sincero en la confianza de quienes lo empleaban. Se dijo a sí misma: "Mi padre confió en mí con esta tienda, y este dinero no es nuestro."
+Salma pensó por un momento: "Nadie me ha visto, y nadie se enteraría si lo dejo en la caja de la tienda." Pero recordó una lección que había escuchado sobre los tres primeros en entrar al Jannah, entre ellos uno que adoró bien a su Señor y fue fiel a la confianza de quienes lo empleaban. Se dijo a sí misma: "Mi padre me ha confiado esta tienda, y este dinero no es nuestro."
 
-Salma corrió tras la clienta hasta alcanzarla, y le devolvió el dinero de más con una sonrisa serena, luego regresó a la tienda sin contarle a nadie lo que había hecho. Nadie la aplaudió, pero sintió en su corazón una paz que nunca antes había sentido.
+Salma corrió tras la clienta hasta alcanzarla, y le devolvió el dinero de más con una sonrisa serena, y luego regresó a la tienda sin contarle a nadie lo que había hecho. Nadie la aplaudió, pero sintió en su corazón una paz que nunca antes había sentido.
 
 <!-- story:end -->
 
@@ -253,7 +253,7 @@ Salma corrió tras la clienta hasta alcanzarla, y le devolvió el dinero de más
 
 <!-- retelling:start source_id="tirmidhi-1642" audience="8-12" -->
 
-Abu Hurayrah, que Allah esté complacido con él, narró que el Profeta ﷺ dijo: «Me fueron mostrados los primeros tres en entrar al Jannah: un mártir, una persona casta que se abstiene, y un siervo que adoró bien a Allah y dio consejo sincero a quienes servía».[^4] El mártir dio lo más preciado que poseía en el camino de Allah; el casto que se abstiene rechazó lo prohibido aunque estaba necesitado, y no mendigó insistentemente a la gente; y el siervo excelente cumplió su trabajo con honestidad y sinceridad hacia quienes lo empleaban, sin traicionar jamás el dinero o el trabajo que se le confió.
+Abu Hurayrah, que Allah esté complacido con él, narró que el Profeta ﷺ dijo: «Me fueron mostrados los tres primeros en entrar al Jannah: un mártir, una persona casta que se abstiene, y un siervo que adoró bien a Allah y fue leal y sincero con sus señores».[^4] El mártir dio lo más preciado que poseía en el camino de Allah; el casto que se abstiene rechazó lo prohibido aunque estaba necesitado, y no mendigó insistentemente a la gente; y el siervo excelente cumplió su trabajo con honestidad y sinceridad hacia quienes lo empleaban, sin traicionar jamás el dinero o el trabajo que se le confió.
 
 Estas tres categorías no fueron mencionadas por títulos o rangos, sino por cualidades del corazón y del carácter: el sacrificio, la castidad y la honestidad. Esto muestra que el adelantamiento hacia el Jannah es una puerta abierta para todo aquel cuya obra sea sincera, no solo para los famosos por su rango o riqueza.
 
@@ -268,8 +268,8 @@ Estas tres categorías no fueron mencionadas por títulos o rangos, sino por cua
 <!-- terminology:start source_id="tirmidhi-1642" -->
 
 - **`عَفِيفٌ مُتَعَفِّفٌ` (el casto que se abstiene)** — quien se abstiene de lo prohibido y soporta su necesidad con paciencia, sin mendigar insistentemente a la gente a pesar de su pobreza.
-- **`نَصَحَ لِمَوَالِيهِ` (dio consejo sincero a quienes servía)** — fue sincero y dedicado sirviendo a quienes lo empleaban, sin traicionar jamás su dinero o su confianza.
-- **`شَهِيدٌ` (mártir)** — quien fue matado en el camino de Allah defendiendo su religión, dando lo más preciado que tenía, con sinceridad.
+- **`نَصَحَ لِمَوَالِيهِ` (fue leal y sincero con sus señores)** — fue sincero y dedicado sirviendo a quienes lo empleaban, sin traicionar jamás su dinero o su confianza.
+- **`شَهِيدٌ` (mártir)** — quien murió en el camino de Allah defendiendo su religión, dando lo más preciado que tenía, con sinceridad.
 
 <!-- terminology:end -->
 
@@ -308,7 +308,7 @@ Durante una semana, registra cada día en un pequeño cuaderno una situación en
 
 > اللَّهُمَّ اجْعَلْنِي مِنَ السَّابِقِينَ إِلَى مَا تُحِبُّ، وَأَدْخِلْنِي الْجَنَّةَ مَعَ عِبَادِكَ الصَّادِقِينَ.
 >
-> Significado: "Oh Allah, hazme de los adelantados hacia lo que Tú amas, y admíteme en el Jannah junto con Tus siervos sinceros."
+> Significado: "Oh Allah, ponme entre los que se adelantan hacia lo que Tú amas, y hazme entrar en el Jannah con Tus siervos sinceros."
 
 <!-- bedtime-dua:end -->
 
@@ -322,9 +322,9 @@ Durante una semana, registra cada día en un pequeño cuaderno una situación en
 
 ## Para adolescentes 13+
 
-En un mundo donde el valor a veces se mide por cuántas personas ven tu logro o interactúan con él, esta lección ofrece un criterio completamente distinto para el adelantamiento: `وَالسَّابِقُونَ السَّابِقُونَ * أُولَـٰئِكَ الْمُقَرَّبُونَ`. El propio Profeta ﷺ, a pesar de su grandeza y fama, nos dice que su adelantamiento ante la puerta del Jannah es el fruto de su sinceridad en la predicación y su paciencia, no simplemente un rango que se le otorgó. Luego llega el hadiz de "los primeros tres en entrar al Jannah" para romper una expectativa común: los tres que se adelantan no son personas de rango o fama, sino alguien que se sacrificó, alguien que se mantuvo casto ocultando su necesidad, y alguien que cumplió la confianza de un trabajo que nadie vigilaba.
+En un mundo donde el valor a veces se mide por cuántas personas ven tu logro o interactúan con él, esta lección ofrece un criterio completamente distinto para el adelantamiento: `وَالسَّابِقُونَ السَّابِقُونَ * أُولَـٰئِكَ الْمُقَرَّبُونَ`. El propio Profeta ﷺ, a pesar de su grandeza y fama, nos informó que él es el primero en tocar la puerta del Jannah, y antes de eso se adelantó a la gente en esta vida con su sinceridad en la predicación y su paciencia en ella. Luego llega el hadiz de "los tres primeros en entrar al Jannah" para romper una expectativa común: los tres que se adelantan no son personas de rango o fama, sino alguien que se sacrificó, alguien que se mantuvo casto ocultando su necesidad, y alguien que fue fiel en un trabajo que nadie vigilaba.
 
-Esto enfrenta una tentación de nuestra época: pensar que una obra que no se documenta o publica no tiene valor. Pero la revelación nos enseña que las obras más pesadas ante Allah pueden ser las más ocultas a los ojos de todos.
+Esto hace frente a una tentación de nuestra época: pensar que una obra que no se documenta o publica no tiene valor. Pero la revelación nos enseña que las obras de más peso ante Allah pueden ser las más ocultas a los ojos de todos.
 
 <!-- unit:end -->
 
@@ -336,11 +336,11 @@ Esto enfrenta una tentación de nuestra época: pensar que una obra que no se do
 
 **Esta es una historia educativa imaginaria, no un hadiz ni un relato histórico.**
 
-Tariq trabajaba a tiempo parcial en una pequeña biblioteca después de la escuela, y se le pedía que registrara él mismo sus horas de trabajo en un cuaderno basado en la confianza, sin que nadie lo vigilara de cerca. Un día, se distrajo con una llamada personal durante veinte minutos en medio de su turno, y pensó en registrar sus horas completas como de costumbre, pensando que nadie notaría una diferencia tan pequeña.
+Tariq trabajaba a tiempo parcial en una pequeña biblioteca después de la escuela, y se le pedía que registrara él mismo sus horas de trabajo en un cuaderno, confiando en su palabra, sin que nadie lo vigilara de cerca. Un día, se distrajo con una llamada personal durante veinte minutos en medio de su turno, y se le ocurrió anotar las horas completas como de costumbre: nadie notaría una diferencia tan pequeña.
 
-Tariq recordó lo que había aprendido sobre "el siervo que adoró bien a Allah y dio consejo sincero a quienes servía", y se preguntó: "¿Ser sincero con quien confía en mí significa aprovecharme de su ausencia?" Sintió una incomodidad interior, y decidió descontar esos veinte minutos de sus horas él mismo, sin que nadie se lo pidiera y sin que el dueño de la biblioteca se enterara jamás.
+Tariq recordó lo que había aprendido sobre "el siervo que adoró bien a Allah y fue leal y sincero con sus señores", y se preguntó: "¿Ser sincero con quien confía en mí significa aprovecharme de su ausencia?" Sintió una incomodidad interior, y decidió descontar esos veinte minutos de sus horas él mismo, sin que nadie se lo pidiera y sin que el dueño de la biblioteca se enterara jamás.
 
-Al día siguiente, vio una publicación de un compañero jactándose de un logro pequeño delante de todos, y Tariq se dio cuenta de que lo que había hecho el día anterior, aunque nunca sería publicado ni elogiado, podría ser más pesado ante Allah que muchas de las cosas que se publican y se admiran.
+Al día siguiente, vio una publicación de un compañero jactándose de un logro pequeño delante de todos, y Tariq se dio cuenta de que lo que había hecho el día anterior, aunque nunca sería publicado ni elogiado, podría tener más peso ante Allah que muchas de las cosas que se publican y se admiran.
 
 <!-- story:end -->
 
@@ -354,9 +354,9 @@ Al día siguiente, vio una publicación de un compañero jactándose de un logro
 
 <!-- retelling:start source_id="tirmidhi-1642" audience="13+" -->
 
-Abu Hurayrah, que Allah esté complacido con él, narró que el Profeta ﷺ dijo: «Me fueron mostrados los primeros tres en entrar al Jannah: un mártir, una persona casta que se abstiene, y un siervo que adoró bien a Allah y dio consejo sincero a quienes servía».[^4] Este es un hadiz que el propio At-Tirmidhi calificó de hasan.
+Abu Hurayrah, que Allah esté complacido con él, narró que el Profeta ﷺ dijo: «Me fueron mostrados los tres primeros en entrar al Jannah: un mártir, una persona casta que se abstiene, y un siervo que adoró bien a Allah y fue leal y sincero con sus señores».[^4] Este es un hadiz que el propio At-Tirmidhi calificó de hasan.
 
-Nota que estas tres categorías comparten el hecho de que su sinceridad se manifiesta con mayor claridad en el momento en que nadie las observa: el mártir en su momento más vulnerable y peligroso; el casto cuando está a solas con su necesidad y no encuentra quién lo ayude; y el siervo cuando está ausente quien podría pedirle cuentas de su confianza. El adelantamiento que Allah prometió a estos tres no se construyó sobre el testimonio de la gente hacia ellos, sino sobre el conocimiento que Allah tiene de su sinceridad en secreto, y este es el significado de su cercanía a Él en Su dicho: `أُولَـٰئِكَ الْمُقَرَّبُونَ` ("esos son los allegados").
+Fíjate en que estas tres categorías comparten el hecho de que su sinceridad se manifiesta con mayor claridad en el momento en que nadie las observa: el mártir en su momento más vulnerable y peligroso; el casto cuando está a solas con su necesidad y no encuentra quién lo ayude; y el siervo cuando está ausente quien podría pedirle cuentas de su confianza. El adelantamiento que Allah prometió a estos tres no se construyó sobre el testimonio de la gente sobre ellos, sino sobre el conocimiento que Allah tiene de su sinceridad en secreto, y este es el significado de su cercanía a Él en Su dicho: `أُولَـٰئِكَ الْمُقَرَّبُونَ` ("esos son los allegados").
 
 <!-- retelling:end -->
 
@@ -369,8 +369,8 @@ Nota que estas tres categorías comparten el hecho de que su sinceridad se manif
 <!-- terminology:start source_id="tirmidhi-1642" -->
 
 - **`الْمُقَرَّبُونَ` (los allegados)** — el rango más alto entre la gente del Jannah, los adelantados a quienes Allah distinguió con Su cercanía.
-- **`عَفِيفٌ مُتَعَفِّفٌ` (el casto que se abstiene)** — quien se abstiene de lo prohibido por voluntad propia, y se impone la castidad de no pedir a la gente, a pesar de una necesidad genuina.
-- **`نَصَحَ لِمَوَالِيهِ` (dio consejo sincero a quienes servía)** — fue dedicado sirviendo a quienes lo empleaban o le confiaban sus asuntos, sin engañarlos ni aprovecharse de su ausencia.
+- **`عَفِيفٌ مُتَعَفِّفٌ` (el casto que se abstiene)** — quien se abstiene de lo prohibido por voluntad propia, y se obliga a no pedir nada a la gente, a pesar de una necesidad genuina.
+- **`نَصَحَ لِمَوَالِيهِ` (fue leal y sincero con sus señores)** — sirvió con lealtad a quienes lo empleaban o le confiaban sus asuntos, sin engañarlos ni aprovecharse de su ausencia.
 
 <!-- terminology:end -->
 
@@ -380,10 +380,10 @@ Nota que estas tres categorías comparten el hecho de que su sinceridad se manif
 
 ### Preguntas de discusión
 
-1. ¿Cómo desafía el hadiz de "los primeros tres en entrar al Jannah" la idea de que el mérito se mide por la fama o el rango?
+1. ¿Cómo desafía el hadiz de "los tres primeros en entrar al Jannah" la idea de que el mérito se mide por la fama o el rango?
 2. ¿Por qué se describió a los adelantados en la aleya de Al-Waqi'ah como `los allegados`, en lugar de como los más famosos?
 3. ¿Cuál es la diferencia entre ser sincero con quien confió en ti en su ausencia, y hacer bien el trabajo solo en su presencia?
-4. ¿Cómo enfrenta esta lección la tentación de publicar logros para demostrar valía ante los demás?
+4. ¿Cómo enfrenta esta lección la tentación de publicar logros para demostrar su valía ante los demás?
 5. ¿Qué situación en tu vida se parece a la de Tariq, donde tu sinceridad no será notada por nadie más que tú y tu Señor?
 
 <!-- unit:end -->
@@ -394,7 +394,7 @@ Nota que estas tres categorías comparten el hecho de que su sinceridad se manif
 
 <!-- activity:start audience="13+" concept_id="lesson.016.activity.quiet-foremost-log" -->
 
-Durante dos semanas, registra en un cuaderno privado cada situación en la que fuiste sincero sin que nadie te supervisara (en tu escuela, tu trabajo, o tus interacciones en internet), y clasifícala bajo una de tres categorías: **sacrificio y entrega**, o **abstención de tomar lo que no es tuyo o de aprovecharte de la ausencia de un supervisor**, o **honestidad en una tarea o confianza que se te ha encomendado**. Al final de las dos semanas, escribe un párrafo comparando una situación que registraste con otra situación que habrías mostrado a la gente para ser elogiado por ella, citando la aleya de los adelantados o uno de los dos hadices.
+Durante dos semanas, registra en un cuaderno privado cada situación en la que fuiste sincero sin que nadie te supervisara (en tu escuela, tu trabajo, o tus interacciones en internet), y clasifícala bajo una de tres categorías: **sacrificio y entrega**, o **abstención de tomar lo que no es tuyo o de aprovecharte de la ausencia de un supervisor**, o **honestidad en una tarea o confianza que se te ha encomendado**. Al final de las dos semanas, escribe un párrafo comparando una situación que registraste con otra que solías mostrar a la gente para que te elogiaran, citando la aleya de los adelantados o uno de los dos hadices.
 
 <!-- activity:end -->
 
@@ -410,7 +410,7 @@ Durante dos semanas, registra en un cuaderno privado cada situación en la que f
 
 > اللَّهُمَّ اجْعَلْنِي مِنَ السَّابِقِينَ إِلَى مَا تُحِبُّ، وَأَدْخِلْنِي الْجَنَّةَ مَعَ عِبَادِكَ الصَّادِقِينَ.
 >
-> Significado: "Oh Allah, hazme de los adelantados hacia lo que Tú amas, y admíteme en el Jannah junto con Tus siervos sinceros."
+> Significado: "Oh Allah, ponme entre los que se adelantan hacia lo que Tú amas, y hazme entrar en el Jannah con Tus siervos sinceros."
 
 <!-- bedtime-dua:end -->
 
@@ -425,7 +425,7 @@ Durante dos semanas, registra en un cuaderno privado cada situación en la que f
 ### Adultos — 60 minutos
 
 <!-- lesson-plan:outcomes -->
-**Resultados de aprendizaje:** Que el alumno explique la aleya de los adelantados y los hadices "el primero en tocar la puerta del Jannah" y "los primeros tres en entrar al Jannah", distinga el verdadero criterio del adelantamiento del criterio de la fama, y registre tres situaciones sinceras y ocultas vinculándolas con las evidencias.
+**Resultados de aprendizaje:** Que el alumno explique la aleya de los adelantados y los hadices "el primero en tocar la puerta del Jannah" y "los tres primeros en entrar al Jannah", distinga el verdadero criterio del adelantamiento del criterio de la fama, y registre tres situaciones sinceras y ocultas vinculándolas con las evidencias.
 
 <!-- lesson-plan:materials -->
 **Materiales:** Una copia de las aleyas 10-11 de Al-Waqi'ah y los dos hadices; una plantilla del Registro del Adelantamiento Silencioso; papel y bolígrafos; una tarjeta de salida.
@@ -446,7 +446,7 @@ Durante dos semanas, registra en un cuaderno privado cada situación en la que f
 **Actividad — 15 minutos:** Los alumnos comienzan el Registro del Adelantamiento Silencioso para los próximos tres días, clasificando sus expectativas bajo las tres categorías, y cada pareja revisa el plan del otro sin pedir detalles personales sensibles.
 
 <!-- lesson-plan:assessment -->
-**Evaluación y cierre — 10 minutos:** Tarjeta de salida: "Menciona las tres categorías del hadiz de los primeros tres en entrar al Jannah, explica por qué no fueron mencionadas por títulos, y escribe una situación oculta que comenzarás a registrar." El maestro cierra leyendo el du'a, aclarando que es su propia composición para la lección.
+**Evaluación y cierre — 10 minutos:** Tarjeta de salida: "Menciona las tres categorías del hadiz de los tres primeros en entrar al Jannah, explica por qué no fueron mencionadas por títulos, y escribe una situación oculta que comenzarás a registrar." El maestro cierra leyendo el du'a, aclarando que es una composición didáctica de la lección.
 
 <!-- lesson-plan:differentiation -->
 **Diferenciación:** A los principiantes se les da una lista de ejemplos ya preparados para las tres situaciones; a los avanzados se les encarga discutir con mayor detalle la relación entre este hadiz y la aleya `وَالسَّابِقُونَ السَّابِقُونَ`.
@@ -464,7 +464,7 @@ Durante dos semanas, registra en un cuaderno privado cada situación en la que f
 **Resultados de aprendizaje:** Que el niño nombre las tres categorías con oraciones sencillas, comprenda que una obra sincera y oculta es amada por Allah aunque nadie la elogie, y comience a reunir sus "estrellas" ocultas.
 
 <!-- lesson-plan:materials -->
-**Materiales:** Una cajita para cada niño; papelitos con una estrella dibujada; colores seguros; la tarjeta del du'a con letra clara.
+**Materiales:** Una cajita para cada niño; papelitos con una estrella dibujada; colores no tóxicos; la tarjeta del du'a con letra clara.
 
 <!-- lesson-plan:preparation -->
 **Preparación:** El maestro prepara las cajas y los papeles, y practica narrar la historia de Yusuf y el hadiz con oraciones cortas y claras, sin detalles atemorizantes sobre el martirio.
@@ -473,7 +473,7 @@ Durante dos semanas, registra en un cuaderno privado cada situación en la que f
 **Apertura — 4 minutos:** Preguntar: "¿Necesitamos que alguien nos vea para ser buenos?" Escuchar las respuestas de los niños, luego contar la historia de Yusuf.
 
 <!-- lesson-plan:evidence -->
-**Lectura de la evidencia — 6 minutos:** El maestro narra el hadiz de los primeros tres en entrar al Jannah de manera sencilla, deteniéndose después de cada categoría para preguntar: "¿Alguien lo vio hacer eso?"
+**Lectura de la evidencia — 6 minutos:** El maestro narra el hadiz de los tres primeros en entrar al Jannah de manera sencilla, deteniéndose después de cada categoría para preguntar: "¿Alguien lo vio hacer eso?"
 
 <!-- lesson-plan:instruction -->
 **Instrucción guiada — 6 minutos:** El maestro explica que Allah ve lo que la gente no ve, y que esta es la razón por la que Allah ama estas tres obras.
@@ -497,7 +497,7 @@ Durante dos semanas, registra en un cuaderno privado cada situación en la que f
 ### Niños 8-12 — 45 minutos
 
 <!-- lesson-plan:outcomes -->
-**Resultados de aprendizaje:** Que el alumno resuma con precisión el hadiz de los primeros tres en entrar al Jannah, explique los tres términos, distinga entre el adelantamiento por visibilidad y el adelantamiento por sinceridad, y comience un Registro del Adelantamiento Silencioso de una semana.
+**Resultados de aprendizaje:** Que el alumno resuma con precisión el hadiz de los tres primeros en entrar al Jannah, explique los tres términos, distinga entre el adelantamiento por visibilidad y el adelantamiento por sinceridad, y comience un Registro del Adelantamiento Silencioso de una semana.
 
 <!-- lesson-plan:materials -->
 **Materiales:** El texto completo del hadiz; tarjetas de términos; una plantilla del Registro del Adelantamiento Silencioso; bolígrafos.
@@ -536,7 +536,7 @@ Durante dos semanas, registra en un cuaderno privado cada situación en la que f
 **Resultados de aprendizaje:** Que el alumno analice el verdadero criterio del adelantamiento frente al criterio de la fama social, explique el significado de `los allegados` y las tres categorías, y realice un registro privado de dos semanas de situaciones sinceras y ocultas.
 
 <!-- lesson-plan:materials -->
-**Materiales:** El archivo de las tres evidencias; tarjetas de términos; una plantilla de registro privado para dos semanas; tarjetas de salida.
+**Materiales:** Una carpeta con las tres evidencias; tarjetas de términos; una plantilla de registro privado para dos semanas; tarjetas de salida.
 
 <!-- lesson-plan:preparation -->
 **Preparación:** El maestro repasa la calificación de los dos hadices, y prepara un ejemplo neutral sobre la presión de publicar y documentar socialmente, sin referirse a ningún alumno en particular.
@@ -545,10 +545,10 @@ Durante dos semanas, registra en un cuaderno privado cada situación en la que f
 **Apertura — 5 minutos:** El maestro plantea una pregunta: "¿Vale menos un logro que no se publica que uno que se ve?" Abre una breve discusión antes de leer la historia de Tariq.
 
 <!-- lesson-plan:evidence -->
-**Estudio de las evidencias — 12 minutos:** Tres grupos leen las aleyas 10-11 de Al-Waqi'ah, el hadiz "el primero en tocar la puerta del Jannah", y el hadiz "los primeros tres en entrar al Jannah". Cada grupo extrae: el significado del adelantamiento en su texto, y su relación con la visibilidad o el ocultamiento.
+**Estudio de las evidencias — 12 minutos:** Tres grupos leen las aleyas 10-11 de Al-Waqi'ah, el hadiz "el primero en tocar la puerta del Jannah", y el hadiz "los tres primeros en entrar al Jannah". Cada grupo extrae: el significado del adelantamiento en su texto, y su relación con la visibilidad o el ocultamiento.
 
 <!-- lesson-plan:instruction -->
-**Instrucción guiada — 13 minutos:** El maestro explica los términos `los allegados`, el casto que se abstiene y el consejo sincero a quienes se sirve, y discute cómo estos textos enfrentan la tentación de medir el valor por el número de visualizaciones e interacciones.
+**Instrucción guiada — 13 minutos:** El maestro explica los términos `los allegados`, el casto que se abstiene y la lealtad sincera del siervo hacia sus señores, y discute cómo estos textos enfrentan la tentación de medir el valor por el número de visualizaciones e interacciones.
 
 <!-- lesson-plan:activity -->
 **Actividad — 15 minutos:** Los alumnos comienzan su registro privado de dos semanas, escribiendo un párrafo introductorio que explique una diferencia que notaron entre una obra que publican y una que ocultan.
@@ -569,8 +569,8 @@ Durante dos semanas, registra en un cuaderno privado cada situación en la que f
 ## Referencias
 
 [^1]: El Noble Corán, sura Al-Waqi'ah, aleyas 10-11: [Texto coránico](https://quran.com/56/10).
-[^2]: Abu al-Fida' Isma'il ibn Kazir, *Tafsir al-Qur'an al-'Azim*, comentario a la sura Al-Waqi'ah, aleyas 10-11, donde explica que los adelantados son quienes se adelantan a la obediencia en cada nación y que son los allegados: [Mushaf electrónico de la Universidad Rey Saud](https://quran.ksu.edu.sa/tafseer/katheer/sura56-aya10.html).
-[^3]: Sahih Muslim, Libro de la Fe, hadiz 197, narrado por Anas ibn Malik, que Allah esté complacido con él: [Sunnah.com, narración 197](https://sunnah.com/muslim:197).
-[^4]: Sunan At-Tirmidhi, hadiz 1642, narrado por Abu Hurayrah, que Allah esté complacido con él, calificado como hasan por el propio At-Tirmidhi: [Sunnah.com, narración 1642](https://sunnah.com/tirmidhi:1642).
+[^2]: Abu al-Fida' Isma'il ibn Kazir, *Tafsir al-Qur'an al-'Azim*, comentario a la sura Al-Waqi'ah, aleyas 10-11, donde explica que los adelantados son quienes se apresuran a hacer el bien tal como se les ordenó, y que quien se adelanta al bien en esta vida estará entre los adelantados hacia la honra en la Otra Vida, porque la recompensa es del mismo género que la obra: [Mushaf electrónico de la Universidad Rey Saud](https://quran.ksu.edu.sa/tafseer/katheer/sura56-aya10.html).
+[^3]: Sahih Muslim, Libro de la Fe, hadiz 196 (segunda narración, por vía de al-Mukhtar ibn Fulful), narrado por Anas ibn Malik, que Allah esté complacido con él: [Sunnah.com, narración 196b](https://sunnah.com/muslim:196b).
+[^4]: Sunan At-Tirmidhi, hadiz 1642, narrado por Abu Hurayrah, que Allah esté complacido con él. At-Tirmidhi dijo: "Este es un hadiz hasan"; Bashar 'Awwad Ma'ruf lo calificó de hasan, mientras que Ahmad Shakir y al-Albani lo calificaron de débil: [Sunnah.com, narración 1642](https://sunnah.com/tirmidhi:1642).
 
 <!-- references:end -->

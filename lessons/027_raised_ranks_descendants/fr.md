@@ -197,7 +197,7 @@ Il s'agit d'un récit historique, transmis par les historiens et les biographes�
 
 #### Interprétation Savante
 
-Ibn Kathir explique qu'Ibrahim recommanda à ses fils « cette voie, qui est la soumission (*islam*) à Allah », et que « ne mourez qu'en étant musulmans » signifie : « Faites le bien durant votre vie et attachez-vous à cette voie, afin qu'Allah vous accorde de mourir sur elle. » Au sujet du dernier verset, il précise que, pour ce qui est des devanciers, prophètes et vertueux, « votre filiation avec eux ne vous servira de rien » si vous n'agissez pas comme ils ont agi.[^7]
+Ibn Kathir explique qu'Ibrahim recommanda à ses fils « cette voie, qui est la soumission (*islam*) à Allah », et que « ne mourez qu'en étant musulmans » signifie : « Faites le bien durant votre vie et attachez-vous à cette voie, afin qu'Allah vous accorde de mourir sur elle. » Au sujet du dernier verset, il précise que, pour ce qui est des devanciers, prophètes et vertueux, « votre filiation avec eux ne vous servira de rien si vous ne faites pas un bien dont le profit vous revienne ».[^7]
 
 #### Explication De La Leçon
 
@@ -515,7 +515,7 @@ Mais 'Umar voyait que cette « tranquillité » serait prise sur les droits de
 
 Ya'qub, paix sur lui, était prophète, fils de prophète et petit-fils de prophète : si la lignée suffisait, il aurait pu être tranquille pour ses enfants. Et pourtant, le Coran nous montre la scène où la mort se présenta à lui : il demanda à ses fils : « Qu'adorerez-vous après moi ? » Ils répondirent : « Nous adorerons ton Dieu et le Dieu de tes pères, Ibrahim, Isma'il et Ishaq, un Dieu unique, et c'est à Lui que nous sommes soumis. »
 
-Remarque bien : ils ont dit « ton Dieu et le Dieu de tes pères », puis ils ont ajouté « et c'est à Lui que nous sommes soumis ». Ils ne se sont pas contentés de rappeler la foi de leurs pères : ils ont proclamé la leur. Puis Allah conclut : « Voilà une communauté qui est passée : à elle ce qu'elle a acquis, et à vous ce que vous avez acquis. » Ibn Kathir explique que se réclamer des prophètes et des vertueux ne sert de rien à celui qui n'agit pas comme eux.[^7]
+Remarque bien : ils ont dit « ton Dieu et le Dieu de tes pères », puis ils ont ajouté « et c'est à Lui que nous sommes soumis ». Ils ne se sont pas contentés de rappeler la foi de leurs pères : ils ont proclamé la leur. Puis Allah conclut : « Voilà une communauté qui est passée : à elle ce qu'elle a acquis, et à vous ce que vous avez acquis. » Ibn Kathir explique que se réclamer des prophètes et des vertueux ne sert de rien à celui qui ne fait pas un bien dont le profit lui revienne.[^7]
 
 C'est exactement la condition posée par le verset d'at-Tur : une descendance qui a suivi ses parents « dans la foi », et pas seulement de nom.
 

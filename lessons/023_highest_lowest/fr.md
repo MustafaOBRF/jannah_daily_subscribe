@@ -62,7 +62,7 @@ Le Coran donne de cette échelle de valeurs un exemple vivant : la femme de Pha
 
 #### Interprétation savante
 
-L'imam an-Nawawi, qu'Allah lui fasse miséricorde, explique que « leurs parts » (*akhadhatihim*) désigne ce qu'ils ont reçu et acquis de l'honneur que leur fait leur Maître, et que « ceux que J'ai voulus » (*aradtu*) signifie : ceux que J'ai choisis et élus ; il précise que le sceau apposé sur leur honneur signifie qu'il est préservé, à l'abri de toute altération.[^3] Et la parole « tu auras tout ce que ton âme désire » montre que le don fait au plus humble ne s'arrête pas aux nombres cités.
+L'imam an-Nawawi, qu'Allah lui fasse miséricorde, rapporte du cadi 'Iyad que « leurs parts » (*akhadhatihim*) désigne ce qu'ils ont reçu et acquis de l'honneur que leur fait leur Maître, et il explique que « ceux que J'ai voulus » (*aradtu*) signifie : ceux que J'ai choisis et élus ; il précise que « J'ai planté leur honneur de Ma Main et J'y ai apposé un sceau » signifie : Je les ai choisis et J'ai pris soin d'eux, si bien qu'aucune altération n'atteint leur honneur.[^3] Et la parole « tu auras tout ce que ton âme désire » montre que le don fait au plus humble ne s'arrête pas aux nombres cités.
 
 #### Explication de la leçon
 
@@ -128,7 +128,7 @@ Elle occupait l'un des rangs les plus élevés que ce monde puisse offrir, et po
 
 #### Interprétation savante
 
-Les exégètes rappellent que Pharaon faisait égorger les fils des enfants d'Israël, comme l'indique le début de la sourate. Le *lam* de « pour qu'il devienne » est le *lam* de la conséquence (*lam al-'aqibah*) : ils ne l'ont pas recueilli dans le but d'en faire leur ennemi, mais telle fut l'issue de leur geste.[^7]
+Les exégètes rappellent que Pharaon faisait égorger les fils des enfants d'Israël, comme l'indique le début de la sourate. Ibn Kathir rapporte de Muhammad ibn Ishaq et d'autres que le *lam* de « pour qu'il devienne » est le *lam* de la conséquence (*lam al-'aqibah*) : ils ne l'ont pas recueilli dans le but d'en faire leur ennemi, mais telle fut l'issue de leur geste. Ibn Kathir ajoute que, du point de vue du décret d'Allah, il reste un *lam* de finalité : Allah les a amenés à le recueillir afin d'en faire pour eux un ennemi et une source d'affliction.[^7]
 
 #### Explication de la leçon
 
@@ -150,7 +150,7 @@ Le Coran ne dit pas à quel moment la femme de Pharaon a cru, mais il garde la m
 
 #### Interprétation savante
 
-Le hafiz Ibn Hajar, qu'Allah lui fasse miséricorde, explique que la perfection dont il est question ici consiste à atteindre le plus haut degré dans les vertus et dans les qualités de piété, et que la majorité des savants n'y voient aucune preuve de la prophétie des femmes mentionnées.[^9]
+Le hafiz Ibn Hajar, qu'Allah lui fasse miséricorde, rapporte d'al-Kirmani que la perfection se dit d'une chose complète, parvenue à son terme dans son genre : il s'agit donc d'atteindre le plus haut degré dans toutes les vertus propres aux femmes, et le mot « perfection » n'implique pas à lui seul la prophétie. Il mentionne aussi la divergence des savants sur la prophétie de Maryam, et rapporte d'al-Qurtubi que rien n'est venu indiquer qu'Asiyah ait été prophète.[^9]
 
 #### Explication de la leçon
 
@@ -375,7 +375,7 @@ D'où la question : si le plus humble des gens de la Jannah est au-dessus des r
 <!-- terminology:start source_id="quran-66-11" -->
 
 - **`Daraba Allahu mathalan`** (Allah a cité en exemple) — Allah a fait de sa situation un modèle à suivre et une mesure à laquelle se comparer, et non un simple fait historique.
-- **`Al-kamal`** (la perfection) — dans le hadith « Nombreux sont les hommes qui ont atteint la perfection » : le fait d'atteindre le plus haut degré dans les vertus et les qualités de piété.[^9]
+- **`Al-kamal`** (la perfection) — dans le hadith « Nombreux sont les hommes qui ont atteint la perfection » : le fait d'atteindre le plus haut degré dans toutes les vertus, comme le rapporte Ibn Hajar d'al-Kirmani.[^9]
 
 <!-- terminology:end -->
 
@@ -462,7 +462,7 @@ Sens : Ô Allah, fais de Ta proximité le but ultime de mes ambitions, élève 
 **Matériel :** un exemplaire de la leçon par apprenant ; un Coran pour se reporter aux sourates at-Tahrim et al-Qasas ; un tableau divisé en deux colonnes (« Le rang le plus bas » et « Le rang le plus élevé ») ; une fiche d'activité comportant deux tableaux côte à côte pour le premier et le second classement ; une fiche de sortie.
 
 <!-- lesson-plan:preparation -->
-**Préparation :** l'enseignant lit les cinq preuves et leurs références ; il révise le commentaire d'an-Nawawi sur le hadith de Muslim 189 et l'exégèse d'Ibn Kathir sur le verset 11 d'at-Tahrim, en notant que les récits rapportés sur les tortures subies par la femme de Pharaon sont *mawquf* et qu'on ne bâtit rien sur eux. Il garde à l'esprit que la leçon précédente de la série (« Le dernier à entrer en Jannah ») a présenté un hadith proche concernant le rang le plus bas ; il se contente donc d'y renvoyer, sans le reprendre.
+**Préparation :** l'enseignant lit les cinq preuves et leurs références ; il révise le commentaire d'an-Nawawi sur le hadith de Muslim 189 et l'exégèse d'Ibn Kathir sur le verset 11 d'at-Tahrim, en notant que les récits rapportés sur les tortures subies par la femme de Pharaon sont *mawquf* et qu'on ne bâtit rien sur eux. Il garde à l'esprit qu'une leçon antérieure de la série (leçon 19, « Le dernier à entrer en Jannah ») a présenté un hadith proche concernant le rang le plus bas ; il se contente donc d'y renvoyer, sans le reprendre.
 
 <!-- lesson-plan:opening -->
 **Ouverture — 5 minutes :** l'enseignant demande : « Si l'on vous demandait de dresser la liste des dix personnes les plus haut placées de votre ville, sur quel critère les choisiriez-vous ? » Il note les critères au tableau sans les commenter, pour y revenir en fin de séance.

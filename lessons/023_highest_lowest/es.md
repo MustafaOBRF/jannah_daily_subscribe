@@ -62,7 +62,7 @@ El Corán ofrece un ejemplo vivo de esta balanza: la esposa de Faraón, una rein
 
 #### Interpretación académica
 
-El imam an-Nawawi, que Allah tenga misericordia de él, explicó que "lo que les correspondía" (ajadhatihim) es la honra que recibieron de su Señor y que ya obtuvieron; que "los que Yo escogí" (aradtu) significa "los que elegí y preferí"; y que el sello puesto sobre su honor quiere decir que está guardado y que ningún cambio puede alcanzarlo.[^3] Y en las palabras "tendrás cuanto desee tu alma" se ve que la dádiva del más humilde no se detiene en la cifra mencionada.
+El imam an-Nawawi, que Allah tenga misericordia de él, transmitió del cadí 'Iyad que "lo que les correspondía" (ajadhatihim) es la honra que recibieron de su Señor y que ya obtuvieron; explicó que "los que Yo escogí" (aradtu) significa "los que elegí y preferí"; y que "planté su honra con Mi Mano y puse un sello sobre ella" significa: los elegí y me hice cargo de ellos, de modo que ningún cambio puede alcanzar su honra.[^3] Y en las palabras "tendrás cuanto desee tu alma" se ve que la dádiva del más humilde no se detiene en la cifra mencionada.
 
 #### Explicación de la lección
 
@@ -128,7 +128,7 @@ Ella ocupaba uno de los rangos más altos de este mundo y, aun así, en su súpl
 
 #### Interpretación académica
 
-Los exégetas mencionaron que Faraón degollaba a los hijos varones de los hijos de Israel, como se dice al comienzo de la sura. Y la partícula *li* de {para que acabara siendo} es la llamada "lam del desenlace" (lam al-'aqiba): no lo recogieron para tenerlo por enemigo, pero ese fue el desenlace de lo que hicieron.[^7]
+Los exégetas mencionaron que Faraón degollaba a los hijos varones de los hijos de Israel, como se dice al comienzo de la sura. Ibn Kazir transmite de Muhammad ibn Ishaq y otros que la partícula *li* de {para que acabara siendo} es la llamada "lam del desenlace" (lam al-'aqiba): no lo recogieron para tenerlo por enemigo, pero ese fue el desenlace de lo que hicieron. E Ibn Kazir añade que, mirada desde el decreto de Allah, sigue siendo una lam de finalidad: Allah dispuso que lo recogieran para convertirlo en enemigo y motivo de aflicción para ellos.[^7]
 
 #### Explicación de la lección
 
@@ -150,7 +150,7 @@ El Corán no dice cuándo creyó la esposa de Faraón, pero le guarda dos gestos
 
 #### Interpretación académica
 
-El hafiz Ibn Hayar, que Allah tenga misericordia de él, señaló que la perfección aquí consiste en alcanzar la cima en las virtudes y en las cualidades de la bondad, y que la mayoría de los sabios no ven en este hadiz prueba alguna de la profecía de las mujeres mencionadas.[^9]
+El hafiz Ibn Hayar, que Allah tenga misericordia de él, transmitió de al-Kirmani que la perfección se dice de algo que está completo y llega a su cima en su género, de modo que se refiere a alcanzar la cima en todas las virtudes propias de las mujeres, y que la palabra "perfección" no implica por sí sola la profecía. También mencionó la discrepancia de los sabios sobre si Maryam fue profetisa, y transmitió de al-Qurtubi que no ha llegado nada que indique que Asiya lo fuera.[^9]
 
 #### Explicación de la lección
 
@@ -375,7 +375,7 @@ Así que la pregunta es: si el más humilde de la gente del Paraíso está por e
 <!-- terminology:start source_id="quran-66-11" -->
 
 - **`Allah pone como ejemplo (daraba Allahu mazalan)`** — Allah presenta su situación como un modelo que se debe imitar y con el que medirse, no como un simple dato histórico.
-- **`La perfección (al-kamal)`** — en el hadiz "Muchos hombres alcanzaron la perfección": llegar a la cima en las virtudes y en las cualidades de la bondad.[^9]
+- **`La perfección (al-kamal)`** — en el hadiz "Muchos hombres alcanzaron la perfección": llegar a la cima en todas las virtudes, según transmite Ibn Hayar de al-Kirmani.[^9]
 
 <!-- terminology:end -->
 
@@ -462,7 +462,7 @@ Significado: Oh Allah, haz que Tu cercanía sea la meta de mis aspiraciones, ele
 **Materiales:** una copia de la lección para cada aprendiz; un mushaf para consultar las suras At-Tahrim y Al-Qasas; una pizarra dividida en dos columnas ("El rango más humilde" y "El rango más alto"); una hoja de actividad con dos tablas contiguas para la primera y la segunda ordenación; una tarjeta de salida.
 
 <!-- lesson-plan:preparation -->
-**Preparación:** el docente lee las cinco evidencias y sus fuentes, repasa el comentario de an-Nawawi al hadiz de Muslim 189 y el tafsir de Ibn Kazir a la aleya 11 de At-Tahrim, y tiene presente que los relatos sobre la tortura de la esposa de Faraón son mawquf y no se debe construir nada sobre ellos. Recuerda también que la lección anterior de la serie ("El último en entrar en el Paraíso") presentó un hadiz cercano al extremo del rango más humilde, de modo que basta con aludir a él sin repetirlo.
+**Preparación:** el docente lee las cinco evidencias y sus fuentes, repasa el comentario de an-Nawawi al hadiz de Muslim 189 y el tafsir de Ibn Kazir a la aleya 11 de At-Tahrim, y tiene presente que los relatos sobre la tortura de la esposa de Faraón son mawquf y no se debe construir nada sobre ellos. Recuerda también que una lección anterior de la serie (la lección 19, "El último en entrar en el Paraíso") presentó un hadiz cercano al extremo del rango más humilde, de modo que basta con aludir a él sin repetirlo.
 
 <!-- lesson-plan:opening -->
 **Apertura — 5 minutos:** el docente pregunta: «Si te pidieran hacer una lista de las diez personas de rango más alto de tu ciudad, ¿con qué criterio las elegirías?». Anota los criterios en la pizarra sin comentarlos, para volver a ellos al final.

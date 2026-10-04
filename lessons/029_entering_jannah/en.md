@@ -57,7 +57,7 @@ And the practical question this lesson carries is this: if the wrongs between be
 
 #### Scholarly Explanation
 
-The people of the Tree are those who pledged allegiance to the Prophet, peace and blessings be upon him, beneath the tree on the day of al-Hudaybiyah, in what is known as the Pledge of Ridwan (*Bay'at ar-Ridwan*). An-Nawawi said that the meaning is that not one of them will ever enter it, and that the words "if Allah wills" were said to seek blessing, not out of doubt. He also said that the hadith is evidence for discussion, objection and reply when the aim is to seek guidance, and that this was Hafsah's aim; she did not mean to reject what the Prophet, peace and blessings be upon him, had said. And he established that the sound view of the coming-to (*al-wurud*) is that it means passing over the Sirat, a bridge laid across Jahannam: its own people fall into it, and the rest are saved.[^7]
+The people of the Tree are those who pledged allegiance to the Prophet, peace and blessings be upon him, beneath the tree on the day of al-Hudaybiyah, in what is known as the Pledge of Ridwan (*Bay'at ar-Ridwan*). An-Nawawi reported from the scholars that the meaning is that not one of them will ever enter it, and that the words "if Allah wills" were said to seek blessing, not out of doubt. He also said that the hadith is evidence for discussion, objection and reply when the aim is to seek guidance, and that this was Hafsah's aim; she did not mean to reject what the Prophet, peace and blessings be upon him, had said. And he established that the sound view of the coming-to (*al-wurud*) is that it means passing over the Sirat, a bridge laid across Jahannam: its own people fall into it, and the rest are saved.[^7]
 
 #### Lesson Explanation
 

@@ -103,7 +103,7 @@ El fruto de arrancar el rencor es una imagen que se puede ver: rostros que se mi
 
 #### Interpretación académica
 
-Uno de sus transmisores, en la cadena de al-Bujari, recitó la aleya del rencor arrancado antes de referir el hadiz, y al-Bagawi e Ibn Kazir lo citan al comentar las dos aleyas. Es, por tanto, la explicación más sólida de cuándo se arranca el rencor: primero se saldan los derechos, después los corazones son depurados y purificados, y solo entonces llega el permiso para entrar.[^1][^3]
+Uno de sus transmisores, en la cadena de al-Bujari, recitó la aleya del rencor arrancado antes de referir el hadiz, y al-Bagawi lo cita al comentar la aleya de Al-A'raf, e Ibn Kazir al comentar la de Al-Hiyr. Es, por tanto, la explicación más sólida de cuándo se arranca el rencor: primero se saldan los derechos, después los corazones son depurados y purificados, y solo entonces llega el permiso para entrar.[^1][^2][^3]
 
 #### Explicación de la lección
 

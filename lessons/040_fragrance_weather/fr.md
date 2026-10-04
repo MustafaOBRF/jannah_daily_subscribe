@@ -22,7 +22,7 @@ bedtime_dua_id: "lesson.040.dua.fragrance-of-jannah-true-to-covenant"
 Au terme de cette leçon, l'apprenant sera capable de :
 
 - raconter dans l'ordre le récit d'Anas ibn an-Nadr, qu'Allah soit satisfait de lui (al-Bukhari 2805) : son absence à Badr, puis son engagement — « Allah verra assurément ce que je ferai » —, puis sa fermeté le jour d'Uhud et sa parole à Sa'd ibn Mu'adh : « La Jannah, par le Seigneur d'an-Nadr ! Je sens son parfum en deçà d'Uhud », puis sa mort en martyr, et enfin la descente du verset 23 de la sourate al-Ahzab à son sujet et au sujet de ceux qui lui ressemblent ;
-- expliquer que la Jannah exhale un parfum que l'on perçoit à quarante années de marche (al-Bukhari 3166), et que ce même hadith interdit d'opprimer celui qui est lié aux musulmans par un pacte de protection ;
+- expliquer que la Jannah exhale un parfum que l'on perçoit à quarante années de marche (al-Bukhari 3166), et que ce même hadith interdit de tuer celui qui est lié aux musulmans par un pacte de protection ;
 - expliquer la douceur de l'air de la Jannah à partir de la parole d'Allah « Ils n'y verront ni soleil ni froid glacial », à la lumière du tafsir d'Ibn Kathir et d'as-Sa'di : ni chaleur qui accable, ni froid qui fait souffrir ;
 - distinguer, avec Ibn al-Qayyim, le parfum de la Jannah que les âmes perçoivent dès ce monde de celui que capte l'odorat, sans trancher sur la nature exacte de ce que perçut Anas, qu'Allah soit satisfait de lui ;
 - réaliser l'activité « La prochaine fois, Allah verra ce que je ferai » : nommer une occasion de bien manquée, fixer le moment où elle se représentera, tenir son engagement ce jour-là, puis consigner ce qui s'est passé ;
@@ -58,7 +58,7 @@ Cette leçon s'arrête sur trois thèmes : le parfum de la Jannah, ce qui en pr
 
 #### Interprétation Savante
 
-Ibn al-Qayyim, qu'Allah lui fasse miséricorde, a dit : « Le parfum de la Jannah est de deux sortes : un parfum qui se trouve dès ce monde, que les âmes respirent parfois et que les mots ne parviennent pas à saisir ; et un parfum que perçoit l'odorat des corps, comme on respire le parfum des fleurs. » Cette seconde sorte, les gens de la Jannah la perçoivent dans l'au-delà, de près comme de loin, et il se peut qu'Allah la fasse percevoir dès ce monde à qui Il veut. Puis il ajoute : « Ce que perçut Anas ibn an-Nadr peut relever de cette seconde sorte, comme il peut relever de la première. »[^7] On lit encore dans un commentaire du *Riyad as-Salihin* : « Il se peut qu'il ait réellement senti le parfum de la Jannah, et il se peut qu'il se soit tant représenté la Jannah qu'il l'imaginait présente en ce lieu même. »[^8]
+Ibn al-Qayyim, qu'Allah lui fasse miséricorde, a dit : « Le parfum de la Jannah est de deux sortes : un parfum qui se trouve dès ce monde, que les âmes respirent parfois et que les mots ne parviennent pas à saisir ; et un parfum que perçoit l'odorat des corps, comme on respire le parfum des fleurs et d'autres choses. » Cette seconde sorte, les gens de la Jannah la perçoivent dans l'au-delà, de près comme de loin, et il se peut qu'Allah la fasse percevoir dès ce monde à qui Il veut parmi Ses prophètes et Ses messagers. Puis il ajoute : « Ce que perçut Anas ibn an-Nadr peut relever de cette seconde sorte, comme il peut relever de la première. »[^7] On lit encore dans un commentaire du *Riyad as-Salihin* : « Il se peut qu'il ait réellement senti le parfum de la Jannah, et il se peut qu'il se soit tant représenté la Jannah qu'il l'imaginait présente en ce lieu même. »[^8]
 
 #### Explication De La Leçon
 
@@ -106,7 +106,7 @@ Ce verset ne concerne pas les seuls martyrs, puisqu'il mentionne aussi « d'aut
 
 #### Explication De La Leçon
 
-Le hadith réunit une information et une règle. L'information : le parfum de la Jannah se perçoit à une distance que le voyageur ne couvrirait qu'en quarante ans. La règle : opprimer celui à qui les musulmans ont accordé leur protection, fût-il d'une autre religion, peut priver l'oppresseur de ce parfum. La justice envers tous les êtres humains fait donc partie du chemin de la Jannah.
+Le hadith réunit une information et une règle. L'information : le parfum de la Jannah se perçoit à une distance que le voyageur ne couvrirait qu'en quarante ans. La règle : tuer celui à qui les musulmans ont accordé leur protection, fût-il d'une autre religion, peut priver le meurtrier de ce parfum. La justice envers tous les êtres humains fait donc partie du chemin de la Jannah.
 
 <!-- evidence:end -->
 

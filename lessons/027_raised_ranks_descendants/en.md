@@ -183,7 +183,7 @@ Umar was not indifferent to his sons' future; he simply defined that future diff
 
 #### Scholarly Explanation
 
-Ibn Kathir said that Ibrahim enjoined upon his sons "this way of life, which is submission (*islam*) to Allah," and that `so do not die except as Muslims` means: "Do good while you are alive and hold fast to this, so that Allah grants you death upon it." Of the last ayah he said that the prophets and righteous people who went before "will not benefit you by your being descended from them" if you do not act as they acted.[^7]
+Ibn Kathir said that Ibrahim enjoined upon his sons "this way of life, which is submission (*islam*) to Allah," and that `so do not die except as Muslims` means: "Do good while you are alive and hold fast to this, so that Allah grants you death upon it." Of the last ayah he said that the prophets and righteous people who went before "will not benefit you by your being descended from them if you do not do good whose benefit returns to you."[^7]
 
 #### Lesson Explanation
 
@@ -501,7 +501,7 @@ Umar was not hard-hearted; his tears show how much he loved them. But he refused
 
 Ya'qub, peace be upon him, was a prophet, the son of a prophet, the grandson of a prophet. If lineage were enough, he could have rested easy about his sons. Yet the Qur'an paints the scene as death came to him: he asked his sons, "What will you worship after me?" And they answered: "We will worship your God and the God of your fathers, Ibrahim, Isma'il, and Ishaq, one God, and to Him we submit as Muslims."
 
-Notice that they said "your God and the God of your fathers," and then added "and to Him we submit as Muslims." They didn't stop at naming their fathers' faith; they declared their own. Then Allah comments: "That was a community that has passed away. It will have what it earned, and you will have what you have earned." Ibn Kathir explains that being descended from prophets and righteous people does nothing for someone who does not act as they acted.[^7]
+Notice that they said "your God and the God of your fathers," and then added "and to Him we submit as Muslims." They didn't stop at naming their fathers' faith; they declared their own. Then Allah comments: "That was a community that has passed away. It will have what it earned, and you will have what you have earned." Ibn Kathir explains that being descended from prophets and righteous people does nothing for someone who does not do good whose benefit returns to him.[^7]
 
 This is exactly the condition in the ayah of at-Tur: descendants who followed their parents "in faith," not in name only.
 

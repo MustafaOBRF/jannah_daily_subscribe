@@ -22,23 +22,23 @@ bedtime_dua_id: "lesson.009.dua.ease-through-hardship"
 After this lesson, the learner will be able to:
 
 - Narrate the hadith `Jannah is encircled by hardships, and the Fire is encircled by desires`, and explain that "encircled" means surrounded the way a wall surrounds an orchard.
-- Interpret the two ayat `Do you suppose that you will enter Jannah...` (al-Baqarah 214; Aal Imran 142), and show that trial is an unbroken pattern running through every believer who came before, not an exception reserved for one generation.
-- Connect the hadith `Indeed, the religion is ease` to the hadith of hardships, and show that the moderation commanded in `so aim for what is right and draw near` prevents hardship from being understood as endless severity without limit.
+- Interpret the two ayat `Do you suppose that you will enter Jannah...` (al-Baqarah 214; Aal Imran 142), and show that trial is an unbroken pattern in the lives of all the believers who came before, not an exception reserved for one generation.
+- Connect the hadith `Indeed, the religion is ease` to the hadith of hardships, and show that the moderation commanded in `so aim for what is right and draw near` prevents hardship from being understood as severity without limit.
 - Narrate the story of Ka'b ibn Malik, may Allah be pleased with him, and his staying behind from the Battle of Tabuk, from Sahih al-Bukhari, and draw out three moments in it where Ka'b chose hardship (honesty, patience through social boycott, refusing the Ghassanid king's offer) over its opposing desire (lying, comfort, betrayal).
-- Connect the ayat of repentance (117-119) to the conclusion of Ka'b's story, and show that the acceptance of his repentance was revealed as Qur'an recited until the Day of Judgment.
+- Connect the ayat of Surah at-Tawbah (117-119) to the conclusion of Ka'b's story, and show that the acceptance of his repentance was revealed as Qur'an recited until the Day of Judgment.
 - Carry out the "Fork Between Hardship and Desire" activity to identify a real situation in which the learner faces a choice between a hard path that pleases Allah and an easy path that angers Him.
 
 ## Academic Section for Adults
 
-<!-- reader:start audience="adults" estimated_minutes="7.5" -->
+<!-- reader:start audience="adults" estimated_minutes="7.0" -->
 
 <!-- unit:start id="adults.explanation" kind="explanation" -->
 
-Allah, the Mighty and Majestic, set an unchanging pattern: the path to Jannah is encircled by hardships, and the path to the Fire is encircled by desires. Everything that weighs on the soul — prayer in the cold, honesty that costs its speaker a price, patience through harm, giving of one's wealth or time — belongs to the "hardships" that encircle Jannah. And everything that pulls the soul toward immediate comfort, even at the expense of truth, belongs to the "desires" that encircle the Fire.
+Allah, the Mighty and Majestic, set an unchanging pattern: the path to Jannah is encircled by hardships, and the path to the Fire is encircled by desires. Everything that weighs on the soul — prayer in the cold, honesty that comes at a cost, patience in the face of harm, giving of one's wealth or time — belongs to the "hardships" that encircle Jannah. And everything that pulls the soul toward immediate comfort, even at the expense of truth, belongs to the "desires" that encircle the Fire.
 
-This is no contradiction of his words, peace and blessings be upon him: `Indeed, the religion is ease`. Rather, it completes that meaning: the ease of the religion is that Allah does not burden a soul beyond its capacity, and that the path is a moderate, walkable one for whoever stays upright and draws near — not that it is free of the difficulty by which the truthful is distinguished from the liar, and the patient from the anxious. Allah, glory be to Him, has told us that this trial was the pattern for every believer who came before, until the hardship reached such a point that some of them would cry out for Allah's help to hasten, and the answer would come: `Unquestionably, the help of Allah is near`.
+This is no contradiction of his words, peace and blessings be upon him: `Indeed, the religion is ease`. Rather, it completes that meaning: the ease of the religion is that Allah does not burden a soul beyond its capacity, and that the path is a moderate, walkable one for whoever aims for what is right and draws near — not that it is free of the difficulty by which the truthful is distinguished from the liar, and the patient from the impatient. Allah, glory be to Him, has told us that this trial was the pattern for every believer who came before, until the strain grew so great that some of them pleaded for Allah's help to come quickly, and the answer came: `Unquestionably, the help of Allah is near`.
 
-Among the clearest and most authentic historical illustrations of this pattern is the story of Ka'b ibn Malik, may Allah be pleased with him, and his staying behind from the Battle of Tabuk, where he chose the hardship of honesty and its consequences over the desire of lying and immediate comfort — and the outcome was that Allah revealed the acceptance of his repentance as Qur'an recited until the Day of Judgment.
+Among the clearest authentic historical illustrations of this pattern is the story of Ka'b ibn Malik, may Allah be pleased with him, and his staying behind from the Battle of Tabuk, where he chose the hardship of honesty and its consequences over the desire of lying and immediate comfort — and the outcome was that Allah revealed the acceptance of his repentance as Qur'an recited until the Day of Judgment.
 
 <!-- unit:end -->
 
@@ -58,11 +58,11 @@ Among the clearest and most authentic historical illustrations of this pattern i
 
 #### Scholarly Explanation
 
-Imam an-Nawawi, may Allah have mercy on him, explained in his commentary on this hadith that "encircled" means surrounded — the hardships made to enclose Jannah the way a wall encloses an orchard, so that no one reaches it except after crossing those hardships. Likewise the Fire is surrounded by desires, so that no one falls into it except by following his own whims.
+Imam an-Nawawi, may Allah have mercy on him, said in his commentary on Sahih Muslim, in meaning: this is one of the remarkably eloquent and concise sayings of the Prophet, peace and blessings be upon him, and one of his finest comparisons. It means that Jannah is reached only by enduring hardships, and the Fire only through desires; both are veiled by them, and whoever tears through the veil reaches what is veiled. The veil of Jannah is torn by pressing through hardships, and the veil of the Fire by indulging desires.
 
 #### Lesson Explanation
 
-This hadith is the root of the entire lesson: every act of obedience that weighs on the soul is a door among the doors of Jannah, and every desire that the soul finds appealing is a door among the doors of the Fire. The perceptive believer is the one who measures his choice not by its immediate ease, but by its ultimate outcome.
+The meaning of "encircled" can be pictured as a wall around an orchard: no one enters it without first crossing the wall. This hadith is the root of the entire lesson: every act of obedience that weighs on the soul is one of the doors of Jannah, and every desire made attractive to the soul is one of the doors of the Fire. The perceptive believer is the one who measures his choice not by its immediate ease, but by its ultimate outcome.
 
 <!-- evidence:end -->
 
@@ -82,7 +82,7 @@ Al-Hafiz Ibn Kathir, may Allah have mercy on him, noted that Allah is informing 
 
 #### Lesson Explanation
 
-This ayah makes clear that trial is neither punishment nor a sign of Allah's anger; it is a condition for entering Jannah walked by every believer who came before. No one should suppose he will be exempted from it.
+This ayah makes clear that trial is neither punishment nor a sign of Allah's anger; it is a condition for entering Jannah, a road that every believer before us has walked. No one should suppose he will be exempted from it.
 
 <!-- evidence:end -->
 
@@ -98,11 +98,11 @@ This ayah makes clear that trial is neither punishment nor a sign of Allah's ang
 
 #### Scholarly Explanation
 
-Ibn Kathir, may Allah have mercy on him, said: this is a rhetorical question of denial, meaning: do not suppose that you will enter Jannah by mere claim without any test, until it becomes clear in reality who has striven against his own soul, his desires, and his enemy, and who has been patient in hardship.
+Ibn Kathir, may Allah have mercy on him, said: that is, did you suppose that you would enter Jannah without being tested through fighting and hardships? Meaning: you will not attain entry into Jannah until you are tested and Allah sees among you those who strive in His path and those who are patient in facing the enemy. Ibn Kathir linked this ayah with the ayah of al-Baqarah (214) above.
 
 #### Lesson Explanation
 
-Allah here pairs "striving" and "patience" as two inseparable conditions for entering Jannah, and these are precisely what Ka'b ibn Malik walked when he strove against his own soul to avoid lying, and bore with patience the punishment of his honesty for fifty nights.
+Allah here pairs "striving" and "patience" as two inseparable conditions for entering Jannah, and these are exactly the path Ka'b ibn Malik took when he struggled against his own self to keep from lying, and patiently bore the penalty for his honesty for fifty nights.
 
 <!-- evidence:end -->
 
@@ -130,43 +130,43 @@ This hadith is the safeguard that prevents "hardship" from being understood as u
 
 ### The Hadith of Ka'b ibn Malik's Repentance, May Allah Be Pleased with Him
 
-> قَالَ كَعْبُ بْنُ مَالِكٍ رضي الله عنه: لَمْ أَتَخَلَّفْ عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم فِي غَزْوَةٍ غَزَاهَا إِلَّا فِي غَزْوَةِ تَبُوكَ... وَاللَّهِ مَا كُنْتُ قَطُّ أَقْوَى وَلَا أَيْسَرَ حِينَ تَخَلَّفْتُ عَنْهُ فِي تِلْكَ الْغَزْوَةِ. فَطَفِقْتُ أَغْدُو لِأَتَجَهَّزَ مَعَهُمْ ثُمَّ أَرْجِعُ وَلَمْ أَقْضِ شَيْئًا، وَأَقُولُ فِي نَفْسِي: أَنَا قَادِرٌ عَلَيْهِ. فَلَمْ يَزَلْ يَتَمَادَى بِي حَتَّى أَسْرَعُوا وَتَفَارَطَ الْغَزْوُ.
+> قَالَ كَعْبُ بْنُ مَالِكٍ رضي الله عنه: لَمْ أَتَخَلَّفْ عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم فِي غَزْوَةٍ غَزَاهَا إِلَّا فِي غَزْوَةِ تَبُوكَ، غَيْرَ أَنِّي كُنْتُ تَخَلَّفْتُ فِي غَزْوَةِ بَدْرٍ، وَلَمْ يُعَاتِبْ أَحَدًا تَخَلَّفَ عَنْهَا... كَانَ مِنْ خَبَرِي أَنِّي لَمْ أَكُنْ قَطُّ أَقْوَى وَلَا أَيْسَرَ حِينَ تَخَلَّفْتُ عَنْهُ فِي تِلْكَ الْغَزْوَةِ... فَطَفِقْتُ أَغْدُو لِكَيْ أَتَجَهَّزَ مَعَهُمْ فَأَرْجِعُ وَلَمْ أَقْضِ شَيْئًا، فَأَقُولُ فِي نَفْسِي: أَنَا قَادِرٌ عَلَيْهِ. فَلَمْ يَزَلْ يَتَمَادَى بِي حَتَّى اشْتَدَّ بِالنَّاسِ الْجِدُّ... فَلَمْ يَزَلْ بِي حَتَّى أَسْرَعُوا وَتَفَارَطَ الْغَزْوُ...
 >
-> وَلَمْ يَذْكُرْنِي رَسُولُ اللَّهِ صلى الله عليه وسلم حَتَّى بَلَغَ تَبُوكَ، فَقَالَ وَهُوَ جَالِسٌ فِي الْقَوْمِ: **«مَا فَعَلَ كَعْبٌ؟»**. فَقَالَ رَجُلٌ مِنْ بَنِي سَلِمَةَ: يَا رَسُولَ اللَّهِ، حَبَسَهُ بُرْدَاهُ وَنَظَرُهُ فِي عِطْفِهِ. فَقَالَ مُعَاذُ بْنُ جَبَلٍ: بِئْسَ مَا قُلْتَ، وَاللَّهِ يَا رَسُولَ اللَّهِ، مَا عَلِمْنَا عَلَيْهِ إِلَّا خَيْرًا. فَسَكَتَ رَسُولُ اللَّهِ صلى الله عليه وسلم.
+> وَلَمْ يَذْكُرْنِي رَسُولُ اللَّهِ صلى الله عليه وسلم حَتَّى بَلَغَ تَبُوكَ، فَقَالَ وَهُوَ جَالِسٌ فِي الْقَوْمِ بِتَبُوكَ: **«مَا فَعَلَ كَعْبٌ؟»**. فَقَالَ رَجُلٌ مِنْ بَنِي سَلِمَةَ: يَا رَسُولَ اللَّهِ، حَبَسَهُ بُرْدَاهُ وَنَظَرُهُ فِي عِطْفِهِ. فَقَالَ مُعَاذُ بْنُ جَبَلٍ: بِئْسَ مَا قُلْتَ، وَاللَّهِ يَا رَسُولَ اللَّهِ، مَا عَلِمْنَا عَلَيْهِ إِلَّا خَيْرًا. فَسَكَتَ رَسُولُ اللَّهِ صلى الله عليه وسلم.
 >
-> قَالَ كَعْبٌ: فَلَمَّا بَلَغَنِي أَنَّهُ تَوَجَّهَ قَافِلًا حَضَرَنِي هَمِّي، وَطَفِقْتُ أَتَذَكَّرُ الْكَذِبَ وَأَقُولُ: بِمَاذَا أَخْرُجُ مِنْ سَخَطِهِ غَدًا؟ فَلَمَّا قِيلَ إِنَّهُ قَدْ أَظَلَّ قَادِمًا زَاحَ عَنِّي الْبَاطِلُ، وَعَرَفْتُ أَنِّي لَنْ أَخْرُجَ مِنْهُ أَبَدًا بِشَيْءٍ فِيهِ كَذِبٌ، فَأَجْمَعْتُ صِدْقَهُ. فَلَمَّا قَدِمَ رَسُولُ اللَّهِ صلى الله عليه وسلم جَاءَهُ الْمُخَلَّفُونَ يَعْتَذِرُونَ إِلَيْهِ وَيَحْلِفُونَ لَهُ، فَقَبِلَ مِنْهُمْ عَلَانِيَتَهُمْ وَاسْتَغْفَرَ لَهُمْ. فَجِئْتُهُ، فَلَمَّا سَلَّمْتُ عَلَيْهِ تَبَسَّمَ تَبَسُّمَ الْمُغْضَبِ، ثُمَّ قَالَ: **«تَعَالَ»**، فَجَلَسْتُ بَيْنَ يَدَيْهِ، فَقَالَ لِي: **«مَا خَلَّفَكَ؟ أَلَمْ تَكُنْ قَدِ ابْتَعْتَ ظَهْرَكَ؟»**. فَقُلْتُ: بَلَى، إِنِّي وَاللَّهِ لَوْ جَلَسْتُ عِنْدَ غَيْرِكَ مِنْ أَهْلِ الدُّنْيَا، لَرَأَيْتُ أَنْ سَأَخْرُجُ مِنْ سَخَطِهِ بِعُذْرٍ، وَلَقَدْ أُعْطِيتُ جَدَلًا، وَلَكِنِّي وَاللَّهِ لَقَدْ عَلِمْتُ لَئِنْ حَدَّثْتُكَ الْيَوْمَ حَدِيثَ كَذِبٍ تَرْضَى بِهِ عَنِّي لَيُوشِكَنَّ اللَّهُ أَنْ يُسْخِطَكَ عَلَيَّ، وَلَئِنْ حَدَّثْتُكَ حَدِيثَ صِدْقٍ تَجِدُ عَلَيَّ فِيهِ إِنِّي لَأَرْجُو فِيهِ عَفْوَ اللَّهِ، لَا وَاللَّهِ مَا كَانَ لِي مِنْ عُذْرٍ، وَاللَّهِ مَا كُنْتُ قَطُّ أَقْوَى وَلَا أَيْسَرَ مِنِّي حِينَ تَخَلَّفْتُ عَنْكَ. فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم: **«أَمَّا هَذَا فَقَدْ صَدَقَ، فَقُمْ حَتَّى يَقْضِيَ اللَّهُ فِيكَ»**.
+> قَالَ كَعْبٌ: فَلَمَّا بَلَغَنِي أَنَّهُ تَوَجَّهَ قَافِلًا حَضَرَنِي هَمِّي، وَطَفِقْتُ أَتَذَكَّرُ الْكَذِبَ وَأَقُولُ: بِمَاذَا أَخْرُجُ مِنْ سَخَطِهِ غَدًا؟ وَاسْتَعَنْتُ عَلَى ذَلِكَ بِكُلِّ ذِي رَأْيٍ مِنْ أَهْلِي، فَلَمَّا قِيلَ إِنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَدْ أَظَلَّ قَادِمًا زَاحَ عَنِّي الْبَاطِلُ، وَعَرَفْتُ أَنِّي لَنْ أَخْرُجَ مِنْهُ أَبَدًا بِشَيْءٍ فِيهِ كَذِبٌ، فَأَجْمَعْتُ صِدْقَهُ. وَأَصْبَحَ رَسُولُ اللَّهِ صلى الله عليه وسلم قَادِمًا، وَكَانَ إِذَا قَدِمَ مِنْ سَفَرٍ بَدَأَ بِالْمَسْجِدِ فَيَرْكَعُ فِيهِ رَكْعَتَيْنِ ثُمَّ جَلَسَ لِلنَّاسِ، فَلَمَّا فَعَلَ ذَلِكَ جَاءَهُ الْمُخَلَّفُونَ، فَطَفِقُوا يَعْتَذِرُونَ إِلَيْهِ، وَيَحْلِفُونَ لَهُ، وَكَانُوا بِضْعَةً وَثَمَانِينَ رَجُلًا، فَقَبِلَ مِنْهُمْ رَسُولُ اللَّهِ صلى الله عليه وسلم عَلَانِيَتَهُمْ، وَبَايَعَهُمْ وَاسْتَغْفَرَ لَهُمْ، وَوَكَلَ سَرَائِرَهُمْ إِلَى اللَّهِ. فَجِئْتُهُ، فَلَمَّا سَلَّمْتُ عَلَيْهِ تَبَسَّمَ تَبَسُّمَ الْمُغْضَبِ، ثُمَّ قَالَ: **«تَعَالَ»**، فَجِئْتُ أَمْشِي حَتَّى جَلَسْتُ بَيْنَ يَدَيْهِ، فَقَالَ لِي: **«مَا خَلَّفَكَ؟ أَلَمْ تَكُنْ قَدِ ابْتَعْتَ ظَهْرَكَ؟»**. فَقُلْتُ: بَلَى، إِنِّي وَاللَّهِ لَوْ جَلَسْتُ عِنْدَ غَيْرِكَ مِنْ أَهْلِ الدُّنْيَا، لَرَأَيْتُ أَنْ سَأَخْرُجُ مِنْ سَخَطِهِ بِعُذْرٍ، وَلَقَدْ أُعْطِيتُ جَدَلًا، وَلَكِنِّي وَاللَّهِ لَقَدْ عَلِمْتُ لَئِنْ حَدَّثْتُكَ الْيَوْمَ حَدِيثَ كَذِبٍ تَرْضَى بِهِ عَنِّي لَيُوشِكَنَّ اللَّهُ أَنْ يُسْخِطَكَ عَلَيَّ، وَلَئِنْ حَدَّثْتُكَ حَدِيثَ صِدْقٍ تَجِدُ عَلَيَّ فِيهِ إِنِّي لَأَرْجُو فِيهِ عَفْوَ اللَّهِ، لَا وَاللَّهِ مَا كَانَ لِي مِنْ عُذْرٍ، وَاللَّهِ مَا كُنْتُ قَطُّ أَقْوَى وَلَا أَيْسَرَ مِنِّي حِينَ تَخَلَّفْتُ عَنْكَ. فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم: **«أَمَّا هَذَا فَقَدْ صَدَقَ، فَقُمْ حَتَّى يَقْضِيَ اللَّهُ فِيكَ»**.
 >
-> وَنَهَى رَسُولُ اللَّهِ صلى الله عليه وسلم الْمُسْلِمِينَ عَنْ كَلَامِنَا أَيُّهَا الثَّلَاثَةُ مِنْ بَيْنِ مَنْ تَخَلَّفَ عَنْهُ، فَاجْتَنَبَنَا النَّاسُ وَتَغَيَّرُوا لَنَا حَتَّى تَنَكَّرَتْ فِي نَفْسِي الْأَرْضُ، فَلَبِثْنَا عَلَى ذَلِكَ خَمْسِينَ لَيْلَةً، لَا يُكَلِّمُنِي أَحَدٌ، حَتَّى إِنِّي تَسَوَّرْتُ يَوْمًا جِدَارَ حَائِطِ ابْنِ عَمِّي أَبِي قَتَادَةَ، وَهُوَ أَحَبُّ النَّاسِ إِلَيَّ، فَسَلَّمْتُ عَلَيْهِ، فَوَاللَّهِ مَا رَدَّ عَلَيَّ السَّلَامَ، فَقُلْتُ: يَا أَبَا قَتَادَةَ، أَنْشُدُكَ بِاللَّهِ هَلْ تَعْلَمُنِي أُحِبُّ اللَّهَ وَرَسُولَهُ؟ فَسَكَتَ، فَعُدْتُ فَنَشَدْتُهُ فَسَكَتَ، ثُمَّ قَالَ: اللَّهُ وَرَسُولُهُ أَعْلَمُ. فَفَاضَتْ عَيْنَايَ.
+> وَنَهَى رَسُولُ اللَّهِ صلى الله عليه وسلم الْمُسْلِمِينَ عَنْ كَلَامِنَا أَيُّهَا الثَّلَاثَةُ مِنْ بَيْنِ مَنْ تَخَلَّفَ عَنْهُ، فَاجْتَنَبَنَا النَّاسُ وَتَغَيَّرُوا لَنَا حَتَّى تَنَكَّرَتْ فِي نَفْسِي الْأَرْضُ، فَمَا هِيَ الَّتِي أَعْرِفُ، فَلَبِثْنَا عَلَى ذَلِكَ خَمْسِينَ لَيْلَةً... وَكُنْتُ أَخْرُجُ فَأَشْهَدُ الصَّلَاةَ مَعَ الْمُسْلِمِينَ وَأَطُوفُ فِي الْأَسْوَاقِ، وَلَا يُكَلِّمُنِي أَحَدٌ... حَتَّى إِذَا طَالَ عَلَيَّ ذَلِكَ مِنْ جَفْوَةِ النَّاسِ مَشَيْتُ حَتَّى تَسَوَّرْتُ جِدَارَ حَائِطِ أَبِي قَتَادَةَ، وَهُوَ ابْنُ عَمِّي وَأَحَبُّ النَّاسِ إِلَيَّ، فَسَلَّمْتُ عَلَيْهِ، فَوَاللَّهِ مَا رَدَّ عَلَيَّ السَّلَامَ، فَقُلْتُ: يَا أَبَا قَتَادَةَ، أَنْشُدُكَ بِاللَّهِ هَلْ تَعْلَمُنِي أُحِبُّ اللَّهَ وَرَسُولَهُ؟ فَسَكَتَ، فَعُدْتُ لَهُ فَنَشَدْتُهُ فَسَكَتَ، فَعُدْتُ لَهُ فَنَشَدْتُهُ، فَقَالَ: اللَّهُ وَرَسُولُهُ أَعْلَمُ. فَفَاضَتْ عَيْنَايَ.
 >
-> ثُمَّ بَيْنَا أَنَا أَمْشِي بِسُوقِ الْمَدِينَةِ إِذَا رَجُلٌ يَدْفَعُ إِلَيَّ كِتَابًا مِنْ مَلِكِ غَسَّانَ، فَإِذَا فِيهِ: أَمَّا بَعْدُ، فَإِنَّهُ قَدْ بَلَغَنِي أَنَّ صَاحِبَكَ قَدْ جَفَاكَ، وَلَمْ يَجْعَلْكَ اللَّهُ بِدَارِ هَوَانٍ وَلَا مَضْيَعَةٍ، فَالْحَقْ بِنَا نُوَاسِكَ. فَقُلْتُ لَمَّا قَرَأْتُهَا: وَهَذَا أَيْضًا مِنَ الْبَلَاءِ. فَتَيَمَّمْتُ بِهَا التَّنُّورَ فَسَجَرْتُهُ بِهَا.
+> فَبَيْنَا أَنَا أَمْشِي بِسُوقِ الْمَدِينَةِ إِذَا نَبَطِيٌّ مِنْ أَنْبَاطِ أَهْلِ الشَّأْمِ... حَتَّى إِذَا جَاءَنِي دَفَعَ إِلَيَّ كِتَابًا مِنْ مَلِكِ غَسَّانَ، فَإِذَا فِيهِ: أَمَّا بَعْدُ، فَإِنَّهُ قَدْ بَلَغَنِي أَنَّ صَاحِبَكَ قَدْ جَفَاكَ، وَلَمْ يَجْعَلْكَ اللَّهُ بِدَارِ هَوَانٍ وَلَا مَضْيَعَةٍ، فَالْحَقْ بِنَا نُوَاسِكَ. فَقُلْتُ لَمَّا قَرَأْتُهَا: وَهَذَا أَيْضًا مِنَ الْبَلَاءِ. فَتَيَمَّمْتُ بِهَا التَّنُّورَ فَسَجَرْتُهُ بِهَا.
 >
-> حَتَّى إِذَا مَضَتْ أَرْبَعُونَ لَيْلَةً مِنَ الْخَمْسِينَ، أَتَانِي رَسُولُ رَسُولِ اللَّهِ صلى الله عليه وسلم فَقَالَ: إِنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم يَأْمُرُكَ أَنْ تَعْتَزِلَ امْرَأَتَكَ. فَلَبِثْتُ عَشْرَ لَيَالٍ حَتَّى كَمَلَتْ خَمْسُونَ لَيْلَةً. فَلَمَّا صَلَّيْتُ الْفَجْرَ صُبْحَ خَمْسِينَ لَيْلَةً، وَأَنَا عَلَى ظَهْرِ بَيْتٍ مِنْ بُيُوتِنَا، وَقَدْ ضَاقَتْ عَلَيَّ نَفْسِي وَضَاقَتْ عَلَيَّ الْأَرْضُ بِمَا رَحُبَتْ، سَمِعْتُ صَوْتَ صَارِخٍ أَوْفَى عَلَى جَبَلِ سَلْعٍ بِأَعْلَى صَوْتِهِ: يَا كَعْبَ بْنَ مَالِكٍ، أَبْشِرْ! فَخَرَرْتُ سَاجِدًا، وَعَرَفْتُ أَنْ قَدْ جَاءَ فَرَجٌ. وَآذَنَ رَسُولُ اللَّهِ صلى الله عليه وسلم بِتَوْبَةِ اللَّهِ عَلَيْنَا حِينَ صَلَّى الْفَجْرَ، فَذَهَبَ النَّاسُ يُبَشِّرُونَنَا... فَلَمَّا جَلَسْتُ بَيْنَ يَدَيْهِ، وَهُوَ يَبْرُقُ وَجْهُهُ مِنَ السُّرُورِ، قَالَ: **«أَبْشِرْ بِخَيْرِ يَوْمٍ مَرَّ عَلَيْكَ مُنْذُ وَلَدَتْكَ أُمُّكَ»**. قُلْتُ: أَمِنْ عِنْدِكَ يَا رَسُولَ اللَّهِ أَمْ مِنْ عِنْدِ اللَّهِ؟ قَالَ: **«لَا، بَلْ مِنْ عِنْدِ اللَّهِ»**. قُلْتُ: يَا رَسُولَ اللَّهِ، إِنَّ مِنْ تَوْبَتِي أَنْ أَنْخَلِعَ مِنْ مَالِي صَدَقَةً إِلَى اللَّهِ وَإِلَى رَسُولِهِ. قَالَ: **«أَمْسِكْ عَلَيْكَ بَعْضَ مَالِكَ فَهُوَ خَيْرٌ لَكَ»**. وَقُلْتُ: يَا رَسُولَ اللَّهِ، إِنَّ اللَّهَ إِنَّمَا نَجَّانِي بِالصِّدْقِ، وَإِنَّ مِنْ تَوْبَتِي أَنْ لَا أُحَدِّثَ إِلَّا صِدْقًا مَا بَقِيتُ.
+> حَتَّى إِذَا مَضَتْ أَرْبَعُونَ لَيْلَةً مِنَ الْخَمْسِينَ، إِذَا رَسُولُ رَسُولِ اللَّهِ صلى الله عليه وسلم يَأْتِينِي فَقَالَ: إِنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم يَأْمُرُكَ أَنْ تَعْتَزِلَ امْرَأَتَكَ... فَلَبِثْتُ بَعْدَ ذَلِكَ عَشْرَ لَيَالٍ حَتَّى كَمَلَتْ لَنَا خَمْسُونَ لَيْلَةً مِنْ حِينِ نَهَى رَسُولُ اللَّهِ صلى الله عليه وسلم عَنْ كَلَامِنَا. فَلَمَّا صَلَّيْتُ صَلَاةَ الْفَجْرِ صُبْحَ خَمْسِينَ لَيْلَةً، وَأَنَا عَلَى ظَهْرِ بَيْتٍ مِنْ بُيُوتِنَا، فَبَيْنَا أَنَا جَالِسٌ عَلَى الْحَالِ الَّتِي ذَكَرَ اللَّهُ، قَدْ ضَاقَتْ عَلَيَّ نَفْسِي، وَضَاقَتْ عَلَيَّ الْأَرْضُ بِمَا رَحُبَتْ، سَمِعْتُ صَوْتَ صَارِخٍ أَوْفَى عَلَى جَبَلِ سَلْعٍ بِأَعْلَى صَوْتِهِ: يَا كَعْبَ بْنَ مَالِكٍ، أَبْشِرْ! فَخَرَرْتُ سَاجِدًا، وَعَرَفْتُ أَنْ قَدْ جَاءَ فَرَجٌ. وَآذَنَ رَسُولُ اللَّهِ صلى الله عليه وسلم بِتَوْبَةِ اللَّهِ عَلَيْنَا حِينَ صَلَّى صَلَاةَ الْفَجْرِ، فَذَهَبَ النَّاسُ يُبَشِّرُونَنَا... فَلَمَّا سَلَّمْتُ عَلَى رَسُولِ اللَّهِ صلى الله عليه وسلم، قَالَ وَهُوَ يَبْرُقُ وَجْهُهُ مِنَ السُّرُورِ: **«أَبْشِرْ بِخَيْرِ يَوْمٍ مَرَّ عَلَيْكَ مُنْذُ وَلَدَتْكَ أُمُّكَ»**. قُلْتُ: أَمِنْ عِنْدِكَ يَا رَسُولَ اللَّهِ أَمْ مِنْ عِنْدِ اللَّهِ؟ قَالَ: **«لَا، بَلْ مِنْ عِنْدِ اللَّهِ»**... فَلَمَّا جَلَسْتُ بَيْنَ يَدَيْهِ قُلْتُ: يَا رَسُولَ اللَّهِ، إِنَّ مِنْ تَوْبَتِي أَنْ أَنْخَلِعَ مِنْ مَالِي صَدَقَةً إِلَى اللَّهِ وَإِلَى رَسُولِ اللَّهِ. قَالَ: **«أَمْسِكْ عَلَيْكَ بَعْضَ مَالِكَ فَهُوَ خَيْرٌ لَكَ»**... فَقُلْتُ: يَا رَسُولَ اللَّهِ، إِنَّ اللَّهَ إِنَّمَا نَجَّانِي بِالصِّدْقِ، وَإِنَّ مِنْ تَوْبَتِي أَنْ لَا أُحَدِّثَ إِلَّا صِدْقًا مَا بَقِيتُ.
 >
 > وَأَنْزَلَ اللَّهُ عَلَى رَسُولِهِ صلى الله عليه وسلم: {لَقَدْ تَابَ اللَّهُ عَلَى النَّبِيِّ وَالْمُهَاجِرِينَ وَالْأَنْصَارِ} إِلَى قَوْلِهِ {وَكُونُوا مَعَ الصَّادِقِينَ}.[^5]
 
 <!-- evidence:translation -->
 
-> Ka'b ibn Malik, may Allah be pleased with him, said: I never stayed behind from any expedition the Messenger of Allah, peace and blessings be upon him, undertook, except the Battle of Tabuk... By Allah, I had never been stronger or better provided than when I stayed behind from that expedition. I kept going out each morning meaning to get ready with the others, then coming back having settled nothing, telling myself: I am able to catch up whenever I like. This went on until the army moved quickly and the expedition's time had passed me by.
+> Ka'b ibn Malik, may Allah be pleased with him, said: I never stayed behind from any expedition the Messenger of Allah, peace and blessings be upon him, undertook, except the Battle of Tabuk — though I had stayed behind from the Battle of Badr, and he did not blame anyone who stayed behind from it... My story is that I had never been stronger or better provided than when I stayed behind from him in that expedition... I kept going out each morning meaning to get ready with them, then coming back having settled nothing, and I would tell myself: I am able to do it. This went on and on with me until the people were in full earnest... and it kept on with me until they had pressed ahead and the expedition had passed me by...
 >
-> The Messenger of Allah, peace and blessings be upon him, did not ask about me until he reached Tabuk. Sitting among his people, he said: **"What became of Ka'b?"** A man from Banu Salamah said: O Messenger of Allah, his fine cloaks and his admiring himself in his own reflection have kept him back. Mu'adh ibn Jabal said: What an evil thing you have said. By Allah, O Messenger of Allah, we know nothing of him but good. The Messenger of Allah, peace and blessings be upon him, said nothing.
+> The Messenger of Allah, peace and blessings be upon him, did not ask about me until he reached Tabuk. Sitting among the people at Tabuk, he said: **"What became of Ka'b?"** A man from Banu Salamah said: O Messenger of Allah, his two cloaks and his admiring glances at himself have kept him back. Mu'adh ibn Jabal said: What an evil thing you have said. By Allah, O Messenger of Allah, we know nothing of him but good. The Messenger of Allah, peace and blessings be upon him, said nothing.
 >
-> Ka'b said: When I learned that he was on his way back, my anxiety overtook me, and I began rehearsing lies, asking myself: What shall I say tomorrow to escape his displeasure? But when it was said that he was about to arrive, the falsehood left me, and I realized I could never escape it with anything containing a lie, so I resolved to tell him the truth. When the Messenger of Allah, peace and blessings be upon him, arrived, those who had stayed behind came to him making excuses and swearing oaths, and he accepted their outward word and asked forgiveness for them. Then I came to him, and when I greeted him, he smiled the smile of someone displeased, then said: **"Come."** So I sat before him, and he said to me: **"What kept you back? Had you not bought your mount?"** I said: Yes indeed. By Allah, if I were sitting before anyone else in this world, I could surely talk my way out of his displeasure with some excuse, for I have been given a fair share of argument. But by Allah, I know that if I tell you today a lie that pleases you, Allah will soon make you displeased with me; and if I tell you the truth, though you will be upset with me over it, I hope for Allah's pardon in it. No, by Allah, I had no excuse. By Allah, I had never been stronger or better provided than when I stayed behind from you. The Messenger of Allah, peace and blessings be upon him, said: **"As for this one, he has told the truth. So get up until Allah decides your case."**
+> Ka'b said: When I learned that he was on his way back, my anxiety overtook me, and I began rehearsing lies, asking myself: How shall I escape his displeasure tomorrow? I sought help in this from every person of sound opinion in my family. But when it was said that the Messenger of Allah, peace and blessings be upon him, was about to arrive, the falsehood left me, and I realized I could never escape it with anything containing a lie, so I resolved to tell him the truth. The Messenger of Allah, peace and blessings be upon him, arrived in the morning. Whenever he returned from a journey, he would go first to the mosque, pray two rak'ahs there, and then sit with the people. When he had done so, those who had stayed behind came to him and began making excuses and swearing oaths to him — they were some eighty-odd men — and the Messenger of Allah, peace and blessings be upon him, accepted their outward word, took their pledge, asked forgiveness for them, and left their inner secrets to Allah. Then I came to him, and when I greeted him, he smiled the smile of someone displeased, then said: **"Come."** So I walked up until I sat before him, and he said to me: **"What kept you back? Had you not bought your mount?"** I said: Yes indeed. By Allah, if I were sitting before anyone else in this world, I could surely talk my way out of his displeasure with some excuse, for I have been given a gift for argument. But by Allah, I know that if I tell you today a lie that pleases you, Allah will soon make you displeased with me; and if I tell you the truth, though you will be upset with me over it, I hope for Allah's pardon in it. No, by Allah, I had no excuse. By Allah, I had never been stronger or better provided than when I stayed behind from you. The Messenger of Allah, peace and blessings be upon him, said: **"As for this one, he has told the truth. So get up until Allah decides your case."**
 >
-> The Messenger of Allah, peace and blessings be upon him, then forbade the Muslims from speaking to the three of us who had stayed behind, out of all who had done so. So people avoided us and grew cold toward us, until the very earth felt strange to me. We remained like that for fifty nights, with no one speaking to me, until one day I climbed the wall of my cousin Abu Qatadah's orchard — he was the dearest person to me — and greeted him. By Allah, he did not return my greeting. I said: O Abu Qatadah, I ask you by Allah, do you know that I love Allah and His Messenger? He said nothing. I asked him again, and again he said nothing. Then he said: Allah and His Messenger know best. And my eyes overflowed with tears.
+> The Messenger of Allah, peace and blessings be upon him, then forbade the Muslims from speaking to the three of us who had stayed behind, out of all who had done so. So people avoided us and grew cold toward us, until the very earth felt strange to me; it was no longer the land I knew. We remained like that for fifty nights... I would go out, attend the prayer with the Muslims, and walk about the markets, and no one would speak to me... When the people's harshness had gone on for a long time, I walked until I climbed the wall of Abu Qatadah's orchard — he was my cousin and the dearest person to me — and greeted him. By Allah, he did not return my greeting. I said: O Abu Qatadah, I ask you by Allah, do you know that I love Allah and His Messenger? He said nothing. I asked him again, and again he said nothing. I asked him once more, and he said: Allah and His Messenger know best. And my eyes overflowed with tears.
 >
-> Then, while I was walking in the marketplace of Madinah, a man handed me a letter from the king of Ghassan. In it was written: To proceed — it has reached me that your companion has treated you harshly, and Allah has not placed you in a land of humiliation or loss, so come to us and we will comfort you. When I read it, I said to myself: This too is part of the trial. So I took it straight to the oven and burned it in the fire.
+> While I was walking in the marketplace of Madinah, there was a Nabataean from among the people of Syria... When he reached me, he handed me a letter from the king of Ghassan. In it was written: To proceed — it has reached me that your companion has treated you harshly, and Allah has not placed you in a land of humiliation or loss, so come to us and we will comfort you. When I read it, I said to myself: This too is part of the trial. So I took it straight to the oven and burned it in the fire.
 >
-> When forty of the fifty nights had passed, a messenger from the Messenger of Allah, peace and blessings be upon him, came to me and said: The Messenger of Allah, peace and blessings be upon him, commands you to keep away from your wife. So I remained ten more nights, until the fifty nights were complete. Then, when I had prayed the dawn prayer on the morning of the fiftieth night, sitting on the roof of one of our houses, my soul in distress and the earth, for all its vastness, feeling too narrow for me — I heard the voice of a crier who had climbed Mount Sal', calling at the top of his voice: "O Ka'b ibn Malik, rejoice!" I fell down in prostration, knowing that relief had come. The Messenger of Allah, peace and blessings be upon him, had announced Allah's acceptance of our repentance after the dawn prayer, and people rushed to bring us the good news... When I sat before him, his face shining with joy, he said: **"Rejoice in the best day that has ever come upon you since your mother bore you."** I said: Is this from you, O Messenger of Allah, or from Allah? He said: **"No — rather, from Allah."** I said: O Messenger of Allah, part of my repentance is that I give away all my wealth in charity to Allah and His Messenger. He said: **"Keep some of your wealth; that is better for you."** And I said: O Messenger of Allah, Allah has saved me only through truthfulness, and part of my repentance is that I will never again speak anything but the truth as long as I live.
+> When forty of the fifty nights had passed, a messenger from the Messenger of Allah, peace and blessings be upon him, came to me and said: The Messenger of Allah, peace and blessings be upon him, commands you to keep away from your wife... So I remained ten more nights after that, until fifty nights were complete for us from the time the Messenger of Allah, peace and blessings be upon him, forbade speaking to us. Then, when I had prayed the dawn prayer on the morning of the fiftieth night, on the roof of one of our houses, as I sat in the very state that Allah has described, my soul in distress and the earth, for all its vastness, feeling too narrow for me — I heard the voice of a crier who had climbed Mount Sal', calling at the top of his voice: "O Ka'b ibn Malik, rejoice!" I fell down in prostration, knowing that relief had come. The Messenger of Allah, peace and blessings be upon him, had announced Allah's acceptance of our repentance after the dawn prayer, and people rushed to bring us the good news... When I greeted the Messenger of Allah, peace and blessings be upon him, he said, his face shining with joy: **"Rejoice in the best day that has ever come upon you since your mother bore you."** I said: Is this from you, O Messenger of Allah, or from Allah? He said: **"No — rather, from Allah."**... When I sat before him, I said: O Messenger of Allah, part of my repentance is that I give away all my wealth in charity to Allah and to the Messenger of Allah. He said: **"Keep some of your wealth; that is better for you."**... Then I said: O Messenger of Allah, Allah has saved me only through truthfulness, and part of my repentance is that I will never again speak anything but the truth as long as I live.
 >
 > And Allah sent down to His Messenger, peace and blessings be upon him: {Allah has already turned in mercy to the Prophet, the emigrants, and the helpers...} through to His words {...and be with the truthful}.[^5]
 
 #### Scholarly Explanation
 
-Al-Hafiz Ibn Hajar, may Allah have mercy on him, explained in Fath al-Bari, commenting on this long hadith: it contains the virtue of honesty even when its outward consequence appears severe, and that whoever chooses bitter truth over sweet falsehood will be given by Allah a way out and a relief. Ka'b himself, may Allah be pleased with him, stated this plainly when he said: "Allah has saved me only through truthfulness."
+Al-Hafiz Ibn Hajar, may Allah have mercy on him, explained in Fath al-Bari, commenting on this long hadith, that it shows the virtue of honesty even when its outward consequence seems severe, and that Allah grants whoever chooses bitter truth over sweet falsehood relief and a way out. Ka'b himself, may Allah be pleased with him, stated this plainly when he said: "Allah has saved me only through truthfulness."
 
 #### Lesson Explanation
 
-This hadith is a complete illustration of the meaning "Jannah is encircled by hardships": Ka'b's hardship was painful honesty, and the desire he refused was comforting falsehood, and between the two lay fifty nights of real trial. The outcome, in the end, was ayat recited until the establishment of the Hour.
+This hadith is a complete illustration of the meaning "Jannah is encircled by hardships": Ka'b's hardship was painful honesty; the desire he refused was comforting falsehood; and between the two lay fifty nights of real trial. The outcome, in the end, was ayat recited until the establishment of the Hour.
 
 <!-- evidence:end -->
 
@@ -178,11 +178,11 @@ This hadith is a complete illustration of the meaning "Jannah is encircled by ha
 
 <!-- evidence:translation -->
 
-> **"Allah has already turned in mercy to the Prophet, and to the emigrants and the helpers who followed him in the hour of hardship after the hearts of a party of them had almost inclined [to doubt], and then He turned in mercy to them. Indeed, He is to them Kind and Merciful. And [He also turned in mercy] to the three who were left behind, until, when the earth had become vast for them despite its breadth, and their own souls had become narrow for them, and they were certain that there was no refuge from Allah except in Him — then He turned in mercy to them so that they might repent. Indeed, it is Allah who is the Accepting of Repentance, the Merciful. O you who have believed, fear Allah and be with the truthful."** (at-Tawbah 9:117-119)[^6]
+> **"Allah has already turned in mercy to the Prophet, and to the emigrants and the helpers who followed him in the hour of hardship after the hearts of a party of them had almost inclined [to doubt], and then He turned in mercy to them. Indeed, He is to them Kind and Merciful. And [He also turned in mercy] to the three who were left behind, until, when the earth had become narrow for them despite its vastness, and their own souls had become narrow for them, and they were certain that there was no refuge from Allah except in Him — then He turned in mercy to them so that they might repent. Indeed, it is Allah who is the Accepting of Repentance, the Merciful. O you who have believed, fear Allah and be with the truthful."** (at-Tawbah 9:117-119)[^6]
 
 #### Scholarly Explanation
 
-Al-Hafiz Ibn Kathir, may Allah have mercy on him, noted that "the three who were left behind" are Ka'b ibn Malik, Murarah ibn ar-Rabi', and Hilal ibn Umayyah, may Allah be pleased with them, and that Allah described their distress in the world with the most vivid description: `the earth had become vast for them despite its breadth`, before closing with the comprehensive command: `and be with the truthful`.
+Al-Hafiz Ibn Kathir, may Allah have mercy on him, noted that "the three who were left behind" are Ka'b ibn Malik, Murarah ibn ar-Rabi', and Hilal ibn Umayyah, may Allah be pleased with them, and that Allah described the world closing in on them in the most eloquent terms: `the earth had become narrow for them despite its vastness`, before closing with the comprehensive command: `and be with the truthful`.
 
 #### Lesson Explanation
 
@@ -192,7 +192,7 @@ These ayat are the fruit of the hardship that Ka'b bore with patience. His relie
 
 ### How Do We Reconcile "Hardship" and "Ease"?
 
-The hadith calls obedience a "hardship" while at the same time describing the religion as "ease," and there is no contradiction between the two terms. Hardship is the inner weight a person feels at the start of an act of obedience, or in leaving behind a comfortable sin; ease is the legal moderation in the very measure of what is required, so that no one is asked for more than he can bear. The story of Ka'b ibn Malik brings both descriptions together at once: his hardship was heavy — fifty nights of isolation — yet it was not beyond his capacity, and nothing greater than honesty alone was ever asked of him.
+The hadith calls obedience a "hardship" while at the same time describing the religion as "ease," and there is no contradiction between the two terms. Hardship is the inner weight a person feels at the start of an act of obedience, or in leaving behind a comfortable sin; ease is the moderation that the religious law builds into the very measure of what is required, so that no one is asked for more than he can bear. The story of Ka'b ibn Malik brings both descriptions together at once: his hardship was heavy — fifty nights of isolation — yet it was not beyond his capacity, and nothing greater than honesty alone was ever asked of him.
 
 <!-- unit:end -->
 
@@ -200,7 +200,7 @@ The hadith calls obedience a "hardship" while at the same time describing the re
 
 ## Questions for Understanding and Reflection
 
-1. What is the difference between hardship that is rewarded obedience and hardship that carries no legal value at all?
+1. What is the difference between hardship that is rewarded obedience and hardship that has no value in the religious law?
 2. How does the hadith `Indeed, the religion is ease` agree, without contradiction, with the hadith `Jannah is encircled by hardships`?
 3. What resemblance is there between Ka'b ibn Malik's test at Tabuk and the tests a believer faces today?
 4. How does Allah's acceptance of Ka'b's repentance through honesty explain the meaning of patiently abstaining from sin?
@@ -214,7 +214,7 @@ The hadith calls obedience a "hardship" while at the same time describing the re
 
 <!-- activity:start audience="adults" concept_id="lesson.009.activity.fork-of-hardship-and-desire" -->
 
-Write down a real situation you are facing right now or this week, one with a fork between two paths: a path that pleases Allah but is heavy (a delayed right, a word of honesty left unspoken), and a path that comforts the soul but displeases Allah. Name the desire that pulls you toward the second path, and name the hardship that guards the first. Then commit to one practical step toward the first path this week, and set a date to check on yourself and see whether you kept it.
+Write down a real situation you are facing right now or this week, one with a fork between two paths: a path that pleases Allah but is heavy (a right owed to someone that you keep putting off, a truthful word left unspoken), and a path that comforts the soul but displeases Allah. Name the desire that pulls you toward the second path, and name the hardship that guards the first. Then commit to one practical step toward the first path this week, and set a date to check on yourself and see whether you kept it.
 
 <!-- activity:end -->
 
@@ -224,7 +224,7 @@ Write down a real situation you are facing right now or this week, one with a fo
 
 ## For Children Ages 4 to 7
 
-<!-- reader:start audience="4-7" estimated_minutes="5.0" -->
+<!-- reader:start audience="4-7" estimated_minutes="4.5" -->
 
 <!-- unit:start id="4-7.explanation" kind="explanation" -->
 
@@ -234,19 +234,19 @@ Our Prophet Muhammad, peace and blessings be upon him, told us: the path to Jann
 
 <!-- unit:start id="4-7.primary-story" kind="primary_story" -->
 
-### A True Hadith: The Honesty of Ka'b ibn Malik, May Allah Be Pleased with Him
+### An Authentic Hadith: The Honesty of Ka'b ibn Malik, May Allah Be Pleased with Him
 
 <!-- story:start audience="4-7" role="primary" type="prophetic_era" source_id="bukhari-4418" authenticated="true" -->
 
 **This is a true account about a Companion named Ka'b ibn Malik, may Allah be pleased with him, and not a made-up story.**
 
-Ka'b stayed behind from going with the Prophet, peace and blessings be upon him, on a long journey, and he had no real excuse. When the Prophet, peace and blessings be upon him, came back, he asked him, "Why did you stay behind?" Ka'b could have told a small lie, and the Prophet, peace and blessings be upon him, would have believed him. But he said to himself: I will never lie. So he told the Prophet, peace and blessings be upon him, "I had no excuse." The Prophet, peace and blessings be upon him, said, "This one has told the truth."[^5]
+Ka'b did not go with the Prophet, peace and blessings be upon him, on a long journey, and he had no excuse. When the Prophet, peace and blessings be upon him, came back, he asked him, "Why did you stay behind?" Ka'b could have told a small lie, and the Prophet, peace and blessings be upon him, would have believed him. But he said to himself: I will never lie. So he told the Prophet, peace and blessings be upon him, "I had no excuse." The Prophet, peace and blessings be upon him, said, "This one has told the truth."[^5]
 
-But people stayed away from Ka'b for fifty days, and no one spoke to him, so Ka'b felt very sad. A man came to him with a letter promising him comfort if he left the Prophet, peace and blessings be upon him, but Ka'b refused and burned the letter. Then one morning, Ka'b heard a voice calling from the top of a mountain: "O Ka'b! Rejoice!" He knew that Allah was pleased with him because he had been patient and honest, so he fell down in prostration, full of joy.[^5]
+But people stayed away from Ka'b for fifty days, and no one spoke to him, so Ka'b felt very sad. A man came to him with a letter promising him comfort if he left the Prophet, peace and blessings be upon him, but Ka'b refused and burned the letter. Then one morning, Ka'b heard a voice calling from the top of a mountain: "O Ka'b! Rejoice!" He knew that Allah was pleased with him because he had stayed patient and kept telling the truth, so he fell down in prostration, full of joy.[^5]
 
 <!-- retelling:start source_id="bukhari-4418" audience="4-7" -->
 
-Simply put, all of this means: Ka'b told the truth even though it was hard, so he was patient for a while, and then he became very happy because Allah loved his honesty.[^5]
+Put simply, all of this means: Ka'b told the truth even though it was hard, so he was patient for a while, and then he became very happy because Allah loved his honesty.[^5]
 
 <!-- retelling:end -->
 
@@ -296,17 +296,17 @@ With your parents, draw two cards: one card that says "Hard but Right" (like tel
 
 ## For Children Ages 8 to 12
 
-<!-- reader:start audience="8-12" estimated_minutes="6.5" -->
+<!-- reader:start audience="8-12" estimated_minutes="6.0" -->
 
 <!-- unit:start id="8-12.explanation" kind="explanation" -->
 
-The Messenger of Allah, peace and blessings be upon him, told us that Jannah is surrounded by hardships — the things that tire the soul, like acts of obedience and sacrifice — and that the Fire is surrounded by desires — the things that pull us quickly and pleasantly toward sin. So whoever wants Jannah must first cross the "wall of hardships," and whoever wants to be saved from the Fire must not be swept away behind its glittering "desires." Even so, Allah does not burden us; the religion is ease, and whoever aims for what is right, draws near, and is patient for a little while will manage it.
+The Messenger of Allah, peace and blessings be upon him, told us that Jannah is surrounded by hardships — the things that tire the soul, like acts of obedience and sacrifice — and that the Fire is surrounded by desires — the things that pull us quickly and pleasantly toward sin. So whoever wants Jannah must first cross the "wall of hardships," and whoever wants to be saved from the Fire must not be swept along by its glittering "desires." Even so, Allah does not burden us; the religion is ease, and whoever aims for what is right, draws near, and is patient for a little while will manage it.
 
 <!-- unit:end -->
 
 <!-- unit:start id="8-12.primary-story" kind="primary_story" -->
 
-### A True Hadith: Ka'b ibn Malik, May Allah Be Pleased with Him, at the Battle of Tabuk
+### An Authentic Hadith: Ka'b ibn Malik, May Allah Be Pleased with Him, at the Battle of Tabuk
 
 <!-- story:start audience="8-12" role="primary" type="prophetic_era" source_id="bukhari-4418" authenticated="true" -->
 
@@ -316,9 +316,9 @@ For the Battle of Tabuk, the Prophet, peace and blessings be upon him, and the M
 
 When the Prophet, peace and blessings be upon him, returned from the expedition, those who had stayed behind came to him with many excuses, and the Prophet, peace and blessings be upon him, accepted their outward word. But Ka'b stood before the Prophet, peace and blessings be upon him, and told the whole truth: "I had no excuse. By Allah, I was never stronger or more able to go than I was that time." The Prophet, peace and blessings be upon him, said: **"This one has told the truth. So get up until Allah decides your case."**[^5]
 
-After that, the Prophet, peace and blessings be upon him, commanded the Muslims not to speak to Ka'b and his two companions. Even the people closest to him kept away, and this went on for fifty whole nights, until Ka'b felt that the wide earth had become too narrow for him. A messenger from the king of Ghassan came to him offering that he leave Madinah and live with the king in comfort and honor, but Ka'b said, "This too is part of the trial," and burned the letter in the oven.[^5]
+After that, the Prophet, peace and blessings be upon him, commanded the Muslims not to speak to Ka'b and his two companions. Even the people closest to him kept away, and this went on for fifty whole nights, until Ka'b felt that the wide earth had become too narrow for him. A messenger from the king of Ghassan came to him with an offer to leave Madinah and live with the king in comfort and honor, but Ka'b said, "This too is part of the trial," and burned the letter in the oven.[^5]
 
-On the morning of the fiftieth day, while Ka'b sat there feeling sad, he heard a loud voice from the top of Mount Sal': "O Ka'b ibn Malik, rejoice!" He fell down in prostration, thanking Allah, knowing that his repentance had been accepted. When he went to the Prophet, peace and blessings be upon him, his face shining with joy, the Prophet said to him: **"Rejoice in the best day that has ever come upon you since your mother bore you."** Ka'b later said to himself, "Allah has saved me only through honesty." And Allah sent down ayat in the Qur'an, still recited today, praising his truthfulness.[^5]
+On the morning of the fiftieth day, while Ka'b sat there feeling sad, he heard a loud voice from the top of Mount Sal': "O Ka'b ibn Malik, rejoice!" He fell down in prostration, thanking Allah, knowing that his repentance had been accepted. When he went to the Prophet, peace and blessings be upon him, the Prophet's face was shining with joy, and he said to him: **"Rejoice in the best day that has ever come upon you since your mother bore you."** Ka'b later said to the Prophet, peace and blessings be upon him, "Allah has saved me only through honesty." And Allah sent down ayat in the Qur'an, still recited today, praising his truthfulness.[^5]
 
 <!-- retelling:start source_id="bukhari-4418" audience="8-12" -->
 
@@ -334,7 +334,7 @@ In other words: Ka'b delayed getting ready with no excuse, then chose hard hones
 
 <!-- terminology:start source_id="muslim-2822" -->
 
-- **`Hardships (al-Makarih)`** — the matters that tire the soul as costs of obedience, even though they are truly good for it.
+- **`Hardships (al-Makarih)`** — the burdens of obedience that tire the soul, even though they are truly good for it.
 - **`Desires (ash-Shahawat)`** — the immediate cravings that pull the soul toward sin and make it look appealing.
 - **`The Steadfast (as-Sabirun)`** — those who remain firm in obeying Allah despite hardship.
 
@@ -395,23 +395,23 @@ The hadith `Jannah is encircled by hardships, and the Fire is encircled by desir
 
 <!-- unit:start id="13+.primary-story" kind="primary_story" -->
 
-### A True Hadith: Ka'b ibn Malik's Own Account of Missing Tabuk
+### An Authentic Hadith: Ka'b ibn Malik's Own Account of Missing Tabuk
 
 <!-- story:start audience="13+" role="primary" type="prophetic_era" source_id="bukhari-4418" authenticated="true" -->
 
 **This is a true account narrated by Ka'b ibn Malik himself, may Allah be pleased with him, in Sahih al-Bukhari, and not an imagined scene.**
 
-Ka'b ibn Malik, may Allah be pleased with him, narrates his own story: he was among the senior Companions, present at the Pledge of al-Aqabah, and had never stayed behind from any expedition. But at the Battle of Tabuk, while in the best condition of strength and ease he had ever known, he fell into something he never expected: procrastination. Every day he told himself, "I can catch up with them any time I want," until the whole army had left without him, with no real excuse at all.
+Ka'b ibn Malik, may Allah be pleased with him, narrates his own story: he was among the senior Companions, present at the Pledge of al-Aqabah, and had never stayed behind from any expedition the Prophet, peace and blessings be upon him, undertook except Badr, and no one was blamed for missing that one. But at the Battle of Tabuk, while in the best condition of strength and ease he had ever known, he fell into something he never expected: procrastination. Every day he told himself, "I can catch up with them any time I want," until the whole army had left without him, with no real excuse at all.
 
 When the Prophet, peace and blessings be upon him, returned from the expedition, Ka'b found himself facing a real choice: he could invent an excuse as the other latecomers had done, and the Prophet, peace and blessings be upon him, would accept it outwardly and the matter would end at once; or he could tell the whole truth and bear whatever consequence came of it. Ka'b describes that moment: "I knew that if I told him today a lie that pleased him, Allah would soon make him displeased with me; and if I told him the truth, though he would be upset with me over it, I hoped for Allah's pardon in it." So he chose the painful truth, telling the Prophet, peace and blessings be upon him, "I had no excuse." The Prophet, peace and blessings be upon him, said: **"This one has told the truth. So get up until Allah decides your case."**[^5]
 
 The immediate consequence was harsh: the Prophet, peace and blessings be upon him, ordered that Ka'b and his two companions be socially boycotted — no one was to speak to them, not even those closest to them, who would not return their greeting. This lasted fifty whole nights, until that condition was described in the Qur'an itself: "the earth had become too narrow for them despite its breadth." In his most isolated moment, another temptation came to him: a letter from the king of Ghassan offering him comfort and honor if he left the community that had rejected him. He could have justified accepting it by telling himself he had been wronged, but he saw in the letter itself another test, and burned it without hesitation.[^5]
 
-On the morning of the fiftieth day exactly, relief came: a voice calling out the good news from the top of Mount Sal'. Ka'b fell down in prostration, thanking Allah, then went to the Prophet, peace and blessings be upon him, who gave him the glad tidings: **"Rejoice in the best day that has ever come upon you since your mother bore you."** Ka'b offered to give away all his wealth in gratitude to Allah, but the Prophet, peace and blessings be upon him, advised him toward moderation: **"Keep some of your wealth; that is better for you"** — another lesson that uprightness does not mean going to extremes. Ka'b closed his account by saying, "Allah has saved me only through honesty, and part of my repentance is that I will never again speak anything but the truth as long as I live." And Allah sent down concerning him ayat recited in every mosque on earth to this day.[^5]
+On the morning of exactly the fiftieth day, relief came: a voice calling out the good news from the top of Mount Sal'. Ka'b fell down in prostration, thanking Allah, then went to the Prophet, peace and blessings be upon him, who gave him the glad tidings: **"Rejoice in the best day that has ever come upon you since your mother bore you."** Ka'b offered to give away all his wealth in gratitude to Allah, but the Prophet, peace and blessings be upon him, advised him toward moderation: **"Keep some of your wealth; that is better for you"** — another lesson that uprightness does not mean going to extremes. Ka'b closed his account by saying, "Allah has saved me only through honesty, and part of my repentance is that I will never again speak anything but the truth as long as I live." And Allah sent down concerning him ayat recited in every mosque on earth to this day.[^5]
 
 <!-- retelling:start source_id="bukhari-4418" audience="13+" -->
 
-Put another way: Ka'b ibn Malik faced a clear choice between a lie that would bring him immediate comfort and a truth that would cost him a long social isolation. He chose truth, certain that its outcome with Allah was better than the immediate comfort of lying, so he endured fifty nights of it, refused the temptation to leave his community, until revelation itself came down to give him the good news of his repentance's acceptance.[^5][^6]
+Put another way: Ka'b ibn Malik faced a clear choice between a lie that would bring him immediate comfort and a truth that would cost him a long social isolation. He chose truth, certain that its outcome with Allah was better than the immediate comfort of lying. So he endured fifty nights and refused the temptation to leave his community, until revelation itself came down with the good news that his repentance had been accepted.[^5][^6]
 
 <!-- retelling:end -->
 
@@ -439,7 +439,7 @@ Put another way: Ka'b ibn Malik faced a clear choice between a lie that would br
 2. How does Ka'b's refusal of the Ghassanid king's letter clarify the difference between legitimate comfort and following one's whims?
 3. When does a "concession" turn into a pretext for abandoning a duty?
 4. Write down one decision you have been postponing, and identify its first step.
-5. How does Ka'b's patience through fate during the fifty nights connect to his patience in avoiding lying and his patience in the obedience of honesty?
+5. How does Ka'b's patience with what Allah decreed during the fifty nights connect to his patience in refraining from lying and his patience in holding to honesty as an act of obedience?
 
 <!-- unit:end -->
 
@@ -495,7 +495,7 @@ Identify one real decision you keep putting off, or one your friends are pressur
 **Studying the Evidence — 15 minutes:** Groups read the hadith of Muslim 2822, then the two ayat of al-Baqarah 214 and Aal Imran 142, then the hadith of al-Bukhari 39 to establish the limit of moderation, then the full hadith of Ka'b ibn Malik, pausing at each turning point.
 
 <!-- lesson-plan:instruction -->
-**Guided Instruction — 15 minutes:** The teacher discusses with learners how each station in Ka'b's story (the question, the boycott, the king's letter, the relief) was an opportunity to choose between hardship and desire, and connects this to the ayat of repentance.
+**Guided Instruction — 15 minutes:** The teacher discusses with learners how each station in Ka'b's story (the question, the boycott, the king's letter, the relief) was an opportunity to choose between hardship and desire, and connects this to the ayat of Surah at-Tawbah.
 
 <!-- lesson-plan:activity -->
 **Activity — 15 minutes:** Learners carry out the "Fork Between Hardship and Desire" activity as described in the activity unit.
@@ -603,7 +603,7 @@ Identify one real decision you keep putting off, or one your friends are pressur
 **Studying the Evidence — 12 minutes:** Ka'b's full story is read, focusing on the moment of his choice between comforting falsehood and painful truth.
 
 <!-- lesson-plan:instruction -->
-**Guided Instruction — 10 minutes:** The teacher discusses the difference between a legitimate concession and following one's whims, and how patience through fate and patience in avoiding sin are two sides of the same coin.
+**Guided Instruction — 10 minutes:** The teacher discusses the difference between a legitimate concession and following one's whims, and how patience with Allah's decree and patience in avoiding sin are two sides of the same coin.
 
 <!-- lesson-plan:activity -->
 **Activity — 12 minutes:** Students carry out the Scale of the Deferred Decision activity as described in the activity unit.

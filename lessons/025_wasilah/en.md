@@ -54,7 +54,7 @@ On the Day of Resurrection, the prophets will decline to intercede, one after an
 
 #### Scholarly Explanation
 
-What the prophets cite as their reason for excusing themselves is recorded in the Qur'an together with Allah's acceptance of their repentance: Adam's eating from the tree, Nuh's supplication against his people, and the blow Musa struck that ended a man's life, after which he sought forgiveness.[^8] As for Ibrahim's three statements, two of them were made "for the sake of Allah," and the scholars understood all three as *ma'arid*, statements that were literally true but worded so as to be taken another way.[^9] The divine attributes mentioned in the hadith are affirmed without likening them to creation and without asking how.
+What the prophets cite as their reason for excusing themselves is recorded in the Qur'an: Adam's eating from the tree, after which Allah accepted his repentance; Nuh's supplication against his people; and the blow Musa struck that ended a man's life, after which he sought forgiveness and Allah forgave him.[^8] As for Ibrahim's three statements, two of them were made "for the sake of Allah," and the scholars understood all three as *ma'arid*, statements that were literally true but worded so as to be taken another way.[^9] The divine attributes mentioned in the hadith are affirmed without likening them to creation and without asking how.
 
 #### Lesson Explanation
 

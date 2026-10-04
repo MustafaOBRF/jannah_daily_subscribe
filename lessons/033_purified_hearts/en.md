@@ -97,7 +97,7 @@ The fruit of removing rancor is something you can see: faces turned toward one a
 
 #### Scholarly Explanation
 
-In al-Bukhari's chain, one of the narrators recited the ayah of the removal of rancor before relating this hadith, and al-Baghawi and Ibn Kathir both cite it in explaining the two ayat. That makes it the soundest guide to *when* the removal takes place: rights are settled, then hearts are refined and purified, then permission to enter is given.[^1][^3]
+In al-Bukhari's chain, one of the narrators recited the ayah of the removal of rancor before relating this hadith, and al-Baghawi cites it in explaining the ayah of al-A'raf, and Ibn Kathir in explaining the ayah of al-Hijr. That makes it the soundest guide to *when* the removal takes place: rights are settled, then hearts are refined and purified, then permission to enter is given.[^1][^2][^3]
 
 #### Lesson Explanation
 

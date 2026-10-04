@@ -17,20 +17,20 @@ bedtime_dua_id: "lesson.015.dua.dhikr-lasting-good"
 
 # Les plantations du Paradis et ses invocations
 
-## Objectifs et Résultats de la Leçon
+## Objectifs et résultats de la leçon
 
 Après cette leçon, l'apprenant sera capable de :
 
 - Expliquer le hadith « Deux paroles aimées du Tout Miséricordieux, légères sur la langue, lourdes dans la balance » et montrer que la lourdeur dans la balance est ici une lourdeur de valeur et de récompense, non une lourdeur d'effort physique.
 - Relier la parole d'Allah `وَالْبَاقِيَاتُ الصَّالِحَاتُ خَيْرٌ عِنْدَ رَبِّكَ ثَوَابًا وَخَيْرٌ أَمَلًا` (Al-Kahf : 46) au tafsir d'Ibn Kathir, qui interprète « les œuvres bonnes qui demeurent » par les cinq paroles, dont le tasbih et le tahmid.
 - Raconter le hadith « Quiconque dit : Gloire et pureté à Allah l'Immense, et à Lui la louange, un palmier lui est planté au Paradis » et montrer que cette plantation est réelle, relève de l'invisible, et n'est limitée à aucun nombre précis.
-- Distinguer trois dérives dans le rapport à l'invocation légère : la mésestimer en raison de sa petitesse, se distraire de son sens en la répétant, et abandonner sa persévérance.
-- Distinguer entre mesurer la valeur d'une œuvre par son apparence ou la fatigue de son auteur, et la mesurer correctement par la sincérité du cœur et la persévérance de l'habitude, comme le montrent les histoires de Sami, Houda et Karim.
-- Mettre en pratique une habitude quotidienne consistant à dire « Gloire et pureté à Allah, et à Lui la louange » à des moments répétés qu'on ne considère habituellement pas comme une œuvre, en suivre le nombre et le relier aux trois preuves (le verset d'Al-Kahf, le hadith d'Abou Hourayra, et le hadith de Jabir).
+- Distinguer trois dérives dans le rapport à l'invocation légère : la mésestimer en raison de sa petitesse, se distraire de son sens en la répétant, et cesser de la pratiquer avec constance.
+- Distinguer entre mesurer la valeur d'une œuvre par sa visibilité ou la fatigue de son auteur, et la mesurer correctement par la sincérité du cœur et la régularité de l'habitude, comme le montrent les histoires de Sami, Houda et Karim.
+- Mettre en pratique une habitude quotidienne consistant à dire « Gloire et pureté à Allah, et à Lui la louange » à des moments récurrents qu'on ne considère habituellement pas comme une œuvre, en suivre le nombre et le relier aux trois preuves (le verset d'Al-Kahf, le hadith d'Abou Hourayra, et le hadith de Jabir).
 
 ## Section académique pour les adultes
 
-<!-- reader:start audience="adults" estimated_minutes="6.0" -->
+<!-- reader:start audience="adults" estimated_minutes="6.5" -->
 
 <!-- unit:start id="adults.explanation" kind="explanation" -->
 
@@ -42,7 +42,7 @@ Cette compréhension protège le cœur de trois dérives :
 2. **La distraction du cœur :** répéter l'invocation avec la langue sans présence du cœur, si bien qu'elle devient un son sans signification au lieu d'être un rappel qui plante du bien.
 3. **L'abandon :** commencer avec enthousiasme puis délaisser l'habitude après quelques jours, perdant ainsi l'accumulation de la récompense qui se construit par la persévérance et non par un seul élan.
 
-C'est pourquoi cette leçon réunit la mise en lumière de la légèreté de la parole, l'immensité de la récompense, et la condition de sincérité et de persévérance, sans vanité devant la facilité de l'œuvre ni mésestime de sa valeur.
+C'est pourquoi cette leçon réunit la mise en lumière de la légèreté de la parole, l'immensité de la récompense, et la condition de sincérité et de persévérance, sans se griser de la facilité de l'œuvre ni en mésestimer la valeur.
 
 <!-- unit:end -->
 
@@ -62,11 +62,11 @@ C'est pourquoi cette leçon réunit la mise en lumière de la légèreté de la 
 
 #### Tafsir savant
 
-Ibn Kathir a mentionné, dans son tafsir de ce verset, qu'un groupe de Compagnons et de Successeurs, dont Uthman ibn Affan et Ibn Abbas, qu'Allah les agrée, ont interprété `الْبَاقِيَاتُ الصَّالِحَاتُ` par les cinq paroles : `لَا إِلَهَ إِلَّا اللَّهُ، وَسُبْحَانَ اللَّهِ، وَالْحَمْدُ لِلَّهِ، وَاللَّهُ أَكْبَرُ، وَلَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللَّهِ` (« Il n'y a de divinité qu'Allah, gloire à Allah, louange à Allah, Allah est le plus grand, il n'y a de force ni de puissance qu'en Allah »), et cette interprétation a été rapportée avec sa chaîne de transmission remontant au Prophète, paix et bénédictions sur lui, dans plusieurs relations.[^2]
+Ibn Kathir a mentionné, dans son tafsir de ce verset, qu'un groupe de Compagnons et de Successeurs, dont Uthman ibn Affan, qu'Allah l'agrée, et Sa'id ibn al-Musayyib, qu'Allah lui fasse miséricorde, ont interprété `الْبَاقِيَاتُ الصَّالِحَاتُ` par les cinq paroles : `لَا إِلَهَ إِلَّا اللَّهُ، وَسُبْحَانَ اللَّهِ، وَالْحَمْدُ لِلَّهِ، وَاللَّهُ أَكْبَرُ، وَلَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللَّهِ` (« Il n'y a de divinité qu'Allah, gloire à Allah, louange à Allah, Allah est le plus grand, il n'y a de force ni de puissance qu'en Allah »), et cette interprétation a été rapportée avec sa chaîne de transmission remontant au Prophète, paix et bénédictions sur lui, dans plusieurs récits.[^2]
 
 #### Explication de la leçon
 
-Le verset oppose la parure apparente et périssable de ce monde aux œuvres bonnes qui demeurent, qu'Allah a décrites comme étant **meilleures** auprès de Lui, non par la mesure de leur effort dans cette vie, mais par leur permanence et leur acceptation auprès de Lui. Le tasbih et le tahmid font partie de ces œuvres qui demeurent ; ce sont deux paroles qui ne coûtent ni argent ni long temps, et pourtant Allah les a décrites comme meilleures en récompense et meilleures en espérance.
+Le verset oppose la parure apparente et périssable de ce monde aux œuvres bonnes qui demeurent, qu'Allah a décrites comme étant **meilleures** auprès de Lui, non en raison de l'effort qu'elles demandent ici-bas, mais par leur permanence et leur acceptation auprès de Lui. Le tasbih et le tahmid font partie de ces œuvres qui demeurent ; ce sont deux paroles qui ne coûtent ni argent ni beaucoup de temps, et pourtant elles font partie de ce qu'Allah a décrit comme meilleur en récompense et meilleur en espérance.
 
 <!-- evidence:end -->
 
@@ -86,7 +86,7 @@ Le hadith réunit deux qualificatifs qu'on pourrait croire contradictoires : la 
 
 #### Explication de la leçon
 
-Ce hadith démolit l'idée que la récompense se mesure à la fatigue. L'amour qu'Allah porte à ces deux paroles n'est conditionné ni par leur difficulté ni par leur longueur, mais par la sincérité et la dévotion de celui qui les prononce.
+Ce hadith démolit l'idée que la récompense se mesure à la fatigue. L'amour qu'Allah porte à ces deux paroles n'est pas conditionné par leur difficulté, mais par la sincérité de celui qui les prononce et la pureté de son intention.
 
 <!-- evidence:end -->
 
@@ -106,7 +106,7 @@ La plantation ici est réelle, non une simple représentation symbolique ; elle 
 
 #### Explication de la leçon
 
-Ce hadith relie une parole légère à un effet durable qui croît dans une demeure qui ne périt pas. La leçon n'est pas dans la petitesse de la parole en ce monde, mais dans le rang qu'Allah lui accorde dans l'au-delà ; c'est là même le sens de Sa parole : `خَيْرٌ عِنْدَ رَبِّكَ ثَوَابًا` (« meilleure auprès de ton Seigneur en récompense »).
+Ce hadith relie une parole légère à un effet durable qui croît dans une demeure qui ne périt pas. Ce qui compte n'est pas la petitesse de la parole en ce monde, mais le rang qu'Allah lui accorde dans l'au-delà ; c'est précisément le sens de Sa parole : `خَيْرٌ عِنْدَ رَبِّكَ ثَوَابًا` (« meilleures auprès de ton Seigneur en récompense »).
 
 <!-- evidence:end -->
 
@@ -119,7 +119,7 @@ Ce hadith relie une parole légère à un effet durable qui croît dans une deme
 1. Comment concilies-tu la légèreté de la parole dans le hadith d'Abou Hourayra et l'immensité de son effet dans le hadith de Jabir ?
 2. Pourquoi nous est-il interdit de mesurer la valeur d'une bonne œuvre uniquement par la fatigue qu'elle exige ?
 3. Quelle différence entre une invocation dite avec présence du cœur, et une invocation répétée sans en saisir le sens ?
-4. Quel moment de ta journée pourrais-tu investir par une glorification sincère que tu ne comptais pas jusque-là comme une œuvre ?
+4. Quel moment de ta journée pourrais-tu mettre à profit pour une glorification sincère que tu ne comptais pas jusque-là comme une œuvre ?
 
 <!-- unit:end -->
 
@@ -129,7 +129,7 @@ Ce hadith relie une parole légère à un effet durable qui croît dans une deme
 
 <!-- activity:start audience="adults" concept_id="lesson.015.activity.dhikr-tally-garden" -->
 
-Choisis trois moments répétés dans ta journée que tu ne comptes habituellement pas comme une œuvre (comme l'attente, un déplacement, ou une tâche ménagère routinière), et engage-toi à y dire `سُبْحَانَ اللَّهِ وَبِحَمْدِهِ` avec présence du cœur. Pendant trois jours, note le nombre de fois à chaque moment sur un tableau simple, puis additionne le total à la fin du troisième jour, et écris en deux lignes comment ce nombre a changé ton regard sur la « petitesse » de l'invocation, en t'appuyant sur l'une des trois preuves.
+Choisis trois moments récurrents de ta journée que tu ne comptes habituellement pas comme une œuvre (comme l'attente, un déplacement, ou une tâche ménagère routinière), et engage-toi à y dire `سُبْحَانَ اللَّهِ وَبِحَمْدِهِ` avec présence du cœur. Pendant trois jours, note le nombre de fois à chaque moment sur un tableau simple, puis fais le total à la fin du troisième jour, et écris en deux lignes comment ce nombre a changé ton regard sur la « petitesse » de l'invocation, en t'appuyant sur l'une des trois preuves.
 
 <!-- activity:end -->
 
@@ -137,7 +137,7 @@ Choisis trois moments répétés dans ta journée que tu ne comptes habituelleme
 
 <!-- reader:end -->
 
-<!-- reader:start audience="4-7" estimated_minutes="5.0" -->
+<!-- reader:start audience="4-7" estimated_minutes="4.5" -->
 
 <!-- unit:start id="4-7.explanation" kind="explanation" -->
 
@@ -197,7 +197,7 @@ Le Prophète, paix et bénédictions sur lui, a dit : quiconque dit « Gloire et
 
 <!-- activity:start audience="4-7" concept_id="lesson.015.activity.dhikr-tally-garden" -->
 
-Un adulte dessine sur une feuille un grand palmier sans feuilles. Chaque fois que l'enfant dit « Gloire et pureté à Allah, et à Lui la louange » pendant la journée, il colle ou dessine une petite feuille verte sur l'arbre. Le soir, l'enfant compte les feuilles avec sa famille et dit : « Voici mon palmier que j'ai planté aujourd'hui par l'invocation. »
+Un adulte dessine sur une feuille un grand palmier sans feuilles. Chaque fois que l'enfant dit « Gloire et pureté à Allah, et à Lui la louange » pendant la journée, il colle ou dessine une petite feuille verte sur l'arbre. Le soir, l'enfant compte les feuilles avec sa famille et dit : « Voici mon palmier, que j'ai planté aujourd'hui en invoquant Allah. »
 
 <!-- activity:end -->
 
@@ -213,7 +213,7 @@ Un adulte dessine sur une feuille un grand palmier sans feuilles. Chaque fois qu
 
 > اللَّهُمَّ اجْعَلْ ذِكْرَكَ عَلَى لِسَانِي فِي كُلِّ وَقْتٍ، وَاغْرِسْ لِي بِهِ خَيْرًا فِي جَنَّتِكَ.
 
-*Ô Allah, mets Ton rappel sur ma langue à tout moment, et plante-moi par lui du bien dans Ton Paradis.*
+*Ô Allah, mets Ton rappel sur ma langue à tout moment, et, par lui, plante pour moi du bien dans Ton Paradis.*
 
 <!-- bedtime-dua:end -->
 
@@ -221,13 +221,13 @@ Un adulte dessine sur une feuille un grand palmier sans feuilles. Chaque fois qu
 
 <!-- reader:end -->
 
-<!-- reader:start audience="8-12" estimated_minutes="6.0" -->
+<!-- reader:start audience="8-12" estimated_minutes="5.0" -->
 
 <!-- unit:start id="8-12.explanation" kind="explanation" -->
 
 ## Pour les enfants de 8 à 12 ans
 
-Tu pourrais penser que l'œuvre qui mérite une grande récompense doit être pénible ou visible aux yeux des gens, comme le nettoyage ou la collecte de dons. Mais Allah nous apprend qu'une parole aussi légère que « Gloire et pureté à Allah, et à Lui la louange » fait planter un palmier entier au Paradis, une parole que personne ne voit et qui ne demande presque aucun effort. La valeur auprès d'Allah ne se mesure pas à l'ampleur de la fatigue, mais à la sincérité du cœur et à la persévérance de l'habitude.
+Tu pourrais penser que l'œuvre qui mérite une grande récompense doit être pénible ou visible aux yeux des gens, comme le nettoyage ou la collecte de dons. Mais Allah nous apprend que, grâce à une parole aussi légère que « Gloire et pureté à Allah, et à Lui la louange », un palmier entier est planté au Paradis ; c'est pourtant une parole que personne ne voit et qui ne demande presque aucun effort. La valeur auprès d'Allah ne se mesure pas à l'ampleur de la fatigue, mais à la sincérité du cœur et à la régularité de l'habitude.
 
 <!-- unit:end -->
 
@@ -239,9 +239,9 @@ Tu pourrais penser que l'œuvre qui mérite une grande récompense doit être p�
 
 **Ceci est une histoire éducative fictive, pas un hadith ni un récit historique.**
 
-Houda organisa dans son école un « tableau du bien », où l'on inscrivait les grandes actions : nettoyer la classe, collecter des dons, ranger la bibliothèque. Chaque matin, elle attendait le bus de longues minutes et s'ennuyait, pensant que ce temps était « perdu », inutile à inscrire sur un tableau quelconque.
+Houda organisa dans son école un « tableau du bien », où l'on inscrivait les grandes actions : nettoyer la classe, collecter des dons, ranger la bibliothèque. Chaque matin, elle attendait le bus de longues minutes et s'ennuyait, pensant que ce temps était « perdu » et qu'il ne méritait d'être inscrit sur aucun tableau.
 
-Un jour, son enseignante demanda à la classe : « Connaissez-vous une œuvre que personne ne voit, et qui pourtant fait planter à son auteur un palmier entier au Paradis ? » Elle leur raconta alors le hadith de « Gloire et pureté à Allah, et à Lui la louange ». Houda comprit que ses minutes d'attente vide étaient une occasion perdue, non parce qu'elles étaient sans importance, mais parce qu'elle n'en connaissait pas la valeur.
+Un jour, son enseignante demanda à la classe : « Connaissez-vous une œuvre que personne ne voit, et qui pourtant vaut à son auteur un palmier entier planté au Paradis ? » Elle leur raconta alors le hadith de « Gloire et pureté à Allah, et à Lui la louange ». Houda comprit que ses minutes d'attente vides étaient une occasion perdue, non parce qu'elles étaient sans importance, mais parce qu'elle n'en connaissait pas la valeur.
 
 Le lendemain, elle commença à dire « Gloire et pureté à Allah, et à Lui la louange » sincèrement pendant qu'elle attendait le bus, sans l'écrire sur aucun tableau visible aux autres. Elle ne cessa pas de participer aux actions visibles du tableau, mais elle apprit que ses œuvres les plus précieuses pouvaient être celles que tous ignoraient, sauf Allah.
 
@@ -257,7 +257,7 @@ Le lendemain, elle commença à dire « Gloire et pureté à Allah, et à Lui la
 
 <!-- retelling:start source_id="tirmidhi-3464" audience="8-12" -->
 
-Le Prophète, paix et bénédictions sur lui, a annoncé que quiconque dit « Gloire et pureté à Allah l'Immense, et à Lui la louange » se voit planter grâce à elle un palmier au Paradis.[^4] Dans un autre hadith authentique, il a décrit cette parole et sa sœur comme étant « légères sur la langue, lourdes dans la balance, aimées du Tout Miséricordieux ».[^3] Ces deux paroles ne coûtent presque aucun effort, mais leur récompense auprès d'Allah est immense et ne s'interrompt jamais.
+Le Prophète, paix et bénédictions sur lui, a annoncé que quiconque dit « Gloire et pureté à Allah l'Immense, et à Lui la louange » obtient grâce à elle un palmier planté pour lui au Paradis.[^4] Dans un autre hadith authentique, il a décrit les deux paroles « Gloire et pureté à Allah, et à Lui la louange » et « Gloire et pureté à Allah l'Immense » comme étant « légères sur la langue, lourdes dans la balance, aimées du Tout Miséricordieux ».[^3] Ces deux paroles ne coûtent presque aucun effort, mais leur récompense auprès d'Allah est immense et ne s'interrompt jamais.
 
 <!-- retelling:end -->
 
@@ -284,7 +284,7 @@ Le Prophète, paix et bénédictions sur lui, a annoncé que quiconque dit « Gl
 1. Pourquoi Houda pensait-elle que son temps d'attente était « perdu » ?
 2. Comment le hadith décrit-il ces deux paroles à la fois : leur légèreté et leur poids ?
 3. L'invocation a-t-elle besoin d'être vue par les gens pour avoir de la valeur ?
-4. Quel moment de ta journée pourrais-tu investir par une glorification que personne ne voit ?
+4. Quel moment de ta journée pourrais-tu mettre à profit pour une glorification que personne ne voit ?
 
 <!-- unit:end -->
 
@@ -294,7 +294,7 @@ Le Prophète, paix et bénédictions sur lui, a annoncé que quiconque dit « Gl
 
 <!-- activity:start audience="8-12" concept_id="lesson.015.activity.dhikr-tally-garden" -->
 
-Choisis deux moments répétés dans ta journée qu'on ne considère habituellement pas comme une œuvre (comme attendre en voiture, ou avant de commencer tes devoirs). Pendant trois jours, note dans un tableau le nombre de fois où tu dis « Gloire et pureté à Allah, et à Lui la louange » à chaque moment. Le troisième jour, dessine un petit jardin où tu places un nombre de palmiers égal à ton total, et écris en dessous une phrase expliquant ce que tu as appris sur la valeur d'une petite œuvre.
+Choisis deux moments récurrents de ta journée qu'on ne considère habituellement pas comme une œuvre (comme attendre en voiture, ou avant de commencer tes devoirs). Pendant trois jours, note dans un tableau le nombre de fois où tu dis « Gloire et pureté à Allah, et à Lui la louange » à chaque moment. Le troisième jour, dessine un petit jardin où tu places un nombre de palmiers égal à ton total, et écris en dessous une phrase expliquant ce que tu as appris sur la valeur d'une petite œuvre.
 
 <!-- activity:end -->
 
@@ -310,7 +310,7 @@ Choisis deux moments répétés dans ta journée qu'on ne considère habituellem
 
 > اللَّهُمَّ اجْعَلْ ذِكْرَكَ عَلَى لِسَانِي فِي كُلِّ وَقْتٍ، وَاغْرِسْ لِي بِهِ خَيْرًا فِي جَنَّتِكَ.
 
-*Ô Allah, mets Ton rappel sur ma langue à tout moment, et plante-moi par lui du bien dans Ton Paradis.*
+*Ô Allah, mets Ton rappel sur ma langue à tout moment, et, par lui, plante pour moi du bien dans Ton Paradis.*
 
 <!-- bedtime-dua:end -->
 
@@ -318,13 +318,13 @@ Choisis deux moments répétés dans ta journée qu'on ne considère habituellem
 
 <!-- reader:end -->
 
-<!-- reader:start audience="13+" estimated_minutes="6.5" -->
+<!-- reader:start audience="13+" estimated_minutes="5.5" -->
 
 <!-- unit:start id="13+.explanation" kind="explanation" -->
 
 ## Pour les adolescents 13+
 
-Dans un monde où la réussite se mesure souvent à ce qui est publié et vu, tu pourrais sentir qu'une œuvre que personne ne remarque ne « compte » pas, et qu'une invocation légère ressemble à une vieille habitude qui ne convient pas à qui veut accomplir des choses « réelles ». La Révélation corrige cette image : la valeur d'une œuvre auprès d'Allah ne se mesure ni à son apparence ni à la fatigue de son auteur, mais à sa sincérité et à sa persévérance ; et la chose la plus lourde dans la balance peut être la chose la plus légère sur la langue.
+Dans un monde où la réussite se mesure souvent à ce qui est publié et vu, tu pourrais sentir qu'une œuvre que personne ne remarque ne « compte » pas, et qu'une invocation légère ressemble à une vieille habitude qui ne convient pas à qui veut accomplir des choses « réelles ». La Révélation corrige cette image : la valeur d'une œuvre auprès d'Allah ne se mesure ni à sa visibilité ni à la fatigue de son auteur, mais à sa sincérité et à sa persévérance ; et la chose la plus lourde dans la balance peut être la chose la plus légère sur la langue.
 
 <!-- unit:end -->
 
@@ -338,7 +338,7 @@ Dans un monde où la réussite se mesure souvent à ce qui est publié et vu, tu
 
 Karim avait pris l'habitude de documenter chaque activité qu'il accomplissait : entraînement sportif, projet scolaire, initiative bénévole, et publiait des photos montrant ses efforts. Il sentait que cette documentation lui donnait une identité de « personne productive ». Un jour, un ami se moqua de lui : « Je t'ai vu bouger les lèvres en attendant le cours, c'est une glorification ? Ça ne compte pas comme un accomplissement ! »
 
-Karim se sentit gêné, et pensa abandonner cette habitude discrète parce qu'elle n'ajoutait rien de « visible ». Mais il se souvint de deux hadiths : l'un décrivant la parole « Gloire et pureté à Allah, et à Lui la louange » comme légère sur la langue et lourde dans la balance, l'autre annonçant qu'elle fait planter un palmier au Paradis. Il se demanda : « Vais-je abandonner une œuvre que le Prophète, paix et bénédictions sur lui, a décrite avec ce poids, parce qu'un ami n'en a pas compris la valeur ? »
+Karim se sentit gêné, et pensa abandonner cette habitude discrète parce qu'elle n'ajoutait rien de « visible ». Mais il se souvint de deux hadiths : l'un décrivant la parole « Gloire et pureté à Allah, et à Lui la louange » comme légère sur la langue et lourde dans la balance, l'autre annonçant qu'elle vaut à celui qui la dit un palmier planté au Paradis. Il se demanda : « Vais-je abandonner une œuvre que le Prophète, paix et bénédictions sur lui, a décrite avec ce poids, parce qu'un ami n'en a pas compris la valeur ? »
 
 Karim décida de continuer sa glorification discrète sans l'expliquer à personne ni la documenter, et de distinguer ce qu'il publiait pour les gens de ce qui n'appartenait qu'à lui et à son Seigneur. Il ne cessa pas ses projets visibles, mais il cessa de croire que la valeur d'une œuvre se mesure au nombre de ceux qui la voient.
 
@@ -348,15 +348,15 @@ Karim décida de continuer sa glorification discrète sans l'expliquer à person
 
 <!-- unit:start id="13+.authenticated-story" kind="authenticated_story" -->
 
-### Une situation prophétique qui démolit le critère de la visibilité
+### Un enseignement prophétique qui renverse le critère de la visibilité
 
 <!-- story:start audience="13+" role="authenticated" type="hadith" source_id="tirmidhi-3464" authenticated="true" -->
 
 <!-- retelling:start source_id="tirmidhi-3464" audience="13+" -->
 
-Jabir, qu'Allah l'agrée, a rapporté que le Prophète, paix et bénédictions sur lui, a dit : « Quiconque dit : Gloire et pureté à Allah l'Immense, et à Lui la louange, un palmier lui est planté au Paradis. »[^4] Et dans le hadith authentique et unanimement reconnu d'Abou Hourayra, qu'Allah l'agrée, le Prophète, paix et bénédictions sur lui, a décrit cette parole et sa sœur comme « deux paroles aimées du Tout Miséricordieux, légères sur la langue, lourdes dans la balance ».[^3]
+Jabir, qu'Allah l'agrée, a rapporté que le Prophète, paix et bénédictions sur lui, a dit : « Quiconque dit : Gloire et pureté à Allah l'Immense, et à Lui la louange, un palmier lui est planté au Paradis. »[^4] Et dans le hadith authentique et unanimement reconnu d'Abou Hourayra, qu'Allah l'agrée, le Prophète, paix et bénédictions sur lui, a décrit les deux paroles « Gloire et pureté à Allah, et à Lui la louange » et « Gloire et pureté à Allah l'Immense » comme « deux paroles aimées du Tout Miséricordieux, légères sur la langue, lourdes dans la balance ».[^3]
 
-Les deux hadiths ensemble démantèlent une équation répandue : que la récompense suit l'effort visible. Cette parole ne fatigue pas celui qui la prononce, et le hadith ne conditionne sa valeur au fait qu'elle soit vue par quiconque ; pourtant la Révélation l'a décrite comme la chose la plus lourde qu'on place dans la balance, et la plus durable de ce qui est planté au Paradis.
+Les deux hadiths ensemble démantèlent une équation répandue, selon laquelle la récompense suivrait l'effort visible. Cette parole ne fatigue pas celui qui la prononce, et le hadith n'exige pas que quiconque la voie ; pourtant la Révélation l'a décrite comme lourde dans la balance, et a accordé à celui qui la prononce une plantation durable au Paradis.
 
 <!-- retelling:end -->
 
@@ -370,7 +370,7 @@ Les deux hadiths ensemble démantèlent une équation répandue : que la récomp
 
 - **`الْبَاقِيَاتُ الصَّالِحَاتُ`** — les œuvres et invocations bonnes dont la récompense demeure et ne périt jamais, dont le tasbih et le tahmid.
 - **`الْمِيزَانُ`** — la balance où les œuvres seront pesées le Jour de la Résurrection ; sa lourdeur signifie l'immensité de la valeur auprès d'Allah, non un poids sensible.
-- **`الْغَفْلَةُ`** — l'inattention du cœur au sens de l'invocation pendant qu'elle se répète sur la langue.
+- **`الْغَفْلَةُ`** — l'inattention du cœur au sens de l'invocation pendant que la langue la répète.
 
 <!-- terminology:end -->
 
@@ -382,19 +382,19 @@ Les deux hadiths ensemble démantèlent une équation répandue : que la récomp
 
 1. Comment les deux hadiths remettent-ils en cause l'idée que la valeur d'une œuvre se mesure à l'effort qu'elle exige ou à qui la voit ?
 2. Quelle différence entre documenter une bonne action pour encourager les autres, et la documenter pour s'affirmer soi-même ?
-3. Comment une habitude d'invocation discrète se protège-t-elle de l'abandon quand personne ne la partage avec toi ?
-4. Quelle œuvre légère accomplis-tu chaque jour sans en avoir mesuré la grande valeur auprès d'Allah ?
+3. Comment protéger de l'abandon une habitude d'invocation discrète quand personne ne la partage avec toi ?
+4. Quelle œuvre légère accomplis-tu chaque jour sans avoir jamais pensé qu'elle avait une grande valeur auprès d'Allah ?
 5. Comment réponds-tu avec douceur à quelqu'un qui se moque d'une habitude de foi discrète ?
 
 <!-- unit:end -->
 
 <!-- unit:start id="13+.activity" kind="activity" -->
 
-### Activité : le suiveur des plants discrets
+### Activité : le carnet de suivi des plants discrets
 
 <!-- activity:start audience="13+" concept_id="lesson.015.activity.dhikr-tally-garden" -->
 
-Détermine trois moments quotidiens répétés où se répète une habitude que personne ne voit (comme ouvrir ton téléphone, attendre avant un entraînement ou un cours, ou marcher entre les salles de classe). Pendant une semaine, note dans un suivi personnel le nombre de fois où tu dis « Gloire et pureté à Allah, et à Lui la louange » à ces moments, sans partager ce nombre avec personne. À la fin de la semaine, écris un court paragraphe reliant la constance de cette habitude discrète aux deux hadiths, et expliquant comment ta vision de ce qui « compte » comme une œuvre de valeur a changé.
+Repère trois moments de ta journée où revient une habitude que personne ne voit (comme ouvrir ton téléphone, attendre avant un entraînement ou un cours, ou marcher entre les salles de classe). Pendant une semaine, note dans un suivi personnel le nombre de fois où tu dis « Gloire et pureté à Allah, et à Lui la louange » à ces moments, sans partager ce nombre avec personne. À la fin de la semaine, écris un court paragraphe reliant la constance de cette habitude discrète aux deux hadiths, et expliquant comment ta vision de ce qui « compte » comme une œuvre de valeur a changé.
 
 <!-- activity:end -->
 
@@ -410,7 +410,7 @@ Détermine trois moments quotidiens répétés où se répète une habitude que 
 
 > اللَّهُمَّ اجْعَلْ ذِكْرَكَ عَلَى لِسَانِي فِي كُلِّ وَقْتٍ، وَاغْرِسْ لِي بِهِ خَيْرًا فِي جَنَّتِكَ.
 
-*Ô Allah, mets Ton rappel sur ma langue à tout moment, et plante-moi par lui du bien dans Ton Paradis.*
+*Ô Allah, mets Ton rappel sur ma langue à tout moment, et, par lui, plante pour moi du bien dans Ton Paradis.*
 
 <!-- bedtime-dua:end -->
 
@@ -464,7 +464,7 @@ Détermine trois moments quotidiens répétés où se répète une habitude que 
 **Résultats d'apprentissage :** que l'enfant dise « Gloire et pureté à Allah, et à Lui la louange » et sache qu'un palmier lui est planté au Paradis grâce à elle, qu'il distingue qu'une petite parole peut produire un grand effet, et qu'il s'entraîne à la dire plusieurs fois dans la journée.
 
 <!-- lesson-plan:materials -->
-**Matériel :** dessin d'un palmier sans feuilles ; petites feuilles vertes ou autocollants ; une graine réelle et petite à montrer si possible ; carte du du'a en écriture claire.
+**Matériel :** dessin d'un palmier sans feuilles ; petites feuilles vertes ou autocollants ; une vraie petite graine à montrer si possible ; carte du du'a en écriture claire.
 
 <!-- lesson-plan:preparation -->
 **Préparation :** l'enseignant prépare à l'avance le dessin du palmier et les petites feuilles, et s'entraîne à expliquer le sens de « Gloire et pureté à Allah » et « à Lui la louange » en deux phrases simples.
@@ -482,7 +482,7 @@ Détermine trois moments quotidiens répétés où se répète une habitude que 
 **Activité — 9 minutes :** chaque enfant dit « Gloire et pureté à Allah, et à Lui la louange » et colle une feuille verte sur le palmier, en répétant plusieurs fois, puis les enfants comptent les feuilles ensemble à la fin de l'activité.
 
 <!-- lesson-plan:assessment -->
-**Évaluation et conclusion — 5 minutes :** il demande : « Que se passe-t-il au Paradis quand nous disons cette parole ? Est-ce une petite parole ou un grand effet ? » puis lit le du'a une fois lentement.
+**Évaluation et conclusion — 5 minutes :** il demande : « Que se passe-t-il au Paradis quand nous disons cette parole ? Est-ce une petite parole, ou une parole au grand effet ? » puis lit le du'a une fois lentement.
 
 <!-- lesson-plan:differentiation -->
 **Différenciation :** on autorise la répétition collective pour l'enfant qui ne retient pas la parole seul, et l'enfant avancé reçoit la mission de compter les feuilles et d'annoncer le total.
@@ -548,7 +548,7 @@ Détermine trois moments quotidiens répétés où se répète une habitude que 
 **Étude des preuves — 12 minutes :** trois groupes lisent le verset d'Al-Kahf : 46, le hadith d'Abou Hourayra, et le hadith de Jabir. Chaque groupe relève dans chaque texte : le mot exprimant la légèreté, et le mot exprimant la récompense durable.
 
 <!-- lesson-plan:instruction -->
-**Enseignement dirigé — 13 minutes :** l'enseignant explique les termes des œuvres qui demeurent, de la balance et de l'inattention du cœur, et discute de la manière dont les deux hadiths ensemble affrontent l'idée que le véritable accomplissement est ce qui est publié et vu.
+**Enseignement dirigé — 13 minutes :** l'enseignant explique les termes « œuvres bonnes qui demeurent », « balance » et « inattention du cœur », et discute de la manière dont les deux hadiths ensemble battent en brèche l'idée que le véritable accomplissement est ce qui est publié et vu.
 
 <!-- lesson-plan:activity -->
 **Activité — 15 minutes :** les élèves conçoivent leur propre suivi hebdomadaire d'une habitude d'invocation discrète, et écrivent un paragraphe introductif expliquant pourquoi ils ont choisi leurs trois moments.
@@ -557,7 +557,7 @@ Détermine trois moments quotidiens répétés où se répète une habitude que 
 **Évaluation et conclusion — 10 minutes :** l'élève écrit une réponse de trois lignes à la question d'ouverture, en s'appuyant sur les deux hadiths, puis une étape personnelle qu'il n'a pas besoin d'annoncer.
 
 <!-- lesson-plan:differentiation -->
-**Différenciation :** l'élève en difficulté reçoit trois moments déjà prêts parmi lesquels choisir, et l'avancé est chargé de discuter comment documenter une œuvre pour encourager les autres diffère de la documenter pour s'affirmer soi-même.
+**Différenciation :** l'élève en difficulté reçoit trois moments déjà prêts parmi lesquels choisir, et l'avancé est chargé de débattre de la différence entre documenter une œuvre pour encourager les autres et la documenter pour s'affirmer soi-même.
 
 <!-- lesson-plan:safeguards -->
 **Mises en garde pédagogiques :** la leçon ne sert jamais à juger qui documente ses œuvres publiquement, ni à transformer l'invocation en un décompte obsessionnel source de scrupule ; celui qui en montre les signes est orienté vers une invocation équilibrée et un soutien approprié.

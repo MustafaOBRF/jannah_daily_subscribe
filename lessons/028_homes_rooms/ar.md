@@ -30,7 +30,7 @@ bedtime_dua_id: "lesson.028.dua.guide-us-to-our-homes"
 
 ## القسم الأكاديمي للبالغين
 
-<!-- reader:start audience="adults" estimated_minutes="6.5" -->
+<!-- reader:start audience="adults" estimated_minutes="7.0" -->
 
 <!-- unit:start id="adults.explanation" kind="explanation" -->
 
@@ -136,7 +136,7 @@ bedtime_dua_id: "lesson.028.dua.guide-us-to-our-homes"
 
 ## للأطفال من ٤ إلى ٧ سنوات
 
-<!-- reader:start audience="4-7" estimated_minutes="5.0" -->
+<!-- reader:start audience="4-7" estimated_minutes="5.5" -->
 
 <!-- unit:start id="4-7.explanation" kind="explanation" -->
 
@@ -235,7 +235,7 @@ bedtime_dua_id: "lesson.028.dua.guide-us-to-our-homes"
 
 ## للأطفال من ٨ إلى ١٢ سنة
 
-<!-- reader:start audience="8-12" estimated_minutes="5.5" -->
+<!-- reader:start audience="8-12" estimated_minutes="6.0" -->
 
 <!-- unit:start id="8-12.explanation" kind="explanation" -->
 

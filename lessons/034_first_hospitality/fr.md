@@ -103,7 +103,7 @@ An-Nawawi, qu'Allah lui fasse miséricorde, explique que le *nuzul* est « ce q
 
 #### Explication De La Leçon
 
-Le Prophète, paix et bénédictions sur lui, rit parce que le rabbin venait confirmer ce qu'il avait lui-même annoncé. Nous affirmons ce que dit le hadith, y compris l'attribut de la main pour Allah, exalté soit-Il, tel qu'il convient à Sa majesté — « Rien ne Lui est semblable » — sans en imaginer la modalité ni Le comparer à Ses créatures, et nous n'ajoutons rien au texte dans la description de l'Invisible.
+Le Prophète, paix et bénédictions sur lui, rit parce que l'homme juif venait confirmer ce qu'il avait lui-même annoncé. Nous affirmons ce que dit le hadith, y compris l'attribut de la main pour Allah, exalté soit-Il, tel qu'il convient à Sa majesté — « Rien ne Lui est semblable » — sans en imaginer la modalité ni Le comparer à Ses créatures, et nous n'ajoutons rien au texte dans la description de l'Invisible.
 
 <!-- evidence:end -->
 

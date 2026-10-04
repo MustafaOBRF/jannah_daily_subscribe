@@ -21,24 +21,24 @@ bedtime_dua_id: "lesson.012.dua.aid-in-worship"
 
 Al terminar esta lección, el alumno será capaz de:
 
-- Explicar el significado de "at-tashmir" como elevar la determinación y apresurarse de inmediato hacia el bien, y distinguirlo de la temeridad o la impulsividad no regulada por un límite legítimo.
-- Exponer el sentido de la orden de "competir" hacia el perdón y el Yanna en la aya de Al-Hadid (57:21), y relacionarla con el hadiz "Apresúrense con las buenas obras", que advierte que los corazones pueden cambiar con rapidez durante las pruebas.
-- Narrar el relato de Umair ibn al-Humam el día de Badr y analizar su decisión inmediata una vez que el Profeta ﷺ le confirmó la promesa del Yanna.
+- Explicar el significado de "at-tashmir" como elevar la determinación y apresurarse de inmediato hacia el bien, y distinguirlo de la temeridad o la impulsividad no sujeta a las normas de la sharía.
+- Exponer el sentido de la orden de "competir" hacia el perdón y el Yanna en la aya de Al-Hadid (57:21), y relacionarla con el hadiz "Apresúrense con las buenas obras", que advierte que los corazones pueden cambiar con rapidez en tiempos de tribulaciones (fitan).
+- Narrar el relato de Umair ibn al-Humam el día de Badr y analizar su decisión inmediata una vez que el Profeta, la paz y las bendiciones de Allah sean con él, le confirmó la promesa del Yanna.
 - Distinguir la actitud legítima de Umair en su propio contexto de cualquier uso de "at-tashmir" para justificar el riesgo o la impulsividad sin control.
 - Aplicar de forma práctica el principio de no postergar el bien mediante la "tarjeta de la carrera del bien", identificando una buena obra postergada, una fecha próxima y un primer paso concreto para realizarla.
 
 ## Sección académica para adultos
 
-<!-- reader:start audience="adults" estimated_minutes="6.5" -->
+<!-- reader:start audience="adults" estimated_minutes="7.0" -->
 
 <!-- unit:start id="adults.explanation" kind="explanation" -->
 
-**At-tashmir** significa elevar la determinación y esforzarse con seriedad, como quien se recoge el bajo de la túnica para caminar más rápido. Los primeros musulmanes usaron esta palabra para una sola actitud: que el creyente trate cada oportunidad de bien como un instante pasajero que no espera la indecisión. El Yanna tiene la anchura de los cielos y la tierra, y la vida es una oportunidad aprovechable, no garantizada.
+**At-tashmir** significa elevar la determinación y esforzarse con seriedad, como quien se recoge el bajo de la túnica para caminar más rápido. Los primeros musulmanes usaron esta palabra para una sola actitud: que el creyente trate cada oportunidad de bien como un instante pasajero que no espera la indecisión. El Yanna tiene la anchura de los cielos y la tierra, y la vida es una oportunidad que hay que aprovechar, no algo garantizado.
 
-Esta actitud es fruto de la certeza, no impulso emocional. Los textos revelan tres dimensiones que se complementan:
+Esta actitud es fruto de la certeza, no impulso emocional. Los textos revelan tres dimensiones:
 
 1. **La competencia es un fin legislado en sí mismo:** Allah ordenó apresurarse y competir hacia el perdón y el Yanna, convirtiendo el esfuerzo en el bien en un acto de adoración que se busca por sí mismo.
-2. **Postergar es un riesgo real:** el Profeta, la paz y las bendiciones de Allah sean con él, advirtió sobre pruebas en las que los corazones cambian con rapidez; lo que la persona cree una oportunidad permanente puede convertirse en un estado turbulento en el que ya no posee lo que hoy posee.
+2. **Postergar es un riesgo real:** el Profeta, la paz y las bendiciones de Allah sean con él, advirtió sobre tribulaciones en las que los corazones cambian con rapidez; lo que uno cree una oportunidad duradera puede convertirse en una situación en la que ya no tiene lo que hoy tiene.
 3. **La determinación se traduce en acción:** el mayor ejemplo de este apresuramiento es la actitud de un Compañero que vio en la promesa del Yanna algo que merecía anteponerse a un pequeño placer inmediato, uniendo así la certeza con la acción instantánea.
 
 <!-- unit:end -->
@@ -59,19 +59,19 @@ Esta actitud es fruto de la certeza, no impulso emocional. Los textos revelan tr
 
 > **Compitan hacia un perdón de su Señor y hacia un Yanna cuya anchura es como la anchura del cielo y la tierra, preparado para quienes creen en Allah y en Sus mensajeros. Ese es el favor de Allah, que lo concede a quien Él quiere; y Allah es el Poseedor del favor inmenso.** [Corán 57:21][^1]
 
-#### Explicación científica
+#### Explicación académica
 
-La orden de "competir" implica poner el máximo esfuerzo, no simplemente igualar a los demás. Allah unió el perdón con el Yanna porque no se entra en él sino tras purificarse de los pecados, y mencionó su amplitud para dejar claro que la abundancia de competidores no lo estrecha. Cerró la aya afirmando que el Yanna es un favor que Allah concede a quien Él quiere: la competencia es una causa que Él legisló para unir el esfuerzo con la esperanza, no un trato que obligue al Señor.[^2]
+La orden de "competir" implica poner el máximo esfuerzo, no simplemente igualar a los demás. Allah unió el perdón con el Yanna porque no se entra en él sino tras purificarse de los pecados, y mencionó su amplitud para dejar claro que la abundancia de competidores no lo estrecha. Y cerró la aya afirmando que el Yanna es un favor que Él concede a quien quiere, no un trato que obligue al Señor, glorificado sea.[^2]
 
 #### Explicación de la lección
 
-Quien cree en la amplitud de esta promesa no se conforma con ser el último de la fila; eleva su determinación hacia el perdón y los grados más altos, sabiendo que esa puerta está abierta para todo el que actúe con sinceridad.
+Quien cree en la amplitud de esta promesa no se conforma con ser el último de la fila; eleva su determinación hacia el perdón y los grados más altos, sabiendo que la puerta de esta competencia está abierta para todo el que actúe con sinceridad.
 
 <!-- evidence:end -->
 
 <!-- evidence:start id="muslim-118" kind="hadith" mode="canonical" -->
 
-### La orden de apresurarse antes de las pruebas
+### La orden de apresurarse antes de las tribulaciones
 
 > عَنْ أَبِي هُرَيْرَةَ رضي الله عنه، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ: **«بَادِرُوا بِالْأَعْمَالِ فِتَنًا كَقِطَعِ اللَّيْلِ الْمُظْلِمِ، يُصْبِحُ الرَّجُلُ مُؤْمِنًا وَيُمْسِي كَافِرًا، أَوْ يُمْسِي مُؤْمِنًا وَيُصْبِحُ كَافِرًا، يَبِيعُ دِينَهُ بِعَرَضٍ مِنَ الدُّنْيَا».**[^3]
 
@@ -79,15 +79,15 @@ Quien cree en la amplitud de esta promesa no se conforma con ser el último de l
 
 #### Traducción al español
 
-> De Abu Huraira, que Allah esté complacido con él, que el Profeta, la paz y las bendiciones de Allah sean con él, dijo: **«Apresúrense con las buenas obras antes de que lleguen pruebas como fragmentos de una noche oscura: el hombre amanece creyente y anochece incrédulo, o anochece creyente y amanece incrédulo, vendiendo su religión por un bien pasajero de este mundo».**[^3]
+> Abu Huraira, que Allah esté complacido con él, narró que el Profeta, la paz y las bendiciones de Allah sean con él, dijo: **«Apresúrense con las buenas obras antes de que lleguen tribulaciones como fragmentos de una noche oscura: el hombre amanece creyente y anochece incrédulo, o anochece creyente y amanece incrédulo, vendiendo su religión por un bien pasajero de este mundo».**[^3]
 
-#### Explicación científica
+#### Explicación académica
 
-El Profeta ﷺ comparó las pruebas con fragmentos de una noche oscura por su rapidez y confusión; la persona no distingue su principio de su final sino tras haber caído en ellas. Advirtió sobre el vuelco del corazón en un solo día por un bien perecedero.
+El Profeta, la paz y las bendiciones de Allah sean con él, comparó las tribulaciones con fragmentos de una noche oscura por su rapidez y confusión; la persona no distingue su principio de su final sino tras haber caído en ellas. Advirtió sobre el vuelco del corazón en un solo día por un bien perecedero.
 
 #### Explicación de la lección
 
-Este hadiz muestra la razón del apresuramiento: la vida apta para la obediencia no está garantizada, y el corazón mismo está expuesto al cambio. La sabiduría consiste en apresurarse con la obra buena disponible ahora, sin posponerla.
+Este hadiz muestra la razón del apresuramiento: no tenemos garantizada una vida en la que podamos seguir obedeciendo, y el corazón mismo está expuesto al cambio. La sabiduría consiste en apresurarse con la obra buena disponible ahora, sin posponerla.
 
 <!-- evidence:end -->
 
@@ -95,21 +95,21 @@ Este hadiz muestra la razón del apresuramiento: la vida apta para la obediencia
 
 ### Umair ibn al-Humam compite hacia el Yanna el día de Badr
 
-> عَنْ أَنَسِ بْنِ مَالِكٍ رضي الله عنه، عَنْ عُمَيْرِ بْنِ الْحُمَامِ الْأَنْصَارِيِّ رضي الله عنه، أَنَّ رَسُولَ اللهِ صلى الله عليه وسلم قَالَ: **«قُومُوا إِلَى جَنَّةٍ عَرْضُهَا السَّمَوَاتُ وَالْأَرْضُ». قَالَ: فَقَالَ عُمَيْرُ بْنُ الْحُمَامِ الْأَنْصَارِيُّ: يَا رَسُولَ اللهِ، جَنَّةٌ عَرْضُهَا السَّمَوَاتُ وَالْأَرْضُ؟ قَالَ: «نَعَمْ». قَالَ: بَخٍ بَخٍ. فَقَالَ رَسُولُ اللهِ صلى الله عليه وسلم: «مَا يَحْمِلُكَ عَلَى قَوْلِكَ بَخٍ بَخٍ؟» قَالَ: لَا وَاللهِ يَا رَسُولَ اللهِ، إِلَّا رَجَاءَ أَنْ أَكُونَ مِنْ أَهْلِهَا. قَالَ: «فَإِنَّكَ مِنْ أَهْلِهَا». فَأَخْرَجَ تَمَرَاتٍ مِنْ قَرَنِهِ، فَجَعَلَ يَأْكُلُ مِنْهُنَّ، ثُمَّ قَالَ: لَئِنْ أَنَا حَيِيتُ حَتَّى آكُلَ تَمَرَاتِي هَذِهِ إِنَّهَا لَحَيَاةٌ طَوِيلَةٌ. قَالَ: فَرَمَى بِمَا كَانَ مَعَهُ مِنَ التَّمْرِ، ثُمَّ قَاتَلَهُمْ حَتَّى قُتِلَ.**[^4]
+> عَنْ أَنَسِ بْنِ مَالِكٍ رضي الله عنه فِي خَبَرِ يَوْمِ بَدْرٍ قَالَ: … فَدَنَا الْمُشْرِكُونَ، فَقَالَ رَسُولُ اللهِ صلى الله عليه وسلم: **«قُومُوا إِلَى جَنَّةٍ عَرْضُهَا السَّمَوَاتُ وَالْأَرْضُ». قَالَ: يَقُولُ عُمَيْرُ بْنُ الْحُمَامِ الْأَنْصَارِيُّ: يَا رَسُولَ اللهِ، جَنَّةٌ عَرْضُهَا السَّمَوَاتُ وَالْأَرْضُ؟ قَالَ: «نَعَمْ». قَالَ: بَخٍ بَخٍ. فَقَالَ رَسُولُ اللهِ صلى الله عليه وسلم: «مَا يَحْمِلُكَ عَلَى قَوْلِكَ بَخٍ بَخٍ؟» قَالَ: لَا وَاللهِ يَا رَسُولَ اللهِ، إِلَّا رَجَاءَةَ أَنْ أَكُونَ مِنْ أَهْلِهَا. قَالَ: «فَإِنَّكَ مِنْ أَهْلِهَا». فَأَخْرَجَ تَمَرَاتٍ مِنْ قَرَنِهِ، فَجَعَلَ يَأْكُلُ مِنْهُنَّ، ثُمَّ قَالَ: لَئِنْ أَنَا حَيِيتُ حَتَّى آكُلَ تَمَرَاتِي هَذِهِ إِنَّهَا لَحَيَاةٌ طَوِيلَةٌ. قَالَ: فَرَمَى بِمَا كَانَ مَعَهُ مِنَ التَّمْرِ، ثُمَّ قَاتَلَهُمْ حَتَّى قُتِلَ.**[^4]
 
 <!-- evidence:translation -->
 
 #### Traducción al español
 
-> De Anas ibn Malik, que Allah esté complacido con él, sobre Umair ibn al-Humam al-Ansari, que Allah esté complacido con él: que el Mensajero de Allah, la paz y las bendiciones de Allah sean con él, dijo: **«Levántense hacia un Yanna cuya anchura son los cielos y la tierra». Dijo [Umair]: Umair ibn al-Humam al-Ansari preguntó: "¡Oh, Mensajero de Allah! ¿Un Yanna cuya anchura son los cielos y la tierra?" Dijo: "Sí". Dijo [Umair]: "¡Qué maravilla, qué maravilla!". El Mensajero de Allah, la paz y las bendiciones de Allah sean con él, le preguntó: "¿Qué te lleva a decir 'qué maravilla, qué maravilla'?" Dijo: "No, por Allah, Mensajero de Allah, sino la esperanza de ser de su gente". Dijo: "Entonces tú eres de su gente". Sacó unos dátiles de su aljaba y comenzó a comer de ellos, luego dijo: "Si he de vivir hasta terminar de comer estos dátiles míos, eso sería una vida larga". Dijo [Anas]: Entonces arrojó los dátiles que tenía consigo, y luchó contra ellos hasta que fue muerto.**[^4]
+> De Anas ibn Malik, que Allah esté complacido con él, en su relato del día de Badr: … Los idólatras se acercaron, y el Mensajero de Allah, la paz y las bendiciones de Allah sean con él, dijo: **«Levántense hacia un Yanna cuya anchura son los cielos y la tierra». Dijo [Anas]: Umair ibn al-Humam al-Ansari preguntó: "¡Oh Mensajero de Allah! ¿Un Yanna cuya anchura son los cielos y la tierra?" Dijo: "Sí". Dijo [Umair]: "¡Qué maravilla, qué maravilla!". El Mensajero de Allah, la paz y las bendiciones de Allah sean con él, le preguntó: "¿Qué te lleva a decir 'qué maravilla, qué maravilla'?" Dijo: "No, por Allah, Mensajero de Allah, sino la esperanza de ser de su gente". Dijo: "Entonces tú eres de su gente". Sacó unos dátiles de su aljaba y comenzó a comer de ellos, luego dijo: "Si he de vivir hasta terminar de comer estos dátiles míos, eso sería una vida larga". Dijo [Anas]: Entonces arrojó los dátiles que tenía consigo, y luchó contra ellos hasta que lo mataron.**[^4]
 
-#### Explicación científica
+#### Explicación académica
 
-Esto sucedió el día de Badr, cuando el Profeta ﷺ incitó a sus Compañeros a combatir explicándoles que el fruto de la paciencia es un Yanna tan vasto como los cielos y la tierra. Umair preguntó con certeza, no con duda, y el Profeta le dio la buena nueva de que era de su gente, así que no retrasó su respuesta ni un instante.
+Esto sucedió el día de Badr, cuando el Profeta, la paz y las bendiciones de Allah sean con él, exhortó a sus Compañeros a combatir explicándoles que el fruto de la paciencia es un Yanna tan vasto como los cielos y la tierra. Umair preguntó para asegurarse, no por duda; el Profeta le dio la buena nueva de que era de su gente, y él decidió no retrasar su respuesta ni un instante.
 
 #### Explicación de la lección
 
-La decisión de Umair no fue temeridad, sino una respuesta inmediata a una buena nueva explícita del Profeta ﷺ, en un contexto legítimo. La lección: cuando tengas la certeza de que algo que te acerca al Yanna ha llegado a su momento legítimo, no dejes que un pequeño placer presente te distraiga de ello.
+La decisión de Umair no fue temeridad, sino una respuesta inmediata a una buena nueva del Profeta, la paz y las bendiciones de Allah sean con él, en un contexto legítimo. La lección que perdura: cuando tengas la certeza de que ha llegado el momento de algo que te acerca al Yanna, no dejes que un pequeño placer presente te distraiga de ello.
 
 <!-- evidence:end -->
 
@@ -120,9 +120,9 @@ La decisión de Umair no fue temeridad, sino una respuesta inmediata a una buena
 ## Preguntas para la comprensión y la reflexión
 
 1. ¿Por qué usó Allah la palabra "competir" y no solo "obedecer" en la aya de Al-Hadid?
-2. ¿Qué relación hay entre la comparación de las pruebas con fragmentos de una noche oscura y la orden de apresurarse?
+2. ¿Qué relación hay entre la comparación de las tribulaciones con fragmentos de una noche oscura y la orden de apresurarse?
 3. ¿Qué hizo que la respuesta de Umair, que Allah esté complacido con él, "¡qué maravilla, qué maravilla!" fuera prueba de sinceridad y no una mera emoción pasajera?
-4. ¿Cómo distinguimos entre un apresuramiento loable y una temeridad no regulada por un límite legítimo?
+4. ¿Cómo distinguimos entre un apresuramiento loable y una temeridad no sujeta a las normas de la sharía?
 5. ¿Qué oportunidad de bien tienes hoy delante de ti que temes perder si la postergas?
 
 <!-- unit:end -->
@@ -133,7 +133,7 @@ La decisión de Umair no fue temeridad, sino una respuesta inmediata a una buena
 
 <!-- activity:start audience="adults" concept_id="lesson.012.activity.sabaq-race-card" -->
 
-Elige una única buena obra que llevas tiempo postergando: una limosna, mantener el vínculo familiar, arrepentirte de un pecado concreto o buscar conocimiento. Escribe en una tarjeta: **la obra, el motivo que suele distraerte de ella, una fecha de ejecución que no exceda cuarenta y ocho horas, y el primer paso concreto**. Realiza la obra al llegar la fecha, y luego escribe una sola línea que describa lo que sentiste al eliminar la postergación, comparándolo con lo que habrías perdido si hubieras esperado.
+Elige una única buena obra que llevas tiempo postergando: una limosna, mantener los lazos de parentesco, arrepentirte de un pecado concreto o buscar conocimiento. Escribe en una tarjeta: **la obra, el motivo que suele distraerte de ella, una fecha de realización dentro de las próximas cuarenta y ocho horas, y el primer paso concreto**. Realiza la obra al llegar la fecha, y luego escribe una sola línea que describa lo que sentiste al dejar de postergarla, comparándolo con lo que habrías perdido si hubieras esperado.
 
 <!-- activity:end -->
 
@@ -141,7 +141,7 @@ Elige una única buena obra que llevas tiempo postergando: una limosna, mantener
 
 <!-- reader:end -->
 
-<!-- reader:start audience="4-7" estimated_minutes="5.0" -->
+<!-- reader:start audience="4-7" estimated_minutes="4.0" -->
 
 <!-- unit:start id="4-7.explanation" kind="explanation" -->
 
@@ -159,7 +159,7 @@ Elige una única buena obra que llevas tiempo postergando: una limosna, mantener
 
 <!-- retelling:start source_id="muslim-1901" audience="4-7" -->
 
-Un día, el Profeta, la paz y las bendiciones de Allah sean con él, dijo a sus Compañeros: «¡Levántense hacia un Yanna cuya anchura son los cielos y la tierra!». Un Compañero llamado Umair se sorprendió y dijo: ¡Oh, Mensajero de Allah! ¿Un Yanna cuya anchura son los cielos y la tierra? El Profeta, la paz y las bendiciones de Allah sean con él, dijo: «Sí». Umair se alegró y dijo: ¡Qué cosa tan maravillosa! Y añadió: Espero ser de su gente. El Profeta, la paz y las bendiciones de Allah sean con él, le dijo: «Tú eres de su gente».
+Un día, el Profeta, la paz y las bendiciones de Allah sean con él, dijo a sus Compañeros: «¡Levántense hacia un Yanna cuya anchura son los cielos y la tierra!». Un Compañero llamado Umair se sorprendió y dijo: ¡Oh Mensajero de Allah! ¿Un Yanna cuya anchura son los cielos y la tierra? El Profeta, la paz y las bendiciones de Allah sean con él, dijo: «Sí». Umair se alegró y dijo: ¡Qué cosa tan maravillosa! Y añadió: Espero ser de los que vivan en él. El Profeta, la paz y las bendiciones de Allah sean con él, le dijo: «Tú eres de los que vivirán en él».
 
 Umair estaba comiendo unos dátiles, y cuando escuchó la buena noticia, dijo: Si vivo hasta terminar de comer todos estos dátiles, ¡eso sería una vida muy larga! Así que dejó los dátiles y no esperó, y se apresuró a defender a los musulmanes, y Allah lo honró con el martirio en Su causa.[^4]
 
@@ -187,7 +187,7 @@ Aprendemos de Umair que, cuando escuchó una noticia sobre el Yanna, no esperó 
 
 <!-- activity:start audience="4-7" concept_id="lesson.012.activity.sabaq-race-card" -->
 
-Dibuja con tu hijo una línea que represente un camino desde una foto de la casa hasta la foto de un jardín hermoso que represente el Yanna. Coloca en el camino tres marcas para pequeñas buenas obras: decir «Bismillah», compartir un juguete y decir «lo siento» cuando cometa un error. Elige una marca y comienza ahora mismo la carrera hacia ella junto con uno de los padres, y coloca una estrella al lograrla ese mismo día.
+Dibuja con tu hijo una línea que represente un camino desde el dibujo de una casa hasta el de un jardín hermoso que represente el Yanna. Coloca en el camino tres marcas para pequeñas buenas obras: decir «Bismillah», compartir un juguete y decir «lo siento» al equivocarse. Elige una marca y comienza ahora mismo la carrera hacia ella junto con uno de los padres, y coloca una estrella al lograrla ese mismo día.
 
 <!-- activity:end -->
 
@@ -209,13 +209,13 @@ Dibuja con tu hijo una línea que represente un camino desde una foto de la casa
 
 <!-- reader:end -->
 
-<!-- reader:start audience="8-12" estimated_minutes="5.5" -->
+<!-- reader:start audience="8-12" estimated_minutes="4.5" -->
 
 <!-- unit:start id="8-12.explanation" kind="explanation" -->
 
 ## Para niños de 8 a 12 años
 
-"At-tashmir" es una palabra que significa esforzarse y apresurarse en la obra, como si la persona se recogiera el borde de su túnica para caminar más rápido. El creyente trata las oportunidades de bien como instantes que no esperan: si encuentra una oportunidad de orar, dar limosna, reconciliarse o arrepentirse, se apresura hacia ella y no dice: «Lo haré después». Porque la vida no está garantizada, y el corazón puede cambiar con rapidez.
+"At-tashmir" es una palabra que significa esforzarse y darse prisa en hacer el bien, como si la persona se recogiera el borde de su túnica para caminar más rápido. El creyente trata las oportunidades de bien como instantes que no esperan: si encuentra una oportunidad de orar, dar limosna, reconciliarse o arrepentirse, se apresura hacia ella y no dice: «Lo haré después». Porque la vida no está garantizada, y el corazón puede cambiar con rapidez.
 
 <!-- unit:end -->
 
@@ -227,7 +227,7 @@ Dibuja con tu hijo una línea que represente un camino desde una foto de la casa
 
 <!-- retelling:start source_id="muslim-1901" audience="8-12" -->
 
-El día de la batalla de Badr, el Profeta, la paz y las bendiciones de Allah sean con él, dijo a sus Compañeros para animarlos a mantenerse firmes: «Levántense hacia un Yanna cuya anchura son los cielos y la tierra». El Compañero Umair ibn al-Humam al-Ansari le preguntó, sorprendido: ¡Oh, Mensajero de Allah! ¿Un Yanna cuya anchura son los cielos y la tierra? El Profeta, la paz y las bendiciones de Allah sean con él, le respondió: «Sí». Umair dijo: ¡Qué maravilla, qué maravilla! (una expresión que se dice al asombrarse por algo grandioso). El Profeta, la paz y las bendiciones de Allah sean con él, le preguntó el motivo de decir eso, y Umair juró que solo lo había dicho con la esperanza de ser de la gente de ese Yanna. Entonces el Profeta, la paz y las bendiciones de Allah sean con él, le dio la buena noticia diciendo: «Pues tú eres de su gente».
+El día de la batalla de Badr, el Profeta, la paz y las bendiciones de Allah sean con él, dijo a sus Compañeros para animarlos a mantenerse firmes: «Levántense hacia un Yanna cuya anchura son los cielos y la tierra». El Compañero Umair ibn al-Humam al-Ansari le preguntó, sorprendido: ¡Oh Mensajero de Allah! ¿Un Yanna cuya anchura son los cielos y la tierra? El Profeta, la paz y las bendiciones de Allah sean con él, le respondió: «Sí». Umair dijo: ¡Qué maravilla, qué maravilla! (una expresión que se dice al asombrarse por algo grandioso). El Profeta, la paz y las bendiciones de Allah sean con él, le preguntó por qué lo había dicho, y Umair juró que solo lo había dicho con la esperanza de ser de la gente de ese Yanna. Entonces el Profeta, la paz y las bendiciones de Allah sean con él, le dio la buena noticia diciendo: «Pues tú eres de su gente».
 
 Umair llevaba unos pocos dátiles que estaba comiendo, y al escuchar esta buena noticia se detuvo a pensar: si permanecía vivo hasta terminar de comer esos pocos dátiles, ¡eso sería una vida larga comparada con la recompensa que le esperaba! Así que arrojó los dátiles de su mano y se apresuró a combatir en defensa de los musulmanes, hasta que alcanzó el martirio, que Allah esté complacido con él.[^4]
 
@@ -253,9 +253,9 @@ Umair llevaba unos pocos dátiles que estaba comiendo, y al escuchar esta buena 
 ### Preguntas de comprensión y aplicación
 
 1. ¿Qué dijo el Profeta, la paz y las bendiciones de Allah sean con él, a sus Compañeros antes del combate de Badr?
-2. ¿Por qué sopesó Umair entre comer los dátiles y apresurarse al combate?
-3. ¿Significa dejar los dátiles que comer sea algo prohibido? ¿Y por qué eligió Umair dejarlo precisamente en ese momento?
-4. ¿Qué ejemplo de tu vida diaria puedes encontrar en el que puedas "dejar tus dátiles" y apresurarte hacia un bien mejor?
+2. ¿Por qué puso Umair en la balanza comerse los dátiles y apresurarse al combate?
+3. ¿Significa dejar los dátiles que comer sea algo prohibido? ¿Y por qué eligió Umair dejarlos precisamente en ese momento?
+4. ¿En qué situación de tu vida diaria puedes "dejar tus dátiles" y apresurarte hacia un bien mejor?
 
 <!-- unit:end -->
 
@@ -265,7 +265,7 @@ Umair llevaba unos pocos dátiles que estaba comiendo, y al escuchar esta buena 
 
 <!-- activity:start audience="8-12" concept_id="lesson.012.activity.sabaq-race-card" -->
 
-Escribe en una tarjeta una buena obra que hayas postergado más de una vez: como disculparte con un amigo, memorizar una aya o ayudar en casa. Fíjate un horario hoy mismo para realizarla, luego dibuja una línea de carrera sencilla desde el inicio hasta la meta. Al terminar la obra, escribe debajo de la línea una sola frase: «Estuve a punto de postergarlo por... pero competí y lo hice». Guarda la tarjeta y repite la experiencia con otra obra durante la semana.
+Escribe en una tarjeta una buena obra que hayas postergado más de una vez: como disculparte con un amigo, memorizar una aya o ayudar en casa. Fija una hora de hoy mismo para realizarla y luego dibuja una línea de carrera sencilla desde el inicio hasta la meta. Al terminar la obra, escribe debajo de la línea una sola frase: «Estuve a punto de postergarlo por... pero competí y lo hice». Guarda la tarjeta y repite la experiencia con otra obra durante la semana.
 
 <!-- activity:end -->
 
@@ -289,15 +289,15 @@ Piensa antes de dormir: ¿qué buena obra harás mañana sin postergarla?
 
 <!-- reader:end -->
 
-<!-- reader:start audience="13+" estimated_minutes="6.0" -->
+<!-- reader:start audience="13+" estimated_minutes="5.5" -->
 
 <!-- unit:start id="13+.explanation" kind="explanation" -->
 
 ## Para adolescentes de 13 años en adelante
 
-Muchos de nosotros vivimos con una suposición implícita: que las buenas oportunidades seguirán disponibles, y que el arrepentimiento y la obediencia pueden postergarse a un momento más conveniente. El Corán y la Sunna destruyen esta suposición desde su base: el Yanna es una carrera abierta para todo creyente, en las pruebas los corazones cambian de un día para otro, y la vida es demasiado corta como para apostar por ella.
+Muchos de nosotros vivimos con una suposición implícita: que las buenas oportunidades seguirán disponibles, y que el arrepentimiento y la obediencia pueden postergarse a un momento más conveniente. El Corán y la Sunna destruyen esta suposición desde su base: el Yanna es una carrera abierta para todo creyente, en las tribulaciones los corazones cambian de un día para otro, y la vida es demasiado corta para hacer apuestas con ella.
 
-"At-tashmir" aquí no es una invitación a la impulsividad sin reflexión, sino a eliminar el único obstáculo real que impide a la mayoría de nosotros hacer el bien: la postergación. Cuando te queda claro que una acción determinada te acerca a Allah y que su causa legítima ya ha llegado, cada instante de demora es un intercambio entre un pequeño placer temporal y una promesa con la que nada se compara.
+"At-tashmir" aquí no es una invitación a la impulsividad sin reflexión, sino a eliminar el único obstáculo real que impide a la mayoría de nosotros hacer el bien: la postergación. Cuando te queda claro que una acción determinada te acerca a Allah y que ha llegado su ocasión legítima, cada instante de demora es un regateo entre un pequeño placer temporal y una promesa con la que nada se compara.
 
 <!-- unit:end -->
 
@@ -309,11 +309,11 @@ Muchos de nosotros vivimos con una suposición implícita: que las buenas oportu
 
 <!-- retelling:start source_id="muslim-1901" audience="13+" -->
 
-En la mañana de la batalla de Badr, el Profeta, la paz y las bendiciones de Allah sean con él, se puso de pie para animar a sus pocos Compañeros frente a un enemigo mayor en número y en armamento, y dijo: «Levántense hacia un Yanna cuya anchura son los cielos y la tierra». No fue un discurso general y abstracto; fue una promesa específica para quien se mantuviera firme en ese momento preciso. Umair ibn al-Humam al-Ansari, que Allah esté complacido con él, preguntó con la pregunta de quien quiere confirmar, no la de quien duda: «¿Un Yanna cuya anchura son los cielos y la tierra?». Y cuando el Profeta, la paz y las bendiciones de Allah sean con él, se lo confirmó, no se conformó con la alegría; preguntó por el motivo de su propio asombro para confirmar su certeza, y juró que su motivo era la esperanza de ser de su gente. Entonces le llegó la respuesta más explícita: «Pues tú eres de su gente».
+En la mañana de la batalla de Badr, el Profeta, la paz y las bendiciones de Allah sean con él, se puso de pie para animar a sus pocos Compañeros frente a un enemigo mayor en número y en armamento, y dijo: «Levántense hacia un Yanna cuya anchura son los cielos y la tierra». No fue un discurso general y abstracto; fue una promesa específica para quien se mantuviera firme en ese momento preciso. Umair ibn al-Humam al-Ansari, que Allah esté complacido con él, hizo la pregunta de quien quiere asegurarse, no la de quien duda: «¿Un Yanna cuya anchura son los cielos y la tierra?». Y cuando el Profeta, la paz y las bendiciones de Allah sean con él, se lo confirmó, dijo: «¡Qué maravilla, qué maravilla!». Entonces el Profeta, la paz y las bendiciones de Allah sean con él, le preguntó qué le había llevado a decirlo, y él juró que su motivo era la esperanza de ser de su gente. Y le llegó la respuesta más clara de todas: «Pues tú eres de su gente».
 
 En ese momento, Umair enfrentó una decisión aparentemente pequeña: llevaba unos dátiles, y se dio cuenta de que comerlos todos le tomaría un tiempo. Pero replanteó la pregunta: ¿qué vida es esta que merece que la espere, teniendo entre mis manos una promesa sin fin? Así que arrojó los dátiles y combatió hasta alcanzar el martirio.[^4]
 
-Este episodio no se invoca para entender que la impulsividad se exige en toda circunstancia; el combate aquí fue por orden del Profeta, la paz y las bendiciones de Allah sean con él, en su contexto legítimo. Pero el principio que Umair construyó en su instante trasciende el campo de Badr: cuando el creyente tiene la certeza de que la causa de un bien se ha cumplido y su momento está presente, los pequeños pretextos de postergación —por más legítimos que parezcan, como terminar un asunto sencillo o esperar un mejor estado de ánimo— pierden su peso frente a la certeza.
+No se recuerda este episodio para dar a entender que la impulsividad sea exigible en toda circunstancia; el combate aquí fue por orden del Profeta, la paz y las bendiciones de Allah sean con él, en su contexto legítimo. Pero el principio que Umair levantó en aquel instante trasciende el campo de Badr: cuando el creyente tiene la certeza de que la causa de un bien se ha cumplido y su momento está presente, los pequeños pretextos de postergación —por más legítimos que parezcan, como terminar un asunto sencillo o esperar un mejor estado de ánimo— pierden su peso frente a la certeza.
 
 <!-- retelling:end -->
 
@@ -325,7 +325,7 @@ Este episodio no se invoca para entender que la impulsividad se exige en toda ci
 
 <!-- terminology:start source_id="muslim-1901" -->
 
-- **`التشمير` (at-tashmir)** — elevar la determinación y actuar de inmediato en la buena obra sin demora, no la impulsividad indiscriminada carente de un límite legítimo.
+- **`التشمير` (at-tashmir)** — elevar la determinación y actuar de inmediato en la buena obra sin demora, no la impulsividad indiscriminada sin sujeción a las normas de la sharía.
 - **`بَخٍ بَخٍ` (bakh bakh)** — una expresión de asombro ante algo grandioso y alegre, que Umair usó al confirmarse la promesa del Yanna.
 
 <!-- terminology:end -->
@@ -336,7 +336,7 @@ Este episodio no se invoca para entender que la impulsividad se exige en toda ci
 
 ### Preguntas de debate
 
-1. ¿Por qué fue la pregunta de Umair sobre el motivo de su alegría más importante que la alegría misma?
+1. ¿Por qué fue la respuesta de Umair, cuando se le preguntó el motivo de su alegría, más importante que la alegría misma?
 2. ¿Cuál es la diferencia entre el "at-tashmir" que enseña este hadiz y la temeridad o el impulso emocional?
 3. ¿Cómo explica el hadiz «apresúrense con las buenas obras» por qué no tenemos garantizado que la oportunidad permanezca igual?
 4. Piensa en un pretexto que sueles usar para postergar un bien determinado. ¿Cómo "arrojas tus dátiles" en esta situación en concreto?
@@ -350,7 +350,7 @@ Este episodio no se invoca para entender que la impulsividad se exige en toda ci
 
 <!-- activity:start audience="13+" concept_id="lesson.012.activity.sabaq-race-card" -->
 
-Identifica una buena obra que has postergado por vergüenza, por miedo o por esperar "el momento adecuado": una disculpa, una limosna secreta, dejar un hábito o la oración en congregación. Escribe tres líneas: **la promesa que merece que te apresures hacia ella; el pretexto que sueles usar (tus dátiles); la fecha en que la ejecutarás dentro de 24 a 72 horas**. Añade una sola marca verificable que te confirme que realmente actuaste y no solo tuviste la intención. Después de ejecutarla, escribe una línea que describa la diferencia entre lo que sentías antes de postergar y después de apresurarte. No es necesario que compartas tus detalles personales con nadie.
+Identifica una buena obra que has postergado por vergüenza, por miedo o por esperar "el momento adecuado": una disculpa, una limosna secreta, dejar un hábito o la oración en congregación. Escribe tres líneas: **la promesa que merece que te apresures hacia ella; el pretexto que sueles usar (tus dátiles); la fecha, dentro de las próximas 24 a 72 horas, en que la llevarás a cabo**. Añade una sola marca verificable que te confirme que realmente actuaste y no solo tuviste la intención. Después de ejecutarla, escribe una línea que describa la diferencia entre lo que sentías antes de postergar y después de apresurarte. No es necesario que compartas tus detalles personales con nadie.
 
 <!-- activity:end -->
 
@@ -358,7 +358,7 @@ Identifica una buena obra que has postergado por vergüenza, por miedo o por esp
 
 <!-- unit:start id="13+.bedtime-dua" kind="bedtime_dua" -->
 
-### Un du'a profético integral antes de dormir
+### Un du'a profético muy completo antes de dormir
 
 <!-- bedtime-dua:start audience="13+" id="lesson.012.dua.aid-in-worship" provenance="sunnah" source_id="abudawud-1522" attribution="prophetic" -->
 
@@ -366,7 +366,7 @@ Identifica una buena obra que has postergado por vergüenza, por miedo o por esp
 >
 > **¡Oh Allah, ayúdame a recordarte, a agradecerte y a adorarte de la mejor manera!**[^5]
 
-Antes de dormir, nombra para ti mismo la obra que te comprometiste a realizar en el protocolo de hoy, sin convertir este recuerdo en algo legislado específicamente para la hora de dormir.
+Antes de dormir, nombra para ti mismo la obra que te comprometiste a realizar en el protocolo de hoy, sin considerar que este dhikr esté prescrito específicamente para la hora de dormir.
 
 <!-- bedtime-dua:end -->
 
@@ -381,7 +381,7 @@ Antes de dormir, nombra para ti mismo la obra que te comprometiste a realizar en
 ### Adultos — 60 minutos
 
 <!-- lesson-plan:outcomes -->
-**Resultados de aprendizaje:** que el estudiante explique el significado de la orden de competir en la aya de Al-Hadid, relacione el hadiz de apresurarse antes de las pruebas con la necesidad de no postergar la obediencia, analice de forma equilibrada la actitud de Umair ibn al-Humam sin confundir el apresuramiento con la temeridad, y se comprometa con un plan práctico para realizar una buena obra postergada.
+**Resultados de aprendizaje:** que el estudiante explique el significado de la orden de competir en la aya de Al-Hadid, relacione el hadiz de apresurarse antes de las tribulaciones con la necesidad de no postergar la obediencia, analice de forma equilibrada la actitud de Umair ibn al-Humam sin confundir el apresuramiento con la temeridad, y se comprometa con un plan práctico para realizar una buena obra postergada.
 
 <!-- lesson-plan:materials -->
 **Materiales:** copias de la sura Al-Hadid, aya 21; el texto de los hadices de Muslim 118 y 1901; tarjetas de "la carrera del bien"; hojas y bolígrafos.
@@ -393,7 +393,7 @@ Antes de dormir, nombra para ti mismo la obra que te comprometiste a realizar en
 **Apertura — 5 minutos:** pregunta: «¿Cuál es la diferencia entre alguien que dice: daré limosna cuando sea rico, y otro que da poco hoy mismo?». Recoge las respuestas y las relaciona con el tema de la lección.
 
 <!-- lesson-plan:evidence -->
-**Estudio de las pruebas — 18 minutos:** tres grupos estudian las tres pruebas: el primero extrae el significado de "competir" en la aya de Al-Hadid, el segundo analiza la comparación de las pruebas con los fragmentos de la noche, y el tercero sigue los pasos de la decisión de Umair desde la pregunta hasta la acción.
+**Estudio de las pruebas — 18 minutos:** tres grupos estudian las tres pruebas: el primero extrae el significado de "competir" en la aya de Al-Hadid, el segundo analiza la comparación de las tribulaciones con los fragmentos de la noche, y el tercero sigue los pasos de la decisión de Umair desde la pregunta hasta la acción.
 
 <!-- lesson-plan:instruction -->
 **Instrucción guiada — 12 minutos:** el profesor construye en la pizarra la secuencia: «certeza en la promesa — eliminación del pretexto — acción inmediata». Aclara explícitamente que el combate de Umair fue por orden profética en su contexto legítimo, y que lo que se pide hoy es trasladar el principio, no la situación misma.
@@ -408,7 +408,7 @@ Antes de dormir, nombra para ti mismo la obra que te comprometiste a realizar en
 **Atención a las diferencias:** al principiante se le da una lista de obras ya preparadas para elegir, y al avanzado se le encarga comparar el significado de "compitan" en Al-Hadid 21 con el de "apresúrense" en Al Imran 133.
 
 <!-- lesson-plan:safeguards -->
-**Precauciones docentes:** la actitud de Umair no se invoca para justificar ningún impulso no regulado por un límite legítimo o por el permiso del responsable cuando sea necesario, y no se anima a nadie a arriesgar su vida ni la de otros con el pretexto del "apresuramiento". Se aclara que la competencia requerida hoy es en obras como la limosna, el vínculo familiar y el arrepentimiento, no en los riesgos físicos.
+**Precauciones docentes:** la actitud de Umair no se invoca para justificar ningún impulso no sujeto a las normas de la sharía o, cuando sea necesario, al permiso de la autoridad legítima, y no se anima a nadie a arriesgar su vida ni la de otros con el pretexto del "apresuramiento". Se aclara que la competencia requerida hoy es en obras como la limosna, el vínculo familiar y el arrepentimiento, no en los riesgos físicos.
 
 <!-- lesson-plan:end -->
 
@@ -501,10 +501,10 @@ Antes de dormir, nombra para ti mismo la obra que te comprometiste a realizar en
 **Apertura — 5 minutos:** escribe dos frases: «Cambiaré cuando cambien mis circunstancias» y «Ahora es el momento adecuado». Pide a los estudiantes que determinen cuál se acerca más al principio de la lección y por qué.
 
 <!-- lesson-plan:evidence -->
-**Estudio de las pruebas — 13 minutos:** grupos pequeños investigan cada prueba desde un ángulo diferente: la competencia como mandato legítimo, el peligro de postergar las obras frente a las pruebas, y la decisión inmediata de Umair. Cada grupo presenta una conclusión respaldada por una expresión del texto.
+**Estudio de las pruebas — 13 minutos:** grupos pequeños investigan cada prueba desde un ángulo diferente: la competencia como mandato legítimo, el peligro de postergar las obras frente a las tribulaciones, y la decisión inmediata de Umair. Cada grupo presenta una conclusión respaldada por una expresión del texto.
 
 <!-- lesson-plan:instruction -->
-**Instrucción guiada — 12 minutos:** el profesor discute la diferencia entre el apresuramiento regulado por la ley, el tiempo y el lugar, y el impulso emocional, usando la actitud de Umair como ejemplo de una certeza que condujo a una acción inmediata en su contexto correcto.
+**Instrucción guiada — 12 minutos:** el profesor discute la diferencia entre el apresuramiento sujeto a la sharía, al tiempo y al lugar, y el impulso emocional, usando la actitud de Umair como ejemplo de una certeza que condujo a una acción inmediata en su contexto correcto.
 
 <!-- lesson-plan:activity -->
 **Actividad — 15 minutos:** cada estudiante construye un protocolo "arrojar los dátiles" para una obra real postergada, y fija una fecha dentro de 24 a 72 horas. Compartir los detalles es opcional, y se puede usar un caso hipotético.

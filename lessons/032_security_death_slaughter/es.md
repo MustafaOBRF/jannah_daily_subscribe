@@ -267,7 +267,7 @@ El último día de las vacaciones, a muchos nos pasa algo raro: todavía lo esta
 
 <!-- story:start audience="8-12" role="primary" type="hadith" source_id="bukhari-4730" authenticated="true" -->
 
-**Esto es una noticia verdadera que Abu Sa'id al-Judri, que Allah esté complacido con él, transmitió del Profeta, la paz y las bendiciones de Allah sean con él, y que recoge Sahih al-Bujari; no es una historia inventada.**
+**Esto es una noticia verdadera que Abu Sa'id al-Judri, que Allah esté complacido con él, transmitió del Profeta, la paz y las bendiciones de Allah sean con él, y que recogen al-Bujari y Muslim en sus Sahih; no es una historia inventada.**
 
 Cuando la gente del Paraíso haya llegado al Paraíso y la gente del Fuego al Fuego, ocurrirá algo que nunca antes había ocurrido.
 
@@ -580,7 +580,7 @@ Su sentido: Oh Allah, haznos entrar en el Paraíso en completa seguridad, añád
 [^3]: El Noble Corán, sura Al-Hiyr, aleyas 45-48: [quran.com/15/45-48](https://quran.com/15/45-48). La traducción al español de las aleyas es una traducción de sentido elaborada para este proyecto.
 [^4]: Ibn Kazir, *Tafsir al-Qur'an al-'Azim*, tafsir de la sura Maryam, aleya 39: [quran.ksu.edu.sa/tafseer/katheer/sura19-aya39.html](https://quran.ksu.edu.sa/tafseer/katheer/sura19-aya39.html).
 [^5]: As-Sa'di, *Taysir al-Karim ar-Rahman*, tafsir de la sura Al-Hiyr, aleyas 46 y 48: [quran.ksu.edu.sa/tafseer/saadi/sura15-aya46.html](https://quran.ksu.edu.sa/tafseer/saadi/sura15-aya46.html) y [quran.ksu.edu.sa/tafseer/saadi/sura15-aya48.html](https://quran.ksu.edu.sa/tafseer/saadi/sura15-aya48.html).
-[^6]: Ibn Qayyim al-Yawziyya, *Hadi al-Arwah ila Bilad al-Afrah*, capítulo sexagésimo noveno, sección sobre el sacrificio de la muerte entre el Paraíso y el Fuego (ed. 'Ata'at al-'Ilm, págs. 813-815), con la nota del editor sobre el sentido de "yashra'ibbun": [shamela.ws/book/13652/865](https://shamela.ws/book/13652/865); sobre el sentido de "amlah" (lo que tiene blanco y negro), véase an-Nawawi, *Al-Minhaj sharh Sahih Muslim*, comentario del hadiz 2849.
+[^6]: Ibn Qayyim al-Yawziyya, *Hadi al-Arwah ila Bilad al-Afrah*, capítulo sexagésimo noveno, sección sobre el sacrificio de la muerte entre el Paraíso y el Fuego (ed. 'Ata'at al-'Ilm, págs. 813-816), con la nota del editor sobre el sentido de "yashra'ibbun": [shamela.ws/book/13652/865](https://shamela.ws/book/13652/865); sobre el sentido de "amlah" (lo que tiene blanco y negro), véase an-Nawawi, *Al-Minhaj sharh Sahih Muslim*, comentario del hadiz 2849.
 [^7]: As-Sa'di, *Taysir al-Karim ar-Rahman*, tafsir de la sura Maryam, aleyas 39-40: [quran.ksu.edu.sa/tafseer/saadi/sura19-aya39.html](https://quran.ksu.edu.sa/tafseer/saadi/sura19-aya39.html).
 [^8]: El Noble Corán, sura Maryam, aleyas 39-40: [quran.com/19/39-40](https://quran.com/19/39-40). La traducción al español de las aleyas es una traducción de sentido elaborada para este proyecto.
 

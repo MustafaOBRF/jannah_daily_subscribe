@@ -30,13 +30,13 @@ After this lesson, the learner will be able to:
 
 ## Academic Section for Adults
 
-<!-- reader:start audience="adults" estimated_minutes="6.5" -->
+<!-- reader:start audience="adults" estimated_minutes="7.0" -->
 
 <!-- unit:start id="adults.explanation" kind="explanation" -->
 
-It is part of Allah's vast mercy that He does not leave a believer who affirmed His oneness in the Fire forever, even if that believer sinned. Rather, He brings out of it everyone who had in his heart even the faintest speck of faith, however long that may take. The Prophet, peace and blessings be upon him, told us that he knows the last man to be brought out of the Fire and the last man to enter Jannah: a man who comes out crawling (dragging himself along, too weak to walk). Allah commands him to enter Jannah, and he goes, but it seems to him that Jannah is already full of its people and that no place remains for him. So he goes back and says, "My Lord, I found it full!" This happens to him twice, until, the third time, Allah says to him: Go and enter Jannah, for you shall have the like of this world and ten times as much. The man finds the gift so staggering that he says, "Are You mocking me, though You are the King?" And the Prophet, peace and blessings be upon him, laughed as he related this scene to his Companions. There was nothing frivolous in the scene. He laughed because Allah mocks no one; He simply gives beyond anything a human being can imagine, so that even the lowest-ranking person in Jannah receives what has never occurred to any heart.
+It is part of Allah's vast mercy that He does not leave a believer who affirmed His oneness in the Fire forever, even if that believer sinned. Rather, He brings out of it everyone who had in his heart even the faintest speck of faith, however long that may take. The Prophet, peace and blessings be upon him, told us that he knows the last man to be brought out of the Fire and the last man to enter Jannah: a man who comes out crawling (dragging himself along, too weak to walk). Allah commands him to enter Jannah, and he goes, but it seems to him that Jannah is already full of its people and that no place remains for him. So he goes back and says, "My Lord, I found it full!" This happens to him twice, until, the third time, Allah says to him, "Go and enter Jannah, for you shall have the like of this world and ten times as much." The man finds the gift so staggering that he says, "Are You mocking me, though You are the King?" And the Prophet, peace and blessings be upon him, laughed as he related this scene to his Companions. There was nothing frivolous in the scene. He laughed because Allah mocks no one; He simply gives beyond anything a human being can imagine, so that even the lowest-ranking person in Jannah receives what has never occurred to any heart.
 
-This man is no stranger to the ummah of Muhammad, peace and blessings be upon him. He is a believer who affirmed Allah's oneness, yet committed sins for which he deserved a period in the Fire. When that period ended, and the intercession of the intercessors and the mercy of the Most Merciful of those who show mercy reached him, he was brought out and admitted into Jannah, though he is still the last to enter it and the lowest of its people in rank. Even so, his share of Allah's giving is ten times greater than this world and everything in it. What, then, of those ranked above him? The hadith of Abu Dharr makes this meaning clearer still, for his minor sins are exchanged for good deeds, while the hadith of Jabir shows that this destiny is a pattern repeated with everyone whom intercession brings out of the Fire. And the ayah of az-Zumar gathers all of these meanings into a single call: `Do not despair of the mercy of Allah`. So let no believer despair of Allah's mercy, however much he has sinned, and let none think little of the lowest rank with Him, for it is greater than everything the people of this world could ever wish for.
+This man is no stranger to the ummah of Muhammad, peace and blessings be upon him. He is a believer who affirmed Allah's oneness, yet committed sins for which he deserved a period in the Fire. When that period ended, and the intercession of the intercessors and the mercy of the Most Merciful of those who show mercy reached him, he was brought out and admitted into Jannah, though he is still the last to enter it and the lowest of its people in rank. Even so, his share of Allah's giving is ten times greater than this world and everything in it. What, then, of those ranked above him? The hadith of Abu Dharr makes this meaning clearer still, for in it this man's minor sins are exchanged for good deeds, while the hadith of Jabir shows that this destiny is a pattern repeated with everyone whom intercession brings out of the Fire. And the ayah of az-Zumar gathers all of these meanings into a single call: `Do not despair of the mercy of Allah`. So let no believer despair of Allah's mercy, however much he has sinned, and let none think little of the lowest rank with Him, for it is greater than everything the people of this world could ever wish for.
 
 <!-- unit:end -->
 
@@ -48,11 +48,11 @@ This man is no stranger to the ummah of Muhammad, peace and blessings be upon hi
 
 ### The Hadith of the Last Man to Enter Jannah
 
-> عَنْ عَبْدِ اللَّهِ بْنِ مَسْعُودٍ رضي الله عنه، قَالَ: قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم: **«إِنِّي لَأَعْلَمُ آخِرَ أَهْلِ النَّارِ خُرُوجًا مِنْهَا، وَآخِرَ أَهْلِ الْجَنَّةِ دُخُولًا، رَجُلٌ يَخْرُجُ مِنَ النَّارِ حَبْوًا، فَيَقُولُ اللَّهُ لَهُ: اذْهَبْ فَادْخُلِ الْجَنَّةَ. فَيَأْتِيهَا فَيُخَيَّلُ إِلَيْهِ أَنَّهَا مَلْأَى، فَيَرْجِعُ فَيَقُولُ: يَا رَبِّ، وَجَدْتُهَا مَلْأَى. فَيَقُولُ اللَّهُ لَهُ: اذْهَبْ فَادْخُلِ الْجَنَّةَ. فَيَأْتِيهَا فَيُخَيَّلُ إِلَيْهِ أَنَّهَا مَلْأَى، فَيَرْجِعُ فَيَقُولُ: يَا رَبِّ، وَجَدْتُهَا مَلْأَى. فَيَقُولُ اللَّهُ لَهُ: اذْهَبْ فَادْخُلِ الْجَنَّةَ، فَإِنَّ لَكَ مِثْلَ الدُّنْيَا وَعَشَرَةَ أَمْثَالِهَا، أَوْ إِنَّ لَكَ مِثْلَ عَشَرَةِ أَمْثَالِ الدُّنْيَا. فَيَقُولُ: أَتَسْخَرُ بِي، أَوْ أَتَضْحَكُ مِنِّي، وَأَنْتَ الْمَلِكُ؟»**. فَلَقَدْ رَأَيْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم ضَحِكَ حَتَّى بَدَتْ نَوَاجِذُهُ، وَكَانَ يُقَالُ: ذَلِكَ أَدْنَى أَهْلِ الْجَنَّةِ مَنْزِلَةً.[^1]
+> عَنْ عَبْدِ اللَّهِ بْنِ مَسْعُودٍ رضي الله عنه، قَالَ: قَالَ النَّبِيُّ صلى الله عليه وسلم: **«إِنِّي لَأَعْلَمُ آخِرَ أَهْلِ النَّارِ خُرُوجًا مِنْهَا، وَآخِرَ أَهْلِ الْجَنَّةِ دُخُولًا، رَجُلٌ يَخْرُجُ مِنَ النَّارِ كَبْوًا، فَيَقُولُ اللَّهُ: اذْهَبْ فَادْخُلِ الْجَنَّةَ. فَيَأْتِيهَا فَيُخَيَّلُ إِلَيْهِ أَنَّهَا مَلْأَى، فَيَرْجِعُ فَيَقُولُ: يَا رَبِّ، وَجَدْتُهَا مَلْأَى. فَيَقُولُ: اذْهَبْ فَادْخُلِ الْجَنَّةَ. فَيَأْتِيهَا فَيُخَيَّلُ إِلَيْهِ أَنَّهَا مَلْأَى، فَيَقُولُ: يَا رَبِّ، وَجَدْتُهَا مَلْأَى. فَيَقُولُ: اذْهَبْ فَادْخُلِ الْجَنَّةَ، فَإِنَّ لَكَ مِثْلَ الدُّنْيَا وَعَشَرَةَ أَمْثَالِهَا، أَوْ إِنَّ لَكَ مِثْلَ عَشَرَةِ أَمْثَالِ الدُّنْيَا. فَيَقُولُ: تَسْخَرُ مِنِّي، أَوْ تَضْحَكُ مِنِّي، وَأَنْتَ الْمَلِكُ؟»**. فَلَقَدْ رَأَيْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم ضَحِكَ حَتَّى بَدَتْ نَوَاجِذُهُ، وَكَانَ يُقَالُ: ذَلِكَ أَدْنَى أَهْلِ الْجَنَّةِ مَنْزِلَةً.[^1]
 
 <!-- evidence:translation -->
 
-> On the authority of Abdullah ibn Mas'ud, may Allah be pleased with him, who said: The Messenger of Allah, peace and blessings be upon him, said: **"I know the last of the people of the Fire to come out of it, and the last of the people of Jannah to enter it: a man who comes out of the Fire crawling. Allah says to him, 'Go and enter Jannah.' So he comes to it, and it seems to him that it is full. He goes back and says, 'My Lord, I found it full.' Allah says to him, 'Go and enter Jannah.' So he comes to it, and it seems to him that it is full. He goes back and says, 'My Lord, I found it full.' Allah says to him, 'Go and enter Jannah, for you shall have the like of this world and ten times as much' (or: 'you shall have ten times the like of this world'). He says, 'Are You mocking me' (or: 'Are You laughing at me') 'though You are the King?'"** I saw the Messenger of Allah, peace and blessings be upon him, laugh until his back teeth showed. And it used to be said: that is the lowest-ranking of the people of Jannah.[^1]
+> On the authority of Abdullah ibn Mas'ud, may Allah be pleased with him, who said: The Prophet, peace and blessings be upon him, said: **"I know the last of the people of the Fire to come out of it, and the last of the people of Jannah to enter it: a man who comes out of the Fire crawling. Allah says to him, 'Go and enter Jannah.' So he comes to it, and it seems to him that it is full. He goes back and says, 'My Lord, I found it full.' Allah says to him, 'Go and enter Jannah.' So he comes to it, and it seems to him that it is full. He says, 'My Lord, I found it full.' Allah says to him, 'Go and enter Jannah, for you shall have the like of this world and ten times as much' (or: 'you shall have ten times the like of this world'). He says, 'Are You mocking me' (or: 'Are You laughing at me') 'though You are the King?'"** I saw the Messenger of Allah, peace and blessings be upon him, laugh until his back teeth showed. And it used to be said: that is the lowest-ranking of the people of Jannah.[^1]
 
 #### Scholarly Explanation
 
@@ -60,7 +60,7 @@ The scholars, commenting on this hadith, explain that "it seems to him that it i
 
 #### Lesson Explanation
 
-This hadith is the axis of the entire lesson. The lowest station in Jannah, given to the person with the fewest deeds and the latest entry, surpasses this whole world ten times over. If that is the share of the lowest, what of those above him? This alone is enough to settle the heart of every believer, however small his deeds may seem to him, and to cut off every despair of Allah's mercy, however many his sins.
+This hadith is the centerpiece of the entire lesson. The lowest station in Jannah, given to the person with the fewest deeds and the latest entry, surpasses this whole world ten times over. If that is the share of the lowest, what of those above him? This alone is enough to settle the heart of every believer, however small his deeds may seem to him, and to cut off all despair of Allah's mercy, however many his sins may be.
 
 <!-- evidence:end -->
 
@@ -116,7 +116,7 @@ This hadith makes clear that the story of "the last to enter Jannah" is not some
 
 #### Scholarly Explanation
 
-Al-Hafiz Ibn Kathir, may Allah have mercy on him, noted that this is among the most hope-giving ayat in the Qur'an: a call from Allah to His sinning servants, however far they have gone in wronging themselves, not to despair of His mercy. He noted too that the word "all" covers every sin without exception, for whoever repents or whomever Allah wills to forgive.
+Al-Hafiz Ibn Kathir, may Allah have mercy on him, explained that this ayah is a call to all who have sinned, however far they have gone in wronging themselves, to repent and turn back to Allah, and a declaration that Allah forgives all sins, however many, for whoever repents of them and turns away from them. He stressed that the ayah cannot be read as applying without repentance, since shirk is not forgiven for one who does not repent of it. He also cited Abdullah ibn Mas'ud, may Allah be pleased with him, as saying that it is the ayah of the Qur'an that brings the greatest relief.
 
 #### Lesson Explanation
 
@@ -134,7 +134,7 @@ These four texts tell a single story from different angles. The hadith of Ibn Ma
 
 ## Questions for Understanding and Reflection
 
-1. What is the wisdom in Allah showing the last man to enter Jannah, twice, that it is full, before giving him many times this world?
+1. What is the wisdom in Allah letting the last man to enter Jannah see it as full, not once but twice, before giving him many times the like of this world?
 2. How does the hadith of Abu Dharr bring together the laying out of minor sins and their exchange for good deeds?
 3. What is the relationship between the hadith of intercession (Muslim 191) and the hadith of Ibn Mas'ud regarding the destiny of the last to leave the Fire?
 4. How does the ayah of az-Zumar (39:53) bind these three hadiths into a single message?
@@ -160,7 +160,7 @@ List the five things you most love or long for in this world (wealth, health, st
 
 ## For Children Ages 4 to 7
 
-<!-- reader:start audience="4-7" estimated_minutes="5.0" -->
+<!-- reader:start audience="4-7" estimated_minutes="4.0" -->
 
 <!-- unit:start id="4-7.explanation" kind="explanation" -->
 
@@ -232,7 +232,7 @@ With your mom or dad, draw three things you love very much (a toy, a yummy food,
 
 ## For Children Ages 8 to 12
 
-<!-- reader:start audience="8-12" estimated_minutes="6.5" -->
+<!-- reader:start audience="8-12" estimated_minutes="5.5" -->
 
 <!-- unit:start id="8-12.explanation" kind="explanation" -->
 
@@ -319,7 +319,7 @@ Make a list of five things you love in this world (friends, games, places, food,
 
 ## For Teens, Ages 13+
 
-<!-- reader:start audience="13+" estimated_minutes="6.5" -->
+<!-- reader:start audience="13+" estimated_minutes="7.0" -->
 
 <!-- unit:start id="13+.explanation" kind="explanation" -->
 
@@ -333,7 +333,7 @@ The hadith of "the last person to enter Jannah" is one of the greatest hadiths s
 
 - **`Cleansing in the Fire (at-tathir fi an-nar)`** — some sinful believers remain in the Fire for a period Allah wills, to cleanse them of their sins, and are then brought out by His mercy and the intercession of the intercessors. This applies only to someone who died affirming Allah's oneness and never associated partners with Him.
 - **`Bad deeds exchanged for good (tabdil as-sayyi'at hasanat)`** — on the Day of Resurrection, Allah exchanges some of His servant's minor sins for good deeds, purely out of His mercy, not because the servant has earned it.
-- **`Refusing to despair (adam al-qunut)`** — complete certainty that Allah's mercy is wider than any sin, and that no one is permitted to despair of it, however great their sins.
+- **`Refusing to despair ('adam al-qunut)`** — complete certainty that Allah's mercy is wider than any sin, and that no one is permitted to despair of it, however great their sins.
 
 <!-- terminology:end -->
 
@@ -453,7 +453,7 @@ List the five most important things in "your world": something you own, a relati
 **Learning Outcomes:** The child can retell the main idea of the story: Allah's gifts are far bigger than we can imagine, and this means we never give up hope in His love.
 
 <!-- lesson-plan:materials -->
-**Materials:** Drawing paper; child-safe colors; a du'a card in clear handwriting.
+**Materials:** Drawing paper; child-safe crayons or markers; a du'a card in clear handwriting.
 
 <!-- lesson-plan:preparation -->
 **Preparation:** The caregiver prepares the simplified story and practices a cheerful tone of voice for the repeated line "Go and enter Jannah."
@@ -549,7 +549,7 @@ List the five most important things in "your world": something you own, a relati
 **Differentiation:** For students who struggle, use only the hadith of Ibn Mas'ud and the ayah of az-Zumar; advanced students discuss the difference between this hadith and the fate of someone who died upon shirk.
 
 <!-- lesson-plan:safeguards -->
-**Teaching Cautions:** The teacher should take care that the hadith is not used to justify treating sins lightly or postponing repentance, and should avoid dwelling on painful details of punishment or stirring up excessive anxiety in anyone who already carries a heavy sense of guilt; a student who shows signs of excessive anxiety should be gently guided into a supportive one-to-one conversation.
+**Teaching Cautions:** The teacher should take care that the hadith is not used to justify treating sins lightly or postponing repentance, and should avoid dwelling on painful details of punishment or stirring up excessive anxiety in anyone who already carries a heavy sense of guilt; a student who shows signs of excessive anxiety should be gently guided into a supportive one-on-one conversation.
 
 <!-- lesson-plan:end -->
 

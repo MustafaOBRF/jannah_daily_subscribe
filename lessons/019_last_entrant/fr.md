@@ -30,7 +30,7 @@ Après cette leçon, l'apprenant sera capable de :
 
 ## Section Académique Pour Adultes
 
-<!-- reader:start audience="adults" estimated_minutes="6.5" -->
+<!-- reader:start audience="adults" estimated_minutes="7.0" -->
 
 <!-- unit:start id="adults.explanation" kind="explanation" -->
 
@@ -48,13 +48,13 @@ Cet homme n'est pas un étranger à la communauté de Muhammad, paix et bénédi
 
 ### Le Hadith Du Dernier Homme À Entrer En Jannah
 
-> عَنْ عَبْدِ اللَّهِ بْنِ مَسْعُودٍ رضي الله عنه، قَالَ: قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم: **«إِنِّي لَأَعْلَمُ آخِرَ أَهْلِ النَّارِ خُرُوجًا مِنْهَا، وَآخِرَ أَهْلِ الْجَنَّةِ دُخُولًا، رَجُلٌ يَخْرُجُ مِنَ النَّارِ حَبْوًا، فَيَقُولُ اللَّهُ لَهُ: اذْهَبْ فَادْخُلِ الْجَنَّةَ. فَيَأْتِيهَا فَيُخَيَّلُ إِلَيْهِ أَنَّهَا مَلْأَى، فَيَرْجِعُ فَيَقُولُ: يَا رَبِّ، وَجَدْتُهَا مَلْأَى. فَيَقُولُ اللَّهُ لَهُ: اذْهَبْ فَادْخُلِ الْجَنَّةَ. فَيَأْتِيهَا فَيُخَيَّلُ إِلَيْهِ أَنَّهَا مَلْأَى، فَيَرْجِعُ فَيَقُولُ: يَا رَبِّ، وَجَدْتُهَا مَلْأَى. فَيَقُولُ اللَّهُ لَهُ: اذْهَبْ فَادْخُلِ الْجَنَّةَ، فَإِنَّ لَكَ مِثْلَ الدُّنْيَا وَعَشَرَةَ أَمْثَالِهَا، أَوْ إِنَّ لَكَ مِثْلَ عَشَرَةِ أَمْثَالِ الدُّنْيَا. فَيَقُولُ: أَتَسْخَرُ بِي، أَوْ أَتَضْحَكُ مِنِّي، وَأَنْتَ الْمَلِكُ؟»**. فَلَقَدْ رَأَيْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم ضَحِكَ حَتَّى بَدَتْ نَوَاجِذُهُ، وَكَانَ يُقَالُ: ذَلِكَ أَدْنَى أَهْلِ الْجَنَّةِ مَنْزِلَةً.[^1]
+> عَنْ عَبْدِ اللَّهِ بْنِ مَسْعُودٍ رضي الله عنه، قَالَ: قَالَ النَّبِيُّ صلى الله عليه وسلم: **«إِنِّي لَأَعْلَمُ آخِرَ أَهْلِ النَّارِ خُرُوجًا مِنْهَا، وَآخِرَ أَهْلِ الْجَنَّةِ دُخُولًا، رَجُلٌ يَخْرُجُ مِنَ النَّارِ كَبْوًا، فَيَقُولُ اللَّهُ: اذْهَبْ فَادْخُلِ الْجَنَّةَ. فَيَأْتِيهَا فَيُخَيَّلُ إِلَيْهِ أَنَّهَا مَلْأَى، فَيَرْجِعُ فَيَقُولُ: يَا رَبِّ، وَجَدْتُهَا مَلْأَى. فَيَقُولُ: اذْهَبْ فَادْخُلِ الْجَنَّةَ. فَيَأْتِيهَا فَيُخَيَّلُ إِلَيْهِ أَنَّهَا مَلْأَى، فَيَقُولُ: يَا رَبِّ، وَجَدْتُهَا مَلْأَى. فَيَقُولُ: اذْهَبْ فَادْخُلِ الْجَنَّةَ، فَإِنَّ لَكَ مِثْلَ الدُّنْيَا وَعَشَرَةَ أَمْثَالِهَا، أَوْ إِنَّ لَكَ مِثْلَ عَشَرَةِ أَمْثَالِ الدُّنْيَا. فَيَقُولُ: تَسْخَرُ مِنِّي، أَوْ تَضْحَكُ مِنِّي، وَأَنْتَ الْمَلِكُ؟»**. فَلَقَدْ رَأَيْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم ضَحِكَ حَتَّى بَدَتْ نَوَاجِذُهُ، وَكَانَ يُقَالُ: ذَلِكَ أَدْنَى أَهْلِ الْجَنَّةِ مَنْزِلَةً.[^1]
 
 <!-- evidence:translation -->
 
 #### Traduction Française
 
-> D'après 'Abd Allah ibn Mas'ud, qu'Allah soit satisfait de lui, le Messager d'Allah, paix et bénédictions sur lui, a dit : **« Je connais assurément le dernier des gens du Feu à en sortir et le dernier des gens de la Jannah à y entrer : c'est un homme qui sort du Feu en rampant. Allah lui dit : "Va, entre dans la Jannah." Il s'y rend, et il lui semble qu'elle est pleine. Il revient et dit : "Seigneur, je l'ai trouvée pleine !" Allah lui dit : "Va, entre dans la Jannah." Il s'y rend, et il lui semble qu'elle est pleine. Il revient et dit : "Seigneur, je l'ai trouvée pleine !" Allah lui dit alors : "Va, entre dans la Jannah, car tu as l'équivalent de ce bas monde et dix fois autant" — ou bien : "car tu as dix fois l'équivalent de ce bas monde". L'homme dit : "Te moques-Tu de moi — ou bien : Te ris-Tu de moi —, alors que Tu es le Roi ?" »** Et j'ai vu le Messager d'Allah, paix et bénédictions sur lui, rire au point que ses molaires apparurent. On disait : « Voilà celui dont le rang est le plus bas parmi les gens de la Jannah. »[^1]
+> D'après 'Abd Allah ibn Mas'ud, qu'Allah soit satisfait de lui, le Prophète, paix et bénédictions sur lui, a dit : **« Je connais assurément le dernier des gens du Feu à en sortir et le dernier des gens de la Jannah à y entrer : c'est un homme qui sort du Feu en rampant. Allah lui dit : "Va, entre dans la Jannah." Il s'y rend, et il lui semble qu'elle est pleine. Il revient et dit : "Seigneur, je l'ai trouvée pleine !" Allah lui dit : "Va, entre dans la Jannah." Il s'y rend, et il lui semble qu'elle est pleine. Il dit : "Seigneur, je l'ai trouvée pleine !" Allah lui dit alors : "Va, entre dans la Jannah, car tu as l'équivalent de ce bas monde et dix fois autant" — ou bien : "car tu as dix fois l'équivalent de ce bas monde". L'homme dit : "Te moques-Tu de moi — ou bien : Te ris-Tu de moi —, alors que Tu es le Roi ?" »** Et j'ai vu le Messager d'Allah, paix et bénédictions sur lui, rire au point que ses molaires apparurent. On disait : « Voilà celui dont le rang est le plus bas parmi les gens de la Jannah. »[^1]
 
 #### Interprétation Savante
 
@@ -98,7 +98,7 @@ Ce hadith rend le sens plus clair encore : les mauvaises actions changées en b
 
 #### Traduction Française
 
-> D'après Jabir ibn 'Abd Allah, qu'Allah soit satisfait de lui et de son père : interrogé au sujet d'al-wurud (le moment où chacun parvient au Feu), il décrivit l'une des scènes du Jour de la Résurrection, puis dit : **« ... Puis l'intercession est permise, et ils intercèdent jusqu'à ce que sorte du Feu quiconque a dit "Nulle divinité hormis Allah" et portait dans son cœur un bien du poids d'un grain d'orge. On les installe sur le parvis de la Jannah, et les gens de la Jannah se mettent à les asperger d'eau, jusqu'à ce qu'ils repoussent comme repousse une pousse dans le limon d'un torrent, et que la trace de la brûlure s'efface. Puis [chacun d'eux] demande, encore et encore, jusqu'à ce qu'on lui accorde ce bas monde et dix fois autant avec lui. »**[^3]
+> D'après Jabir ibn 'Abd Allah, qu'Allah soit satisfait de lui et de son père : interrogé au sujet d'al-wurud (le moment où chacun parvient au Feu), il décrivit l'une des scènes du Jour de la Résurrection, puis dit : **« ... Puis l'intercession est permise, et ils intercèdent jusqu'à ce que sorte du Feu quiconque a dit "Nulle divinité hormis Allah" et portait dans son cœur un bien du poids d'un grain d'orge. On les installe sur le parvis de la Jannah, et les gens de la Jannah se mettent à les asperger d'eau, jusqu'à ce qu'ils repoussent comme pousse la plante dans le limon d'un torrent, et que la trace de la brûlure s'efface. Puis [chacun d'eux] demande, encore et encore, jusqu'à ce qu'on lui accorde ce bas monde et dix fois autant avec lui. »**[^3]
 
 #### Interprétation Savante
 
@@ -124,7 +124,7 @@ Ce hadith fait apparaître que l'histoire du « dernier à entrer en Jannah »
 
 #### Interprétation Savante
 
-Le hafiz Ibn Kathir, qu'Allah lui fasse miséricorde, rapporte que ce verset compte parmi ceux du Coran qui portent le plus d'espérance : c'est un appel qu'Allah adresse à Ses serviteurs pécheurs, quel que soit l'excès qu'ils ont commis contre eux-mêmes, pour qu'ils ne désespèrent pas de Sa miséricorde ; et le mot « tous » englobe chaque péché, sans exception, pour quiconque se repent ou à qui Allah veut pardonner.
+Le hafiz Ibn Kathir, qu'Allah lui fasse miséricorde, explique que ce verset est un appel adressé à tous les pécheurs, quel que soit l'excès qu'ils ont commis contre eux-mêmes, à se repentir et à revenir à Allah, et une annonce qu'Allah pardonne tous les péchés, si nombreux soient-ils, à quiconque s'en repent et s'en détourne. Il précise qu'il n'est pas valable de comprendre ce verset en dehors du repentir, car l'association (shirk) n'est pas pardonnée à celui qui ne s'en repent pas. Il rapporte aussi que 'Abd Allah ibn Mas'ud, qu'Allah soit satisfait de lui, a dit que c'est le verset du Coran qui apporte le plus de soulagement.
 
 #### Explication De La Leçon
 
@@ -168,7 +168,7 @@ Dresse la liste des cinq choses qui comptent le plus pour toi ou que tu désires
 
 ## Pour Les Enfants De 4 À 7 Ans
 
-<!-- reader:start audience="4-7" estimated_minutes="5.0" -->
+<!-- reader:start audience="4-7" estimated_minutes="4.0" -->
 
 <!-- unit:start id="4-7.explanation" kind="explanation" -->
 
@@ -240,7 +240,7 @@ Avec ton papa ou ta maman, dessine trois choses que tu aimes très fort (un joue
 
 ## Pour Les Enfants De 8 À 12 Ans
 
-<!-- reader:start audience="8-12" estimated_minutes="6.5" -->
+<!-- reader:start audience="8-12" estimated_minutes="5.5" -->
 
 <!-- unit:start id="8-12.explanation" kind="explanation" -->
 
@@ -252,7 +252,7 @@ Le Prophète, paix et bénédictions sur lui, nous a appris qu'il connaissait la
 
 <!-- terminology:start source_id="bukhari-6571" -->
 
-- **`Le plus bas en rang des gens de la Jannah`** (*adna ahl al-Jannah manzilatan*) — la personne qui a le degré le moins élevé en Jannah ; c'est le dernier à être autorisé à y entrer.
+- **`Le plus bas en rang des gens de la Jannah`** (*adna ahl al-Jannah manzilatan*) — celui qui a le degré le moins élevé en Jannah ; c'est le dernier à être autorisé à y entrer.
 - **`L'intercession`** (*ash-shafa'ah*) — le fait de demander à Allah de pardonner à quelqu'un d'autre ou de le délivrer d'un châtiment ; le Jour de la Résurrection, Allah y autorise Ses prophètes et certains de Ses serviteurs vertueux.
 - **`L'équivalent de ce bas monde et dix fois autant`** — une expression qui désigne un don dont on ne peut même pas imaginer la taille, puisqu'il dépasse dix fois le monde entier.
 
@@ -270,7 +270,7 @@ Le Prophète, paix et bénédictions sur lui, nous a appris qu'il connaissait la
 
 Le Prophète, paix et bénédictions sur lui, a dit : « Je connais assurément le dernier des gens du Feu à en sortir et le dernier des gens de la Jannah à y entrer. » Cet homme sort du Feu après y avoir passé le temps qu'Allah a voulu, à cause de ses péchés ; puis Allah lui ordonne d'aller vers la Jannah. L'homme s'y rend, mais il voit la foule immense de ceux qui y sont entrés avant lui, et il se dit qu'elle doit être pleine à craquer, sans plus une seule place pour lui ! Il retourne donc vers son Seigneur et dit : « Seigneur, je l'ai trouvée pleine ! »
 
-Allah lui dit une nouvelle fois : « Va, entre dans la Jannah. » Il y va, et la même chose se reproduit. Alors, la troisième fois, Allah lui dit : « Va, entre dans la Jannah, car tu as l'équivalent de ce bas monde et dix fois autant ! » L'homme est tellement stupéfait par la grandeur de ce don qu'il s'écrie : « Te moques-Tu de moi, alors que Tu es le Roi tout-puissant ? » Le Prophète, paix et bénédictions sur lui, rit en racontant cette histoire à ses Compagnons, au point que ses molaires apparurent ; car Allah ne se moque de personne : Il a donné à cet homme, pourtant le plus bas en rang parmi les gens de la Jannah, un don qui dépasse toute imagination.[^1]
+Allah lui dit une nouvelle fois : « Va, entre dans la Jannah. » Il y va, et la même chose se reproduit. Alors, la troisième fois, Allah lui dit : « Va, entre dans la Jannah, car tu as l'équivalent de ce bas monde et dix fois autant ! » L'homme est tellement stupéfait par la grandeur de ce don qu'il s'écrie : « Te moques-Tu de moi, alors que Tu es le Roi suprême ? » Le Prophète, paix et bénédictions sur lui, rit en racontant cette histoire à ses Compagnons, au point que ses molaires apparurent ; car Allah ne se moque de personne : Il a donné à cet homme, pourtant le plus bas en rang parmi les gens de la Jannah, un don qui dépasse toute imagination.[^1]
 
 <!-- retelling:start source_id="bukhari-6571" audience="8-12" -->
 
@@ -327,7 +327,7 @@ Fais la liste de cinq choses que tu aimes en ce monde (des amis, des jeux, des l
 
 ## Pour Les Adolescents, 13 Ans Et Plus
 
-<!-- reader:start audience="13+" estimated_minutes="6.5" -->
+<!-- reader:start audience="13+" estimated_minutes="7.0" -->
 
 <!-- unit:start id="13+.explanation" kind="explanation" -->
 
@@ -355,7 +355,7 @@ Le hadith du « dernier à entrer en Jannah » compte parmi les plus grands ha
 
 **Ceci est un récit véridique rapporté par 'Abd Allah ibn Mas'ud, qu'Allah soit satisfait de lui, d'après le Prophète, paix et bénédictions sur lui, dans Sahih al-Bukhari, et non une scène imaginée.**
 
-'Abd Allah ibn Mas'ud, qu'Allah soit satisfait de lui, rapporte que le Prophète, paix et bénédictions sur lui, a dit : « Je connais assurément le dernier des gens du Feu à en sortir et le dernier des gens de la Jannah à y entrer : c'est un homme qui sort du Feu en rampant. » Cet homme n'a rien d'un personnage exceptionnel ou étrange : c'est un croyant qui attestait l'unicité d'Allah et qui a commis de grands péchés ; il est resté dans le Feu jusqu'à ce que celui-ci l'ait purifié des traces de ses péchés, puis l'intercession des intercesseurs et la miséricorde d'Allah l'ont enveloppé : il en est sorti, le dernier de tous, et il a reçu l'ordre d'entrer en Jannah, où il sera le dernier à entrer.
+'Abd Allah ibn Mas'ud, qu'Allah soit satisfait de lui, rapporte que le Prophète, paix et bénédictions sur lui, a dit : « Je connais assurément le dernier des gens du Feu à en sortir et le dernier des gens de la Jannah à y entrer : c'est un homme qui sort du Feu en rampant. » Cet homme n'a rien d'un personnage exceptionnel ou étrange : c'est un croyant qui attestait l'unicité d'Allah et qui a commis de grands péchés ; il est resté dans le Feu jusqu'à ce que celui-ci l'ait purifié des traces de ses péchés, puis l'intercession des intercesseurs et la miséricorde d'Allah l'ont enveloppé : il en est sorti, le dernier de tous, et il a reçu l'ordre d'entrer en Jannah, le dernier à y entrer.
 
 Il se dirige vers la Jannah, mais il voit toutes les créatures qui l'y ont précédé, et il lui semble qu'elle est comble, qu'il n'y reste plus de place pour lui. Il retourne vers son Seigneur et dit : « Seigneur, je l'ai trouvée pleine ! » Allah lui ordonne à nouveau d'entrer, la scène se répète, jusqu'à ce qu'Allah lui dise, la troisième fois : « Va, entre dans la Jannah, car tu as l'équivalent de ce bas monde et dix fois autant. » C'est là que la stupeur de l'homme atteint son comble : « Te moques-Tu de moi, alors que Tu es le Roi ? » Le Prophète, paix et bénédictions sur lui, rit en décrivant la scène à ses Compagnons, car Allah ne se rit de personne : ce n'est là que l'expression de Sa puissance et de Sa générosité, qui n'ont pas de limites.
 

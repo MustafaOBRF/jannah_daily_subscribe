@@ -1,5 +1,5 @@
 ---
-title: "La última persona en entrar al Jannah"
+title: "La última persona en entrar en el Paraíso"
 lesson_id: "lesson.019"
 topic_id: "jannah.019"
 translation_key: "jannah.last_entrant"
@@ -15,7 +15,7 @@ activity_concept_id: "lesson.019.activity.ten-times-my-world"
 bedtime_dua_id: "lesson.019.dua.never-despair-of-mercy"
 ---
 
-# La última persona en entrar al Jannah
+# La última persona en entrar en el Paraíso
 
 ## Objetivos y resultados de la lección
 
@@ -30,11 +30,11 @@ Después de esta lección, el aprendiz será capaz de:
 
 ## Sección académica para adultos
 
-<!-- reader:start audience="adults" estimated_minutes="6.5" -->
+<!-- reader:start audience="adults" estimated_minutes="7.0" -->
 
 <!-- unit:start id="adults.explanation" kind="explanation" -->
 
-Una de las muestras de la inmensa misericordia de Allah es que no deja eternamente en el Fuego a ningún creyente que haya proclamado Su unicidad, aunque haya pecado: saca de él a todo aquel que guarde en su corazón siquiera el peso de una partícula de fe, aunque sea tras largo tiempo. El Profeta, la paz y las bendiciones de Allah sean con él, nos contó que conoce al último hombre que saldrá del Fuego y al último que entrará en el Paraíso: un hombre que sale de él a gatas (es decir, arrastrándose de pura debilidad). Allah le ordena entrar en el Paraíso; él se encamina hacia allí, pero le parece que ya está repleto y que no queda en él lugar para él, así que vuelve y dice: «¡Señor mío, lo he encontrado lleno!». La escena se repite dos veces, hasta que a la tercera Allah le dice: «Ve y entra en el Paraíso, pues tendrás el equivalente de este mundo y diez veces más». Al hombre le parece tan desmesurado el regalo que exclama: «¿Te burlas de mí, siendo Tú el Rey?». Y el Profeta, la paz y las bendiciones de Allah sean con él, se rio al relatar la escena a sus Compañeros; no porque hubiera en ella nada de broma, sino porque Allah no se burla de nadie: Su dádiva rebasa toda imaginación humana, hasta el punto de que quien ocupa el rango más bajo del Paraíso recibe lo que jamás pasó por el corazón de nadie.
+Una de las muestras de la inmensa misericordia de Allah es que no deja eternamente en el Fuego a ningún creyente que haya proclamado Su unicidad, aunque haya pecado: saca de él a todo aquel que guarde en su corazón siquiera el peso de una partícula de fe, aunque sea tras largo tiempo. El Profeta, la paz y las bendiciones de Allah sean con él, nos contó que conoce al último hombre que saldrá del Fuego y al último que entrará en el Paraíso: un hombre que sale de él a gatas (es decir, arrastrándose de pura debilidad). Allah le ordena entrar en el Paraíso; él se encamina hacia allí, pero le parece que ya está repleto y que no queda sitio para él, así que vuelve y dice: «¡Señor mío, lo he encontrado lleno!». La escena se repite dos veces, hasta que a la tercera Allah le dice: «Ve y entra en el Paraíso, pues tendrás el equivalente de este mundo y diez veces más». Al hombre le parece tan desmesurado el regalo que exclama: «¿Te burlas de mí, siendo Tú el Rey?». Y el Profeta, la paz y las bendiciones de Allah sean con él, se rio al relatar la escena a sus Compañeros; no porque hubiera en ella nada de broma, sino porque Allah no se burla de nadie: Su dádiva rebasa toda imaginación humana, hasta el punto de que quien ocupa el rango más bajo del Paraíso recibe lo que jamás pasó por el corazón de nadie.
 
 Este hombre no es un extraño para la comunidad de Muhammad, la paz y las bendiciones de Allah sean con él: es un creyente que proclamó la unicidad de Allah, pero cometió pecados por los que mereció pasar un tiempo en el Fuego. Cuando ese tiempo se cumplió y lo alcanzaron la intercesión de los intercesores y la misericordia del más Misericordioso de los misericordiosos, fue sacado de allí y admitido en el Paraíso; y aun así es el último en entrar y el de rango más bajo. Con todo, su parte de la dádiva de Allah es diez veces mayor que este mundo y cuanto contiene. ¡Qué no será, entonces, la de quienes están por encima de él! El hadiz de Abu Dharr hace este sentido aún más nítido, pues en él los pecados menores de ese hombre se transforman en buenas obras; el hadiz de Yabir muestra que este destino se repite con todo aquel a quien la intercesión saca del Fuego; y la aleya de Az-Zumar reúne todos estos sentidos en un único llamado: {No desesperéis de la misericordia de Allah}. Que ningún creyente desespere, pues, de la misericordia de Allah por mucho que haya pecado, ni tenga en poco el rango más bajo junto a Él, porque supera todo lo que la gente de este mundo pueda anhelar.
 
@@ -48,17 +48,17 @@ Este hombre no es un extraño para la comunidad de Muhammad, la paz y las bendic
 
 ### El hadiz del último hombre que entrará en el Paraíso
 
-> عَنْ عَبْدِ اللَّهِ بْنِ مَسْعُودٍ رضي الله عنه، قَالَ: قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم: **«إِنِّي لَأَعْلَمُ آخِرَ أَهْلِ النَّارِ خُرُوجًا مِنْهَا، وَآخِرَ أَهْلِ الْجَنَّةِ دُخُولًا، رَجُلٌ يَخْرُجُ مِنَ النَّارِ حَبْوًا، فَيَقُولُ اللَّهُ لَهُ: اذْهَبْ فَادْخُلِ الْجَنَّةَ. فَيَأْتِيهَا فَيُخَيَّلُ إِلَيْهِ أَنَّهَا مَلْأَى، فَيَرْجِعُ فَيَقُولُ: يَا رَبِّ، وَجَدْتُهَا مَلْأَى. فَيَقُولُ اللَّهُ لَهُ: اذْهَبْ فَادْخُلِ الْجَنَّةَ. فَيَأْتِيهَا فَيُخَيَّلُ إِلَيْهِ أَنَّهَا مَلْأَى، فَيَرْجِعُ فَيَقُولُ: يَا رَبِّ، وَجَدْتُهَا مَلْأَى. فَيَقُولُ اللَّهُ لَهُ: اذْهَبْ فَادْخُلِ الْجَنَّةَ، فَإِنَّ لَكَ مِثْلَ الدُّنْيَا وَعَشَرَةَ أَمْثَالِهَا، أَوْ إِنَّ لَكَ مِثْلَ عَشَرَةِ أَمْثَالِ الدُّنْيَا. فَيَقُولُ: أَتَسْخَرُ بِي، أَوْ أَتَضْحَكُ مِنِّي، وَأَنْتَ الْمَلِكُ؟»**. فَلَقَدْ رَأَيْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم ضَحِكَ حَتَّى بَدَتْ نَوَاجِذُهُ، وَكَانَ يُقَالُ: ذَلِكَ أَدْنَى أَهْلِ الْجَنَّةِ مَنْزِلَةً.[^1]
+> عَنْ عَبْدِ اللَّهِ بْنِ مَسْعُودٍ رضي الله عنه، قَالَ: قَالَ النَّبِيُّ صلى الله عليه وسلم: **«إِنِّي لَأَعْلَمُ آخِرَ أَهْلِ النَّارِ خُرُوجًا مِنْهَا، وَآخِرَ أَهْلِ الْجَنَّةِ دُخُولًا، رَجُلٌ يَخْرُجُ مِنَ النَّارِ كَبْوًا، فَيَقُولُ اللَّهُ: اذْهَبْ فَادْخُلِ الْجَنَّةَ. فَيَأْتِيهَا فَيُخَيَّلُ إِلَيْهِ أَنَّهَا مَلْأَى، فَيَرْجِعُ فَيَقُولُ: يَا رَبِّ، وَجَدْتُهَا مَلْأَى. فَيَقُولُ: اذْهَبْ فَادْخُلِ الْجَنَّةَ. فَيَأْتِيهَا فَيُخَيَّلُ إِلَيْهِ أَنَّهَا مَلْأَى، فَيَقُولُ: يَا رَبِّ، وَجَدْتُهَا مَلْأَى. فَيَقُولُ: اذْهَبْ فَادْخُلِ الْجَنَّةَ، فَإِنَّ لَكَ مِثْلَ الدُّنْيَا وَعَشَرَةَ أَمْثَالِهَا، أَوْ إِنَّ لَكَ مِثْلَ عَشَرَةِ أَمْثَالِ الدُّنْيَا. فَيَقُولُ: تَسْخَرُ مِنِّي، أَوْ تَضْحَكُ مِنِّي، وَأَنْتَ الْمَلِكُ؟»**. فَلَقَدْ رَأَيْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم ضَحِكَ حَتَّى بَدَتْ نَوَاجِذُهُ، وَكَانَ يُقَالُ: ذَلِكَ أَدْنَى أَهْلِ الْجَنَّةِ مَنْزِلَةً.[^1]
 
 <!-- evidence:translation -->
 
 #### Traducción al español
 
-> De Abdullah ibn Mas'ud, que Allah esté complacido con él, que dijo: el Mensajero de Allah, la paz y las bendiciones de Allah sean con él, dijo: **«Yo conozco al último de la gente del Fuego en salir de él y al último de la gente del Paraíso en entrar en él: es un hombre que sale del Fuego a gatas. Allah le dice: "Ve y entra en el Paraíso". Él llega hasta allí, pero le parece que está lleno; así que regresa y dice: "¡Señor mío, lo he encontrado lleno!". Allah le dice: "Ve y entra en el Paraíso". Él llega hasta allí, pero le parece que está lleno; así que regresa y dice: "¡Señor mío, lo he encontrado lleno!". Allah le dice: "Ve y entra en el Paraíso, pues tendrás el equivalente de este mundo y diez veces más" —o bien: "tendrás diez veces el equivalente de este mundo"—. Y él dice: "¿Te burlas de mí —o: ¿te ríes de mí?—, siendo Tú el Rey?"»**. Y vi al Mensajero de Allah, la paz y las bendiciones de Allah sean con él, reír hasta que se le vieron las muelas. Y se solía decir: ese es el de rango más bajo entre la gente del Paraíso.[^1]
+> De Abdullah ibn Mas'ud, que Allah esté complacido con él, que dijo: el Profeta, la paz y las bendiciones de Allah sean con él, dijo: **«Yo conozco al último de la gente del Fuego en salir de él y al último de la gente del Paraíso en entrar en él: es un hombre que sale del Fuego a gatas. Allah le dice: "Ve y entra en el Paraíso". Él llega hasta allí, pero le parece que está lleno; así que regresa y dice: "¡Señor mío, lo he encontrado lleno!". Allah le dice: "Ve y entra en el Paraíso". Él llega hasta allí, pero le parece que está lleno; y dice: "¡Señor mío, lo he encontrado lleno!". Allah le dice: "Ve y entra en el Paraíso, pues tendrás el equivalente de este mundo y diez veces más" —o bien: "tendrás diez veces el equivalente de este mundo"—. Y él dice: "¿Te burlas de mí —o: ¿te ríes de mí?—, siendo Tú el Rey?"»**. Y vi al Mensajero de Allah, la paz y las bendiciones de Allah sean con él, reír hasta que se le vieron las muelas. Y se solía decir: ese es el de rango más bajo entre la gente del Paraíso.[^1]
 
 #### Interpretación académica
 
-Los sabios, al comentar este hadiz, explicaron que "le parece que está lleno" significa que el hombre ve la multitud de quienes le precedieron en el Paraíso y supone que no queda en él sitio para él; y esto nace de su humildad extrema y de lo poco que se estima a sí mismo, no de duda alguna en la promesa de Allah. Su pregunta "¿Te burlas de mí?" tampoco expresa duda de la veracidad de Allah, Glorificado sea, sino asombro ante una generosidad tan desbordante que jamás se le había pasado por la mente, hasta el punto de parecerle más cercana a una broma que a algo serio; y Allah le aclaró que aquella era Su verdadera dádiva. En cuanto a la risa del Profeta, la paz y las bendiciones de Allah sean con él, al narrarlo, fue de asombro y de alegría ante la amplitud de la misericordia de Allah, no de burla por la situación de aquel hombre.
+Los sabios, al comentar este hadiz, explicaron que "le parece que está lleno" significa que el hombre ve la multitud de quienes le precedieron en el Paraíso y supone que ya no queda sitio para él; y esto nace de su humildad extrema y de lo poco que se estima a sí mismo, no de duda alguna en la promesa de Allah. Su pregunta "¿Te burlas de mí?" tampoco expresa duda de la veracidad de Allah, Glorificado sea, sino asombro ante una generosidad tan desbordante que jamás se le había pasado por la mente, hasta el punto de parecerle más cercana a una broma que a algo serio; y Allah le aclaró que aquella era Su verdadera dádiva. En cuanto a la risa del Profeta, la paz y las bendiciones de Allah sean con él, al narrarlo, fue de asombro y de alegría ante la amplitud de la misericordia de Allah, no de burla por la situación de aquel hombre.
 
 #### Explicación de la lección
 
@@ -124,7 +124,7 @@ Este hadiz deja claro que la historia del "último en entrar en el Paraíso" no 
 
 #### Interpretación académica
 
-El hafiz Ibn Kazir, que Allah tenga misericordia de él, señaló que esta es una de las aleyas más esperanzadoras del Corán: un llamado de Allah a Sus siervos pecadores, por mucho que se hayan excedido contra sí mismos, para que no desesperen de Su misericordia; y que la palabra "todos" abarca cualquier pecado sin excepción, para quien se arrepiente o para aquel a quien Allah quiera perdonar.
+El hafiz Ibn Kazir, que Allah tenga misericordia de él, explicó que esta aleya es un llamado a todos los pecadores, por mucho que se hayan excedido contra sí mismos, a arrepentirse y volver a Allah, y un anuncio de que Allah perdona todos los pecados, por numerosos que sean, a quien se arrepiente de ellos y los abandona. Subrayó que no es válido entender esta aleya sin el arrepentimiento, porque la idolatría (shirk) no se perdona a quien no se arrepiente de ella. También transmitió que Abdullah ibn Mas'ud, que Allah esté complacido con él, dijo que es la aleya del Corán que trae mayor alivio.
 
 #### Explicación de la lección
 
@@ -168,7 +168,7 @@ Haz una lista de las cinco cosas que más amas o anhelas en este mundo (bienes, 
 
 ## Para niños de 4 a 7 años
 
-<!-- reader:start audience="4-7" estimated_minutes="5.0" -->
+<!-- reader:start audience="4-7" estimated_minutes="4.5" -->
 
 <!-- unit:start id="4-7.explanation" kind="explanation" -->
 
@@ -212,7 +212,7 @@ Dicho de forma sencilla: un hombre creyó que el Paraíso estaba lleno y que no 
 
 <!-- activity:start audience="4-7" concept_id="lesson.019.activity.ten-times-my-world" -->
 
-Con tu papá o tu mamá, dibuja tres cosas que te gusten mucho (un juguete, una comida rica, un lugar bonito). Después, pide a tu papá o a tu mamá que dibuje al lado de cada una diez dibujitos iguales, y di: "¡Así es el regalo de Allah para la persona con el rango más bajo del Paraíso!". Diviértanse contando los dibujos juntos, y recuerden que el regalo de Allah es todavía mucho más grande.
+Con tu papá o tu mamá, dibuja tres cosas que te gusten mucho (un juguete, una comida rica, un lugar bonito). Después, pide a tu papá o a tu mamá que dibuje al lado de cada una diez dibujitos iguales, y di: "¡Así es el regalo de Allah para la persona con el rango más bajo del Paraíso!". Divertíos contando los dibujos juntos, y recordad que el regalo de Allah es todavía mucho más grande.
 
 <!-- activity:end -->
 
@@ -240,7 +240,7 @@ Con tu papá o tu mamá, dibuja tres cosas que te gusten mucho (un juguete, una 
 
 ## Para niños de 8 a 12 años
 
-<!-- reader:start audience="8-12" estimated_minutes="6.5" -->
+<!-- reader:start audience="8-12" estimated_minutes="6.0" -->
 
 <!-- unit:start id="8-12.explanation" kind="explanation" -->
 
@@ -327,7 +327,7 @@ Haz una lista de cinco cosas que te gustan de este mundo (amigos, juegos, lugare
 
 ## Para adolescentes de 13+
 
-<!-- reader:start audience="13+" estimated_minutes="6.5" -->
+<!-- reader:start audience="13+" estimated_minutes="7.0" -->
 
 <!-- unit:start id="13+.explanation" kind="explanation" -->
 
@@ -341,7 +341,7 @@ El hadiz del "último en entrar en el Paraíso" es uno de los textos que mejor m
 
 - **`La purificación en el Fuego (at-tathir fi an-nar)`** — la permanencia de algunos creyentes pecadores en el Fuego durante el tiempo que Allah quiera, para purificarlos de sus pecados, antes de ser sacados por Su misericordia y la intercesión de los intercesores; se aplica solo a quien murió creyendo en la unicidad de Allah sin asociarle nada.
 - **`La transformación de las malas obras en buenas (tabdil as-sayyi'at hasanat)`** — que Allah cambie, el Día de la Resurrección, algunos pecados menores de Su siervo por buenas obras, como misericordia de Su parte y no como algo que el siervo merezca.
-- **`No desesperar (adam al-qunut)`** — la certeza plena de que la misericordia de Allah es más amplia que cualquier pecado, y de que a nadie le es lícito desesperar de ella, por graves que sean sus pecados.
+- **`No desesperar ('adam al-qunut)`** — la certeza plena de que la misericordia de Allah es más amplia que cualquier pecado, y de que a nadie le es lícito desesperar de ella, por graves que sean sus pecados.
 
 <!-- terminology:end -->
 
@@ -355,9 +355,9 @@ El hadiz del "último en entrar en el Paraíso" es uno de los textos que mejor m
 
 **Esto es un hecho real que Abdullah ibn Mas'ud, que Allah esté complacido con él, narró del Profeta, la paz y las bendiciones de Allah sean con él, recogido en Sahih al-Bujari, y no una escena inventada.**
 
-Abdullah ibn Mas'ud, que Allah esté complacido con él, narró que el Profeta, la paz y las bendiciones de Allah sean con él, dijo: "Yo conozco al último de la gente del Fuego en salir de él y al último de la gente del Paraíso en entrar en él: un hombre que sale del Fuego a gatas". Este hombre no es un personaje extraño ni excepcional: es un creyente que proclamó la unicidad de Allah y cometió pecados graves, de modo que permaneció en el Fuego hasta quedar purificado de su huella; luego lo alcanzaron la intercesión de los intercesores y la misericordia de Allah, y fue sacado de allí, el último en salir, y se le ordenó entrar en el Paraíso, el último en entrar.
+Abdullah ibn Mas'ud, que Allah esté complacido con él, narró que el Profeta, la paz y las bendiciones de Allah sean con él, dijo: "Yo conozco al último de la gente del Fuego en salir de él y al último de la gente del Paraíso en entrar en él: un hombre que sale del Fuego a gatas". Este hombre no es un personaje extraño ni excepcional: es un creyente que proclamó la unicidad de Allah y cometió pecados graves, de modo que permaneció en el Fuego hasta quedar purificado de la huella de sus pecados; luego lo alcanzaron la intercesión de los intercesores y la misericordia de Allah, y fue sacado de allí, el último en salir, y se le ordenó entrar en el Paraíso, el último en entrar.
 
-Se dirige al Paraíso, pero ve a todas las criaturas que llegaron antes que él y le parece que ya está lleno y que no queda en él un lugar para él. Vuelve ante su Señor y dice: "¡Señor mío, lo he encontrado lleno!". Allah le ordena entrar de nuevo, y la escena se repite, hasta que a la tercera le dice: "Ve y entra en el Paraíso, pues tendrás el equivalente de este mundo y diez veces más". Ahí el asombro del hombre llega a su punto máximo, y dice: "¿Te burlas de mí, siendo Tú el Rey?". Y el Profeta, la paz y las bendiciones de Allah sean con él, se rio al narrar la escena a sus Compañeros, porque Allah no se burla de nadie: aquello es, sencillamente, lo que exigen Su poder y Su generosidad sin límites.
+Se dirige al Paraíso, pero ve a todas las criaturas que llegaron antes que él y le parece que ya está lleno y que no queda lugar para él. Vuelve ante su Señor y dice: "¡Señor mío, lo he encontrado lleno!". Allah le ordena entrar de nuevo, y la escena se repite, hasta que a la tercera le dice: "Ve y entra en el Paraíso, pues tendrás el equivalente de este mundo y diez veces más". Ahí el asombro del hombre llega a su punto máximo, y dice: "¿Te burlas de mí, siendo Tú el Rey?". Y el Profeta, la paz y las bendiciones de Allah sean con él, se rio al narrar la escena a sus Compañeros, porque Allah no se burla de nadie: aquello es, sencillamente, la expresión de Su poder y de Su generosidad sin límites.
 
 Los sabios han explicado que el hadiz de Abu Dharr (Muslim 190) aclara otra faceta de la historia de este mismo hombre: Allah le muestra sus pecados menores para que los reconozca y después se los cambia por buenas obras, hasta que él mismo se asombra del favor de su Señor. Y el hadiz de Yabir (Muslim 191) sitúa este destino dentro de la gran escena de la intercesión del Día de la Resurrección, que abarca a todo el que murió creyendo en la unicidad de Allah, aunque en su corazón hubiera lo mínimo del bien.[^1]
 
@@ -470,7 +470,7 @@ Haz una lista con las cinco cosas más importantes de "tu mundo": algo que posee
 **Apertura — 3 minutos:** se pregunta al niño: «¿Te gustaría recibir una sorpresa muchísimo más grande de lo que esperabas?»
 
 <!-- lesson-plan:evidence -->
-**Lectura del relato — 6 minutos:** se cuenta la historia sencilla con voz emocionante, centrándose en la alegre sorpresa del final y no en los detalles del Fuego.
+**Lectura del relato — 6 minutos:** se cuenta la versión sencilla de la historia con voz expresiva y llena de intriga, centrándose en la alegre sorpresa del final y no en los detalles del Fuego.
 
 <!-- lesson-plan:instruction -->
 **Instrucción guiada — 3 minutos:** el educador explica que Allah quiere muchísimo a Sus siervos, y que Su regalo siempre es más grande de lo que imaginamos.

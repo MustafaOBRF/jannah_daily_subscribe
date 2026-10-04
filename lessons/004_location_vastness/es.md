@@ -21,7 +21,7 @@ bedtime_dua_id: "lesson.004.dua.vast-firdaws"
 
 Al terminar esta lección, el estudiante será capaz de:
 
-- Recitar `wa qulna ya Adamu-skun anta wa zawjuka al-Jannata wa kula minha raghadan haythu shi'tuma` (al-Baqarah: 35) y explicar que la primera morada humana fue una Jannah amplia, limitada solo por una prohibición.
+- Recitar `wa qulna ya Adamu-skun anta wa zawjuka al-Jannata wa kula minha raghadan haythu shi'tuma` (al-Baqarah: 35) y explicar que la primera morada del ser humano en toda la existencia fue una Jannah de generosidad inmensa, limitada solo por una prohibición.
 - Narrar la historia coránica del establecimiento de Adán, la paz sea con él, en la Jannah, y su expulsión por un único desliz, vinculando esto con la amplitud de esa morada y la magnitud de lo perdido por la desobediencia.
 - Recitar `wa jannatin 'arduha as-samawatu wal-ard` (Aal 'Imran: 133) y `jannatin 'arduha ka'ardi as-sama'i wal-ard` (al-Hadid: 21), explicando que esta descripción es una invitación a engrandecer la Jannah prometida, no un cálculo geométrico de ella.
 - Narrar el hadiz «un lugar de un látigo en la Jannah es mejor que la dunya y todo lo que hay en ella», explicando que la amplitud de la Jannah es amplitud de valor y dicha, no solo de superficie.
@@ -30,20 +30,20 @@ Al terminar esta lección, el estudiante será capaz de:
 
 ## Sección Académica para Adultos
 
-<!-- reader:start audience="adults" estimated_minutes="6.5" -->
+<!-- reader:start audience="adults" estimated_minutes="7.0" -->
 
 <!-- unit:start id="adults.explanation" kind="explanation" -->
 
-Cuando el Corán describe la Jannah como `'arduha as-samawatu wal-ard`, no abre la puerta a cálculos geométricos, sino que abre el corazón a una amplitud que supera toda medida conocida en la dunya. El testimonio más antiguo de esta amplitud es un hecho concreto: Adán, la paz sea con él, fue establecido junto a su esposa en esa misma Jannah, con permiso de comer de cualquier lugar de ella, sin más prohibición que un único árbol. Aquella Jannah era tan amplia que no necesitó más que una sola prohibición.
+Cuando el Corán describe la Jannah como `'arduha as-samawatu wal-ard`, no abre la puerta a cálculos geométricos, sino que abre el corazón a una amplitud que supera toda medida conocida en la dunya. El testimonio más antiguo de esta amplitud en el Corán no es una aleya general, sino un hecho concreto: el primer ser humano que Allah creó, Adán, la paz sea con él, fue establecido junto a su esposa en esa misma Jannah, con permiso de comer de cualquier lugar de ella que quisiera, sin más prohibición que un único árbol. Aquella Jannah era tan amplia que no había en ella estrechez alguna que exigiera más de una sola prohibición.
 
-Luego llegó un único desliz, por susurro de Shaytán, y ambos fueron sacados de donde estaban y descendidos a la tierra. El hecho muestra dos significados unidos: que la Jannah perdida era una dicha inmensa, y que salir de ella no depende de su tamaño, sino de la obediencia dentro de ella. Las aleyas de Aal 'Imran y al-Hadid anuncian que esa misma amplitud está prometida a todo creyente que se apresure hacia el perdón de su Señor, y la Sunnah añade otro criterio: no solo amplitud de lugar, sino amplitud de valor, de modo que el lugar más pequeño en ella es mejor que toda la dunya junta.
+Luego llegó un único desliz, por susurro de Shaytán, y Adán y su esposa fueron sacados de donde estaban y descendidos a la tierra. El hecho muestra al corazón dos significados unidos: que la Jannah que Adán perdió era una dicha inmensa y amplia, y que entrar en ella o salir de ella no depende de su tamaño, sino de la obediencia a Allah dentro de ella. Las aleyas de Aal 'Imran y al-Hadid anuncian que esa misma amplitud está prometida a todo creyente que se apresure hacia el perdón de su Señor, y la Sunnah añade otro criterio: no solo amplitud de lugar, sino amplitud de valor, de modo que el lugar más pequeño en ella es mejor que la dunya entera con todo lo que contiene.
 
 Esta comprensión corrige dos desviaciones opuestas:
 
 1. **Convertir la amplitud en especulación cósmica:** calcular las dimensiones exactas de la Jannah o su ubicación precisa, algo del gaib que solo se afirma con un texto.
 2. **Minimizar el valor de la Jannah pese a su amplitud:** pensar que la dicha de la dunya, por poca que sea, se acerca a la suya, cuando el lugar más pequeño en ella es mejor que la dunya entera.
 
-La amplitud verdadera es de generosidad y de valor, no una medida en metros, y el primero en vivirla fue el padre de la humanidad, Adán, la paz sea con él.
+La amplitud verdadera es de generosidad y de valor, no una medida en metros, y el primero en habitarla de verdad fue el padre de la humanidad, Adán, la paz sea con él.
 
 <!-- unit:end -->
 
@@ -67,11 +67,11 @@ La amplitud verdadera es de generosidad y de valor, no una medida en metros, y e
 
 #### Explicación Académica
 
-Ibn Kathir mencionó que la Jannah en la que fue establecido Adán, la paz sea con él, es la misma Jannah eterna, opinión de la mayoría de Ahl as-Sunnah, frente a una opinión débil que la consideró una jannah terrenal sin relación con la otra vida.[^3] `Raghadan haythu shi'tuma` indica un permiso amplio y absoluto: comer con holgura, de cualquier lugar, sin límite de dirección ni cantidad, y de esa amplitud no se exceptuó más que un único árbol determinado.
+Ibn Kathir menciona en su tafsir que los sabios discreparon sobre si la Jannah en la que fue establecido Adán, la paz sea con él, estaba en el cielo o en la tierra: la mayoría sostiene que estaba en el cielo, y al-Qurtubi atribuyó la opinión de que estaba en la tierra a los mu'tazilíes y los qadaríes.[^3] `Raghadan haythu shi'tuma` indica un permiso amplio y absoluto: comer con holgura, de cualquier lugar, sin límite de dirección ni cantidad, y de esa amplitud no se exceptuó más que un único árbol determinado.
 
 #### Explicación de la Lección
 
-Esta es la primera descripción práctica de la amplitud de la Jannah: un lugar donde Allah permite comer de cualquier sitio, y no impide más que una sola cosa. La amplitud del permiso prueba la amplitud del lugar, incluso antes de cualquier descripción directa de su extensión.
+Esta es la primera descripción práctica de la amplitud de la Jannah en el Corán: un lugar donde Allah permite a sus dos moradores comer de donde quieran, y solo les veda una cosa concreta. La amplitud del permiso prueba la amplitud del lugar y de su dicha, incluso antes de cualquier descripción directa de su extensión.
 
 <!-- evidence:end -->
 
@@ -87,7 +87,7 @@ Esta es la primera descripción práctica de la amplitud de la Jannah: un lugar 
 
 #### Explicación de la Lección
 
-No fue la estrechez del lugar lo que sacó a Adán y a su esposa de aquella dicha, sino un único desliz al tomar lo único prohibido en medio de tanta amplitud. Allah aceptó su arrepentimiento, pero el hecho enseña: cuanto más amplia es la dicha, mayor es la pérdida de quien descuida el único mandato fijado.
+No fue la estrechez del lugar lo que sacó a Adán y a su esposa de aquella dicha, sino un único desliz, por susurro de Shaytán, al tomar lo único que se les había prohibido en medio de tanta amplitud. Después Allah aceptó el arrepentimiento de ambos, pero el hecho sigue siendo una lección: cuanto más amplia es la dicha, mayor es la pérdida de quien descuida el único mandato fijado.
 
 <!-- evidence:end -->
 
@@ -107,11 +107,11 @@ No fue la estrechez del lugar lo que sacó a Adán y a su esposa de aquella dich
 
 #### Explicación Académica
 
-Los exégetas mencionaron que describir la Jannah con una anchura como la de los cielos y la tierra engrandece su amplitud más allá de la comprensión humana, no como determinación geométrica de su superficie; la anchura es la menor de sus dimensiones, ¿qué decir de su longitud? No es correcto convertir esto en especulación cósmica, sino dejarlo en lo que indica: la otra vida es más amplia que todo lo que la dunya pueda imaginar junta.
+Los exégetas mencionaron que describir la Jannah con una anchura como la de los cielos y la tierra engrandece su amplitud más allá de la comprensión humana, no como determinación geométrica de su superficie; aquí la anchura es la menor de sus dimensiones, ¿qué decir entonces de su longitud? Por eso no es correcto convertir esta descripción en especulaciones cósmicas, sino dejarla en lo que indica: la morada de la otra vida es más amplia que todo lo que puedan imaginar, juntos, los habitantes de la dunya.
 
 #### Explicación de la Lección
 
-Esta amplitud es continuación de la que vivió Adán, la paz sea con él, y hoy está prometida a todo creyente que se apresure hacia el perdón de su Señor; la Jannah no es exclusiva de un hecho histórico concluido, sino una morada existente que merece que nos apresuremos hacia ella.
+Esta amplitud descrita es continuación de la que vivió Adán, la paz sea con él, por primera vez, y hoy está prometida a todo creyente que se apresure hacia el perdón de su Señor; la Jannah no es exclusiva de un hecho histórico concluido, sino una morada existente y prometida que merece que nos apresuremos hacia ella.
 
 <!-- evidence:end -->
 
@@ -127,11 +127,11 @@ Esta amplitud es continuación de la que vivió Adán, la paz sea con él, y hoy
 
 #### Explicación Académica
 
-Origen acordado entre al-Bujari y Muslim, con enunciados cercanos de Abu Hurayrah, que Allah esté complacido con él.[^7] «El lugar de un látigo» es un espacio muy pequeño, el que ocuparía el látigo de un pastor sobre la tierra.
+Lo narró al-Bujari de Sahl ibn Sa'd y, de forma semejante, de Anas ibn Malik, que Allah esté complacido con ambos, con el enunciado: «Una salida al atardecer o al amanecer por la causa de Allah es mejor que la dunya y todo lo que hay en ella; y el espacio que ocupa en la Jannah el arco de uno de vosotros, o el lugar de su *qid* —es decir, su látigo—, es mejor que la dunya y todo lo que hay en ella».[^7] Muslim solo recoge de él la virtud de la salida al amanecer y al atardecer. «El lugar de un látigo» es un espacio muy pequeño, el que ocuparía el látigo de un jinete sobre la tierra.
 
 #### Explicación de la Lección
 
-Este hadiz añade otro criterio de amplitud, distinto de la superficie: la amplitud del valor. El lugar más pequeño imaginable en la Jannah es mejor que la dunya entera, con todo lo que posee de riqueza y adorno. La amplitud de la Jannah es, pues, doble: de lugar, que ninguna descripción abarca, y de valor, que no iguala nada del disfrute de la dunya.
+Este hadiz añade otro criterio de amplitud, distinto de la superficie: la amplitud del valor. El lugar más pequeño imaginable en la Jannah es mejor que la dunya entera, con su tierra, su cielo y todo lo que contiene de poder y adorno. La amplitud de la Jannah es, pues, doble: de lugar, que ninguna descripción abarca, y de valor, que nada del disfrute de la dunya iguala, por grande que sea.
 
 <!-- evidence:end -->
 
@@ -155,7 +155,7 @@ Este hadiz añade otro criterio de amplitud, distinto de la superficie: la ampli
 
 <!-- activity:start audience="adults" concept_id="lesson.004.activity.small-place-outweighs-world" -->
 
-Dibuja una balanza de dos platillos, o usa una real. En el primero, lo más grande que posees o deseas en la dunya (casa, dinero, cargo, reputación). En el segundo: «un lugar de un látigo en la Jannah». Escribe un párrafo breve explicando por qué se inclina el segundo, con razón y texto, no solo sentimiento. Cierra con una situación de tu próxima semana en la que podrías anteponer un disfrute pequeño a un asunto de la otra vida, y comprométete a reconsiderarlo.
+Dibuja en una hoja una balanza de dos platillos, o usa una real si la tienes a mano. En el primer platillo, escribe una descripción de lo más grande que posees o deseas en la dunya (casa, dinero, cargo, reputación). En el segundo, una sola frase: «un lugar de un látigo en la Jannah». Medita el hadiz y luego escribe un párrafo breve explicando por qué se inclina el segundo, con razón y texto, no solo sentimiento. Cierra con una situación de tu próxima semana en la que podrías anteponer un disfrute pequeño a un asunto de la otra vida, y comprométete a reconsiderarlo.
 
 <!-- activity:end -->
 
@@ -163,7 +163,7 @@ Dibuja una balanza de dos platillos, o usa una real. En el primero, lo más gran
 
 <!-- reader:end -->
 
-<!-- reader:start audience="4-7" estimated_minutes="5.0" -->
+<!-- reader:start audience="4-7" estimated_minutes="4.0" -->
 
 <!-- unit:start id="4-7.explanation" kind="explanation" -->
 
@@ -181,7 +181,7 @@ La Jannah es muy, muy grande, más grande que cualquier lugar que hayamos visto 
 
 <!-- retelling:start source_id="quran-2-35" audience="4-7" -->
 
-Allah creó al primer ser humano, llamado Adán, la paz sea con él, y lo estableció en la Jannah junto con su esposa. Allah les dijo: `kula minha raghadan haythu shi'tuma`, es decir: comed de cualquier lugar de esta Jannah tan amplia que queráis, y no os privéis de nada, salvo de un único árbol del que Allah les dijo: no os acerquéis a él.[^1] La Jannah era muy amplia, tenía todo lo hermoso, y aun así Allah les prohibió solo una cosa, para que vieran que la obediencia es más importante que toda esa amplitud.
+Allah creó al primer ser humano, llamado Adán, la paz sea con él, y lo estableció en la Jannah junto con su esposa. Allah les dijo: `kula minha raghadan haythu shi'tuma`, es decir: comed de donde queráis en esta Jannah tan amplia, y no os privéis de nada, salvo de un único árbol del que Allah les dijo: no os acerquéis a él.[^1] La Jannah era muy amplia, tenía todo lo hermoso, y aun así Allah les prohibió solo una cosa, para que vieran que la obediencia es más importante que toda esa amplitud.
 
 Vino Shaytán e intentó hacer que olvidaran la orden de Allah, y comieron de aquel único árbol. Entonces Allah los sacó de aquel lugar amplio y hermoso, y descendieron a la tierra.[^4] Luego Adán, la paz sea con él, invocó a su Señor y se arrepintió con sinceridad, y Allah aceptó su arrepentimiento y tuvo misericordia de él.
 
@@ -207,7 +207,7 @@ Vino Shaytán e intentó hacer que olvidaran la orden de Allah, y comieron de aq
 
 <!-- activity:start audience="4-7" concept_id="lesson.004.activity.small-place-outweighs-world" -->
 
-El adulto hace una balanza sencilla con un gancho y dos vasos, o usa sus manos como balanza. El niño coloca en una mano una imagen pequeña con el texto «un pedacito de la Jannah», y en la otra mano coloca imágenes de todos sus juguetes favoritos. El adulto pregunta: «¿Cuál pesa más y es más amado por Allah?» Luego explica que el pedacito pequeño de la Jannah es mejor que todos los juguetes juntos, porque el Profeta, que la paz y las bendiciones de Allah sean con él, nos lo contó así.
+El adulto hace una balanza sencilla con una percha y dos vasos, o usa sus manos como balanza. El niño coloca en una mano una imagen pequeña con el texto «un pedacito de la Jannah», y en la otra mano coloca imágenes de todos sus juguetes favoritos. El adulto pregunta: «¿Cuál pesa más y cuál ama más Allah?» Luego explica que el pedacito pequeño de la Jannah es mejor que todos los juguetes juntos, porque el Profeta, que la paz y las bendiciones de Allah sean con él, nos lo contó así.
 
 <!-- activity:end -->
 
@@ -230,7 +230,7 @@ El adulto hace una balanza sencilla con un gancho y dos vasos, o usa sus manos c
 
 <!-- reader:end -->
 
-<!-- reader:start audience="8-12" estimated_minutes="6.0" -->
+<!-- reader:start audience="8-12" estimated_minutes="5.0" -->
 
 <!-- unit:start id="8-12.explanation" kind="explanation" -->
 
@@ -262,8 +262,8 @@ Esta enorme amplitud en el permiso indica la amplitud del propio lugar: un espac
 
 <!-- terminology:start source_id="quran-2-35" -->
 
-- **`raghadan`** — un disfrute amplio y placentero, sin estrechez ni racionamiento.
-- **`ihbitu` (descended)** — bajar de un lugar alto a uno más bajo; aquí, el descenso de la Jannah a la tierra.
+- **`raghadan`** — comer de forma placentera y abundante, sin estrechez ni racionamiento.
+- **`ihbitu` («descended»)** — bajar de un lugar alto a uno más bajo; aquí, el descenso de la Jannah a la tierra.
 - **«el lugar de un látigo»** — un espacio muy pequeño, el que ocuparía un látigo si se colocara sobre la tierra.
 
 <!-- terminology:end -->
@@ -274,7 +274,7 @@ Esta enorme amplitud en el permiso indica la amplitud del propio lugar: un espac
 
 ### Preguntas de Comprensión y Reflexión
 
-1. ¿Qué le permitió Allah a Adán, la paz sea con él, en la Jannah, y qué le prohibió solo a él?
+1. ¿Qué le permitió Allah a Adán, la paz sea con él, en la Jannah, y qué fue lo único que le prohibió?
 2. ¿Por qué no fue la estrechez del lugar la causa de que Adán, la paz sea con él, fuera sacado de la Jannah?
 3. ¿Qué nos enseña el hadiz del «lugar de un látigo» sobre la diferencia entre amplitud de lugar y amplitud de valor?
 4. ¿Prefieres algo grande en la dunya sobre algo pequeño en la Jannah? ¿Por qué no debería ser así?
@@ -287,7 +287,7 @@ Esta enorme amplitud en el permiso indica la amplitud del propio lugar: un espac
 
 <!-- activity:start audience="8-12" concept_id="lesson.004.activity.small-place-outweighs-world" -->
 
-Dibuja una balanza de dos platillos. En el primer platillo, escribe lo más grande que deseas en la dunya (un juguete caro, un viaje, un dispositivo electrónico). En el segundo platillo, escribe: «un lugar de un látigo en la Jannah». Debajo del dibujo escribe tres líneas explicando por qué se inclina el platillo de la Jannah, citando el hadiz. Luego elige una situación en tu escuela o en tu casa en la que antepones una comodidad o un deseo mundano pequeño a un deber religioso, y escribe cómo podrías cambiar tu decisión la próxima vez.
+Dibuja una balanza de dos platillos. En el primer platillo, escribe lo más grande que deseas en la dunya (un juguete caro, un viaje, un dispositivo electrónico). En el segundo platillo, escribe: «un lugar de un látigo en la Jannah». Debajo del dibujo escribe tres líneas explicando por qué se inclina el platillo de la Jannah, citando el hadiz. Luego elige una situación en tu escuela o en tu casa en la que sueles anteponer una comodidad o un deseo mundano pequeño a un deber religioso, y escribe cómo podrías cambiar tu decisión la próxima vez.
 
 <!-- activity:end -->
 
@@ -310,15 +310,15 @@ Dibuja una balanza de dos platillos. En el primer platillo, escribe lo más gran
 
 <!-- reader:end -->
 
-<!-- reader:start audience="13+" estimated_minutes="6.5" -->
+<!-- reader:start audience="13+" estimated_minutes="5.5" -->
 
 <!-- unit:start id="13+.explanation" kind="explanation" -->
 
 ## Para Adolescentes 13+
 
-Mucho de lo que sentimos como estrechez hoy —un espacio limitado para el éxito, comparaciones sin fin, opciones que parecen escasas— se enfrenta a una descripción coránica de otra morada: `'arduha as-samawatu wal-ard`. El primero que vivió esta amplitud real fue Adán, la paz sea con él, a quien se le concedió un lugar amplio que le permitía casi todo salvo un único límite. La misma historia recuerda que la amplitud no exime de cumplir ese límite, y que un pequeño desliz basta para sacar al ser humano de la dicha más amplia.
+Mucho de lo que sentimos como estrechez en esta etapa de la vida —un espacio limitado para el éxito, comparaciones sin fin, opciones que parecen escasas— se enfrenta a una descripción coránica de otra morada: `'arduha as-samawatu wal-ard`. El primero que vivió esta amplitud real fue Adán, la paz sea con él, a quien se le concedió, desde el primer instante de su existencia, un lugar amplio que le permitía casi todo salvo un único límite. La misma historia recuerda que la amplitud no exime de cumplir ese límite, y que un pequeño desliz basta para sacar al ser humano de la dicha más amplia.
 
-Luego viene el hadiz «un lugar de un látigo en la Jannah es mejor que la dunya y todo lo que hay en ella» a enfrentar la tentación de esta época: medir el éxito por lo que se ve y compararse con los demás, mientras que el fragmento más pequeño e invisible de la otra vida supera todo lo que se disputa en la dunya.
+Luego viene el hadiz «un lugar de un látigo en la Jannah es mejor que la dunya y todo lo que hay en ella» a enfrentar la tentación de esta época: medir el éxito por lo que se ve y compararse con los demás, mientras que el fragmento más pequeño e invisible de la otra vida supera todo el disfrute de la dunya por el que se compite.
 
 <!-- unit:end -->
 
@@ -421,7 +421,7 @@ Escribe una lista de tres cosas por las que sientes que la gente a tu alrededor 
 **Actividad — 15 minutos:** los estudiantes realizan la actividad de la balanza del lugar pequeño sobre algo que desean en la dunya, y escriben un párrafo de justificación; quien lo desee comparte su ejemplo con el grupo.
 
 <!-- lesson-plan:assessment -->
-**Evaluación y cierre — 10 minutos:** tarjeta de salida: «Menciona el único límite fijado a Adán, la paz sea con él, en medio de la amplitud de la Jannah, explica el sentido de «lugar de un látigo», y escribe una situación en la que reconsiderarás tu decisión.» El maestro cierra leyendo el du'a, aclarando que es de su redacción educativa.
+**Evaluación y cierre — 10 minutos:** tarjeta de salida: «Menciona el único límite fijado a Adán, la paz sea con él, en medio de la amplitud de la Jannah, explica el sentido de “lugar de un látigo” y escribe una situación en la que reconsiderarás tu decisión.» El maestro cierra leyendo el du'a, aclarando que es de su redacción educativa.
 
 <!-- lesson-plan:differentiation -->
 **Atención a las diferencias:** al principiante se le entrega un resumen escrito de la historia de Adán, la paz sea con él, antes del debate, y al avanzado se le encarga discutir la diferencia entre la opinión de la mayoría de Ahl as-Sunnah y quienes la contradijeron sobre la identidad de la Jannah de Adán.
@@ -439,7 +439,7 @@ Escribe una lista de tres cosas por las que sientes que la gente a tu alrededor 
 **Resultados de aprendizaje:** que el niño mencione que Adán, la paz sea con él, fue el primero que vivió en la Jannah, comprenda con una frase sencilla que un pedacito pequeño de la Jannah es mejor que todos sus juguetes, y participe en la actividad de la balanza.
 
 <!-- lesson-plan:materials -->
-**Materiales:** un gancho o balanza sencilla; imágenes impresas de juguetes; una tarjeta pequeña que diga «un pedacito de la Jannah»; tarjeta del du'a con letra clara.
+**Materiales:** una percha o una balanza sencilla; imágenes impresas de juguetes; una tarjeta pequeña que diga «un pedacito de la Jannah»; tarjeta del du'a con letra clara.
 
 <!-- lesson-plan:preparation -->
 **Preparación:** el maestro prepara la balanza sencilla y las imágenes, y practica narrar la historia de Adán, la paz sea con él, con frases cortas y claras sin detalles que asusten sobre Shaytán.
@@ -545,10 +545,10 @@ Escribe una lista de tres cosas por las que sientes que la gente a tu alrededor 
 
 [^1]: El Sagrado Corán, sura al-Baqarah, aleya 35: [Texto coránico](https://quran.com/2/35).
 [^2]: El Sagrado Corán, sura al-A'raf, aleya 19: [Texto coránico](https://quran.com/7/19).
-[^3]: Abu al-Fida Isma'il Ibn Kathir, *Tafsir al-Qur'an al-'Azim*, comentario de la sura al-Baqarah, aleya 35, sobre que la Jannah en la que fue establecido Adán, la paz sea con él, es la Jannah eterna según la opinión de la mayoría: [El Corán electrónico de la Universidad Rey Saud](https://quran.ksu.edu.sa/tafseer/katheer/sura2-aya35.html).
+[^3]: Abu al-Fida Isma'il Ibn Kathir, *Tafsir al-Qur'an al-'Azim*, comentario de la sura al-Baqarah, aleya 35, donde expone la discrepancia sobre si la Jannah en la que fue establecido Adán, la paz sea con él, estaba en el cielo o en la tierra, y que la mayoría sostiene que estaba en el cielo: [El Corán electrónico de la Universidad Rey Saud](https://quran.ksu.edu.sa/tafseer/katheer/sura2-aya35.html).
 [^4]: El Sagrado Corán, sura al-Baqarah, aleya 36: [Texto coránico](https://quran.com/2/36).
 [^5]: El Sagrado Corán, sura Aal 'Imran, aleya 133: [Texto coránico](https://quran.com/3/133).
 [^6]: El Sagrado Corán, sura al-Hadid, aleya 21: [Texto coránico](https://quran.com/57/21).
-[^7]: Hadiz de origen acordado (al-Bujari y Muslim) narrado por Sahl ibn Sa'd, que Allah esté complacido con él, con el enunciado «un lugar de un látigo en la Jannah es mejor que la dunya y todo lo que hay en ella», tal como lo recogió Abu Nu'aym al-Isbahani en *Sifat al-Jannah*, en el capítulo sobre la preferencia de un espacio de un látigo de la Jannah sobre la dunya y todo lo que hay en ella: [Shamela - texto del relato dentro de Sifat al-Jannah de Abu Nu'aym](https://shamela.ws/book/21602/61); y como lo citó 'Umar Sulayman al-Ashqar en *al-Jannah wa-n-Nar*, tomándolo de *Mishkat al-Masabih* (3/85, núm. 5613): [Shamela - texto del análisis dentro de al-Jannah wa-n-Nar de al-Ashqar](https://shamela.ws/book/12714/203).
+[^7]: Sahih al-Bujari, Libro del Comienzo de la Creación, capítulo sobre la descripción de la Jannah y que ya está creada, núm. 3250, y Libro de los Ablandamientos del Corazón, núm. 6415, narrado por Sahl ibn Sa'd as-Sa'idi, que Allah esté complacido con él, con el enunciado «un lugar de un látigo en la Jannah es mejor que la dunya y todo lo que hay en ella» (y de forma semejante, núm. 2892); sahih: [Sahih al-Bujari 3250](https://sunnah.com/bukhari:3250); el enunciado «Una salida al atardecer o al amanecer por la causa de Allah…» está en Sahih al-Bujari, Libro del Yihad, núm. 2796, narrado por Anas ibn Malik, que Allah esté complacido con él: [Sahih al-Bujari 2796](https://sunnah.com/bukhari:2796); Muslim (1880, 1881) narró de Anas y Sahl, que Allah esté complacido con ambos, solo la virtud de la salida al amanecer y al atardecer, sin mencionar el lugar del látigo. También lo recogió Abu Nu'aym al-Isbahani en *Sifat al-Jannah*, en el capítulo sobre la preferencia de un espacio de un látigo de la Jannah sobre la dunya y todo lo que hay en ella: [Shamela - Sifat al-Jannah de Abu Nu'aym](https://shamela.ws/book/21602/61); y lo citó 'Umar Sulayman al-Ashqar en *al-Jannah wa-n-Nar*, tomándolo de *Mishkat al-Masabih* (3/85, núm. 5613): [Shamela - al-Jannah wa-n-Nar de al-Ashqar](https://shamela.ws/book/12714/203).
 
 <!-- references:end -->

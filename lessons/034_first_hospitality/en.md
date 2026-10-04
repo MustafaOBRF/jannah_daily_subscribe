@@ -97,7 +97,7 @@ An-Nawawi, may Allah have mercy on him, explains that *nuzul* is "what is prepar
 
 #### Lesson Explanation
 
-The Prophet, peace and blessings be upon him, laughed because the rabbi's words matched what he himself had said. We affirm what is stated in the hadith, including the attribute of the Hand for Allah, exalted is He, in the way that befits His majesty, for `There is nothing whatsoever like Him`; we do so without asking how and without likening Him to anything, and we add nothing to the text in describing the unseen.
+The Prophet, peace and blessings be upon him, laughed because the Jewish man's words matched what he himself had said. We affirm what is stated in the hadith, including the attribute of the Hand for Allah, exalted is He, in the way that befits His majesty, for `There is nothing whatsoever like Him`; we do so without asking how and without likening Him to anything, and we add nothing to the text in describing the unseen.
 
 <!-- evidence:end -->
 

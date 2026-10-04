@@ -259,7 +259,7 @@ On the last day of vacation, a lot of us feel something strange: we're still hav
 
 <!-- story:start audience="8-12" role="primary" type="hadith" source_id="bukhari-4730" authenticated="true" -->
 
-**This is a true account narrated by Abu Sa'id al-Khudri, may Allah be pleased with him, from the Prophet, peace and blessings be upon him, in Sahih al-Bukhari. It is not a made-up story.**
+**This is a true account narrated by Abu Sa'id al-Khudri, may Allah be pleased with him, from the Prophet, peace and blessings be upon him, in both Sahih al-Bukhari and Sahih Muslim. It is not a made-up story.**
 
 After the people of Jannah have gone to Jannah and the people of the Fire to the Fire, something happens that has never happened before.
 
@@ -572,7 +572,7 @@ Meaning: O Allah, admit us into Jannah in complete security, give us joy upon jo
 [^3]: The Noble Qur'an, Surat al-Hijr, ayat 45-48: [quran.com/15/45-48](https://quran.com/15/45-48). The English rendering in this lesson is a meaning-based project translation.
 [^4]: Ibn Kathir, *Tafsir al-Qur'an al-'Azim*, tafsir of Surah Maryam, ayah 39: [quran.ksu.edu.sa/tafseer/katheer/sura19-aya39.html](https://quran.ksu.edu.sa/tafseer/katheer/sura19-aya39.html).
 [^5]: As-Sa'di, *Taysir al-Karim ar-Rahman*, tafsir of Surat al-Hijr, ayat 46 and 48: [quran.ksu.edu.sa/tafseer/saadi/sura15-aya46.html](https://quran.ksu.edu.sa/tafseer/saadi/sura15-aya46.html) and [quran.ksu.edu.sa/tafseer/saadi/sura15-aya48.html](https://quran.ksu.edu.sa/tafseer/saadi/sura15-aya48.html).
-[^6]: Ibn Qayyim al-Jawziyyah, *Hadi al-Arwah ila Bilad al-Afrah*, Chapter Sixty-Nine, Section on the Slaughter of Death between Jannah and the Fire ('Ata'at al-'Ilm edition, pp. 813-815), with the editor's note on the meaning of *yashra'ibbun*: [shamela.ws/book/13652/865](https://shamela.ws/book/13652/865). On the meaning of *amlah* (having both white and black), see an-Nawawi, *al-Minhaj Sharh Sahih Muslim*, commentary on hadith 2849.
+[^6]: Ibn Qayyim al-Jawziyyah, *Hadi al-Arwah ila Bilad al-Afrah*, Chapter Sixty-Nine, Section on the Slaughter of Death between Jannah and the Fire ('Ata'at al-'Ilm edition, pp. 813-816), with the editor's note on the meaning of *yashra'ibbun*: [shamela.ws/book/13652/865](https://shamela.ws/book/13652/865). On the meaning of *amlah* (having both white and black), see an-Nawawi, *al-Minhaj Sharh Sahih Muslim*, commentary on hadith 2849.
 [^7]: As-Sa'di, *Taysir al-Karim ar-Rahman*, tafsir of Surah Maryam, ayat 39-40: [quran.ksu.edu.sa/tafseer/saadi/sura19-aya39.html](https://quran.ksu.edu.sa/tafseer/saadi/sura19-aya39.html).
 [^8]: The Noble Qur'an, Surah Maryam, ayat 39-40: [quran.com/19/39-40](https://quran.com/19/39-40). The English rendering in this lesson is a meaning-based project translation.
 

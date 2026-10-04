@@ -30,7 +30,7 @@ bedtime_dua_id: "lesson.030.dua.tayyib-hearts-greeted-with-salam"
 
 ## القسم الأكاديمي للبالغين
 
-<!-- reader:start audience="adults" estimated_minutes="6.5" -->
+<!-- reader:start audience="adults" estimated_minutes="7.0" -->
 
 <!-- unit:start id="adults.explanation" kind="explanation" -->
 
@@ -162,7 +162,7 @@ bedtime_dua_id: "lesson.030.dua.tayyib-hearts-greeted-with-salam"
 
 ## للأطفال من ٤ إلى ٧ سنوات
 
-<!-- reader:start audience="4-7" estimated_minutes="5.0" -->
+<!-- reader:start audience="4-7" estimated_minutes="4.5" -->
 
 <!-- unit:start id="4-7.explanation" kind="explanation" -->
 
@@ -247,7 +247,7 @@ bedtime_dua_id: "lesson.030.dua.tayyib-hearts-greeted-with-salam"
 
 ## للأطفال من ٨ إلى ١٢ سنة
 
-<!-- reader:start audience="8-12" estimated_minutes="6.0" -->
+<!-- reader:start audience="8-12" estimated_minutes="5.0" -->
 
 <!-- unit:start id="8-12.explanation" kind="explanation" -->
 
@@ -337,7 +337,7 @@ bedtime_dua_id: "lesson.030.dua.tayyib-hearts-greeted-with-salam"
 
 ## للمراهقين ١٣+
 
-<!-- reader:start audience="13+" estimated_minutes="6.5" -->
+<!-- reader:start audience="13+" estimated_minutes="5.0" -->
 
 <!-- unit:start id="13+.explanation" kind="explanation" -->
 

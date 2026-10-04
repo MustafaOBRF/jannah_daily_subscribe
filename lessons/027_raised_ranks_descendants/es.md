@@ -197,7 +197,7 @@ Umar no fue indiferente al futuro de sus hijos; simplemente lo definió de otra 
 
 #### Interpretación académica
 
-Dijo Ibn Kazir que Ibrahim encomendó a sus hijos "esta forma de vida, que es el islam, la entrega a Allah", y que `no muráis sino siendo musulmanes` significa: "Obrad bien mientras viváis y aferraos a esto, para que Allah os conceda morir en ello". Y sobre la última aleya dijo que los profetas y los rectos que os precedieron "no os servirá de nada descender de ellos" si no obráis como ellos obraron.[^7]
+Dijo Ibn Kazir que Ibrahim encomendó a sus hijos "esta forma de vida, que es el islam, la entrega a Allah", y que `no muráis sino siendo musulmanes` significa: "Obrad bien mientras viváis y aferraos a esto, para que Allah os conceda morir en ello". Y sobre la última aleya dijo que los profetas y los rectos que os precedieron "no os servirá de nada descender de ellos si no hacéis un bien cuyo provecho revierta en vosotros".[^7]
 
 #### Explicación de la lección
 
@@ -515,7 +515,7 @@ Umar no fue duro: sus lágrimas muestran cuánto los quería. Pero se negó a co
 
 Ya'qub (Jacob), la paz sea con él, era profeta, hijo de profeta y nieto de profeta; si el linaje bastara, habría podido estar tranquilo respecto a sus hijos. Y, aun así, el Corán retrata la escena en que le llegó la muerte: preguntó a sus hijos: {¿Qué adoraréis después de mí?}. Y ellos respondieron: {Adoraremos a tu Dios y al Dios de tus padres, Ibrahim, Ismail e Ishaq, un Dios único, y a Él nos sometemos}.
 
-Fíjate en que dijeron: "tu Dios y el Dios de tus padres", y luego añadieron: "y a Él nos sometemos". No se conformaron con mencionar la fe de sus padres: declararon la suya propia. Después Allah comenta: {Esa es una comunidad que ya pasó: para ella lo que adquirió y para vosotros lo que adquiráis}. Ibn Kazir dijo que descender de los profetas y de los rectos no sirve de nada a quien no obra como ellos obraron.[^7]
+Fíjate en que dijeron: "tu Dios y el Dios de tus padres", y luego añadieron: "y a Él nos sometemos". No se conformaron con mencionar la fe de sus padres: declararon la suya propia. Después Allah comenta: {Esa es una comunidad que ya pasó: para ella lo que adquirió y para vosotros lo que adquiráis}. Ibn Kazir dijo que descender de los profetas y de los rectos no sirve de nada a quien no hace un bien cuyo provecho revierta en él.[^7]
 
 Esa es exactamente la condición de la aleya de At-Tur: una descendencia que siguió a sus padres "en la fe", no solo en el apellido.
 

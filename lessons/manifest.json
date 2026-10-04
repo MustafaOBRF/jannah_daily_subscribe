@@ -807,7 +807,7 @@
         "en": "The Last Person to Enter Jannah",
         "ur": "جنت میں سب سے آخر میں داخل ہونے والا شخص",
         "fr": "Le Dernier à Entrer en Jannah",
-        "es": "La última persona en entrar al Jannah"
+        "es": "La última persona en entrar en el Paraíso"
       },
       "hooks": {
         "ar": "بعد هذا الدرس، يكون المتعلم قادرًا على:",
@@ -914,8 +914,8 @@
         "ar": "السَّابِقُونَ وَأَوَّلُ الدَّاخِلِينَ إِلَى الْجَنَّةِ",
         "en": "The Foremost and the First to Enter Jannah",
         "ur": "سبقت لے جانے والے اور جنّت میں سب سے پہلے داخل ہونے والے",
-        "fr": "Les Devanciers et les Premiers à Entrer au Jannah",
-        "es": "Los Adelantados y los Primeros en Entrar al Jannah"
+        "fr": "Les Devanciers et les Premiers à Entrer en Jannah",
+        "es": "Los adelantados y los primeros en entrar al Jannah"
       },
       "hooks": {
         "ar": "بعد هذا الدرس، يكون المتعلم قادرًا على:",
@@ -949,9 +949,9 @@
       "titles": {
         "ar": "غِراسُ الجَنَّةِ وَأَذْكَارُهَا",
         "en": "The Plantings of Paradise and Its Remembrances",
-        "ur": "جنّت کے پودے اور اس کے اذکار",
+        "ur": "جنّت کی شجرکاری اور اس کے اذکار",
         "fr": "Les plantations du Paradis et ses invocations",
-        "es": "Las Plantaciones del Jannah y Sus Recuerdos"
+        "es": "Las Plantaciones de la Jannah y Sus Dhikr"
       },
       "hooks": {
         "ar": "بعد هذا الدرس، يكون المتعلم قادرًا على:",
@@ -987,13 +987,13 @@
         "en": "The Deeds That Build Houses in Paradise",
         "ur": "وہ اعمال جن سے جنّت میں گھر بنتے ہیں",
         "fr": "Les œuvres qui construisent des maisons au Paradis",
-        "es": "Las Obras Que Edifican Casas en el Jannah"
+        "es": "Las Obras Que Edifican Casas en la Jannah"
       },
       "hooks": {
         "ar": "بعد هذا الدرس، يكون المتعلم قادرًا على:",
         "en": "After this lesson, the learner will be able to:",
         "ur": "اس سبق کے بعد متعلم اس قابل ہو گا کہ:",
-        "fr": "Après cette leçon, l'apprenant sera capable de :",
+        "fr": "Au terme de cette leçon, l'apprenant sera capable de :",
         "es": "Al terminar esta lección, el estudiante será capaz de:"
       },
       "status": {
@@ -1210,7 +1210,7 @@
         "en": "After this lesson, the learner will be able to:",
         "ur": "اس سبق کے بعد سیکھنے والا اس قابل ہو گا کہ:",
         "fr": "Après cette leçon, l'apprenant sera capable de :",
-        "es": "Después de esta lección, el aprendiz será capaz de:"
+        "es": "Después de esta lección, el estudiante será capaz de:"
       },
       "status": {
         "ar": "arabic_draft",
@@ -1246,7 +1246,7 @@
         "en": "After this lesson, the learner will be able to:",
         "ur": "اس درس کے بعد سیکھنے والا اس قابل ہو گا کہ:",
         "fr": "Après cette leçon, l'apprenant sera capable de :",
-        "es": "Después de esta lección, el aprendiz será capaz de:"
+        "es": "Después de esta lección, el estudiante será capaz de:"
       },
       "status": {
         "ar": "arabic_draft",

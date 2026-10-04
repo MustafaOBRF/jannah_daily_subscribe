@@ -22,7 +22,7 @@ bedtime_dua_id: "lesson.040.dua.fragrance-of-jannah-true-to-covenant"
 After this lesson, the learner will be able to:
 
 - Narrate the account of Anas ibn al-Nadr, may Allah be pleased with him (al-Bukhari 2805), in its proper sequence: his absence from Badr; then his pledge, "Allah will surely see what I do"; then his steadfastness on the day of Uhud and his words to Sa'd ibn Mu'adh, "Jannah, by the Lord of al-Nadr! I can smell its fragrance from beyond Uhud"; then his martyrdom, and the revelation of al-Ahzab 33:23 concerning him and those like him.
-- Explain that Jannah has a sweet fragrance that can be found from a distance of forty years' travel (al-Bukhari 3166), and that the same hadith forbids wronging anyone who holds a covenant and a guarantee of safety with the Muslims.
+- Explain that Jannah has a sweet fragrance that can be found from a distance of forty years' travel (al-Bukhari 3166), and that the same hadith forbids killing anyone who holds a covenant and a guarantee of safety with the Muslims.
 - Explain the gentle, temperate air of Jannah from the words of Allah, exalted is He, `where they will see neither sun nor bitter cold`, using the tafsir of Ibn Kathir and al-Sa'di: no oppressive heat and no painful cold.
 - Distinguish, with Ibn al-Qayyim, between a fragrance of Jannah that souls perceive in this world and a fragrance perceived by the sense of smell, without claiming certainty about the details of what Anas, may Allah be pleased with him, experienced.
 - Carry out the activity "Next Time, Allah Will See What I Do": naming a missed opportunity for good, pinpointing when it will come around again, keeping the pledge when it does, and then recording what happened.
@@ -56,7 +56,7 @@ This lesson pauses at three meanings: the fragrance of Jannah, what deprives a s
 
 #### Scholarly Explanation
 
-Ibn al-Qayyim, may Allah have mercy on him, said: "The fragrance of Jannah is of two kinds: a fragrance found in this world, which souls sometimes catch and which words cannot capture; and a fragrance perceived by the body's sense of smell, just as the scents of flowers are smelled." This second kind, he explains, is perceived by the people of Jannah in the Hereafter, from near and far, and may be perceived in this world by whomever Allah wills. He then said: "What Anas ibn al-Nadr found may belong to this second kind, and it may belong to the first."[^7] And in a commentary on *Riyad al-Salihin*: "It is possible that he truly breathed in the fragrance of Jannah, and it is possible that he called Jannah so vividly to mind that he pictured it right there in that place."[^8]
+Ibn al-Qayyim, may Allah have mercy on him, said: "The fragrance of Jannah is of two kinds: a fragrance found in this world, which souls sometimes catch and which words cannot capture; and a fragrance perceived by the body's sense of smell, just as the scents of flowers and the like are smelled." This second kind, he explains, is perceived by the people of Jannah in the Hereafter, from near and far, and may be perceived in this world by whomever Allah wills of His prophets and messengers. He then said: "What Anas ibn al-Nadr found may belong to this second kind, and it may belong to the first."[^7] And in a commentary on *Riyad al-Salihin*: "It is possible that he truly breathed in the fragrance of Jannah, and it is possible that he called Jannah so vividly to mind that he pictured it right there in that place."[^8]
 
 #### Lesson Explanation
 
@@ -100,7 +100,7 @@ The ayah is not reserved for martyrs, because it includes `some are still waitin
 
 #### Lesson Explanation
 
-The hadith brings together a piece of news and a ruling. The news: the fragrance of Jannah can be sensed from a distance a traveler would need forty years to cover. The ruling: wronging someone to whom the Muslims have granted safety, even someone of another faith, can deprive the wrongdoer of that fragrance. Justice toward all people is part of the road to Jannah.
+The hadith brings together a piece of news and a ruling. The news: the fragrance of Jannah can be sensed from a distance a traveler would need forty years to cover. The ruling: killing someone to whom the Muslims have granted safety, even someone of another faith, can deprive the killer of that fragrance. Justice toward all people is part of the road to Jannah.
 
 <!-- evidence:end -->
 

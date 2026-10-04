@@ -59,7 +59,7 @@ La pregunta práctica que deja la lección es esta: si las injusticias entre cre
 
 #### Interpretación académica
 
-Los compañeros del árbol son quienes juraron fidelidad al Profeta, la paz y las bendiciones de Allah sean con él, bajo el árbol el día de al-Hudaibiya: es el Juramento de la Complacencia (Bay'at ar-Ridwan). An-Nawawi explicó que el sentido es que ninguno de ellos entrará en el Fuego, con certeza, y que dijo "si Allah quiere" para buscar la bendición, no por duda. Añadió que el hadiz es prueba de que se puede debatir, objetar y responder cuando se busca la guía, y que eso era lo que pretendía Hafsa, no rebatir las palabras del Profeta, la paz y las bendiciones de Allah sean con él. Y estableció que lo correcto sobre el sentido de al-wurud es que se trata del paso sobre el Sirat, un puente tendido sobre Yahannam: su gente cae en ella, y los demás se salvan.[^7]
+Los compañeros del árbol son quienes juraron fidelidad al Profeta, la paz y las bendiciones de Allah sean con él, bajo el árbol el día de al-Hudaibiya: es el Juramento de la Complacencia (Bay'at ar-Ridwan). An-Nawawi transmitió de los sabios que el sentido es que ninguno de ellos entrará en el Fuego, con certeza, y que dijo "si Allah quiere" para buscar la bendición, no por duda. Añadió que el hadiz es prueba de que se puede debatir, objetar y responder cuando se busca la guía, y que eso era lo que pretendía Hafsa, no rebatir las palabras del Profeta, la paz y las bendiciones de Allah sean con él. Y estableció que lo correcto sobre el sentido de al-wurud es que se trata del paso sobre el Sirat, un puente tendido sobre Yahannam: su gente cae en ella, y los demás se salvan.[^7]
 
 #### Explicación de la lección
 

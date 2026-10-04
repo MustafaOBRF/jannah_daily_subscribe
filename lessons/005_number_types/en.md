@@ -22,8 +22,8 @@ bedtime_dua_id: "lesson.005.dua.raise-our-ranks-firdaws"
 After this lesson, the learner will be able to:
 
 - State that Jannah is not one uniform dwelling but multiple, varying gardens, citing ar-Rahman 55:46 and 55:62 ("and for whoever fears standing before his Lord are two gardens," "and besides these two are two other gardens").
-- Describe the hadith "two gardens of gold... and two gardens of silver," showing it proves the gardens differ in their very substance, not merely in name.
-- Narrate the hadith of Musa, peace be upon him, asking his Lord about the lowest-ranked and highest-ranked people of Jannah, and explain that the lowest is given a kingdom equal to ten times the world's and the highest is given an honor Allah planted with His own hand and sealed, unseen by any eye, unheard by any ear, and unconceived by any human heart.
+- Describe the hadith "two gardens of silver... and two gardens of gold," showing that it proves the gardens differ in their very substance and contents, not merely in name.
+- Narrate the hadith of Musa, peace be upon him, asking his Lord about the lowest-ranked and highest-ranked people of Jannah, and explain that the lowest is given the like of the kingdom of one of the world's kings five times over, then ten times that, and the highest is given an honor Allah planted with His own hand and sealed, unseen by any eye, unheard by any ear, and unconceived by any human heart.
 - Conclude that this difference in rank is Allah's justice, not arbitrary favoritism, and that the lowest person in Jannah is completely content with what he is given, with no place for grief or comparison in the abode of bliss.
 - Connect the vastness of Allah's mercy to the extent of one's striving: every small righteous deed today may raise a rank tomorrow, without declaring any specific person's fate.
 - Apply this through the "Rank Ladder and Garden Map" activity, linking one righteous deed to an imagined rise on the ladder, in an age-appropriate form.
@@ -31,19 +31,19 @@ After this lesson, the learner will be able to:
 
 ## Academic Section for Adults
 
-<!-- reader:start audience="adults" estimated_minutes="6.5" -->
+<!-- reader:start audience="adults" estimated_minutes="7.0" -->
 
 <!-- unit:start id="adults.explanation" kind="explanation" -->
 
-Jannah, in detail, is not one homogeneous dwelling but **multiple gardens, varying in rank**, whose people settle according to the faith and deeds they brought forward. This variation is no shortfall in Allah's mercy but a consequence of His justice: just as people vary in sincerity and effort, their ranks vary in the Hereafter — while even the lowest rank remains beyond comparison to the greatest kingdom on earth.
+Jannah, in detail, is not one homogeneous dwelling but **multiple gardens, varying in rank**, whose people settle according to the faith and deeds they brought forward. This variation is no shortfall in Allah's mercy but a consequence of His justice and wisdom: just as people differed in this world in sincerity, effort, and excellence, their ranks differ in the Hereafter — while even the lowest rank in Jannah remains a bliss beyond comparison with the greatest kingdom on earth.
 
-The texts reveal three dimensions of this:
+The texts reveal three complementary dimensions of this:
 
-1. **Number and type:** those who feared standing before their Lord have two gardens, and besides these two are two other gardens; an authentic hadith adds that some gardens are of gold and some of silver — variation in substance, not merely name.
-2. **The vastness of the gap between ranks:** Musa's dialogue with his Lord, peace be upon him, shows the gap is immense: the lowest is satisfied with ten times a worldly king's kingdom, while the highest is given an honor no eye has seen, no ear has heard, and no heart has conceived.
-3. **Justice within the variation:** the lowest person feels no resentment; he is completely content, because his bliss exceeds all imagination. The variation is elevation upon elevation, never deprivation.
+1. **Number and type:** the Qur'an tells us that those who fear Allah have two gardens, and below them in rank are two other gardens; an authentic hadith adds that some gardens are of gold and some of silver — so the variation lies in the very substance of the bliss, not merely in its name.
+2. **The vastness of the gap between ranks:** the hadith of Musa, peace be upon him, and his Lord shows that the gap between the lowest and the highest in Jannah is immense: the first is satisfied with the like of a worldly king's kingdom multiplied five times, then ten times that, while the other is given an honor no eye has seen, no ear has heard, and no human heart has ever imagined.
+3. **Justice within the variation:** the lowest person feels no resentment; he is completely content, because his bliss exceeds all imagination. The variation is elevation upon elevation, not one person deprived so that another may be given.
 
-This calls the believer to two things: contentment with whatever Allah gives, and earnest striving for higher ranks, without despair or complacency.
+This variation calls the believer to two things at once: complete contentment with whatever Allah gives, even if by people's measure it is the "lowest," and earnest striving in hope of the highest ranks, without despairing of Allah's mercy and without a complacency that abandons good deeds.
 
 <!-- unit:end -->
 
@@ -61,7 +61,7 @@ This calls the believer to two things: contentment with whatever Allah gives, an
 
 > **"And for whoever feared standing before his Lord are two gardens."** (ar-Rahman 55:46)[^1]
 
-Between this ayah and the next, the refrain {فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ} ("So which of the favors of your Lord will you both deny?") repeats sixteen times, then Allah says:
+Between this ayah and the next, the refrain {فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ} ("So which of the favors of your Lord will you both deny?") repeats eight times, then Allah says:
 
 > **وَمِنْ دُونِهِمَا جَنَّتَانِ.** [الرحمن: ٦٢][^1]
 
@@ -71,11 +71,11 @@ Between this ayah and the next, the refrain {فَبِأَيِّ آلَاءِ ر�
 
 #### Scholarly Tafsir
 
-Ibn al-Qayyim said the first two gardens belong to those who feared and were mindful of Allah, and the other two belong to the People of the Right; "besides these two" may mean lower in place or in rank. He favored the first pair as superior, citing subtle wording differences in the surah itself, such as springs described as `tajriyan` ("flowing") versus `naddakhatan` ("gushing forth").[^2]
+Ibn al-Qayyim stated that the first two gardens belong to those who fear Allah and are mindful of Him (the ones brought near, al-muqarrabun), and the other two belong to the People of the Right. He reported two views on "besides these two": that the second pair is above the first, or below it in rank. He favored the first pair as superior, citing differences in how the surah itself describes the two pairs: the first are "with spreading branches" (`dhawata afnan`), that is, of many kinds; their two springs are "flowing" (`tajriyan`), while those of the second pair are "gushing forth" (`naddakhatan`); the first contain "of every fruit, two kinds," while the second contain "fruit, and date palms, and pomegranates"; along with other subtle differences of wording on which the levels of bliss are built.[^2]
 
 #### Lesson Explanation
 
-These ayat teach that "Jannah" in the Qur'an does not mean a single dwelling, but a category of multiple, varying gardens, and the cause of variation is stated explicitly: "whoever feared standing before his Lord" — mindfulness and fear of Allah is the cause of elevation.
+The first lesson of these two ayat is that the word "Jannah" in the Qur'an does not mean a single dwelling but a whole category of multiple, varying gardens, and that the cause of the variation is stated explicitly: "whoever feared standing before his Lord." Fear of Allah and mindfulness of Him are the cause of elevation.
 
 <!-- evidence:end -->
 
@@ -83,19 +83,19 @@ These ayat teach that "Jannah" in the Qur'an does not mean a single dwelling, bu
 
 ### Two Gardens of Gold and Two Gardens of Silver
 
-> عَنْ أَبِي مُوسَى الْأَشْعَرِيِّ رضي الله عنه، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ: **«جَنَّتَانِ مِنْ ذَهَبٍ آنِيَتُهُمَا وَمَا فِيهِمَا، وَجَنَّتَانِ مِنْ فِضَّةٍ آنِيَتُهُمَا وَمَا فِيهِمَا، وَمَا بَيْنَ الْقَوْمِ وَبَيْنَ أَنْ يَنْظُرُوا إِلَى رَبِّهِمْ إِلَّا رِدَاءُ الْكِبْرِيَاءِ عَلَى وَجْهِهِ فِي جَنَّةِ عَدْنٍ».**[^3]
+> عَنْ أَبِي مُوسَى الْأَشْعَرِيِّ رضي الله عنه، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ: **«جَنَّتَانِ مِنْ فِضَّةٍ آنِيَتُهُمَا وَمَا فِيهِمَا، وَجَنَّتَانِ مِنْ ذَهَبٍ آنِيَتُهُمَا وَمَا فِيهِمَا، وَمَا بَيْنَ الْقَوْمِ وَبَيْنَ أَنْ يَنْظُرُوا إِلَى رَبِّهِمْ إِلَّا رِدَاءُ الْكِبْرِ عَلَى وَجْهِهِ فِي جَنَّةِ عَدْنٍ».**[^3]
 
 <!-- evidence:translation -->
 
-> On the authority of Abu Musa al-Ash'ari, may Allah be pleased with him, from the Prophet, peace and blessings be upon him, who said: **"Two gardens of gold, their vessels and all that is in them; and two gardens of silver, their vessels and all that is in them; and nothing stands between the people and gazing at their Lord except the cloak of Majesty upon His Face, in Jannat 'Adn."**[^3]
+> On the authority of Abu Musa al-Ash'ari, may Allah be pleased with him, from the Prophet, peace and blessings be upon him, who said: **"Two gardens of silver, their vessels and all that is in them; and two gardens of gold, their vessels and all that is in them; and nothing stands between the people and gazing at their Lord except the cloak of Majesty upon His Face, in Jannat 'Adn."**[^3]
 
 #### Scholarly Explanation
 
-This agreed-upon hadith clearly establishes the gardens' multiplicity and varied substance: gold vessels in some, silver in others. It closes by naming the highest bliss in Jannat 'Adn: gazing upon Allah's Face, veiled only by His cloak of Majesty, unveiled for them as an honor.
+This hadith is agreed upon as authentic and is among the clearest texts establishing that the gardens are many and differ in substance: in some, the vessels and ornaments are of gold; in others, of silver. It closes by naming the highest bliss in Jannat 'Adn: the believers seeing their Lord, Mighty and Majestic, with nothing veiling them from Him except the cloak of Majesty, which He, Glorified is He, removes for them as an honor.
 
 #### Lesson Explanation
 
-This hadith links number (two and two), type (gold and silver), and the ultimate bliss (gazing upon Allah's noble Face). The multiplicity of gardens is not mere formal repetition but a gradation of bliss reaching its peak in the vision of Allah, Glorified is He.
+This hadith links number (two and two), type (gold and silver), and the ultimate bliss (gazing upon Allah's noble Face). The multiplicity of gardens is not mere repetition but a gradation of bliss that reaches its peak in seeing Allah, Glorified is He.
 
 <!-- evidence:end -->
 
@@ -103,19 +103,19 @@ This hadith links number (two and two), type (gold and silver), and the ultimate
 
 ### Musa's Question About the Lowest and Highest People of Jannah
 
-> عَنِ الْمُغِيرَةِ بْنِ شُعْبَةَ رضي الله عنه، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ: **«قَالَ مُوسَى: رَبِّ، أَخْبِرْنِي بِأَدْنَى أَهْلِ الْجَنَّةِ مَنْزِلَةً؟ قَالَ: هُوَ رَجُلٌ يَجِيءُ بَعْدَ مَا أُدْخِلَ أَهْلُ الْجَنَّةِ الْجَنَّةَ، فَيُقَالُ لَهُ: ادْخُلِ الْجَنَّةَ. فَيَقُولُ: أَيْ رَبِّ، كَيْفَ وَقَدْ نَزَلَ النَّاسُ مَنَازِلَهُمْ، وَأَخَذُوا أَخَذَاتِهِمْ؟ فَيُقَالُ لَهُ: أَتَرْضَى أَنْ يَكُونَ لَكَ مِثْلُ مُلْكِ مَلِكٍ مِنْ مُلُوكِ الدُّنْيَا؟ فَيَقُولُ: رَضِيتُ رَبِّ. فَيَقُولُ: لَكَ ذَلِكَ، وَمِثْلُهُ، وَمِثْلُهُ، وَمِثْلُهُ، وَمِثْلُهُ. فَقَالَ فِي الْخَامِسَةِ: رَضِيتُ رَبِّ. فَيَقُولُ: هَذَا لَكَ وَعَشَرَةُ أَمْثَالِهِ، وَلَكَ مَا اشْتَهَتْ نَفْسُكَ، وَلَذَّتْ عَيْنُكَ. فَيَقُولُ: رَضِيتُ رَبِّ. قَالَ: رَبِّ، فَأَعْلَاهُمْ مَنْزِلَةً؟ قَالَ: أُولَئِكَ الَّذِينَ أَرَدْتُ، غَرَسْتُ كَرَامَتَهُمْ بِيَدِي، وَخَتَمْتُ عَلَيْهَا، فَلَمْ تَرَ عَيْنٌ، وَلَمْ تَسْمَعْ أُذُنٌ، وَلَمْ يَخْطُرْ عَلَى قَلْبِ بَشَرٍ». وَمِصْدَاقُهُ فِي كِتَابِ اللهِ: {فَلَا تَعْلَمُ نَفْسٌ مَا أُخْفِيَ لَهُمْ مِنْ قُرَّةِ أَعْيُنٍ}.**[^4]
+> عَنِ الْمُغِيرَةِ بْنِ شُعْبَةَ رضي الله عنه، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ: **«سَأَلَ مُوسَى رَبَّهُ: مَا أَدْنَى أَهْلِ الْجَنَّةِ مَنْزِلَةً؟ قَالَ: هُوَ رَجُلٌ يَجِيءُ بَعْدَ مَا أُدْخِلَ أَهْلُ الْجَنَّةِ الْجَنَّةَ، فَيُقَالُ لَهُ: ادْخُلِ الْجَنَّةَ. فَيَقُولُ: أَيْ رَبِّ، كَيْفَ وَقَدْ نَزَلَ النَّاسُ مَنَازِلَهُمْ، وَأَخَذُوا أَخَذَاتِهِمْ؟ فَيُقَالُ لَهُ: أَتَرْضَى أَنْ يَكُونَ لَكَ مِثْلُ مُلْكِ مَلِكٍ مِنْ مُلُوكِ الدُّنْيَا؟ فَيَقُولُ: رَضِيتُ رَبِّ. فَيَقُولُ: لَكَ ذَلِكَ، وَمِثْلُهُ، وَمِثْلُهُ، وَمِثْلُهُ، وَمِثْلُهُ. فَقَالَ فِي الْخَامِسَةِ: رَضِيتُ رَبِّ. فَيَقُولُ: هَذَا لَكَ وَعَشَرَةُ أَمْثَالِهِ، وَلَكَ مَا اشْتَهَتْ نَفْسُكَ، وَلَذَّتْ عَيْنُكَ. فَيَقُولُ: رَضِيتُ رَبِّ. قَالَ: رَبِّ، فَأَعْلَاهُمْ مَنْزِلَةً؟ قَالَ: أُولَئِكَ الَّذِينَ أَرَدْتُ، غَرَسْتُ كَرَامَتَهُمْ بِيَدِي، وَخَتَمْتُ عَلَيْهَا، فَلَمْ تَرَ عَيْنٌ، وَلَمْ تَسْمَعْ أُذُنٌ، وَلَمْ يَخْطُرْ عَلَى قَلْبِ بَشَرٍ». قَالَ: وَمِصْدَاقُهُ فِي كِتَابِ اللهِ: {فَلَا تَعْلَمُ نَفْسٌ مَا أُخْفِيَ لَهُمْ مِنْ قُرَّةِ أَعْيُنٍ}.**[^4]
 
 <!-- evidence:translation -->
 
-> On the authority of al-Mughirah ibn Shu'bah, may Allah be pleased with him, from the Prophet, peace and blessings be upon him, who said: **"Musa said: 'My Lord, tell me of the lowest-ranked person of Jannah.' Allah said: 'He is a man who comes after the people of Jannah have already entered it, and it is said to him: Enter Jannah. He says: My Lord, how, when the people have already settled into their dwellings and taken their portions? It is said to him: Would you be pleased to have the like of the kingdom of one of the kings of this world? He says: I am satisfied, my Lord. Allah says: That is yours, and its like, and its like, and its like, and its like. He said the fifth time: I am satisfied, my Lord. Allah says: This is yours, and ten times its like, and yours is whatever your soul desires and your eye delights in. He says: I am satisfied, my Lord.' Musa said: 'My Lord, and the highest-ranked among them?' Allah said: 'Those are the ones I willed; I planted their honor with My own Hand and sealed it, so that no eye has seen, no ear has heard, and it has never crossed the heart of any human.'"** Its confirmation is in the Book of Allah: {"No soul knows what is kept hidden for them of delight for the eyes."}[^4]
+> On the authority of al-Mughirah ibn Shu'bah, may Allah be pleased with him, from the Prophet, peace and blessings be upon him, who said: **"Musa asked his Lord: 'Who is the lowest-ranked of the people of Jannah?' Allah said: 'He is a man who comes after the people of Jannah have already entered it, and it is said to him: Enter Jannah. He says: My Lord, how, when the people have already settled into their dwellings and taken their portions? It is said to him: Would you be pleased to have the like of the kingdom of one of the kings of this world? He says: I am satisfied, my Lord. Allah says: That is yours, and its like, and its like, and its like, and its like. He said the fifth time: I am satisfied, my Lord. Allah says: This is yours, and ten times its like, and yours is whatever your soul desires and your eye delights in. He says: I am satisfied, my Lord.' Musa said: 'My Lord, and the highest-ranked among them?' Allah said: 'Those are the ones I willed; I planted their honor with My own Hand and sealed it, so that no eye has seen, no ear has heard, and it has never crossed the heart of any human.'"** He said: Its confirmation is in the Book of Allah: {"No soul knows what is kept hidden for them of delight for the eyes."}[^4]
 
 #### Scholarly Explanation
 
-This authentic hadith gives the two extremes of Jannah's ranks. The last man to enter is embarrassed that everyone has already settled, so he is offered a worldly king's kingdom, then five doublings, then ten times that plus all his soul desires. The highest-ranked are given an honor Allah planted and sealed with His own Hand, beyond any eye, ear, or heart, confirmed by Surah as-Sajdah 32:17.[^5]
+This hadith is in Sahih Muslim. In it, Musa, peace be upon him, asks his Lord about the two extremes of rank in Jannah: the lowest and the highest. Allah tells him that the last man to enter Jannah wonders how he can enter when everyone has already settled into their dwellings. He is offered the like of the kingdom of one of the kings of this world and is satisfied; then it is multiplied for him five times; then, at the fifth, he is given ten times as much, along with everything his soul desires and his eye delights in. As for the highest-ranked, Allah tells him that they are people of a special honor that He, Glorified is He, planted with His own Hand and sealed — that is, safeguarded and preserved — so that no eye has seen it, no ear has heard of it, and nothing like it has ever crossed a human heart. The end of the hadith states that this is confirmed by the ayah of Surah as-Sajdah: {"No soul knows what is kept hidden for them of delight for the eyes, as a reward for what they used to do."}[^5]
 
 #### Lesson Explanation
 
-This hadith is a precise scale of Jannah's ranks: the lowest exceeds any worldly kingdom tenfold with full contentment, the highest is honor beyond words. Whoever is content and obeys loses nothing; whoever strives further hopes for more, without declaring anyone's rank.
+This hadith is a precise scale for the differences between the ranks of Jannah: the lowest is a bliss that surpasses the kingdoms of this world's kings many times over, with complete contentment and no regret; the highest is an honor no description can reach. Whoever is content with what Allah has apportioned him and strives to obey Him loses nothing, and whoever strives even harder hopes for the highest — without declaring any particular rank for himself or for anyone else.
 
 <!-- evidence:end -->
 
@@ -126,10 +126,10 @@ This hadith is a precise scale of Jannah's ranks: the lowest exceeds any worldly
 ## Questions for Understanding and Reflection
 
 1. What evidence from Surah ar-Rahman shows Jannah is multiple gardens, not a single dwelling?
-2. What does "two gardens of gold... two gardens of silver" add beyond the ayat of ar-Rahman?
+2. What does "two gardens of silver... two gardens of gold" add beyond the ayat of ar-Rahman?
 3. How did Musa's hadith describe the lowest-ranked person's state, and why did he feel no grief?
-4. What distinguishes the highest-ranked, and why can it not be fully described?
-5. How does the believer balance contentment with striving for higher ranks, without despair or complacency?
+4. According to the hadith, what distinguishes the highest-ranked people of Jannah, and why can it not be fully described?
+5. How does the believer balance contentment with what Allah has apportioned and striving for the highest ranks, without despair or complacency?
 
 <!-- unit:end -->
 
@@ -139,7 +139,7 @@ This hadith is a precise scale of Jannah's ranks: the lowest exceeds any worldly
 
 <!-- activity:start audience="adults" concept_id="lesson.005.activity.rank-ladder-and-garden-map" -->
 
-Draw a ladder of seven rungs, labeling the bottom "lowest rank, fully content" and the top "an honor beyond description." Choose five righteous deeds you actually practice (prayer on time, secret charity, family ties, patience, honesty), writing each beside a rung with one line on how it raises intention, not a guaranteed rank. Beside the ladder, add two circles for "gold garden" and "silver garden," each with one quality from the evidence. Review weekly, adding a deed that spurs elevation without comparing yourself to others.
+Draw a ladder of seven rungs, labeling the bottom "lowest rank, fully content" and the top "an honor beyond description." Then choose five righteous deeds you actually practice (such as praying on time, giving charity in secret, keeping family ties, patience under mistreatment, and truthfulness in speech), and write each beside a rung, with one line explaining how this deed raises the intention of the one who does it — not as a guarantee of any particular rank. Beside the ladder, add two circles labeled "a garden of gold" and "a garden of silver," and inside each write one quality of bliss mentioned in the evidence. Review the ladder weekly, adding a new deed that spurs you upward, without comparing yourself to others.
 
 <!-- activity:end -->
 
@@ -149,7 +149,7 @@ Draw a ladder of seven rungs, labeling the bottom "lowest rank, fully content" a
 
 ## For Children Ages 4 to 7
 
-<!-- reader:start audience="4-7" estimated_minutes="4.5" -->
+<!-- reader:start audience="4-7" estimated_minutes="4.0" -->
 
 <!-- unit:start id="4-7.explanation" kind="explanation" -->
 
@@ -165,9 +165,9 @@ Jannah is not just one house — it has many beautiful houses, some more beautif
 
 <!-- retelling:start source_id="muslim-189b" audience="4-7" -->
 
-Musa, peace be upon him, asked his Lord: "My Lord, who is the very last person to enter Jannah, and what will he have?" Allah told him this man comes after everyone else has already entered their homes, and it is said to him: "Enter Jannah!" He is surprised: "How can I enter when everyone has already taken their places?" Allah says to him: "Would you be pleased to have the like of the kingdom of the greatest king in the world?" He says: "I am satisfied, my Lord!" So Allah gives him that, then its like, then its like, until the fifth time He gives him ten times that along with everything his heart loves.[^4]
+Musa, peace be upon him, asked his Lord: "My Lord, who has the lowest place in Jannah?" Allah told him it is a man who comes after everyone else has already gone into their homes, and he is told: "Enter Jannah!" He is surprised: "How can I go in when everyone has already taken their places?" Allah says to him: "Wouldn't you be pleased to have a kingdom like the kingdom of one of the kings of this world?" He says: "I am satisfied, my Lord!" So Allah gives him that, then another one like it, then another one like it, until the fifth time, when He gives him ten times as much, along with everything his heart loves.[^4]
 
-Then Musa, peace be upon him, asked his Lord about the highest-ranked people. Allah told him they are given a special honor by His own Hand, never seen by any eye, never heard by any ear, and never imagined by anyone's heart.[^4]
+Then Musa, peace be upon him, asked his Lord about the people with the highest place. Allah told him they are people He gave a special honor with His own Hand, never seen by any eye, never heard by any ear, and never imagined by anyone's heart.[^4]
 
 We learn from this hadith that even the smallest place in Jannah is a tremendous bliss that fully satisfies its owner, and whoever does much good hopes for a higher, more beautiful place with Allah.
 
@@ -182,7 +182,7 @@ We learn from this hadith that even the smallest place in Jannah is a tremendous
 ### Short Questions
 
 1. Was the man who entered Jannah last angry? Why or why not?
-2. How many times did Allah give him the like of the world's kingdom?
+2. How many times did Allah give him a kingdom like a king's kingdom in this world?
 3. What good deed would you love to do so Allah raises your rank in Jannah?
 
 <!-- unit:end -->
@@ -219,11 +219,11 @@ Draw a ladder with just three rungs. Stick one yellow star on the bottom rung, t
 
 ## For Children Ages 8 to 12
 
-<!-- reader:start audience="8-12" estimated_minutes="5.5" -->
+<!-- reader:start audience="8-12" estimated_minutes="5.0" -->
 
 <!-- unit:start id="8-12.explanation" kind="explanation" -->
 
-Jannah is not one single rank shared equally by everyone in it; it is multiple gardens, varying in bliss, according to the faith and good deeds each person brought forward. The Qur'an tells us those who feared Allah have two gardens, and besides these two are two other gardens, and an authentic hadith tells us some of these gardens are of gold and some of silver.
+Jannah is not one single rank shared equally by everyone in it; it is multiple gardens, varying in bliss, according to the faith and good deeds each person brought forward. The Qur'an tells us that those who fear Allah have two gardens, and below them in rank are two other gardens, and an authentic hadith tells us that some of these gardens are of gold and some of silver.
 
 Yet despite this variation, no one in Jannah feels wronged or grieved, because even the lowest rank there is a bliss beyond all imagination. The variation is mercy and elevation, not deprivation.
 
@@ -237,9 +237,9 @@ Yet despite this variation, no one in Jannah feels wronged or grieved, because e
 
 <!-- retelling:start source_id="muslim-189b" audience="8-12" -->
 
-Musa, peace be upon him, asked his Lord two important questions about the people of Jannah. First he asked: who is the lowest-ranked person of Jannah? Allah told him it is a man who comes after all the people of Jannah have already entered their dwellings, and it is said to him: "Enter Jannah." He is surprised and says: "My Lord, how, when the people have already settled into their places and taken their share?" Allah asks him: "Would you be pleased to have the like of the kingdom of the greatest king of this world?" He says: "I am satisfied, my Lord." So Allah gives him that, then doubles it for him again and again until it reaches five times, and the fifth time the man says: "I am satisfied, my Lord!" Allah says: "This is yours, and ten times its like, and yours is whatever your soul desires and your eye delights in."[^4]
+Musa, peace be upon him, asked his Lord two important questions about the people of Jannah. First he asked: who is the lowest-ranked person of Jannah? Allah told him it is a man who comes after all the people of Jannah have already entered their dwellings, and it is said to him: "Enter Jannah." He is surprised and says: "My Lord, how, when the people have already settled into their places and taken their share?" Allah asks him: "Would you be pleased to have the like of the kingdom of one of the kings of this world?" He says: "I am satisfied, my Lord." So Allah gives him that, then doubles it for him again and again until it reaches five times, and the fifth time the man says: "I am satisfied, my Lord!" Allah says: "This is yours, and ten times its like, and yours is whatever your soul desires and your eye delights in."[^4]
 
-Then Musa, peace be upon him, asked his second question: "And who is the highest-ranked?" Allah told him they are a people given a special honor, planted by His own Hand and sealed and safeguarded, so that no eye has ever seen it, no ear has ever heard it, and it has never crossed any human heart.[^4]
+Then Musa, peace be upon him, asked his second question: "And who is the highest-ranked?" Allah told him they are people He singled out for a special honor, which He planted with His own Hand and sealed to safeguard it, so that no eye has ever seen it, no ear has ever heard it, and it has never crossed any human heart.[^4]
 
 This hadith teaches us that the gap between the lowest and highest rank in Jannah is enormous, yet no one in Jannah feels envy or resentment, because everyone there is completely content with what Allah has given them.
 
@@ -265,7 +265,7 @@ This hadith teaches us that the gap between the lowest and highest rank in Janna
 ### Understanding and Application Questions
 
 1. Why was the man surprised when he was told: "Enter Jannah"?
-2. How many times did Allah give him the like of the kings' kingdom, and what did he finally receive?
+2. How many times did Allah give him the like of a worldly king's kingdom, and what did he receive in the end?
 3. Why could no eye see the honor of the highest-ranked people of Jannah before they entered it?
 4. How does this hadith show that the variation in Jannah is justice, not injustice?
 
@@ -309,11 +309,11 @@ Before you sleep, recall one righteous deed you did today and hope that Allah ra
 
 <!-- unit:start id="13+.explanation" kind="explanation" -->
 
-Some of us imagine Jannah as one single, equal place entered equally by every believer. But the revealed texts correct this picture: Jannah is multiple gardens, varying in type and rank, according to how people vary in faith and deeds. The Qur'an tells us those who feared Allah have two gardens, and besides these two are two other gardens, and an authentic hadith explains that some of these gardens are of gold and some of silver.
+Some of us imagine Jannah as one single, equal place entered equally by every believer. But the revealed texts correct this picture: Jannah is multiple gardens, varying in type and rank, according to how people vary in faith and deeds. The Qur'an tells us that those who fear Allah have two gardens, and below them in rank are two other gardens, and an authentic hadith explains that some of these gardens are of gold and some of silver.
 
-The clearest illustration of this variation is the hadith of Musa, peace be upon him, asking his Lord about the two ends of the chain: the lowest-ranked and the highest-ranked people of Jannah. The first, after hesitating and being surprised, is given a kingdom equal to ten times the greatest kings of this world, plus everything his soul desires; the second is given a safeguarded honor no human description has ever captured.
+The clearest illustration of this variation is the hadith of Musa, peace be upon him, asking his Lord about the two ends of the chain: the lowest-ranked and the highest-ranked people of Jannah. The first, after hesitating and being surprised, is given the like of the kingdom of one of the world's kings multiplied five times, then ten times that, plus everything his soul desires; the second is given a safeguarded honor no human description has ever captured.
 
-This enormous variation might raise a question: isn't there injustice toward the one who receives the lowest rank? The answer is that the man himself in the hadith repeatedly says, "I am satisfied, my Lord" — no grief, no sense of being wronged, because his bliss exceeds everything he had ever imagined. The variation here is elevation upon elevation, never deprivation set against anyone's gift.
+This enormous variation might raise a question: isn't there injustice toward the one who receives the lowest rank? The answer is that the man himself in the hadith repeatedly says, "I am satisfied, my Lord" — no grief, no sense of being wronged, because his bliss exceeds everything he had ever imagined. The variation here is elevation upon elevation, not one person deprived so that another may be given.
 
 <!-- unit:end -->
 
@@ -329,7 +329,7 @@ Al-Mughirah ibn Shu'bah, may Allah be pleased with him, reported that the Prophe
 
 Then Musa, peace be upon him, asked the second question: "My Lord, and the highest-ranked among them?" Allah answered: "Those are the ones I willed; I planted their honor with My own Hand and sealed it, so that no eye has seen, no ear has heard, and it has never crossed the heart of any human." The Prophet, peace and blessings be upon him, mentioned that its confirmation is in the Qur'an, where Allah says: {"No soul knows what is kept hidden for them of delight for the eyes."}[^4]
 
-This hadith gathers both ends of the chain of bliss: the lowest rank leaves its owner doubly satisfied despite his initial hesitation, and the highest rank is beyond the reach of any description. This does not mean striving is pointless; the hadith itself distinguishes a "lowest" from a "highest," showing that deeds and sincerity are the cause of the difference between the two ranks, even though the lower of them is a bliss beyond anything comparable in this world.
+This hadith gathers both ends of the chain of bliss: the lowest rank leaves its owner satisfied many times over despite his initial hesitation, and the highest rank is beyond the reach of any description. This does not mean striving is pointless; the hadith itself distinguishes a "lowest" from a "highest," showing that deeds and sincerity are the cause of the difference between the two ranks, even though the lower of them is a bliss beyond anything comparable in this world.
 
 <!-- retelling:end -->
 
@@ -414,7 +414,7 @@ After the du'a, recall one righteous deed you intend to continue tomorrow, witho
 **Studying the Evidence — 18 minutes:** Three groups study the three pieces of evidence: the first extracts what the ayat of ar-Rahman indicate about number and variation, the second extracts from the hadith of the two gardens the types of bliss and its ultimate purpose, and the third summarizes the hadith of Musa, peace be upon him, and identifies the two extremes of variation within it.
 
 <!-- lesson-plan:instruction -->
-**Guided Instruction — 12 minutes:** The teacher builds a chain on the board: "multiple gardens — varying ranks — contentment at the lowest rank — indescribable honor at the highest." He clarifies that this variation is mercy and justice, driving effort rather than despair.
+**Guided Instruction — 12 minutes:** The teacher builds a chain on the board: "multiple gardens — varying ranks — contentment at the lowest rank — indescribable honor at the highest." The teacher then clarifies that this variation is mercy and justice, and that it drives effort rather than despair.
 
 <!-- lesson-plan:activity -->
 **Activity — 15 minutes:** Learners individually complete the Rank Ladder and Garden Map activity, then each pair exchanges one observation about how realistic their chosen deeds are, without comparing one another's faith.
@@ -423,7 +423,7 @@ After the du'a, recall one righteous deed you intend to continue tomorrow, witho
 **Assessment and Closing — 10 minutes:** Exit card: "State the difference between the lowest-ranked and highest-ranked people of Jannah in three lines, then write one deed you intend to sustain." The teacher closes by reciting the ayah {"No soul knows what is kept hidden for them of delight for the eyes."}
 
 <!-- lesson-plan:differentiation -->
-**Differentiation:** Give a beginner a ready-made list of deeds to choose from, and assign an advanced learner to compare scholarly views on the meaning of "besides these two" in Ibn al-Qayyim's tafsir. Allow an oral plan instead of a written one for those who need it.
+**Differentiation:** Give a beginner a ready-made list of deeds to choose from, and assign an advanced learner to compare scholarly views on the meaning of "besides these two" in Ibn al-Qayyim's Hadi al-Arwah. Allow an oral plan instead of a written one for those who need it.
 
 <!-- lesson-plan:safeguards -->
 **Teaching Cautions:** Do not declare any specific person's rank in Jannah, do not present deeds as a guarantee independent of Allah's mercy and grace, and do not let one learner be compared to another based on the extent of their striving. Clarify that contentment with one's portion does not mean abandoning effort.
@@ -447,7 +447,7 @@ After the du'a, recall one righteous deed you intend to continue tomorrow, witho
 **Opening — 4 minutes:** Ask: "Do you think all the houses in Jannah look the same?" Listen to the children's answers, then say today's lesson is about a question Prophet Musa, peace be upon him, asked.
 
 <!-- lesson-plan:evidence -->
-**Reading the Evidence — 6 minutes:** The teacher narrates the hadith simply, pausing after Musa's first question to ask the children: do you think the man was angry? Then completes the answer.
+**Reading the Evidence — 6 minutes:** The teacher narrates the hadith simply, pausing after Musa's first question to ask the children, "Do you think the man was angry?", then finishes the story.
 
 <!-- lesson-plan:instruction -->
 **Guided Instruction — 5 minutes:** The teacher points to the ladder drawing and says the first rung's bliss is very great even though it is the lowest, the higher rungs are even more beautiful, and Allah loves whoever does good in hope of being raised.
@@ -471,7 +471,7 @@ After the du'a, recall one righteous deed you intend to continue tomorrow, witho
 ### Children Ages 8-12 — 45 Minutes
 
 <!-- lesson-plan:outcomes -->
-**Learning Outcomes:** The student summarizes Musa's two questions, peace be upon him, and their answers, explains the meaning of both terms, concludes that the variation in Jannah is mercy not injustice, and designs applicable "Deed and Elevation" cards.
+**Learning Outcomes:** The student summarizes the two questions Musa, peace be upon him, asked and the answers he received, explains the meaning of both terms, concludes that the variation in Jannah is mercy not injustice, and designs applicable "Deed and Elevation" cards.
 
 <!-- lesson-plan:materials -->
 **Materials:** A simplified text of Muslim 189; term cards; rank-ladder templates; pens; optional tracking stickers.
@@ -492,7 +492,7 @@ After the du'a, recall one righteous deed you intend to continue tomorrow, witho
 **Activity — 14 minutes:** Students design "Deed and Elevation" cards on a five-rung ladder, and each pair exchanges one general observation about how clear their chosen deeds are, while each student retains the right to keep their personal choice private.
 
 <!-- lesson-plan:assessment -->
-**Assessment and Closing — 8 minutes:** Each student writes two sentences: "I learned from the hadith of Musa, peace be upon him..." and "The deed I intend to sustain is..." The teacher checks for correct understanding of the hadith, then reads the du'a.
+**Assessment and Closing — 8 minutes:** Each student writes two sentences: "I learned from the hadith of Musa, peace be upon him..." and "The deed I intend to sustain is..." The teacher checks that the hadith has been understood correctly, then reads the du'a.
 
 <!-- lesson-plan:differentiation -->
 **Differentiation:** Provide illustrated cards and sentence starters for struggling students, and ask advanced students to explain why Allah chose not to describe the honor of the highest-ranked people directly.
@@ -510,7 +510,7 @@ After the du'a, recall one righteous deed you intend to continue tomorrow, witho
 **Learning Outcomes:** The student analyzes what the hadith of Musa, peace be upon him, indicates about the justice of variation in Jannah's ranks, connects this to the ayat of ar-Rahman and the hadith of the two gardens, critiques the idea that vast variation means injustice, and builds a weekly plan combining contentment and striving.
 
 <!-- lesson-plan:materials -->
-**Materials:** The full file of the three pieces of evidence; the weekly rank-ladder template; short scenarios about comparing oneself to others; exit slips.
+**Materials:** A handout with the full text of all three pieces of evidence; the weekly rank-ladder template; short scenarios about comparing oneself to others; exit slips.
 
 <!-- lesson-plan:preparation -->
 **Preparation:** The teacher reviews Ibn al-Qayyim's statements on the superiority of the first two gardens, drafts general scenarios that point to no specific student, and prepares an alternative for anyone unwilling to share their personal plan.
@@ -531,7 +531,7 @@ After the du'a, recall one righteous deed you intend to continue tomorrow, witho
 **Assessment and Closing — 10 minutes:** Students analyze a scenario of someone who constantly compares themselves to those who do more and falls into despair: what is wrong with this comparison, and what does the hadith correct? They then write an exit card summarizing the lesson and one application.
 
 <!-- lesson-plan:differentiation -->
-**Differentiation:** Give a struggling student a partially completed template, and assign an advanced student to compare the meaning of "I am satisfied, my Lord" in this hadith with contentment in other previously studied ayat.
+**Differentiation:** Give a struggling student a partially completed template, and assign an advanced student to compare the meaning of "I am satisfied, my Lord" in the hadith of Musa, peace be upon him, with the meaning of contentment in other ayat studied previously.
 
 <!-- lesson-plan:safeguards -->
 **Teaching Cautions:** Do not use the plans to compare students' religiosity or embarrass anyone, and do not declare anyone's rank in Jannah with certainty. If severe despair of Allah's mercy or anxious obsession about one's fate appears, pause the debate and direct the student to trusted support per the approved safeguarding pathway.
@@ -543,8 +543,8 @@ After the du'a, recall one righteous deed you intend to continue tomorrow, witho
 ## References
 
 [^1]: The Noble Qur'an, Surah ar-Rahman, ayat 46 and 62: [Qur'anic text](https://quran.com/55/46), [ayah 62](https://quran.com/55/62).
-[^2]: Ibn Qayyim al-Jawziyyah, *Hadi al-Arwah ila Bilad al-Afrah*, chapter twenty-two on the number of the gardens, and that they are two types: two gardens of gold and two gardens of silver: [al-Maktaba ash-Shamila](https://shamela.ws/book/13652/236).
-[^3]: Sahih al-Bukhari, Book of the Beginning of Creation, hadith 4878, and Sahih Muslim, hadith 180, narrated by Abu Musa al-Ash'ari, may Allah be pleased with him, agreed upon: [Sunnah.com, hadith 4878](https://sunnah.com/bukhari:4878).
+[^2]: Ibn Qayyim al-Jawziyyah, *Hadi al-Arwah ila Bilad al-Afrah*, chapter twenty-two on the number of the gardens, and that they are two types: two gardens of gold and two gardens of silver: [al-Maktaba ash-Shamila](https://shamela.ws/book/13652/259).
+[^3]: Sahih al-Bukhari, Book of Qur'an Commentary (Surah ar-Rahman), hadith 4878, and Sahih Muslim, hadith 180, narrated by Abu Musa al-Ash'ari, may Allah be pleased with him, agreed upon: [Sunnah.com, hadith 4878](https://sunnah.com/bukhari:4878).
 [^4]: Sahih Muslim, Book of Faith, hadith 189, narrated by al-Mughirah ibn Shu'bah, may Allah be pleased with him, marfu': [Sunnah.com, hadith 189](https://sunnah.com/muslim:189).
 [^5]: The Noble Qur'an, Surah as-Sajdah, ayah 17: [Qur'anic text](https://quran.com/32/17).
 

@@ -30,7 +30,7 @@ bedtime_dua_id: "lesson.041.dua.pleasant-dwellings-without-noise-or-toil"
 
 ## القسم الأكاديمي للبالغين
 
-<!-- reader:start audience="adults" estimated_minutes="6.5" -->
+<!-- reader:start audience="adults" estimated_minutes="7.0" -->
 
 <!-- unit:start id="adults.explanation" kind="explanation" -->
 
@@ -141,7 +141,7 @@ bedtime_dua_id: "lesson.041.dua.pleasant-dwellings-without-noise-or-toil"
 
 ## للأطفال من ٤ إلى ٧ سنوات
 
-<!-- reader:start audience="4-7" estimated_minutes="5.0" -->
+<!-- reader:start audience="4-7" estimated_minutes="4.5" -->
 
 <!-- unit:start id="4-7.explanation" kind="explanation" -->
 
@@ -229,7 +229,7 @@ bedtime_dua_id: "lesson.041.dua.pleasant-dwellings-without-noise-or-toil"
 
 ## للأطفال من ٨ إلى ١٢ سنة
 
-<!-- reader:start audience="8-12" estimated_minutes="6.0" -->
+<!-- reader:start audience="8-12" estimated_minutes="5.0" -->
 
 <!-- unit:start id="8-12.explanation" kind="explanation" -->
 
@@ -323,11 +323,11 @@ bedtime_dua_id: "lesson.041.dua.pleasant-dwellings-without-noise-or-toil"
 
 ## للمراهقين ١٣+
 
-<!-- reader:start audience="13+" estimated_minutes="6.5" -->
+<!-- reader:start audience="13+" estimated_minutes="5.0" -->
 
 <!-- unit:start id="13+.explanation" kind="explanation" -->
 
-نعيش في زمن صار فيه الدخول إلى خصوصيات الآخرين سهلًا: نظرة إلى شاشة صديق، أو لقطة شاشة لمحادثة خاصة تُرسل إلى مجموعة، أو فتح غرفة أخ دون طرق. وكثيرًا ما يُقال: "عادي، كلنا أصحاب". وفي المقابل نحب التكريم، وقد نتباهى إذا مُدحنا أمام الناس. وفي حديث صحيح عن قصور الجنة يجتمع الأمران: نبيّ يقف عند باب قصر لا يملكه، وصحابي يُبشَّر بقصر أمام الجميع فيبكي. وقبل القصة تذكّر: قصور الجنة حقيقية، وصفها النبي ﷺ بالذهب واللؤلؤ،[^3][^4] وسمّاها الله {مَسَاكِنَ طَيِّبَةً}، ثم قال: {وَرِضْوَانٌ مِنَ اللَّهِ أَكْبَرُ}.[^6]
+نعيش في زمن صار فيه الدخول إلى خصوصيات الآخرين سهلًا: نظرة إلى شاشة صديق، أو لقطة شاشة لمحادثة خاصة تُرسل إلى مجموعة، أو فتح غرفة أخ دون طرق. وكثيرًا ما يُقال: "عادي، كلنا أصحاب". وفي المقابل نحب التكريم، وقد نتباهى إذا مُدحنا أمام الناس. وفي حديث صحيح عن قصور الجنة يجتمع الأمران: نبيّ يقف عند باب قصر لا يملكه، وصحابي يُبشَّر بقصر أمام الجميع فيبكي. وقبل القصة تذكّر: قصور الجنة حقيقية، وصفها النبي ﷺ بالذهب واللؤلؤ،[^3][^4][^5] وسمّاها الله {مَسَاكِنَ طَيِّبَةً}، ثم قال: {وَرِضْوَانٌ مِنَ اللَّهِ أَكْبَرُ}.[^6]
 
 <!-- unit:end -->
 

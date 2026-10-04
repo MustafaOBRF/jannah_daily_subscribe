@@ -267,7 +267,7 @@ Le dernier jour des vacances, beaucoup d'entre nous ressentent quelque chose de 
 
 <!-- story:start audience="8-12" role="primary" type="hadith" source_id="bukhari-4730" authenticated="true" -->
 
-**Ceci est une nouvelle vraie, rapportée du Prophète, paix et bénédictions sur lui, par Abu Sa'id al-Khudri, qu'Allah soit satisfait de lui, dans le Sahih d'al-Bukhari. Ce n'est pas une histoire inventée.**
+**Ceci est une nouvelle vraie, rapportée du Prophète, paix et bénédictions sur lui, par Abu Sa'id al-Khudri, qu'Allah soit satisfait de lui, dans les deux Sahih. Ce n'est pas une histoire inventée.**
 
 Quand les gens de la Jannah auront rejoint la Jannah, et les gens du Feu le Feu, il se passera une chose comme il ne s'en est jamais produit.
 
@@ -580,7 +580,7 @@ Sens : « Ô Allah, fais-nous entrer dans la Jannah en pleine sécurité, acco
 [^3]: Le Noble Coran, sourate al-Hijr, versets 45 à 48 : [quran.com/15/45-48](https://quran.com/15/45-48). La traduction française proposée dans cette leçon est une traduction du sens propre au projet.
 [^4]: Ibn Kathir, *Tafsir al-Qur'an al-'Azim*, commentaire de la sourate Maryam, verset 39 : [quran.ksu.edu.sa/tafseer/katheer/sura19-aya39.html](https://quran.ksu.edu.sa/tafseer/katheer/sura19-aya39.html).
 [^5]: As-Sa'di, *Taysir al-Karim ar-Rahman*, commentaire de la sourate al-Hijr, versets 46 et 48 : [quran.ksu.edu.sa/tafseer/saadi/sura15-aya46.html](https://quran.ksu.edu.sa/tafseer/saadi/sura15-aya46.html) et [quran.ksu.edu.sa/tafseer/saadi/sura15-aya48.html](https://quran.ksu.edu.sa/tafseer/saadi/sura15-aya48.html).
-[^6]: Ibn Qayyim al-Jawziyyah, *Hadi al-Arwah ila Bilad al-Afrah*, chapitre soixante-neuf, section sur l'immolation de la mort entre la Jannah et le Feu (éd. 'Ata'at al-'Ilm, p. 813-815), avec la note de l'éditeur sur le sens de *yashra'ibbun* : [shamela.ws/book/13652/865](https://shamela.ws/book/13652/865) ; sur le sens d'*amlah* (ce qui mêle le blanc et le noir), voir : an-Nawawi, *al-Minhaj Sharh Sahih Muslim*, commentaire du hadith 2849.
+[^6]: Ibn Qayyim al-Jawziyyah, *Hadi al-Arwah ila Bilad al-Afrah*, chapitre soixante-neuf, section sur l'immolation de la mort entre la Jannah et le Feu (éd. 'Ata'at al-'Ilm, p. 813-816), avec la note de l'éditeur sur le sens de *yashra'ibbun* : [shamela.ws/book/13652/865](https://shamela.ws/book/13652/865) ; sur le sens d'*amlah* (ce qui mêle le blanc et le noir), voir : an-Nawawi, *al-Minhaj Sharh Sahih Muslim*, commentaire du hadith 2849.
 [^7]: As-Sa'di, *Taysir al-Karim ar-Rahman*, commentaire de la sourate Maryam, versets 39 et 40 : [quran.ksu.edu.sa/tafseer/saadi/sura19-aya39.html](https://quran.ksu.edu.sa/tafseer/saadi/sura19-aya39.html).
 [^8]: Le Noble Coran, sourate Maryam, versets 39 et 40 : [quran.com/19/39-40](https://quran.com/19/39-40). La traduction française proposée dans cette leçon est une traduction du sens propre au projet.
 

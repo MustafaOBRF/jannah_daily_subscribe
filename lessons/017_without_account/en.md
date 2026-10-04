@@ -27,7 +27,7 @@ title: "Who Enters Paradise Without Reckoning?"
 4. To take Ukkasha ibn Mihsan, may Allah be pleased with him, as a model of good expectation of Allah and swift eagerness for good.
 5. To practice real, everyday tawakkul instead of relying on luck, omens, or superstition.
 
-<!-- reader:start audience="adults" estimated_minutes="22" -->
+<!-- reader:start audience="adults" estimated_minutes="7.0" -->
 
 ## For Adults
 
@@ -35,9 +35,9 @@ title: "Who Enters Paradise Without Reckoning?"
 
 Among the greatest favors Allah has granted this Ummah is that within it are people who will enter Paradise "without reckoning" — that is, without being stopped for questioning about their deeds, and without any punishment touching them, purely as a grace and mercy from Allah. Allah mentions this in His Book in the context of the reward of the righteous believer, and numerous authentic hadith describe the number of these people and the qualities that earned them this immense favor. Their shared description, as it appears in the hadith, is that they do not ask others to perform ruqyah for them (istirqa'), do not seek cauterization (branding by fire) relying on it rather than on Allah, do not take bad omens (tatayyur) from what they see or hear, and place their trust in their Lord alone. What unites all of this is a heart free from attachment to anything besides Allah, and sincere reliance upon Him alone.
 
-Scholars have been careful to clarify that these hadith do not prohibit legislated ruqyah itself — it is authentically established that the Prophet ﷺ performed ruqyah and had ruqyah performed for him. What is blameworthy here is asking others for ruqyah in a way that becomes a constant, dependent request, with the heart clinging to it as though it were an independent cause, rather than using permissible means while the heart's reliance remains fixed on Allah. Al-Hafiz Ibn Hajar, in *Fath al-Bari* (11/408-409), explains when commenting on these hadith that abandoning the "asking" for ruqyah is to be understood as abandoning the *request* of it from people out of self-sufficiency in Allah and strength of certainty — not as abandoning the legislated ruqyah itself, which is a permitted form of supplication and treatment.
+Scholars have been careful to clarify that these hadith do not prohibit lawful ruqyah itself — it is authentically established that the Prophet ﷺ performed ruqyah and had ruqyah performed for him. What is blameworthy here is asking others for ruqyah in a way that becomes a constant, dependent request, with the heart clinging to it as though it were an independent cause, rather than using permissible means while the heart's reliance remains fixed on Allah. Al-Hafiz Ibn Hajar, in *Fath al-Bari* (11/408-409), explains when commenting on these hadith that abandoning the "asking" for ruqyah is to be understood as abandoning the *request* of it from people out of self-sufficiency in Allah and strength of certainty — not as abandoning lawful ruqyah itself, which is a permitted form of supplication and treatment.
 
-One of the most striking scenes in this chapter is the response of Ukkasha ibn Mihsan al-Asadi, may Allah be pleased with him. When the Prophet ﷺ informed his Companions that seventy thousand of this Ummah would enter Paradise without reckoning, Ukkasha stood immediately and said, "Supplicate to Allah that He make me one of them." The Prophet ﷺ replied at once, "You are one of them." Then another man stood and said the same thing, and the Prophet ﷺ said, "Ukkasha has preceded you to it" — so the opportunity had passed him by because he had hesitated. In this scene is a tremendous lesson in swiftness toward good and good expectation of Allah.
+One of the most striking scenes in this chapter is the response of Ukkasha ibn Mihsan al-Asadi, may Allah be pleased with him. When the Prophet ﷺ informed his Companions that seventy thousand of this Ummah would enter Paradise without reckoning, Ukkasha stood up at once and said, "Pray to Allah to make me one of them." The Prophet ﷺ replied at once, "You are one of them." Then another man stood and said the same thing, and the Prophet ﷺ said, "Ukkasha has preceded you to it" — so the opportunity had passed him by, perhaps because he had hesitated. In this scene is a tremendous lesson in swiftness toward good and good expectation of Allah.
 
 The Qur'an ties this same meaning to a magnificent account in Surah Ghafir: the story of the "believing man" from Pharaoh's own household, who had concealed his faith for a time, then declared it openly when he saw his people determined to kill Musa, peace be upon him. He stood to counsel his people, calling them to the path of right guidance, reminding them that this worldly life is a fleeting enjoyment while the Hereafter is the true, lasting home, and that whoever does righteousness while believing enters Paradise, "provided for therein without reckoning." He then sealed his address by entrusting his entire affair to Allah in complete tawakkul and submission, so Allah protected him from his people's schemes, while a terrible punishment overtook Pharaoh's household. This believing man united the glad tiding of "without reckoning" with the very secret of attaining it — the same tawakkul praised in the hadith.
 
@@ -53,11 +53,11 @@ The Qur'an ties this same meaning to a magnificent account in Surah Ghafir: the 
 
 <!-- evidence:translation -->
 
-> "And he who believed said, 'O my people, follow me; I will guide you to the way of right conduct. O my people, this worldly life is only [temporary] enjoyment, and indeed, the Hereafter — that is the home of [permanent] settlement. Whoever does an evil deed will not be recompensed except by the like thereof; but whoever does righteousness, whether male or female, while he is a believer — those will enter Paradise, being given provision therein without account.'"[^1]
+> "And he who believed said, 'O my people, follow me; I will guide you to the way of right conduct. O my people, this worldly life is only [temporary] enjoyment, and indeed, the Hereafter — that is the home of [permanent] settlement. Whoever does an evil deed will not be recompensed except by the like thereof; but whoever does righteousness, whether male or female, while he is a believer — those will enter Paradise, being given provision therein without reckoning.'"[^1]
 
 **Scholarly Interpretation:** Imam Ibn Kathir, may Allah have mercy on him, explains that this believing man from Pharaoh's household began describing to his people the worthlessness of this world beside the Hereafter, urging them toward righteous deeds joined with faith, and that the reward for this with Allah is entry into Paradise with provision that cannot be counted, measured, or reckoned — a mark of Allah's immense favor, whereby He multiplies the good deed beyond count, unlike the evil deed, which is repaid only with its exact like, as an act of Allah's justice.[^2]
 
-**Explanation And Connection To The Lesson:** This ayah contains a beautiful contrast: the evil deed is measured and counted, repaid only with its equal, while the righteous deed joined with faith is rewarded with Paradise "without account" — that is, it is not measured or counted at all, but given a vast, limitless gift far beyond any reckoning. This is the very foundation upon which this entire lesson is built.
+**Explanation And Connection To The Lesson:** This ayah contains a beautiful contrast: the evil deed is measured and counted, repaid only with its equal, while the righteous deed joined with faith is rewarded with Paradise "without reckoning" — that is, it is not measured or counted at all, but given a vast, limitless gift far beyond any reckoning. This is the very foundation upon which this entire lesson is built.
 
 <!-- evidence:end -->
 
@@ -83,15 +83,15 @@ The Qur'an ties this same meaning to a magnificent account in Surah Ghafir: the 
 
 <!-- evidence:start id="muslim-218a" kind="hadith" mode="canonical" -->
 
-عَنْ عِمْرَانَ بْنِ حُصَيْنٍ رَضِيَ اللهُ عَنْهُمَا، قَالَ: قَالَ رَسُولُ اللهِ ﷺ: "يَدْخُلُ الْجَنَّةَ مِنْ أُمَّتِي سَبْعُونَ أَلْفًا بِغَيْرِ حِسَابٍ"، قَالُوا: مَنْ هُمْ يَا رَسُولَ اللهِ؟ قَالَ: "هُمُ الَّذِينَ لَا يَكْتَوُونَ وَلَا يَسْتَرْقُونَ، وَعَلَى رَبِّهِمْ يَتَوَكَّلُونَ"، فَقَامَ عُكَّاشَةُ بْنُ مِحْصَنٍ فَقَالَ: ادْعُ اللهَ أَنْ يَجْعَلَنِي مِنْهُمْ. قَالَ: "أَنْتَ مِنْهُمْ"، ثُمَّ قَامَ رَجُلٌ آخَرُ فَقَالَ: ادْعُ اللهَ أَنْ يَجْعَلَنِي مِنْهُمْ. قَالَ: "سَبَقَكَ بِهَا عُكَّاشَةُ".
+عَنْ عِمْرَانَ بْنِ حُصَيْنٍ رَضِيَ اللهُ عَنْهُمَا، قَالَ: قَالَ نَبِيُّ اللهِ ﷺ: "يَدْخُلُ الْجَنَّةَ مِنْ أُمَّتِي سَبْعُونَ أَلْفًا بِغَيْرِ حِسَابٍ"، قَالُوا: وَمَنْ هُمْ يَا رَسُولَ اللهِ؟ قَالَ: "هُمُ الَّذِينَ لَا يَكْتَوُونَ وَلَا يَسْتَرْقُونَ، وَعَلَى رَبِّهِمْ يَتَوَكَّلُونَ"، فَقَامَ عُكَّاشَةُ فَقَالَ: ادْعُ اللهَ أَنْ يَجْعَلَنِي مِنْهُمْ. قَالَ: "أَنْتَ مِنْهُمْ"، قَالَ: فَقَامَ رَجُلٌ فَقَالَ: يَا نَبِيَّ اللهِ، ادْعُ اللهَ أَنْ يَجْعَلَنِي مِنْهُمْ. قَالَ: "سَبَقَكَ بِهَا عُكَّاشَةُ".
 
 <!-- evidence:translation -->
 
-> Imran ibn Husayn, may Allah be pleased with him, reported that the Messenger of Allah ﷺ said: "Seventy thousand people of my Ummah would be admitted into Paradise without rendering any account." They said: "Who would be of those, O Messenger of Allah?" He said: "Those who do not cauterize and do not seek ruqyah, but repose their trust in their Lord." Then Ukkasha ibn Mihsan stood and said: "Supplicate to Allah that He make me one of them." He said: "You are one of them." Then another man stood and said: "Supplicate to Allah that He make me one of them." He said: "Ukkasha has preceded you to it."[^4]
+> Imran ibn Husayn, may Allah be pleased with him, reported that the Prophet of Allah ﷺ said: "Seventy thousand people of my Ummah would be admitted into Paradise without rendering any account." They said: "And who would be of those, O Messenger of Allah?" He said: "Those who do not cauterize and do not seek ruqyah, but repose their trust in their Lord." Then Ukkasha stood and said: "Supplicate to Allah that He make me one of them." He said: "You are one of them." Then a man stood and said: "O Prophet of Allah, supplicate to Allah that He make me one of them." He said: "Ukkasha has preceded you to it."[^4]
 
-**Scholarly Interpretation:** Imam an-Nawawi, may Allah have mercy on him, explains in his commentary on Sahih Muslim that what is meant by abandoning istirqa' and cauterization here is their self-sufficiency in reliance upon Allah, not that legislated ruqyah or permissible medical treatment are forbidden, since the Prophet ﷺ himself performed ruqyah and had ruqyah performed for him. Rather, praise is given to one whose tawakkul and certainty had grown so strong that he had no need to seek such things from people.
+**Scholarly Interpretation:** Imam an-Nawawi, may Allah have mercy on him, explains in his commentary on Sahih Muslim that what is meant by abandoning istirqa' and cauterization here is their self-sufficiency in reliance upon Allah, not that lawful ruqyah or permissible medical treatment are forbidden, since the Prophet ﷺ himself performed ruqyah and had ruqyah performed for him. Rather, praise is given to one whose tawakkul and certainty had grown so strong that he had no need to seek such things from people.
 
-**Explanation And Connection To The Lesson:** This hadith shows that the door to entering Paradise without reckoning is not closed nor reserved for any particular person — its door is sincere reliance upon Allah, and it lies within reach of every Muslim. Ukkasha's response teaches us that hastening toward supplication and good does not tolerate delay.
+**Explanation And Connection To The Lesson:** This hadith shows that the door to entering Paradise without reckoning is neither closed nor reserved for any particular person — the way in is sincere reliance upon Allah, and it lies within reach of every Muslim. Ukkasha's response teaches us that when it comes to supplication and good deeds, there is no room for delay.
 
 <!-- evidence:end -->
 
@@ -115,7 +115,7 @@ The Qur'an ties this same meaning to a magnificent account in Surah Ghafir: the 
 
 <!-- evidence:translation -->
 
-> Abu Umamah, may Allah be pleased with him, reported that the Prophet ﷺ said: "My Lord promised me that seventy thousand of my Ummah shall be admitted into Paradise without a reckoning against them nor any punishment, with every thousand [came] seventy thousand [more], and three handfuls from among the handfuls of my Lord."[^6]
+> Abu Umamah, may Allah be pleased with him, reported that the Prophet ﷺ said: "My Lord promised me that seventy thousand of my Ummah shall be admitted into Paradise without a reckoning against them nor any punishment, with every thousand, seventy thousand [more], and three handfuls from among the handfuls of my Lord."[^6]
 
 **Scholarly Interpretation:** Ibn al-Qayyim, may Allah have mercy on him, writes in *Hadi al-Arwah* that these three additional handfuls are a favor of Allah beyond every counted number — a gift that cannot be tallied or measured, of the same kind as the vast generosity Allah has described of Himself, exceeding whatever a person might imagine.
 
@@ -135,7 +135,7 @@ In the time of Musa, peace be upon him, after Allah had shown miracles at his ha
 
 This believing man continued warning his people of the consequences of disbelief and denial, until they responded with something resembling a threat against him. Yet this only increased his firmness, and he closed his speech with a magnificent statement: "You will remember what I say to you, and I entrust my affairs to Allah; surely Allah is All-Seeing of His servants." He had surrendered his entire affair to Allah, unafraid of Pharaoh's tyranny or his people's threats. The result was that Allah protected him from the evil of their schemes, and rescued him, while a terrible punishment overtook Pharaoh's household.
 
-This believing man, whom Allah did not name by name — honoring him instead with the description "the one who believed" — united two magnificent things: the glad tiding of entering Paradise without reckoning, and the very secret of reaching it, entrusting one's entire affair to Allah alone.
+This believing man, whom Allah did not name — honoring him instead with the description "the one who believed" — united two magnificent things: the glad tiding of entering Paradise without reckoning, and the very secret of reaching it, entrusting one's entire affair to Allah alone.
 
 <!-- story:end -->
 
@@ -147,7 +147,7 @@ This believing man, whom Allah did not name by name — honoring him instead wit
 
 <!-- retelling:start source_id="muslim-218a" audience="adults" -->
 
-In one of the Prophet's ﷺ gatherings, he informed his Companions of a magnificent piece of news: that seventy thousand of this Ummah would enter Paradise without reckoning. Hearts stirred with longing, and they asked, "Who are they, O Messenger of Allah?" He described them as those who do not seek cauterization and do not seek ruqyah, and who place their trust in their Lord. In that moment, Ukkasha ibn Mihsan, may Allah be pleased with him, did not hesitate; he stood immediately and said, "Supplicate to Allah that He make me one of them." The Prophet ﷺ responded at once: "You are one of them." Then another man stood — perhaps having hesitated for a moment before rising — and said the very same thing, so the Prophet ﷺ told him, "Ukkasha has preceded you to it." Ukkasha attained it through his swiftness and good expectation of Allah, while the other man missed what he missed through his delay.[^4]
+In one of the Prophet's ﷺ gatherings, he informed his Companions of a magnificent piece of news: that seventy thousand of this Ummah would enter Paradise without reckoning. Hearts stirred with longing, and they asked, "Who are they, O Messenger of Allah?" He described them as those who do not seek cauterization and do not seek ruqyah, and who place their trust in their Lord. In that moment, Ukkasha ibn Mihsan, may Allah be pleased with him, did not hesitate; he stood up at once and said, "Pray to Allah to make me one of them." The Prophet ﷺ responded at once: "You are one of them." Then another man stood — perhaps having hesitated for a moment before rising — and said the very same thing, so the Prophet ﷺ told him, "Ukkasha has preceded you to it." Ukkasha attained it through his swiftness and good expectation of Allah, while the other man missed what he missed through his delay.[^4]
 
 <!-- retelling:end -->
 
@@ -160,7 +160,7 @@ In one of the Prophet's ﷺ gatherings, he informed his Companions of a magnific
 1. What does it mean to enter Paradise "without reckoning"? Why was this a special favor?
 2. What qualities united the people of the seventy thousand as described in the hadith?
 3. How do we reconcile these hadith with the authentic fact that the Prophet ﷺ himself performed ruqyah and had ruqyah performed for him?
-4. What do we learn from Ukkasha's, may Allah be pleased with him, swift response?
+4. What do we learn from the swift response of Ukkasha, may Allah be pleased with him?
 5. How did the believing man in Surah Ghafir connect the glad tiding of Paradise with entrusting his affair to Allah?
 
 <!-- unit:end -->
@@ -200,14 +200,14 @@ Prepare a bowl filled with a large quantity of beans, lentils, or small pebbles 
 - **Without reckoning (بِغَيْرِ حِسَابٍ):** entering Paradise without being questioned about deeds and without punishment, as a pure favor from Allah.
 - **Istirqa' (الاستِرقاء):** asking someone else to perform ruqyah; what is blameworthy is the persistent request and the heart's dependence on it in place of tawakkul.
 - **Tatayyur (التطيُّر):** taking a bad omen from something seen, heard, a number, or a day.
-- **Tawakkul (التوكُّل):** the heart's reliance upon Allah alone, together with taking permissible, legislated means.
+- **Tawakkul (التوكُّل):** the heart's reliance upon Allah alone, together with making use of lawful means.
 - **Handfuls (الحَثَيات):** plural of "hathyah," meaning a scoop that fills both palms; used to describe Allah's gift that cannot be counted one by one.
 
 <!-- unit:end -->
 
 <!-- reader:end -->
 
-<!-- reader:start audience="4-7" estimated_minutes="10" -->
+<!-- reader:start audience="4-7" estimated_minutes="3.5" -->
 
 ## For Young Children (Ages 4-7)
 
@@ -231,7 +231,7 @@ This means: very, very many people enter Paradise as a gift from Allah, because 
 
 <!-- retelling:start source_id="muslim-218a" audience="4-7" -->
 
-One day the Prophet ﷺ told his companions: "Seventy thousand people of my Ummah will enter Paradise — a huge gift!" A companion named Ukkasha stood up right away, not waiting even a moment, and said, "O Messenger of Allah, ask Allah to make me one of them!" The Prophet ﷺ said to him at once, "You are one of them!" Ukkasha was so happy! Then another man stood up a little while later and said the same words, but the Prophet ﷺ told him, "Ukkasha beat you to it!" So being quick to ask for good things is a very beautiful thing.
+One day the Prophet ﷺ told his Companions: "Seventy thousand people of my Ummah will enter Paradise — a huge gift!" A Companion named Ukkasha stood up right away, not waiting even a moment, and said, "O Messenger of Allah, ask Allah to make me one of them!" The Prophet ﷺ said to him at once, "You are one of them!" Ukkasha was so happy! Then another man stood up a little while later and said the same words, but the Prophet ﷺ told him, "Ukkasha beat you to it!" So being quick to ask for good things is a very beautiful thing.
 
 <!-- retelling:end -->
 
@@ -239,7 +239,7 @@ One day the Prophet ﷺ told his companions: "Seventy thousand people of my Umma
 
 <!-- unit:start id="l17-4-7-questions" kind="questions" -->
 
-1. Which companion stood up quickly?
+1. Which Companion stood up quickly?
 2. What did the Prophet ﷺ say to him?
 3. Do you want to hurry toward good like Ukkasha did?
 
@@ -251,7 +251,7 @@ One day the Prophet ﷺ told his companions: "Seventy thousand people of my Umma
 
 <!-- activity:start audience="4-7" concept_id="lesson.017.activity.handful-of-trust" -->
 
-Place a bowl of beans or large beads in front of the child (supervised, to prevent any swallowing hazard). Ask them to take a "handful" with their small hand and say: can you count it quickly? It's so much! This is how Allah's gift is for those who trust Him: very, very much, too much to count. Then play a "Who Hurries First?" game, asking the child to do a small task quickly (like putting away a toy), and praise their speed just as Ukkasha hurried.
+Place a bowl of beans or large beads in front of the child (supervised, to prevent any swallowing hazard). Ask them to take a "handful" with their small hand and ask: Can you count it quickly? There are so many! This is how Allah's gift is for those who trust Him: very, very much, too much to count. Then play a "Who Hurries First?" game, asking the child to do a small task quickly (like putting away a toy), and praise their speed just as Ukkasha hurried.
 
 <!-- activity:end -->
 
@@ -273,7 +273,7 @@ Place a bowl of beans or large beads in front of the child (supervised, to preve
 
 <!-- reader:end -->
 
-<!-- reader:start audience="8-12" estimated_minutes="15" -->
+<!-- reader:start audience="8-12" estimated_minutes="6.0" -->
 
 ## For Children (Ages 8-12)
 
@@ -303,7 +303,7 @@ The Messenger of Allah ﷺ said: "Seventy thousand of my Ummah shall enter Parad
 
 In Pharaoh's own palace, there lived a man who secretly believed in Allah, and no one knew about his faith. One day, he heard Pharaoh planning to kill Musa, peace be upon him. He could not stay silent about this injustice, so he stood before his people — knowing this was very dangerous for him — and said, "O my people, follow me, I will guide you to the right path." Then he explained to them: "This world is a short pleasure, but the Hereafter is our lasting home. Whoever believes and does a righteous deed will enter Paradise and be given a huge gift there that cannot be measured or counted!"
 
-His people tried to threaten him, but he was not afraid, and he said his final words: "You will remember what I said one day, and I hand my whole affair over to Allah, for Allah sees everything." And indeed, Allah protected him from every scheme they planned against him, while punishment fell upon Pharaoh and his wrongdoing people. This brave man combined speaking the truth with handing his affair to Allah, so he was saved and triumphant.
+His people tried to threaten him, but he was not afraid, and he said his final words: "One day you will remember what I said, and I hand my whole affair over to Allah, for Allah sees everything." And indeed, Allah protected him from every scheme they planned against him, while punishment fell upon Pharaoh and his wrongdoing people. This brave man combined speaking the truth with handing his affair to Allah, so he was saved and triumphant.
 
 <!-- story:end -->
 
@@ -315,7 +315,7 @@ His people tried to threaten him, but he was not afraid, and he said his final w
 
 <!-- retelling:start source_id="muslim-218a" audience="8-12" -->
 
-The Prophet ﷺ told his Companions that seventy thousand of his Ummah would enter Paradise without reckoning, and described them as people who rely on Allah and do not depend on asking others for ruqyah. At that moment, without any hesitation, a companion named Ukkasha ibn Mihsan stood and said, "O Messenger of Allah, ask Allah to make me one of them." The Prophet ﷺ told him immediately, "You are one of them." Moments later, another man stood — perhaps thinking it over and hesitating before rising — and asked for the very same thing, so the Prophet ﷺ told him, "Ukkasha has beaten you to it." This story teaches us that opportunities for good do not wait for those who hesitate.
+The Prophet ﷺ told his Companions that seventy thousand of his Ummah would enter Paradise without reckoning, and described them as people who rely on Allah and do not depend on asking others for ruqyah. At that moment, without any hesitation, a Companion named Ukkasha ibn Mihsan stood and said, "O Messenger of Allah, ask Allah to make me one of them." The Prophet ﷺ told him immediately, "You are one of them." Moments later, another man stood — perhaps thinking it over and hesitating before rising — and asked for the very same thing, so the Prophet ﷺ told him, "Ukkasha has beaten you to it." This story teaches us that opportunities for good do not wait for those who hesitate.
 
 <!-- retelling:end -->
 
@@ -358,13 +358,13 @@ Fill a bowl with beans or beads. Have each child take a handful and try to count
 
 <!-- reader:end -->
 
-<!-- reader:start audience="13+" estimated_minutes="20" -->
+<!-- reader:start audience="13+" estimated_minutes="7.0" -->
 
 ## For Teens (Ages 13+)
 
 <!-- unit:start id="l17-13-explanation" kind="explanation" -->
 
-One might ask: how can some people enter Paradise "without reckoning" while everyone else is questioned about the smallest of their deeds on the Day of Judgment? The answer is that this is a pure favor from Allah, which He specifies for whoever earns it through sincere tawakkul and a heart free from attachment to anything besides Him. This does not mean these people had no righteous deeds — rather, their hearts had become so self-sufficient in Allah that they no longer depended on people and outward means alone, so Allah dealt with them in a manner befitting their hearts: a gift beyond reckoning, for one who entrusted their affair to none but the One whose giving cannot be counted.
+One might ask: how can some people enter Paradise "without reckoning" while everyone else is questioned about the smallest of their deeds on the Day of Judgment? The answer is that this is a pure favor from Allah, which He grants specially to whoever earns it through sincere tawakkul and a heart free from attachment to anything besides Him. This does not mean these people had no righteous deeds — rather, their hearts had become so self-sufficient in Allah that they no longer depended on people and outward means alone, so Allah dealt with them in a manner befitting their hearts: a gift beyond reckoning, for one who entrusted their affair to none but the One whose giving cannot be counted.
 
 Scholars have discussed a precise point regarding the wording "la yarqun" (they do not perform ruqyah for others) which appears in some narrations of this hadith. Some, such as Shaykh al-Islam Ibn Taymiyyah, held that this is an inserted addition not part of the original hadith wording, since it appears to contradict the authentic fact that the Prophet ﷺ himself performed ruqyah for others and commanded it, while al-Hafiz Ibn Hajar, in *Fath al-Bari* (11/408-409), investigated these narrations and explained ways of reconciling them. This is a beautiful example of the precision of hadith scholars in scrutinizing wording, and shows that disagreement over a detail of wording does not weaken the firmly established core meaning: that sincere reliance upon Allah is a cause of this magnificent favor.
 
@@ -382,7 +382,7 @@ Scholars have discussed a precise point regarding the wording "la yarqun" (they 
 
 **Scholarly Interpretation:** Al-Hafiz Ibn Hajar, in *Fath al-Bari*, notes that this hadith — found in the Book of Riqaq (Heart-Softeners) in Sahih al-Bukhari — is a magnificent foundation showing the vastness of the Ummah of Muhammad ﷺ in number, and that a special group among it — seventy thousand — attains this tremendous favor.
 
-**Explanation And Connection To The Lesson:** This hadith shows us the scene from another angle: the Prophet's ﷺ vision of his Ummah measured against other nations, and its distinction by this vast number who enter without reckoning — showing that this favor is not a marginal exception but a prominent feature of this mercy-given Ummah.
+**Explanation And Connection To The Lesson:** This hadith shows us the scene from another angle: the Prophet's ﷺ vision of his Ummah measured against other nations, and its distinction by this vast number who enter without reckoning — showing that this favor is not a marginal exception but a prominent feature of this Ummah that has been shown mercy.
 
 <!-- evidence:end -->
 
@@ -424,7 +424,7 @@ The outcome was decisive: "So Allah protected him from the evil of their schemes
 
 <!-- retelling:start source_id="muslim-218a" audience="13+" -->
 
-When the Companions heard the news of the seventy thousand who would enter Paradise without reckoning, they did not know who among them would be included. Yet Ukkasha ibn Mihsan al-Asadi did not let this uncertainty become a reason for hesitation; he immediately requested the Prophet's ﷺ supplication, relying on his good expectation of Allah and the sincerity of the state he had lived. The Prophet ﷺ responded to him at once. As for the second man who made the identical request moments later, he was told, "Ukkasha has preceded you to it." The difference between the two men was not necessarily in the sincerity of their faith, but — as the context of the hadith suggests — in the precedence of initiative. This reminds us that doors of good may open for a moment and then circumstances change, so diligence in seizing them is among the qualities of the resolute among believers.
+When the Companions heard the news of the seventy thousand who would enter Paradise without reckoning, they did not know who among them would be included. Yet Ukkasha ibn Mihsan al-Asadi did not let this uncertainty become a reason for hesitation; he immediately requested the Prophet's ﷺ supplication, relying on his good expectation of Allah and the sincerity of his spiritual state. The Prophet ﷺ responded to him at once. As for the second man who made the identical request moments later, he was told, "Ukkasha has preceded you to it." The difference between the two men was not necessarily in the sincerity of their faith, but — as the context of the hadith suggests — in who took the initiative first. This reminds us that doors of good may open for a moment and then circumstances change, so being diligent in seizing them is a mark of resolute believers.
 
 <!-- retelling:end -->
 
@@ -434,7 +434,7 @@ When the Companions heard the news of the seventy thousand who would enter Parad
 
 1. How do we reconcile, intellectually and scripturally, the favor of "without reckoning" with Allah's justice in judging the rest of creation?
 2. How does the scholarly disagreement over the wording "la yarqun" guide us toward understanding the methodology of hadith scholars in scrutinizing narrations?
-3. What are the points of similarity between the believing man's stand in Surah Ghafir and Ukkasha's, may Allah be pleased with him, stand?
+3. What are the points of similarity between the stand of the believing man in Surah Ghafir and that of Ukkasha, may Allah be pleased with him?
 4. How can sincere tawakkul coexist with striving through proper means rather than opposing it?
 5. Write about a situation from your own life resembling the choice between initiative and hesitation.
 
@@ -446,7 +446,7 @@ When the Companions heard the news of the seventy thousand who would enter Parad
 
 <!-- activity:start audience="13+" concept_id="lesson.017.activity.handful-of-trust" -->
 
-Take a single handful of beans or beads and try to count it precisely within a limited time — you will find it practically impossible. In your personal journal, write down three weekly situations that test your tawakkul: one situation where you rely on legislated means (such as diligent study or a medical checkup), one situation where you abandon superstition or common myths among your peers, and one situation where you hasten to do a good deed immediately, like Ukkasha, without delay. At the end of the week, review your journal and ask yourself: have I drawn nearer to the description, "and upon their Lord they rely"?
+Take a single handful of beans or beads and try to count it precisely within a limited time — you will find it practically impossible. In your personal journal, write down three weekly situations that test your tawakkul: one situation where you rely on lawful means (such as diligent study or a medical checkup), one situation where you abandon superstition or common myths among your peers, and one situation where you hasten to do a good deed immediately, like Ukkasha, without delay. At the end of the week, review your journal and ask yourself: have I drawn nearer to the description, "and upon their Lord they rely"?
 
 <!-- activity:end -->
 
@@ -513,7 +513,7 @@ For advanced learners: discuss the scholarly disagreement over the wording "la y
 <!-- differentiation:end -->
 
 <!-- safeguards:start -->
-Clearly clarify that these hadith do not prohibit legislated ruqyah or permissible medical treatment, and that correct tawakkul coexists with taking proper means rather than abandoning them, to prevent any misunderstanding that might lead someone to abandon medicine or legitimate precautions.
+Make clear that these hadith do not prohibit lawful ruqyah or permissible medical treatment, and that correct tawakkul coexists with taking proper means rather than abandoning them, to prevent any misunderstanding that might lead someone to abandon medicine or legitimate precautions.
 <!-- safeguards:end -->
 
 <!-- lesson-plan:end -->
@@ -544,7 +544,7 @@ Read a simplified portion of the hadith to the child in a calm, engaging voice.
 <!-- evidence-review:end -->
 
 <!-- instruction:start -->
-Narrate Ukkasha's story in a simple storytelling style with expressive face and excited tone.
+Narrate Ukkasha's story in a simple storytelling style with an expressive face and an excited tone.
 <!-- instruction:end -->
 
 <!-- activity-time:start -->
@@ -552,7 +552,7 @@ Carry out the "My Handful of Beans" activity and the "Who Hurries First?" game d
 <!-- activity-time:end -->
 
 <!-- assessment:start -->
-Ask the child to tell you the name of the companion who hurried quickly.
+Ask the child to tell you the name of the Companion who hurried.
 <!-- assessment:end -->
 
 <!-- differentiation:start -->
@@ -656,7 +656,7 @@ For academically advanced learners: direct them to read the full text of Fath al
 <!-- differentiation:end -->
 
 <!-- safeguards:start -->
-Avoid appearing to cast doubt on the authenticity of the hadith when presenting the scholarly disagreement over "la yarqun"; clarify that the disagreement concerns a single wording within a hadith whose meaning is firmly established, not the hadith's core authenticity. Emphasize that legislated ruqyah and medical treatment remain permissible.
+Avoid appearing to cast doubt on the authenticity of the hadith when presenting the scholarly disagreement over "la yarqun"; clarify that the disagreement concerns a single wording within a hadith whose meaning is firmly established, not the hadith's core authenticity. Emphasize that lawful ruqyah and medical treatment remain permissible.
 <!-- safeguards:end -->
 
 <!-- lesson-plan:end -->

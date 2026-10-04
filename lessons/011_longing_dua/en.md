@@ -17,31 +17,31 @@ bedtime_dua_id: "lesson.011.dua.jannah-near-words-deeds"
 
 # Seeking Jannah, Longing for It, and Its Du'a
 
-## Lesson Objectives And Outcomes
+## Lesson Objectives and Outcomes
 
 After this lesson, the learner will be able to:
 
-- Explain why the believers ask Allah for what He already promised them in Aal 'Imran 3:193-194, even while certain He never breaks His promise, and show that this asking is the completion of servanthood and need, not any doubt in His truthfulness.
-- Narrate the story of the young man in the hadith of Abu Dawud 793, and show that the Prophet, peace and blessings be upon him, did not fault his short du'a but affirmed that its meaning already circled the greatest aim: asking for Jannah and seeking refuge from the Fire.
-- Conclude that a sincere du'a does not require eloquence or long phrasing, and that a short, understood du'a is as acceptable as the Prophet's own comprehensive du'as.
+- Explain why the believers ask Allah for what He already promised them in Aal 'Imran 3:193-194, even while certain He never breaks His promise, and show that this asking is part of the fullness of servanthood and of our need for Him, not a challenge to the truth of His promise.
+- Narrate the story of the young man in the hadith of Abu Dawud 793, and show that the Prophet, peace and blessings be upon him, did not fault his short du'a but affirmed that its aim revolved around the greatest goal: asking for Jannah and seeking refuge from the Fire.
+- Conclude that a sincere du'a does not require eloquence or long phrasing, and that a short du'a whose meaning is understood is accepted, just as the comprehensive prophetic du'a is.
 - Connect asking for Jannah to the hadith of Ibn Majah 3846, which adds to the request for Jannah a request for "whatever word or deed draws one nearer to it," showing that sincere longing is tied to daily striving, not wishing alone.
 - Apply this practically by linking a du'a for Jannah to a recurring situation and one observable word or deed, through the "Ask, Then Act" activity in its age-appropriate form.
 - Memorize the du'a "O Allah, I ask You for Jannah and whatever word or deed draws nearer to it..." and use it before sleep with the intention of connecting it to tomorrow's actions.
 
 ## Academic Section for Adults
 
-<!-- reader:start audience="adults" estimated_minutes="6.5" -->
+<!-- reader:start audience="adults" estimated_minutes="7.0" -->
 
 <!-- unit:start id="adults.explanation" kind="explanation" -->
 
-Asking for Jannah is worship joining **sincere hope, a present goal, and work toward it**. The believer never treats Jannah as a distant idea absent from his du'a, nor du'a as a wish detached from obedience. He asks Allah for Jannah, seeks refuge from the Fire, and chooses words and deeds that draw him nearer to Allah's pleasure.
+Asking for Jannah is an act of worship that brings together **sincere hope, a goal kept in view, and work toward it**. The believer does not treat Jannah as a distant idea absent from his du'a, nor du'a as a wish detached from obedience. He asks Allah for Jannah, seeks refuge from the Fire, and chooses words and deeds that draw him nearer to Allah's pleasure.
 
-True longing is not an emotional claim or a fixation on unseen details lacking evidence. Its sign: a person asks Allah often, and remembering Jannah turns into more sincere prayer, quicker repentance, mercy toward people, and leaving whatever distances one from Allah. The Prophet, peace and blessings be upon him, taught that lengthy du'as can be gathered in clear words: asking for Jannah and seeking refuge from the Fire.
+True longing is not an emotional claim or a preoccupation with details of the unseen that have no evidence. Its sign is that a person asks Allah often, and that remembering Jannah turns into more sincere prayer, quicker repentance, mercy toward people, and leaving whatever distances one from Allah. The Prophet, peace and blessings be upon him, taught that the aim around which lengthy du'as revolve can be summed up by a servant in clear words: asking for Jannah and seeking refuge from the Fire.
 
 The texts reveal three complementary dimensions:
 
-1. **The promise is still asked for:** though Allah never breaks His word, the people of understanding prayed that He grant them what He promised; asking Allah is the completion of servanthood and need.
-2. **Simplicity does not diminish sincerity:** the young man was not blamed for lacking long phrases; the Prophet, peace and blessings be upon him, affirmed that his du'a already circled the same great aim.
+1. **The promise is still asked for:** though Allah never breaks His word, the people of understanding prayed that He grant them what He promised; asking Allah is part of the fullness of servanthood and of our need for Him.
+2. **Simplicity does not diminish sincerity:** the young man was not faulted for not having mastered long phrases; the Prophet, peace and blessings be upon him, affirmed that his du'a revolved around the same great aim.
 3. **Du'a is tied to the path:** the Prophet's own du'a does not stop at asking for Jannah, but also asks for whatever word or deed draws one nearer to it, so hope connects to daily choices.
 
 <!-- unit:end -->
@@ -62,11 +62,11 @@ The texts reveal three complementary dimensions:
 
 #### Scholarly Tafsir
 
-The people of understanding combined faith, seeking forgiveness, a good ending, and asking for what Allah promised through His messengers. Ibn al-Qayyim explained that asking Him to fulfill His promise includes asking for the success and steadfastness to reach it; the du'a itself is a means of arrival, not an objection to the promise's truth.[^2]
+In their du'a, the people of understanding combined faith, seeking forgiveness, a good ending, and asking for what Allah promised through His messengers. Ibn al-Qayyim explained that asking Him to fulfill His promise includes asking for divine enablement (tawfiq), steadfastness, and help with the means by which they attain that promise; the du'a itself is one of the means of reaching it, not an objection to the truth of the promise.[^2]
 
 #### Lesson Explanation
 
-Whoever truly believes in Jannah keeps asking for it; his need for Allah only grows. He asks for forgiveness, steadfastness, and death among the righteous, then asks for the promise itself. Longing becomes worship joining heart, tongue, and deed.
+Whoever truly believes in Jannah keeps asking for it; his need for Allah only grows. He asks for forgiveness, steadfastness, and death among the righteous, then asks Him to fulfill the promise. In this way, longing becomes worship that unites heart, tongue, and deed.
 
 <!-- evidence:end -->
 
@@ -78,15 +78,15 @@ Whoever truly believes in Jannah keeps asking for it; his need for Allah only gr
 
 <!-- evidence:translation -->
 
-> On the authority of Jabir, may Allah be pleased with him, recounting the story of Mu'adh, who said: The Prophet, peace and blessings be upon him, said to the young man: **"What do you do, son of my brother, when you pray?" He said: "I recite the Opening of the Book, and I ask Allah for Jannah, and I seek refuge in Him from the Fire; as for your murmuring and Mu'adh's murmuring, I do not know what it is." The Messenger of Allah, peace and blessings be upon him, said: "I and Mu'adh circle around these very two things,"** or words close to that.[^3]
+> On the authority of Jabir, may Allah be pleased with him, recounting the story of Mu'adh; Jabir said: The Prophet, peace and blessings be upon him, said to the young man: **"What do you do, son of my brother, when you pray?" He said: "I recite the Opening of the Book, and I ask Allah for Jannah, and I seek refuge in Him from the Fire; as for your murmuring and Mu'adh's murmuring, I do not know what it is." The Messenger of Allah, peace and blessings be upon him, said: "Mu'adh and I revolve around these two,"** or words close to that.[^3]
 
 #### Scholarly Explanation
 
-`Dandanah` (murmuring) is speech whose sound is heard but whose exact words stay unclear to the listener. The young man recites the Opening chapter, then gathers his du'a into asking for Jannah and seeking refuge from the Fire. The Prophet, peace and blessings be upon him, affirmed his intention, clarifying that his du'a and Mu'adh's, however long or varied, circle these same two aims.
+`Dandanah` (murmuring) is speech whose sound is heard but whose exact words stay unclear to the listener. The young man said that he recites al-Fatihah, then gathers his du'a into asking for Jannah and seeking refuge from the Fire. The Prophet, peace and blessings be upon him, affirmed the substance of his aim, clarifying that his own du'a and Mu'adh's, however long or varied, revolve around these same two aims.
 
 #### Lesson Explanation
 
-A sincere du'a needs no elaborate eloquence or lengthy phrases. A Muslim learns the comprehensive prophetic du'as, and may also ask his need in clear, correct words. What matters: the greatest aim stays present — salvation from the Fire and success in Jannah — alongside prayer and acting on whatever draws one nearer to Allah.
+A sincere du'a needs no elaborate eloquence or lengthy phrases. A Muslim learns the comprehensive prophetic du'as, and may also ask for what he needs in clear, correct words. What matters here is that the greatest aim never drops out of view — salvation from the Fire and success in Jannah — while one keeps up the prayer and acts on whatever draws one nearer to Allah.
 
 <!-- evidence:end -->
 
@@ -98,15 +98,15 @@ A sincere du'a needs no elaborate eloquence or lengthy phrases. A Muslim learns 
 
 <!-- evidence:translation -->
 
-> On the authority of 'Aishah, may Allah be pleased with her, that the Messenger of Allah, peace and blessings be upon him, taught her this du'a: **"O Allah, I ask You for all good, its near and its far, what I know of it and what I do not know, and I seek refuge in You from all evil, its near and its far, what I know of it and what I do not know. O Allah, I ask You for the good that Your servant and Prophet asked You for, and I seek refuge in You from the evil that Your servant and Prophet sought refuge from. O Allah, I ask You for Jannah and whatever word or deed draws nearer to it, and I seek refuge in You from the Fire and whatever word or deed draws nearer to it, and I ask You to make every decree You decree for me good."**[^4]
+> On the authority of 'Aishah, may Allah be pleased with her, that the Messenger of Allah, peace and blessings be upon him, taught her this du'a: **"O Allah, I ask You for all good, the immediate and the deferred, what I know of it and what I do not know, and I seek refuge in You from all evil, the immediate and the deferred, what I know of it and what I do not know. O Allah, I ask You for the good that Your servant and Prophet asked You for, and I seek refuge in You from the evil that Your servant and Prophet sought refuge from. O Allah, I ask You for Jannah and whatever word or deed draws nearer to it, and I seek refuge in You from the Fire and whatever word or deed draws nearer to it, and I ask You to make every decree You decree for me good."**[^4]
 
 #### Scholarly Explanation
 
-This is among the most comprehensive du'as: it covers good and evil, near and far, known and unknown, follows the Prophet's own asking and seeking refuge, peace and blessings be upon him, names Jannah and the Fire specifically, and ties each destination to the words and deeds that draw one nearer.
+This is one of the comprehensive du'as (jawami' al-du'a): it covers good and evil, immediate and deferred, known and unknown; follows the Prophet, peace and blessings be upon him, in what he asked for and sought refuge from; names Jannah and the Fire specifically, and ties each destination to the words and deeds that draw one nearer.
 
 #### Lesson Explanation
 
-Longing for Jannah is not satisfied by saying "I want it." The servant asks his Lord for Jannah, and also asks for the word and deed that draw him nearer to it. The du'a becomes a standard applied before every choice: does this word or deed draw me closer to what I ask Allah for?
+Longing for Jannah is not satisfied by saying "I want it." The servant asks his Lord for Jannah, and also asks for the word and deed that draw him nearer to it. The du'a becomes a test to apply before making a choice: does this word or deed draw me closer to what I ask Allah for?
 
 <!-- evidence:end -->
 
@@ -117,10 +117,10 @@ Longing for Jannah is not satisfied by saying "I want it." The servant asks his 
 ## Questions for Understanding and Reflection
 
 1. Why do the believers ask Allah for His promise, even while certain He never breaks it?
-2. What did the Prophet's answer to the young man correct in how we understand du'a, peace and blessings be upon him?
+2. What did the answer of the Prophet, peace and blessings be upon him, to the young man correct in our understanding of du'a?
 3. How does the hadith of 'Aishah, may Allah be pleased with her, connect hope with responsibility?
 4. What is the difference between longing that shows only in words and longing that changes one's choices?
-5. What fixed time in your day could you link to asking for Jannah alongside a deed that draws nearer to it?
+5. At what fixed time in your day could you pair asking for Jannah with a word or deed that draws you nearer to it?
 
 <!-- unit:end -->
 
@@ -130,7 +130,7 @@ Longing for Jannah is not satisfied by saying "I want it." The servant asks his 
 
 <!-- activity:start audience="adults" concept_id="lesson.011.activity.ask-and-act-pairing" -->
 
-Make a table of four rows: **recurring situation, du'a, drawing-near word or deed, expected obstacle**. Choose real situations: waking up, right after prayer, starting work, a family disagreement. For each, write a correct wording for asking Jannah, then link it to an observable action within a day — mending a hurtful word, praying on time, hidden charity. Add one way to overcome the obstacle, and at week's end review whether the du'a stayed separate from behavior or came to guide it.
+Make a table of four rows: **recurring situation, du'a, drawing-near word or deed, expected obstacle**. Choose real situations: waking up, right after prayer, starting work, a family disagreement. For each, write a correct wording for asking for Jannah, then link it to an observable action within twenty-four hours — mending a hurtful word, praying on time, hidden charity. Add one way to overcome the obstacle, and at week's end review whether the du'a stayed separate from behavior or came to guide it.
 
 <!-- activity:end -->
 
@@ -140,11 +140,11 @@ Make a table of four rows: **recurring situation, du'a, drawing-near word or dee
 
 ## For Children Ages 4 to 7
 
-<!-- reader:start audience="4-7" estimated_minutes="5.0" -->
+<!-- reader:start audience="4-7" estimated_minutes="4.0" -->
 
 <!-- unit:start id="4-7.explanation" kind="explanation" -->
 
-Jannah is the most beautiful home Allah prepared for His believing servants. We ask Allah for Jannah with clear words, and then we do the good that He loves: we pray, we give charity, we show mercy, and we say sorry when we make a mistake. When we say, "O Allah, I ask You for Jannah," we remember that our tongues are asking, our hearts are hoping, and our hands are doing good.
+Jannah is the most beautiful home Allah has prepared for His believing servants. We ask Allah for Jannah with clear words, and then we do the good that He loves: we pray, we give charity, we show mercy, and we say sorry when we make a mistake. When we say, "O Allah, I ask You for Jannah," we remember that our tongues are asking, our hearts are hoping, and our hands are doing good.
 
 <!-- unit:end -->
 
@@ -156,11 +156,11 @@ Jannah is the most beautiful home Allah prepared for His believing servants. We 
 
 <!-- retelling:start source_id="abudawud-793" audience="4-7" -->
 
-In the story of Mu'adh, may Allah be pleased with him, leading the people in prayer, the Prophet, peace and blessings be upon him, asked a young man: "What do you do when you pray?" The young man said he recites Surah al-Fatihah, asks Allah for Jannah, and asks Him to protect him from the Fire. Then he said he did not know all the many words he heard in the Prophet's du'a and Mu'adh's du'a, peace and blessings be upon him.
+In the story of Mu'adh, may Allah be pleased with him, leading the people in prayer, the Prophet, peace and blessings be upon him, asked a young man: "What do you do when you pray?" The young man said that he recited Surah al-Fatihah, asked Allah for Jannah, and asked Him to protect him from the Fire. Then he said he did not know all the many words he heard in the du'a of the Prophet, peace and blessings be upon him, and in Mu'adh's du'a.
 
-The Prophet, peace and blessings be upon him, did not laugh at his few words. Instead, he told him that his du'a and Mu'adh's du'a both circle around these same two aims: Jannah, and safety from the Fire.[^3]
+The Prophet, peace and blessings be upon him, did not laugh at his few words. Instead, he told him that his own du'a and Mu'adh's du'a also revolve around these same two aims: Jannah, and safety from the Fire.[^3]
 
-We learn from the young man to say a correct du'a that we understand, and from the Prophet's answer, peace and blessings be upon him, we learn that asking for Jannah is a great purpose. Then we give our feet one step of goodness that matches what our tongues asked for.
+We learn from the young man to say a correct du'a that we understand, and from the answer of the Prophet, peace and blessings be upon him, we learn that asking for Jannah is a great purpose. Then we let our feet take one good step that matches what our tongues asked for.
 
 <!-- retelling:end -->
 
@@ -192,7 +192,7 @@ Draw a large speech bubble beside a footprint. Inside the bubble, the child draw
 
 <!-- unit:start id="4-7.bedtime-dua" kind="bedtime_dua" -->
 
-### A Correct Du'a We Learn Before Sleep
+### An Authentic Du'a We Learn Before Sleep
 
 <!-- bedtime-dua:start audience="4-7" id="lesson.011.dua.jannah-near-words-deeds" provenance="sunnah" source_id="ibnmajah-3846" attribution="prophetic" -->
 
@@ -208,7 +208,7 @@ Draw a large speech bubble beside a footprint. Inside the bubble, the child draw
 
 ## For Children Ages 8 to 12
 
-<!-- reader:start audience="8-12" estimated_minutes="5.5" -->
+<!-- reader:start audience="8-12" estimated_minutes="4.5" -->
 
 <!-- unit:start id="8-12.explanation" kind="explanation" -->
 
@@ -226,11 +226,11 @@ Your du'a can be a short, correct one, or a comprehensive prophetic du'a. Do not
 
 <!-- retelling:start source_id="abudawud-793" audience="8-12" -->
 
-Mu'adh ibn Jabal, may Allah be pleased with him, was leading the people in prayer, and in his story the Prophet, peace and blessings be upon him, asked a young man what he does in his prayer. The young man answered clearly: he recites the Opening chapter, asks Allah for Jannah, and seeks refuge in Him from the Fire. Then he admitted that he did not know the "murmuring" (`dandanah`) of the Prophet, peace and blessings be upon him, or of Mu'adh — meaning he did not understand everything he heard in their longer du'as.
+Mu'adh ibn Jabal, may Allah be pleased with him, was leading the people in prayer, and in his story the Prophet, peace and blessings be upon him, asked a young man what he did in his prayer. The young man answered clearly: he recites al-Fatihah, the Opening of the Book, asks Allah for Jannah, and seeks refuge in Him from the Fire. Then he admitted that he did not know the "murmuring" (`dandanah`) of the Prophet, peace and blessings be upon him, or of Mu'adh — meaning he did not understand everything he heard of their du'a.
 
-The young man might have thought his du'a was worth less because it was short, but the Prophet's answer, peace and blessings be upon him, brought the scale back to meaning. He said that his du'a and Mu'adh's both circle around these same two aims, or words close to that.[^3]
+The young man might have thought his du'a was worth less because it was short, but the Prophet's answer, peace and blessings be upon him, put the focus back on meaning. He said that his own du'a and Mu'adh's both revolve around these same two aims, or words close to that.[^3]
 
-The answer was not an invitation to abandon the comprehensive prophetic du'as or to always settle for the shortest wording. Rather, it taught the young man that asking for Jannah and seeking refuge from the Fire is a great heart among the hearts of du'a. Whenever a Muslim learns a new du'a, he understands its meaning and links it to a deed: he asks for Jannah, then chooses honesty, or prayer, or mercy that draws him nearer to Allah's good pleasure.
+The answer was not an invitation to abandon the comprehensive prophetic du'as or to always settle for the shortest wording. Rather, it taught the young man that asking for Jannah and seeking refuge from the Fire is one of the great core aims of du'a. Whenever a Muslim learns a new du'a, he learns what it means and links it to a deed: he asks for Jannah, then chooses honesty, or prayer, or mercy that draws him nearer to Allah's good pleasure.
 
 <!-- retelling:end -->
 
@@ -254,7 +254,7 @@ The answer was not an invitation to abandon the comprehensive prophetic du'as or
 ### Understanding and Application Questions
 
 1. What three things did the young man say he does in his prayer?
-2. What did the Prophet's answer teach about the worth of a clear du'a, peace and blessings be upon him?
+2. What did the answer of the Prophet, peace and blessings be upon him, teach about the worth of a clear du'a?
 3. Why isn't it enough to ask for Jannah and then deliberately do a deed that distances us from it?
 4. What single word or deed do you want to link to your du'a this week?
 
@@ -274,7 +274,7 @@ Make three cards. At the top of each, write a fixed time: after a prayer, before
 
 <!-- unit:start id="8-12.bedtime-dua" kind="bedtime_dua" -->
 
-### A Correct Du'a Before Sleep
+### An Authentic Du'a Before Sleep
 
 <!-- bedtime-dua:start audience="8-12" id="lesson.011.dua.jannah-near-words-deeds" provenance="sunnah" source_id="ibnmajah-3846" attribution="prophetic" -->
 
@@ -282,7 +282,7 @@ Make three cards. At the top of each, write a fixed time: after a prayer, before
 >
 > *"O Allah, I ask You for Jannah and whatever word or deed draws nearer to it, and I seek refuge in You from the Fire and whatever word or deed draws nearer to it."*
 
-Before you sleep, choose one good word or righteous deed you intend to begin tomorrow with.
+Before you sleep, choose one good word or righteous deed that you intend to start your day with tomorrow.
 
 <!-- bedtime-dua:end -->
 
@@ -292,31 +292,31 @@ Before you sleep, choose one good word or righteous deed you intend to begin tom
 
 ## For Teens, Ages 13+
 
-<!-- reader:start audience="13+" estimated_minutes="6.0" -->
+<!-- reader:start audience="13+" estimated_minutes="5.5" -->
 
 <!-- unit:start id="13+.explanation" kind="explanation" -->
 
-In religious speech, Jannah can turn into a familiar word that no longer affects the daily schedule, or an emotional image detached from responsibility. Revelation reconnects the goal to the path: the believer asks Allah for what He promised, asks explicitly for Jannah, and also asks Him for whatever word or deed draws nearer to it.
+In religious talk, Jannah can become a familiar word that has no effect on our daily schedule, or an emotional image detached from responsibility. Revelation reconnects the goal to the path: the believer asks Allah for what He promised, asks explicitly for Jannah, and also asks Him for whatever word or deed draws nearer to it.
 
-This connection corrects two imbalances. The first is trusting one's own planning and discipline until one's need for Allah weakens. The second is settling for wishes while continuing choices that corrupt the heart. A correct du'a cultivates a third stance: **sincere need, a clear goal, and responsible striving**.
+This connection corrects two imbalances. The first is trusting one's own planning and discipline until one's need for Allah weakens. The second is settling for wishes while carrying on with choices that corrupt the heart. A correct du'a cultivates a third stance: **sincere need, a clear goal, and responsible striving**.
 
-Nor is the quality of a du'a measured by its length alone. The comprehensive prophetic du'as are a treasure whose wording and meaning we learn, but the hadith of the young man prevents turning eloquence into a barrier or a display for comparison. You can begin with correct words you understand, then keep learning and growing, while your heart stays present and your deeds follow your hope.
+Nor is the quality of a du'a measured by its length alone. The comprehensive prophetic du'as are a treasure whose wording and meaning we learn, but the hadith of the young man keeps eloquence from becoming a barrier or something to show off and compare. You can begin with correct words you understand, then keep learning and growing, while your heart stays present and your deeds follow your hope.
 
 <!-- unit:end -->
 
 <!-- unit:start id="13+.primary-story" kind="primary_story" -->
 
-### A Prophetic Moment: When the Aim Was Clearer Than the Abundance of Words
+### A Prophetic Moment: When the Aim Was Clearer Than Many Words
 
 <!-- story:start audience="13+" role="primary" type="hadith" source_id="abudawud-793" authenticated="true" -->
 
 <!-- retelling:start source_id="abudawud-793" audience="13+" -->
 
-Jabir, may Allah be pleased with him, reports within the story of Mu'adh that the Prophet, peace and blessings be upon him, asked a young man a direct question: "What do you do, son of my brother, when you pray?" The young man did not claim to know what he did not know, but described his worship as it truly was: he recites the Opening chapter, asks Allah for Jannah, and seeks refuge in Him from the Fire. Then he said he did not know the murmuring (`dandanah`) of the Prophet, peace and blessings be upon him, or of Mu'adh — meaning the wording of their du'a reached him only as a tone, without becoming clear to him.
+Jabir, may Allah be pleased with him, reports within the story of Mu'adh that the Prophet, peace and blessings be upon him, asked a young man a direct question: "What do you do, son of my brother, when you pray?" The young man did not claim to know what he did not know, but described his worship as it truly was: he recites al-Fatihah, asks Allah for Jannah, and seeks refuge in Him from the Fire. Then he said he did not know the murmuring (`dandanah`) of the Prophet, peace and blessings be upon him, or of Mu'adh — meaning the wording of their du'a reached him only as a tone, without becoming clear to him.
 
-The Prophet, peace and blessings be upon him, answered that his du'a and Mu'adh's both circle around these same two aims, or words close to that.[^3] The answer preserved two things at once: it did not make the young man's few words a flaw that barred him from du'a, nor did it leave the du'a empty of meaning; his purpose was in fact specific — Jannah, and salvation from the Fire.
+The Prophet, peace and blessings be upon him, answered that his own du'a and Mu'adh's both revolve around these same two aims, or words close to that.[^3] The answer preserved two things at once: it did not make the young man's few words a flaw that barred him from du'a, nor did it leave the du'a empty of meaning; his aim was clearly defined — Jannah, and salvation from the Fire.
 
-This moment resists the pressure of religious performance before others. One person may memorize many texts, while another is still at the start of learning; but sincerity does not excuse a person from learning, and learning does not justify showing off. A person begins with what he understands, learns what has been transmitted, brings his heart to attention, then asks himself: if I am asking for Jannah, what word or decision ought to change today?
+This moment pushes back against the pressure to perform religiosity in front of others. One person may memorize many texts, while another is still at the start of learning; but sincerity does not excuse a person from learning, and learning does not justify showing off. A person begins with what he understands, learns what has been transmitted, keeps his heart present, then asks himself: if I am asking for Jannah, what word or decision ought to change today?
 
 <!-- retelling:end -->
 
@@ -353,7 +353,7 @@ This moment resists the pressure of religious performance before others. One per
 
 <!-- activity:start audience="13+" concept_id="lesson.011.activity.ask-and-act-pairing" -->
 
-Choose a trigger that repeats for seven days, such as opening your phone in the morning, finishing a prayer, starting to study, or a disagreement arising. Write a three-line plan: **Goal:** I want Allah's good pleasure and Jannah; **Du'a:** a fixed, correct wording by which you ask for Jannah; **Decision:** a specific, verifiable behavior you can check in that same moment. Add an expected obstacle and an "if this happens... then I will..." plan. After a week, evaluate honestly: did the du'a increase in frequency? Did it change at least one decision? Do not record private sins, and do not share the plan with the group unless you choose to.
+Choose a trigger that repeats for seven days, such as opening your phone in the morning, finishing a prayer, starting to study, or the start of a disagreement. Write a three-line plan: **Goal:** I want Allah's good pleasure and Jannah; **Du'a:** a fixed, correct wording by which you ask for Jannah; **Decision:** a specific, verifiable behavior you can check in that same moment. Add an expected obstacle and an "if this happens... then I will..." plan. After a week, evaluate honestly: did the du'a increase in frequency? Did it change at least one decision? Do not record private sins, and do not share the plan with the group unless you choose to.
 
 <!-- activity:end -->
 
@@ -369,7 +369,7 @@ Choose a trigger that repeats for seven days, such as opening your phone in the 
 >
 > *"O Allah, I ask You for Jannah and whatever word or deed draws nearer to it, and I seek refuge in You from the Fire and whatever word or deed draws nearer to it."*
 
-After the du'a, name to yourself one word or deed you want to draw you nearer to Allah tomorrow, without believing this dhikr is legally specific to bedtime.
+After the du'a, name to yourself one word or deed you want to draw you nearer to Allah tomorrow, without believing that the Shari'ah ties this dhikr specifically to bedtime.
 
 <!-- bedtime-dua:end -->
 
@@ -384,7 +384,7 @@ After the du'a, name to yourself one word or deed you want to draw you nearer to
 ### Adults — 60 Minutes
 
 <!-- lesson-plan:outcomes -->
-**Learning Outcomes:** The learner explains why asking for Jannah is an act of worship even while certain of the promise's truthfulness, analyzes the meaning of the young man's hadith, connects du'a to one observable word or deed, and builds a weekly plan joining need and striving.
+**Learning Outcomes:** The learner explains why asking for Jannah is an act of worship even while certain of the truth of the promise, analyzes the meaning of the young man's hadith, connects du'a to one observable word or deed, and builds a weekly plan joining need and striving.
 
 <!-- lesson-plan:materials -->
 **Materials:** Copies of Aal 'Imran 3:193-194; the hadiths of Abu Dawud 793 and Ibn Majah 3846; a "situation/du'a/deed/obstacle" table template; paper and pens; an exit card.
@@ -393,7 +393,7 @@ After the du'a, name to yourself one word or deed you want to draw you nearer to
 **Preparation:** The teacher reviews the wording and grading of both hadiths, and distinguishes between the basic legitimacy of du'a and specifying a time or number without evidence. He prepares examples of small, verifiable deeds and avoids turning the activity into a public confession of sins.
 
 <!-- lesson-plan:opening -->
-**Opening — 5 minutes:** Ask: "If Allah never breaks His promise, why did the believers pray, 'grant us what You have promised us'?" Gather learners' hypotheses, then defer resolution until studying the text.
+**Opening — 5 minutes:** Ask: "If Allah never breaks His promise, why did the believers pray, 'grant us what You have promised us'?" Gather learners' hypotheses, then hold off on settling the question until the text has been studied.
 
 <!-- lesson-plan:evidence -->
 **Studying the Evidence — 18 minutes:** Three groups study the three pieces of evidence. The first extracts the wording of need and promise, the second the young man's intention in his du'a, and the third the link between Jannah and words and deeds. Each group presents a conclusion with textual support.
@@ -432,7 +432,7 @@ After the du'a, name to yourself one word or deed you want to draw you nearer to
 **Opening — 4 minutes:** Ask: "What beautiful thing do we ask Allah for?" Listen, then say today's lesson is about a young man who asked for the greatest home: Jannah.
 
 <!-- lesson-plan:evidence -->
-**Reading the Evidence — 6 minutes:** The teacher narrates the story taught in the lesson, pausing at the young man's answer to ask the children what he asked Allah for, then finishes with the Prophet's answer, peace and blessings be upon him.
+**Reading the Evidence — 6 minutes:** The teacher narrates the hadith story as told in the lesson, pausing at the young man's answer to ask the children what he asked Allah for, then finishes with the Prophet's answer, peace and blessings be upon him.
 
 <!-- lesson-plan:instruction -->
 **Guided Instruction — 5 minutes:** The teacher raises the speech-bubble card at "I ask Allah for Jannah" and the footprint card at "I do good." He explains that du'a and deed go together, and that a child can pray with correct words they understand.
@@ -456,7 +456,7 @@ After the du'a, name to yourself one word or deed you want to draw you nearer to
 ### Children Ages 8-12 — 45 Minutes
 
 <!-- lesson-plan:outcomes -->
-**Learning Outcomes:** The student accurately summarizes the young man's situation, explains the meaning of `dandanah` and seeking refuge, distinguishes a formal du'a from one that directs behavior, and designs a card applicable for seven days.
+**Learning Outcomes:** The student accurately summarizes the young man's situation, explains the meaning of `dandanah` and seeking refuge, distinguishes a perfunctory du'a from one that directs behavior, and designs a card they can put into practice for seven days.
 
 <!-- lesson-plan:materials -->
 **Materials:** The text of the hadith of Abu Dawud; term cards; "du'a and step" templates; pens; optional tracking stickers.
@@ -474,7 +474,7 @@ After the du'a, name to yourself one word or deed you want to draw you nearer to
 **Guided Instruction — 8 minutes:** The teacher explains both terms, then balances beginning with an understood du'a against learning the prophetic ones. He connects this to Ibn Majah's phrase: "whatever word or deed draws nearer to it."
 
 <!-- lesson-plan:activity -->
-**Activity — 14 minutes:** Students design three cards, then choose one to try. Each pair exchanges a general card to review the clarity of the time, the du'a, and the deed, while each student keeps the right to keep their own plan private.
+**Activity — 14 minutes:** Students design three cards, then choose one to try. Pairs swap a non-personal card to review the clarity of the time, the du'a, and the deed, and every student may keep their own plan private.
 
 <!-- lesson-plan:assessment -->
 **Assessment and Closing — 8 minutes:** Each student writes two sentences: "I learned from the young man..." and "When I ask for Jannah, I will..." The teacher checks for correct understanding of the hadith and a specific deed, then reads the du'a.
@@ -483,7 +483,7 @@ After the du'a, name to yourself one word or deed you want to draw you nearer to
 **Differentiation:** Provide illustrated cards and sentence starters for struggling students, and ask advanced students to explain how the hadith of Ibn Majah joins the heart, the tongue, and the limbs.
 
 <!-- lesson-plan:safeguards -->
-**Teaching Cautions:** No student should mock another's lesser memorization, and tracking marks must never become showing off or competition. Do not ask students to announce sins or family details, and gently correct any unfounded specification of time or number.
+**Teaching Cautions:** No student should mock another for knowing less by heart, and tracking marks must never become showing off or competition. Do not ask students to announce sins or family details, and gently correct any religious specification that is not established.
 
 <!-- lesson-plan:end -->
 
@@ -495,13 +495,13 @@ After the du'a, name to yourself one word or deed you want to draw you nearer to
 **Learning Outcomes:** The student analyzes the balance between simplicity in du'a and learning what has been transmitted, critiques separating wishes from deeds, explains the link between goal and means in the hadith of 'Aishah, and builds a personal, evaluable protocol.
 
 <!-- lesson-plan:materials -->
-**Materials:** The file of the three pieces of evidence; a "goal/du'a/decision/obstacle" template; short scenarios about performative religiosity and procrastination; exit slips.
+**Materials:** A handout of the three pieces of evidence; a "goal/du'a/decision/obstacle" template; short scenarios about performative religiosity and procrastination; exit slips.
 
 <!-- lesson-plan:preparation -->
 **Preparation:** The teacher reviews the context of the hadith of Abu Dawud without adding unconfirmed details, drafts general scenarios pointing to no specific student, and prepares alternatives for anyone unwilling to share a personal plan.
 
 <!-- lesson-plan:opening -->
-**Opening — 5 minutes:** Write two statements: "I cannot pray until I memorize a great deal" and "It is enough for me to just wish for Jannah." Ask students to identify the flaw in each.
+**Opening — 5 minutes:** Write two statements: "I can't make du'a until I have memorized a great deal" and "It is enough for me to just wish for Jannah." Ask students to identify the flaw in each.
 
 <!-- lesson-plan:evidence -->
 **Studying the Evidence — 13 minutes:** Small groups read the evidence, each searching for a different relationship: promise and asking; simplicity and intention; goal, word, and deed. Each presents a conclusion with textual support.
@@ -510,7 +510,7 @@ After the du'a, name to yourself one word or deed you want to draw you nearer to
 **Guided Instruction — 12 minutes:** The teacher discusses how du'a can turn into a social performance or a habit without presence, then shows that the remedy is not abandoning du'a but understanding it, bringing need to mind, and linking it to a decision.
 
 <!-- lesson-plan:activity -->
-**Activity — 15 minutes:** Each student builds a "goal, du'a, decision" protocol for a week, testing the plan with two questions: is the decision specific? Can the du'a remind them of it at the trigger moment? Sharing is optional.
+**Activity — 15 minutes:** Each student builds a "goal, du'a, decision" protocol for a week, testing the plan with two questions: is the decision specific? Can the du'a remind them of it at the trigger moment? Sharing is optional, and a hypothetical case may be used.
 
 <!-- lesson-plan:assessment -->
 **Assessment and Closing — 10 minutes:** Students analyze a scenario of someone who posts many du'as yet persists in harming others: what is the gap, and what is the correction, without judging his fate? They then write an exit card explaining the young man's hadith and one application.
@@ -528,7 +528,7 @@ After the du'a, name to yourself one word or deed you want to draw you nearer to
 ## References
 
 [^1]: The Noble Qur'an, Surah Aal 'Imran, ayat 193-194: [Qur'anic text](https://quran.com/3/193-194).
-[^2]: Ibn Qayyim al-Jawziyyah, *Hadi al-Arwah ila Bilad al-Afrah*, chapter twenty on the people of Jannah asking their Lord for it, explaining that the believers' asking for what Allah promised on the tongues of His messengers: [al-Maktaba ash-Shamila](https://shamela.ws/book/13652/232).
+[^2]: Ibn Qayyim al-Jawziyyah, *Hadi al-Arwah ila Bilad al-Afrah*, chapter twenty on the people of Jannah asking their Lord for it, on the believers' asking for what Allah promised them through His messengers: [al-Maktaba ash-Shamila](https://shamela.ws/book/13652/232).
 [^3]: Sunan Abu Dawud, Book of Prayer, hadith 793, narrated by Jabir ibn 'Abdullah, may Allah be pleased with him, in the story of Mu'adh, authenticated by al-Albani: [Sunnah.com, hadith 793](https://sunnah.com/abudawud:793).
 [^4]: Sunan Ibn Majah, Book of Du'a, chapter on comprehensive du'as, hadith 3846, narrated by 'Aishah, may Allah be pleased with her, an authentic hadith: [Sunnah.com, hadith 3846](https://sunnah.com/ibnmajah:3846).
 

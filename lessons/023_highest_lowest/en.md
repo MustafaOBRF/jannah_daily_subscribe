@@ -60,7 +60,7 @@ The Qur'an offers a living example of this scale of values: the wife of Pharaoh,
 
 #### Scholarly Explanation
 
-Imam an-Nawawi, may Allah have mercy on him, explained "what they have taken" (*akhadhatihim*) as the honor they have received from their Master and secured for themselves, and "the ones I chose" (*aradtu*) as those whom He selected and singled out. He explained that the seal set upon their honor means it is preserved, beyond the reach of any change.[^3] And the words "you shall have whatever your soul desires" show that the gift of the lowest does not stop at the numbers mentioned.
+Imam an-Nawawi, may Allah have mercy on him, cited al-Qadi 'Iyad as explaining "what they have taken" (*akhadhatihim*) as the honor they have received from their Master and secured for themselves; he explained "the ones I chose" (*aradtu*) as those whom He selected and singled out, and said that "I planted their honor with My Hand and set a seal upon it" means: I selected them and took charge of them, so no change can reach their honor.[^3] And the words "you shall have whatever your soul desires" show that the gift of the lowest does not stop at the numbers mentioned.
 
 #### Lesson Explanation
 
@@ -120,7 +120,7 @@ She occupied one of the highest ranks this world has to offer, and yet in her pr
 
 #### Scholarly Explanation
 
-The commentators mention that Pharaoh had been slaughtering the sons of the Children of Israel, as the opening of the surah states. The *lam* in `so that he would become` is the *lam* of outcome (*lam al-'aqibah*): they did not pick him up in order to make him their enemy, but that is how their deed ended.[^7]
+The commentators mention that Pharaoh had been slaughtering the sons of the Children of Israel, as the opening of the surah states. Ibn Kathir reports from Muhammad ibn Ishaq and others that the *lam* in `so that he would become` is the *lam* of outcome (*lam al-'aqibah*): they did not pick him up in order to make him their enemy, but that is how their deed ended. Ibn Kathir adds that, seen in light of Allah's decree, it remains a *lam* of purpose: Allah caused them to pick him up so that He would make him an enemy and a grief for them.[^7]
 
 #### Lesson Explanation
 
@@ -140,7 +140,7 @@ The Qur'an does not say when the wife of Pharaoh came to believe, but it preserv
 
 #### Scholarly Explanation
 
-Al-Hafiz Ibn Hajar, may Allah have mercy on him, explained that perfection here means reaching the utmost degree in virtues and in qualities of righteousness, and that the majority of scholars do not take it as proof that the women named were prophets.[^9]
+Al-Hafiz Ibn Hajar, may Allah have mercy on him, cited al-Kirmani as saying that perfection is used for a thing being complete and reaching its utmost in its kind, so what is meant is reaching the utmost in all the virtues proper to women, and that the word "perfection" does not by itself establish prophethood. He also mentioned the scholars' disagreement over whether Maryam was a prophet, and cited al-Qurtubi as saying that nothing has come indicating that Asiyah was a prophet.[^9]
 
 #### Lesson Explanation
 
@@ -365,7 +365,7 @@ So here's the question: if the lowest person in Jannah ranks above kings, what s
 <!-- terminology:start source_id="quran-66-11" -->
 
 - **`Allah sets forth an example (daraba Allahu mathalan)`** — Allah made her situation a model to follow and a standard to measure by, not just a piece of history.
-- **`Perfection (al-kamal)`** — in the hadith "Many men attained perfection": reaching the utmost degree in virtues and qualities of righteousness.[^9]
+- **`Perfection (al-kamal)`** — in the hadith "Many men attained perfection": reaching the utmost in all virtues, as Ibn Hajar cites from al-Kirmani.[^9]
 
 <!-- terminology:end -->
 
@@ -452,7 +452,7 @@ What it means: O Allah, make nearness to You the goal of all my ambition, raise 
 **Materials:** A copy of the lesson for each learner; a mushaf for referring to Surat at-Tahrim and Surat al-Qasas; a board divided into two columns ("The Lowest Station" and "The Highest"); an activity sheet with two side-by-side tables for the first and second rankings; an exit card.
 
 <!-- lesson-plan:preparation -->
-**Preparation:** The teacher reads the five pieces of evidence and their references, reviews an-Nawawi's commentary on the hadith of Muslim 189 and Ibn Kathir's tafsir of at-Tahrim 66:11, and notes that the reports narrated about the torture of Pharaoh's wife are *mawquf* reports on which nothing is built. The teacher also bears in mind that the previous lesson in the series ("The Last to Enter Jannah") presented a hadith close to the "lowest" end of the range, and so simply refers to it without repeating it.
+**Preparation:** The teacher reads the five pieces of evidence and their references, reviews an-Nawawi's commentary on the hadith of Muslim 189 and Ibn Kathir's tafsir of at-Tahrim 66:11, and notes that the reports narrated about the torture of Pharaoh's wife are *mawquf* reports on which nothing is built. The teacher also bears in mind that an earlier lesson in the series (Lesson 19, "The Last to Enter Jannah") presented a hadith close to the "lowest" end of the range, and so simply refers to it without repeating it.
 
 <!-- lesson-plan:opening -->
 **Opening — 5 minutes:** The teacher asks: "If you were asked to list the ten people with the highest standing in your city, what criteria would you use to choose them?" The teacher writes the criteria on the board without comment, to return to them at the close.

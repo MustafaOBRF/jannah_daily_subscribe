@@ -30,7 +30,7 @@ bedtime_dua_id: "lesson.035.dua.praise-for-food-and-shelter"
 
 ## القسم الأكاديمي للبالغين
 
-<!-- reader:start audience="adults" estimated_minutes="6.5" -->
+<!-- reader:start audience="adults" estimated_minutes="7.0" -->
 
 <!-- unit:start id="adults.explanation" kind="explanation" -->
 
@@ -146,7 +146,7 @@ bedtime_dua_id: "lesson.035.dua.praise-for-food-and-shelter"
 
 ## للأطفال من ٤ إلى ٧ سنوات
 
-<!-- reader:start audience="4-7" estimated_minutes="5.0" -->
+<!-- reader:start audience="4-7" estimated_minutes="4.5" -->
 
 <!-- unit:start id="4-7.explanation" kind="explanation" -->
 
@@ -231,7 +231,7 @@ bedtime_dua_id: "lesson.035.dua.praise-for-food-and-shelter"
 
 ## للأطفال من ٨ إلى ١٢ سنة
 
-<!-- reader:start audience="8-12" estimated_minutes="6.0" -->
+<!-- reader:start audience="8-12" estimated_minutes="5.0" -->
 
 <!-- unit:start id="8-12.explanation" kind="explanation" -->
 
@@ -325,7 +325,7 @@ bedtime_dua_id: "lesson.035.dua.praise-for-food-and-shelter"
 
 ## للمراهقين ١٣+
 
-<!-- reader:start audience="13+" estimated_minutes="6.5" -->
+<!-- reader:start audience="13+" estimated_minutes="5.0" -->
 
 <!-- unit:start id="13+.explanation" kind="explanation" -->
 
@@ -572,7 +572,7 @@ bedtime_dua_id: "lesson.035.dua.praise-for-food-and-shelter"
 [^4]: ابن قيم الجوزية، حادي الأرواح إلى بلاد الأفراح، الفصل الأخير: "ونختم هذا الكتاب بما ابتدأناه به أولًا، وهو خاتمة دعوى أهل الجنة" (ط. عطاءات العلم، ص ٨٤٣-٨٤٩)، وفيه خبر ابن جريج بصيغة "أُخبِرتُ" (أخرجه الطبري في تفسيره، وهو بلاغ لم يُسمَّ فيه المخبِر، فلا يُعتمد عليه)، وقول سفيان الثوري (أخرجه ابن أبي حاتم والطبري، وصحّح المحقق سنده إليه)، وتعقيب ابن القيم عليهما: [shamela.ws/book/13652/895](https://shamela.ws/book/13652/895).
 [^5]: القرآن الكريم، سورة فاطر، الآيات ٣٣-٣٥: [quran.com/35/33-35](https://quran.com/35/33-35)؛ وتفسير ابن كثير للآيتين ٣٤ و٣٥ (ومنه قول ابن عباس في {غَفُورٌ شَكُورٌ}، وتفسير النصب واللغوب): [quran.ksu.edu.sa/tafseer/katheer/sura35-aya34.html](https://quran.ksu.edu.sa/tafseer/katheer/sura35-aya34.html) و[quran.ksu.edu.sa/tafseer/katheer/sura35-aya35.html](https://quran.ksu.edu.sa/tafseer/katheer/sura35-aya35.html).
 [^6]: السعدي، تيسير الكريم الرحمن، تفسير سورة فاطر، الآية ٣٤: [quran.ksu.edu.sa/tafseer/saadi/sura35-aya34.html](https://quran.ksu.edu.sa/tafseer/saadi/sura35-aya34.html).
-[^7]: صحيح مسلم، كتاب الجنة وصفة نعيمها وأهلها، باب في صفات الجنة وأهلها وتسبيحهم فيها بكرة وعشيًّا، حديث ٢٨٣٥ (في ترقيم Sunnah.com ‏2835a)، من حديث جابر بن عبد الله رضي الله عنهما، صحيح؛ والروايتان من طريق أبي الزبير عن جابر في الموضع نفسه (Sunnah.com ‏2835b و2835c): [sunnah.com/muslim:2835a](https://sunnah.com/muslim:2835a).
+[^7]: صحيح مسلم، كتاب الجنة وصفة نعيمها وأهلها، باب في صفات الجنة وأهلها وتسبيحهم فيها بكرة وعشيًّا، حديث ٢٨٣٥ (في ترقيم Sunnah.com ‏2835a)، من حديث جابر بن عبد الله رضي الله عنهما، صحيح؛ والروايتان من طريق أبي الزبير عن جابر في الموضع نفسه (Sunnah.com ‏2835c و2835d): [sunnah.com/muslim:2835a](https://sunnah.com/muslim:2835a).
 [^8]: صحيح مسلم، كتاب الطهارة، باب فضل الوضوء، حديث ٢٢٣، من حديث أبي مالك الأشعري رضي الله عنه، صحيح: [sunnah.com/muslim:223](https://sunnah.com/muslim:223)؛ والنووي، المنهاج شرح صحيح مسلم بن الحجاج، كتاب الطهارة، باب فضل الوضوء، شرح الحديث ٢٢٣: [islamweb.net/ar/library/index.php?page=bookcontents&flag=1&bk_no=53&ID=640](https://www.islamweb.net/ar/library/index.php?page=bookcontents&flag=1&bk_no=53&ID=640).
 [^9]: صحيح مسلم، كتاب الذكر والدعاء والتوبة والاستغفار، باب ما يقول عند النوم وأخذ المضجع، حديث ٢٧١٥، من حديث أنس بن مالك رضي الله عنه، صحيح: [sunnah.com/muslim:2715](https://sunnah.com/muslim:2715).
 

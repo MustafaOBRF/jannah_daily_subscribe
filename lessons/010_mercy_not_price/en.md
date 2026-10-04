@@ -23,25 +23,25 @@ After this lesson, the learner will be able to:
 
 - Distinguish between deeds as a commanded cause and deeds imagined as a price equal to Jannah, or a right the servant imposes on his Lord.
 - Reconcile `fadlan min rabbik` ("a grace from your Lord," ad-Dukhan) and `bima kuntum ta'maloon` ("for what you used to do," al-A'raf) without contradiction, showing that the ba' in each is a ba' of causation, not exchange.
-- Narrate the hadith "Aim aright, draw near, and rejoice," and explain how it shows no one is saved by his deeds alone — not even the Prophet, peace and blessings be upon him — except by Allah's mercy and grace.
-- Identify the three heart-diseases this understanding guards against: self-admiration, complacency, and despair, and recognize each in a given statement or scenario.
+- Narrate the hadith "Draw near and aim aright," and explain how it shows no one is saved by his deeds alone — not even the Prophet, peace and blessings be upon him — except by Allah's mercy and grace.
+- Identify the three conditions of the heart this understanding guards against: self-admiration, complacency, and despair, and recognize each in a given statement or scenario.
 - Classify a statement about deeds and Jannah as sound, incomplete, or false, and repair the incomplete or false one by anchoring it to evidence from the three texts.
 
 ## Academic Section for Adults
 
-<!-- reader:start audience="adults" estimated_minutes="6.0" -->
+<!-- reader:start audience="adults" estimated_minutes="6.5" -->
 
 <!-- unit:start id="adults.explanation" kind="explanation" -->
 
-Revelation joins two truths that never conflict: Allah ties reward to righteous deeds, yet the Prophet, peace and blessings be upon him, teaches that no one is saved by his deeds alone, apart from Allah's mercy. The deed is a **commanded cause**, not a price equal to Jannah, nor a right the servant imposes on his Lord. The root of salvation, entry, and bliss is Allah's grace and mercy.
+Revelation joins two truths that never conflict: Allah ties reward to righteous deeds, yet the Prophet, peace and blessings be upon him, teaches that no one is saved by his deeds alone, apart from Allah's mercy. The deed is a **commanded cause**, not a price equal to Jannah, nor a right the servant imposes on his Lord. Salvation itself, entry into Jannah, and its bliss all rest on Allah's grace and mercy.
 
 This understanding guards the heart from three deviations:
 
-1. **Self-admiration:** the worker does not say, "I earned Jannah by my own strength and abundant deeds."
-2. **Complacency:** the negligent does not say, "Since Jannah is by Allah's mercy, obedience is unnecessary" — the very hadith opens by commanding aim and steadiness.
-3. **Despair:** the repentant sinner does not think his shortcoming closed the door of hope; rather, he corrects what he can, repents, and thinks well of Allah's mercy, without false security or arrogance.
+1. **Self-admiration:** the one who does good does not say, "I earned Jannah by my own strength and abundant deeds."
+2. **Complacency:** the one who falls short does not say, "Since Jannah is by Allah's mercy, obedience is unnecessary" — the hadith itself opens with the command to aim aright and draw near.
+3. **Despair:** the repentant sinner does not think his shortcoming closed the door of hope; rather, he corrects what he can, repents, and thinks well of Allah's mercy, without feeling safe from His plan or deceiving himself.
 
-`Sadad` ("aiming aright") is intending correctness and uprightness, and `muqarabah` ("drawing near") is giving one's utmost when perfection is beyond reach. Islam therefore neither demands flawless deeds nor accepts abandoning deeds in the name of hope; it demands sincere direction, sustained striving, and dependence upon Allah.
+`Sadad` ("aiming aright") is aiming for what is right and staying upright, and `muqarabah` ("drawing near") is giving one's utmost when perfection is beyond reach. Islam therefore neither demands flawless deeds nor accepts abandoning deeds in the name of hope; it asks for a sincere orientation, sustained striving, and dependence upon Allah.
 
 <!-- unit:end -->
 
@@ -51,13 +51,13 @@ This understanding guards the heart from three deviations:
 
 <!-- evidence:start id="quran-44-51-57" kind="quran" mode="canonical" -->
 
-### Allah's Grace in the Completion of Triumph
+### The Complete Triumph Is Allah's Grace
 
-> **إِنَّ الْمُتَّقِينَ فِي مَقَامٍ أَمِينٍ ۝ فِي جَنَّاتٍ وَعُيُونٍ ۝ يَلْبَسُونَ مِنْ سُنْدُسٍ وَإِسْتَبْرَقٍ مُتَقَابِلِينَ ۝ كَذَٰلِكَ وَزَوَّجْنَاهُمْ بِحُورٍ عِينٍ ۝ يَدْعُونَ فِيهَا بِكُلِّ فَاكِهَةٍ آمِنِينَ ۝ لَا يَذُوقُونَ فِيهَا الْمَوْتَ إِلَّا الْمَوْتَةَ الْأُولَىٰ وَوَقَاهُمْ عَذَابَ الْجَحِيمِ ۝ فَضْلًا مِنْ رَبِّكَ ۚ ذَٰلِكَ هُوَ الْفَوْزُ الْعَظِيمُ.** [الدخان: ٥١-٥٧][^1]
+> **إِنَّ الْمُتَّقِينَ فِي مَقَامٍ أَمِينٍ ۝ فِي جَنَّاتٍ وَعُيُونٍ ۝ يَلْبَسُونَ مِنْ سُنْدُسٍ وَإِسْتَبْرَقٍ مُتَقَابِلِينَ ۝ كَذَٰلِكَ وَزَوَّجْنَاهُمْ بِحُورٍ عِينٍ ۝ يَدْعُونَ فِيهَا بِكُلِّ فَاكِهَةٍ آمِنِينَ ۝ لَا يَذُوقُونَ فِيهَا الْمَوْتَ إِلَّا الْمَوْتَةَ الْأُولَىٰ ۖ وَوَقَاهُمْ عَذَابَ الْجَحِيمِ ۝ فَضْلًا مِنْ رَبِّكَ ۚ ذَٰلِكَ هُوَ الْفَوْزُ الْعَظِيمُ.** [الدخان: ٥١-٥٧][^1]
 
 <!-- evidence:translation -->
 
-> **"Indeed, the righteous will be in a secure place, in gardens and springs, wearing garments of fine silk and brocade, facing one another. So [it will be]. And We will marry them to fair women with large, beautiful eyes. They will call therein for every [kind of] fruit — safe and secure. They will not taste death therein except the first death, and He will have protected them from the punishment of the Blazing Fire, as a grace from your Lord. That is the great attainment."** [ad-Dukhan 44:51-57][^1]
+> **"Indeed, the righteous will be in a secure place, in gardens and springs, wearing garments of fine silk and brocade, facing one another. So [it will be]. And We will marry them to fair women with large, beautiful eyes. They will call therein for every [kind of] fruit — safe and secure. They will not taste death therein except the first death, and He will have protected them from the punishment of the Blazing Fire, as a grace from your Lord. That is the great triumph."** [ad-Dukhan 44:51-57][^1]
 
 #### Scholarly Tafsir
 
@@ -81,7 +81,7 @@ The verses name taqwa (God-consciousness) first, then attribute the completion o
 
 #### Scholarly Tafsir
 
-The ayah establishes the effect of deeds, yet it opens with Jannah's people confessing that guidance came from Allah. Scholars explained that the ba' in `bima kuntum ta'maloon` ("for what you used to do") is a ba' of causation: they entered because of deeds Allah enabled and accepted from them, not because the deed is an independent price equal to Jannah.[^4]
+The ayah establishes the effect of deeds, yet it opens with the people of Jannah acknowledging that their guidance came from Allah. Scholars have explained that the ba' in `bima kuntum ta'maloon` ("for what you used to do") is a ba' of causation: they entered because of deeds Allah enabled and accepted from them, not because the deed is an independent price equal to Jannah.[^4]
 
 #### Lesson Explanation
 
@@ -93,19 +93,19 @@ The servant truly acts, is held accountable for his choice, and hopes for reward
 
 ### Aiming Aright While Depending on Mercy
 
-> عَنْ أَبِي هُرَيْرَةَ رضي الله عنه قَالَ: قَالَ رَسُولُ اللهِ صلى الله عليه وسلم: **«قَارِبُوا وَسَدِّدُوا وَأَبْشِرُوا، وَاعْلَمُوا أَنَّهُ لَنْ يَنْجُوَ أَحَدٌ مِنْكُمْ بِعَمَلِهِ». قَالُوا: يَا رَسُولَ اللهِ، وَلَا أَنْتَ؟ قَالَ: «وَلَا أَنَا، إِلَّا أَنْ يَتَغَمَّدَنِيَ اللهُ بِرَحْمَةٍ مِنْهُ وَفَضْلٍ».**[^5]
+> عَنْ أَبِي هُرَيْرَةَ رضي الله عنه قَالَ: قَالَ رَسُولُ اللهِ صلى الله عليه وسلم: **«قَارِبُوا وَسَدِّدُوا، وَاعْلَمُوا أَنَّهُ لَنْ يَنْجُوَ أَحَدٌ مِنْكُمْ بِعَمَلِهِ». قَالُوا: يَا رَسُولَ اللهِ، وَلَا أَنْتَ؟ قَالَ: «وَلَا أَنَا، إِلَّا أَنْ يَتَغَمَّدَنِيَ اللهُ بِرَحْمَةٍ مِنْهُ وَفَضْلٍ».**[^5]
 
 <!-- evidence:translation -->
 
-> On the authority of Abu Hurayrah, may Allah be pleased with him, who said: The Messenger of Allah, peace and blessings be upon him, said: **"Aim aright, draw near [to perfection], and rejoice, and know that none of you will be saved by his deeds alone."** They said, "Not even you, O Messenger of Allah?" He said, **"Not even me, unless Allah envelops me in mercy and grace from Himself."**[^5]
+> On the authority of Abu Hurayrah, may Allah be pleased with him, who said: The Messenger of Allah, peace and blessings be upon him, said: **"Draw near [to perfection] and aim aright, and know that none of you will be saved by his deeds."** They said, "Not even you, O Messenger of Allah?" He said, **"Not even me, unless Allah envelops me in mercy and grace from Himself."**[^5]
 
 #### Scholarly Explanation
 
-The hadith joins the command to act, to be moderate, and to rejoice, with the negation of deeds alone securing salvation. Ibn al-Qayyim explained that the negated ba' here is the ba' of exchange — as though the deed were a price equal to Jannah — while the affirmed ba' in the verses is the ba' of causation.[^4]
+The hadith pairs the command to act with balance and the denial that deeds by themselves secure salvation. Ibn al-Qayyim explained that the negated ba' here is the ba' of exchange — as though the deed were a price equal to Jannah — while the affirmed ba' in the verses is the ba' of causation.[^4]
 
 #### Lesson Explanation
 
-The Companions' question, "Not even you?", cuts off the path to arrogance: if the Messenger of Allah, peace and blessings be upon him, the most perfect in worship, still depends on Allah's mercy, then everyone else depends on it even more. Yet he did not tell them to abandon deeds; he said, `qaribu wa saddidu wa abshiru` ("aim aright, draw near, and rejoice").
+The Companions' question, "Not even you?", closes the road to self-delusion: if the Messenger of Allah, peace and blessings be upon him, the most perfect of people in worship, still depends on Allah's mercy, then everyone else depends on it even more. Yet he did not tell them to abandon deeds; he said, `qaribu wa saddidu` ("draw near and aim aright").
 
 <!-- evidence:end -->
 
@@ -118,7 +118,7 @@ The Companions' question, "Not even you?", cuts off the path to arrogance: if th
 1. How do the texts reconcile `bima kuntum ta'maloon` and `fadlan min rabbik`?
 2. What is the difference between deeds as a cause and deeds as a price?
 3. How does the hadith answer self-admiration, complacency, and despair all at once?
-4. In which deed do you need greater aim and a clearer dependence on Allah?
+4. In which of your deeds do you most need to aim more carefully, with a clearer sense of your need for Allah?
 
 <!-- unit:end -->
 
@@ -128,7 +128,7 @@ The Companions' question, "Not even you?", cuts off the path to arrogance: if th
 
 <!-- activity:start audience="adults" concept_id="lesson.010.activity.claim-classify-repair" -->
 
-Classify the six statements below as **sound**, **incomplete**, or **false**: (1) "Deeds have no value since entry is by Allah's mercy," (2) "My abundant worship gives me a right over Allah to enter Jannah," (3) "I act because Allah commanded me, hoping for His acceptance and mercy," (4) "Deeds are a cause for entering Jannah," (5) "Allah is merciful, so there's no need to rush repentance," (6) "My guidance toward deeds is a favor, and I remain responsible for my choice and required to persevere." Link each judgment to evidence from the three texts, then rephrase every incomplete or false statement into one sentence joining cause and grace.
+Classify the six statements below as **sound**, **incomplete**, or **false**: (1) "Deeds have no value since entry is by Allah's mercy," (2) "My abundant worship gives me a right over Allah to enter Jannah," (3) "I act because Allah commanded me, hoping for His acceptance and mercy," (4) "Deeds are a cause for entering Jannah," (5) "Allah is merciful, so there's no need to rush repentance," (6) "Being guided to do good is a blessing, and I am still responsible for my choices and must keep going." Link each judgment to evidence from the three texts, then rephrase every incomplete or false statement into one sentence joining cause and grace.
 
 <!-- activity:end -->
 
@@ -136,13 +136,13 @@ Classify the six statements below as **sound**, **incomplete**, or **false**: (1
 
 <!-- reader:end -->
 
-<!-- reader:start audience="4-7" estimated_minutes="5.5" -->
+<!-- reader:start audience="4-7" estimated_minutes="4.5" -->
 
 <!-- unit:start id="4-7.explanation" kind="explanation" -->
 
 ## For Children Ages 4 to 7
 
-We pray, tell the truth, and are kind to people because Allah loves good deeds. But our deeds don't buy Jannah the way we buy a toy. Jannah is greater than anything we could ever do, and Allah lets His servants into Jannah by His mercy and grace. So we say: **I do good, I ask for Allah's mercy, and I don't boast about myself.**
+We pray, tell the truth, and are kind to people because Allah loves good deeds. But our deeds don't buy Jannah the way we buy a toy. Jannah is greater than anything we could ever do, and Allah brings His servants into Jannah by His mercy and grace. So we say: **I do good, I ask for Allah's mercy, and I don't boast about myself.**
 
 <!-- unit:end -->
 
@@ -156,7 +156,7 @@ We pray, tell the truth, and are kind to people because Allah loves good deeds. 
 
 On Friday morning, Adam went with his family to the community center to pack food boxes for people in need. He wanted to fill many boxes, so he carried cans and stacked them until he finished three boxes.
 
-He looked at his little sister's small box and said, "I did more, so I'm better!" His father asked him gently, "And who gave us the food? Who gave you the strength? Who taught us to be kind?" Adam paused, then noticed a younger child struggling to lift a can, so he helped him instead of counting his own boxes.
+He looked at his little sister's small box and said, "I did more, so I'm better!" His father asked him gently, "And who gave us the food? Who gave you the strength? Who taught us to be kind?" Adam paused, then noticed a younger child struggling to lift a can, so he helped him instead of counting up his own good deeds.
 
 On the way home, Adam said, "I'm happy Allah helped us do good. I'll keep working, and I'll ask Him to accept it and be merciful to us." He learned that good deeds matter, but they are a gift from Allah, not a price that buys Jannah.
 
@@ -172,7 +172,7 @@ On the way home, Adam said, "I'm happy Allah helped us do good. I'll keep workin
 
 <!-- retelling:start source_id="muslim-2816c" audience="4-7" -->
 
-The Prophet, peace and blessings be upon him, told his Companions: try to do what's right, get as close to it as you can, and be happy about Allah's good news. Then he taught them that deeds alone cannot save a person without Allah's mercy. So they asked him, "Not even you, O Messenger of Allah?" He said that even he would not be saved unless Allah surrounded him with His mercy and grace.[^5]
+The Prophet, peace and blessings be upon him, told his Companions: try to do what's right, and get as close to it as you can. Then he taught them that deeds alone cannot save a person without Allah's mercy. So they asked him, "Not even you, O Messenger of Allah?" He said that even he would not be saved unless Allah surrounded him with His mercy and grace.[^5]
 
 This doesn't mean we stop praying or doing good — the Prophet, peace and blessings be upon him, began by commanding the right deed. So we act, and when we make mistakes we repent and try again, and our hearts know that all grace belongs to Allah.
 
@@ -222,15 +222,15 @@ An adult shows two picture cards: "I do good and ask for Allah's mercy" and "I b
 
 <!-- reader:end -->
 
-<!-- reader:start audience="8-12" estimated_minutes="6.0" -->
+<!-- reader:start audience="8-12" estimated_minutes="5.5" -->
 
 <!-- unit:start id="8-12.explanation" kind="explanation" -->
 
 ## For Children Ages 8 to 12
 
-Someone might think that many good deeds make Jannah an owed right, while another might think Allah's mercy means he can abandon prayer and honesty. Both ideas are wrong. Deeds are causes Allah commanded us to do, but the guidance toward them, the ability to do them, and their acceptance are all His grace, and entry into Jannah is by His mercy.
+Someone might think that many good deeds make Jannah something he is owed, while someone else might think Allah's mercy means he can give up prayer and honesty. Both ideas are wrong. Deeds are causes Allah commanded us to do, but the guidance toward them, the ability to do them, and their acceptance are all His grace, and entry into Jannah is by His mercy.
 
-Imagine a student who succeeded because his teacher taught him and his family helped him, then he also put in real effort. It would be wrong to deny his effort, and wrong to forget all he was given. This example is limited, though; Allah's mercy and grace are far greater, and nothing human giving compares to them.
+Imagine a student who succeeded because his teacher taught him and his family helped him, then he also put in real effort. It would be wrong to deny his effort, and wrong to forget all he was given. This example is limited, though; Allah's mercy and grace are far greater, and no human giving compares to them.
 
 <!-- unit:end -->
 
@@ -242,11 +242,11 @@ Imagine a student who succeeded because his teacher taught him and his family he
 
 **This is an imaginative teaching story, not a hadith or historical report.**
 
-Yasir joined his school's campaign to prepare food baskets. His goal was to serve families and encourage his classmates, but he began writing the number of cans he collected next to every name. When he topped the list, he told his friend, "I'm the one who did the most good here." Then he saw a classmate who had only collected two cans, and assumed he hadn't cared about the campaign.
+Yasir joined his school's campaign to prepare food baskets. His goal was to serve families and encourage his classmates, but he began writing the number of cans he collected next to every name. When he topped the list, he told his friend, "I'm the one who did the most good here." Then he saw a classmate who had collected only two cans and assumed he hadn't cared about the campaign.
 
-The teacher asked the group, "Who gave you the money, health, and time? Who guided you to do this? And do we even know whose deeds Allah has accepted?" Yasir remembered that his classmate had stayed after everyone else left to help carry boxes, without ever writing down his name.
+The teacher asked the group, "Who gave you the money, health, and time? Who guided you to do this? And do we even know which deeds Allah has accepted?" Yasir remembered that his classmate had stayed after school to help carry boxes, without ever writing down his name.
 
-Yasir apologized to him, erased the ranked list, and made the board show what the project needed instead of a competition between people. He kept working hard, but now he said, "All praise to Allah who helped us; we ask Him for acceptance and mercy." He learned that good deeds are a responsibility and a cause for good, not a bill that owes him a right over Allah, nor a reason to look down on others.
+Yasir apologized to him, erased the rankings, and made the board show what the project needed instead of a competition between people. He kept working hard, but now he said, "All praise to Allah who helped us; we ask Him for acceptance and mercy." He learned that good deeds are a responsibility and a cause for good, not a bill that gives him a claim on Allah, nor an excuse to look down on others.
 
 <!-- story:end -->
 
@@ -260,7 +260,7 @@ Yasir apologized to him, erased the ranked list, and made the board show what th
 
 <!-- retelling:start source_id="muslim-2816c" audience="8-12" -->
 
-The Prophet, peace and blessings be upon him, directed his Companions to three things: aim for what is right, give your utmost to get close to it, and rejoice at Allah's good news. Then he told them that no one is saved by his deeds alone. What came next mattered greatly: "Not even you, O Messenger of Allah?" He answered that even he would not be saved unless Allah enveloped him in mercy and grace.[^5]
+The Prophet, peace and blessings be upon him, directed his Companions to two things: aim for what is right, and give your utmost to get close to it. Then he told them that no one is saved by his deeds alone. The question that followed was an important one: "Not even you, O Messenger of Allah?" He answered that even he would not be saved unless Allah enveloped him in mercy and grace.[^5]
 
 The order of the hadith shows that Allah's mercy is not an excuse for laziness — the command to aim aright came together with the news of mercy. And the Prophet's answer, peace and blessings be upon him, shows that abundant worship is no reason for pride. The right conclusion is: **I strive, I repent from my shortcomings, and I hope for Allah's mercy.**
 
@@ -299,7 +299,7 @@ The order of the hadith shows that Allah's mercy is not an excuse for laziness �
 
 <!-- activity:start audience="8-12" concept_id="lesson.010.activity.claim-classify-repair" -->
 
-Classify five cards: "There's no point in doing good deeds," "I enter Jannah because my good deeds are worth its price," "I act because Allah commanded me, hoping for His mercy," "Deeds are a cause for entering Jannah," "It's enough for me to just wish for good." Place each card under **sound**, **incomplete**, or **false** — the fourth is sound at its root but needs a note that the cause never stands apart from Allah's grace. Fix the wrong statements, complete the incomplete one, and write a short piece of hadith evidence under one of them.
+Classify five cards: "There's no point in doing good deeds," "I enter Jannah because my good deeds are worth its price," "I act because Allah commanded me, hoping for His mercy," "Deeds are a cause for entering Jannah," "It's enough for me to just wish for good." Place each card under **sound**, **incomplete**, or **false** — the fourth is sound at its root but needs a note that the cause never stands apart from Allah's grace. Fix the wrong statements, complete the incomplete one, and under one of them write a short proof from the hadith.
 
 <!-- activity:end -->
 
@@ -323,15 +323,15 @@ Classify five cards: "There's no point in doing good deeds," "I enter Jannah bec
 
 <!-- reader:end -->
 
-<!-- reader:start audience="13+" estimated_minutes="6.5" -->
+<!-- reader:start audience="13+" estimated_minutes="5.5" -->
 
 <!-- unit:start id="13+.explanation" kind="explanation" -->
 
 ## For Teens, Ages 13+
 
-The problem of "deed versus price" appears today in several forms. One may compare his worship to others' and feel more deserving of acceptance; another may abandon striving on the excuse that Allah is merciful; another may despair because his past is full of shortcomings. Revelation corrects all three: no arrogant entitlement, no lazy hope, no despairing repentance.
+The problem of "deed versus price" appears today in several forms. Someone may compare his worship with other people's and feel more deserving of acceptance; someone else may give up striving on the pretext that Allah is merciful; and another may despair because his past is full of shortcomings. Revelation corrects all three: no arrogant entitlement, no lazy hope, no despairing repentance.
 
-The ayah of al-A'raf says Jannah's people praised Allah for His guidance before they heard, `uritumuha bima kuntum ta'maloon` ("you have been made to inherit it for what you used to do"). The verses of ad-Dukhan say the great triumph is `fadlan min rabbik` ("a grace from your Lord"). Human action is real and accountable, yet it is surrounded by a prior grace: guidance, ability, concealment, repentance, and acceptance.
+The ayah of al-A'raf says Jannah's people praised Allah for His guidance before they heard, `urithtumuha bima kuntum ta'maloon` ("you have been made to inherit it for what you used to do"). The verses of ad-Dukhan say the great triumph is `fadlan min rabbik` ("a grace from your Lord"). Human action is real and accountable, yet it is surrounded by grace that comes first: guidance, ability, His covering of faults, repentance, and acceptance.
 
 <!-- unit:end -->
 
@@ -343,11 +343,11 @@ The ayah of al-A'raf says Jannah's people praised Allah for His guidance before 
 
 **This is an imaginative teaching story, not a hadith or historical report.**
 
-Zayd led a youth team in a two-week food campaign. He organized schedules, contacted donors, and stayed behind after others left to arrange boxes. When the campaign ended, he wrote a post displaying the numbers, then closed it with a line implying this achievement proved his standing before Allah. He began tracking the likes and comparing his hours to his teammates'.
+Zayd led a youth team in a two-week food campaign. He organized schedules, contacted donors, and stayed behind after others left to arrange boxes. When the campaign ended, he wrote a post showing off the numbers, then closed it with a line implying this achievement proved his standing before Allah. He began tracking the likes and comparing his hours to his teammates'.
 
 His mentor read the draft and asked him, "Can you guarantee your deed is accepted? Who gave you the idea, health, time, and team? And do two weeks of service equal eternal bliss?" Zayd felt the question didn't erase his effort, but it exposed what had entered his heart: entitlement and comparison.
 
-He rewrote the post to thank the team and mention the families' need, deleting his self-praise. The next day he returned to finish distribution in a task that wouldn't show up in any photo. He didn't abandon the deed out of fear of showing off, nor did he credit himself for it; he kept serving, asked forgiveness for his self-admiration, and asked Allah for acceptance and mercy.
+He rewrote the post to thank the team and mention the families' need, deleting his self-praise. The next day he came back to finish the deliveries, a job that would never show up in any photo. He didn't abandon the deed out of fear of showing off, nor did he use it to praise himself; he kept serving, asked forgiveness for his self-admiration, and asked Allah for acceptance and mercy.
 
 <!-- story:end -->
 
@@ -361,9 +361,9 @@ He rewrote the post to thank the team and mention the families' need, deleting h
 
 <!-- retelling:start source_id="muslim-2816c" audience="13+" -->
 
-In Abu Hurayrah's hadith, may Allah be pleased with him, the Prophet, peace and blessings be upon him, offered no comfortable formula for either extreme. He said, `qaribu wa saddidu wa abshiru` ("aim aright, draw near, and rejoice"), affirming responsibility, striving, and hope together. Then he said no one would be saved by deeds alone, and the Companions immediately moved to the strongest case imaginable: the Messenger of Allah himself. They asked, "Not even you?" The answer came clear: "Not even me, unless Allah envelops me in mercy and grace from Himself."[^5]
+In Abu Hurayrah's hadith, may Allah be pleased with him, the Prophet, peace and blessings be upon him, offered no comfortable formula for either extreme. He said, `qaribu wa saddidu` ("draw near and aim aright"), affirming responsibility and striving together. Then he said no one would be saved by deeds alone, and the Companions immediately moved to the strongest case imaginable: the Messenger of Allah himself. They asked, "Not even you?" The answer was clear: "Not even me, unless Allah envelops me in mercy and grace from Himself."[^5]
 
-The question and answer prevent building a religious identity on superiority over others. Righteous deeds give their owner no license to look down on a sinner, just as the vastness of mercy gives the sinner no license to persist in sin. The believer sees his good deed as an enablement needing acceptance, and his sin as a door to sincere repentance, not a case for despair.
+The question and answer prevent building a religious identity on superiority over others. Righteous deeds give their owner no license to look down on a sinner, just as the vastness of mercy gives the sinner no license to persist in sin. The believer sees his good deed as a gift of divine enablement (tawfiq) that still needs to be accepted, and his sin as a door to sincere repentance, not an excuse for despair.
 
 <!-- retelling:end -->
 
@@ -376,8 +376,8 @@ The question and answer prevent building a religious identity on superiority ove
 <!-- terminology:start source_id="muslim-2816c" -->
 
 - **Ba' of causation** — indicates the deed is a path and cause upon which Allah based His reward.
-- **Ba' of exchange** — indicates matching one thing for another, like a price for goods; this is the meaning negated between deeds and Jannah.
-- **Self-admiration (`al-'ujb`)** — seeing one's own deed with a glorifying eye, forgetting Allah's enablement and one's own shortcomings.
+- **Ba' of exchange** — indicates matching one thing for another, like a price for goods; this is the meaning denied in the relationship between deeds and Jannah.
+- **Self-admiration (`al-'ujb`)** — seeing one's own deed as something grand while forgetting Allah's enablement and one's own shortcomings.
 
 <!-- terminology:end -->
 
@@ -444,16 +444,16 @@ Analyze three cases: someone who looks down on others because of his worship, so
 **Opening — 5 minutes:** Pose the question: "Does the phrase 'Jannah is by Allah's mercy' mean deeds don't matter?" Gather answers without immediate correction, then announce that the texts will build the answer.
 
 <!-- lesson-plan:evidence -->
-**Studying the Evidence — 15 minutes:** Groups read ad-Dukhan 44:51-57, al-A'raf 7:43, and Hadith Muslim 2816. They underline wording about deeds, and circle wording about guidance, grace, mercy, and glad tidings.
+**Studying the Evidence — 15 minutes:** Groups read ad-Dukhan 44:51-57, al-A'raf 7:43, and Sahih Muslim 2816. They underline wording about deeds, and circle wording about guidance, grace, and mercy.
 
 <!-- lesson-plan:instruction -->
-**Guided Instruction — 15 minutes:** The teacher draws two columns: "cause" and "price." He explains the ba' of causation and the ba' of exchange, then asks learners to explain the order of `qaribu wa saddidu wa abshiru` before the negation of salvation by deeds.
+**Guided Instruction — 15 minutes:** The teacher draws two columns: "cause" and "price." He explains the ba' of causation and the ba' of exchange, then asks learners to explain the order of `qaribu wa saddidu` before the negation of salvation by deeds.
 
 <!-- lesson-plan:activity -->
 **Activity — 15 minutes:** Groups carry out the classify-and-repair activity. No rephrasing is accepted until it includes both responsibility for the deed and dependence on Allah's mercy, with suitable evidence.
 
 <!-- lesson-plan:assessment -->
-**Assessment and Closing — 10 minutes:** Exit card: "Define cause and price, reconcile the ayahs of al-A'raf and ad-Dukhan, and write one application that protects you from self-admiration, complacency, or despair." The teacher closes with the lesson's du'a, noting it is his own educational composition.
+**Assessment and Closing — 10 minutes:** Exit card: "Define cause and price, reconcile the ayahs of al-A'raf and ad-Dukhan, and write one application that protects you from self-admiration, complacency, or despair." The teacher closes with the lesson's du'a, noting that it was composed for this lesson.
 
 <!-- lesson-plan:differentiation -->
 **Differentiation:** Give a beginner incomplete sentences to complete, and assign an advanced learner to explain how the hadith joins fear and hope. Learners may discuss a general case rather than disclose a personal experience.
@@ -471,7 +471,7 @@ Analyze three cases: someone who looks down on others because of his worship, so
 **Learning Outcomes:** The child says we do good and ask for Allah's mercy, distinguishes the right statement from "I buy Jannah with my deeds," and names one good deed.
 
 <!-- lesson-plan:materials -->
-**Materials:** Two picture cards for the activity; drawing paper; safe coloring supplies; a heart sticker and a working-hand sticker; a du'a card in clear handwriting.
+**Materials:** Two picture cards for the activity; drawing paper; safe coloring supplies; a heart sticker and a helping-hand sticker; a du'a card in clear handwriting.
 
 <!-- lesson-plan:preparation -->
 **Preparation:** The teacher prepares images with no money or scales, so the idea of exchange does not settle in the child's mind, and practices explaining the word "mercy" in short sentences.
@@ -489,7 +489,7 @@ Analyze three cases: someone who looks down on others because of his worship, so
 **Activity — 9 minutes:** Children choose the right card, then each draws a good deed and says the completed sentence. The adult helps a child who cannot write, and allows a minute for sharing two drawings without comparing children.
 
 <!-- lesson-plan:assessment -->
-**Assessment and Closing — 5 minutes:** Ask: "Do we stop doing good? Do we boast to others? Who do we ask for mercy from?" Then ask a child to complete the sentence "I do good and…", and read the du'a once, slowly.
+**Assessment and Closing — 5 minutes:** Ask: "Do we stop doing good? Do we boast to others? Who do we ask for mercy?" Then ask a child to complete the sentence "I do good and…", and read the du'a once, slowly.
 
 <!-- lesson-plan:differentiation -->
 **Differentiation:** Allow answering by pointing or repeating, and give an advanced child a simple scenario, such as honesty after a mistake, to mention both the deed and hope together.
@@ -504,7 +504,7 @@ Analyze three cases: someone who looks down on others because of his worship, so
 ### Children Ages 8-12 — 45 Minutes
 
 <!-- lesson-plan:outcomes -->
-**Learning Outcomes:** The student defines aiming aright and drawing near, distinguishes cause from price, orders the hadith's message, and repairs two false statements with evidence.
+**Learning Outcomes:** The student defines aiming aright and drawing near, distinguishes cause from price, puts the hadith's message in order, and repairs two false statements with evidence.
 
 <!-- lesson-plan:materials -->
 **Materials:** The hadith text; term cards; "sound/incomplete/false" cards; activity sheets; pens in three colors.
@@ -516,7 +516,7 @@ Analyze three cases: someone who looks down on others because of his worship, so
 **Opening — 5 minutes:** Present two statements: "My effort doesn't matter" and "My success is entirely my own doing." Ask: "Is there a more precise answer than either extreme?" Then move the question to deeds for the Hereafter.
 
 <!-- lesson-plan:evidence -->
-**Studying the Evidence — 10 minutes:** Students read the full hadith of Muslim and the ayah of al-A'raf 7:43. They color deed-commands in one color and words of mercy and guidance in another.
+**Studying the Evidence — 10 minutes:** Students read the full hadith from Sahih Muslim and the ayah of al-A'raf 7:43. They color the commands to act in one color and words of mercy and guidance in another.
 
 <!-- lesson-plan:instruction -->
 **Guided Instruction — 10 minutes:** The teacher explains the three terms, then builds the class sentence: "The deed is a cause, and guidance, acceptance, and salvation are by Allah's grace." He returns to the scoreboard story and asks how the goal shifted from comparing people to serving those in need.
@@ -540,7 +540,7 @@ Analyze three cases: someone who looks down on others because of his worship, so
 ### Teens, Ages 13+ — 55 Minutes
 
 <!-- lesson-plan:outcomes -->
-**Learning Outcomes:** The student constructs a written response to the apparent contradiction, explains the ba' of causation versus exchange, analyzes self-admiration, complacency, and despair, and writes a balanced response to a real-life scenario.
+**Learning Outcomes:** The student builds a text-based answer to the apparent contradiction, explains the ba' of causation versus exchange, analyzes self-admiration, complacency, and despair, and writes a balanced response to a real-life scenario.
 
 <!-- lesson-plan:materials -->
 **Materials:** The evidence file; a brief excerpt from Ibn al-Qayyim's explanation; the three scenario cards; a "claim/error/evidence/repair" template; exit slips.
@@ -549,7 +549,7 @@ Analyze three cases: someone who looks down on others because of his worship, so
 **Preparation:** The teacher reviews the hadith's wording and removes any unverified attribution, chooses scenarios that point to no specific student, and prepares a referral pathway for anyone showing signs of scrupulosity or severe despair.
 
 <!-- lesson-plan:opening -->
-**Opening — 5 minutes:** Write on the board: "for what you used to do" and "none of you will be saved by his deeds alone." Ask students to propose a way to reconcile them without cancelling either text.
+**Opening — 5 minutes:** Write on the board: "for what you used to do" and "none of you will be saved by his deeds." Ask students to propose a way to reconcile them without canceling either text.
 
 <!-- lesson-plan:evidence -->
 **Studying the Evidence — 12 minutes:** Three groups read the three pieces of evidence, and extract from each text: the commanded action, the grace mentioned, and the error it corrects.
@@ -579,6 +579,6 @@ Analyze three cases: someone who looks down on others because of his worship, so
 [^2]: 'Abd ar-Rahman ibn Nasir as-Sa'di, *Taysir al-Karim ar-Rahman*, commentary on Surah ad-Dukhan, ayah 57, explaining that salvation and bliss are grace and favor from Allah: [King Saud University Digital Mushaf](https://quran.ksu.edu.sa/tafseer/saadi/sura44-aya57.html).
 [^3]: The Noble Qur'an, Surah al-A'raf, ayah 43: [Qur'anic text](https://quran.com/7/43).
 [^4]: Ibn Qayyim al-Jawziyyah, *Hadi al-Arwah ila Bilad al-Afrah*, chapter nineteen, on reconciling entry into Jannah by deeds with entry by Allah's mercy, distinguishing the ba' of exchange from the ba' of causation: [al-Maktaba ash-Shamila](https://shamela.ws/book/13652/229).
-[^5]: Sahih Muslim, Book of the Description of the Day of Resurrection, Paradise, and Hell, hadith 2816, narrated by Abu Hurayrah, may Allah be pleased with him, and it is an authentic hadith: [Sunnah.com, narration 2816c](https://sunnah.com/muslim:2816c).
+[^5]: Sahih Muslim, Book of the Description of the Day of Resurrection, Paradise, and Hell, hadith 2816, narrated by Abu Hurayrah, may Allah be pleased with him, and it is an authentic hadith: [Sunnah.com, narration 2816g](https://sunnah.com/muslim:2816g).
 
 <!-- references:end -->

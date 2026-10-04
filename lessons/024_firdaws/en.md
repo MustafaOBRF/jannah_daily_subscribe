@@ -82,7 +82,7 @@ The command to ask for al-Firdaws comes right after a general promise of entry t
 
 #### Scholarly Explanation
 
-A *nuzul* (lodging) is the honor made ready for a guest upon arrival, and "never wishing to be moved from it" means they will never seek to leave it or prefer anything else. Ibn Kathir cites at this ayah the hadith "When you ask Allah for Jannah, ask Him for al-Firdaws." Ibn al-Qayyim explains that the name al-Firdaws is used for Jannah as a whole, and also for its finest and highest part, as though that part has the greatest claim to the name; and that in the Arabic language the word originally denotes an orchard that gathers within it everything an orchard can hold.[^8]
+A *nuzul* (lodging) is the honor made ready for a guest upon arrival, and "never wishing to be moved from it" means they will never seek to leave it or prefer anything else. Ibn Kathir cites at this ayah the hadith "When you ask Allah for Jannah, ask Him for al-Firdaws." Ibn al-Qayyim explains that the name al-Firdaws is used for Jannah as a whole, and also for its finest and highest part, as though that part has the greatest claim to the name; and that the word originally means an orchard; he also cites al-Zajjaj's view that its real sense is an orchard that gathers within it everything orchards can hold.[^8]
 
 #### Lesson Explanation
 
@@ -656,6 +656,6 @@ This du'a brings together obedience to the Prophet's command, peace and blessing
 [^5]: The Noble Qur'an, Surah al-Mu'minun, ayat 1-11: [quran.com/23/1-11](https://quran.com/23/1-11); Tafsir Ibn Kathir at ayat 1-11: [quran.ksu.edu.sa/tafseer/katheer/sura23-aya1.html](https://quran.ksu.edu.sa/tafseer/katheer/sura23-aya1.html). The English rendering is a meaning-based project translation.
 [^6]: Ibn Hajar al-'Asqalani, *Fath al-Bari Sharh Sahih al-Bukhari*, Book of Jihad and Expeditions, Chapter on the Degrees of Those Who Strive in the Path of Allah, commentary on hadith 2790, citing Ibn Hibban: "What is meant by 'the middle' is breadth, and by 'the highest' is elevation," and his own remark: "What is meant by 'the middle' here is the most balanced and most excellent"; as quoted by the Fatwa Center of IslamWeb, fatwa no. 336460: [islamweb.net/ar/fatwa/336460](https://www.islamweb.net/ar/fatwa/336460/).
 [^7]: Ibn Battal, *Sharh Sahih al-Bukhari*, Book of Jihad, commentary on the hadith "In Jannah there are a hundred degrees," on the point that commanding the whole ummah to ask for al-Firdaws indicates that Allah may, by His grace, grant it to someone who did not strive in jihad; as quoted by the Fatwa Center of IslamWeb, fatwa no. 336460: [islamweb.net/ar/fatwa/336460](https://www.islamweb.net/ar/fatwa/336460/).
-[^8]: Ibn Qayyim al-Jawziyyah, *Hadi al-Arwah ila Bilad al-Afrah*, Chapter Twenty-One: On the Names of Jannah, Their Meanings, and Their Derivation, the eighth name: al-Firdaws: [shamela.ws/book/13652/254](https://shamela.ws/book/13652/254).
+[^8]: Ibn Qayyim al-Jawziyyah, *Hadi al-Arwah ila Bilad al-Afrah*, Chapter Twenty-One: On the Names of Jannah, Their Meanings, and Their Derivation, the eighth name: al-Firdaws: [shamela.ws/book/13652/254](https://shamela.ws/book/13652/254); the passage continues, with al-Zajjaj's statement, at [shamela.ws/book/13652/255](https://shamela.ws/book/13652/255).
 
 <!-- references:end -->

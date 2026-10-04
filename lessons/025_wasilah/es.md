@@ -56,7 +56,7 @@ El Día de la Resurrección, los profetas se excusarán de interceder uno tras o
 
 #### Interpretación académica
 
-Aquello con lo que se excusan los profetas aparece en el Corán, junto con la noticia de que Allah aceptó su arrepentimiento: Adán comió del árbol, Noé suplicó contra su pueblo y Moisés dio a un hombre un golpe que acabó con su vida, y pidió perdón por ello.[^8] De las tres palabras de Ibrahim, dos fueron "por la causa de Allah", y los sabios las entendieron como expresiones de doble sentido (ma'arid).[^9] Los atributos de Allah que menciona el hadiz se afirman sin asemejarlos a los de las criaturas y sin preguntar por su modo.
+Aquello con lo que se excusan los profetas aparece en el Corán: Adán comió del árbol y después Allah aceptó su arrepentimiento, Noé suplicó contra su pueblo, y Moisés dio a un hombre un golpe que acabó con su vida, pidió perdón por ello y Allah lo perdonó.[^8] De las tres palabras de Ibrahim, dos fueron "por la causa de Allah", y los sabios las entendieron como expresiones de doble sentido (ma'arid).[^9] Los atributos de Allah que menciona el hadiz se afirman sin asemejarlos a los de las criaturas y sin preguntar por su modo.
 
 #### Explicación de la lección
 

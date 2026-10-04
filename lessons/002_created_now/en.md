@@ -29,15 +29,15 @@ After this lesson, the learner will be able to:
 
 ## Academic Section for Adults
 
-<!-- reader:start audience="adults" estimated_minutes="6.5" -->
+<!-- reader:start audience="adults" estimated_minutes="7.0" -->
 
 <!-- unit:start id="adults.explanation" kind="explanation" -->
 
-Many assume Jannah is simply a future promise, real only on the Day of Judgment, not a standing reality now. But the creed of Ahl as-Sunnah is that Jannah and the Fire are already created and existing now — Allah has prepared them, and only entry on the Day of Recompense remains. This is not a marginal detail; it anchors the believer's hope to a real abode, not a deferred fantasy.
+Many assume Jannah is simply a future promise, real only on the Day of Judgment, not a standing reality now. But the creed of Ahl as-Sunnah is that Jannah and the Fire are already created and existing now — Allah has prepared them, and all that remains is for their people to enter them on the Day of Recompense. This is not a marginal detail of creed; it anchors the believer's hope to a real abode, not a deferred fantasy.
 
-The proof comes from three complementary sources: the Qur'an, describing Jannah as `u'iddat` ("prepared"); a sacred hadith in which Allah tells of prior-prepared bliss no eye has seen; and a real scene the Prophet, peace and blessings be upon him, witnessed himself when the unseen was unveiled to him during the solar-eclipse prayer, so that he saw Jannah with his own eyes, not merely as a report.
+The proof comes from three complementary sources: the Qur'an, describing Jannah as `u'iddat` ("prepared"); a sacred hadith in which Allah tells of bliss prepared in advance that no eye has seen; and a real scene the Prophet, peace and blessings be upon him, witnessed himself when the unseen was unveiled to him during the solar-eclipse prayer, so that he saw Jannah with his own eyes, not merely as a report.
 
-This corrects two errors: picturing Jannah as a mere symbol with no real existence, or assuming belief in it now requires unseen details with no clear proof, such as Adam's garden, peace be upon him, over which scholars disagreed as to whether it was the eternal Jannah or another.[^7] One principle is firmly established: the Jannah promised the righteous is created, prepared, and standing now, even though hidden from our sight.
+This understanding corrects two misconceptions: picturing Jannah as a mere symbol of happiness with no reality behind it, or assuming that believing it exists now requires delving into unseen details for which there is no evidence, such as the question of Adam's garden, peace be upon him, about which scholars differed: was it the Garden of Eternity itself or a different garden?[^7] The point here is a single principle established by the texts: the Jannah that Allah promised the righteous is created, prepared, and standing now, even if it is hidden from our sight.
 
 <!-- unit:end -->
 
@@ -57,11 +57,11 @@ This corrects two errors: picturing Jannah as a mere symbol with no real existen
 
 #### Scholarly Tafsir
 
-The exegetes note that `u'iddat` is a past-tense passive verb: made ready, equipped — the preparation already occurred, not an event awaiting the future. Ahl as-Sunnah scholars state this wording, with much other evidence, founds the proof that Jannah already exists now, against those claiming Allah creates it only on Judgment Day.[^2]
+The exegetes note that `u'iddat` is a past-tense passive verb meaning "made ready" or "equipped," which shows that the preparation has already taken place and is not something still awaited. A number of Ahl as-Sunnah scholars have stated that this word, together with much other evidence, is a foundation for proving that Jannah is created and exists now, contrary to those who claimed that Allah will bring it into being only on the Day of Judgment.[^2]
 
 #### Lesson Explanation
 
-The word `u'iddat` alone corrects a common error: that Jannah is a deferred wish. The ayah does not say "it will be prepared" but that preparation is complete, and the righteous must hasten toward what is already ready, not what has not yet been created.
+The word `u'iddat` alone corrects a common misconception: that Jannah is a deferred wish. The ayah does not say "it will be prepared"; it tells us the preparation is complete, and the righteous must hasten toward what is already ready, not what has not yet been created.
 
 <!-- evidence:end -->
 
@@ -69,19 +69,19 @@ The word `u'iddat` alone corrects a common error: that Jannah is a deferred wish
 
 #### "I Have Prepared for My Righteous Servants What No Eye Has Seen"
 
-> عَنْ أَبِي هُرَيْرَةَ رضي الله عنه، عَنِ النَّبِيِّ صلى الله عليه وسلم، قَالَ: **«قَالَ اللَّهُ تَعَالَى: أَعْدَدْتُ لِعِبَادِيَ الصَّالِحِينَ مَا لَا عَيْنٌ رَأَتْ، وَلَا أُذُنٌ سَمِعَتْ، وَلَا خَطَرَ عَلَى قَلْبِ بَشَرٍ، فَاقْرَءُوا إِنْ شِئْتُمْ.»** ثُمَّ تَلَا: `فَلَا تَعْلَمُ نَفْسٌ مَا أُخْفِيَ لَهُمْ مِنْ قُرَّةِ أَعْيُنٍ جَزَاءً بِمَا كَانُوا يَعْمَلُونَ.` [السجدة: ١٧][^3][^4]
+> عَنْ أَبِي هُرَيْرَةَ رضي الله عنه، عَنِ النَّبِيِّ صلى الله عليه وسلم، قَالَ: **«قَالَ اللَّهُ: أَعْدَدْتُ لِعِبَادِيَ الصَّالِحِينَ مَا لَا عَيْنٌ رَأَتْ، وَلَا أُذُنٌ سَمِعَتْ، وَلَا خَطَرَ عَلَى قَلْبِ بَشَرٍ، فَاقْرَءُوا إِنْ شِئْتُمْ:»** `فَلَا تَعْلَمُ نَفْسٌ مَا أُخْفِيَ لَهُمْ مِنْ قُرَّةِ أَعْيُنٍ جَزَاءً بِمَا كَانُوا يَعْمَلُونَ.` [السجدة: ١٧][^3][^4]
 
 <!-- evidence:translation -->
 
-> On the authority of Abu Hurayrah, may Allah be pleased with him, from the Prophet, peace and blessings be upon him, who said: **"Allah, Most High, said: I have prepared for My righteous servants what no eye has seen, no ear has heard, and no human heart has ever imagined. So recite, if you wish."** He then recited: **"No soul knows what joy has been kept hidden for them as a reward for what they used to do."** (as-Sajdah 32:17)[^3][^4]
+> On the authority of Abu Hurayrah, may Allah be pleased with him, from the Prophet, peace and blessings be upon him, who said: **"Allah said: I have prepared for My righteous servants what no eye has seen, no ear has heard, and no human heart has ever imagined. So recite, if you wish:"** **"No soul knows what joy has been kept hidden for them as a reward for what they used to do."** (as-Sajdah 32:17)[^3][^4]
 
 #### Scholarly Explanation
 
-Here Allah speaks of Himself using `a'dadtu` ("I have prepared"), the same past-tense verb as in Aal 'Imran — confirming the preparation is accomplished, not merely a future promise. The Prophet, peace and blessings be upon him, cited the ayah of as-Sajdah to show some details of this bliss stay hidden from every soul, even though its existence is established.
+Here Allah speaks of Himself using `a'dadtu` ("I have prepared"), the same past-tense verb as in Aal 'Imran — confirming that the preparation is an accomplished fact, not merely a future promise. The Prophet, peace and blessings be upon him, cited the ayah of as-Sajdah to show that some details of what has been prepared remain hidden from every soul, even though its existence is established.
 
 #### Lesson Explanation
 
-This hadith joins the fact of preparation with the acknowledgment that its full details are unseen, beyond our minds' reach. Jannah existing now does not mean we know everything about it; it means what Allah prepared for His righteous servants is a standing reality, however far beyond human imagination.
+This hadith brings together the fact of the preparation and the admission that its perfection and details belong to the unseen, beyond the reach of our minds. That Jannah exists now does not mean we know everything about it; it means that what Allah has prepared for His righteous servants is a standing reality, even if it is too great for any human to imagine.
 
 <!-- evidence:end -->
 
@@ -89,21 +89,21 @@ This hadith joins the fact of preparation with the acknowledgment that its full 
 
 #### "I Saw Jannah, and I Reached Out for a Cluster of Its Fruit"
 
-When the sun eclipsed in the time of the Prophet, peace and blessings be upon him, he led the people in an unusually long prayer. During it, the Companions, may Allah be pleased with them, saw him stretch out his hand as if reaching for something, then draw back as if avoiding something. When he finished the prayer, they asked him what they had seen, and he answered them as follows:
+When the sun was eclipsed in the time of the Prophet, peace and blessings be upon him, he led the people in an unusually long prayer. During it, the Companions, may Allah be pleased with them, saw him stretch out his hand as if reaching for something, then draw back as if avoiding something. When he finished the prayer, they asked him about what they had seen him do, and he answered them in these authentically reported words:
 
-> عَنِ ابْنِ عَبَّاسٍ رضي الله عنهما، فِي قِصَّةِ صَلَاةِ الْكُسُوفِ، أَنَّ أَصْحَابَ رَسُولِ اللَّهِ صلى الله عليه وسلم قَالُوا لَهُ: يَا رَسُولَ اللَّهِ، رَأَيْنَاكَ تَنَاوَلْتَ شَيْئًا فِي مَقَامِكَ، ثُمَّ رَأَيْنَاكَ كَعْكَعْتَ؟ **فَقَالَ: «إِنِّي رَأَيْتُ الْجَنَّةَ، فَتَنَاوَلْتُ عُنْقُودًا، وَلَوْ أَصَبْتُهُ لَأَكَلْتُمْ مِنْهُ مَا بَقِيَتِ الدُّنْيَا، وَرَأَيْتُ النَّارَ، فَلَمْ أَرَ مَنْظَرًا كَالْيَوْمِ قَطُّ أَفْظَعَ، وَرَأَيْتُ أَكْثَرَ أَهْلِهَا النِّسَاءَ».** قَالُوا: بِمَ يَا رَسُولَ اللَّهِ؟ قَالَ: **«بِكُفْرِهِنَّ».** قِيلَ: يَكْفُرْنَ بِاللَّهِ؟ قَالَ: **«يَكْفُرْنَ الْعَشِيرَ، وَيَكْفُرْنَ الْإِحْسَانَ، لَوْ أَحْسَنْتَ إِلَى إِحْدَاهُنَّ الدَّهْرَ كُلَّهُ، ثُمَّ رَأَتْ مِنْكَ شَيْئًا، قَالَتْ: مَا رَأَيْتُ خَيْرًا قَطُّ».**[^5]
+> عَنِ ابْنِ عَبَّاسٍ رضي الله عنهما، فِي قِصَّةِ صَلَاةِ الْكُسُوفِ، أَنَّ أَصْحَابَ رَسُولِ اللَّهِ صلى الله عليه وسلم قَالُوا لَهُ: يَا رَسُولَ اللَّهِ، رَأَيْنَاكَ تَنَاوَلْتَ شَيْئًا فِي مَقَامِكَ، ثُمَّ رَأَيْنَاكَ كَعْكَعْتَ؟ **فَقَالَ: «إِنِّي رَأَيْتُ الْجَنَّةَ، فَتَنَاوَلْتُ عُنْقُودًا، وَلَوْ أَصَبْتُهُ لَأَكَلْتُمْ مِنْهُ مَا بَقِيَتِ الدُّنْيَا، وَرَأَيْتُ النَّارَ، فَلَمْ أَرَ مَنْظَرًا كَالْيَوْمِ قَطُّ أَفْظَعَ، وَرَأَيْتُ أَكْثَرَ أَهْلِهَا النِّسَاءَ».** قَالُوا: بِمَ يَا رَسُولَ اللَّهِ؟ قَالَ: **«بِكُفْرِهِنَّ».** قِيلَ: يَكْفُرْنَ بِاللَّهِ؟ قَالَ: **«يَكْفُرْنَ الْعَشِيرَ، وَيَكْفُرْنَ الْإِحْسَانَ، لَوْ أَحْسَنْتَ إِلَى إِحْدَاهُنَّ الدَّهْرَ كُلَّهُ، ثُمَّ رَأَتْ مِنْكَ شَيْئًا، قَالَتْ: مَا رَأَيْتُ مِنْكَ خَيْرًا قَطُّ».**[^5]
 
 <!-- evidence:translation -->
 
-> On the authority of Ibn 'Abbas, may Allah be pleased with both of them, regarding the account of the solar-eclipse prayer: the Companions of the Messenger of Allah, peace and blessings be upon him, said to him, "O Messenger of Allah, we saw you reach for something where you stood, then we saw you draw back?" **He said: "I saw Jannah, and I reached out for a cluster of its fruit; had I taken it, you would have eaten from it as long as this world lasted. And I saw the Fire, and I have never seen a sight more dreadful than today's, and I saw that most of its people were women."** They asked, "Why, O Messenger of Allah?" He said: **"Because of their ingratitude."** It was asked, "Do they disbelieve in Allah?" He said: **"They are ungrateful to their companions and deny their good treatment. Even if you were good to one of them her whole life, then she saw one thing from you [she disliked], she would say: I have never seen any good from you at all."**[^5]
+> On the authority of Ibn 'Abbas, may Allah be pleased with both of them, regarding the account of the solar-eclipse prayer: the Companions of the Messenger of Allah, peace and blessings be upon him, said to him, "O Messenger of Allah, we saw you reach for something where you stood, then we saw you draw back?" **He said: "I saw Jannah, and I reached out for a cluster of its fruit; had I taken it, you would have eaten from it as long as this world lasted. And I saw the Fire, and I have never seen a sight more dreadful than today's, and I saw that most of its people were women."** They asked, "Why, O Messenger of Allah?" He said: **"Because of their kufr [ingratitude]."** It was asked, "Do they disbelieve in Allah?" He said: **"They are ungrateful to their companions and deny their good treatment. Even if you were good to one of them her whole life, then she saw one thing from you [she disliked], she would say: I have never seen any good from you at all."**[^5]
 
 #### Scholarly Explanation
 
-Ibn Hajar, may Allah have mercy on him, said this hadith is among the most explicit proofs that Jannah and the Fire already exist now, since the Prophet, peace and blessings be upon him, did not merely report about them but saw them with his own eyes where he stood, reaching his hand toward Jannah's fruit.[^6] The scholars explained "ungrateful to their companions" as a wife's denial of her husband's kindness — a secondary point that does not diminish the hadith's central proof.
+Ibn Hajar, may Allah have mercy on him, said of this hadith: "It shows that Jannah and the Fire are created and exist today." He noted that its apparent meaning is sight with the eyes: the veils were lifted for the Prophet, peace and blessings be upon him, so that he saw Jannah as it truly is and was even able to reach for some of it.[^6] The scholars explained "ungrateful to their companions" as a wife's denial of her husband's kindness and her refusal to acknowledge his good — a secondary caution in the hadith that does not diminish its central proof that Jannah and the Fire exist.
 
 #### Lesson Explanation
 
-This was not a bare report; it was an actual act of seeing. The Prophet, peace and blessings be upon him, reached toward real fruit from Jannah, and drew back from a real scene of the Fire. Jannah is not a suspended idea but a standing abode, its fruit near enough for a hand to reach — even though we do not see it in this life.
+This was not merely a report passed on; it was something actually seen. The Prophet, peace and blessings be upon him, reached toward real fruit from Jannah and drew back from a real scene of the Fire. So Jannah is not an abstract idea floating in the mind but an abode that already exists, its fruit so near that a hand could reach for it — even though we do not see it in this life.
 
 <!-- evidence:end -->
 
@@ -127,7 +127,7 @@ This was not a bare report; it was an actual act of seeing. The Prophet, peace a
 
 <!-- activity:start audience="adults" concept_id="lesson.002.activity.secret-preparation-mirror" -->
 
-For three days, prepare something beneficial for one person you know without them knowing beforehand: an encouraging note, a small task done on their behalf, or a simple gift kept hidden until the right moment. In a private notebook, record what you prepared, when you will reveal it, and how it felt knowing this good was ready before its recipient knew. At the end of day three, write a short paragraph linking that feeling to `u'iddat lil-muttaqin`: Jannah exists now, prepared for its people, even though unseen.
+For three days, prepare something beneficial in advance for one person you know (a spouse, sibling, friend, or neighbor) without their knowing about it: an encouraging note, a small task done on their behalf, or a simple gift kept hidden until the right moment. In a private notebook, record what you prepared, when you will reveal it, and how it felt to know that this good was there and ready before its recipient knew about it. At the end of day three, write a short paragraph linking that feeling to the meaning of `u'iddat lil-muttaqin` ("prepared for the righteous"): Jannah exists now, prepared for its people, even though they do not see it yet.
 
 <!-- activity:end -->
 
@@ -135,7 +135,7 @@ For three days, prepare something beneficial for one person you know without the
 
 <!-- reader:end -->
 
-<!-- reader:start audience="4-7" estimated_minutes="5.0" -->
+<!-- reader:start audience="4-7" estimated_minutes="3.5" -->
 
 <!-- unit:start id="4-7.explanation" kind="explanation" -->
 
@@ -179,7 +179,7 @@ This teaches us that Jannah truly exists now: the Prophet, peace and blessings b
 
 <!-- activity:start audience="4-7" concept_id="lesson.002.activity.secret-preparation-mirror" -->
 
-With a parent's help, prepare a small surprise for your brother or sister (a drawing, arranging a toy for them, or a piece of candy), place it in a box or hidden spot, and don't tell them about it. Wait a whole day, then give them the surprise and say, "This was already here, prepared for you, before you saw it!" Jannah is like this: it exists now, prepared for those who obey Allah, even though we do not see it yet.
+With a parent's help, prepare a small surprise for your brother or sister (a drawing, setting up a toy for them, or a piece of candy), place it in a box or hidden spot, and don't tell them about it. Wait a whole day, then give them the surprise and say, "This was already here, prepared for you, before you saw it!" Jannah is like this: it exists now, prepared for those who obey Allah, even though we do not see it yet.
 
 <!-- activity:end -->
 
@@ -203,7 +203,7 @@ With a parent's help, prepare a small surprise for your brother or sister (a dra
 
 <!-- reader:end -->
 
-<!-- reader:start audience="8-12" estimated_minutes="6.0" -->
+<!-- reader:start audience="8-12" estimated_minutes="5.0" -->
 
 <!-- unit:start id="8-12.explanation" kind="explanation" -->
 
@@ -221,7 +221,7 @@ Some of us might think Jannah is just an idea that will come true only on the Da
 
 <!-- retelling:start source_id="bukhari-1052" audience="8-12" -->
 
-When the sun eclipsed in the time of the Prophet, peace and blessings be upon him, he led the people in an unusually long prayer. The Companions, may Allah be pleased with them, noticed that during the prayer he stretched his hand forward as if to take something, then suddenly drew back as if avoiding something else. After the prayer they asked him what they had seen, and he told them: **"I saw Jannah, and I reached out for a cluster of its fruit; had I taken it, you would have eaten from it as long as this world lasted. And I saw the Fire, and I have never seen a sight more dreadful than today's."**[^5] He then told them he saw in the Fire many people who had denied the kindness of those who were good to them, never thanking them for it despite the passage of time.
+When the sun was eclipsed in the time of the Prophet, peace and blessings be upon him, he led the people in an unusually long prayer. The Companions, may Allah be pleased with them, noticed that during the prayer he stretched his hand forward as if to take something, then suddenly drew back as if avoiding something else. After the prayer they asked him what they had seen, and he told them: **"I saw Jannah, and I reached out for a cluster of its fruit; had I taken it, you would have eaten from it as long as this world lasted. And I saw the Fire, and I have never seen a sight more dreadful than today's."**[^5] He then told them he saw in the Fire many people who had denied the kindness of those who were good to them, never giving thanks for the good done for them, no matter how long it went on.
 
 This event really happened: the Prophet, peace and blessings be upon him, did not report about Jannah and the Fire from a distance — he saw them with his own eyes while standing in prayer, so close that the fruit of Jannah nearly touched his hand. Jannah, then, is a reality that exists now, not merely a report or a wish.
 
@@ -235,8 +235,8 @@ This event really happened: the Prophet, peace and blessings be upon him, did no
 
 <!-- terminology:start source_id="bukhari-1052" -->
 
-- **`kusuf`** ("eclipse") — the disappearance of sunlight during the day because the moon blocks it; it is a sign by which Allah instills reverent fear in His servants, for which a special prayer is offered.
-- **`ka'ka'a`** ("drew back") — to suddenly step back, as one avoiding something frightening or harmful.
+- **`kusuf`** ("eclipse") — the disappearance of sunlight during the day because the moon blocks it; it is one of Allah's signs by which He reminds His servants to fear Him, and a special prayer is offered for it.
+- **`ka'ka'a`** ("drew back") — to suddenly step back, like someone avoiding something frightening or harmful.
 - **`yakfurna al-'ashir`** ("ungrateful to their companions") — a wife's denial of her husband's kindness, failing to thank him for it.
 
 <!-- terminology:end -->
@@ -260,7 +260,7 @@ This event really happened: the Prophet, peace and blessings be upon him, did no
 
 <!-- activity:start audience="8-12" concept_id="lesson.002.activity.secret-preparation-mirror" -->
 
-For one week, prepare something small and beneficial each day for someone in your household without them knowing at the time (tidying their room, writing a thank-you note, doing a task that was theirs), and record in a small notebook: what did you prepare, and when will you reveal it? At the end of the week, reveal what you prepared to at least three people, then write a short paragraph linking the feeling of having good ready before it was seen to the meaning that Jannah `u'iddat lil-muttaqin` ("was prepared for the righteous") and exists now, even though it is hidden from our eyes.
+For one week, prepare something small and beneficial each day for someone in your household without them knowing at the time (tidying their room, writing a thank-you note, doing a chore that was theirs to do), and record in a small notebook: what did you prepare, and when will you reveal it? At the end of the week, reveal what you prepared to at least three people, then write a short paragraph linking how it felt to have something good ready before anyone saw it to the meaning of `u'iddat lil-muttaqin` ("prepared for the righteous"): Jannah exists now, even though it is hidden from our eyes.
 
 <!-- activity:end -->
 
@@ -284,15 +284,15 @@ For one week, prepare something small and beneficial each day for someone in you
 
 <!-- reader:end -->
 
-<!-- reader:start audience="13+" estimated_minutes="6.5" -->
+<!-- reader:start audience="13+" estimated_minutes="6.0" -->
 
 <!-- unit:start id="13+.explanation" kind="explanation" -->
 
 ## For Teens, Ages 13+
 
-Many who grew up in an age that measures reality by what can be seen and touched tend to treat the unseen as a distant possibility — even Jannah itself can become, in the mind, a mere symbolic, deferred promise. But the creed of Ahl as-Sunnah radically opposes this notion: Jannah and the Fire are already created and exist now. The proof rests on three complementary levels: a Qur'anic text with the word `u'iddat`, a sacred hadith in which Allah Himself tells of a prior preparation, and a real prophetic scene in which the Prophet, peace and blessings be upon him, saw Jannah with his own eyes and reached his hand toward its fruit.
+Many who grew up in an age that measures reality by what can be seen and touched tend to treat the unseen as a distant possibility — even Jannah itself can become, in the mind, a mere symbolic, deferred promise. But the creed of Ahl as-Sunnah rejects this notion at its root: Jannah and the Fire are already created and exist now. The proof rests on three complementary levels: a Qur'anic text with the word `u'iddat`, a sacred hadith in which Allah Himself tells of a prior preparation, and a real prophetic scene in which the Prophet, peace and blessings be upon him, saw Jannah with his own eyes and reached his hand toward its fruit.
 
-This does not mean we grasp every detail of Jannah or delve into fine questions like that of Adam's garden, peace be upon him, over which scholars disagreed based on apparently conflicting evidence; that is a disagreement over details that does not touch the certainty of the underlying reality.[^7] The certainty here rests on an explicit text admitting no reinterpretation: what Allah has prepared for His righteous servants is a standing reality now, not a future possibility.
+This does not mean we grasp every detail of Jannah or delve into fine questions like that of Adam's garden, peace be upon him, over which scholars disagreed based on apparently conflicting evidence; that is a disagreement over details that does not touch our certainty about the core principle.[^7] The certainty here rests on an explicit text that leaves no room for reinterpretation: what Allah has prepared for His righteous servants is a standing reality now, not a future possibility.
 
 <!-- unit:end -->
 
@@ -304,9 +304,9 @@ This does not mean we grasp every detail of Jannah or delve into fine questions 
 
 <!-- retelling:start source_id="bukhari-1052" audience="13+" -->
 
-Ibn 'Abbas, may Allah be pleased with both of them, reported that when the sun eclipsed in the time of the Prophet, peace and blessings be upon him, he led the people in an unusually long prayer, and the Companions saw his hand reach out, then suddenly draw back. After the prayer they asked him, and he answered: **"I saw Jannah, and I reached out for a cluster of its fruit; had I taken it, you would have eaten from it as long as this world lasted. And I saw the Fire, and I have never seen a sight more dreadful than today's, and I saw that most of its people were women."** They asked, "Why, O Messenger of Allah?" He said, **"Because of their ingratitude."** It was asked, "Do they disbelieve in Allah?" He said, **"They are ungrateful to their companions and deny their good treatment. Even if you were good to one of them her whole life, then she saw one thing from you [she disliked], she would say: I have never seen any good from you at all."**[^5]
+Ibn 'Abbas, may Allah be pleased with both of them, reported that when the sun was eclipsed in the time of the Prophet, peace and blessings be upon him, he led the people in an unusually long prayer, and the Companions saw his hand reach out, then suddenly draw back. After the prayer they asked him, and he answered: **"I saw Jannah, and I reached out for a cluster of its fruit; had I taken it, you would have eaten from it as long as this world lasted. And I saw the Fire, and I have never seen a sight more dreadful than today's, and I saw that most of its people were women."** They asked, "Why, O Messenger of Allah?" He said, **"Because of their kufr [ingratitude]."** It was asked, "Do they disbelieve in Allah?" He said, **"They are ungrateful to their companions and deny their good treatment. Even if you were good to one of them her whole life, then she saw one thing from you [she disliked], she would say: I have never seen any good from you at all."**[^5]
 
-Notice the precision of the detail: the Prophet, peace and blessings be upon him, did not say, "Jannah will contain fruit," but said, **"I reached out for a cluster,"** in the past tense of an act that actually occurred. This is a fundamental difference between speaking of a hoped-for future and reporting a witnessed present. As for the reference to some women's ingratitude toward their husbands' kindness, it is not a general judgment on all women, but a warning against the trait of ingratitude wherever it is found in any person, male or female; the specific wording here reflects what the Prophet, peace and blessings be upon him, was shown of a real event, not a claim that ingratitude belongs to one sex alone.
+Notice the precision of the detail: the Prophet, peace and blessings be upon him, did not say, "Jannah will contain fruit," but said, **"I reached out for a cluster,"** using the past tense for something that had actually happened. That is the essential difference between speaking of a hoped-for future and reporting a present that has been witnessed. As for the reference to some women's ingratitude toward their husbands' kindness, it is not a general judgment on all women, but a warning against the trait of ingratitude wherever it is found in any person, male or female; women are singled out here because the Prophet, peace and blessings be upon him, was reporting a reality he had seen, not because ingratitude belongs to one sex alone.
 
 <!-- retelling:end -->
 
@@ -343,7 +343,7 @@ Notice the precision of the detail: the Prophet, peace and blessings be upon him
 
 <!-- activity:start audience="13+" concept_id="lesson.002.activity.secret-preparation-mirror" -->
 
-For two weeks, choose someone who needs quiet support (a friend, sibling, or colleague), and prepare support for them that they do not yet know exists: written advice held for the right moment, practical help you complete for them without announcing it right away, or consistent du'a made for them. Record each step in a private file. At the end of the two weeks, write a short paragraph discussing: how this exercise challenges the culture of "nothing is real except what I see now," and how it resembles your belief that Jannah exists now even though you have not seen it — citing the ayah `u'iddat lil-muttaqin` and the hadith of the Prophet's, peace and blessings be upon him, seeing it.
+For two weeks, choose someone who needs quiet support (a friend, sibling, or classmate), and prepare support for them that they do not yet know exists: written advice held for the right moment, practical help you complete for them without announcing it right away, or regular du'a for them. Record each step in a private file. At the end of the two weeks, write a short paragraph discussing: how this exercise challenges the culture of "nothing is real except what I see now," and how it resembles your belief that Jannah exists now even though you have not seen it — citing the ayah `u'iddat lil-muttaqin` and the hadith in which the Prophet, peace and blessings be upon him, saw it.
 
 <!-- activity:end -->
 
@@ -395,7 +395,7 @@ For two weeks, choose someone who needs quiet support (a friend, sibling, or col
 **Activity — 15 minutes:** Learners begin the three-day secret-preparation activity, each choosing one person and one good deed they will secretly prepare for them.
 
 <!-- lesson-plan:assessment -->
-**Assessment and Closing — 10 minutes:** Exit card: "Name the three proofs that Jannah exists now, and explain the difference between a future promise and preparation already accomplished." The teacher closes by reading the du'a, noting that it is his own educational composition.
+**Assessment and Closing — 10 minutes:** Exit card: "Name the three proofs that Jannah exists now, and explain the difference between a future promise and preparation already accomplished." The teacher closes by reading the du'a, noting that it was composed for this lesson as a teaching du'a.
 
 <!-- lesson-plan:differentiation -->
 **Differentiation:** Give a beginner a written summary of the three proofs, and assign an advanced learner to discuss how to respond to someone who claims Jannah has not yet been created, referencing the scholarly sources listed in the references.
@@ -485,7 +485,7 @@ For two weeks, choose someone who needs quiet support (a friend, sibling, or col
 **Learning Outcomes:** The student analyzes the difference between a future promise and accomplished preparation, explains what the eclipse-prayer hadith shows about Jannah existing now, discusses the effect of this certainty in confronting a culture of "reality is only what I see," and carries out a two-week private activity.
 
 <!-- lesson-plan:materials -->
-**Materials:** A file of the three pieces of evidence; term cards; a model two-week private log; exit slips.
+**Materials:** A handout with the three pieces of evidence; term cards; a model two-week private log; exit slips.
 
 <!-- lesson-plan:preparation -->
 **Preparation:** The teacher reviews the grading of the three hadiths, and prepares a neutral example of the tendency to treat what isn't immediately visible as unreal, without referring to any specific student.
@@ -518,11 +518,11 @@ For two weeks, choose someone who needs quiet support (a friend, sibling, or col
 ## References
 
 [^1]: The Noble Qur'an, Surah Aal 'Imran, ayah 133: [Qur'anic text](https://quran.com/3/133).
-[^2]: The exegetes' commentary on Surah Aal 'Imran, ayah 133, explaining that the word `u'iddat` shows a prior, accomplished preparation, not a future promise: [King Saud University Digital Mushaf](https://quran.ksu.edu.sa/tafseer/katheer/sura3-aya133.html).
+[^2]: Muhammad ibn Ahmad al-Qurtubi, *al-Jami' li-Ahkam al-Qur'an*, commentary on Surah Aal 'Imran, ayah 133, stating that most scholars hold Jannah to be created and existing because of the words `u'iddat lil-muttaqin` ("prepared for the righteous"), against the Mu'tazila, who said it will be created at the time of recompense: [King Saud University Digital Mushaf](https://quran.ksu.edu.sa/tafseer/qortobi/sura3-aya133.html).
 [^3]: Sahih al-Bukhari, hadith 3244, and Sahih Muslim, hadith 2824a, narrated by Abu Hurayrah, may Allah be pleased with him: [Sunnah.com, hadith 3244](https://sunnah.com/bukhari:3244).
 [^4]: The Noble Qur'an, Surah as-Sajdah, ayah 17: [Qur'anic text](https://quran.com/32/17).
 [^5]: Sahih al-Bukhari, hadith 1052 (also reported as hadith 5197), and Sahih Muslim, hadith 907, narrated by 'Abdullah ibn 'Abbas, may Allah be pleased with both of them, regarding the account of the solar-eclipse prayer: [Sunnah.com, hadith 1052](https://sunnah.com/bukhari:1052).
-[^6]: Ahmad ibn 'Ali ibn Hajar al-'Asqalani, *Fath al-Bari bi-Sharh Sahih al-Bukhari*, Book of the Beginning of Creation, chapter on the description of Jannah and that it is created, (6/317-320), as cited by 'Umar Sulayman al-Ashqar in *al-Jannah wa-n-Nar*, chapter one: [al-Maktaba ash-Shamila](https://shamela.ws/book/12714/3).
+[^6]: Ahmad ibn 'Ali ibn Hajar al-'Asqalani, *Fath al-Bari bi-Sharh Sahih al-Bukhari*, Book of the Eclipse, chapter on praying the eclipse prayer in congregation, commentary on hadith 1052 (volume 2): [IslamWeb](https://www.islamweb.net/ar/library/content/52/1950/).
 [^7]: Muhammad ibn Abi Bakr Ibn Qayyim al-Jawziyyah, *Hadi al-Arwah ila Bilad al-Afrah*, chapter two on the scholars' disagreement over the garden in which Adam, peace be upon him, was settled: [al-Maktaba ash-Shamila](https://shamela.ws/book/13652/100).
 
 <!-- references:end -->

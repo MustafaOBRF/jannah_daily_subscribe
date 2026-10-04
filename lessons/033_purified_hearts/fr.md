@@ -103,7 +103,7 @@ Le fruit de la rancœur arrachée est une image que l'on voit : des visages tou
 
 #### Interprétation Savante
 
-Chez al-Bukhari, l'un des rapporteurs de ce hadith a récité le verset « Et Nous aurons arraché de leurs poitrines toute rancœur » avant de le transmettre, et al-Baghawi comme Ibn Kathir l'ont cité en commentant les deux versets : c'est donc la clé la plus sûre pour comprendre le moment de cet arrachement. D'abord des droits qui sont rendus, puis des cœurs affinés et purifiés, enfin la permission d'entrer.[^1][^3]
+Chez al-Bukhari, l'un des rapporteurs de ce hadith a récité le verset « Et Nous aurons arraché de leurs poitrines toute rancœur » avant de le transmettre, et al-Baghawi l'a cité en commentant le verset d'al-A'raf, Ibn Kathir en commentant celui d'al-Hijr : c'est donc la clé la plus sûre pour comprendre le moment de cet arrachement. D'abord des droits qui sont rendus, puis des cœurs affinés et purifiés, enfin la permission d'entrer.[^1][^2][^3]
 
 #### Explication De La Leçon
 

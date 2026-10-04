@@ -30,18 +30,18 @@ After this lesson, the learner will be able to:
 
 ## Academic Section for Adults
 
-<!-- reader:start audience="adults" estimated_minutes="6.5" -->
+<!-- reader:start audience="adults" estimated_minutes="7.0" -->
 
 <!-- unit:start id="adults.explanation" kind="explanation" -->
 
 Many people think that being "foremost" is measured by what others can see: who takes center stage, who is publicly praised, who has great, visible achievements credited to them. But the Qur'an offers a different scale for being foremost, saying: `وَالسَّابِقُونَ السَّابِقُونَ * أُولَـٰئِكَ الْمُقَرَّبُونَ`. The truly foremost are those who were foremost in obeying Allah and in sincerity of deed, whether people saw them or not.
 
-The greatest example of this foremost-ness is the Prophet ﷺ himself, who told us that he is **the first to knock at the door of Jannah** on the Day of Judgment, honored for having been foremost in faith, in calling others to Allah, and in patience. Then another hadith comes to show that this foremost-ness is not reserved for prophets and the famous, but is attained by ordinary people whom no one may know: the Prophet ﷺ was shown that the first three to enter Jannah are a martyr who gave his life, a chaste person who abstained from what is unlawful despite his need, and a servant who fulfilled his trust with excellence and sincerity.
+The greatest example of this foremost-ness is the Prophet ﷺ himself, who told us that he is **the first to knock at the door of Jannah** on the Day of Judgment, honored for having been foremost in faith, in calling others to Allah, and in patience. Another hadith then shows that this foremost-ness is not reserved for prophets and the famous, but is attained by ordinary people whom no one may know: the Prophet ﷺ was shown that the first three to enter Jannah are a martyr who gave his life, a chaste person who abstained from what is unlawful despite his need, and a servant who fulfilled his trust with excellence and sincerity.
 
-This understanding corrects two opposite deviations in how people view merit and being foremost:
+This understanding corrects two opposite errors in how people view merit and being foremost:
 
 1. **Restricting foremost-ness to visibility:** thinking that merit before Allah belongs only to one whose deeds became famous or were praised in public.
-2. **Discounting hidden deeds:** thinking that one's small deed that no one sees — such as patience in need, or honesty in unsupervised work — amounts to nothing before Allah.
+2. **Discounting hidden deeds:** thinking that one's small deed that no one sees — such as bearing a need patiently, or honesty in unsupervised work — amounts to nothing before Allah.
 
 True foremost-ness to Jannah begins with sincerity of heart and excellence of deed, whether apparent or hidden.
 
@@ -61,7 +61,7 @@ True foremost-ness to Jannah begins with sincerity of heart and excellence of de
 
 #### Scholarly Interpretation
 
-Ibn Kathir mentioned in his tafsir of this ayah that `the foremost` are those foremost to obedience and good in every nation, and in this nation they are the first to believe and to emigrate; they hold the highest rank in Jannah, being `those brought near`, whose rank surpasses that of `the companions of the right` mentioned after them in the surah.[^2]
+Ibn Kathir cited in his tafsir of this ayah the early scholars' views on `the foremost`, then said that all of them are correct: the foremost are those who hasten to good deeds as they were commanded, so whoever is foremost to good in this world will be foremost to honor in the Hereafter, for the reward is of the same kind as the deed. They are `those brought near`, whose rank surpasses that of `the companions of the right` mentioned after them in the surah.[^2]
 
 #### Lesson Explanation
 
@@ -79,7 +79,7 @@ The ayah repeats the word `the foremost` twice to emphasize that what matters is
 
 #### Scholarly Interpretation
 
-The Prophet ﷺ informed us that he has two great distinctions on the Day of Judgment: having the most followers among the prophets, and being the first to knock at the door of Jannah, seeking it opened for his nation. This foremost-ness is the fruit of his being foremost in this world in believing in his Lord, in patiently bearing the call to Islam, and in delivering the message in full, so Allah rewarded him by making him the first of all mankind to enter.
+The Prophet ﷺ informed us that he has two great distinctions on the Day of Judgment: having the most followers among the prophets, and being the first to knock at the door of Jannah, asking for it to be opened for his nation. This foremost-ness is the fruit of his being foremost in this world in believing in his Lord, in patiently bearing the call to Islam, and in delivering the message in full, so Allah rewarded him by making him the first of all mankind to enter.
 
 #### Lesson Explanation
 
@@ -97,11 +97,11 @@ The Prophet's ﷺ foremost-ness at the door of Jannah is not merely a personal h
 
 #### Scholarly Interpretation
 
-Allah showed His Prophet ﷺ a picture of three types of people who are foremost to Jannah over others, none of them known for rank or wealth: **the martyr**, who gave his life in the way of Allah; **the chaste one who restrains himself**, who abstained from what is unlawful and sought independence from people despite his need; and **the servant**, who worshipped his Lord well and was truthful in the trust of those he worked for, never betraying them. The hadith is hasan (sound), narrated by at-Tirmidhi, who himself graded it hasan.
+Allah showed His Prophet ﷺ a picture of three types of people who precede others into Jannah, none of them known for rank or wealth: **the martyr**, who gave his life in the way of Allah; **the chaste one who restrains himself**, who abstained from what is unlawful and sought independence from people despite his need; and **the servant**, who worshipped his Lord well and was truthful in the trust of those he worked for, never betraying them. At-Tirmidhi narrated it and said: "a hasan (sound) hadith," while some later hadith scholars graded its chain weak.
 
 #### Lesson Explanation
 
-These three categories share one quality: sincerity of deed in a place where the doer is usually unwatched, not fame or visibility. The martyr gives his life in the most hidden, harshest moment away from people's eyes; the chaste one resists his need alone, when no one is there to help him; and the servant serves his trust with excellence even when no supervisor is present. Foremost-ness to Jannah, then, is not reserved for the famous, but is a door open to everyone whose deed is sincere, even if that deed is hidden.
+These three categories share one quality: sincerity of deed in a place where the doer is usually unwatched, not fame or visibility. The martyr gives his life in moments most hidden from people's eyes; the chaste one resists his need alone, when no one sees him; and the servant fulfills his trust with excellence even when no supervisor is present. Foremost-ness to Jannah, then, is not reserved for the famous, but is a door open to everyone whose deed is sincere, even if that deed is hidden.
 
 <!-- evidence:end -->
 
@@ -115,7 +115,7 @@ These three categories share one quality: sincerity of deed in a place where the
 2. How does the hadith "the first to knock at the door of Jannah" show that foremost-ness is the fruit of earlier deeds, not a mere honor bestowed?
 3. What is the common thread among the three categories in the hadith of at-Tirmidhi?
 4. Why did the Prophet ﷺ not mention among these three categories anyone known for rank or wealth?
-5. What hidden deed in your life could be a reason for your being foremost to Allah's pleasure, even if no one sees it?
+5. What hidden deed in your life could make you one of the foremost in reaching Allah's pleasure, even if no one sees it?
 
 <!-- unit:end -->
 
@@ -125,7 +125,7 @@ These three categories share one quality: sincerity of deed in a place where the
 
 <!-- activity:start audience="adults" concept_id="lesson.016.activity.quiet-foremost-log" -->
 
-For three days, note down each day one sincere deed you did without intending anyone to see it or praise you for it, and classify it under one of three headings inspired by the hadith of at-Tirmidhi: **sacrifice and giving**, or **contentment and restraint from something unlawful despite need**, or **excellence in a trust entrusted to you and sincerity with whoever you serve**. Write one line next to each deed linking it to one of the three evidences (the ayah of the foremost, or one of the two hadiths). At the end of the third day, write a short paragraph comparing what you used to consider "being foremost" before this lesson with how you see it now.
+For three days, note down each day one sincere deed you did without intending anyone to see it or praise you for it, and classify it under one of three headings inspired by the hadith of at-Tirmidhi: **sacrifice and giving**, or **contentment and restraint from something unlawful despite need**, or **excellence in fulfilling a trust placed in you and sincerity toward those you serve**. Write one line next to each deed linking it to one of the three evidences (the ayah of the foremost, or one of the two hadiths). At the end of the third day, write a short paragraph comparing what you used to consider "being foremost" before this lesson with how you see it now.
 
 <!-- activity:end -->
 
@@ -133,13 +133,13 @@ For three days, note down each day one sincere deed you did without intending an
 
 <!-- reader:end -->
 
-<!-- reader:start audience="4-7" estimated_minutes="5.0" -->
+<!-- reader:start audience="4-7" estimated_minutes="4.5" -->
 
 <!-- unit:start id="4-7.explanation" kind="explanation" -->
 
 ## For Children Ages 4 to 7
 
-Allah says in the Qur'an: `وَالسَّابِقُونَ السَّابِقُونَ` — those who are foremost to doing good are the closest people to Allah in Jannah. And the Prophet ﷺ told us that he is **the first to knock at the door of Jannah**. Then he told us that there are other people who are foremost to Jannah too, even if no one knows them, because they were sincere in what they did.
+Allah says in the Qur'an: `وَالسَّابِقُونَ السَّابِقُونَ` — those who hurry ahead of others to do good are the closest people to Allah in Jannah. And the Prophet ﷺ told us that he is **the first to knock at the door of Jannah**. Then he told us that there are other people who reach Jannah first too, even if no one knows them, because they were sincere in what they did.
 
 <!-- unit:end -->
 
@@ -153,7 +153,7 @@ Allah says in the Qur'an: `وَالسَّابِقُونَ السَّابِقُو
 
 Yusuf's cousin loved to be applauded every time he accomplished something in front of everyone, like setting the big table for guests. Yusuf, though, woke up every morning before anyone called him, folded his own bedding, and helped his little sister put on her shoes, without telling anyone.
 
-One day, Yusuf asked his mother, "Why doesn't anyone praise me the way they praise my cousin?" His mother smiled and said, "Did you know that Allah told us there are people who are foremost to Jannah — ordinary people no one knows, but Allah knows their sincerity? Their foremost-ness doesn't need anyone's applause."
+One day, Yusuf asked his mother, "Why doesn't anyone praise me the way they praise my cousin?" His mother smiled and said, "Did you know that Allah told us there are people who reach Jannah ahead of others — ordinary people no one knows, but Allah knows how sincere they are? Getting there first like that doesn't need anyone's applause."
 
 Yusuf was happy to hear this, and he kept folding his bedding and helping his sister every morning, smiling to himself, knowing that Allah sees what no one else sees.
 
@@ -169,7 +169,7 @@ Yusuf was happy to hear this, and he kept folding his bedding and helping his si
 
 <!-- retelling:start source_id="tirmidhi-1642" audience="4-7" -->
 
-The Prophet ﷺ told us that Allah showed him the first three people to enter Jannah: a man who gave his life in the way of Allah, a man who was content with little and never reached out for what is unlawful even though he needed it, and a servant who obeyed his Lord and did good work for those he served, with sincerity and honesty.[^4] These three were foremost to Jannah over others — not because people knew them, but because Allah knew their sincerity.
+The Prophet ﷺ told us that Allah showed him the first three people to enter Jannah: a man who gave his life in the way of Allah, a man who was content with little and never reached for anything unlawful, even though he was in need, and a servant who obeyed his Lord and did good work for those he served, with sincerity and honesty.[^4] These three reached Jannah ahead of everyone else — not because people knew them, but because Allah knew their sincerity.
 
 <!-- retelling:end -->
 
@@ -223,7 +223,7 @@ A grown-up prepares a small closed box. Each day, when the child does a sincere 
 
 ## For Children Ages 8 to 12
 
-You might think that being foremost to Allah's favor requires some great deed that everyone sees and praises. But Allah told us that the first three to enter Jannah are not necessarily the most famous people, but the most sincere in situations where perhaps no one is watching: one who gave his life, one who was content with what is lawful despite his need, and one who fulfilled the trust of his work sincerely. True foremost-ness is measured by sincerity of heart in secret, not by the size of applause in public.
+You might think that being first to win Allah's favor requires some great deed that everyone sees and praises. But Allah told us that the first three to enter Jannah are not necessarily the most famous people, but the most sincere in situations where perhaps no one is watching: one who gave his life, one who was content with what is lawful despite his need, and one who did the work entrusted to him honestly. True foremost-ness is measured by sincerity of heart in secret, not by the size of applause in public.
 
 <!-- unit:end -->
 
@@ -235,11 +235,11 @@ You might think that being foremost to Allah's favor requires some great deed th
 
 **This is an imaginary teaching story, not a hadith or a historical account.**
 
-Salma helped her father in his small shop every afternoon after school, greeting customers and doing their accounts. One day, her father stepped away for a few minutes to answer a call, and a customer gave money to buy some items, so Salma handled the transaction herself. After the customer left, Salma discovered she had given her far more change than she should have, by mistake.
+Salma helped her father in his small shop every afternoon after school, greeting customers and ringing up their purchases. One day, her father stepped away for a few minutes to take a call, and a customer came in to buy a few things, so Salma rang her up herself. After the customer left, Salma discovered that the woman had accidentally paid her far more than she owed.
 
-Salma thought for a moment: "No one saw me, and no one would know if I kept it in the shop's cash box." But she remembered a lesson she'd heard about the first three to enter Jannah, among them one who worshipped his Lord well and was sincere in the trust of those he worked for. She said to herself: "My father trusted me with this shop, and this money isn't ours."
+Salma thought for a moment: "No one saw me, and no one would know if I kept it in the shop's cash box." But she remembered a lesson she'd heard about the first three to enter Jannah, among them one who worshipped his Lord well and was faithful to the trust of those he worked for. She said to herself: "My father trusted me with this shop, and this money isn't ours."
 
-Salma ran after the customer until she caught up with her, and returned the extra amount with a calm smile, then went back to the shop without telling anyone what she had done. No one applauded her, but she felt a peace in her heart she had never felt before.
+Salma ran after the customer until she caught up with her and returned the extra amount with a calm smile, then went back to the shop without telling anyone what she had done. No one applauded her, but she felt a peace in her heart she had never felt before.
 
 <!-- story:end -->
 
@@ -281,8 +281,8 @@ These three categories were not mentioned by titles or ranks, but by qualities o
 
 1. Why did no one tell Salma about what she did so she could be rewarded for it?
 2. What are the three categories in the hadith of at-Tirmidhi, and what quality do they share?
-3. Does the "chaste, restrained one" need to announce to people that he left what is unlawful in order to be rewarded?
-4. What situation in your life resembles Salma's situation, where no one is watching you?
+3. Does the "chaste, restrained one" need to announce to people that he gave up what is unlawful in order to be rewarded?
+4. What situation in your life is like Salma's, where no one is watching you?
 
 <!-- unit:end -->
 
@@ -316,13 +316,13 @@ For one week, record each day in a small notebook one situation where you were s
 
 <!-- reader:end -->
 
-<!-- reader:start audience="13+" estimated_minutes="6.5" -->
+<!-- reader:start audience="13+" estimated_minutes="6.0" -->
 
 <!-- unit:start id="13+.explanation" kind="explanation" -->
 
 ## For Teens 13+
 
-In a world where worth is sometimes measured by how many people see your achievement or engage with it, this lesson offers a completely different standard for being foremost: `وَالسَّابِقُونَ السَّابِقُونَ * أُولَـٰئِكَ الْمُقَرَّبُونَ`. The Prophet ﷺ himself, despite his greatness and fame, tells us that his foremost-ness at the door of Jannah is the fruit of his sincerity in calling people to Allah and his patience, not merely a rank bestowed on him. Then comes the hadith of "the first three to enter Jannah" to break a common expectation: the three who are foremost are not people of rank or fame, but someone who sacrificed, someone who stayed chaste while hiding his need, and someone who fulfilled the trust of work that no one was watching.
+In a world where worth is sometimes measured by how many people see your achievement or engage with it, this lesson offers a completely different standard for being foremost: `وَالسَّابِقُونَ السَّابِقُونَ * أُولَـٰئِكَ الْمُقَرَّبُونَ`. The Prophet ﷺ himself, despite his greatness and fame, told us that he is the first to knock at the door of Jannah, and before that he was foremost among people in this world in his sincerity in calling to Allah and his patience in doing so. Then comes the hadith of "the first three to enter Jannah" to break a common expectation: the three who are foremost are not people of rank or fame, but someone who sacrificed, someone who kept away from the unlawful while privately in need, and someone who faithfully did work no one was supervising.
 
 This confronts a temptation of our age: thinking that a deed which is not documented or published has no value. But revelation teaches us that the weightiest deeds before Allah may be the ones most hidden from everyone's eyes.
 
@@ -338,9 +338,9 @@ This confronts a temptation of our age: thinking that a deed which is not docume
 
 Tariq worked part-time at a small library after school, and was asked to record his own working hours in a trust-based logbook, with no one closely watching him. One day, he got caught up in a personal call for twenty minutes during his shift, and considered logging his hours in full as usual, thinking no one would notice such a small difference.
 
-Tariq remembered what he had learned about "the servant who worshipped Allah well and gave sincere counsel to those he served," and asked himself: "Does sincerity to someone who trusts me mean taking advantage of his absence?" He felt an inner discomfort, then decided to deduct those twenty minutes from his hours himself, without being asked and without the library owner ever knowing about it.
+Tariq remembered what he had learned about "the servant who worshipped Allah well and gave sincere counsel to those he served," and asked himself: "Does sincerity to someone who trusts me mean taking advantage of his absence?" He felt uneasy inside, then decided to deduct those twenty minutes from his hours himself, without being asked and without the library owner ever knowing about it.
 
-The next day, he saw a colleague's post boasting about a small accomplishment in front of everyone, and Tariq realized that what he had done the day before, though it would never be published or praised, might be weightier before Allah than much of what gets published and admired.
+The next day, he saw a classmate's post showing off a small accomplishment for everyone to see, and Tariq realized that what he had done the day before, though it would never be published or praised, might be weightier before Allah than much of what gets published and admired.
 
 <!-- story:end -->
 
@@ -356,7 +356,7 @@ The next day, he saw a colleague's post boasting about a small accomplishment in
 
 Abu Hurayrah, may Allah be pleased with him, reported that the Prophet ﷺ said: "The first three to enter Jannah were shown to me: a martyr, a chaste person who restrains himself, and a servant who worshipped Allah well and gave sincere counsel to those he served."[^4] This is a hadith graded hasan by at-Tirmidhi himself.
 
-Notice that these three categories share the fact that their sincerity shows most clearly in the moment when no one is watching them: the martyr in his most vulnerable and dangerous moment; the chaste one when he is alone with his need and finds no one to help him; and the servant when whoever holds him accountable for his trust is absent. The foremost-ness Allah promised these three was not built on people's testimony for them, but on Allah's knowledge of their sincerity in secret — and this is the meaning of their nearness to Him in His saying: `أُولَـٰئِكَ الْمُقَرَّبُونَ` ("those are the ones brought near").
+Notice what these three categories have in common: their sincerity shows most clearly in the moment when no one is watching them: the martyr in his most vulnerable and dangerous moment; the chaste one when he is alone with his need and finds no one to help him; and the servant when the one who would hold him to account for his trust is away. The foremost-ness Allah promised these three was not built on people's testimony for them, but on Allah's knowledge of their sincerity in secret — and this is the meaning of their nearness to Him in His saying: `أُولَـٰئِكَ الْمُقَرَّبُونَ` ("those are the ones brought near").
 
 <!-- retelling:end -->
 
@@ -369,7 +369,7 @@ Notice that these three categories share the fact that their sincerity shows mos
 <!-- terminology:start source_id="tirmidhi-1642" -->
 
 - **`الْمُقَرَّبُونَ` (those brought near)** — the highest rank among the people of Jannah, the foremost whom Allah singled out for nearness to Him.
-- **`عَفِيفٌ مُتَعَفِّفٌ` (the chaste one who restrains himself)** — one who abstains from what is unlawful by his own will, and imposes chastity on himself against asking people, despite genuine need.
+- **`عَفِيفٌ مُتَعَفِّفٌ` (the chaste one who restrains himself)** — one who abstains from what is unlawful by his own will, and trains himself not to ask people for anything, despite genuine need.
 - **`نَصَحَ لِمَوَالِيهِ` (gave sincere counsel to those he served)** — was devoted in serving those he worked for or who entrusted him with their affairs, neither cheating them nor exploiting their absence.
 
 <!-- terminology:end -->
@@ -382,9 +382,9 @@ Notice that these three categories share the fact that their sincerity shows mos
 
 1. How does the hadith "the first three to enter Jannah" challenge the idea that merit is measured by fame or rank?
 2. Why were the foremost in the ayah of al-Waqi'ah described as `those brought near`, rather than as the most famous?
-3. What is the difference between being sincere to someone who trusted you in his absence, and doing the work well only in his presence?
+3. What is the difference between staying faithful to someone who trusts you while they are away, and doing the work well only when they are watching?
 4. How does this lesson confront the temptation to publicize achievements to prove oneself to others?
-5. What situation in your life resembles Tariq's situation, where sincerity in it will be noticed by no one but you and your Lord?
+5. What situation in your life is like Tariq's, where your honesty will be noticed by no one but you and your Lord?
 
 <!-- unit:end -->
 
@@ -394,7 +394,7 @@ Notice that these three categories share the fact that their sincerity shows mos
 
 <!-- activity:start audience="13+" concept_id="lesson.016.activity.quiet-foremost-log" -->
 
-For two weeks, record in a private notebook every situation in which you were sincere without anyone supervising you (at school, at work, or in your online interactions), and classify it under one of three categories: **sacrifice and giving**, or **restraint from taking what isn't yours or exploiting an absent supervisor**, or **trustworthiness in a task or confidence entrusted to you**. At the end of the two weeks, write a paragraph comparing one situation you recorded with another situation you would have displayed to people to be praised for it, citing the ayah of the foremost or one of the two hadiths.
+For two weeks, record in a private notebook every situation in which you were sincere without anyone supervising you (at school, at work, or in your online interactions), and classify it under one of three categories: **sacrifice and giving**, or **restraint from taking what isn't yours or exploiting an absent supervisor**, or **trustworthiness in a task or confidence entrusted to you**. At the end of the two weeks, write a paragraph comparing one situation you recorded with another that you showed people in order to be praised for it, citing the ayah of the foremost or one of the two hadiths.
 
 <!-- activity:end -->
 
@@ -443,10 +443,10 @@ For two weeks, record in a private notebook every situation in which you were si
 **Guided Instruction — 15 minutes:** The teacher explains that foremost-ness is measured by sincerity, not visibility, citing that the three categories were not mentioned by titles or ranks, and links this to the ayah `أُولَـٰئِكَ الْمُقَرَّبُونَ`.
 
 <!-- lesson-plan:activity -->
-**Activity — 15 minutes:** Learners begin the Quiet Foremost-ness Log for the coming three days, classifying their expectations under the three categories, and each pair reviews the other's plan without requesting sensitive personal details.
+**Activity — 15 minutes:** Learners begin the Quiet Foremost-ness Log for the coming three days, classifying the situations they expect under the three categories, and each pair reviews the other's plan without requesting sensitive personal details.
 
 <!-- lesson-plan:assessment -->
-**Assessment and Closing — 10 minutes:** Exit card: "Name the three categories in the hadith of the first three to enter Jannah, explain why they were not mentioned by titles, and write one hidden situation you will begin recording." The teacher closes by reading the du'a, noting that it is his own lesson composition.
+**Assessment and Closing — 10 minutes:** Exit card: "Name the three categories in the hadith of the first three to enter Jannah, explain why they were not mentioned by titles, and write one hidden situation you will begin recording." The teacher closes by reading the du'a, noting that it was composed for this lesson.
 
 <!-- lesson-plan:differentiation -->
 **Differentiation:** Beginners are given a ready list of examples for the three situations; advanced learners are tasked with discussing the relationship between this hadith and the ayah `وَالسَّابِقُونَ السَّابِقُونَ` in greater detail.
@@ -536,13 +536,13 @@ For two weeks, record in a private notebook every situation in which you were si
 **Learning Outcomes:** That the student analyze the true standard of foremost-ness versus the standard of social fame, explain the meaning of `those brought near` and the three categories, and carry out a private two-week log of hidden sincere situations.
 
 <!-- lesson-plan:materials -->
-**Materials:** The file of the three evidences; term cards; a private two-week log template; exit slips.
+**Materials:** A packet of the three evidences; term cards; a private two-week log template; exit slips.
 
 <!-- lesson-plan:preparation -->
-**Preparation:** The teacher reviews the grading of the two hadiths, and prepares a neutral example about the pressure to publish and document socially, without referring to any specific student.
+**Preparation:** The teacher reviews the grading of the two hadiths, and prepares a neutral example about the pressure to post and document one's life on social media, without referring to any specific student.
 
 <!-- lesson-plan:opening -->
-**Opening — 5 minutes:** The teacher poses a question: "Is an unpublished achievement worth less than one that is seen?" Opens a brief discussion before reading Tariq's story.
+**Opening — 5 minutes:** Pose the question: "Is an unpublished achievement worth less than one that is seen?" Then open a brief discussion before reading Tariq's story.
 
 <!-- lesson-plan:evidence -->
 **Evidence Study — 12 minutes:** Three groups read ayat 10-11 of al-Waqi'ah, the hadith "the first to knock at the door of Jannah," and the hadith "the first three to enter Jannah." Each group extracts: the meaning of foremost-ness in its text, and its relation to visibility or secrecy.
@@ -569,8 +569,8 @@ For two weeks, record in a private notebook every situation in which you were si
 ## References
 
 [^1]: The Noble Qur'an, Surah al-Waqi'ah, ayat 10-11: [Qur'anic text](https://quran.com/56/10).
-[^2]: Abu al-Fida' Isma'il ibn Kathir, *Tafsir al-Qur'an al-'Azim*, commentary on Surah al-Waqi'ah, ayat 10-11, explaining that the foremost are those foremost to obedience in every nation and that they are the ones brought near: [King Saud University Electronic Mushaf](https://quran.ksu.edu.sa/tafseer/katheer/sura56-aya10.html).
-[^3]: Sahih Muslim, Book of Faith, hadith 197, narrated by Anas ibn Malik, may Allah be pleased with him: [Sunnah.com, narration 197](https://sunnah.com/muslim:197).
-[^4]: Sunan at-Tirmidhi, hadith 1642, narrated by Abu Hurayrah, may Allah be pleased with him, graded hasan by at-Tirmidhi himself: [Sunnah.com, narration 1642](https://sunnah.com/tirmidhi:1642).
+[^2]: Abu al-Fida' Isma'il ibn Kathir, *Tafsir al-Qur'an al-'Azim*, commentary on Surah al-Waqi'ah, ayat 10-11, explaining that the foremost are those who hasten to do good deeds as they were commanded, and that whoever is foremost to good in this world will be among the foremost to honor in the Hereafter, since the reward is of the same kind as the deed: [King Saud University Electronic Mushaf](https://quran.ksu.edu.sa/tafseer/katheer/sura56-aya10.html).
+[^3]: Sahih Muslim, Book of Faith, hadith 196 (second narration, via al-Mukhtar ibn Fulful), narrated by Anas ibn Malik, may Allah be pleased with him: [Sunnah.com, narration 196b](https://sunnah.com/muslim:196b).
+[^4]: Sunan at-Tirmidhi, hadith 1642, narrated by Abu Hurayrah, may Allah be pleased with him. At-Tirmidhi said: "This is a hasan hadith"; Bashar 'Awwad Ma'ruf graded it hasan, while Ahmad Shakir and al-Albani graded it weak: [Sunnah.com, narration 1642](https://sunnah.com/tirmidhi:1642).
 
 <!-- references:end -->

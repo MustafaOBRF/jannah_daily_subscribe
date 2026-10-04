@@ -22,28 +22,28 @@ bedtime_dua_id: "lesson.001.dua.dar-al-salam-and-more"
 Al terminar esta lección, el estudiante será capaz de:
 
 - Mencionar que los nombres de la Jannah en el Corán, como `al-Jannah`, `Dar as-Salam` y `al-Firdaws`, no son palabras sinónimas y vacías, sino que cada nombre revela un atributo real de esa morada.
-- Recitar la palabra de Allah `Allah invita a la Morada de la Paz` (Yunus: 25) y la palabra `Ésos son los herederos, que heredarán al-Firdaws` (al-Mu'minun: 10-11), y explicar lo que revela cada uno de estos dos nombres.
-- Narrar el hadiz qudsi «He preparado para Mis siervos rectos lo que ningún ojo ha visto, ningún oído ha escuchado, ni ha pasado por el corazón de ser humano alguno», y explicar que la realidad de la Jannah es más grande que el límite máximo al que llega la imaginación humana.
+- Recitar las palabras de Allah `Allah invita a la Morada de la Paz` (Yunus: 25) y `Ésos son los herederos, que heredarán al-Firdaws` (al-Mu'minun: 10-11), y explicar lo que revela cada uno de estos dos nombres.
+- Narrar el hadiz qudsi «He preparado para Mis siervos rectos lo que ningún ojo ha visto, ningún oído ha escuchado, ni ha pasado por el corazón de ser humano alguno», y explicar que la realidad de la Jannah supera lo máximo que puede alcanzar la imaginación humana.
 - Narrar la historia de Rabi'ah ibn Ka'b al-Aslami, que Allah esté complacido con él, cuando pidió al Profeta, que la paz y las bendiciones de Allah sean con él, acompañarlo en la Jannah, y explicar que esta gran esperanza se busca con una obra real, no solo con el deseo.
 - Distinguir entre lo que el ser humano imagina como lo mejor que conoce en este mundo, y la realidad que Allah nombró y que sobrepasa esa imaginación, sin que esto anule la esperanza ni la acción.
 - Realizar la actividad «Imagina y luego supera»: describir lo mejor que el estudiante imagina, compararlo con uno de los nombres de la Jannah y con el hadiz qudsi, y vincular eso con una acción concreta.
 
 ## Sección Académica para Adultos
 
-<!-- reader:start audience="adults" estimated_minutes="6.5" -->
+<!-- reader:start audience="adults" estimated_minutes="7.0" -->
 
 <!-- unit:start id="adults.explanation" kind="explanation" -->
 
-Con frecuencia pasamos junto a los nombres de la Jannah en el Corán sin detenernos, considerándolos sinónimos que solo buscan variedad retórica: `al-Jannah`, `Dar as-Salam`, `al-Firdaws`. Pero quien reflexiona sobre los contextos coránicos encuentra que cada nombre revela un atributo real de esa morada, no un simple título hermoso. `Dar as-Salam` nos informa que la seguridad completa es un atributo inseparable de ella; `al-Firdaws`, que es la morada más alta y céntrica de toda la dicha.
+A menudo pasamos por los nombres de la Jannah en el Corán sin detenernos, considerándolos sinónimos que solo buscan variedad retórica: `al-Jannah`, `Dar as-Salam`, `al-Firdaws`. Pero quien reflexiona sobre los contextos coránicos encuentra que cada nombre revela un atributo real de esa morada, no un simple título hermoso. Al llamarla `Dar as-Salam`, Allah nos enseña que la seguridad completa le es inherente, no un rasgo pasajero; al llamarla `al-Firdaws`, que es la morada más alta y central de la dicha.
 
-Surge entonces una pregunta más profunda: ¿podemos imaginar esta morada como el lugar más hermoso que conocemos, con un palacio mayor y un río más cristalino? El hadiz qudsi responde con claridad: la Jannah no prolonga lo más hermoso conocido por el ser humano, sino que supera lo que alcanzaría la imaginación de toda la humanidad reunida.
+Queda, sin embargo, una pregunta más profunda: ¿podemos imaginar esta morada como el lugar más hermoso que conocemos, añadiéndole un palacio mayor y un río más cristalino? El hadiz qudsi responde con claridad: la Jannah no prolonga lo más hermoso que conoce el ser humano, sino que supera lo que imaginaría toda la humanidad junta.
 
 Esta comprensión corrige dos desviaciones opuestas:
 
 1. **Reducir la Jannah a una imagen terrenal ampliada:** pensar que es solo el mejor jardín o palacio conocido, aumentado en tamaño y belleza.
 2. **Convertir su grandeza en algo vago y sin efecto práctico:** pensar que, por sobrepasar la imaginación, hablar de ella es un lujo teórico que no cambia el comportamiento hoy.
 
-Los nombres de la Jannah señalan atributos reales que esperamos, y que sobrepase la imaginación debe aumentar el anhelo y la acción, no el alejamiento ni la pasividad. La historia de Rabi'ah ibn Ka'b al-Aslami, que Allah esté complacido con él, encarna esta unión: pidió algo inmenso, y el Profeta, que la paz y las bendiciones de Allah sean con él, lo guio hacia la obra real con la cual se alcanza.
+Los nombres de la Jannah señalan atributos reales que esperamos, y que sobrepase la imaginación aumenta nuestro anhelo y acción, no el desinterés ni la pasividad. La historia de Rabi'ah ibn Ka'b al-Aslami, que Allah esté complacido con él, encarna esta unión: pidió algo inmenso, muy por encima de lo habitual, y el Profeta, que la paz y las bendiciones de Allah sean con él, lo guio hacia la obra real con que se alcanza.
 
 <!-- unit:end -->
 
@@ -62,11 +62,11 @@ Los nombres de la Jannah señalan atributos reales que esperamos, y que sobrepas
 
 #### Explicación Académica
 
-Los exégetas explican que `Dar as-Salam` es la Jannah, llamada así porque su gente está a salvo de todo mal, preocupación, tristeza y muerte, y porque as-Salam es un nombre de Allah, siendo su atribución a Él un honor. La invitación es general para toda la gente; la guía al camino recto, específica para quien Allah quiere guiar.[^2]
+Los exégetas explican que `Dar as-Salam` es la Jannah, llamada así porque su gente está a salvo de todo mal, preocupación, tristeza y muerte, y porque as-Salam es un nombre de Allah, y atribuírsela es honrarla. La invitación es general para toda la gente; la guía al camino recto, específica para quien Allah quiere guiar.[^2]
 
 #### Explicación de la Lección
 
-Este nombre no es descripción poética, sino noticia real: quien entra en esta morada goza de seguridad completa sin igual en este mundo. La aleya convierte esa seguridad en invitación abierta del propio Allah, no en premio lejano e incierto.
+Este nombre no es una descripción poética, sino un hecho verídico: quien entra en esta morada goza de seguridad completa sin igual en este mundo. La aleya convierte esa seguridad en invitación abierta del propio Allah, no en premio lejano e incierto.
 
 <!-- evidence:end -->
 
@@ -81,11 +81,11 @@ Este nombre no es descripción poética, sino noticia real: quien entra en esta 
 
 #### Explicación Académica
 
-Antes de estas aleyas, Allah describe a los creyentes exitosos: humildes en la oración, apartados de lo vano, pagan el zakat, guardan su castidad, cumplen depósitos y pactos, y mantienen sus oraciones. Su recompensa es heredar `al-Firdaws`, la parte más alta de la Jannah, como aclaró el Profeta, que la paz y las bendiciones de Allah sean con él, en otro hadiz.[^3]
+Antes de estas aleyas, Allah describe a los creyentes triunfadores: humildes en la oración, apartados de lo vano, que pagan el zakat, guardan su castidad, cumplen lo confiado y sus pactos, y cuidan sus oraciones. Su recompensa es heredar `al-Firdaws`, la parte más alta y central de la Jannah, como aclaró el Profeta, que la paz y las bendiciones de Allah sean con él, en otro hadiz.[^3]
 
 #### Explicación de la Lección
 
-El nombre `al-Firdaws` revela que la Jannah tiene grados, y que su parte más alta no se alcanza solo deseándola, sino con las obras concretas mencionadas antes, vinculando así el nombre directamente con atributos prácticos.
+El nombre `al-Firdaws` revela que la Jannah tiene grados, y que su parte más alta no se alcanza solo deseándola, sino con las obras concretas antes mencionadas: así, el nombre queda ligado directamente a cualidades prácticas.
 
 <!-- evidence:end -->
 
@@ -95,16 +95,16 @@ El nombre `al-Firdaws` revela que la Jannah tiene grados, y que su parte más al
 
 <!-- evidence:translation -->
 
-> عَنْ أَبِي هُرَيْرَةَ رضي الله عنه، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ: «قَالَ اللَّهُ تَعَالَى: أَعْدَدْتُ لِعِبَادِيَ الصَّالِحِينَ مَا لَا عَيْنٌ رَأَتْ، وَلَا أُذُنٌ سَمِعَتْ، وَلَا خَطَرَ عَلَى قَلْبِ بَشَرٍ، فَاقْرَءُوا إِنْ شِئْتُمْ: {فَلَا تَعْلَمُ نَفْسٌ مَا أُخْفِيَ لَهُمْ مِنْ قُرَّةِ أَعْيُنٍ جَزَاءً بِمَا كَانُوا يَعْمَلُونَ}».
-> Narró Abu Hurayrah, que Allah esté complacido con él, que el Profeta, que la paz y las bendiciones de Allah sean con él, dijo: **«Allah, el Altísimo, ha dicho: He preparado para Mis siervos rectos lo que ningún ojo ha visto, ningún oído ha escuchado, ni ha pasado por el corazón de ser humano alguno. Reciten, si quieren: "Ningún alma sabe lo que se le ha ocultado de alegría para los ojos, como recompensa por lo que solían hacer."»**[^4]
+> عَنْ أَبِي هُرَيْرَةَ رضي الله عنه، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ: «قَالَ اللَّهُ: أَعْدَدْتُ لِعِبَادِيَ الصَّالِحِينَ مَا لَا عَيْنٌ رَأَتْ، وَلَا أُذُنٌ سَمِعَتْ، وَلَا خَطَرَ عَلَى قَلْبِ بَشَرٍ، فَاقْرَءُوا إِنْ شِئْتُمْ: {فَلَا تَعْلَمُ نَفْسٌ مَا أُخْفِيَ لَهُمْ مِنْ قُرَّةِ أَعْيُنٍ}».
+> Narró Abu Huraira, que Allah esté complacido con él, que el Profeta, que la paz y las bendiciones de Allah sean con él, dijo: **«Allah ha dicho: He preparado para Mis siervos rectos lo que ningún ojo ha visto, ningún oído ha escuchado, ni ha pasado por el corazón de ser humano alguno. Reciten, si quieren: “Ningún alma sabe lo que se les ha ocultado de deleite para los ojos”».**[^4]
 
 #### Explicación Académica
 
-Este hadiz qudsi de autenticidad acordada informa que Allah ha preparado para Sus siervos rectos una dicha que ningún sentido de vista u oído ha alcanzado, ni pasó jamás por la imaginación de corazón humano alguno. El Profeta, que la paz y las bendiciones de Allah sean con él, citó luego la aleya de la sura as-Sayda como confirmación.
+Este hadiz qudsi, de autenticidad unánime, informa de que Allah ha preparado para Sus siervos rectos una dicha que ni la vista ni el oído han percibido ni corazón humano alguno ha imaginado jamás. El Profeta, que la paz y las bendiciones de Allah sean con él, citó luego la aleya de la sura as-Sayda como confirmación.
 
 #### Explicación de la Lección
 
-Este hadiz gobierna todo lo que aprendemos sobre los nombres de la Jannah: lo que escuchamos es verdadero e impactante, pero no abarca toda la realidad. Por hermosa que sea nuestra descripción, la Jannah sigue siendo más grande, lo cual orienta el corazón hacia el anhelo y la acción, no hacia la mera imaginación.
+Este hadiz es la regla que enmarca lo que aprendemos sobre los nombres y descripciones de la Jannah: lo que escuchamos es verdadero e impactante, pero no abarca toda la realidad. Por mucho que la describamos con lo más hermoso que conocemos, su realidad la supera, y eso orienta el corazón al anhelo y la acción, no a conformarse con imaginar.
 
 <!-- evidence:end -->
 
@@ -114,16 +114,16 @@ Este hadiz gobierna todo lo que aprendemos sobre los nombres de la Jannah: lo qu
 
 <!-- evidence:translation -->
 
-> عَنْ رَبِيعَةَ بْنِ كَعْبٍ الْأَسْلَمِيِّ رضي الله عنه قَالَ: كُنْتُ أَبِيتُ مَعَ رَسُولِ اللَّهِ صلى الله عليه وسلم فَأُتِيهِ بِوَضُوئِهِ وَحَاجَتِهِ، فَقَالَ لِي: «سَلْ». فَقُلْتُ: أَسْأَلُكَ مُرَافَقَتَكَ فِي الْجَنَّةِ. قَالَ: «أَوْ غَيْرَ ذَٰلِكَ؟». قُلْتُ: هُوَ ذَاكَ. قَالَ: «فَأَعِنِّي عَلَىٰ نَفْسِكَ بِكَثْرَةِ السُّجُودِ».
-> Narró Rabi'ah ibn Ka'b al-Aslami, que Allah esté complacido con él: **«Yo pasaba la noche con el Mensajero de Allah, que la paz y las bendiciones de Allah sean con él, y le llevaba su agua para el wudú y lo que necesitara. Un día me dijo: "Pide." Y yo dije: "Te pido acompañarte en la Jannah." Él dijo: "¿O alguna otra cosa?" Yo dije: "Es eso." Él dijo: "Entonces ayúdame contigo mismo, prosternándote mucho."»**[^5]
+> عَنْ رَبِيعَةَ بْنِ كَعْبٍ الْأَسْلَمِيِّ رضي الله عنه قَالَ: كُنْتُ أَبِيتُ مَعَ رَسُولِ اللَّهِ صلى الله عليه وسلم فَأَتَيْتُهُ بِوَضُوئِهِ وَحَاجَتِهِ، فَقَالَ لِي: «سَلْ». فَقُلْتُ: أَسْأَلُكَ مُرَافَقَتَكَ فِي الْجَنَّةِ. قَالَ: «أَوْ غَيْرَ ذَٰلِكَ؟». قُلْتُ: هُوَ ذَاكَ. قَالَ: «فَأَعِنِّي عَلَىٰ نَفْسِكَ بِكَثْرَةِ السُّجُودِ».
+> Narró Rabi'ah ibn Ka'b al-Aslami, que Allah esté complacido con él: **«Yo pasaba la noche con el Mensajero de Allah, que la paz y las bendiciones de Allah sean con él, y le llevaba su agua para el wudú y lo que necesitara. Me dijo: “Pide”. Le dije: “Te pido acompañarte en la Jannah”. Dijo: “¿O alguna otra cosa?”. Dije: “Es eso”. Dijo: “Entonces ayúdame a ayudarte, prosternándote mucho”».**[^5]
 
 #### Explicación Académica
 
-Rabi'ah, que Allah esté complacido con él, servía al Profeta, que la paz y las bendiciones de Allah sean con él. Al ofrecérsele pedir lo que necesitara, no pidió dinero ni cargo, sino lo más grande posible: acompañarlo en la Jannah. El Profeta le pidió aclarar su petición y, al insistir, lo guio hacia el camino práctico para alcanzarla: la abundancia de prosternaciones.
+Rabi'ah, que Allah esté complacido con él, servía al Profeta, que la paz y las bendiciones de Allah sean con él. Cuando se le ofreció pedir lo que necesitara, no pidió dinero ni cargo, sino lo más grande: acompañar al propio Profeta en la Jannah. El Profeta le pidió que aclarara su petición y, ante su insistencia, lo guio hacia el camino práctico: la abundancia de prosternaciones.
 
 #### Explicación de la Lección
 
-Esta situación vincula la esperanza más grande con la obra más sencilla: una prosternación tras otra. Rabi'ah no se quedó en el deseo, ni se le dejó sin camino; su esperanza se unió a una obra diaria al alcance de todo musulmán. Es un modelo para quien, sabiendo que la Jannah sobrepasa la imaginación, pregunta: ¿cuál es la obra?
+Esta situación vincula la esperanza más grande con la obra visible más sencilla: una prosternación tras otra. A Rabi'ah no se le aceptó el mero deseo, ni se le dejó sin camino: su gran esperanza quedó unida a una obra diaria al alcance de todo musulmán. Es un modelo para quien oye los nombres de la Jannah, sabe que su realidad supera la imaginación y se pregunta: «Entonces, ¿qué hago?».
 
 <!-- evidence:end -->
 
@@ -136,8 +136,8 @@ Esta situación vincula la esperanza más grande con la obra más sencilla: una 
 1. ¿Cuál es la diferencia entre que los nombres de la Jannah sean sinónimos en lo nombrado y diversos en el atributo?
 2. ¿Cómo impide el hadiz qudsi «lo que ningún ojo ha visto» que reduzcamos la Jannah a una imagen terrenal ampliada?
 3. ¿Por qué el Profeta, que la paz y las bendiciones de Allah sean con él, no se conformó con la respuesta de Rabi'ah ibn Ka'b, sino que le pidió aclarar su petición?
-4. ¿Cómo vincula la respuesta del Profeta, que la paz y las bendiciones de Allah sean con él, «ayúdame contigo mismo, prosternándote mucho», la gran esperanza con la obra diaria sencilla?
-5. ¿Cuál de los tres nombres de la Jannah de esta lección necesitas traer a tu mente esta semana? ¿Por qué?
+4. ¿Cómo vincula la respuesta del Profeta, que la paz y las bendiciones de Allah sean con él, «ayúdame a ayudarte, prosternándote mucho», la gran esperanza con la obra diaria sencilla?
+5. ¿Cuál de los tres nombres de la Jannah de esta lección necesitas tener presente esta semana? ¿Por qué?
 
 <!-- unit:end -->
 
@@ -147,7 +147,7 @@ Esta situación vincula la esperanza más grande con la obra más sencilla: una 
 
 <!-- activity:start audience="adults" concept_id="lesson.001.activity.imagine-then-exceed" -->
 
-Escribe en tres líneas la mejor imagen de dicha o descanso completo que puedas imaginar, usando lo mejor que hayas experimentado u oído en este mundo. Luego vuelve a leer el hadiz qudsi «He preparado para Mis siervos rectos...» y elige uno de los nombres de la Jannah de esta lección (`Dar as-Salam` o `al-Firdaws`). Escribe un párrafo breve en el que expliques un punto concreto y específico en el que la realidad de la Jannah sobrepasa tu primera imaginación, y termina con una acción concreta y tangible que comenzarás esta semana, siguiendo el ejemplo de «la abundancia de prosternaciones» en la historia de Rabi'ah ibn Ka'b.
+Escribe en tres líneas la mejor imagen de dicha o descanso completo que puedas imaginar, usando lo mejor que hayas experimentado u oído en este mundo. Luego vuelve a leer el hadiz qudsi «He preparado para Mis siervos rectos...» y elige uno de los nombres de la Jannah de esta lección (`Dar as-Salam` o `al-Firdaws`). Escribe un párrafo breve sobre un aspecto concreto en el que la realidad de la Jannah sobrepasa lo que imaginaste al principio, y termina con una acción tangible que comenzarás esta semana, a semejanza de «la abundancia de prosternaciones» de Rabi'ah ibn Ka'b.
 
 <!-- activity:end -->
 
@@ -155,13 +155,13 @@ Escribe en tres líneas la mejor imagen de dicha o descanso completo que puedas 
 
 <!-- reader:end -->
 
-<!-- reader:start audience="4-7" estimated_minutes="5.0" -->
+<!-- reader:start audience="4-7" estimated_minutes="5.5" -->
 
 <!-- unit:start id="4-7.explanation" kind="explanation" -->
 
 ## Para Niños de 4 a 7 Años
 
-La Jannah tiene muchos nombres, y cada nombre nos enseña algo hermoso sobre ella. Allah la llamó `Dar as-Salam`, que significa: una casa donde no hay peleas, ni miedo, ni tristeza, nunca. Y Allah nos dijo que la Jannah es mucho más hermosa que la cosa más hermosa que podamos imaginar, incluso si imaginamos la casa más bonita o el jardín más bonito del mundo.
+La Jannah tiene muchos nombres, y cada nombre nos enseña algo hermoso sobre ella. Allah la llamó `Dar as-Salam`, que significa: una casa donde no hay peleas, ni miedo, ni tristeza, nunca. Y Allah nos dijo que la Jannah es mucho más hermosa que lo más hermoso que podamos imaginar, incluso si imaginamos la casa más bonita o el jardín más bonito del mundo.
 
 <!-- unit:end -->
 
@@ -171,15 +171,15 @@ La Jannah tiene muchos nombres, y cada nombre nos enseña algo hermoso sobre ell
 
 <!-- story:start audience="4-7" role="primary" type="creative" source_id="lesson-authored:lesson.001.primary" authenticated="false" -->
 
-**Esta es una historia educativa imaginaria, y no es un hadiz ni un relato histórico.**
+**Esta es una historia educativa imaginaria; no es un hadiz ni un relato histórico.**
 
 A Hanaa le encantaba construir casas con bloques de colores en el jardín de su abuela. Un día, Hanaa construyó una casa grande con un techo rojo, y dijo con orgullo: «¡Esta es la casa más hermosa de todo el mundo!»
 
-Poco después llegó su primo, y construyó una casa un poco más grande que la de ella, y todos le aplaudieron. Hanaa sintió tristeza, y quiso derribar la casa de su primo para que la suya siguiera siendo la más hermosa.
+Poco después llegó su primo, y construyó una casa un poco más grande que la de ella, y todos le aplaudieron. Hanaa se puso triste y quiso derribar la casa de su primo para que la suya siguiera siendo la más hermosa.
 
-Antes de que lo hiciera, su abuela se sentó a su lado y le dijo con calma: «¿Sabes, Hanaa, que Allah llamó a la Jannah `Dar as-Salam`? Eso significa una casa donde no hay peleas ni tristeza. Y nos dijo que la Jannah es más hermosa que cualquier casa que hayas imaginado, incluso si construyeras la casa más grande de bloques de todo el mundo.» Hanaa sonrió, dejó la casa de su primo tal como estaba, y le dijo: «Tu casa es hermosa, ven, construyamos juntos una casa grande.»
+Antes de que lo hiciera, su abuela se sentó a su lado y le dijo con calma: «¿Sabes, Hanaa, que Allah llamó a la Jannah `Dar as-Salam`? Eso significa una casa donde no hay peleas ni tristeza. Y nos dijo que la Jannah es más hermosa que cualquier casa que hayas imaginado, incluso si construyeras la casa más grande de bloques de todo el mundo.» Hanaa sonrió, dejó la casa de su primo tal como estaba, y le dijo: «Tu casa es muy bonita. ¡Ven, vamos a construir juntos una casa grande!».
 
-Esa noche, Hanaa dibujó una casita pequeña junto a un corazón grande, y le dijo a su madre: «Esta es mi casa, y este es el corazón porque no peleé con mi primo. ¡Y la casa de la Jannah es más hermosa que todo esto!»
+Esa noche, Hanaa dibujó una casita junto a un corazón grande, y le dijo a su madre: «Esta es mi casa, y este es el corazón porque no peleé con mi primo. ¡Y la casa de la Jannah es más hermosa que todo esto!»
 
 <!-- story:end -->
 
@@ -193,7 +193,7 @@ Esa noche, Hanaa dibujó una casita pequeña junto a un corazón grande, y le di
 
 <!-- retelling:start source_id="muslim-489" audience="4-7" -->
 
-Había un hombre bueno llamado Rabi'ah que servía al Profeta, que la paz y las bendiciones de Allah sean con él. Un día el Profeta, que la paz y las bendiciones de Allah sean con él, le dijo: «Pide lo que quieras.» Rabi'ah no pidió un juguete ni dinero, sino que dijo: «Quiero estar contigo en la Jannah.» El Profeta, que la paz y las bendiciones de Allah sean con él, le preguntó: «¿Quieres alguna otra cosa?» Rabi'ah dijo: «No, quiero solo esto.» Entonces el Profeta, que la paz y las bendiciones de Allah sean con él, le dijo: «Entonces ayúdate prosternándote mucho ante Allah.»[^5] Es decir: cada vez que Rabi'ah se prosternara mucho ante Allah, se acercaría más a su gran petición.
+Había un hombre bueno llamado Rabi'ah que servía al Profeta, que la paz y las bendiciones de Allah sean con él. Un día el Profeta, que la paz y las bendiciones de Allah sean con él, le dijo: «Pide lo que quieras.» Rabi'ah no pidió un juguete ni dinero, sino que dijo: «Quiero estar contigo en la Jannah.» El Profeta, que la paz y las bendiciones de Allah sean con él, le preguntó: «¿Quieres alguna otra cosa?» Rabi'ah dijo: «No, quiero solo esto.» Entonces el Profeta, que la paz y las bendiciones de Allah sean con él, le dijo: «Entonces ayúdame en eso prosternándote mucho ante Allah.»[^5] Es decir: cuanto más se prosternara Rabi'ah ante Allah, más se acercaría a su gran petición.
 
 <!-- retelling:end -->
 
@@ -229,10 +229,10 @@ Pide al niño que dibuje la casa o el jardín más hermoso que pueda imaginar. D
 
 <!-- bedtime-dua:start audience="4-7" id="lesson.001.dua.dar-al-salam-and-more" provenance="lesson_authored" source_id="" attribution="not_prophetic" -->
 
-**Du'a temático redactado para esta lección, y no atribuido al Profeta, que la paz y las bendiciones de Allah sean con él.**
+**Du'a temático redactado para esta lección; no se atribuye al Profeta, que la paz y las bendiciones de Allah sean con él.**
 
-> اللَّهُمَّ اجْعَلْنَا مِنْ أَهْلِ دَارِ السَّلَامِ، وَأَعْطِنَا فِي الْجَنَّةِ مَا لَمْ نَرَهُ وَلَمْ نَسْمَعْهُ مِنْ جَمَالٍ.
-> «Oh Allah, haznos de la gente de `Dar as-Salam`, y danos en la Jannah la belleza que no hemos visto ni oído.»
+> اللَّهُمَّ اجْعَلْنَا مِنْ أَهْلِ دَارِ السَّلَامِ، وَبَلِّغْنَا فِي الْجَنَّةِ مَا لَا عَيْنٌ رَأَتْ وَلَا أُذُنٌ سَمِعَتْ وَلَا خَطَرَ عَلَىٰ قَلْبِ بَشَرٍ.
+> «Oh Allah, haz que seamos de la gente de `Dar as-Salam`, y concédenos alcanzar en la Jannah lo que ningún ojo ha visto, ningún oído ha escuchado, ni ha pasado por el corazón de ser humano alguno.»
 
 <!-- bedtime-dua:end -->
 
@@ -240,13 +240,13 @@ Pide al niño que dibuje la casa o el jardín más hermoso que pueda imaginar. D
 
 <!-- reader:end -->
 
-<!-- reader:start audience="8-12" estimated_minutes="6.0" -->
+<!-- reader:start audience="8-12" estimated_minutes="7.0" -->
 
 <!-- unit:start id="8-12.explanation" kind="explanation" -->
 
 ## Para Niños de 8 a 12 Años
 
-La Jannah tiene muchos nombres en el Corán, y cada uno de ellos no es solo un título hermoso, sino que revela un atributo real que hay en ella. `Dar as-Salam` nos dice que su gente está en una seguridad completa, sin ningún miedo. Y `al-Firdaws` nos dice que es la parte más alta de la Jannah y sus moradas. Pero lo más importante de todo: Allah nos informó en un hadiz qudsi que la realidad de la Jannah sobrepasa todo lo que un ojo haya visto, un oído haya escuchado o haya pasado por el corazón de un ser humano, aunque imaginemos lo más hermoso que conocemos en este mundo y le agreguemos más.
+La Jannah tiene muchos nombres en el Corán, y cada uno de ellos no es solo un título hermoso, sino que revela un atributo real que hay en ella. `Dar as-Salam` nos dice que sus habitantes viven en completa seguridad, sin ningún miedo. Y `al-Firdaws` nos dice que es la parte más alta de la Jannah, su morada más elevada. Pero lo más importante de todo: Allah nos informó en un hadiz qudsi que la realidad de la Jannah sobrepasa todo lo que un ojo haya visto, un oído haya escuchado o haya pasado por el corazón de un ser humano, aunque imaginemos lo más hermoso que conocemos en este mundo y le agreguemos más.
 
 <!-- unit:end -->
 
@@ -256,7 +256,7 @@ La Jannah tiene muchos nombres en el Corán, y cada uno de ellos no es solo un t
 
 <!-- story:start audience="8-12" role="primary" type="creative" source_id="lesson-authored:lesson.001.primary" authenticated="false" -->
 
-**Esta es una historia educativa imaginaria, y no es un hadiz ni un relato histórico.**
+**Esta es una historia educativa imaginaria; no es un hadiz ni un relato histórico.**
 
 La maestra pidió a la clase un proyecto titulado: «Describe la casa de tus sueños», que se entregaría el lunes y se presentaría ante todos. Adam quería ganarse la admiración de la clase, así que empezó a escribir sobre una casa imaginaria con piscina, ascensor privado y un enorme jardín de juegos.
 
@@ -264,7 +264,7 @@ El día de la presentación, se levantó su compañero Faisal y leyó una descri
 
 Momentos antes de su turno, Adam recordó lo que su padre le había explicado el fin de semana: que Allah nos informó que Su Jannah tiene «lo que ningún ojo ha visto, ningún oído ha escuchado, ni ha pasado por el corazón de ser humano alguno», y que su nombre `al-Firdaws` significa que está por encima de todo lo que podamos imaginar. Adam se preguntó: «¿Necesito exagerar para demostrar algo, si la realidad más grande ya sobrepasa toda mi exageración?»
 
-Adam se levantó y leyó su descripción sencilla y sincera tal como la había escrito, y luego añadió una última frase: «Pero más hermoso que todo esto es `al-Firdaws`, que Allah describió como algo que está por encima de todo lo que podamos imaginar.» La clase no le aplaudió con el mismo entusiasmo que a Faisal, pero Adam sintió una paz interior, porque no mintió para ser admirado, y aprendió que la verdad más grande no necesita exageración para que el corazón la crea.
+Adam se levantó y leyó su descripción sencilla y sincera tal como la había escrito, y luego añadió una última frase: «Pero más hermoso que todo esto es `al-Firdaws`, que Allah describió como algo que está por encima de todo lo que podamos imaginar.» La clase no le aplaudió con el mismo entusiasmo que a Faisal, pero Adam sintió una paz interior, porque no había mentido para que lo admiraran, y aprendió que la verdad más grande no necesita exageración para que el corazón la crea.
 
 <!-- story:end -->
 
@@ -278,9 +278,9 @@ Adam se levantó y leyó su descripción sencilla y sincera tal como la había e
 
 <!-- retelling:start source_id="muslim-489" audience="8-12" -->
 
-Rabi'ah ibn Ka'b al-Aslami, que Allah esté complacido con él, narró que servía al Profeta, que la paz y las bendiciones de Allah sean con él, llevándole agua para el wudú y lo que necesitara. Una noche, el Profeta, que la paz y las bendiciones de Allah sean con él, le dijo: «Pide lo que quieras.» Rabi'ah no pidió dinero ni un cargo, sino que dijo: «Te pido acompañarte en la Jannah.» El Profeta, que la paz y las bendiciones de Allah sean con él, le dijo: «¿O quieres otra cosa?» Rabi'ah insistió: «Esta es mi petición.» Entonces el Profeta, que la paz y las bendiciones de Allah sean con él, le dijo: «Entonces ayúdame a lograr tu petición prosternándote mucho ante Allah.»[^5]
+Rabi'ah ibn Ka'b al-Aslami, que Allah esté complacido con él, narró que servía al Profeta, que la paz y las bendiciones de Allah sean con él, llevándole agua para el wudú y lo que necesitara. Una noche, el Profeta, que la paz y las bendiciones de Allah sean con él, le dijo: «Pide lo que quieras.» Rabi'ah no pidió dinero ni prestigio, sino que dijo: «Te pido acompañarte en la Jannah.» El Profeta, que la paz y las bendiciones de Allah sean con él, le dijo: «¿O quieres otra cosa?» Rabi'ah insistió: «Esta es mi petición.» Entonces el Profeta, que la paz y las bendiciones de Allah sean con él, le dijo: «Entonces ayúdame a lograr tu petición prosternándote mucho ante Allah.»[^5]
 
-La petición de Rabi'ah era mucho más grande que cualquier petición mundana, y aun así el Profeta, que la paz y las bendiciones de Allah sean con él, no lo dejó solo con el deseo, sino que la vinculó con una obra que puede realizar cada día: la prosternación.
+La petición de Rabi'ah era mucho más grande que cualquier petición mundana, y aun así el Profeta, que la paz y las bendiciones de Allah sean con él, no dejó su petición en un simple deseo, sino que la vinculó con una obra que él podía realizar cada día: la prosternación.
 
 <!-- retelling:end -->
 
@@ -293,8 +293,8 @@ La petición de Rabi'ah era mucho más grande que cualquier petición mundana, y
 <!-- terminology:start source_id="bukhari-3244" -->
 
 - **`Dar as-Salam`** — un nombre de la Jannah que significa la morada de la seguridad completa, libre del miedo, la tristeza, la enfermedad y la muerte.
-- **`al-Firdaws`** — un nombre de la Jannah, siendo su parte más alta y céntrica; no se alcanza solo deseándola, sino con obras concretas.
-- **`Muraqafatuka` (acompañarte)** — que la persona esté con el Profeta, que la paz y las bendiciones de Allah sean con él, en un mismo lugar cercano a él en la Jannah.
+- **`al-Firdaws`** — un nombre de la Jannah que designa su parte más alta y central; no se alcanza solo deseándola, sino con obras concretas.
+- **`Murafaqatuka` (acompañarte)** — que la persona esté con el Profeta, que la paz y las bendiciones de Allah sean con él, en un mismo lugar cercano a él en la Jannah.
 
 <!-- terminology:end -->
 
@@ -329,10 +329,10 @@ Llena una tarjeta de «Mi Casa de los Sueños»: escribe un nombre para tu casa 
 
 <!-- bedtime-dua:start audience="8-12" id="lesson.001.dua.dar-al-salam-and-more" provenance="lesson_authored" source_id="" attribution="not_prophetic" -->
 
-**Du'a temático redactado para esta lección, y no atribuido al Profeta, que la paz y las bendiciones de Allah sean con él.**
+**Du'a temático redactado para esta lección; no se atribuye al Profeta, que la paz y las bendiciones de Allah sean con él.**
 
 > اللَّهُمَّ اجْعَلْنَا مِنْ أَهْلِ دَارِ السَّلَامِ، وَبَلِّغْنَا فِي الْجَنَّةِ مَا لَا عَيْنٌ رَأَتْ وَلَا أُذُنٌ سَمِعَتْ وَلَا خَطَرَ عَلَىٰ قَلْبِ بَشَرٍ.
-> «Oh Allah, haznos de la gente de `Dar as-Salam`, y haznos alcanzar en la Jannah lo que ningún ojo ha visto, ningún oído ha escuchado, ni ha pasado por el corazón de ser humano alguno.»
+> «Oh Allah, haz que seamos de la gente de `Dar as-Salam`, y concédenos alcanzar en la Jannah lo que ningún ojo ha visto, ningún oído ha escuchado, ni ha pasado por el corazón de ser humano alguno.»
 
 <!-- bedtime-dua:end -->
 
@@ -340,13 +340,13 @@ Llena una tarjeta de «Mi Casa de los Sueños»: escribe un nombre para tu casa 
 
 <!-- reader:end -->
 
-<!-- reader:start audience="13+" estimated_minutes="6.5" -->
+<!-- reader:start audience="13+" estimated_minutes="7.0" -->
 
 <!-- unit:start id="13+.explanation" kind="explanation" -->
 
 ## Para Adolescentes de 13+
 
-En un mundo donde media vida transcurre en la pantalla, y donde a veces el valor se mide por el número de personas que ven tu foto e interactúan con ella, los nombres de la Jannah nos recuerdan un criterio completamente distinto. `Dar as-Salam` te dice que existe una paz verdadera que no necesita documentación ni "me gusta". Y `al-Firdaws` te dice que las moradas más altas se alcanzan con una obra sincera, no con la mejor foto que se publique. Y el hadiz qudsi «lo que ningún ojo ha visto, ningún oído ha escuchado, ni ha pasado por el corazón de ser humano alguno» destruye la idea de que lo máximo a lo que puedes aspirar es la mejor versión que imaginas de tu vida; la realidad prometida es más grande que toda imaginación, la publiques o la ocultes.
+En un mundo donde media vida transcurre en la pantalla, y donde a veces el valor se mide por el número de personas que ven tu foto e interactúan con ella, los nombres de la Jannah nos recuerdan un criterio completamente distinto. `Dar as-Salam` te dice que existe una paz verdadera que no necesita que la registres ni que reciba «me gusta». Y `al-Firdaws` te dice que las moradas más altas se alcanzan con una obra sincera, no con la mejor foto que se publique. Y el hadiz qudsi «lo que ningún ojo ha visto, ningún oído ha escuchado, ni ha pasado por el corazón de ser humano alguno» destruye la idea de que lo máximo a lo que puedes aspirar es la mejor versión que imaginas de tu vida; la realidad prometida es más grande que toda imaginación, la publiques o la ocultes.
 
 <!-- unit:end -->
 
@@ -356,13 +356,13 @@ En un mundo donde media vida transcurre en la pantalla, y donde a veces el valor
 
 <!-- story:start audience="13+" role="primary" type="creative" source_id="lesson-authored:lesson.001.primary" authenticated="false" -->
 
-**Esta es una historia educativa imaginaria, y no es un hadiz ni un relato histórico.**
+**Esta es una historia educativa imaginaria; no es un hadiz ni un relato histórico.**
 
-Layla decidió hacer su «tablero de sueños» para un proyecto escolar sobre sus metas futuras, y publicar una foto de él en su cuenta para compartirlo con sus amigas. Reunió fotos de una casa lujosa, un auto y viajes, y empezó a pensar: «¿Y si añado metas más grandes de las que realmente aspiro, para que el tablero parezca más impresionante?»
+Layla decidió hacer su «tablero de sueños» para un proyecto escolar sobre sus metas futuras, y publicar una foto de él en su cuenta para compartirlo con sus amigas. Reunió fotos de una casa lujosa, un auto y viajes, y empezó a pensar: «¿Y si añado metas más grandes que aquellas a las que realmente aspiro, para que el tablero parezca más impresionante?»
 
 Esa noche, Layla se topó sin querer con una lección que había escuchado antes sobre los nombres de la Jannah, y se detuvo en el hadiz qudsi: «He preparado para Mis siervos rectos lo que ningún ojo ha visto, ningún oído ha escuchado, ni ha pasado por el corazón de ser humano alguno.» Pensó: «Cada imagen que agrego a mi tablero, por hermosa que sea, es algo que un ser humano imaginó o fabricó. Pero esta promesa habla de algo que ni siquiera ha pasado por el corazón de un ser humano.»
 
-Layla decidió no borrar su tablero mundano, pues buscar estudio y éxito es un proyecto legítimo, pero añadió en un rincón privado de su cuaderno, que no publicaría para nadie, la frase: «Mi primera meta: ser de la gente de `al-Firdaws`.» Y no escribió nada debajo para mostrar, sino que anotó un solo paso práctico, solo para ella misma: mantener la oración del Fayr en su hora esta semana.
+Layla decidió no borrar su tablero mundano, pues aspirar a estudiar y a tener éxito es legítimo, pero añadió en un rincón privado de su cuaderno, que no enseñaría a nadie, la frase: «Mi primera meta: ser de la gente de `al-Firdaws`.» Y no escribió nada debajo para mostrar, sino que anotó un solo paso práctico, solo para ella misma: rezar el Fayr a su hora durante esta semana.
 
 Layla publicó su tablero mundano tal cual, sin exageración ni falsedad, pero entendió que la mayor esperanza de su vida no es la que se muestra en la pantalla, sino la que lleva en su prosternación privada, como Rabi'ah ibn Ka'b cuando pidió algo que nadie más había pedido.
 
@@ -378,9 +378,9 @@ Layla publicó su tablero mundano tal cual, sin exageración ni falsedad, pero e
 
 <!-- retelling:start source_id="muslim-489" audience="13+" -->
 
-Rabi'ah ibn Ka'b al-Aslami, que Allah esté complacido con él, narró que pasaba las noches cerca del Profeta, que la paz y las bendiciones de Allah sean con él, sirviéndole con su agua para el wudú y lo que necesitara. Una noche, el Profeta, que la paz y las bendiciones de Allah sean con él, le dijo: «Pide.» Rabi'ah dijo: «Te pido acompañarte en la Jannah.» El Profeta, que la paz y las bendiciones de Allah sean con él, le dijo: «¿O alguna otra cosa?» Rabi'ah dijo: «Es eso.» El Profeta, que la paz y las bendiciones de Allah sean con él, le dijo: «Entonces ayúdame contigo mismo, prosternándote mucho.»[^5]
+Rabi'ah ibn Ka'b al-Aslami, que Allah esté complacido con él, narró que pasaba las noches cerca del Profeta, que la paz y las bendiciones de Allah sean con él, y le servía llevándole el agua para el wudú y lo que necesitara. Una noche, el Profeta, que la paz y las bendiciones de Allah sean con él, le dijo: «Pide.» Rabi'ah dijo: «Te pido acompañarte en la Jannah.» El Profeta, que la paz y las bendiciones de Allah sean con él, le dijo: «¿O alguna otra cosa?» Rabi'ah dijo: «Es eso.» El Profeta, que la paz y las bendiciones de Allah sean con él, le dijo: «Entonces ayúdame a ayudarte, prosternándote mucho.»[^5]
 
-Nota que el Profeta, que la paz y las bendiciones de Allah sean con él, pidió aclarar la petición de Rabi'ah dos veces antes de responderle, como si quisiera asegurarse de que esa era su verdadera aspiración y no solo una palabra pasajera. Y cuando confirmó la sinceridad de su petición, no lo dejó en los límites del simple deseo, sino que lo convirtió en un programa práctico sencillo que cualquier persona puede realizar: la abundancia de prosternaciones. La ambición más grande que un ser humano puede pedir está vinculada con la obra más sencilla que puede mantener en su soledad, no en su exhibición ante la gente.
+Fíjate en que el Profeta, que la paz y las bendiciones de Allah sean con él, pidió aclarar la petición de Rabi'ah antes de responderle, como si quisiera asegurarse de que esa era su verdadera aspiración y no solo una palabra pasajera. Y cuando confirmó la sinceridad de su petición, no dejó su petición en los límites del simple deseo, sino que la convirtió en un programa práctico sencillo que cualquier persona puede realizar: la abundancia de prosternaciones. La ambición más grande que un ser humano puede pedir está vinculada con la obra más sencilla que puede mantener en privado, no a la vista de la gente.
 
 <!-- retelling:end -->
 
@@ -392,8 +392,8 @@ Nota que el Profeta, que la paz y las bendiciones de Allah sean con él, pidió 
 
 <!-- terminology:start source_id="muslim-489" -->
 
-- **`Muraqafatuka` (acompañarte)** — que la persona pida estar cerca del Profeta, que la paz y las bendiciones de Allah sean con él, en la Jannah, siendo una de las peticiones más grandes que se pueden hacer.
-- **`al-Firdaws`** — la morada más alta y céntrica de la Jannah, mencionada en el Corán vinculada a atributos prácticos, no solo al deseo.
+- **`Murafaqatuka` (acompañarte)** — que la persona pida estar cerca del Profeta, que la paz y las bendiciones de Allah sean con él, en la Jannah, siendo una de las peticiones más grandes que se pueden hacer.
+- **`al-Firdaws`** — la morada más alta y central de la Jannah, mencionada en el Corán vinculada a atributos prácticos, no solo al deseo.
 - **`Qurratu A'yun` (deleite de los ojos)** — una dicha que llena de alegría completa al corazón y a los ojos, mencionada en el Corán en el contexto de lo que se ha ocultado a la gente como recompensa por sus obras.
 
 <!-- terminology:end -->
@@ -406,7 +406,7 @@ Nota que el Profeta, que la paz y las bendiciones de Allah sean con él, pidió 
 
 1. ¿Por qué pensó Layla en exagerar su tablero de sueños, y qué la hizo cambiar de decisión?
 2. ¿Cómo desafía el hadiz qudsi la idea de que lo mejor a lo que puedes aspirar es la mejor imagen que imaginas o publicas?
-3. ¿Por qué el Profeta, que la paz y las bendiciones de Allah sean con él, pidió a Rabi'ah aclarar su petición dos veces antes de guiarlo hacia la obra?
+3. ¿Por qué el Profeta, que la paz y las bendiciones de Allah sean con él, pidió a Rabi'ah aclarar su petición antes de guiarlo hacia la obra?
 4. ¿Cuál es la diferencia entre una meta que muestras a la gente y una meta que llevas en tu soledad y tu prosternación privada?
 5. ¿Cuál de los nombres de la Jannah de esta lección necesitas convertir en tu brújula personal esta semana?
 
@@ -430,10 +430,10 @@ Escribe un párrafo privado (que no mostrarás a nadie) donde describas el mejor
 
 <!-- bedtime-dua:start audience="13+" id="lesson.001.dua.dar-al-salam-and-more" provenance="lesson_authored" source_id="" attribution="not_prophetic" -->
 
-**Du'a temático redactado para esta lección, y no atribuido al Profeta, que la paz y las bendiciones de Allah sean con él.**
+**Du'a temático redactado para esta lección; no se atribuye al Profeta, que la paz y las bendiciones de Allah sean con él.**
 
 > اللَّهُمَّ اجْعَلْنَا مِنْ أَهْلِ دَارِ السَّلَامِ، وَبَلِّغْنَا فِي الْجَنَّةِ مَا لَا عَيْنٌ رَأَتْ وَلَا أُذُنٌ سَمِعَتْ وَلَا خَطَرَ عَلَىٰ قَلْبِ بَشَرٍ.
-> «Oh Allah, haznos de la gente de `Dar as-Salam`, y haznos alcanzar en la Jannah lo que ningún ojo ha visto, ningún oído ha escuchado, ni ha pasado por el corazón de ser humano alguno.»
+> «Oh Allah, haz que seamos de la gente de `Dar as-Salam`, y concédenos alcanzar en la Jannah lo que ningún ojo ha visto, ningún oído ha escuchado, ni ha pasado por el corazón de ser humano alguno.»
 
 <!-- bedtime-dua:end -->
 
@@ -469,13 +469,13 @@ Escribe un párrafo privado (que no mostrarás a nadie) donde describas el mejor
 **Actividad — 15 minutos:** los estudiantes realizan la actividad «Imagina y luego supera» de forma individual, y luego quien lo desee comparte su párrafo final con su grupo pequeño, sin obligación de compartir detalles privados.
 
 <!-- lesson-plan:assessment -->
-**Evaluación y cierre — 10 minutos:** tarjeta de salida: «Menciona dos de los nombres de la Jannah de esta lección, indica el atributo que revela cada uno, y escribe la obra que elegiste para esta semana.» El maestro cierra leyendo el du'a, aclarando que es de redacción educativa propia.
+**Evaluación y cierre — 10 minutos:** tarjeta de salida: «Menciona dos de los nombres de la Jannah de esta lección, indica el atributo que revela cada uno, y escribe la obra que elegiste para esta semana.» El maestro cierra leyendo el du'a y aclara que es una redacción didáctica de la lección.
 
 <!-- lesson-plan:differentiation -->
-**Atención a las diferencias:** se da al principiante una lista de nombres lista para elegir en la actividad, y se pide al avanzado que compare el significado de `Dar as-Salam` y `al-Firdaws` con más detalle, y discuta por qué cada aleya se vinculó con cada nombre en su contexto.
+**Atención a las diferencias:** se da al principiante una lista de nombres ya preparada para elegir en la actividad, y se pide al avanzado que compare el significado de `Dar as-Salam` y `al-Firdaws` con más detalle, y discuta por qué cada aleya se vinculó con cada nombre en su contexto.
 
 <!-- lesson-plan:safeguards -->
-**Advertencias de enseñanza:** no se pide a nadie describir detalles sensoriales inventados sobre la Jannah; se debe limitar a lo que ha venido en el texto. La actividad no se usa para evaluar quién tiene metas mundanas más grandes que otros, sino que la discusión se orienta hacia la sinceridad de la intención y la obra.
+**Advertencias de enseñanza:** no se pide a nadie describir detalles sensoriales inventados sobre la Jannah; hay que limitarse a lo que recoge el texto. La actividad no se usa para evaluar quién tiene metas mundanas más grandes que otros, sino que la discusión se orienta hacia la sinceridad de la intención y la obra.
 
 <!-- lesson-plan:end -->
 
@@ -544,7 +544,7 @@ Escribe un párrafo privado (que no mostrarás a nadie) donde describas el mejor
 **Evaluación y cierre — 6 minutos:** cada estudiante escribe dos frases: «El nombre que elegí es…» y «La obra que empezaré es…». El maestro cierra leyendo el du'a.
 
 <!-- lesson-plan:differentiation -->
-**Atención a las diferencias:** se ofrece una lista de nombres y atributos lista para quienes tengan dificultad, y se pide a los avanzados comparar las dos aleyas y explicar por qué heredar `al-Firdaws` se vinculó con atributos prácticos concretos en su contexto.
+**Atención a las diferencias:** se ofrece una lista de nombres y atributos ya preparada para quienes tengan dificultad, y se pide a los avanzados comparar las dos aleyas y explicar por qué heredar `al-Firdaws` se vinculó con atributos prácticos concretos en su contexto.
 
 <!-- lesson-plan:safeguards -->
 **Advertencias de enseñanza:** ningún estudiante se burla de su compañero por los detalles de su casa imaginaria, antes o después de la corrección, y no se pide anunciar metas personales incómodas delante de la clase.
@@ -571,7 +571,7 @@ Escribe un párrafo privado (que no mostrarás a nadie) donde describas el mejor
 **Estudio de las pruebas — 12 minutos:** dos grupos leen la aleya de `Dar as-Salam` y el hadiz qudsi «lo que ningún ojo ha visto», y otros dos grupos leen la aleya de `al-Firdaws` y el hadiz de Rabi'ah ibn Ka'b. Cada grupo extrae: el atributo que revela su texto, y su relación con la exhibición pública o la ambición privada.
 
 <!-- lesson-plan:instruction -->
-**Enseñanza guiada — 13 minutos:** el maestro explica los términos `Muraqafatuka`, `al-Firdaws` y `Qurratu A'yun`, y discute cómo estos textos enfrentan la tentación de medir el valor por el número de vistas y "me gusta".
+**Enseñanza guiada — 13 minutos:** el maestro explica los términos `Murafaqatuka`, `al-Firdaws` y `Qurratu A'yun`, y discute cómo estos textos enfrentan la tentación de medir el valor por el número de vistas y de «me gusta».
 
 <!-- lesson-plan:activity -->
 **Actividad — 15 minutos:** los estudiantes escriben su párrafo privado sobre el mejor futuro que imaginan, luego el párrafo de reflexión y el paso privado, con la confirmación de que estas hojas son personales y no se recogerán ni se mostrarán.
@@ -592,9 +592,9 @@ Escribe un párrafo privado (que no mostrarás a nadie) donde describas el mejor
 ## Referencias
 
 [^1]: El Sagrado Corán, sura Yunus, aleya 25: [Texto coránico](https://quran.com/10/25).
-[^2]: Abu al-Fida Isma'il ibn Kazir, *Tafsir al-Qur'an al-'Azim*, comentario de la sura Yunus, aleya 25, sobre que `Dar as-Salam` es la Jannah y que as-Salam es uno de los nombres de Allah: [El Corán electrónico de la Universidad Rey Saud](https://quran.ksu.edu.sa/tafseer/katheer/sura10-aya25.html).
-[^3]: El Sagrado Corán, sura al-Mu'minun, aleyas 10-11: [Texto coránico](https://quran.com/23/10-11); véase también Sahih al-Bukhari, hadiz 2790, sobre que `al-Firdaws` es la parte más alta y céntrica de la Jannah: [Sunnah.com, narración 2790](https://sunnah.com/bukhari:2790).
-[^4]: Sahih al-Bukhari, hadiz 3244, y Sahih Muslim, hadiz 2824a, narrado por Abu Hurayrah, que Allah esté complacido con él, hadiz qudsi de autenticidad acordada: [Sunnah.com, narración 3244](https://sunnah.com/bukhari:3244), [Sunnah.com, narración 2824a](https://sunnah.com/muslim:2824a). Incluye la cita de la sura as-Sayda, aleya 17: [Texto coránico](https://quran.com/32/17).
+[^2]: Abu al-Fida Isma'il ibn Kazir, *Tafsir al-Qur'an al-'Azim*, comentario de la sura Yunus, aleya 25, sobre que `Dar as-Salam` es la Jannah, llamada así por estar a salvo de todo mal, carencia y desgracia: [El Corán electrónico de la Universidad Rey Saud](https://quran.ksu.edu.sa/tafseer/katheer/sura10-aya25.html); y Abu 'Abdallah al-Qurtubi, *Al-Yami' li-Ahkam al-Qur'an*, comentario de la sura Yunus, aleya 25, que transmite de Qatada y al-Hasan que as-Salam es Allah y Su morada es la Jannah, y afirma: «Generalizó la invitación para manifestar Su prueba y particularizó la guía, pues no tiene necesidad de Su creación»: [El Corán electrónico de la Universidad Rey Saud](https://quran.ksu.edu.sa/tafseer/qortobi/sura10-aya25.html).
+[^3]: El Sagrado Corán, sura al-Mu'minun, aleyas 10-11: [Texto coránico](https://quran.com/23/10-11); véase también Sahih al-Bujari, hadiz 2790, sobre que `al-Firdaws` es la parte más alta y central de la Jannah: [Sunnah.com, narración 2790](https://sunnah.com/bukhari:2790).
+[^4]: Sahih al-Bujari, hadiz 3244, y Sahih Muslim, hadiz 2824a, narrado por Abu Huraira, que Allah esté complacido con él; hadiz qudsi recogido por ambos (muttafaq 'alayh): [Sunnah.com, narración 3244](https://sunnah.com/bukhari:3244), [Sunnah.com, narración 2824a](https://sunnah.com/muslim:2824a). Incluye la cita de la sura as-Sayda, aleya 17: [Texto coránico](https://quran.com/32/17).
 [^5]: Sahih Muslim, hadiz 489, narrado por Rabi'ah ibn Ka'b al-Aslami, que Allah esté complacido con él, sobre su petición de acompañar al Profeta, que la paz y las bendiciones de Allah sean con él, en la Jannah, y su guía hacia la abundancia de prosternaciones: [Sunnah.com, narración 489](https://sunnah.com/muslim:489).
 
 <!-- references:end -->

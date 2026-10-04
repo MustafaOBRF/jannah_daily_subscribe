@@ -56,7 +56,7 @@ Au Jour de la Résurrection, les prophètes déclinent l'un après l'autre la ch
 
 #### Interprétation Savante
 
-Les excuses qu'avancent les prophètes sont mentionnées dans le Coran, en même temps que le repentir qu'Allah a agréé de chacun d'eux : Adam a mangé de l'arbre, Nuh a invoqué contre son peuple, et Musa a porté un coup de poing qui a coûté la vie à un homme, avant d'implorer le pardon.[^8] Quant aux trois paroles d'Ibrahim, deux d'entre elles furent prononcées « pour la cause d'Allah », et les savants les ont toutes comprises comme des *ma'arid* : des propos véridiques dans leur lettre, mais tournés de façon à être compris autrement.[^9] Les attributs d'Allah mentionnés dans ce hadith sont affirmés sans les assimiler à ceux des créatures et sans s'interroger sur leur modalité.
+Les excuses qu'avancent les prophètes sont mentionnées dans le Coran : Adam a mangé de l'arbre, puis Allah a agréé son repentir, Nuh a invoqué contre son peuple, et Musa a porté un coup de poing qui a coûté la vie à un homme, avant d'implorer le pardon, et Allah lui a pardonné.[^8] Quant aux trois paroles d'Ibrahim, deux d'entre elles furent prononcées « pour la cause d'Allah », et les savants les ont toutes comprises comme des *ma'arid* : des propos véridiques dans leur lettre, mais tournés de façon à être compris autrement.[^9] Les attributs d'Allah mentionnés dans ce hadith sont affirmés sans les assimiler à ceux des créatures et sans s'interroger sur leur modalité.
 
 #### Explication De La Leçon
 

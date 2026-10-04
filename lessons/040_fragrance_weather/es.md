@@ -22,7 +22,7 @@ bedtime_dua_id: "lesson.040.dua.fragrance-of-jannah-true-to-covenant"
 Después de esta lección, el aprendiz será capaz de:
 
 - Narrar en orden lo que se transmite de Anas ibn an-Nadr, que Allah esté complacido con él (al-Bujari 2805): su ausencia en Badr; su compromiso: «Allah verá lo que soy capaz de hacer»; su firmeza el día de Uhud; sus palabras a Sa'd ibn Mu'ad: «¡El Paraíso, por el Señor de an-Nadr! Percibo su aroma más acá de Uhud»; su martirio; y la revelación de la aleya 23 de al-Ahzab acerca de él y de quienes fueron como él.
-- Explicar que el Paraíso tiene una fragancia buena que se percibe desde una distancia de cuarenta años de camino (al-Bujari 3166), y que ese mismo hadiz prohíbe agraviar a quien tiene un pacto de protección con los musulmanes.
+- Explicar que el Paraíso tiene una fragancia buena que se percibe desde una distancia de cuarenta años de camino (al-Bujari 3166), y que ese mismo hadiz prohíbe matar a quien tiene un pacto de protección con los musulmanes.
 - Exponer la templanza del aire del Paraíso a partir de las palabras de Allah: {no verán en él ni sol ni frío glacial}, con el tafsir de Ibn Kazir y de as-Sa'di: ni un calor que agobie ni un frío que duela.
 - Distinguir, de la mano de Ibn al-Qayyim, entre una fragancia del Paraíso que las almas perciben en este mundo y otra que se capta con el olfato, sin afirmar con certeza cómo fue exactamente lo que percibió Anas, que Allah esté complacido con él.
 - Realizar la actividad "La próxima vez, Allah verá lo que hago": nombrar una ocasión de hacer el bien que se dejó pasar, fijar cuándo volverá a presentarse, cumplir el compromiso cuando llegue y anotar después lo que sucedió.
@@ -58,7 +58,7 @@ Esta lección se detiene en tres ideas: la fragancia del Paraíso, lo que priva 
 
 #### Interpretación académica
 
-Ibn al-Qayyim, que Allah tenga misericordia de él, dijo: «La fragancia del Paraíso es de dos clases: una fragancia que se halla en este mundo, que las almas perciben a veces y que las palabras no alcanzan a describir; y otra que los cuerpos captan con el sentido del olfato, como se huele el perfume de las flores». Esta segunda la percibe la gente del Paraíso en la otra vida, de cerca y de lejos, y en este mundo puede percibirla aquel a quien Allah quiera. Y añadió: «Lo que percibió Anas ibn an-Nadr puede pertenecer a esta clase, y puede pertenecer a la primera».[^7] En un comentario de *Riyad as-Salihin* se lee: «Es posible que aspirara realmente el aroma del Paraíso, y es posible que tuviera el Paraíso tan presente que se lo representara en aquel mismo lugar».[^8]
+Ibn al-Qayyim, que Allah tenga misericordia de él, dijo: «La fragancia del Paraíso es de dos clases: una fragancia que se halla en este mundo, que las almas perciben a veces y que las palabras no alcanzan a describir; y otra que los cuerpos captan con el sentido del olfato, como se huele el perfume de las flores y de otras cosas». Esta segunda la percibe la gente del Paraíso en la otra vida, de cerca y de lejos, y en este mundo puede percibirla aquel de Sus profetas y mensajeros a quien Allah quiera. Y añadió: «Lo que percibió Anas ibn an-Nadr puede pertenecer a esta clase, y puede pertenecer a la primera».[^7] En un comentario de *Riyad as-Salihin* se lee: «Es posible que aspirara realmente el aroma del Paraíso, y es posible que tuviera el Paraíso tan presente que se lo representara en aquel mismo lugar».[^8]
 
 #### Explicación de la lección
 
@@ -106,7 +106,7 @@ La aleya no se limita a los mártires, pues en ella están también {otros aún 
 
 #### Explicación de la lección
 
-El hadiz reúne una noticia y una norma. La noticia: la fragancia del Paraíso se percibe desde una distancia que un viajero no recorrería sino en cuarenta años. La norma: agraviar a quien los musulmanes han dado su garantía de seguridad, aunque no comparta su fe, puede privar al agresor de esa fragancia. La justicia con todas las personas forma parte del camino al Paraíso.
+El hadiz reúne una noticia y una norma. La noticia: la fragancia del Paraíso se percibe desde una distancia que un viajero no recorrería sino en cuarenta años. La norma: matar a quien los musulmanes han dado su garantía de seguridad, aunque no comparta su fe, puede privar al homicida de esa fragancia. La justicia con todas las personas forma parte del camino al Paraíso.
 
 <!-- evidence:end -->
 

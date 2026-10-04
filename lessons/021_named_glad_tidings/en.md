@@ -22,7 +22,7 @@ bedtime_dua_id: "lesson.021.dua.love-and-gather-with-companions"
 After this lesson, the learner will be able to:
 
 - Narrate the hadith of Abu Musa al-Ash'ari, may Allah be pleased with him, at the well of Aris (al-Bukhari 3674): how he made himself doorkeeper for the Prophet, peace and blessings be upon him, and carried the glad tidings of Jannah to Abu Bakr, then Umar, then Uthman, may Allah be pleased with them, and how Uthman's glad tidings came paired with news of a trial that would befall him.
-- Name the ten promised Jannah in the hadith of Abd al-Rahman ibn Awf, may Allah be pleased with him (at-Tirmidhi 3747), and identify those whose leadership in Jannah is stated explicitly: al-Hasan and al-Husayn, the leaders of its youth (at-Tirmidhi 3768); Fatimah, the leader of its women (al-Bukhari 3623-3624); and Maryam and Khadijah, the best of its women (al-Bukhari 3432).
+- Name the ten promised Jannah in the hadith of Abd al-Rahman ibn Awf, may Allah be pleased with him (at-Tirmidhi 3747), and identify those whose leadership in Jannah is stated explicitly: al-Hasan and al-Husayn, the leaders of its youth (at-Tirmidhi 3768); Fatimah, the leader of its women (al-Bukhari 3623-3624); and recognize the merit of Maryam and Khadijah, the best of the women of their times (al-Bukhari 3432).
 - Distinguish between bearing witness to Jannah for those whom revelation named and hoping for it for all other believers without declaring it certain for any particular person, and connect this to the ayah `The first forerunners... and those who followed them in excellence` (at-Tawbah 9:100), which leaves the door open for us to join them.
 - Draw out the lessons that glad tidings did not make those who received them stop working, did not spare Uthman, may Allah be pleased with him, from trial, and that loving all the Companions and the Prophet's family is part of faith.
 - Carry out the "Honest Glad-Tidings Card" activity: noticing a real good deed in someone else, then writing that person sincere encouragement together with a du'a for Jannah, while keeping what the learner actually witnessed separate from what they only hope for.
@@ -34,7 +34,7 @@ After this lesson, the learner will be able to:
 
 <!-- unit:start id="adults.explanation" kind="explanation" -->
 
-Jannah is not won by lineage or by wishful thinking, and no one has the authority to declare that a particular person belongs to it unless revelation has said so. Yet it is part of Allah's mercy that He told His Prophet, peace and blessings be upon him, the names of specific people who are in Jannah, so that these glad tidings became settled knowledge: the ten promised Jannah; al-Hasan and al-Husayn, the leaders of the youth of the people of Jannah; Fatimah, the leader of its women; Maryam and Khadijah, the best of its women; and others about whom an authentic text has come.
+Jannah is not won by lineage or by wishful thinking, and no one has the authority to declare that a particular person belongs to it unless revelation has said so. Yet it is part of Allah's mercy that He told His Prophet, peace and blessings be upon him, the names of specific people who are in Jannah, so that these glad tidings became settled knowledge: the ten promised Jannah; al-Hasan and al-Husayn, the leaders of the youth of the people of Jannah; Fatimah, the leader of its women; Maryam and Khadijah, the best of the women of their times; and others about whom an authentic text has come.
 
 The people of the Sunnah have laid down that we bear witness to Jannah for whomever the Messenger of Allah, peace and blessings be upon him, bore witness to; that we hope for the good-doers among the believers and fear for the wrongdoers; and that we assign no specific person to Jannah or to the Fire without a text.[^7] This protects the heart from two dangers: the vanity of vouching for oneself or for those one loves, and the recklessness of passing judgment on others.
 
@@ -154,7 +154,7 @@ The commentators explain that the meaning is this: Maryam was the best of the wo
 
 #### Lesson Explanation
 
-Leadership in Jannah does not belong to men alone. Here are two women who believed and endured, and Allah raised their remembrance high.
+The merit to which revelation testifies does not belong to men alone. Here are two women who believed and endured, and Allah raised their remembrance high.
 
 <!-- evidence:end -->
 
@@ -386,7 +386,7 @@ Be a "doorkeeper of good" this week. Keep an eye on a classmate, a brother, or a
 
 <!-- unit:start id="13+.explanation" kind="explanation" -->
 
-In a world where people hand out titles like candy ("the GOAT," "a legend," "an icon"), this lesson teaches that real validation does not come from the crowd; it comes from Allah. No specific person has ever been declared bound for Jannah except through revelation: the ten promised Jannah;[^2] al-Hasan and al-Husayn, the leaders of the youth of the people of Jannah;[^3] Fatimah, the leader of its women;[^4] and Maryam and Khadijah, the best of its women.[^5] We do not declare it certain for any particular person without a text, but we hope for those who do good and fear for ourselves.[^7]
+In a world where people hand out titles like candy ("the GOAT," "a legend," "an icon"), this lesson teaches that real validation does not come from the crowd; it comes from Allah. No specific person has ever been declared bound for Jannah except through revelation: the ten promised Jannah;[^2] al-Hasan and al-Husayn, the leaders of the youth of the people of Jannah;[^3] Fatimah, the leader of its women;[^4] and Maryam and Khadijah, the best of the women of their times.[^5] We do not declare it certain for any particular person without a text, but we hope for those who do good and fear for ourselves.[^7]
 
 Here is the surprising part: those who were promised Jannah did not treat the promise like a graduation certificate. They kept working, giving, and enduring. And the door is open to us, too: `and those who followed them in excellence`.[^6]
 
@@ -626,7 +626,7 @@ Choose someone who rarely gets praised: a quiet classmate, a younger brother or 
 
 [^1]: Sahih al-Bukhari, Book of the Virtues of the Companions of the Prophet, peace and blessings be upon him, hadith 3674, narrated by Sa'id ibn al-Musayyab from Abu Musa al-Ash'ari, may Allah be pleased with him: [sunnah.com/bukhari:3674](https://sunnah.com/bukhari:3674). There is another, shorter narration of the hadith from Abu Uthman al-Nahdi from Abu Musa in the same book, hadith 3693: [sunnah.com/bukhari:3693](https://sunnah.com/bukhari:3693).
 [^2]: Jami' at-Tirmidhi, Book of Virtues (*al-Manaqib*), hadith 3747, narrated by Abd al-Rahman ibn Awf, may Allah be pleased with him; graded authentic by al-Albani and Ahmad Shakir. At-Tirmidhi notes that the hadith is also narrated from Sa'id ibn Zayd, may Allah be pleased with him, and that this chain is more authentic: [sunnah.com/tirmidhi:3747](https://sunnah.com/tirmidhi:3747). See also the narration of Sa'id ibn Zayd in Abu Dawud, hadith 4649 (graded authentic by al-Albani): [sunnah.com/abudawud:4649](https://sunnah.com/abudawud:4649).
-[^3]: Jami' at-Tirmidhi, Book of Virtues (*al-Manaqib*), hadith 3768, narrated by Abu Sa'id al-Khudri, may Allah be pleased with him; at-Tirmidhi said: *hasan sahih*, and al-Albani graded it authentic: [sunnah.com/tirmidhi:3768](https://sunnah.com/tirmidhi:3768). See al-Albani's compilation of its chains in *Silsilat al-Ahadith as-Sahihah*, no. 797.
+[^3]: Jami' at-Tirmidhi, Book of Virtues (*al-Manaqib*), hadith 3768, narrated by Abu Sa'id al-Khudri, may Allah be pleased with him; at-Tirmidhi said: *hasan sahih*, and al-Albani graded it authentic: [sunnah.com/tirmidhi:3768](https://sunnah.com/tirmidhi:3768). See al-Albani's compilation of its chains in *Silsilat al-Ahadith as-Sahihah*, no. 796.
 [^4]: Sahih al-Bukhari, Book of Virtues (*al-Manaqib*), Chapter on the Signs of Prophethood in Islam, hadith 3623-3624, narrated by Aishah, may Allah be pleased with her: [sunnah.com/bukhari:3623](https://sunnah.com/bukhari:3623), [sunnah.com/bukhari:3624](https://sunnah.com/bukhari:3624).
 [^5]: Sahih al-Bukhari, Book of the Prophets (*Ahadith al-Anbiya'*), hadith 3432, narrated by Ali ibn Abi Talib, may Allah be pleased with him: [sunnah.com/bukhari:3432](https://sunnah.com/bukhari:3432).
 [^6]: The Noble Qur'an, Surah at-Tawbah, ayah 100: [quran.com/9/100](https://quran.com/9/100). The English rendering in this lesson is a meaning-based project translation.

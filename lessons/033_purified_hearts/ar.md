@@ -31,7 +31,7 @@ bedtime_dua_id: "lesson.033.dua.no-rancour-brothers-facing"
 
 ## القسم الأكاديمي للبالغين
 
-<!-- reader:start audience="adults" estimated_minutes="6.5" -->
+<!-- reader:start audience="adults" estimated_minutes="7.0" -->
 
 <!-- unit:start id="adults.explanation" kind="explanation" -->
 
@@ -85,7 +85,7 @@ bedtime_dua_id: "lesson.033.dua.no-rancour-brothers-facing"
 
 #### التفسير العلمي
 
-قرأ أحد رواته عند البخاري آية النزع قبل أن يسوقه، وأورده البغوي وابن كثير في تفسير الآيتين؛ فهو أصح ما يُفهم به وقت النزع: حقوق تُقضى، ثم قلوب تُهذَّب وتُنقّى، ثم إذن بالدخول.[^1][^3]
+قرأ أحد رواته عند البخاري آية النزع قبل أن يسوقه، وأورده البغوي في تفسير آية الأعراف، وابن كثير في تفسير آية الحجر؛ فهو أصح ما يُفهم به وقت النزع: حقوق تُقضى، ثم قلوب تُهذَّب وتُنقّى، ثم إذن بالدخول.[^1][^2][^3]
 
 #### شرح الدرس
 
@@ -209,7 +209,7 @@ bedtime_dua_id: "lesson.033.dua.no-rancour-brothers-facing"
 
 ## للأطفال من ٤ إلى ٧ سنوات
 
-<!-- reader:start audience="4-7" estimated_minutes="5.0" -->
+<!-- reader:start audience="4-7" estimated_minutes="4.5" -->
 
 <!-- unit:start id="4-7.explanation" kind="explanation" -->
 
@@ -292,7 +292,7 @@ bedtime_dua_id: "lesson.033.dua.no-rancour-brothers-facing"
 
 ## للأطفال من ٨ إلى ١٢ سنة
 
-<!-- reader:start audience="8-12" estimated_minutes="6.0" -->
+<!-- reader:start audience="8-12" estimated_minutes="5.5" -->
 
 <!-- unit:start id="8-12.explanation" kind="explanation" -->
 
@@ -390,7 +390,7 @@ bedtime_dua_id: "lesson.033.dua.no-rancour-brothers-facing"
 
 ## للمراهقين ١٣+
 
-<!-- reader:start audience="13+" estimated_minutes="6.5" -->
+<!-- reader:start audience="13+" estimated_minutes="5.5" -->
 
 <!-- unit:start id="13+.explanation" kind="explanation" -->
 

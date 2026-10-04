@@ -34,7 +34,7 @@ Au terme de cette leçon, l'apprenant sera capable de :
 
 <!-- unit:start id="adults.explanation" kind="explanation" -->
 
-Ce qui rapproche d'Allah ne se mesure ni à l'épaisseur d'une fortune ni à la hauteur d'un rang social, mais à la sincérité du cœur, à la patience dans le besoin, à la gratitude dans l'aisance et à l'humilité devant Allah et devant Ses serviteurs. Le Prophète, paix et bénédictions sur lui, a réservé aux faibles et aux pauvres sincères de sa communauté des annonces magnifiques : certains précéderont les riches dans la Jannah de très longues années ; d'autres, que les gens tiennent pour quantité négligeable, n'ont qu'à jurer par Allah pour qu'Allah honore leur serment ; et ce sont eux qui forment le gros des habitants de la Jannah, comme l'a rapporté le Prophète, paix et bénédictions sur lui, lui-même.
+Ce qui rapproche d'Allah ne se mesure ni à l'épaisseur d'une fortune ni à la hauteur d'un rang social, mais à la sincérité du cœur, à la patience dans le besoin, à la gratitude dans l'aisance et à l'humilité devant Allah et devant Ses serviteurs. Le Prophète, paix et bénédictions sur lui, a réservé aux faibles et aux pauvres sincères de sa communauté des annonces magnifiques : certains précéderont les riches dans la Jannah de très longues années ; d'autres, que les gens tiennent pour quantité négligeable, n'ont qu'à jurer par Allah pour qu'Allah honore leur serment ; et ce sont eux qui forment le gros des habitants de la Jannah, comme l'a annoncé le Prophète lui-même, paix et bénédictions sur lui.
 
 Pour autant, la richesse n'est pas blâmable en soi : plusieurs grands Compagnons fortunés ont reçu l'annonce de la Jannah, comme 'Uthman ibn 'Affan et 'Abd ar-Rahman ibn 'Awf, qu'Allah soit satisfait d'eux. Le véritable critère, c'est ce que le cœur fait de sa condition, qu'il soit pauvre ou riche : endure-t-il, rend-il grâce, fait-il passer autrui avant lui ? Ou bien s'affole-t-il quand il manque, et s'enfle-t-il d'orgueil quand il a trop ? Le plus éloquent témoin de cette vérité est la vie d'Abu Hurayrah, qu'Allah soit satisfait de lui, aux côtés des gens de la Suffah : une pauvreté bien réelle, et pourtant l'*ithar* et l'obéissance. C'est cela qui l'a élevé, et non abaissé.
 
@@ -54,7 +54,7 @@ Pour autant, la richesse n'est pas blâmable en soi : plusieurs grands Compagno
 
 #### Traduction Française
 
-> D'après Harithah ibn Wahb al-Khuza'i, qu'Allah soit satisfait de lui, qui a dit : J'ai entendu le Prophète, paix et bénédictions sur lui, dire : **« Ne vous dirai-je pas qui sont les gens de la Jannah ? Tout être faible, que l'on dédaigne pour sa faiblesse, et qui, s'il jurait par Allah, verrait Allah honorer son serment. Ne vous dirai-je pas qui sont les gens du Feu ? Tout être dur et brutal, avide qui amasse et retient, et plein d'orgueil. »**[^1]
+> D'après Harithah ibn Wahb al-Khuza'i, qu'Allah soit satisfait de lui, qui a dit : J'ai entendu le Prophète, paix et bénédictions sur lui, dire : **« Ne vous dirai-je pas qui sont les gens de la Jannah ? Tout être faible, que l'on dédaigne pour sa faiblesse, et qui, s'il jurait par Allah, verrait Allah honorer son serment. Ne vous dirai-je pas qui sont les gens du Feu ? Tout être dur et brutal, avide, qui amasse et retient, et plein d'orgueil. »**[^1]
 
 #### Interprétation Savante
 
@@ -62,7 +62,7 @@ Al-Hafiz Ibn Hajar, qu'Allah lui fasse miséricorde, explique dans *Fath al-Bari
 
 #### Explication De La Leçon
 
-Ce hadith remet la balance d'aplomb : celui que l'on méprise en ce monde peut être, auprès d'Allah, le plus grand de tous. Ce qui pèse, c'est l'état du cœur, non celui du portefeuille.
+Ce hadith rétablit la juste balance : celui que l'on méprise en ce monde peut être, auprès d'Allah, le plus grand de tous. Ce qui pèse, c'est l'état du cœur, non celui du portefeuille.
 
 <!-- evidence:end -->
 
@@ -92,7 +92,7 @@ Il s'agit ici d'une avance dans le temps, non d'un verdict sur le rang final : 
 
 ### Je Me Suis Tenu À La Porte De La Jannah : La Plupart De Ceux Qui Y Entraient Étaient Les Pauvres
 
-> عَنْ أُسَامَةَ بْنِ زَيْدٍ رضي الله عنهما قَالَ: قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم: **«قُمْتُ عَلَى بَابِ الْجَنَّةِ، فَإِذَا عَامَّةُ مَنْ دَخَلَهَا الْمَسَاكِينُ، وَأَصْحَابُ الْجَدِّ مَحْبُوسُونَ، غَيْرَ أَصْحَابِ النَّارِ فَقَدْ أُمِرَ بِهِمْ إِلَى النَّارِ، وَقُمْتُ عَلَى بَابِ النَّارِ، فَإِذَا عَامَّةُ مَنْ دَخَلَهَا النِّسَاءُ»**.[^3]
+> عَنْ أُسَامَةَ بْنِ زَيْدٍ رضي الله عنهما قَالَ: قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم: **«قُمْتُ عَلَى بَابِ الْجَنَّةِ، فَكَانَ عَامَّةَ مَنْ دَخَلَهَا الْمَسَاكِينُ، وَأَصْحَابُ الْجَدِّ مَحْبُوسُونَ، غَيْرَ أَنَّ أَصْحَابَ النَّارِ قَدْ أُمِرَ بِهِمْ إِلَى النَّارِ، وَقُمْتُ عَلَى بَابِ النَّارِ، فَإِذَا عَامَّةُ مَنْ دَخَلَهَا النِّسَاءُ»**.[^3]
 
 <!-- evidence:translation -->
 
@@ -114,21 +114,21 @@ Ce hadith interdit de lire le mérite promis aux pauvres comme une exclusion des
 
 ### Le Hadith D'Abu Hurayrah, Qu'Allah Soit Satisfait De Lui, Sur Sa Faim Et Les Gens De La Suffah
 
-> عَنْ أَبِي هُرَيْرَةَ رضي الله عنه قَالَ: أَصَابَنِي جَهْدٌ شَدِيدٌ، فَلَقِيتُ عُمَرَ بْنَ الْخَطَّابِ رضي الله عنه فَسَأَلْتُهُ عَنْ آيَةٍ مِنْ كِتَابِ اللَّهِ، مَا سَأَلْتُهُ إِلَّا لِيُشْبِعَنِي، فَمَرَّ وَلَمْ يَفْعَلْ، ثُمَّ لَقِيتُ أَبَا بَكْرٍ رضي الله عنه فَسَأَلْتُهُ عَنِ الْآيَةِ، مَا سَأَلْتُهُ إِلَّا لِيُشْبِعَنِي، فَمَرَّ وَلَمْ يَفْعَلْ، حَتَّى مَرَّ بِي أَبُو الْقَاسِمِ صلى الله عليه وسلم فَتَبَسَّمَ حِينَ رَآنِي، وَعَرَفَ مَا فِي نَفْسِي وَمَا فِي وَجْهِي، ثُمَّ قَالَ: **«يَا أَبَا هِرٍّ»**، قُلْتُ: لَبَّيْكَ يَا رَسُولَ اللَّهِ، قَالَ: **«الْحَقْ»**، وَمَضَى فَاتَّبَعْتُهُ، فَدَخَلَ فَاسْتَأْذَنَ فَأُذِنَ لِي فَدَخَلْتُ، فَوَجَدَ لَبَنًا فِي قَدَحٍ، فَقَالَ: **«مِنْ أَيْنَ هَذَا اللَّبَنُ؟»** قَالُوا: أَهْدَاهُ لَكَ فُلَانٌ، قَالَ: **«يَا أَبَا هِرٍّ»**، قُلْتُ: لَبَّيْكَ يَا رَسُولَ اللَّهِ، قَالَ: **«الْحَقْ إِلَى أَهْلِ الصُّفَّةِ فَادْعُهُمْ لِي»**.
+> عَنْ أَبِي هُرَيْرَةَ رضي الله عنه أَنَّهُ كَانَ يَقُولُ: آللَّهِ الَّذِي لَا إِلَهَ إِلَّا هُوَ، إِنْ كُنْتُ لَأَعْتَمِدُ بِكَبِدِي عَلَى الْأَرْضِ مِنَ الْجُوعِ، وَإِنْ كُنْتُ لَأَشُدُّ الْحَجَرَ عَلَى بَطْنِي مِنَ الْجُوعِ، وَلَقَدْ قَعَدْتُ يَوْمًا عَلَى طَرِيقِهِمُ الَّذِي يَخْرُجُونَ مِنْهُ، فَمَرَّ أَبُو بَكْرٍ فَسَأَلْتُهُ عَنْ آيَةٍ مِنْ كِتَابِ اللَّهِ، مَا سَأَلْتُهُ إِلَّا لِيُشْبِعَنِي، فَمَرَّ وَلَمْ يَفْعَلْ، ثُمَّ مَرَّ بِي عُمَرُ فَسَأَلْتُهُ عَنْ آيَةٍ مِنْ كِتَابِ اللَّهِ، مَا سَأَلْتُهُ إِلَّا لِيُشْبِعَنِي، فَمَرَّ فَلَمْ يَفْعَلْ، ثُمَّ مَرَّ بِي أَبُو الْقَاسِمِ صلى الله عليه وسلم فَتَبَسَّمَ حِينَ رَآنِي، وَعَرَفَ مَا فِي نَفْسِي وَمَا فِي وَجْهِي، ثُمَّ قَالَ: **«أَبَا هِرٍّ»**، قُلْتُ: لَبَّيْكَ يَا رَسُولَ اللَّهِ، قَالَ: **«الْحَقْ»**، وَمَضَى فَتَبِعْتُهُ، فَدَخَلَ فَاسْتَأْذَنَ فَأَذِنَ لِي، فَدَخَلَ فَوَجَدَ لَبَنًا فِي قَدَحٍ، فَقَالَ: **«مِنْ أَيْنَ هَذَا اللَّبَنُ؟»** قَالُوا: أَهْدَاهُ لَكَ فُلَانٌ أَوْ فُلَانَةُ، قَالَ: **«أَبَا هِرٍّ»**، قُلْتُ: لَبَّيْكَ يَا رَسُولَ اللَّهِ، قَالَ: **«الْحَقْ إِلَى أَهْلِ الصُّفَّةِ فَادْعُهُمْ لِي»**.
 >
-> قَالَ أَبُو هُرَيْرَةَ: وَأَهْلُ الصُّفَّةِ أَضْيَافُ الْإِسْلَامِ، لَا يَأْوُونَ إِلَى أَهْلٍ وَلَا مَالٍ وَلَا عَلَى أَحَدٍ، إِذَا أَتَتْهُ صَدَقَةٌ بَعَثَ بِهَا إِلَيْهِمْ وَلَمْ يَتَنَاوَلْ مِنْهَا شَيْئًا، وَإِذَا أَتَتْهُ هَدِيَّةٌ أَرْسَلَ إِلَيْهِمْ وَأَصَابَ مِنْهَا وَأَشْرَكَهُمْ فِيهَا. فَسَاءَنِي ذَلِكَ، فَقُلْتُ: وَمَا هَذَا اللَّبَنُ فِي أَهْلِ الصُّفَّةِ؟ كُنْتُ أَحَقُّ أَنَا أَنْ أُصِيبَ مِنْ هَذَا اللَّبَنِ شَرْبَةً أَتَقَوَّى بِهَا، فَإِذَا جَاءُوا أَمَرَنِي فَكُنْتُ أَنَا أُعْطِيهِمْ، وَمَا عَسَى أَنْ يَبْلُغَنِي مِنْ هَذَا اللَّبَنِ؟ وَلَمْ يَكُنْ مِنْ طَاعَةِ اللَّهِ وَطَاعَةِ رَسُولِهِ صلى الله عليه وسلم بُدٌّ، فَأَتَيْتُهُمْ فَدَعَوْتُهُمْ فَأَقْبَلُوا، فَاسْتَأْذَنُوا فَأُذِنَ لَهُمْ وَأَخَذُوا مَجَالِسَهُمْ مِنَ الْبَيْتِ، قَالَ: **«يَا أَبَا هِرٍّ»**، قُلْتُ: لَبَّيْكَ يَا رَسُولَ اللَّهِ، قَالَ: **«خُذْ فَأَعْطِهِمْ»**.
+> قَالَ أَبُو هُرَيْرَةَ: وَأَهْلُ الصُّفَّةِ أَضْيَافُ الْإِسْلَامِ، لَا يَأْوُونَ إِلَى أَهْلٍ وَلَا مَالٍ وَلَا عَلَى أَحَدٍ، إِذَا أَتَتْهُ صَدَقَةٌ بَعَثَ بِهَا إِلَيْهِمْ وَلَمْ يَتَنَاوَلْ مِنْهَا شَيْئًا، وَإِذَا أَتَتْهُ هَدِيَّةٌ أَرْسَلَ إِلَيْهِمْ وَأَصَابَ مِنْهَا وَأَشْرَكَهُمْ فِيهَا. فَسَاءَنِي ذَلِكَ، فَقُلْتُ: وَمَا هَذَا اللَّبَنُ فِي أَهْلِ الصُّفَّةِ؟ كُنْتُ أَحَقُّ أَنَا أَنْ أُصِيبَ مِنْ هَذَا اللَّبَنِ شَرْبَةً أَتَقَوَّى بِهَا، فَإِذَا جَاءَ أَمَرَنِي فَكُنْتُ أَنَا أُعْطِيهِمْ، وَمَا عَسَى أَنْ يَبْلُغَنِي مِنْ هَذَا اللَّبَنِ؟ وَلَمْ يَكُنْ مِنْ طَاعَةِ اللَّهِ وَطَاعَةِ رَسُولِهِ صلى الله عليه وسلم بُدٌّ، فَأَتَيْتُهُمْ فَدَعَوْتُهُمْ فَأَقْبَلُوا، فَاسْتَأْذَنُوا فَأَذِنَ لَهُمْ، وَأَخَذُوا مَجَالِسَهُمْ مِنَ الْبَيْتِ، قَالَ: **«يَا أَبَا هِرٍّ»**، قُلْتُ: لَبَّيْكَ يَا رَسُولَ اللَّهِ، قَالَ: **«خُذْ فَأَعْطِهِمْ»**.
 >
-> قَالَ: فَأَخَذْتُ الْقَدَحَ فَجَعَلْتُ أُعْطِيهِ الرَّجُلَ فَيَشْرَبُ حَتَّى يَرْوَى، ثُمَّ يَرُدُّ عَلَيَّ الْقَدَحَ فَأُعْطِيهِ الرَّجُلَ الْآخَرَ حَتَّى يَرْوَى، ثُمَّ يَرُدُّ عَلَيَّ الْقَدَحَ، حَتَّى انْتَهَيْتُ إِلَى النَّبِيِّ صلى الله عليه وسلم وَقَدْ رَوِيَ الْقَوْمُ كُلُّهُمْ، فَأَخَذَ الْقَدَحَ فَوَضَعَهُ عَلَى يَدِهِ، فَنَظَرَ إِلَيَّ فَتَبَسَّمَ، فَقَالَ: **«يَا أَبَا هِرٍّ»**، قُلْتُ: لَبَّيْكَ يَا رَسُولَ اللَّهِ، قَالَ: **«بَقِيتُ أَنَا وَأَنْتَ»**، قُلْتُ: صَدَقْتَ يَا رَسُولَ اللَّهِ، قَالَ: **«اقْعُدْ فَاشْرَبْ»**، فَقَعَدْتُ فَشَرِبْتُ، فَقَالَ: **«اشْرَبْ»**، فَشَرِبْتُ، فَمَا زَالَ يَقُولُ: **«اشْرَبْ»** حَتَّى قُلْتُ: لَا وَالَّذِي بَعَثَكَ بِالْحَقِّ، مَا أَجِدُ لَهُ مَسْلَكًا، قَالَ: **«فَأَرِنِي»**، فَأَعْطَيْتُهُ الْقَدَحَ فَحَمِدَ اللَّهَ وَسَمَّى وَشَرِبَ الْفَضْلَةَ.[^4]
+> قَالَ: فَأَخَذْتُ الْقَدَحَ فَجَعَلْتُ أُعْطِيهِ الرَّجُلَ فَيَشْرَبُ حَتَّى يَرْوَى، ثُمَّ يَرُدُّ عَلَيَّ الْقَدَحَ، فَأُعْطِيهِ الرَّجُلَ فَيَشْرَبُ حَتَّى يَرْوَى، ثُمَّ يَرُدُّ عَلَيَّ الْقَدَحَ فَيَشْرَبُ حَتَّى يَرْوَى، ثُمَّ يَرُدُّ عَلَيَّ الْقَدَحَ، حَتَّى انْتَهَيْتُ إِلَى النَّبِيِّ صلى الله عليه وسلم وَقَدْ رَوِيَ الْقَوْمُ كُلُّهُمْ، فَأَخَذَ الْقَدَحَ فَوَضَعَهُ عَلَى يَدِهِ، فَنَظَرَ إِلَيَّ فَتَبَسَّمَ، فَقَالَ: **«أَبَا هِرٍّ»**، قُلْتُ: لَبَّيْكَ يَا رَسُولَ اللَّهِ، قَالَ: **«بَقِيتُ أَنَا وَأَنْتَ»**، قُلْتُ: صَدَقْتَ يَا رَسُولَ اللَّهِ، قَالَ: **«اقْعُدْ فَاشْرَبْ»**، فَقَعَدْتُ فَشَرِبْتُ، فَقَالَ: **«اشْرَبْ»**، فَشَرِبْتُ، فَمَا زَالَ يَقُولُ: **«اشْرَبْ»** حَتَّى قُلْتُ: لَا وَالَّذِي بَعَثَكَ بِالْحَقِّ، مَا أَجِدُ لَهُ مَسْلَكًا، قَالَ: **«فَأَرِنِي»**، فَأَعْطَيْتُهُ الْقَدَحَ فَحَمِدَ اللَّهَ وَسَمَّى وَشَرِبَ الْفَضْلَةَ.[^4]
 
 <!-- evidence:translation -->
 
 #### Traduction Française
 
-> D'après Abu Hurayrah, qu'Allah soit satisfait de lui, qui a raconté : J'étais à bout de forces, épuisé par la faim. Je rencontrai 'Umar ibn al-Khattab, qu'Allah soit satisfait de lui, et l'interrogeai sur un verset du Livre d'Allah — je ne le lui demandais que dans l'espoir qu'il me donne à manger. Il passa son chemin sans le faire. Puis je rencontrai Abu Bakr, qu'Allah soit satisfait de lui, et l'interrogeai sur ce même verset — là encore, je ne le lui demandais que dans l'espoir qu'il me donne à manger. Il passa son chemin sans le faire. Enfin passa près de moi Abu al-Qasim, paix et bénédictions sur lui. Il sourit en me voyant, car il avait compris ce que j'avais au fond de moi et ce qui se lisait sur mon visage, puis il dit : **« Abu Hirr ! »** [forme affectueuse de son surnom]. Je répondis : « Me voici, ô Messager d'Allah, à ton service ! » Il dit : **« Suis-moi. »** Il s'en alla et je le suivis. Il entra ; je demandai la permission d'entrer, on me l'accorda, et j'entrai. Il trouva du lait dans un bol et demanda : **« D'où vient ce lait ? »** On lui répondit : « Untel te l'a offert. » Il dit : **« Abu Hirr ! »** — « Me voici, ô Messager d'Allah, à ton service ! » — **« Va trouver les gens de la Suffah et appelle-les-moi. »**
+> D'après Abu Hurayrah, qu'Allah soit satisfait de lui, qui a raconté : Par Allah, en dehors de qui il n'est pas de divinité, il m'arrivait de presser mon ventre contre le sol à cause de la faim, et il m'arrivait de m'attacher une pierre sur le ventre à cause de la faim. Un jour, je m'assis sur le chemin par lequel ils sortaient. Abu Bakr, qu'Allah soit satisfait de lui, passa, et je l'interrogeai sur un verset du Livre d'Allah — je ne le lui demandais que dans l'espoir qu'il me donne à manger. Il passa son chemin sans le faire. Puis 'Umar, qu'Allah soit satisfait de lui, passa près de moi, et je l'interrogeai sur un verset du Livre d'Allah — là encore, je ne le lui demandais que dans l'espoir qu'il me donne à manger. Il passa son chemin sans le faire. Enfin passa près de moi Abu al-Qasim, paix et bénédictions sur lui. Il sourit en me voyant, car il avait compris ce que j'avais au fond de moi et ce qui se lisait sur mon visage, puis il dit : **« Abu Hirr ! »** [forme affectueuse de son surnom]. Je répondis : « Me voici, ô Messager d'Allah, à ton service ! » Il dit : **« Suis-moi. »** Il s'en alla et je le suivis. Il entra ; je demandai la permission d'entrer, on me l'accorda, et j'entrai. Il trouva du lait dans un bol et demanda : **« D'où vient ce lait ? »** On lui répondit : « Untel (ou Unetelle) te l'a offert. » Il dit : **« Abu Hirr ! »** — « Me voici, ô Messager d'Allah, à ton service ! » — **« Va trouver les gens de la Suffah et appelle-les-moi. »**
 >
 > Abu Hurayrah poursuit : Les gens de la Suffah étaient les hôtes de l'islam ; ils n'avaient ni famille, ni biens, ni personne chez qui trouver refuge. Lorsqu'une aumône parvenait au Prophète, il la leur envoyait sans en prendre la moindre part ; lorsqu'on lui offrait un présent, il les faisait venir, en prenait sa part et les y associait. Cela me contraria, et je me dis : « Que représente ce lait pour tous les gens de la Suffah ? J'étais bien plus en droit d'en boire une gorgée qui me redonne des forces ! Quand ils viendront, c'est moi qu'il chargera de les servir — et que restera-t-il de ce lait pour moi ? » Mais il n'y avait pas moyen de se soustraire à l'obéissance due à Allah et à Son Messager, paix et bénédictions sur lui. J'allai donc les trouver et les appelai. Ils vinrent, demandèrent la permission d'entrer, on la leur accorda, et ils prirent place dans la maison. Il dit : **« Abu Hirr ! »** — « Me voici, ô Messager d'Allah, à ton service ! » — **« Prends et sers-les. »**
 >
-> Abu Hurayrah poursuit : Je pris le bol et me mis à le tendre à un homme, qui buvait jusqu'à étancher sa soif, puis me le rendait ; je le tendais alors au suivant, qui buvait à son tour jusqu'à étancher sa soif, puis me le rendait — et ainsi de suite, jusqu'à ce que j'arrive au Prophète, paix et bénédictions sur lui, alors que tous avaient bu tout leur soûl. Il prit le bol, le posa sur sa main, leva les yeux vers moi et sourit : **« Abu Hirr ! »** — « Me voici, ô Messager d'Allah, à ton service ! » — **« Il ne reste plus que toi et moi. »** — « Tu dis vrai, ô Messager d'Allah. » — **« Assieds-toi et bois. »** Je m'assis et bus. Il dit : **« Bois ! »**, et je bus. Il ne cessa de répéter : **« Bois ! »**, jusqu'à ce que je dise : « Non, par Celui qui t'a envoyé avec la vérité, je ne lui trouve plus le moindre passage ! » Il dit : **« Montre-le-moi donc. »** Je lui tendis le bol ; il loua Allah, prononça Son nom et but ce qui restait.[^4]
+> Abu Hurayrah poursuit : Je pris le bol et me mis à le tendre à un homme, qui buvait jusqu'à étancher sa soif, puis me le rendait ; je le tendais alors au suivant, qui buvait à son tour jusqu'à étancher sa soif, puis me le rendait — et ainsi de suite, jusqu'à ce que j'arrive au Prophète, paix et bénédictions sur lui, alors que tous avaient bu tout leur soûl. Il prit le bol, le posa sur sa main, me regarda et sourit : **« Abu Hirr ! »** — « Me voici, ô Messager d'Allah, à ton service ! » — **« Il ne reste plus que toi et moi. »** — « Tu dis vrai, ô Messager d'Allah. » — **« Assieds-toi et bois. »** Je m'assis et bus. Il dit : **« Bois ! »**, et je bus. Il ne cessa de répéter : **« Bois ! »**, jusqu'à ce que je dise : « Non, par Celui qui t'a envoyé avec la vérité, je ne lui trouve plus le moindre passage ! » Il dit : **« Montre-le-moi donc. »** Je lui tendis le bol ; il loua Allah, prononça Son nom et but ce qui restait.[^4]
 
 #### Interprétation Savante
 
@@ -136,7 +136,7 @@ Ce hadith témoigne de l'extrême pauvreté des gens de la Suffah, et de la gén
 
 #### Explication De La Leçon
 
-Ce hadith est le récit authentique sur lequel repose toute cette leçon : une pauvreté réelle, poussée au point de se serrer une pierre contre le ventre ; un désir tout humain de passer avant les autres affamés ; et pourtant, l'obéissance et l'*ithar*, au moment où Abu Hurayrah a dû peser son envie immédiate face à l'ordre du Prophète, paix et bénédictions sur lui. Au bout du compte, tous ont été désaltérés, et lui l'a été à son tour, le dernier, aux côtés du Prophète, paix et bénédictions sur lui, en personne. Il n'a été privé de rien ; il a au contraire été honoré de la proximité du Prophète et de la douceur de sa compagnie. C'est exactement le sens de la parole du Prophète, paix et bénédictions sur lui : « Tout être faible que l'on dédaigne » — un pauvre que nul ne remarque aux yeux des gens, mais qui compte, auprès d'Allah, parmi les gens de la sincérité et de l'*ithar*.
+Ce hadith est le récit authentique sur lequel repose toute cette leçon : une pauvreté réelle, poussée au point de se serrer une pierre contre le ventre ; un désir tout humain de passer avant les autres affamés ; et pourtant, l'obéissance et l'*ithar*, au moment où Abu Hurayrah a dû peser son envie immédiate face à l'ordre du Prophète, paix et bénédictions sur lui. Au bout du compte, tous ont été désaltérés, et lui l'a été à son tour, le dernier, aux côtés du Prophète, paix et bénédictions sur lui, en personne. Il n'a été privé de rien ; il a au contraire été honoré de la proximité du Prophète et de la douceur de sa compagnie. C'est exactement le sens de la parole du Prophète, paix et bénédictions sur lui : « Tout être faible que l'on dédaigne » — un pauvre que les gens ne remarquent même pas, mais qui compte, auprès d'Allah, parmi les gens de la sincérité et de l'*ithar*.
 
 <!-- evidence:end -->
 
@@ -147,7 +147,7 @@ Ce hadith est le récit authentique sur lequel repose toute cette leçon : une 
 ## Questions Pour Comprendre Et Méditer
 
 1. Quelle différence y a-t-il entre l'avance des pauvres dans le temps pour entrer dans la Jannah et la hauteur du degré qu'on y occupe ? Et pourquoi cela ne contredit-il pas l'annonce de la Jannah faite à certains riches, comme 'Uthman et 'Abd ar-Rahman ibn 'Awf, qu'Allah soit satisfait d'eux ?
-2. Comment le fait de comprendre « les gens de fortune sont retenus » comme une rétention pour rendre des comptes empêche-t-il de lire ce hadith comme une condamnation de la richesse en elle-même ?
+2. Comment le fait de comprendre « les gens de fortune sont retenus » au sens où ils sont retenus pour rendre des comptes empêche-t-il de lire ce hadith comme une condamnation de la richesse en elle-même ?
 3. Pourquoi Abu Hurayrah, qu'Allah soit satisfait de lui, n'a-t-il pas été blâmé pour son désir intérieur de boire le premier ? Et où se situait le véritable mérite de son attitude ?
 4. Évoquez une situation réelle de votre vie où votre propre désir est entré en conflit avec le fait de faire passer autrui avant vous. Comment s'est-elle terminée ?
 
@@ -169,7 +169,7 @@ Choisissez cette semaine un jour bien précis où vous ferez délibérément pas
 
 ## Pour Les Enfants De 4 À 7 Ans
 
-<!-- reader:start audience="4-7" estimated_minutes="5.0" -->
+<!-- reader:start audience="4-7" estimated_minutes="5.5" -->
 
 <!-- unit:start id="4-7.explanation" kind="explanation" -->
 
@@ -247,7 +247,7 @@ Aujourd'hui, donne à quelqu'un une chose que tu aimes (un bonbon, un jouet, ou 
 
 <!-- unit:start id="8-12.explanation" kind="explanation" -->
 
-Le Prophète, paix et bénédictions sur lui, nous a appris que les faibles et les pauvres sincères de sa communauté ont auprès d'Allah une place immense — à tel point que, si l'un d'eux jurait par Allah, Allah tiendrait sa promesse pour lui — et qu'une grande partie de ceux qui entreront dans la Jannah seront des pauvres patients. Pourtant, être riche n'a rien de mauvais en soi : certains Compagnons fortunés du Prophète, comme 'Uthman ibn 'Affan et 'Abd ar-Rahman ibn 'Awf, ont eux aussi reçu l'annonce de la Jannah. Ce qui compte, ce n'est donc pas d'avoir beaucoup ou peu d'argent, mais la manière dont on se comporte avec ce qu'Allah nous a donné : est-ce qu'on reste patient, est-ce qu'on remercie, est-ce qu'on partage avec les autres ?
+Le Prophète, paix et bénédictions sur lui, nous a appris que les faibles et les pauvres sincères de sa communauté ont auprès d'Allah une place immense — à tel point que, si l'un d'eux jurait par Allah, Allah ferait que son serment se réalise — et qu'une grande partie de ceux qui entreront dans la Jannah seront des pauvres patients. Pourtant, être riche n'a rien de mauvais en soi : certains Compagnons fortunés du Prophète, comme 'Uthman ibn 'Affan et 'Abd ar-Rahman ibn 'Awf, ont eux aussi reçu l'annonce de la Jannah. Ce qui compte, ce n'est donc pas d'avoir beaucoup ou peu d'argent, mais la manière dont on se comporte avec ce qu'Allah nous a donné : est-ce qu'on reste patient, est-ce qu'on remercie, est-ce qu'on partage avec les autres ?
 
 <!-- unit:end -->
 
@@ -273,7 +273,7 @@ Le Prophète, paix et bénédictions sur lui, nous a appris que les faibles et l
 
 Abu Hurayrah, qu'Allah soit satisfait de lui, était l'un des Compagnons du Prophète, paix et bénédictions sur lui. Il était pauvre : pas de maison, pas de repas assuré. Un jour, la faim le tenailla si fort qu'il se serra une pierre contre le ventre. Il s'assit sur le chemin du Prophète et se mit à interroger les passants sur un verset du Coran, en espérant que l'un d'eux devinerait son besoin et lui donnerait à manger. Abu Bakr et 'Umar, qu'Allah soit satisfait d'eux, passèrent près de lui sans remarquer sa faim. Puis vint le Prophète, paix et bénédictions sur lui : il sourit en le voyant, lut son besoin sur son visage et l'appela : « Abu Hirr ! » — « Me voici, ô Messager d'Allah, à ton service ! » — « Suis-moi. » Abu Hurayrah le suivit jusque dans sa maison.[^4]
 
-Le Prophète, paix et bénédictions sur lui, y trouva un bol de lait qu'on lui avait offert. Il dit : « Va trouver les gens de la Suffah et appelle-les-moi. » Les gens de la Suffah, c'étaient les Émigrés pauvres, sans famille et sans argent, qui logeaient dans la mosquée du Prophète. Abu Hurayrah, tant il avait faim, aurait voulu qu'on lui donne le lait avant eux. Il se dit en lui-même : « C'est moi qui aurais le plus besoin d'une gorgée pour reprendre des forces ! » Mais il savait qu'on ne se dérobe pas à l'obéissance d'Allah et de Son Messager : il partit donc et les appela tous.[^4]
+Le Prophète, paix et bénédictions sur lui, y trouva un bol de lait qu'on lui avait offert. Il dit : « Va trouver les gens de la Suffah et appelle-les-moi. » Les gens de la Suffah, c'étaient les Émigrés pauvres, sans famille et sans argent, qui logeaient dans la mosquée du Prophète. Abu Hurayrah, tant il avait faim, aurait voulu qu'on lui donne le lait avant eux. Il se dit en lui-même : « C'est moi qui mériterais le plus une gorgée pour reprendre des forces ! » Mais il savait qu'on ne se dérobe pas à l'obéissance due à Allah et à Son Messager : il partit donc et les appela tous.[^4]
 
 Abu Hurayrah prit le bol et le tendit à un premier homme, qui but jusqu'à n'avoir plus soif et le lui rendit ; puis il le tendit au suivant, et ainsi de suite, jusqu'à arriver au Prophète, paix et bénédictions sur lui — et tous avaient bu à leur soif ! Le Prophète prit le bol, regarda Abu Hurayrah, sourit et dit : « Il ne reste plus que toi et moi. » — « Tu dis vrai, ô Messager d'Allah. » — « Assieds-toi et bois. » Abu Hurayrah but, et but encore, jusqu'à s'écrier : « Par Allah, je n'ai plus de place pour une goutte ! » Alors le Prophète, paix et bénédictions sur lui, loua Allah et but ce qui restait.[^4]
 
@@ -379,8 +379,8 @@ En d'autres termes : au plus fort de sa faim, Abu Hurayrah s'est trouvé devant
 ### Questions De Discussion
 
 1. Pourquoi Abu Hurayrah n'a-t-il pas été blâmé pour son désir intérieur de boire le premier ? Où se situait la véritable épreuve dans son attitude ?
-2. Comment le hadith « Tout être faible que l'on dédaigne » répond-il au sentiment qu'ont certains ados que leur valeur se mesure à ce qu'ils possèdent par rapport à leurs amis ?
-3. Comment le fait de comprendre « les gens de fortune sont retenus » comme une rétention pour rendre des comptes empêche-t-il une lecture erronée qui condamnerait la richesse en elle-même ?
+2. Comment le hadith « Tout être faible que l'on dédaigne » répond-il au sentiment qu'ont certains adolescents que leur valeur se mesure à ce qu'ils possèdent par rapport à leurs amis ?
+3. Comment le fait de comprendre « les gens de fortune sont retenus » au sens où ils sont retenus pour rendre des comptes empêche-t-il une lecture erronée qui condamnerait la richesse en elle-même ?
 4. Cite une situation où tu ressens parfois une pression sociale à cause de ce que tu as ou de ce que tu n'as pas. En quoi cette leçon change-t-elle ton regard sur elle ?
 5. Quelle différence y a-t-il entre l'*ithar* véritable dont Abu Hurayrah a fait preuve et le simple fait de donner ce qui dépasse tes besoins ?
 
@@ -438,7 +438,7 @@ Repère cette semaine une situation réelle où tu sens une pression — venue d
 **Étude des preuves — 15 minutes :** lire les quatre hadiths dans l'ordre : celui de Harithah ibn Wahb (le faible que l'on dédaigne), puis celui d'Abu Sa'id al-Khudri (la préséance des pauvres), puis celui d'Usamah ibn Zayd (la porte de la Jannah et la porte du Feu), et enfin celui d'Abu Hurayrah en entier, en s'arrêtant sur le moment où il avoue son désir intérieur.
 
 <!-- lesson-plan:instruction -->
-**Enseignement guidé — 15 minutes :** l'enseignant discute avec les apprenants de la différence entre le privilège de la préséance et celui de l'élévation ; il explique que « les gens de fortune sont retenus » désigne une rétention pour rendre des comptes, et non une exclusion ; puis il relie l'état intérieur d'Abu Hurayrah (son envie de boire le premier) à son attitude concrète (son obéissance et son *ithar*), en montrant que le mérite tenait à l'acte, et non à l'effacement du désir humain.
+**Enseignement guidé — 15 minutes :** l'enseignant discute avec les apprenants de la différence entre le privilège de la préséance et celui de l'élévation ; il explique que « les gens de fortune sont retenus » signifie qu'ils sont retenus pour rendre des comptes, et non exclus ; puis il relie l'état intérieur d'Abu Hurayrah (son envie de boire le premier) à son attitude concrète (son obéissance et son *ithar*), en montrant que le mérite tenait à l'acte, et non à l'effacement du désir humain.
 
 <!-- lesson-plan:activity -->
 **Activité — 10 minutes :** présenter l'activité « Servir avant de se servir », fixer le jour de sa réalisation dans la semaine, et convenir d'un moment pour partager l'expérience par la suite.
@@ -447,7 +447,7 @@ Repère cette semaine une situation réelle où tu sens une pression — venue d
 **Évaluation et clôture — 5 minutes :** demander à chaque apprenant d'expliquer oralement la différence entre préséance et élévation, et de nommer un Compagnon fortuné ayant reçu l'annonce de la Jannah, comme preuve que la richesse n'est pas blâmable en soi.
 
 <!-- lesson-plan:differentiation -->
-**Différenciation :** pour les débutants, se limiter au hadith du « faible que l'on dédaigne » et au récit d'Abu Hurayrah ; pour les apprenants avancés, ajouter une discussion sur la manière de concilier le hadith de la préséance et celui de la rétention des gens de fortune.
+**Différenciation :** pour les débutants, se limiter au hadith du « faible que l'on dédaigne » et au récit d'Abu Hurayrah ; pour les apprenants avancés, ajouter une discussion sur la manière de concilier le hadith de la préséance et celui des gens de fortune retenus.
 
 <!-- lesson-plan:safeguards -->
 **Précautions pédagogiques :** veiller avec le plus grand soin à ce que personne ne reparte avec l'idée que la richesse est blâmable, ou qu'une famille aisée serait moins proche d'Allah ; rappeler sans cesse que le critère est la patience, la gratitude et l'*ithar*, non l'argent lui-même ; et ne jamais laisser l'activité tourner à une comparaison publique des situations matérielles des participants.
@@ -462,7 +462,7 @@ Repère cette semaine une situation réelle où tu sens une pression — venue d
 **Résultats d'apprentissage :** l'enfant sait redire l'idée principale — Abu Hurayrah a donné le lait à ses amis avant lui, alors qu'il avait faim — et fait lui-même, une fois, l'expérience du partage.
 
 <!-- lesson-plan:materials -->
-**Matériel :** un bol vide pour mimer l'histoire ; des feuilles et des crayons de couleur ; la carte du du'a, écrite en gros caractères bien lisibles.
+**Matériel :** un bol vide pour mimer l'histoire ; des feuilles et des crayons de couleur ; la carte de la du'a, écrite en gros caractères bien lisibles.
 
 <!-- lesson-plan:preparation -->
 **Préparation :** l'éducateur prépare l'histoire simplifiée et s'entraîne à la mimer avec un bol vide, en faisant semblant de verser le « lait » à des peluches ou aux camarades de l'enfant.
@@ -480,7 +480,7 @@ Repère cette semaine une situation réelle où tu sens une pression — venue d
 **Activité — 4 minutes :** réaliser l'activité « Je partage en premier » telle que décrite dans l'unité d'activité.
 
 <!-- lesson-plan:assessment -->
-**Évaluation et clôture — 2 minutes :** observer si l'enfant parvient à dire ce qu'Abu Hurayrah a fait avant de boire lui-même, puis lire le du'a.
+**Évaluation et clôture — 2 minutes :** observer si l'enfant parvient à dire ce qu'Abu Hurayrah a fait avant de boire lui-même, puis lire la du'a.
 
 <!-- lesson-plan:differentiation -->
 **Différenciation :** pour les plus jeunes, se contenter d'un seul exemple, mimé avec le bol, sans passer par le dessin.
@@ -516,7 +516,7 @@ Repère cette semaine une situation réelle où tu sens une pression — venue d
 **Activité — 6 minutes :** présenter l'activité « Après toi ! » et fixer le jour de sa réalisation.
 
 <!-- lesson-plan:assessment -->
-**Évaluation et clôture — 2 minutes :** évaluer les réponses des élèves selon la précision avec laquelle ils expliquent la différence entre ce qu'Abu Hurayrah désirait et ce qu'il a réellement fait, puis lire le du'a.
+**Évaluation et clôture — 2 minutes :** évaluer les réponses des élèves selon la précision avec laquelle ils expliquent la différence entre ce qu'Abu Hurayrah désirait et ce qu'il a réellement fait, puis lire la du'a.
 
 <!-- lesson-plan:differentiation -->
 **Différenciation :** pour les élèves en difficulté, se limiter au hadith du « faible que l'on dédaigne » et au récit du bol de lait ; confier aux plus avancés une discussion sur le sens de « les gens de fortune sont retenus ».
@@ -567,7 +567,7 @@ Repère cette semaine une situation réelle où tu sens une pression — venue d
 ## Références
 
 [^1]: Sahih al-Bukhari, hadith 6071, et Sahih Muslim, hadith 2853, d'après Harithah ibn Wahb al-Khuza'i, qu'Allah soit satisfait de lui : [Sunnah.com, bukhari:6071](https://sunnah.com/bukhari:6071). Traduction française : traduction de sens établie pour ce projet.
-[^2]: Jami' at-Tirmidhi, hadith 2351, d'après Abu Sa'id al-Khudri, qu'Allah soit satisfait de lui ; at-Tirmidhi l'a qualifié de « hadith *hasan gharib* par cette voie » : [Sunnah.com, tirmidhi:2351](https://sunnah.com/tirmidhi:2351). Traduction française : traduction de sens établie pour ce projet.
+[^2]: Jami' at-Tirmidhi, hadith 2351, d'après Abu Sa'id al-Khudri, qu'Allah soit satisfait de lui ; at-Tirmidhi l'a qualifié de « hadith *hasan gharib* par cette voie » : [Sunnah.com, tirmidhi:2351](https://sunnah.com/tirmidhi:2351). Sa chaîne comprend 'Atiyyah al-'Awfi, rapporteur critiqué, mais Ahmad Shakir et al-Albani l'ont jugé *sahih*, et il est appuyé par le hadith d'Abu Hurayrah chez at-Tirmidhi (2353, 2354) selon lequel les pauvres entrent dans la Jannah cinq cents ans avant les riches, hadith qu'at-Tirmidhi a qualifié de *hasan sahih*. Traduction française : traduction de sens établie pour ce projet.
 [^3]: Sahih al-Bukhari, hadith 5196, d'après Usamah ibn Zayd, qu'Allah soit satisfait de lui et de son père : [Sunnah.com, bukhari:5196](https://sunnah.com/bukhari:5196). Traduction française : traduction de sens établie pour ce projet.
 [^4]: Sahih al-Bukhari, hadith 6452 (Livre des choses qui attendrissent le cœur, *Kitab ar-Riqaq*), d'après Abu Hurayrah, qu'Allah soit satisfait de lui, au sujet de sa faim, des gens de la Suffah et du bol de lait : [Sunnah.com, bukhari:6452](https://sunnah.com/bukhari:6452). Traduction française : traduction de sens établie pour ce projet.
 

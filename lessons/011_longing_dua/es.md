@@ -21,7 +21,7 @@ bedtime_dua_id: "lesson.011.dua.jannah-near-words-deeds"
 
 Al terminar esta lección, el estudiante será capaz de:
 
-- Explicar por qué los creyentes piden a Allah el cumplimiento de Su promesa en Al 'Imran 193-194, a pesar de su certeza de que Allah nunca falta a Su promesa, y mostrar que esta súplica es plenitud de servidumbre y necesidad, no una duda sobre la veracidad de la promesa.
+- Explicar por qué los creyentes piden a Allah el cumplimiento de Su promesa en Al 'Imran 193-194, a pesar de su certeza de que Allah nunca falta a Su promesa, y mostrar que esta súplica forma parte de la plenitud de la servidumbre y de la necesidad de Allah, no una duda sobre la veracidad de la promesa.
 - Narrar la historia del joven en el hadiz de Abu Dawud 793, y explicar que el Profeta, la paz y las bendiciones de Allah sean con él, no censuró su du'a breve, sino que confirmó que su intención giraba en torno a pedir la Jannah y refugiarse del Fuego.
 - Concluir que la sinceridad del du'a no exige elocuencia ni palabras extensas, y que un du'a corto y comprendido es tan aceptable como el du'a profético que reúne muchos significados.
 - Vincular la petición de la Jannah con el hadiz de Ibn Mayah 3846, que añade a esa petición pedir «lo que acerque a ella de palabra u obra», mostrando que el anhelo sincero se conecta con el esfuerzo diario, no solo con el deseo.
@@ -30,19 +30,19 @@ Al terminar esta lección, el estudiante será capaz de:
 
 ## Sección Académica para Adultos
 
-<!-- reader:start audience="adults" estimated_minutes="6.5" -->
+<!-- reader:start audience="adults" estimated_minutes="7.0" -->
 
 <!-- unit:start id="adults.explanation" kind="explanation" -->
 
-Pedir la Jannah es adoración que reúne **sinceridad, meta y esfuerzo**. El creyente no la convierte en idea lejana ausente de su du'a, ni en deseo separado de la obediencia: pide a Allah la Jannah, se refugia del Fuego, y elige de sus palabras y obras lo que lo acerca a Su agrado.
+Pedir la Jannah es un acto de adoración que reúne **la esperanza sincera, la meta siempre presente y el esfuerzo por alcanzarla**. El creyente no la convierte en una idea lejana ausente de su du'a, ni hace del du'a un deseo separado de la obediencia: pide a Allah la Jannah, se refugia en Él del Fuego y elige las palabras y las obras que lo acercan a Su complacencia.
 
-El anhelo verdadero no es una pretensión emocional. Su señal: aumenta la petición, y el recuerdo de la Jannah se vuelve oración más sincera, arrepentimiento más pronto, misericordia con la gente. El Profeta, la paz y las bendiciones de Allah sean con él, enseñó que la intención de los du'as extensos puede reunirse en palabras claras: pedir la Jannah y refugiarse del Fuego.
+El anhelo verdadero no es una pretensión emocional ni un afán por los detalles de lo oculto sin prueba. Su señal es que la persona pide a Allah cada vez más, y que el recuerdo de la Jannah se convierte en una oración más sincera, un arrepentimiento más pronto, misericordia con la gente y el abandono de lo que aleja de Allah. El Profeta, la paz y las bendiciones de Allah sean con él, enseñó que el propósito en torno al cual giran los du'as extensos puede reunirlo un siervo en palabras claras: pedir la Jannah y refugiarse del Fuego.
 
-Los textos revelan tres dimensiones:
+Los textos revelan tres dimensiones complementarias:
 
-1. **La promesa se pide:** aunque Allah nunca falta a ella, la gente de entendimiento suplicó que se les concediera; pedir a Allah es plenitud de servidumbre.
-2. **La sencillez no disminuye la sinceridad:** el joven no fue censurado por sus pocas palabras; el Profeta confirmó que su du'a giraba en torno a la misma gran meta.
-3. **El du'a se vincula con el camino:** el du'a profético también pide lo que acerca a la Jannah de palabra u obra; la esperanza se conecta con la elección diaria.
+1. **La promesa se pide:** aunque Allah nunca falta a Su promesa, la gente de entendimiento le pidió que les concediera lo prometido; pedirle forma parte de la plenitud de la servidumbre y de la necesidad de Él.
+2. **La sencillez no disminuye la sinceridad:** el joven no fue censurado por no dominar fórmulas largas; el Profeta confirmó que su du'a giraba en torno a la misma gran meta.
+3. **El du'a se vincula con el camino:** el du'a profético no se limita a pedir la Jannah, sino que pide también lo que acerca a ella de palabra u obra; así la esperanza se une a las decisiones de cada día.
 
 <!-- unit:end -->
 
@@ -62,11 +62,11 @@ Los textos revelan tres dimensiones:
 
 #### Explicación Académica
 
-La gente de entendimiento reunió fe, petición de perdón, buen final, y pedir lo que Allah prometió por boca de Sus mensajeros. Ibn al-Qayyim explicó que pedir el cumplimiento de la promesa incluye pedir éxito y firmeza para lograr las causas de ese cumplimiento; el du'a mismo es una de esas causas, no una duda sobre la veracidad de la promesa.[^2]
+La gente de entendimiento reunió en su súplica la fe, la petición de perdón, el buen final y la petición de lo que Allah prometió por boca de Sus mensajeros. Ibn al-Qayyim explicó que pedir el cumplimiento de la promesa incluye pedir la asistencia divina (tawfiq), la firmeza y la ayuda para cumplir los medios por los que se alcanza esa promesa; el du'a mismo es uno de esos medios, no una duda sobre la veracidad de la promesa.[^2]
 
 #### Explicación de la Lección
 
-Quien cree verdaderamente en la Jannah no deja de pedirla; su necesidad de Allah solo aumenta. Le pide perdón, firmeza, y morir junto con los justos, y luego le pide el cumplimiento pleno de la promesa. Así el anhelo se vuelve adoración que reúne corazón, lengua y obra.
+Quien cree verdaderamente en la Jannah no deja de pedirla; su necesidad de Allah solo aumenta. Le pide perdón, firmeza y morir junto con los justos, y luego le pide el cumplimiento pleno de la promesa. Así el anhelo se vuelve adoración que reúne corazón, lengua y obra.
 
 <!-- evidence:end -->
 
@@ -78,15 +78,15 @@ Quien cree verdaderamente en la Jannah no deja de pedirla; su necesidad de Allah
 
 <!-- evidence:translation -->
 
-> Narró Yabir, que Allah esté complacido con él, relatando la historia de Mu'adh, que el Profeta, la paz y las bendiciones de Allah sean con él, dijo al joven: **«¿Qué haces, hijo de mi hermano, cuando rezas?» Dijo: Recito la Apertura del Libro, pido a Allah la Jannah y me refugio en Él del Fuego; y no sé lo que dandanáis tú ni Mu'adh (esto es, no distingo las palabras que murmuráis). Dijo el Mensajero de Allah, la paz y las bendiciones de Allah sean con él: «Mu'adh y yo giramos en torno a esas dos cosas», o algo semejante.**[^3]
+> Narró Yabir, que Allah esté complacido con él, relatando la historia de Mu'adh, que el Profeta, la paz y las bendiciones de Allah sean con él, dijo al joven: **«¿Qué haces, hijo de mi hermano, cuando rezas?» Dijo: Recito la Apertura del Libro, pido a Allah la Jannah y me refugio en Él del Fuego; pero no entiendo tu dandanah ni la de Mu'adh. Dijo el Mensajero de Allah, la paz y las bendiciones de Allah sean con él: «Mu'adh y yo giramos en torno a esas dos cosas», o algo semejante.**[^3]
 
 #### Explicación Académica
 
-La `dandanah` es un habla cuyo sonido se percibe sin que sus palabras se aclaren del todo. El joven recita la Apertura, y reúne su du'a en pedir la Jannah y refugiarse del Fuego. El Profeta confirmó el fondo de su intención, aclarando que su du'a y el de Mu'adh, por largos o variados que sean, giran en torno a esas dos metas.
+La `dandanah` es un hablar cuyo sonido se oye sin que sus palabras se distingan con claridad. El joven contó que recitaba la Apertura y que luego reunía su du'a en pedir la Jannah y refugiarse del Fuego. El Profeta aprobó el fondo de su intención y aclaró que su propio du'a y el de Mu'adh, por largos o variados que sean, giran en torno a esas mismas dos metas.
 
 #### Explicación de la Lección
 
-La sinceridad del du'a no exige elocuencia complicada ni frases largas. El musulmán aprende los du'as transmitidos, y también puede pedir su necesidad con palabras claras. Lo importante: que la gran meta no se pierda de vista — salvarse del Fuego y alcanzar la Jannah — junto con la oración y obrar lo que acerca a Allah.
+La sinceridad del du'a no exige elocuencia complicada ni frases largas. El musulmán aprende los du'as transmitidos que reúnen muchos significados, y también puede pedir lo que necesita con palabras claras y correctas. Lo importante es no perder de vista la gran meta —salvarse del Fuego y alcanzar la Jannah—, cuidando la oración y obrando lo que acerca a Allah.
 
 <!-- evidence:end -->
 
@@ -98,7 +98,7 @@ La sinceridad del du'a no exige elocuencia complicada ni frases largas. El musul
 
 <!-- evidence:translation -->
 
-> Narró Aisha, que Allah esté complacido con ella, que el Mensajero de Allah, la paz y las bendiciones de Allah sean con él, le enseñó este du'a: **«Oh Allah, te pido todo el bien, el inmediato y el diferido, lo que conozco de él y lo que no conozco, y me refugio en Ti de todo el mal, el inmediato y el diferido, lo que conozco de él y lo que no conozco. Oh Allah, te pido lo mejor que Te pidió Tu siervo y profeta, y me refugio en Ti de lo peor de lo que se refugió Tu siervo y profeta. Oh Allah, te pido la Jannah y lo que acerque a ella de palabra u obra, y me refugio en Ti del Fuego y de lo que acerque a él de palabra u obra, y te pido que hagas bueno para mí todo decreto que decretes.»**[^4]
+> Narró Aisha, que Allah esté complacido con ella, que el Mensajero de Allah, la paz y las bendiciones de Allah sean con él, le enseñó este du'a: **«Oh Allah, te pido todo el bien, el inmediato y el diferido, lo que conozco de él y lo que no conozco, y me refugio en Ti de todo el mal, el inmediato y el diferido, lo que conozco de él y lo que no conozco. Oh Allah, te pido del bien que te pidió Tu siervo y profeta, y me refugio en Ti del mal del que se refugió en Ti Tu siervo y profeta. Oh Allah, te pido la Jannah y lo que acerque a ella de palabra u obra, y me refugio en Ti del Fuego y de lo que acerque a él de palabra u obra, y te pido que todo lo que decretes para mí sea un bien.»**[^4]
 
 #### Explicación Académica
 
@@ -116,11 +116,11 @@ El anhelo por la Jannah no se conforma con decir «la quiero»; el siervo pide a
 
 ## Preguntas para la Comprensión y la Reflexión
 
-1. ¿Por qué piden los creyentes a Allah Su promesa a pesar de su certeza de que Él no falta a ella?
-2. ¿Qué corrigió la respuesta del Profeta, la paz y las bendiciones de Allah sean con él, al joven sobre la comprensión del du'a?
+1. ¿Por qué piden los creyentes a Allah que cumpla Su promesa, aun estando seguros de que Él nunca falta a ella?
+2. ¿Qué idea sobre el du'a corrigió la respuesta que el Profeta, la paz y las bendiciones de Allah sean con él, dio al joven?
 3. ¿Cómo vincula el hadiz de Aisha, que Allah esté complacido con ella, la esperanza con la responsabilidad?
 4. ¿Cuál es la diferencia entre un anhelo que solo aparece en las palabras y uno que cambia las decisiones?
-5. ¿Qué momento fijo de tu día podrías vincular con pedir la Jannah y una obra que acerque a ella?
+5. ¿En qué momento fijo de tu día podrías unir la petición de la Jannah con una obra que acerque a ella?
 
 <!-- unit:end -->
 
@@ -130,7 +130,7 @@ El anhelo por la Jannah no se conforma con decir «la quiero»; el siervo pide a
 
 <!-- activity:start audience="adults" concept_id="lesson.011.activity.ask-and-act-pairing" -->
 
-Crea una tabla de cuatro filas: **situación recurrente, du'a, palabra u obra que acerca, obstáculo previsto**. Elige situaciones reales: despertar, después de la oración, inicio del trabajo, desacuerdo familiar. Escribe una fórmula correcta con la que pidas la Jannah, y vincúlala con un acto observable en veinticuatro horas — corregir una palabra hiriente, orar a su hora, dar limosna oculta. Añade una manera de superar el obstáculo, y revisa al final de la semana si el du'a orientó tu conducta.
+Crea una tabla de cuatro filas: **situación recurrente, du'a, palabra u obra que acerca, obstáculo previsto**. Elige situaciones reales, como despertarte, terminar la oración, empezar el trabajo o un desacuerdo familiar. Para cada situación, escribe una fórmula correcta con la que pidas la Jannah y vincúlala con un acto observable en las siguientes veinticuatro horas: reparar una palabra hiriente, rezar a su hora o dar una limosna en secreto. Añade una manera de superar el obstáculo y revisa al final de la semana si el du'a siguió separado de tu conducta o empezó a orientarla.
 
 <!-- activity:end -->
 
@@ -138,13 +138,13 @@ Crea una tabla de cuatro filas: **situación recurrente, du'a, palabra u obra qu
 
 <!-- reader:end -->
 
-<!-- reader:start audience="4-7" estimated_minutes="5.0" -->
+<!-- reader:start audience="4-7" estimated_minutes="4.0" -->
 
 <!-- unit:start id="4-7.explanation" kind="explanation" -->
 
 ## Para Niños de 4 a 7 Años
 
-La Jannah es la casa más hermosa que Allah preparó para Sus siervos creyentes. Nosotros pedimos a Allah la Jannah con palabras claras, y luego hacemos el bien que Él ama: rezamos, damos limosna, somos compasivos, y pedimos perdón cuando nos equivocamos. Cuando decimos: «Oh Allah, te pido la Jannah», recordamos que nuestra lengua pide, nuestro corazón tiene esperanza, y nuestras manos hacen el bien.
+La Jannah es la casa más hermosa que Allah preparó para Sus siervos creyentes. Nosotros pedimos a Allah la Jannah con palabras claras, y luego hacemos el bien que Él ama: rezamos, damos limosna, somos compasivos y pedimos perdón cuando nos equivocamos. Cuando decimos: «Oh Allah, te pido la Jannah», recordamos que nuestra lengua pide, nuestro corazón tiene esperanza y nuestras manos hacen el bien.
 
 <!-- unit:end -->
 
@@ -156,11 +156,11 @@ La Jannah es la casa más hermosa que Allah preparó para Sus siervos creyentes.
 
 <!-- retelling:start source_id="abudawud-793" audience="4-7" -->
 
-En la historia de cuando Mu'adh, que Allah esté complacido con él, dirigía la oración con la gente, el Profeta, la paz y las bendiciones de Allah sean con él, preguntó a un joven: «¿Qué haces cuando rezas?» El joven dijo que recitaba la sura de la Apertura, y que pedía a Allah la Jannah, y le pedía que lo protegiera del Fuego. Luego dijo que no conocía las muchas palabras que escuchaba en el du'a del Profeta, la paz y las bendiciones de Allah sean con él, y en el de Mu'adh.
+En la historia de cuando Mu'adh, que Allah esté complacido con él, dirigía la oración de la gente, el Profeta, la paz y las bendiciones de Allah sean con él, preguntó a un joven: «¿Qué haces cuando rezas?» El joven dijo que recitaba la sura de la Apertura, que pedía a Allah la Jannah y que le pedía que lo protegiera del Fuego. Luego dijo que no conocía las muchas palabras que escuchaba en el du'a del Profeta, la paz y las bendiciones de Allah sean con él, y en el de Mu'adh.
 
-El Profeta, la paz y las bendiciones de Allah sean con él, no se burló de sus pocas palabras; al contrario, le dijo que su du'a y el de Mu'adh giraban en torno a esas dos metas: la Jannah y salvarse del Fuego.[^3]
+El Profeta, la paz y las bendiciones de Allah sean con él, no se burló de sus pocas palabras; al contrario, le dijo que su propio du'a y el de Mu'adh también giraban en torno a esas dos metas: la Jannah y salvarse del Fuego.[^3]
 
-Aprendemos del joven a decir un du'a correcto que comprendamos, y de la respuesta del Profeta, la paz y las bendiciones de Allah sean con él, aprendemos que pedir la Jannah es un propósito grandioso. Luego damos a nuestros pies un paso de bien que corresponda a lo que pidieron nuestras lenguas.
+Aprendemos del joven a decir un du'a correcto que comprendamos, y de la respuesta del Profeta, la paz y las bendiciones de Allah sean con él, aprendemos que pedir la Jannah es un propósito muy grande. Después, nuestros pies dan un paso de bien que va de acuerdo con lo que pidió nuestra lengua.
 
 <!-- retelling:end -->
 
@@ -180,11 +180,11 @@ Aprendemos del joven a decir un du'a correcto que comprendamos, y de la respuest
 
 <!-- unit:start id="4-7.activity" kind="activity" -->
 
-### Actividad: Burbuja de Du'a y Paso de Bien
+### Actividad: Globo de Du'a y Paso de Bien
 
 <!-- activity:start audience="4-7" concept_id="lesson.011.activity.ask-and-act-pairing" -->
 
-Dibuja una burbuja de diálogo grande y junto a ella una huella de pie. Dentro de la burbuja, el niño dibuja un corazón o un jardín para recordar la petición de la Jannah, y dice junto al adulto: «Oh Allah, te pido la Jannah». Dentro de la huella, dibuja una obra que hará mañana, como decir la verdad, ayudar en casa, o rezar. El niño explica: «Le pedí a Allah la Jannah, y mi paso es…».
+Dibuja un globo de diálogo grande y junto a él una huella de pie. Dentro del globo, el niño dibuja un corazón o un jardín para recordar la petición de la Jannah, y dice con el adulto: «Oh Allah, te pido la Jannah». Dentro de la huella, dibuja una obra que hará mañana, como decir la verdad, ayudar en casa o rezar. El niño explica: «Le pedí a Allah la Jannah, y mi paso es…».
 
 <!-- activity:end -->
 
@@ -205,15 +205,15 @@ Dibuja una burbuja de diálogo grande y junto a ella una huella de pie. Dentro d
 
 <!-- reader:end -->
 
-<!-- reader:start audience="8-12" estimated_minutes="5.5" -->
+<!-- reader:start audience="8-12" estimated_minutes="5.0" -->
 
 <!-- unit:start id="8-12.explanation" kind="explanation" -->
 
 ## Para Niños de 8 a 12 Años
 
-El anhelo por la Jannah no es solo imaginar un lugar hermoso. Es que la Jannah permanezca como una meta presente en el du'a y en la elección. Pedimos a Allah la Jannah porque no la alcanzamos con nuestra sola fuerza, y le pedimos las palabras y obras que acercan a ella porque el du'a sincero orienta la conducta.
+El anhelo por la Jannah no es solo imaginar un lugar hermoso. Es mantener la Jannah como una meta presente en tus du'as y en tus decisiones. Pedimos a Allah la Jannah porque no la alcanzamos con nuestra sola fuerza, y le pedimos las palabras y obras que acercan a ella porque el du'a sincero orienta la conducta.
 
-Tu du'a puede ser breve y correcto, o un du'a profético que reúna muchos significados. No compares la extensión de tu du'a con la de otro, ni repitas palabras que no comprendes sin prestar atención. Aprende el significado, pide con sinceridad, y luego haz que el du'a tenga un efecto claro en tu día.
+Tu du'a puede ser breve y correcto, o un du'a profético que reúna muchos significados. No compares la extensión de tu du'a con la de otro, ni repitas sin prestar atención palabras que no comprendes. Aprende el significado, pide con sinceridad y luego haz que el du'a tenga un efecto claro en tu día.
 
 <!-- unit:end -->
 
@@ -225,11 +225,11 @@ Tu du'a puede ser breve y correcto, o un du'a profético que reúna muchos signi
 
 <!-- retelling:start source_id="abudawud-793" audience="8-12" -->
 
-Mu'adh ibn Yabal, que Allah esté complacido con él, dirigía la oración con la gente, y en esa historia el Profeta, la paz y las bendiciones de Allah sean con él, preguntó a un joven qué hacía en su oración. El joven respondió con claridad: recita la Apertura del Libro, pide a Allah la Jannah, y se refugia en Él del Fuego. Luego reconoció que no conocía la dandanah del Profeta, la paz y las bendiciones de Allah sean con él, ni la de Mu'adh; es decir, no comprendía todo lo que escuchaba de su du'a.
+Mu'adh ibn Yabal, que Allah esté complacido con él, dirigía la oración de la gente, y en esa historia el Profeta, la paz y las bendiciones de Allah sean con él, preguntó a un joven qué hacía en su oración. El joven respondió con claridad: recitaba la Apertura del Libro, pedía a Allah la Jannah y se refugiaba en Él del Fuego. Luego reconoció que no conocía la dandanah del Profeta, la paz y las bendiciones de Allah sean con él, ni la de Mu'adh; es decir, no comprendía todo lo que escuchaba de su du'a.
 
-El joven pudo haber pensado que su du'a valía menos por ser breve, pero la respuesta del Profeta, la paz y las bendiciones de Allah sean con él, devolvió la balanza al significado: dijo que su du'a y el de Mu'adh giraban en torno a esas dos metas, o algo semejante.[^3]
+El joven pudo haber pensado que su du'a valía menos por ser breve, pero la respuesta del Profeta, la paz y las bendiciones de Allah sean con él, volvió a poner el criterio en el significado: dijo que su propio du'a y el de Mu'adh giraban en torno a esas mismas dos metas, o algo semejante.[^3]
 
-Esa respuesta no invitaba a abandonar los du'as proféticos que reúnen muchos significados, ni a conformarse siempre con la palabra más corta. Más bien enseñó al joven que pedir la Jannah y refugiarse del Fuego es un centro grandioso entre los centros del du'a. Y cada vez que el musulmán aprende un du'a nuevo, comprende su significado y lo vincula con una obra: pide la Jannah, y luego elige la sinceridad, la oración, o la misericordia que lo acercan al agrado de Allah.
+Esa respuesta no invitaba a abandonar los du'as proféticos que reúnen muchos significados, ni a conformarse siempre con la palabra más corta. Más bien enseñó al joven que pedir la Jannah y refugiarse del Fuego es uno de los grandes ejes del du'a. Y cada vez que el musulmán aprende un du'a nuevo, comprende su significado y lo vincula con una obra: pide la Jannah y luego elige la honestidad, la oración o la misericordia que lo acercan al agrado de Allah.
 
 <!-- retelling:end -->
 
@@ -265,7 +265,7 @@ Esa respuesta no invitaba a abandonar los du'as proféticos que reúnen muchos s
 
 <!-- activity:start audience="8-12" concept_id="lesson.011.activity.ask-and-act-pairing" -->
 
-Haz tres tarjetas. Escribe en la parte superior de cada una un momento fijo: después de una oración, antes de dormir, o cuando sientas enojo. En el centro escribe una petición correcta de la Jannah, y abajo escribe una palabra u obra adecuada a ese momento que acerque al agrado de Allah. Ejemplo del enojo: «Pido a Allah la Jannah» y luego «controlo mi lengua y aplazo una respuesta hiriente». Elige una tarjeta para practicarla siete días, y marca cada vez que se reúnan el du'a y la obra.
+Haz tres tarjetas. Escribe en la parte superior de cada una un momento fijo: después de una oración, antes de dormir, o cuando sientas enojo. En el centro escribe una petición correcta de la Jannah, y abajo escribe una palabra u obra adecuada a ese momento que acerque al agrado de Allah. Ejemplo para el enojo: «Pido a Allah la Jannah» y luego «controlo mi lengua y aplazo una respuesta hiriente». Elige una tarjeta para practicarla siete días, y marca cada vez que se reúnan el du'a y la obra.
 
 <!-- activity:end -->
 
@@ -280,7 +280,7 @@ Haz tres tarjetas. Escribe en la parte superior de cada una un momento fijo: des
 > **اللَّهُمَّ إِنِّي أَسْأَلُكَ الْجَنَّةَ وَمَا قَرَّبَ إِلَيْهَا مِنْ قَوْلٍ أَوْ عَمَلٍ، وَأَعُوذُ بِكَ مِنَ النَّارِ وَمَا قَرَّبَ إِلَيْهَا مِنْ قَوْلٍ أَوْ عَمَلٍ.**
 > «Oh Allah, te pido la Jannah y lo que acerque a ella de palabra u obra, y me refugio en Ti del Fuego y de lo que acerque a él de palabra u obra.»[^4]
 
-Antes de dormir, elige una palabra buena o una obra correcta con la que planees comenzar mañana.
+Antes de dormir, elige una palabra buena o una buena obra con la que tengas intención de empezar mañana.
 
 <!-- bedtime-dua:end -->
 
@@ -296,7 +296,7 @@ Antes de dormir, elige una palabra buena o una obra correcta con la que planees 
 
 La Jannah puede convertirse, en el discurso religioso, en una palabra familiar que no influye en la agenda del día, o en una imagen emocional separada de la responsabilidad. La revelación restablece el vínculo entre la meta y el camino: el creyente pide a Allah lo prometido, pide explícitamente la Jannah, y le pide también lo que acerca a ella de palabra u obra.
 
-Este vínculo corrige dos desequilibrios. El primero es confiar tanto en el propio plan y disciplina que se debilite la necesidad de Allah. El segundo es conformarse con desear mientras continúan las elecciones que corrompen el corazón. El du'a correcto forma una tercera actitud: **necesidad sincera, meta clara, y esfuerzo responsable**.
+Este vínculo corrige dos desequilibrios. El primero es confiar tanto en el propio plan y disciplina que se debilite la necesidad de Allah. El segundo es conformarse con desear mientras continúan las elecciones que corrompen el corazón. El du'a correcto forma una tercera actitud: **necesidad sincera de Allah, meta clara y esfuerzo responsable**.
 
 La calidad del du'a no se mide solo por su extensión. Los du'as proféticos que reúnen muchos significados son un tesoro cuyas palabras y significados aprendemos, pero el hadiz del joven impide convertir la elocuencia en una barrera o en motivo de comparación. Puedes comenzar con palabras correctas que comprendas, luego aprender y aumentar, mientras el corazón permanece presente y la obra sigue a la esperanza.
 
@@ -310,11 +310,11 @@ La calidad del du'a no se mide solo por su extensión. Los du'as proféticos que
 
 <!-- retelling:start source_id="abudawud-793" audience="13+" -->
 
-Narra Yabir, que Allah esté complacido con él, dentro de la historia de Mu'adh, que el Profeta, la paz y las bendiciones de Allah sean con él, hizo a un joven una pregunta directa: «¿Qué haces, hijo de mi hermano, cuando rezas?» El joven no pretendió saber lo que no sabía, sino que describió su adoración tal como era: recita la Apertura, pide a Allah la Jannah, y se refugia en Él del Fuego. Luego dijo que no conocía la dandanah del Profeta, la paz y las bendiciones de Allah sean con él, ni la de Mu'adh; es decir, no distinguía con claridad las palabras del du'a cuyo tono escuchaba.
+Narra Yabir, que Allah esté complacido con él, dentro de la historia de Mu'adh, que el Profeta, la paz y las bendiciones de Allah sean con él, hizo a un joven una pregunta directa: «¿Qué haces, hijo de mi hermano, cuando rezas?» El joven no pretendió saber lo que no sabía, sino que describió su adoración tal como era: recitaba la Apertura, pedía a Allah la Jannah y se refugiaba en Él del Fuego. Luego dijo que no conocía la dandanah del Profeta, la paz y las bendiciones de Allah sean con él, ni la de Mu'adh; es decir, no distinguía con claridad las palabras del du'a cuyo tono escuchaba.
 
-El Profeta, la paz y las bendiciones de Allah sean con él, le respondió que su du'a y el de Mu'adh giraban en torno a esas dos metas, o dijo algo semejante.[^3] La respuesta preservó dos cosas a la vez: no convirtió la escasez de palabras en un defecto que apartara al joven del du'a, ni dejó el du'a vacío de significado; la intención del joven era precisa: la Jannah y la salvación del Fuego.
+El Profeta, la paz y las bendiciones de Allah sean con él, le respondió que su propio du'a y el de Mu'adh giraban en torno a esas mismas dos metas, o dijo algo semejante.[^3] La respuesta preservó dos cosas a la vez: no convirtió la escasez de palabras en un defecto que apartara al joven del du'a, ni dejó el du'a vacío de significado; la intención del joven era precisa: la Jannah y la salvación del Fuego.
 
-Esta situación resiste la presión de la actuación religiosa ante los demás. Puede que alguien memorice muchos textos, y que otro esté aún al inicio del aprendizaje; pero la sinceridad no exime del aprendizaje, y el aprendizaje no justifica la ostentación. La persona comienza con lo que comprende, aprende lo transmitido, hace presente su corazón, y luego se pregunta a sí misma: si pido la Jannah, ¿qué palabra o decisión debería cambiar hoy?
+Este episodio hace frente a la presión de aparentar religiosidad ante los demás. Puede que alguien memorice muchos textos, y que otro esté aún al inicio del aprendizaje; pero la sinceridad no exime del aprendizaje, y el aprendizaje no justifica la ostentación. La persona comienza con lo que comprende, aprende lo transmitido, mantiene presente el corazón y luego se pregunta: si pido la Jannah, ¿qué palabra o decisión debería cambiar hoy?
 
 <!-- retelling:end -->
 
@@ -351,7 +351,7 @@ Esta situación resiste la presión de la actuación religiosa ante los demás. 
 
 <!-- activity:start audience="13+" concept_id="lesson.011.activity.ask-and-act-pairing" -->
 
-Elige un detonante que se repita siete días, como abrir el teléfono por la mañana, terminar la oración, comenzar a estudiar, o el surgimiento de un desacuerdo. Escribe un plan de tres líneas: **la meta:** quiero el agrado de Allah y la Jannah; **el du'a:** una fórmula correcta y fija con la que pidas la Jannah; **la decisión:** una conducta concreta verificable en ese mismo instante. Añade un obstáculo previsto y un plan «si sucede… entonces haré…». Después de una semana, evalúa con sinceridad: ¿aumentó la frecuencia del du'a? ¿Cambió al menos una decisión? No registres pecados privados ni compartas el plan con el grupo salvo por elección propia.
+Elige un detonante que se repita siete días, como abrir el teléfono por la mañana, terminar la oración, comenzar a estudiar o que surja un desacuerdo. Escribe un plan de tres líneas: **la meta:** quiero el agrado de Allah y la Jannah; **el du'a:** una fórmula correcta y fija con la que pidas la Jannah; **la decisión:** una conducta concreta verificable en ese mismo instante. Añade un obstáculo previsto y un plan «si sucede… entonces haré…». Después de una semana, evalúa con sinceridad: ¿aumentó la frecuencia del du'a? ¿Cambió al menos una decisión? No registres pecados privados ni compartas el plan con el grupo salvo por elección propia.
 
 <!-- activity:end -->
 
@@ -420,25 +420,25 @@ Después del du'a, nombra en tu interior una palabra u obra que quieras que te a
 **Resultados de aprendizaje:** que el niño mencione que el joven pidió a Allah la Jannah, repita un du'a correcto, vincule el du'a con una buena obra, y sepa que unas pocas palabras comprendidas son aceptables.
 
 <!-- lesson-plan:materials -->
-**Materiales:** hoja con burbuja de diálogo y huella de pie; colores seguros; dos imágenes sencillas de la oración y una buena obra; tarjeta del du'a con letra clara.
+**Materiales:** hoja con globo de diálogo y huella de pie; colores seguros; dos imágenes sencillas de la oración y una buena obra; tarjeta del du'a con letra clara.
 
 <!-- lesson-plan:preparation -->
 **Preparación:** el maestro prepara el modelo de la actividad sin imágenes del Profeta, la paz y las bendiciones de Allah sean con él, ni de los Compañeros, practica narrar el hadiz sin detalles inventados, y elige ejemplos de bien cercanos al mundo del niño.
 
 <!-- lesson-plan:opening -->
-**Apertura — 4 minutos:** pregunta: «¿Qué cosa hermosa le pedimos a Allah?» Escucha, y luego dice que la lección de hoy trata de un joven que pidió la casa más grande de todas: la Jannah.
+**Apertura — 4 minutos:** pregunta: «¿Qué cosa hermosa le pedimos a Allah?» Escucha, y luego dice que la lección de hoy trata de un joven que pidió la casa más grandiosa de todas: la Jannah.
 
 <!-- lesson-plan:evidence -->
 **Lectura de la prueba — 6 minutos:** el maestro narra la historia del hadiz enseñada en la lección, y detiene el relato en la respuesta del joven para preguntar a los niños qué le pidió a Allah, y luego completa la respuesta del Profeta, la paz y las bendiciones de Allah sean con él.
 
 <!-- lesson-plan:instruction -->
-**Enseñanza guiada — 5 minutos:** levanta la tarjeta de la burbuja de diálogo al decir «pido a Allah la Jannah» y la tarjeta del pie al decir «hago el bien». Aclara que el du'a y la obra se reúnen, y que el niño puede suplicar con palabras correctas que comprenda.
+**Enseñanza guiada — 5 minutos:** levanta la tarjeta del globo de diálogo al decir «pido a Allah la Jannah» y la tarjeta del pie al decir «hago el bien». Aclara que el du'a y la obra se reúnen, y que el niño puede suplicar con palabras correctas que comprenda.
 
 <!-- lesson-plan:activity -->
-**Actividad — 9 minutos:** los niños dibujan dentro de la burbuja un símbolo de la Jannah sin necesidad de escribir, y dentro del pie una buena obra. El adulto ayuda al niño a decir la frase «mi du'a es… y mi paso es…», sin comparar los dibujos ni las obras.
+**Actividad — 9 minutos:** los niños dibujan dentro del globo un símbolo de la Jannah sin necesidad de escribir, y dentro del pie una buena obra. El adulto ayuda al niño a decir la frase «mi du'a es… y mi paso es…», sin comparar los dibujos ni las obras.
 
 <!-- lesson-plan:assessment -->
-**Evaluación y cierre — 6 minutos:** pregunta: «¿Qué pidió el joven? ¿Qué hacemos después del du'a?» Pide a los niños señalar primero la burbuja y luego el pie, y lee el du'a profético despacio para que repitan lo que puedan.
+**Evaluación y cierre — 6 minutos:** pregunta: «¿Qué pidió el joven? ¿Qué hacemos después del du'a?» Pide a los niños señalar primero el globo y luego el pie, y lee el du'a profético despacio para que repitan lo que puedan.
 
 <!-- lesson-plan:differentiation -->
 **Atención a las diferencias:** se permite responder señalando o con una imagen ya preparada, se divide el du'a en frases cortas, y al niño mayor se le pide mencionar una situación en la que elija una buena palabra.
@@ -453,7 +453,7 @@ Después del du'a, nombra en tu interior una palabra u obra que quieras que te a
 ### Niños de 8 a 12 — 45 minutos
 
 <!-- lesson-plan:outcomes -->
-**Resultados de aprendizaje:** que el estudiante resuma con precisión la situación del joven, explique el significado de dandanah y del refugio en Allah, distinga entre un du'a formal y uno que orienta la conducta, y diseñe una tarjeta aplicable durante siete días.
+**Resultados de aprendizaje:** que el estudiante resuma con precisión la situación del joven, explique el significado de dandanah y del refugio en Allah, distinga entre un du'a de pura forma y uno que orienta la conducta, y diseñe una tarjeta aplicable durante siete días.
 
 <!-- lesson-plan:materials -->
 **Materiales:** texto del hadiz de Abu Dawud; tarjetas de los dos términos; plantillas «du'a y paso»; bolígrafos; pegatinas de seguimiento opcionales.
@@ -468,7 +468,7 @@ Después del du'a, nombra en tu interior una palabra u obra que quieras que te a
 **Estudio de la prueba — 10 minutos:** los estudiantes leen el hadiz del joven, subrayan lo que hacía en la oración y encierran en un círculo lo que pedía. Identifican la pregunta, la respuesta del joven, y el comentario del Profeta, la paz y las bendiciones de Allah sean con él.
 
 <!-- lesson-plan:instruction -->
-**Enseñanza guiada — 8 minutos:** el maestro explica los dos términos, luego equilibra entre comenzar con un du'a comprensible y aprender los du'as proféticos. Vincula esto con la frase de Ibn Mayah: «y lo que acerque a ella de palabra u obra».
+**Enseñanza guiada — 8 minutos:** el maestro explica los dos términos, luego muestra el equilibrio entre comenzar con un du'a comprensible y aprender los du'as proféticos. Vincula esto con la frase de Ibn Mayah: «y lo que acerque a ella de palabra u obra».
 
 <!-- lesson-plan:activity -->
 **Actividad — 14 minutos:** los estudiantes diseñan tres tarjetas y eligen una para practicarla. Cada pareja intercambia una tarjeta general para revisar la claridad del momento, el du'a y la obra, con derecho del estudiante a mantener su propio plan en privado.
