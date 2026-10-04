@@ -31,7 +31,7 @@ After this lesson, the learner will be able to:
 
 ## Academic Section for Adults
 
-<!-- reader:start audience="adults" estimated_minutes="6.5" -->
+<!-- reader:start audience="adults" estimated_minutes="7.0" -->
 
 <!-- unit:start id="adults.explanation" kind="explanation" -->
 
@@ -57,7 +57,7 @@ The lesson completes the earlier lesson in this series on the eternity of Jannah
 
 #### Scholarly Explanation
 
-The narration in Muslim adds: "and it will be made to stand between Jannah and the Fire," and "the command will be given concerning it, and it will be slaughtered," and at its end: "and he pointed with his hand toward this world."[^1] *Amlah* describes an animal whose white is mixed with black, and *yashra'ibbun* means that they stretch out their necks and lift their heads, straining to see.[^6] Ibn al-Qayyim, may Allah have mercy on him, established that this scene is a reality and not an allegory: Allah is able to make death take on the form of a ram that can be seen and slaughtered, just as He has told us that Surat al-Baqarah and Surat Al Imran will come on the Day of Resurrection as though they were two clouds.[^6] Ibn Kathir, may Allah have mercy on him, explained `when the matter will have been decided` to mean that the people of Jannah and the people of the Fire have been separated, and each has entered the abode that has become theirs, to remain there forever.[^4]
+The narration in Muslim adds: "and it will be made to stand between Jannah and the Fire," and "the command will be given concerning it, and it will be slaughtered," and at its end: "and he pointed with his hand toward this world."[^1] *Amlah* describes an animal whose white is mixed with black, and *yashra'ibbun* means that they stretch out their necks and lift their heads, straining to see.[^6] Ibn al-Qayyim, may Allah have mercy on him, affirmed that this scene is a reality and not an allegory: Allah is able to make death take on the form of a ram that can be seen and slaughtered, just as He has told us that Surat al-Baqarah and Surat Al Imran will come on the Day of Resurrection as though they were two clouds.[^6] Ibn Kathir, may Allah have mercy on him, explained `when the matter will have been decided` to mean that the people of Jannah and the people of the Fire have been separated, and each has entered the abode that has become theirs, to remain there forever.[^4]
 
 #### Lesson Explanation
 
@@ -127,7 +127,7 @@ These ayat name four faces of security: security on entering, security in the he
 
 ## Questions for Understanding and Reflection
 
-1. Why was it part of the completeness of the scene that everyone recognized death before it was slaughtered?
+1. Why is it integral to the scene that everyone recognizes death before it is slaughtered?
 2. According to the hadith of Ibn Umar, what is the difference between the bliss before the call and the bliss after it?
 3. Name the four faces of security in the ayat of al-Hijr. Which of them speaks most to what you need today?
 4. Why did the Prophet, peace and blessings be upon him, close the hadith with the ayah of warning and point toward this world?
@@ -142,7 +142,7 @@ These ayat name four faces of security: security on entering, security in the he
 
 <!-- activity:start audience="adults" concept_id="lesson.032.activity.before-the-day-of-regret" -->
 
-For seven nights, set aside two minutes before you sleep and write in two columns: "A deed I hope will add to my joy" and "A moment of heedlessness." Turn each moment of heedlessness into a specific fix to carry out the next day, and check it off once you have done it. On the seventh night, write two lines: Which heedlessness kept coming back, and which fix took hold?
+For seven nights, set aside two minutes before you sleep and write in two columns: "A deed I hope will add to my joy" and "A moment of heedlessness." Turn each moment of heedlessness into a specific fix to carry out the next day, and check it off once you have done it. On the seventh night, write two lines: Which kind of heedlessness kept coming back, and which fix took hold?
 
 <!-- activity:end -->
 
@@ -197,7 +197,7 @@ Here is what it means, simply: one day, death itself will come to an end, and th
 1. What did the people of Jannah do when they heard the call?
 2. What shape did death come in?
 3. What were the people of Jannah told at the very end?
-4. What lovely thing do you love, and feel happy that it will never end in Jannah?
+4. What is a lovely thing you love that you're happy will never end in Jannah?
 
 <!-- unit:end -->
 
@@ -317,7 +317,7 @@ Draw a chart with seven rows and three columns: "Something good I did today that
 
 > اللَّهُمَّ أَدْخِلْنَا الْجَنَّةَ آمِنِينَ، وَزِدْنَا فِيهَا فَرَحًا إِلَى فَرَحٍ، وَلَا تَجْعَلْنَا مِنَ الْغَافِلِينَ.
 
-Meaning: O Allah, admit us into Jannah safe from every fear, give us joy upon joy there, and do not make us among those who forget You and forget that Day.
+Meaning: O Allah, admit us into Jannah safe from every fear, give us joy upon joy there, and do not make us among those who forget You and forget that day.
 
 <!-- bedtime-dua:end -->
 
@@ -339,7 +339,7 @@ A lot of people deal with the thought of death in one of two ways: they run from
 
 <!-- terminology:start source_id="bukhari-4730" -->
 
-- **`Eternity (al-khulud)`** — permanent remaining with no interruption and no end; it is what is announced to the people of both abodes after death is slaughtered.[^1]
+- **`Eternity (al-khulud)`** — remaining forever, with no interruption and no end; it is what is announced to the people of both abodes after death is slaughtered.[^1]
 - **`Heedlessness (al-ghaflah)`** — when something tremendous is right in front of you and never crosses your heart, or crosses it without leaving a mark; in the ayah, it describes the people of this world.[^7]
 - **`Secure (aminin)`** — in the ayah of al-Hijr: safe from death, weariness, illness, sorrow, and any interruption of their bliss.[^5]
 
@@ -355,7 +355,7 @@ A lot of people deal with the thought of death in one of two ways: they run from
 
 **This is a true account narrated by Abu Sa'id al-Khudri, may Allah be pleased with him, from the Prophet, peace and blessings be upon him, in both Sahih al-Bukhari and Sahih Muslim. It is not an imagined scene.**
 
-Look at it from the side of the people of Jannah. Death and the reckoning are behind them; they have entered, and they have received what they were promised. The hadith does not describe what they feel before the call, but it does tell us that their joy grows after it.
+Look at it from the point of view of the people of Jannah. Death and the reckoning are behind them; they have entered, and they have received what they were promised. The hadith does not describe what they feel before the call, but it does tell us that their joy grows after it.
 
 Then the call comes: "O people of Jannah!" They crane their necks and look. Death is brought in the form of a black-and-white ram and made to stand between Jannah and the Fire. "Do you know what this is?" "Yes, this is death." Every one of them has seen it. The people of the Fire are called, and they recognize it too.
 
@@ -363,7 +363,7 @@ Notice the detail: eternity is not announced with a word alone. First death is p
 
 Then: "O people of Jannah, eternity, and no death. O people of the Fire, eternity, and no death."[^1] And in the narration of Ibn Umar, may Allah be pleased with them both: "So the people of Jannah will gain joy upon their joy, and the people of the Fire will gain grief upon their grief."[^2]
 
-Then comes the part you might miss: the Prophet, peace and blessings be upon him, did not end the hadith on the joy. He recited `And warn them of the Day of Regret, when the matter will have been decided, while they are in heedlessness and they do not believe`, and pointed with his hand toward this world.[^1] The whole scene takes place there, but the message is aimed here: at the person who burns hours with no purpose, at the one who keeps putting off prayer because he is "busy," at anyone who thinks time is an open account with no limit.
+Then comes the part you might miss: the Prophet, peace and blessings be upon him, did not end the hadith on the joy. He recited `And warn them of the Day of Regret, when the matter will have been decided, while they are in heedlessness and they do not believe`, and pointed with his hand toward this world.[^1] The whole scene takes place there, but the message is aimed here: at the person who burns through hours with no purpose, at the one who keeps putting off prayer because he is "busy," at anyone who thinks time is open-ended and will never run out.
 
 <!-- retelling:start source_id="bukhari-4730" audience="13+" -->
 
@@ -511,7 +511,7 @@ Meaning: O Allah, admit us into Jannah in complete security, give us joy upon jo
 **Studying the Evidence — 12 minutes:** Read the story while students arrange the four sequence cards as they listen (8 minutes), then explain the three terms and read the two ayat of al-Hijr (4 minutes).
 
 <!-- lesson-plan:instruction -->
-**Guided Instruction — 8 minutes:** The teacher asks questions 1, 2, and 4, and steers toward the point that because everyone recognizes death, its removal becomes a certainty beyond any doubt, and that the Prophet's gesture toward this world, peace and blessings be upon him, means that the time to act is now.
+**Guided Instruction — 8 minutes:** The teacher asks questions 1, 2, and 4, and steers toward the point that because everyone recognizes death, its removal becomes a certainty beyond any doubt, and that the gesture of the Prophet, peace and blessings be upon him, toward this world means that the time to act is now.
 
 <!-- lesson-plan:activity -->
 **Activity — 10 minutes:** Students fill in the first row of the chart about their own day; then pairs swap papers to check that each "fix" is specific, without reading the "moment I forgot" column unless its owner gives permission.
@@ -544,7 +544,7 @@ Meaning: O Allah, admit us into Jannah in complete security, give us joy upon jo
 **Opening — 5 minutes:** Put up the slogan "Live in the moment, you only live once" and ask: "What does this slogan get right? And what does it get wrong?"
 
 <!-- lesson-plan:evidence -->
-**Studying the Evidence — 12 minutes:** Read the scene, pausing at three moments: "Do you know what this is?", "Eternity, and no death," and the Prophet's gesture toward this world, peace and blessings be upon him. Then read the definition of heedlessness from the terms.
+**Studying the Evidence — 12 minutes:** Read the scene, pausing at three moments: "Do you know what this is?", "Eternity, and no death," and the gesture of the Prophet, peace and blessings be upon him, toward this world. Then read the definition of heedlessness from the terms.
 
 <!-- lesson-plan:instruction -->
 **Guided Instruction — 13 minutes:** Small groups discuss questions 3 and 4, followed by brief presentations. The teacher steers toward the point that Islam does not ask for constant anxious brooding over death, but for an awareness that moves a person to act and brings the heart peace. Open the anonymous question cards for question 5.

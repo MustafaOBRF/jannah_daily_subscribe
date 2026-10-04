@@ -32,7 +32,7 @@ Después de esta lección, el aprendiz será capaz de:
 
 ## Sección académica para adultos
 
-<!-- reader:start audience="adults" estimated_minutes="6.5" -->
+<!-- reader:start audience="adults" estimated_minutes="7.0" -->
 
 <!-- unit:start id="adults.explanation" kind="explanation" -->
 
@@ -92,7 +92,7 @@ Dice Ibn Kazir: "No padecen calor que incomode ni frío que haga daño, sino un 
 
 #### Explicación de la lección
 
-La aleya niega el sol, no la luz. La luz del Paraíso no es la de un sol que quema y se pone, sino una luz que ni hace daño ni se acaba. Lo que vaya más allá de eso en su descripción pertenece a lo oculto (al-gaib), y ahí nos detenemos en lo que está firmemente establecido.
+La aleya niega el sol, no la luz. La luz del Paraíso no es la de un sol que quema y se pone, sino una luz que ni hace daño ni se acaba. Lo que vaya más allá de eso en su descripción pertenece a lo oculto (al-gaib), y en ello no vamos más allá de lo que está firmemente establecido.
 
 <!-- evidence:end -->
 
@@ -112,11 +112,11 @@ El hadiz completo describe además la pureza de sus cuerpos, la fragancia de su 
 
 #### Interpretación académica
 
-`Az-zumra` es el grupo o la compañía. `Al-kawkab ad-durri` es el astro de brillo intensísimo, llamado así como si se lo relacionara con la perla (ad-durr) por su limpidez. El hadiz es de los que coinciden al-Bujari y Muslim (muttafaq 'alayh), y Muslim lo recoge con una redacción semejante.[^6]
+`Az-zumra` es el grupo o la compañía. `Al-kawkab ad-durri` es el astro de brillo intensísimo, llamado así como si se lo relacionara con la perla (ad-durr) por su limpidez. Es un hadiz en el que coinciden al-Bujari y Muslim (muttafaq 'alayh), y Muslim lo recoge con una redacción semejante.[^6]
 
 #### Explicación de la lección
 
-En el Paraíso, la luz tiene otro lugar además del espacio: los rostros de su gente. Y es una luz con grados: los primeros, como la luna en su plenitud; los que los siguen, como las estrellas más brillantes. Esto concuerda con la aleya de Al-Hadid: la luz se da en la medida de la fe y de las obras. Y este resplandor está prometido a los creyentes de todo color y de todo pueblo; el color de la piel no tiene en él parte alguna.
+En el Paraíso, la luz no está solo en el lugar: tiene otra morada, los rostros de su gente. Y es una luz con grados: los primeros, como la luna en su plenitud; los que los siguen, como las estrellas más brillantes. Esto concuerda con la aleya de Al-Hadid: la luz se da en la medida de la fe y de las obras. Y este resplandor está prometido a los creyentes de todo color y de todo pueblo; el color de la piel no tiene en él parte alguna.
 
 <!-- evidence:end -->
 
@@ -200,7 +200,7 @@ Traza dos columnas: "Luz prestada" y "Luz propia". En la primera escribe lo que,
 
 ## Para niños de 4 a 7 años
 
-<!-- reader:start audience="4-7" estimated_minutes="5.0" -->
+<!-- reader:start audience="4-7" estimated_minutes="6.5" -->
 
 <!-- unit:start id="4-7.explanation" kind="explanation" -->
 
@@ -305,7 +305,7 @@ El Profeta, la paz y las bendiciones de Allah sean con él, pedía a Allah con e
 
 ## Para niños de 8 a 12 años
 
-<!-- reader:start audience="8-12" estimated_minutes="6.0" -->
+<!-- reader:start audience="8-12" estimated_minutes="7.0" -->
 
 <!-- unit:start id="8-12.explanation" kind="explanation" -->
 
@@ -420,7 +420,7 @@ El Profeta, la paz y las bendiciones de Allah sean con él, decía esta súplica
 
 ## Para adolescentes de 13+
 
-<!-- reader:start audience="13+" estimated_minutes="6.5" -->
+<!-- reader:start audience="13+" estimated_minutes="7.0" -->
 
 <!-- unit:start id="13+.explanation" kind="explanation" -->
 
@@ -516,7 +516,7 @@ Escribe en privado dos columnas: "Luz prestada", para todo lo que te hace parece
 
 <!-- bedtime-dua:start audience="13+" id="lesson.038.dua.light-in-heart-and-all-sides" provenance="sunnah" source_id="bukhari-6316" attribution="prophetic" -->
 
-Ibn Abbas, que Allah esté complacido con ambos, se la oyó al Profeta, la paz y las bendiciones de Allah sean con él, una noche que durmió en su casa; y según una versión de Muslim, la decía al salir hacia la oración:
+Ibn Abbas, que Allah esté complacido con ambos, pasó una noche en casa del Profeta, la paz y las bendiciones de Allah sean con él, y le oyó pronunciar esta súplica; y según una versión de Muslim, la decía al salir hacia la oración:
 
 > **اللَّهُمَّ اجْعَلْ فِي قَلْبِي نُورًا، وَفِي بَصَرِي نُورًا، وَفِي سَمْعِي نُورًا، وَعَنْ يَمِينِي نُورًا، وَعَنْ يَسَارِي نُورًا، وَفَوْقِي نُورًا، وَتَحْتِي نُورًا، وَأَمَامِي نُورًا، وَخَلْفِي نُورًا، وَاجْعَلْ لِي نُورًا.**[^9]
 >

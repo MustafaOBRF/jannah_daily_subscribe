@@ -1,5 +1,5 @@
 ---
-title: "Les Seigneurs de la Jannah et Ceux à Qui Elle Fut Annoncée"
+title: "Les seigneurs de la Jannah et ceux à qui elle fut annoncée"
 lesson_id: "lesson.021"
 topic_id: "jannah.021"
 translation_key: "jannah.named_glad_tidings"
@@ -15,40 +15,40 @@ activity_concept_id: "lesson.021.activity.doorkeeper-glad-tidings-card"
 bedtime_dua_id: "lesson.021.dua.love-and-gather-with-companions"
 ---
 
-# Les Seigneurs de la Jannah et Ceux à Qui Elle Fut Annoncée
+# Les seigneurs de la Jannah et ceux à qui elle fut annoncée
 
-## Objectifs Et Résultats De La Leçon
+## Objectifs et résultats de la leçon
 
 Au terme de cette leçon, l'apprenant sera capable de :
 
 - raconter le hadith d'Abu Musa al-Ash'ari, qu'Allah soit satisfait de lui, au puits d'Aris (al-Bukhari 3674) : ce jour où il se fit le portier du Prophète, paix et bénédictions sur lui, et annonça la Jannah à Abu Bakr, puis à 'Umar, puis à 'Uthman, qu'Allah soit satisfait d'eux — 'Uthman recevant, avec cette bonne nouvelle, l'annonce d'une épreuve qui l'atteindrait ;
-- nommer les dix promis à la Jannah d'après le hadith de 'Abd ar-Rahman ibn 'Awf, qu'Allah soit satisfait de lui (at-Tirmidhi 3747), et citer ceux dont la primauté dans la Jannah est explicitement établie par un texte : al-Hasan et al-Husayn, les deux seigneurs de sa jeunesse (at-Tirmidhi 3768) ; Fatimah, la maîtresse de ses femmes (al-Bukhari 3623-3624) ; ainsi que le mérite de Maryam et Khadijah, les meilleures femmes de leur temps (al-Bukhari 3432) ;
+- nommer les dix promis à la Jannah d'après le hadith de 'Abd ar-Rahman ibn 'Awf, qu'Allah soit satisfait de lui (at-Tirmidhi 3747), et citer ceux dont la primauté dans la Jannah est explicitement établie par un texte : al-Hasan et al-Husayn, les deux seigneurs de la jeunesse de la Jannah (at-Tirmidhi 3768) ; Fatimah, la maîtresse des femmes de la Jannah (al-Bukhari 3623-3624) ; ainsi que le mérite de Maryam et Khadijah, les meilleures femmes de leur temps (al-Bukhari 3432) ;
 - distinguer le témoignage d'appartenance à la Jannah, réservé à ceux que la Révélation a nommés, de l'espérance que l'on nourrit pour tous les autres croyants sans rien affirmer pour une personne déterminée, et relier cette distinction au verset « Les tout premiers devanciers… et ceux qui les ont suivis dans l'excellence » (at-Tawbah 9:100), qui laisse ouverte la porte pour les rejoindre ;
 - en tirer que la bonne nouvelle n'a pas fait cesser l'effort de ceux qui l'ont reçue, qu'elle n'a pas dispensé 'Uthman, qu'Allah soit satisfait de lui, de l'épreuve, et qu'aimer tous les Compagnons et toute la famille du Prophète fait partie de la foi ;
 - réaliser l'activité « La carte de la bonne nouvelle sincère » : remarquer une bonne action réelle chez autrui, lui écrire un encouragement sincère accompagné d'une invocation pour la Jannah, en séparant soigneusement ce qu'on a vu de ses propres yeux de ce qu'on ne fait qu'espérer ;
 - apprendre par cœur l'invocation du soir de cette leçon, qui demande à Allah l'amour de Son Prophète, de ses Compagnons et des gens de sa maison, et la grâce de les rejoindre dans la Jannah.
 
-## Section Académique Pour Adultes
+## Section académique pour les adultes
 
-<!-- reader:start audience="adults" estimated_minutes="6.5" -->
+<!-- reader:start audience="adults" estimated_minutes="7.0" -->
 
 <!-- unit:start id="adults.explanation" kind="explanation" -->
 
-La Jannah ne s'obtient ni par la naissance ni par les vœux pieux, et nul n'a le droit d'affirmer qu'une personne déterminée en fait partie, sauf si la Révélation l'a dit. Or, par Sa miséricorde, Allah a fait connaître à Son Prophète, paix et bénédictions sur lui, les noms de certaines personnes qui sont dans la Jannah, si bien que ces bonnes nouvelles sont devenues un savoir établi : les dix promis à la Jannah ; al-Hasan et al-Husayn, les deux seigneurs de la jeunesse des gens de la Jannah ; Fatimah, la maîtresse de ses femmes ; Maryam et Khadijah, les meilleures femmes de leur temps ; et d'autres encore, au sujet desquels un texte authentique nous est parvenu.
+La Jannah ne s'obtient ni par la naissance ni par les vœux pieux, et nul n'a le droit d'affirmer qu'une personne déterminée en fait partie, sauf si la Révélation l'a dit. Or, par Sa miséricorde, Allah a fait connaître à Son Prophète, paix et bénédictions sur lui, les noms de certaines personnes qui sont dans la Jannah, si bien que ces bonnes nouvelles sont devenues un savoir établi : les dix promis à la Jannah ; al-Hasan et al-Husayn, les deux seigneurs de la jeunesse des gens de la Jannah ; Fatimah, la maîtresse de leurs femmes ; Maryam et Khadijah, les meilleures femmes de leur temps ; et d'autres encore, au sujet desquels un texte authentique nous est parvenu.
 
-Les gens de la Sunnah ont posé ce principe : nous témoignons de la Jannah pour celui dont le Messager d'Allah, paix et bénédictions sur lui, a témoigné ; nous espérons pour le croyant qui fait le bien et nous craignons pour celui qui fait le mal ; et nous n'assignons à personne en particulier ni la Jannah ni le Feu sans un texte.[^7] Ce principe préserve le cœur de deux écueils : la vanité de se décerner, à soi-même ou à ceux qu'on aime, un brevet de piété, et la témérité de juger les gens.
+Les gens de la Sunnah ont posé ce principe : nous témoignons de la Jannah pour celui dont le Messager d'Allah, paix et bénédictions sur lui, a témoigné ; nous espérons pour le croyant qui fait le bien et nous craignons pour celui qui fait le mal ; et nous n'assignons à personne en particulier ni la Jannah ni le Feu sans un texte.[^7] Ce principe préserve le cœur de deux écueils : la vanité qui pousse à se décerner un brevet de piété, ou à en décerner un à ceux qu'on aime, et la témérité de juger les gens.
 
-La scène la plus parlante de ces bonnes nouvelles est le hadith d'Abu Musa au puits d'Aris : une bonne nouvelle transmise à la porte, à l'un après l'autre, et, pour 'Uthman, accompagnée de l'annonce d'une épreuve à venir. La bonne nouvelle n'a jamais été une dispense d'épreuve ; elle était une certitude qui aide à la traverser.
+La scène la plus parlante de ces bonnes nouvelles est le hadith d'Abu Musa au puits d'Aris : une bonne nouvelle transmise à la porte, à l'un après l'autre, et, pour 'Uthman, accompagnée de l'annonce d'une épreuve à venir. La bonne nouvelle n'était donc pas une dispense d'épreuve, mais une certitude qui aide à la traverser.
 
 <!-- unit:end -->
 
 <!-- unit:start id="adults.evidence" kind="evidence" -->
 
-## Les Preuves Centrales
+## Les preuves centrales
 
 <!-- evidence:start id="bukhari-3674" kind="hadith" mode="canonical" -->
 
-### Le Hadith Du Puits D'Aris : « Laisse-le Entrer Et Annonce-lui La Jannah »
+### Le hadith du puits d'Aris : « Laisse-le entrer et annonce-lui la Jannah »
 
 > عَنْ سَعِيدِ بْنِ الْمُسَيَّبِ، قَالَ: أَخْبَرَنِي أَبُو مُوسَى الْأَشْعَرِيُّ رضي الله عنه، أَنَّهُ تَوَضَّأَ فِي بَيْتِهِ ثُمَّ خَرَجَ، فَقُلْتُ: لَأَلْزَمَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم، وَلَأَكُونَنَّ مَعَهُ يَوْمِي هَذَا. قَالَ: فَجَاءَ الْمَسْجِدَ، فَسَأَلَ عَنِ النَّبِيِّ صلى الله عليه وسلم، فَقَالُوا: خَرَجَ وَوَجَّهَ هَا هُنَا، فَخَرَجْتُ عَلَى إِثْرِهِ أَسْأَلُ عَنْهُ، حَتَّى دَخَلَ بِئْرَ أَرِيسٍ، فَجَلَسْتُ عِنْدَ الْبَابِ، وَبَابُهَا مِنْ جَرِيدٍ، حَتَّى قَضَى رَسُولُ اللَّهِ صلى الله عليه وسلم حَاجَتَهُ فَتَوَضَّأَ، فَقُمْتُ إِلَيْهِ، فَإِذَا هُوَ جَالِسٌ عَلَى بِئْرِ أَرِيسٍ، وَتَوَسَّطَ قُفَّهَا، وَكَشَفَ عَنْ سَاقَيْهِ وَدَلَّاهُمَا فِي الْبِئْرِ، فَسَلَّمْتُ عَلَيْهِ ثُمَّ انْصَرَفْتُ فَجَلَسْتُ عِنْدَ الْبَابِ، فَقُلْتُ: لَأَكُونَنَّ بَوَّابَ رَسُولِ اللَّهِ صلى الله عليه وسلم الْيَوْمَ.
 >
@@ -60,7 +60,7 @@ La scène la plus parlante de ces bonnes nouvelles est le hadith d'Abu Musa au p
 
 <!-- evidence:translation -->
 
-#### Traduction Française
+#### Traduction française
 
 > D'après Sa'id ibn al-Musayyab, qui dit : Abu Musa al-Ash'ari, qu'Allah soit satisfait de lui, m'a raconté qu'il fit ses ablutions chez lui, puis sortit. « Je me dis : “Je ne quitterai pas le Messager d'Allah, paix et bénédictions sur lui, et je passerai toute cette journée avec lui.” » Il poursuivit : il se rendit à la mosquée et demanda où était le Prophète, paix et bénédictions sur lui. On lui répondit : « Il est sorti, il est parti par là. » « Je suivis donc ses traces, en demandant après lui, jusqu'à ce qu'il entre dans l'enclos du puits d'Aris. Je m'assis près de l'entrée, dont la porte était faite de palmes, jusqu'à ce que le Messager d'Allah, paix et bénédictions sur lui, eût satisfait son besoin et fait ses ablutions. Je me levai alors pour aller vers lui : il était assis sur le puits d'Aris, au milieu de sa margelle, les jambes découvertes et pendantes dans le puits. Je le saluai, puis je revins m'asseoir près de la porte en me disant : “Aujourd'hui, je serai le portier du Messager d'Allah, paix et bénédictions sur lui.”
 >
@@ -70,55 +70,55 @@ La scène la plus parlante de ces bonnes nouvelles est le hadith d'Abu Musa au p
 >
 > Quelqu'un vint encore faire bouger la porte. Je demandai : “Qui est là ?” Il répondit : “'Uthman ibn 'Affan.” Je lui dis : “Un instant, patiente.” J'allai trouver le Messager d'Allah, paix et bénédictions sur lui, et l'en informai. Il dit : **“Laisse-le entrer et annonce-lui la Jannah, avec une épreuve qui l'atteindra.”** J'allai donc lui dire : “Entre, et le Messager d'Allah, paix et bénédictions sur lui, t'annonce la Jannah, avec une épreuve qui t'atteindra.” Il entra et trouva la margelle déjà occupée ; il s'assit alors en face de lui, de l'autre côté. » Sharik dit : Sa'id ibn al-Musayyab a dit : « J'y ai vu la figure de leurs tombes. »[^1]
 
-#### Interprétation Savante
+#### Interprétation savante
 
 *Al-quff* désigne la maçonnerie surélevée qui entoure l'ouverture du puits — ce que le français appelle la margelle —, et *'ala rislik* signifie « doucement, prends ton temps ». Ibn Hajar rapporte que l'interprétation d'Ibn al-Musayyab vise ceci : Abu Bakr et 'Umar furent enterrés auprès du Prophète, paix et bénédictions sur lui, tandis que 'Uthman fut enterré loin d'eux, au Baqi' ; et que « l'épreuve » (*al-balwa*) désigne la sédition (*fitnah*) qui l'atteignit jusqu'à ce qu'il soit tué injustement.[^8]
 
-#### Explication De La Leçon
+#### Explication de la leçon
 
-La bonne nouvelle est ici une information venue de la Révélation, non une estimation humaine. Abu Musa ne s'est porté garant de personne de sa propre initiative : il a seulement transmis ce qu'on lui avait dit. Et son souhait de voir venir son frère, pour qu'il reçoive la même bonne nouvelle, est le portrait d'un cœur qui aime pour les autres le bien.
+La bonne nouvelle est ici une information venue de la Révélation, non une estimation humaine. Abu Musa ne s'est porté garant de personne de sa propre initiative : il a seulement transmis ce qu'on lui avait dit. Et son souhait de voir venir son frère, pour qu'il reçoive la même bonne nouvelle, est le portrait d'un cœur qui aime le bien pour les autres.
 
 <!-- evidence:end -->
 
 <!-- evidence:start id="tirmidhi-3747" kind="hadith" mode="canonical" -->
 
-### Les Dix Promis À La Jannah
+### Les Dix promis à la Jannah
 
 > عَنْ عَبْدِ الرَّحْمَنِ بْنِ عَوْفٍ رضي الله عنه، قَالَ: قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم: **«أَبُو بَكْرٍ فِي الْجَنَّةِ، وَعُمَرُ فِي الْجَنَّةِ، وَعُثْمَانُ فِي الْجَنَّةِ، وَعَلِيٌّ فِي الْجَنَّةِ، وَطَلْحَةُ فِي الْجَنَّةِ، وَالزُّبَيْرُ فِي الْجَنَّةِ، وَعَبْدُ الرَّحْمَنِ بْنُ عَوْفٍ فِي الْجَنَّةِ، وَسَعْدٌ فِي الْجَنَّةِ، وَسَعِيدٌ فِي الْجَنَّةِ، وَأَبُو عُبَيْدَةَ بْنُ الْجَرَّاحِ فِي الْجَنَّةِ»**.[^2]
 
 <!-- evidence:translation -->
 
-#### Traduction Française
+#### Traduction française
 
 > D'après 'Abd ar-Rahman ibn 'Awf, qu'Allah soit satisfait de lui, le Messager d'Allah, paix et bénédictions sur lui, a dit : **« Abu Bakr est dans la Jannah, 'Umar est dans la Jannah, 'Uthman est dans la Jannah, 'Ali est dans la Jannah, Talhah est dans la Jannah, az-Zubayr est dans la Jannah, 'Abd ar-Rahman ibn 'Awf est dans la Jannah, Sa'd est dans la Jannah, Sa'id est dans la Jannah, et Abu 'Ubaydah ibn al-Jarrah est dans la Jannah. »**[^2]
 
-#### Interprétation Savante
+#### Interprétation savante
 
-Sa'd est Sa'd ibn Abi Waqqas, et Sa'id est Sa'id ibn Zayd. Nommer ces dix ne restreint pas à eux seuls les gens de la Jannah, car un texte authentique en a nommé d'autres ; mais ils ont été réunis en une seule parole, et c'est ainsi qu'ils sont devenus célèbres sous le nom des « Dix ».
+Sa'd est Sa'd ibn Abi Waqqas, et Sa'id est Sa'id ibn Zayd. Nommer ces dix ne restreint pas à eux seuls les gens de la Jannah, car un texte authentique en a nommé d'autres ; mais ils ont été cités ensemble au cours d'une même séance, et c'est ainsi qu'ils sont devenus célèbres sous le nom des « Dix ».
 
-#### Explication De La Leçon
+#### Explication de la leçon
 
-Dix noms, et derrière chacun une vie de précocité dans la foi et de don de soi. Connaître leurs noms, c'est le début du chemin ; connaître leurs œuvres, c'est ce qui fait de la bonne nouvelle un modèle à suivre.
+Dix noms, et derrière chacun une vie de devancier dans la foi et de don de soi. Connaître leurs noms, c'est le début du chemin ; connaître leurs œuvres, c'est ce qui fait de la bonne nouvelle un modèle à suivre.
 
 <!-- evidence:end -->
 
 <!-- evidence:start id="tirmidhi-3768" kind="hadith" mode="canonical" -->
 
-### Les Deux Seigneurs De La Jeunesse Des Gens De La Jannah
+### Les deux seigneurs de la jeunesse des gens de la Jannah
 
 > عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ رضي الله عنه، قَالَ: قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم: **«الْحَسَنُ وَالْحُسَيْنُ سَيِّدَا شَبَابِ أَهْلِ الْجَنَّةِ»**.[^3]
 
 <!-- evidence:translation -->
 
-#### Traduction Française
+#### Traduction française
 
 > D'après Abu Sa'id al-Khudri, qu'Allah soit satisfait de lui, le Messager d'Allah, paix et bénédictions sur lui, a dit : **« Al-Hasan et al-Husayn sont les deux seigneurs de la jeunesse des gens de la Jannah. »**[^3]
 
-#### Interprétation Savante
+#### Interprétation savante
 
 Les savants ont expliqué qu'il s'agit soit de leur primauté sur ceux des gens de la Jannah qui sont morts jeunes, soit de leur prééminence sur les gens de la Jannah, à l'exception des prophètes et des califes bien guidés.
 
-#### Explication De La Leçon
+#### Explication de la leçon
 
 Les deux petits-fils du Prophète, paix et bénédictions sur lui, sont de sa famille ; les aimer et aimer ses Compagnons font ensemble partie de la foi, et ces deux amours ne se font pas concurrence.
 
@@ -126,21 +126,21 @@ Les deux petits-fils du Prophète, paix et bénédictions sur lui, sont de sa fa
 
 <!-- evidence:start id="bukhari-3623-3624" kind="hadith" mode="canonical" -->
 
-### Fatimah, Maîtresse Des Femmes Des Gens De La Jannah
+### Fatimah, maîtresse des femmes des gens de la Jannah
 
 > عَنْ عَائِشَةَ رضي الله عنها، قَالَتْ: أَقْبَلَتْ فَاطِمَةُ تَمْشِي كَأَنَّ مِشْيَتَهَا مَشْيُ النَّبِيِّ صلى الله عليه وسلم، فَقَالَ النَّبِيُّ صلى الله عليه وسلم: **«مَرْحَبًا بِابْنَتِي»**. ثُمَّ أَجْلَسَهَا عَنْ يَمِينِهِ أَوْ عَنْ شِمَالِهِ، ثُمَّ أَسَرَّ إِلَيْهَا حَدِيثًا فَبَكَتْ، فَقُلْتُ لَهَا: لِمَ تَبْكِينَ؟ ثُمَّ أَسَرَّ إِلَيْهَا حَدِيثًا فَضَحِكَتْ، فَقُلْتُ: مَا رَأَيْتُ كَالْيَوْمِ فَرَحًا أَقْرَبَ مِنْ حُزْنٍ. فَسَأَلْتُهَا عَمَّا قَالَ، فَقَالَتْ: مَا كُنْتُ لِأُفْشِيَ سِرَّ رَسُولِ اللَّهِ صلى الله عليه وسلم. حَتَّى قُبِضَ النَّبِيُّ صلى الله عليه وسلم فَسَأَلْتُهَا، فَقَالَتْ: أَسَرَّ إِلَيَّ: **«إِنَّ جِبْرِيلَ كَانَ يُعَارِضُنِي الْقُرْآنَ كُلَّ سَنَةٍ مَرَّةً، وَإِنَّهُ عَارَضَنِي الْعَامَ مَرَّتَيْنِ، وَلَا أُرَاهُ إِلَّا حَضَرَ أَجَلِي، وَإِنَّكِ أَوَّلُ أَهْلِ بَيْتِي لَحَاقًا بِي»**. فَبَكَيْتُ، فَقَالَ: **«أَمَا تَرْضَيْنَ أَنْ تَكُونِي سَيِّدَةَ نِسَاءِ أَهْلِ الْجَنَّةِ، أَوْ نِسَاءِ الْمُؤْمِنِينَ»**. فَضَحِكْتُ لِذَلِكَ.[^4]
 
 <!-- evidence:translation -->
 
-#### Traduction Française
+#### Traduction française
 
 > D'après 'A'ishah, qu'Allah soit satisfait d'elle, qui dit : Fatimah s'avança, et sa démarche était exactement celle du Prophète, paix et bénédictions sur lui. Le Prophète, paix et bénédictions sur lui, lui dit : **« Bienvenue à ma fille ! »** Puis il la fit asseoir à sa droite, ou à sa gauche, et lui confia quelque chose en secret ; elle se mit à pleurer. Je lui dis : « Pourquoi pleures-tu ? » Puis il lui confia autre chose en secret, et elle se mit à rire. Je dis alors : « Je n'ai jamais vu de jour pareil, où la joie fût si proche de la tristesse. » Je lui demandai ce qu'il lui avait dit, et elle répondit : « Je ne suis pas de celles qui divulguent le secret du Messager d'Allah, paix et bénédictions sur lui. » Lorsque le Prophète, paix et bénédictions sur lui, eut été rappelé à Allah, je l'interrogeai de nouveau, et elle dit : « Il m'avait confié : **“Jibril révisait avec moi le Coran une fois chaque année, et cette année il l'a révisé avec moi deux fois ; je n'y vois rien d'autre que l'approche de mon terme. Et tu seras la première des gens de ma maison à me rejoindre.”** Je pleurai alors, et il me dit : **“Ne te réjouis-tu pas d'être la maîtresse des femmes des gens de la Jannah — ou : des femmes des croyants ?”** Et c'est pour cela que je ris. »[^4]
 
-#### Interprétation Savante
+#### Interprétation savante
 
 Les mots « ou : des femmes des croyants » traduisent une hésitation du rapporteur sur la formulation exacte ; dans les deux cas, le sens demeure établi. Le hadith montre aussi que la bonne nouvelle est parvenue à Fatimah, qu'Allah soit satisfait d'elle, dans un moment de chagrin, et qu'elle a changé ses larmes en contentement.
 
-#### Explication De La Leçon
+#### Explication de la leçon
 
 Fatimah a gardé le secret de son père, même lorsque 'A'ishah l'a interrogée ; et la bonne nouvelle fut pour elle une consolation, non un motif d'orgueil.
 
@@ -148,21 +148,21 @@ Fatimah a gardé le secret de son père, même lorsque 'A'ishah l'a interrogée�
 
 <!-- evidence:start id="bukhari-3432" kind="hadith" mode="canonical" -->
 
-### La Meilleure De Ses Femmes Est Maryam, Et La Meilleure De Ses Femmes Est Khadijah
+### La meilleure de ses femmes est Maryam, et la meilleure de ses femmes est Khadijah
 
 > عَنْ عَلِيٍّ رضي الله عنه، قَالَ: سَمِعْتُ النَّبِيَّ صلى الله عليه وسلم يَقُولُ: **«خَيْرُ نِسَائِهَا مَرْيَمُ ابْنَةُ عِمْرَانَ، وَخَيْرُ نِسَائِهَا خَدِيجَةُ»**.[^5]
 
 <!-- evidence:translation -->
 
-#### Traduction Française
+#### Traduction française
 
-> D'après 'Ali, qu'Allah soit satisfait de lui, qui dit : J'ai entendu le Prophète, paix et bénédictions sur lui, dire : **« La meilleure de ses femmes est Maryam, fille d'Imran, et la meilleure de ses femmes est Khadijah. »**[^5]
+> D'après 'Ali, qu'Allah soit satisfait de lui, qui dit : J'ai entendu le Prophète, paix et bénédictions sur lui, dire : **« La meilleure de ses femmes est Maryam, fille de 'Imran, et la meilleure de ses femmes est Khadijah. »**[^5]
 
-#### Interprétation Savante
+#### Interprétation savante
 
 Les commentateurs expliquent que le sens est le suivant : Maryam fut la meilleure des femmes de son temps, et Khadijah la meilleure des femmes de cette communauté en son temps ; chacune d'elles a ainsi une primauté au sein de sa propre communauté.
 
-#### Explication De La Leçon
+#### Explication de la leçon
 
 Le mérite attesté par la Révélation n'est pas réservé aux hommes : voici deux femmes qui ont cru et qui ont enduré, et Allah a élevé leur mémoire.
 
@@ -170,21 +170,21 @@ Le mérite attesté par la Révélation n'est pas réservé aux hommes : voici 
 
 <!-- evidence:start id="quran-9-100" kind="quran" mode="canonical" -->
 
-### Les Tout Premiers Devanciers… Et Ceux Qui Les Ont Suivis Dans L'excellence
+### Les tout premiers devanciers… et ceux qui les ont suivis dans l'excellence
 
 > **{وَالسَّابِقُونَ الْأَوَّلُونَ مِنَ الْمُهَاجِرِينَ وَالْأَنْصَارِ وَالَّذِينَ اتَّبَعُوهُمْ بِإِحْسَانٍ رَضِيَ اللَّهُ عَنْهُمْ وَرَضُوا عَنْهُ وَأَعَدَّ لَهُمْ جَنَّاتٍ تَجْرِي تَحْتَهَا الْأَنْهَارُ خَالِدِينَ فِيهَا أَبَدًا ۚ ذَٰلِكَ الْفَوْزُ الْعَظِيمُ}** [التوبة: ١٠٠][^6]
 
 <!-- evidence:translation -->
 
-#### Traduction Française
+#### Traduction française
 
 > **« Les tout premiers devanciers parmi les Émigrés et les Auxiliaires, et ceux qui les ont suivis dans l'excellence : Allah les agrée, et ils L'agréent. Il leur a préparé des Jardins sous lesquels coulent les rivières, pour y demeurer éternellement, à jamais. Voilà le succès immense. »** (at-Tawbah 9:100)[^6]
 
-#### Interprétation Savante
+#### Interprétation savante
 
 Ibn Kathir relève qu'Allah a annoncé Son agrément envers les devanciers parmi les Émigrés (*al-Muhajirun*) et les Auxiliaires (*al-Ansar*), ainsi qu'envers ceux qui les ont suivis dans l'excellence, et que malheur à quiconque les hait ou les injurie.[^9]
 
-#### Explication De La Leçon
+#### Explication de la leçon
 
 La porte ne s'est pas refermée derrière eux : « et ceux qui les ont suivis dans l'excellence » est une invitation lancée à chaque génération à les rejoindre en marchant dignement sur leurs pas.
 
@@ -194,7 +194,7 @@ La porte ne s'est pas refermée derrière eux : « et ceux qui les ont suivis 
 
 <!-- unit:start id="adults.questions" kind="questions" -->
 
-## Questions Pour Comprendre Et Méditer
+## Questions pour comprendre et méditer
 
 1. Pourquoi Abu Musa demandait-il chaque fois la permission au Prophète, paix et bénédictions sur lui, au lieu d'annoncer la bonne nouvelle de lui-même ?
 2. Que nous apprend, sur la nature de la bonne nouvelle, le fait que celle de 'Uthman soit associée à « une épreuve qui l'atteindra » ?
@@ -206,7 +206,7 @@ La porte ne s'est pas refermée derrière eux : « et ceux qui les ont suivis 
 
 <!-- unit:start id="adults.activity" kind="activity" -->
 
-### Activité : La Carte De La Bonne Nouvelle Sincère
+### Activité : la carte de la bonne nouvelle sincère
 
 <!-- activity:start audience="adults" concept_id="lesson.021.activity.doorkeeper-glad-tidings-card" -->
 
@@ -220,19 +220,19 @@ Abu Musa était un portier qui transmettait la bonne nouvelle, non qui la fabriq
 
 ---
 
-## Pour Les Enfants De 4 À 7 Ans
+## Pour les enfants de 4 à 7 ans
 
 <!-- reader:start audience="4-7" estimated_minutes="5.0" -->
 
 <!-- unit:start id="4-7.explanation" kind="explanation" -->
 
-Une bonne nouvelle, c'est une nouvelle qui rend le cœur tout joyeux. Et la plus belle de toutes, ce serait que quelqu'un te dise : « Tu iras dans la Jannah ! » Mais personne ne le sait, sauf Allah. Allah a parlé à notre Prophète Muhammad, paix et bénédictions sur lui, de personnes très gentilles qui seront dans la Jannah, alors le Prophète leur a annoncé cette belle nouvelle. Nous les aimons, et nous apprenons d'eux.
+Une bonne nouvelle, c'est une nouvelle qui rend le cœur tout joyeux. Et la plus belle de toutes, ce serait que quelqu'un te dise : « Tu iras dans la Jannah ! » Mais personne ne le sait, sauf Allah. Allah a parlé à notre Prophète Muhammad, paix et bénédictions sur lui, de très bonnes personnes qui seront dans la Jannah, alors le Prophète leur a annoncé cette belle nouvelle. Nous les aimons, et nous apprenons d'eux.
 
 <!-- unit:end -->
 
 <!-- unit:start id="4-7.primary-story" kind="primary_story" -->
 
-### Un Récit Authentique : Le Petit Portier Près Du Puits
+### Un récit authentique : le petit portier près du puits
 
 <!-- story:start audience="4-7" role="primary" type="prophetic_era" source_id="bukhari-3674" authenticated="true" -->
 
@@ -258,7 +258,7 @@ Abu Musa n'a jamais dit à quelqu'un « Tu iras dans la Jannah » de lui-même
 
 <!-- unit:start id="4-7.questions" kind="questions" -->
 
-### Questions Courtes
+### Questions courtes
 
 1. Où Abu Musa s'est-il assis ?
 2. Qui sont les trois personnes qui sont venues à la porte ?
@@ -269,7 +269,7 @@ Abu Musa n'a jamais dit à quelqu'un « Tu iras dans la Jannah » de lui-même
 
 <!-- unit:start id="4-7.activity" kind="activity" -->
 
-### Activité : La Carte De La Bonne Nouvelle Sincère
+### Activité : la carte de la bonne nouvelle sincère
 
 <!-- activity:start audience="4-7" concept_id="lesson.021.activity.doorkeeper-glad-tidings-card" -->
 
@@ -281,7 +281,7 @@ Avec ton papa ou ta maman, choisis quelqu'un de ta famille que tu as vu faire qu
 
 <!-- unit:start id="4-7.bedtime-dua" kind="bedtime_dua" -->
 
-### Du'a Avant De Dormir
+### Du'a avant de dormir
 
 <!-- bedtime-dua:start audience="4-7" id="lesson.021.dua.love-and-gather-with-companions" provenance="lesson_authored" source_id="" attribution="not_prophetic" -->
 
@@ -299,9 +299,9 @@ Avec ton papa ou ta maman, choisis quelqu'un de ta famille que tu as vu faire qu
 
 ---
 
-## Pour Les Enfants De 8 À 12 Ans
+## Pour les enfants de 8 à 12 ans
 
-<!-- reader:start audience="8-12" estimated_minutes="6.0" -->
+<!-- reader:start audience="8-12" estimated_minutes="6.5" -->
 
 <!-- unit:start id="8-12.explanation" kind="explanation" -->
 
@@ -316,7 +316,7 @@ Et nous, alors ? Nous les aimons tous, nous espérons la Jannah pour chaque cro
 <!-- terminology:start source_id="bukhari-3674" -->
 
 - **`La bonne nouvelle (al-bisharah)`** — une nouvelle qui réjouit ; ici, il s'agit d'une information venue de la Révélation, annonçant que telle personne fait partie des gens de la Jannah.
-- **`La margelle (al-quff)`** — le petit muret de pierre construit autour de l'ouverture du puits, sur lequel on peut s'asseoir.
+- **`La margelle (al-quff)`** — le petit muret construit autour de l'ouverture du puits, sur lequel on peut s'asseoir.
 - **`L'épreuve (balwa)`** — un test ou un malheur que le croyant supporte avec patience.
 
 <!-- terminology:end -->
@@ -325,7 +325,7 @@ Et nous, alors ? Nous les aimons tous, nous espérons la Jannah pour chaque cro
 
 <!-- unit:start id="8-12.primary-story" kind="primary_story" -->
 
-### Un Récit Authentique : Abu Musa, Portier Au Puits D'Aris
+### Un récit authentique : Abu Musa, portier au puits d'Aris
 
 <!-- story:start audience="8-12" role="primary" type="prophetic_era" source_id="bukhari-3674" authenticated="true" -->
 
@@ -351,7 +351,7 @@ Abu Musa n'a annoncé la Jannah à personne selon son propre avis : il a transm
 
 <!-- unit:start id="8-12.questions" kind="questions" -->
 
-### Questions De Compréhension Et De Réflexion
+### Questions de compréhension et de réflexion
 
 1. Pourquoi Abu Musa allait-il voir le Prophète, paix et bénédictions sur lui, avant d'ouvrir la porte ?
 2. Où se sont assis Abu Bakr, 'Umar et 'Uthman ?
@@ -362,7 +362,7 @@ Abu Musa n'a annoncé la Jannah à personne selon son propre avis : il a transm
 
 <!-- unit:start id="8-12.activity" kind="activity" -->
 
-### Activité : La Carte De La Bonne Nouvelle Sincère
+### Activité : la carte de la bonne nouvelle sincère
 
 <!-- activity:start audience="8-12" concept_id="lesson.021.activity.doorkeeper-glad-tidings-card" -->
 
@@ -374,7 +374,7 @@ Cette semaine, deviens le « portier du bien ». Observe un camarade, un frèr
 
 <!-- unit:start id="8-12.bedtime-dua" kind="bedtime_dua" -->
 
-### Du'a Avant De Dormir
+### Du'a avant de dormir
 
 <!-- bedtime-dua:start audience="8-12" id="lesson.021.dua.love-and-gather-with-companions" provenance="lesson_authored" source_id="" attribution="not_prophetic" -->
 
@@ -392,13 +392,13 @@ Cette semaine, deviens le « portier du bien ». Observe un camarade, un frèr
 
 ---
 
-## Pour Les Adolescents, 13 Ans Et Plus
+## Pour les adolescents, 13 ans et plus
 
 <!-- reader:start audience="13+" estimated_minutes="6.5" -->
 
 <!-- unit:start id="13+.explanation" kind="explanation" -->
 
-Dans un monde où l'on distribue les titres à la pelle — « le GOAT », « une légende », « une icône » —, cette leçon t'apprend que la vraie reconnaissance ne vient pas du public, mais d'Allah. Personne n'a jamais été déclaré promis à la Jannah, nommément, autrement que par la Révélation : les dix promis à la Jannah,[^2] al-Hasan et al-Husayn, les deux seigneurs de la jeunesse des gens de la Jannah,[^3] Fatimah, la maîtresse de ses femmes,[^4] Maryam et Khadijah, les meilleures femmes de leur temps.[^5] Nous n'affirmons avec certitude la Jannah pour personne en particulier sans un texte ; mais nous espérons pour ceux qui font le bien, et nous craignons pour nous-mêmes.[^7]
+Dans un monde où l'on distribue les titres à la pelle — « le GOAT », « une légende », « une icône » —, cette leçon t'apprend que la vraie reconnaissance ne vient pas du public, mais d'Allah. Personne n'a jamais été déclaré promis à la Jannah, nommément, autrement que par la Révélation : les dix promis à la Jannah,[^2] al-Hasan et al-Husayn, les deux seigneurs de la jeunesse des gens de la Jannah,[^3] Fatimah, la maîtresse de leurs femmes,[^4] Maryam et Khadijah, les meilleures femmes de leur temps.[^5] Nous n'affirmons avec certitude la Jannah pour personne en particulier sans un texte ; mais nous espérons pour ceux qui font le bien, et nous craignons pour nous-mêmes.[^7]
 
 Et voici ce qui surprend : ceux qui ont reçu cette promesse ne s'en sont pas servis comme d'un diplôme en poche. Ils ont continué d'agir, de donner et d'endurer. Et la porte nous est ouverte, à nous aussi : « et ceux qui les ont suivis dans l'excellence ».[^6]
 
@@ -418,7 +418,7 @@ Et voici ce qui surprend : ceux qui ont reçu cette promesse ne s'en sont pas s
 
 <!-- unit:start id="13+.primary-story" kind="primary_story" -->
 
-### Un Récit Authentique : Le Jour Où Abu Musa Devint Le Portier De La Bonne Nouvelle
+### Un récit authentique : le jour où Abu Musa devint le portier de la bonne nouvelle
 
 <!-- story:start audience="13+" role="primary" type="prophetic_era" source_id="bukhari-3674" authenticated="true" -->
 
@@ -442,7 +442,7 @@ Réfléchis : Abu Musa ne faisait pas partie de ceux qui reçurent la bonne nou
 
 <!-- unit:start id="13+.questions" kind="questions" -->
 
-### Questions De Discussion
+### Questions de discussion
 
 1. Pourquoi Abu Musa a-t-il tenu à demander la permission chaque fois, alors qu'il avait déjà entendu deux fois la même réponse ? Qu'est-ce que cela t'apprend sur la manière de rapporter fidèlement les paroles d'autrui ?
 2. Comment Abu Musa a-t-il vécu le fait de voir d'autres recevoir la bonne nouvelle sans en faire partie ? Et toi, comment vis-tu la réussite d'un autre quand elle se déroule sous tes yeux ?
@@ -454,7 +454,7 @@ Réfléchis : Abu Musa ne faisait pas partie de ceux qui reçurent la bonne nou
 
 <!-- unit:start id="13+.activity" kind="activity" -->
 
-### Activité : La Carte De La Bonne Nouvelle Sincère
+### Activité : la carte de la bonne nouvelle sincère
 
 <!-- activity:start audience="13+" concept_id="lesson.021.activity.doorkeeper-glad-tidings-card" -->
 
@@ -466,7 +466,7 @@ Choisis quelqu'un que l'on félicite rarement : un camarade discret, un petit f
 
 <!-- unit:start id="13+.bedtime-dua" kind="bedtime_dua" -->
 
-### Du'a Avant De Dormir
+### Du'a avant de dormir
 
 <!-- bedtime-dua:start audience="13+" id="lesson.021.dua.love-and-gather-with-companions" provenance="lesson_authored" source_id="" attribution="not_prophetic" -->
 
@@ -484,11 +484,11 @@ Choisis quelqu'un que l'on félicite rarement : un camarade discret, un petit f
 
 ---
 
-## Plans D'enseignement Détaillés
+## Plans d'enseignement détaillés
 
 <!-- lesson-plan:start audience="adults" minutes="60" -->
 
-### Les Adultes — 60 Minutes
+### Les adultes — 60 minutes
 
 <!-- lesson-plan:outcomes -->
 **Résultats d'apprentissage :** l'apprenant raconte dans l'ordre le hadith du puits d'Aris ; nomme les dix promis à la Jannah et ceux dont la primauté dans la Jannah est établie par un texte, en indiquant la source de chaque texte ; explique le principe posé par les gens de la Sunnah — témoigner de la Jannah pour ceux que la Révélation a nommés, l'espérer pour les autres — ; et rédige un message de bonne nouvelle sincère qui sépare ce qu'il a vu de ce qu'il espère.
@@ -518,13 +518,13 @@ Choisis quelqu'un que l'on félicite rarement : un camarade discret, un petit f
 **Différenciation :** pour les débutants, se limiter au hadith du puits d'Aris, au hadith des Dix et au verset d'at-Tawbah. Demander aux apprenants avancés de comparer la version d'al-Bukhari 3674 avec celle d'Abu 'Uthman an-Nahdi d'après Abu Musa, dans le même chapitre, et de préparer une notice sur l'un des Dix à partir des ouvrages de *sirah*.
 
 <!-- lesson-plan:safeguards -->
-**Précautions pédagogiques :** veiller à ce que la leçon ne tourne pas à une hiérarchisation polémique entre les Compagnons et la famille du Prophète, ni à l'injure ou au dénigrement ; la démarche retenue est d'aimer tous ces êtres et de n'en parler qu'en bien. Ne permettre à personne d'affirmer la Jannah ou le Feu pour des personnes précises, contemporaines ou décédées. Avoir égard aux sentiments de ceux qui ont perdu un proche : espérer pour lui est légitime et recommandé, et cette leçon n'en retire rien.
+**Précautions pédagogiques :** veiller à ce que la leçon ne tourne pas à une hiérarchisation polémique entre les Compagnons et la famille du Prophète, ni à l'injure ou au dénigrement ; la démarche retenue est de les aimer tous et de n'en parler qu'en bien. Ne permettre à personne d'affirmer la Jannah ou le Feu pour des personnes précises, contemporaines ou décédées. Avoir égard aux sentiments de ceux qui ont perdu un proche : espérer pour lui est légitime et recommandé, et cette leçon n'en retire rien.
 
 <!-- lesson-plan:end -->
 
 <!-- lesson-plan:start audience="4-7" minutes="25" -->
 
-### Les Enfants De 4 À 7 Ans — 25 Minutes
+### Les enfants de 4 à 7 ans — 25 minutes
 
 <!-- lesson-plan:outcomes -->
 **Résultats d'apprentissage :** l'enfant raconte de nouveau l'histoire à l'aide de trois coups frappés à la porte, nomme Abu Bakr, 'Umar et 'Uthman, dit que c'est le Prophète, paix et bénédictions sur lui, qui a annoncé la bonne nouvelle, et fabrique une carte pour un membre de sa famille chez qui il a vu du bien.
@@ -560,7 +560,7 @@ Choisis quelqu'un que l'on félicite rarement : un camarade discret, un petit f
 
 <!-- lesson-plan:start audience="8-12" minutes="40" -->
 
-### Les Enfants De 8 À 12 Ans — 40 Minutes
+### Les enfants de 8 à 12 ans — 40 minutes
 
 <!-- lesson-plan:outcomes -->
 **Résultats d'apprentissage :** l'élève raconte les événements du récit dans l'ordre, nomme les dix promis à la Jannah, explique les trois termes, distingue « j'ai vu » de « j'espère » quand il parle des gens, et rédige une carte de bonne nouvelle sincère.
@@ -596,7 +596,7 @@ Choisis quelqu'un que l'on félicite rarement : un camarade discret, un petit f
 
 <!-- lesson-plan:start audience="13+" minutes="45" -->
 
-### Les Adolescents, 13 Ans Et Plus — 45 Minutes
+### Les adolescents, 13 ans et plus — 45 minutes
 
 <!-- lesson-plan:outcomes -->
 **Résultats d'apprentissage :** l'élève analyse l'attitude d'Abu Musa face aux autres qui recevaient la bonne nouvelle, explique le sens d'une bonne nouvelle associée à une épreuve, expose le principe selon lequel on n'affirme rien avec certitude pour une personne déterminée sans un texte, et l'applique dans un message privé sincère et deux lignes de réflexion.

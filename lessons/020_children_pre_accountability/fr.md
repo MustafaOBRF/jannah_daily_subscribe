@@ -77,7 +77,7 @@ Les commentateurs du hadith expliquent que « le Calame est levé » signifie 
 
 #### Explication De La Leçon
 
-Ce hadith est le fondement légal du titre même de cette leçon : pas une seule mauvaise action n'est inscrite à l'enfant qui n'a pas atteint la puberté. Si Allah le rappelle à Lui avant cet âge, l'enfant ne rencontre pas son Seigneur chargé d'un péché dont il devrait rendre compte : il Le rencontre pur, tel qu'au jour de sa naissance.
+Ce hadith est le fondement scripturaire du titre même de cette leçon : pas une seule mauvaise action n'est inscrite à l'enfant qui n'a pas atteint la puberté. Si Allah le rappelle à Lui avant cet âge, l'enfant ne rencontre pas son Seigneur chargé d'un péché dont il devrait rendre compte : il Le rencontre pur, tel qu'au jour de sa naissance.
 
 <!-- evidence:end -->
 
@@ -135,7 +135,7 @@ Ce hadith peint la plus belle des scènes pour un enfant parti vers la misérico
 
 #### Traduction Française
 
-> Samurah ibn Jundab, qu'Allah soit satisfait de lui, a dit : Le Messager d'Allah, paix et bénédictions sur lui, demandait souvent à ses Compagnons : « L'un de vous a-t-il vu un songe ? », et celui qu'Allah voulait lui racontait son songe. Un matin, il dit : « Deux visiteurs sont venus à moi cette nuit ; ils m'ont réveillé et m'ont dit : “Pars !” » Puis il raconta, paix et bénédictions sur lui, un long songe aux nombreuses scènes, dans lequel les deux visiteurs lui firent voir l'état des gens dans le barzakh [seul le passage pertinent est cité ici ; les autres scènes, fort longues, ont été omises parce qu'elles sortent du sujet de cette leçon]. Il dit, paix et bénédictions sur lui : **« Nous partîmes, jusqu'à arriver à un jardin luxuriant, couvert d'une végétation haute et dense, où s'épanouissaient toutes les fleurs du printemps. Au milieu du jardin se tenait un homme si grand que je distinguais à peine sa tête, tant elle s'élevait dans le ciel, et autour de lui se trouvaient des enfants, plus nombreux que tous ceux que j'avais jamais vus. Je leur demandai : “Qu'est-ce que cela ? Qui sont ceux-là ?” »** Puis, lorsque les deux visiteurs en vinrent à lui expliquer ce qu'il avait vu, ils lui dirent : **« Quant à l'homme de grande taille qui se trouve dans le jardin, c'est Ibrahim, paix et bénédictions sur lui ; et quant aux enfants qui l'entourent, ce sont tous les enfants morts dans la fitrah. »** Quelques musulmans demandèrent alors : « Ô Messager d'Allah, et les enfants des polythéistes ? » Le Messager d'Allah, paix et bénédictions sur lui, répondit : **« Et les enfants des polythéistes. »**[^5]
+> Samurah ibn Jundab, qu'Allah soit satisfait de lui, a dit : Le Messager d'Allah, paix et bénédictions sur lui, demandait souvent à ses Compagnons : « L'un de vous a-t-il fait un songe ? », et celui qu'Allah voulait lui racontait son songe. Un matin, il dit : « Deux visiteurs sont venus à moi cette nuit ; ils m'ont réveillé et m'ont dit : “Pars !” » Puis il raconta, paix et bénédictions sur lui, un long songe aux nombreuses scènes, dans lequel les deux visiteurs lui firent voir l'état des gens dans le barzakh [seul le passage pertinent est cité ici ; les autres scènes, fort longues, ont été omises parce qu'elles sortent du sujet de cette leçon]. Il dit, paix et bénédictions sur lui : **« Nous partîmes, jusqu'à arriver à un jardin luxuriant, couvert d'une végétation haute et dense, où s'épanouissaient toutes les fleurs du printemps. Au milieu du jardin se tenait un homme si grand que je distinguais à peine sa tête, tant elle s'élevait dans le ciel, et autour de lui se trouvaient des enfants, plus nombreux que tous ceux que j'avais jamais vus. Je leur demandai : “Qu'est-ce que cela ? Qui sont ceux-là ?” »** Puis, lorsque les deux visiteurs en vinrent à lui expliquer ce qu'il avait vu, ils lui dirent : **« Quant à l'homme de grande taille qui se trouve dans le jardin, c'est Ibrahim, paix et bénédictions sur lui ; et quant aux enfants qui l'entourent, ce sont tous les enfants morts dans la fitrah. »** Quelques musulmans demandèrent alors : « Ô Messager d'Allah, et les enfants des polythéistes ? » Le Messager d'Allah, paix et bénédictions sur lui, répondit : **« Et les enfants des polythéistes. »**[^5]
 
 #### Interprétation Savante
 
@@ -167,7 +167,7 @@ Ce hadith est le cœur de cette leçon : l'enfant qui meurt petit ne part ni ve
 
 <!-- activity:start audience="adults" concept_id="lesson.020.activity.garden_lanterns" -->
 
-Écrivez un court paragraphe décrivant ce que vous ressentez après avoir lu les hadiths des « *da'amis* de la Jannah » et du « songe de Samurah ibn Jundab ». Inscrivez ensuite sur une petite carte le prénom d'un enfant de votre connaissance parti vers la miséricorde d'Allah (dans votre famille ou votre entourage) ou, si vous n'en connaissez aucun, le prénom d'un enfant quelconque, et écrivez en dessous une seule invocation de miséricorde pour lui et pour les siens. Pliez la carte et gardez-la dans un endroit calme qui n'appartient qu'à vous, que vous appellerez « le jardin de l'espérance » ; et rappelez-vous que cette seule invocation est déjà une aumône continue (*sadaqah jariyah*) et une miséricorde qui parvient jusqu'à lui.
+Écrivez un court paragraphe décrivant ce que vous ressentez après avoir lu les hadiths des « *da'amis* de la Jannah » et du « songe de Samurah ibn Jundab ». Inscrivez ensuite sur une petite carte le prénom d'un enfant de votre connaissance parti vers la miséricorde d'Allah (dans votre famille ou votre entourage) ou, si vous n'en connaissez aucun, le prénom d'un enfant, quel qu'il soit, et écrivez en dessous une seule invocation de miséricorde pour lui et pour les siens. Pliez la carte et gardez-la dans un endroit calme qui n'appartient qu'à vous, que vous appellerez « le jardin de l'espérance » ; et rappelez-vous que cette seule invocation est déjà une aumône continue (*sadaqah jariyah*) et une miséricorde qui parvient jusqu'à lui.
 
 <!-- activity:end -->
 
@@ -177,7 +177,7 @@ Ce hadith est le cœur de cette leçon : l'enfant qui meurt petit ne part ni ve
 
 ## Pour Les Enfants De 4 À 7 Ans
 
-<!-- reader:start audience="4-7" estimated_minutes="4.5" -->
+<!-- reader:start audience="4-7" estimated_minutes="5.0" -->
 
 <!-- unit:start id="4-7.explanation" kind="explanation" -->
 
@@ -265,7 +265,7 @@ Avec ton papa ou ta maman, dessinez un beau jardin tout vert, plein d'arbres et 
 
 ## Pour Les Enfants De 8 À 12 Ans
 
-<!-- reader:start audience="8-12" estimated_minutes="6.0" -->
+<!-- reader:start audience="8-12" estimated_minutes="6.5" -->
 
 <!-- unit:start id="8-12.explanation" kind="explanation" -->
 
@@ -281,7 +281,7 @@ L'islam nous enseigne que l'enfant qui n'a pas encore atteint « l'âge de la r
 
 **Ceci est un récit véridique rapporté par Samurah ibn Jundab, qu'Allah soit satisfait de lui, d'après le Prophète, paix et bénédictions sur lui, et non une histoire inventée.**
 
-Le Prophète, paix et bénédictions sur lui, demandait souvent à ses Compagnons : « L'un de vous a-t-il vu un songe ? » Un matin, c'est lui qui leur raconta un long songe qu'il avait vu, que Samurah ibn Jundab, qu'Allah soit satisfait de lui, a rapporté de lui, et où l'on trouve ces mots : « Nous partîmes, jusqu'à arriver à un jardin luxuriant, couvert d'une végétation haute et dense, où s'épanouissaient toutes les fleurs du printemps. Au milieu du jardin se tenait un homme si grand que je distinguais à peine sa tête, tant elle s'élevait dans le ciel, et autour de lui se trouvaient des enfants, plus nombreux que tous ceux que j'avais jamais vus. » Le Prophète, paix et bénédictions sur lui, interrogea sur cette scène les deux compagnons qui le guidaient dans son rêve, et ils lui répondirent : « Quant à l'homme de grande taille qui se trouve dans le jardin, c'est Ibrahim, paix sur lui ; et quant aux enfants qui l'entourent, ce sont tous les enfants morts dans la fitrah. »[^5]
+Le Prophète, paix et bénédictions sur lui, demandait souvent à ses Compagnons : « L'un de vous a-t-il fait un songe ? » Un matin, c'est lui qui leur raconta un long songe — Samurah ibn Jundab, qu'Allah soit satisfait de lui, nous l'a rapporté —, où l'on trouve ces mots : « Nous partîmes, jusqu'à arriver à un jardin luxuriant, couvert d'une végétation haute et dense, où s'épanouissaient toutes les fleurs du printemps. Au milieu du jardin se tenait un homme si grand que je distinguais à peine sa tête, tant elle s'élevait dans le ciel, et autour de lui se trouvaient des enfants, plus nombreux que tous ceux que j'avais jamais vus. » Le Prophète, paix et bénédictions sur lui, interrogea sur cette scène les deux visiteurs qui l'accompagnaient dans son rêve, et ils lui répondirent : « Quant à l'homme de grande taille qui se trouve dans le jardin, c'est Ibrahim, paix sur lui ; et quant aux enfants qui l'entourent, ce sont tous les enfants morts dans la fitrah. »[^5]
 
 <!-- retelling:start source_id="bukhari.tabir.samurah_ruya" audience="8-12" -->
 
@@ -382,7 +382,7 @@ En islam, la notion d'« âge de la responsabilité » repose sur un principe�
 
 **Ceci est un récit véridique rapporté par Samurah ibn Jundab, qu'Allah soit satisfait de lui, d'après le Prophète, paix et bénédictions sur lui, dans Sahih al-Bukhari, et non une scène imaginée.**
 
-Le Prophète, paix et bénédictions sur lui, interrogeait souvent ses Compagnons sur leurs songes, et un matin c'est lui qui leur raconta un long songe aux scènes multiples, que Samurah ibn Jundab, qu'Allah soit satisfait de lui, a rapporté de lui, dans lequel deux visiteurs l'emmenèrent pour lui faire voir l'état des gens. Au détour de l'une de ces scènes, il dit, paix et bénédictions sur lui : « Nous partîmes, jusqu'à arriver à un jardin luxuriant, couvert d'une végétation haute et dense, où s'épanouissaient toutes les fleurs du printemps. Au milieu du jardin se tenait un homme si grand que je distinguais à peine sa tête, tant elle s'élevait dans le ciel, et autour de lui se trouvaient des enfants, plus nombreux que tous ceux que j'avais jamais vus. Je leur demandai : “Qu'est-ce que cela ? Qui sont ceux-là ?” »[^5]
+Le Prophète, paix et bénédictions sur lui, interrogeait souvent ses Compagnons sur leurs songes. Un matin, c'est lui qui leur raconta un long songe aux scènes multiples — rapporté par Samurah ibn Jundab, qu'Allah soit satisfait de lui —, dans lequel deux visiteurs l'emmenèrent pour lui faire voir l'état des gens. Au détour de l'une de ces scènes, il dit, paix et bénédictions sur lui : « Nous partîmes, jusqu'à arriver à un jardin luxuriant, couvert d'une végétation haute et dense, où s'épanouissaient toutes les fleurs du printemps. Au milieu du jardin se tenait un homme si grand que je distinguais à peine sa tête, tant elle s'élevait dans le ciel, et autour de lui se trouvaient des enfants, plus nombreux que tous ceux que j'avais jamais vus. Je leur demandai : “Qu'est-ce que cela ? Qui sont ceux-là ?” »[^5]
 
 À la fin du songe, lorsque les deux visiteurs lui expliquèrent tout ce qu'il avait vu, ils lui dirent au sujet de cette scène précise : « Quant à l'homme de grande taille qui se trouve dans le jardin, c'est Ibrahim, paix sur lui ; et quant aux enfants qui l'entourent, ce sont tous les enfants morts dans la fitrah. » Quelques-uns des présents demandèrent : « Ô Messager d'Allah, et les enfants des polythéistes ? » Il répondit, paix et bénédictions sur lui : « Et les enfants des polythéistes. »[^5]
 
@@ -444,7 +444,7 @@ Ce hadith redéfinit le sens même de la perte : le lien entre l'enfant et ses 
 
 <!-- activity:start audience="13+" concept_id="lesson.020.activity.garden_lanterns" -->
 
-Écris un paragraphe personnel où tu décris ce qui t'a le plus touché dans les hadiths des « *da'amis* de la Jannah » et du « songe de Samurah ibn Jundab » : est-ce l'image du jardin, ou celle de l'enfant agrippé au vêtement de son père ? Écris ensuite une invocation personnelle pour ta famille, ou pour un enfant que tu connais et qui est parti vers la miséricorde d'Allah, ou pour un enfant quelconque si tu n'en connais aucun. Plie la feuille en forme de petite lanterne et garde-la dans un endroit calme qui n'appartient qu'à toi, comme le symbole de la lumière de cette espérance dans ton cœur.
+Écris un paragraphe personnel où tu décris ce qui t'a le plus touché dans les hadiths des « *da'amis* de la Jannah » et du « songe de Samurah ibn Jundab » : est-ce l'image du jardin, ou celle de l'enfant agrippé au vêtement de son père ? Écris ensuite une invocation personnelle pour ta famille, ou pour un enfant que tu connais et qui est parti vers la miséricorde d'Allah, ou, si tu n'en connais aucun, pour un enfant, quel qu'il soit. Plie la feuille en forme de petite lanterne et garde-la dans un endroit calme qui n'appartient qu'à toi, comme le symbole de la lumière de cette espérance dans ton cœur.
 
 <!-- activity:end -->
 
@@ -475,7 +475,7 @@ Ce hadith redéfinit le sens même de la perte : le lien entre l'enfant et ses 
 ### Les Adultes — 50 Minutes
 
 <!-- lesson-plan:outcomes -->
-**Résultats d'apprentissage :** l'apprenant explique le fondement légal qui fait que l'enfant n'est pas tenu pour responsable avant l'âge de la responsabilité, rapporte fidèlement les hadiths des « *da'amis* de la Jannah » et du « songe de Samurah ibn Jundab », et sait se comporter avec délicatesse et miséricorde envers une personne qui a perdu un tout-petit.
+**Résultats d'apprentissage :** l'apprenant explique le fondement scripturaire selon lequel l'enfant n'est pas tenu pour comptable de ses actes avant l'âge de la responsabilité, rapporte fidèlement les hadiths des « *da'amis* de la Jannah » et du « songe de Samurah ibn Jundab », et sait se comporter avec délicatesse et miséricorde envers une personne qui a perdu un tout-petit.
 
 <!-- lesson-plan:materials -->
 **Matériel :** une copie de la leçon ; un Coran pour se référer au verset d'at-Tur ; de petites cartes vierges pour l'activité.

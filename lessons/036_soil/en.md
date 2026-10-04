@@ -30,7 +30,7 @@ After this lesson, the learner will be able to:
 
 ## Academic Section for Adults
 
-<!-- reader:start audience="adults" estimated_minutes="6.5" -->
+<!-- reader:start audience="adults" estimated_minutes="7.0" -->
 
 <!-- unit:start id="adults.explanation" kind="explanation" -->
 
@@ -102,7 +102,7 @@ This is an eyewitness report, not a description from a distance: "I was admitted
 
 #### Scholarly Explanation
 
-*Darmak* is fine, pure white flour.[^9] In another narration in Muslim, it was the Prophet, peace and blessings be upon him, who asked Ibn Sayyad about the soil of Jannah; Ibn Sayyad answered with this description, and the Prophet, peace and blessings be upon him, said, "You have spoken the truth."[^5] Ibn al-Qayyim brought together the descriptions of the soil that have been reported (musk, *darmak* and saffron) and said, "There is no contradiction between them." Among the ways he reconciles them is that it may be "saffron with respect to its color, musk with respect to its scent"; likewise its likening to *darmak*, which for him is "pure bread whose color tends toward yellow, together with its softness and fineness."[^7]
+*Darmak* is fine, pure white flour.[^9] In another narration in Muslim, it was the Prophet, peace and blessings be upon him, who asked Ibn Sayyad about the soil of Jannah; Ibn Sayyad answered with this description, and the Prophet, peace and blessings be upon him, said, "You have spoken the truth."[^5] Ibn al-Qayyim brought together the descriptions of the soil that have been reported (musk, *darmak* and saffron) and said, "There is no contradiction between them." Among the ways he reconciles them is that it may be "saffron with respect to its color, musk with respect to its scent"; and likewise its being likened to *darmak*, which he takes to mean "pure bread whose color tends toward yellow, together with its softness and fineness."[^7]
 
 #### Lesson Explanation
 
@@ -186,11 +186,11 @@ Put a handful of soil from a garden or roadside into a small container, and writ
 
 ## For Children Ages 4 to 7
 
-<!-- reader:start audience="4-7" estimated_minutes="5.0" -->
+<!-- reader:start audience="4-7" estimated_minutes="6.5" -->
 
 <!-- unit:start id="4-7.explanation" kind="explanation" -->
 
-We walk on the ground every day. It has dirt and mud, and sometimes stones and thorns. But the Prophet, peace and blessings be upon him, told us that he saw the ground of Jannah, and that its soil is musk. Musk is a lovely perfume.[^4] And the people of Jannah say there: `Praise be to Allah, who has kept His promise to us`.[^1]
+We walk on the ground every day. It has dirt and mud, and sometimes stones and thorns. But the Prophet, peace and blessings be upon him, told us that he saw the ground of Jannah, and that its soil is musk. Musk is a very lovely perfume.[^4] And the people of Jannah say there: `Praise be to Allah, who has kept His promise to us`.[^1]
 
 <!-- unit:end -->
 
@@ -214,7 +214,7 @@ Dad hurried over. "Good job, Yahya. Don't touch it with your hand; glass cuts." 
 
 The little kids ran and laughed by the slide, and nobody got hurt.
 
-On the bench, Dad said, "You know what? The Prophet, peace and blessings be upon him, told us he saw a man enjoying Jannah because he took a tree out of the road that was hurting people."[^8]
+On the bench, Dad said, "You know what? The Prophet, peace and blessings be upon him, told us he saw a man enjoying Jannah because he moved a tree that was hurting people out of the road."[^8]
 
 "Like the glass?" asked Yahya. "Yes, a lot like it," said Dad. "And the Prophet also told us the soil of Jannah is musk."
 
@@ -244,7 +244,7 @@ That night, Allah gave the ummah of Muhammad a gift: the prayer. It started as f
 
 Then the Prophet, peace and blessings be upon him, went into Jannah. He saw pearls there, and he saw that its soil was musk.[^4]
 
-Think about it: the prayers we pray every day were given to us on the night the Prophet saw the soil of Jannah. In sujud, we put our foreheads on the ground and ask Allah for Jannah.
+Think about it: the prayers we pray every day were given to us on the night the Prophet saw the soil of Jannah. When we go down in sujud, we put our foreheads on the ground and ask Allah for Jannah.
 
 <!-- retelling:end -->
 
@@ -297,11 +297,11 @@ What it means, in simple words: O Allah, help us do good as we walk on the groun
 
 ## For Children Ages 8 to 12
 
-<!-- reader:start audience="8-12" estimated_minutes="6.0" -->
+<!-- reader:start audience="8-12" estimated_minutes="7.0" -->
 
 <!-- unit:start id="8-12.explanation" kind="explanation" -->
 
-Soil here changes from place to place: red, black, sandy, muddy, and sometimes full of trash. But the Qur'an tells us the believers will inherit the land of Jannah and will say: `Praise be to Allah, who has fulfilled His promise to us and made us inherit the land, so that we may settle in Jannah wherever we wish`.[^1] The mufassir as-Sa'di explained: "that is, the land of Jannah."[^2] And when Ibn Sayyad asked the Prophet, peace and blessings be upon him, about the soil of Jannah, he answered: "Fine white flour, pure musk."[^5]
+Earth's soil changes from place to place: red, black, sandy, muddy, and sometimes full of trash. But the Qur'an tells us the believers will inherit the land of Jannah and will say: `Praise be to Allah, who has fulfilled His promise to us and made us inherit the land, so that we may settle in Jannah wherever we wish`.[^1] The scholar as-Sa'di explained: "that is, the land of Jannah."[^2] And when Ibn Sayyad asked the Prophet, peace and blessings be upon him, about the soil of Jannah, he answered: "Fine white flour, pure musk."[^5]
 
 <!-- unit:end -->
 
@@ -317,7 +317,7 @@ The school announced a "Best Garden Bed" contest; the winner's photo would run i
 
 "Let's plant the front bed by the gate," said Lina. "The soil's ready, and everyone will see our picture!"
 
-But Salma had noticed something else: the back corner of the schoolyard, by the bus lane. Kids tossed wrappers and cans there, sharp stones stuck out everywhere, and last week a little boy had tripped and cut his knee.
+But Salma had noticed something else: the back corner of the schoolyard, by the bus lane. Kids tossed wrappers and cans there, sharp stones jutted up, and last week a little boy had tripped and cut his knee.
 
 "What if we cleaned the back corner and planted there?" Salma asked. Lina laughed. "Nobody will ever see it! We won't win."
 
@@ -421,7 +421,7 @@ What it means: O Allah, make every step we take on this earth a step of obeying 
 
 ## For Teens, Ages 13+
 
-<!-- reader:start audience="13+" estimated_minutes="6.5" -->
+<!-- reader:start audience="13+" estimated_minutes="7.0" -->
 
 <!-- unit:start id="13+.explanation" kind="explanation" -->
 
@@ -451,7 +451,7 @@ Khalid thought about the irrigation ditch the two plots shared. Both sides used 
 
 On Friday, Khalid took a shovel and a trash bag and went out alone. An hour later, Yusuf showed up and stood off at a distance. "What are you doing? This isn't your land." "It isn't yours either," Khalid said. "It's our grandmother's road." Yusuf said nothing. Then he took the bag and started picking up trash.
 
-The dispute did not end. The case over the wall is still in court, and Khalid's father is still angry. But Yusuf deleted his message from the group chat and wrote, "Sorry for what I said." And that evening, their grandmother posted a photo of the clean ditch, with two words under it: "Alhamdulillah."
+The dispute did not end. The case over the wall is still in court, and Khalid's father is still angry. But Yusuf deleted his message from the group chat and wrote, "Sorry for what I said." And that evening, their grandmother posted a photo of the clean ditch and wrote under it: "Alhamdulillah."
 
 Khalid wrote in his journal: "I can't fix the wall. I can clear the road, and I can refuse to sell my tongue for a meter of dirt."
 
@@ -561,7 +561,7 @@ This du'a holds two lands together: the land we walk on today, where we ask Alla
 **Guided Instruction — 10 minutes:** The teacher leads a discussion of two questions: Why did the vision of Jannah's soil come on the very night the prayer was made obligatory? And how do we distinguish, within a single lesson, between primary evidence and a disputed supporting witness, without either discarding it or overstating it?
 
 <!-- lesson-plan:activity -->
-**Activity — 15 minutes:** Learners carry out the observation part of the activity "From Roadside Dust to Soil of Musk" as described in the activity unit, and each learner fixes the place, the hazard and a time within the next three days.
+**Activity — 15 minutes:** Learners carry out the observation part of the activity "From Roadside Dust to Soil of Musk" as described in the activity unit, and each learner settles on the place, the hazard and a time within the next three days.
 
 <!-- lesson-plan:assessment -->
 **Assessment and Closing — 10 minutes:** Each learner writes the established descriptions of Jannah's soil with the source of each one, plus one sentence on the status of the hadith about the pebbles. Close by inviting learners to share their two lines after three days.
@@ -642,7 +642,7 @@ This du'a holds two lands together: the land we walk on today, where we ask Alla
 **Differentiation:** For students who are struggling, provide fewer cards and a table with the words already written in. Advanced students write a paragraph on the difference between established evidence and a hadith whose chain is disputed.
 
 <!-- lesson-plan:safeguards -->
-**Teaching Cautions:** Do not assign students to remove glass or hazardous materials; they report them to adults. Do not draw pictures of the Prophet, peace and blessings be upon him, Jibril, or the prophets. Do not mock those who chose the front bed; the point is sincerity, not putting down winning.
+**Teaching Cautions:** Do not assign students to remove glass or hazardous materials; they report them to adults. Do not draw pictures of the Prophet, peace and blessings be upon him, Jibril, or the prophets. Do not mock those who chose the front bed; the point is sincerity, not belittling success.
 
 <!-- lesson-plan:end -->
 

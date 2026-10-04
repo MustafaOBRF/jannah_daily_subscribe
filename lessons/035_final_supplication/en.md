@@ -30,11 +30,11 @@ After this lesson, the learner will be able to:
 
 ## Academic Section for Adults
 
-<!-- reader:start audience="adults" estimated_minutes="6.5" -->
+<!-- reader:start audience="adults" estimated_minutes="7.0" -->
 
 <!-- unit:start id="adults.explanation" kind="explanation" -->
 
-Every journey ends with a last word, and that word gives away what lies in the traveler's heart: a complaint, a sigh of relief, or praise. The Qur'an tells us the last word of the people of Jannah, spoken after the long journey of this world and the terrors of the Standing: `And the close of their call is: "Praise be to Allah, Lord of all the worlds."`
+Every journey ends with a last word, and that word gives away what lies in the traveler's heart: a complaint, a sigh of relief, or praise. The Qur'an tells us the last word of the people of Jannah, spoken after the long journey of this world and the terrors of the Standing on the Day of Judgment: `And the close of their call is: "Praise be to Allah, Lord of all the worlds."`
 
 This lesson presents the Qur'anic scene in Surah Yunus and reads alongside it the ayat of Fatir on the praise the people of Jannah offer once they are settled, together with the hadith of Jabir describing how glorification and praise flow from their tongues as naturally as breath. Then it asks: if praise is the final word of the people of Jannah, what is our final word today?
 
@@ -64,7 +64,7 @@ At-Tabari reports from Ibn Jurayj, introduced only with "I was told," that whene
 
 #### Lesson Explanation
 
-The ayat set two hearts side by side: one heart that grew comfortable with this world and so became heedless, and another that believed and acted and so was guided. The second journey does not end in silence, nor in a list of demands. It ends with Allah declared perfect at the start of speech, with peace exchanged among them, and with praise at its close.
+The ayat set two hearts side by side: one heart that grew comfortable with this world and so became heedless, and another that believed and acted and so was guided. The second journey does not end in silence, nor in a list of demands. It ends with Allah declared perfect at the start of their speech, with peace exchanged among them, and with praise at its close.
 
 <!-- evidence:end -->
 
@@ -378,7 +378,7 @@ The second road belongs to those who believed and did righteous deeds in the mid
 
 <!-- retelling:start source_id="quran-10-7-10" audience="13+" -->
 
-Then the scene cuts to the end of the road: rivers flowing beneath them in the Gardens of Bliss, and speech with nothing empty in it. It opens with `Glory be to You, O Allah`, their greeting is `Peace`, and it closes with `Praise be to Allah, Lord of all the worlds`. Ibn al-Qayyim establishes that this is praise they are inspired with as they are inspired with breath, with no obligation involved.[^1][^4]
+Then the scene cuts to the end of the road: rivers flowing beneath them in the Gardens of Bliss, and speech with no idle talk in it. It opens with `Glory be to You, O Allah`, their greeting is `Peace`, and it closes with `Praise be to Allah, Lord of all the worlds`. Ibn al-Qayyim affirms that this is praise they are inspired with as they are inspired with breath, with no obligation involved.[^1][^4]
 
 <!-- retelling:end -->
 

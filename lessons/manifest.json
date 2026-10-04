@@ -734,7 +734,7 @@
         "ar": "سَادَةُ أَهْلِ الْجَنَّةِ وَالْمُبَشَّرُونَ بِهَا",
         "en": "The Leaders of Jannah and Those Promised It by Name",
         "ur": "اہلِ جنت کے سردار اور جنت کی خوشخبری پانے والے",
-        "fr": "Les Seigneurs de la Jannah et Ceux à Qui Elle Fut Annoncée",
+        "fr": "Les seigneurs de la Jannah et ceux à qui elle fut annoncée",
         "es": "Los señores del Paraíso y quienes recibieron su buena nueva"
       },
       "hooks": {
@@ -776,7 +776,7 @@
       "hooks": {
         "ar": "بعد هذا الدرس، يخرج المتعلم بيقين أن الطفل الذي يقبضه الله إليه قبل بلوغ سنّ التكليف لا يُحاسَب على شيء، لأن القلم رُفع عنه، وأنه بفضل الله ورحمته من أهل الجنة. يتعرّف المتعلم على حديث «دعاميص الجنة»،",
         "en": "By the end of this lesson, the learner comes away certain that a child whom Allah takes back to Himself before reaching the age of accountability is not held to account for anything, because the Pen h",
-        "ur": "اس سبق کے بعد سیکھنے والا اس یقین کے ساتھ اٹھتا ہے کہ جس بچے یا بچی کو اللہ شرعی ذمہ داری کی عمر (سِنِّ تکلیف) کو پہنچنے سے پہلے اپنے پاس بلا لیتا ہے، اس سے کسی بات کا حساب نہیں لیا جاتا، کیونکہ اس سے",
+        "ur": "اس سبق کے بعد سیکھنے والا اس یقین تک پہنچتا ہے کہ جس بچے یا بچی کو اللہ شرعی ذمہ داری کی عمر (سِنِّ تکلیف) کو پہنچنے سے پہلے اپنے پاس بلا لیتا ہے، اس سے کسی بات کا حساب نہیں لیا جاتا، کیونکہ اس سے قلم",
         "fr": "Au terme de cette leçon, l'apprenant repart avec une certitude : l'enfant qu'Allah rappelle à Lui avant l'âge de la responsabilité religieuse n'aura de comptes à rendre pour rien, car le Calame est le",
         "es": "Al terminar esta lección, el aprendiz tendrá la certeza de que el niño al que Allah se lleva consigo antes de alcanzar la edad de responsabilidad religiosa no rinde cuentas de nada, porque el Cálamo h"
       },
@@ -884,9 +884,9 @@
       "hooks": {
         "ar": "بعد هذا الدرس، يكون المتعلم قادرًا على:",
         "en": "To help the learner understand the meaning of entering Paradise \"without reckoning\" (بِغَيْرِ حِسَابٍ), and that it is a magnificent favor Allah grants to whom He wills among His servants.",
-        "ur": "سیکھنے والے کو یہ سمجھانا کہ \"بِغَیْرِ حِسَابٍ\" (بغیر حساب کے) جنت میں داخل ہونے کا کیا مطلب ہے، اور یہ کہ یہ اللہ تعالیٰ کا اپنے جن بندوں پر چاہے عطا کیا جانے والا ایک عظیم فضل ہے۔",
-        "fr": "Aider l'apprenant à comprendre le sens d'entrer au Paradis \"sans reddition de comptes\" (بِغَيْرِ حِسَابٍ), une faveur magnifique qu'Allah accorde à qui Il veut parmi Ses serviteurs.",
-        "es": "Ayudar al aprendiz a comprender el significado de entrar al Paraíso \"sin rendir cuentas\" (بِغَيْرِ حِسَابٍ), un favor magnífico que Allah concede a quien Él quiere de Sus siervos."
+        "ur": "سیکھنے والے کو یہ سمجھانا کہ \"بِغَیْرِ حِسَابٍ\" (بغیر حساب کے) جنت میں داخل ہونے کا کیا مطلب ہے، اور یہ کہ یہ اللہ تعالیٰ کا ایک عظیم فضل ہے جو وہ اپنے بندوں میں سے جسے چاہے عطا فرماتا ہے۔",
+        "fr": "Aider l'apprenant à comprendre ce que signifie entrer au Paradis \"sans reddition de comptes\" (بِغَيْرِ حِسَابٍ), faveur immense qu'Allah accorde à qui Il veut parmi Ses serviteurs.",
+        "es": "Ayudar al aprendiz a comprender el significado de entrar al Paraíso \"sin rendir cuentas\" (بِغَيْرِ حِسَابٍ), un favor inmenso que Allah concede a quien Él quiere de Sus siervos."
       },
       "status": {
         "ar": "arabic_draft",

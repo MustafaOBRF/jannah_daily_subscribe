@@ -30,7 +30,7 @@ Después de esta lección, el aprendiz será capaz de:
 
 ## Sección académica para adultos
 
-<!-- reader:start audience="adults" estimated_minutes="6.5" -->
+<!-- reader:start audience="adults" estimated_minutes="7.0" -->
 
 <!-- unit:start id="adults.explanation" kind="explanation" -->
 
@@ -196,7 +196,7 @@ Pon en un recipiente pequeño un puñado de tierra de un jardín o de un camino,
 
 ## Para niños de 4 a 7 años
 
-<!-- reader:start audience="4-7" estimated_minutes="5.0" -->
+<!-- reader:start audience="4-7" estimated_minutes="7.0" -->
 
 <!-- unit:start id="4-7.explanation" kind="explanation" -->
 
@@ -224,7 +224,7 @@ Su papá llegó corriendo: "¡Muy bien, Yahya! No los toques con la mano, que co
 
 Los niños siguieron corriendo y riendo, y nadie se cortó.
 
-Ya en un banco, el papá le dijo: "¿Sabes? Nuestro Profeta, la paz y las bendiciones de Allah sean con él, nos contó que vio a un hombre feliz en el Paraíso porque había quitado del camino un árbol que molestaba a la gente".[^8]
+Sentados en un banco, el papá le dijo: "¿Sabes? Nuestro Profeta, la paz y las bendiciones de Allah sean con él, nos contó que vio a un hombre feliz en el Paraíso porque había quitado del camino un árbol que molestaba a la gente".[^8]
 
 "¿Como los cristales?", preguntó Yahya. "Algo parecido —dijo su papá—. Y el Profeta también nos contó que la tierra del Paraíso es almizcle".
 
@@ -250,7 +250,7 @@ Una noche, el Profeta, la paz y las bendiciones de Allah sean con él, estaba en
 
 En cada puerta del cielo, el guardián preguntaba: "¿Quién es?". Yibril respondía: "Soy Yibril, y viene conmigo Muhammad". Y la puerta se abría.
 
-Aquella noche, Allah regaló a la comunidad de Muhammad la oración: eran cincuenta, y el Profeta pidió a su Señor que las aligerara hasta que quedaron en cinco, con la recompensa de cincuenta.
+Aquella noche, Allah regaló a la comunidad de Muhammad la oración: eran cincuenta, y el Profeta fue pidiendo a su Señor que las aligerara hasta que quedaron en cinco, con la recompensa de cincuenta.
 
 Después, el Profeta, la paz y las bendiciones de Allah sean con él, entró en el Paraíso, vio perlas y vio que su tierra era almizcle.[^4]
 
@@ -307,11 +307,11 @@ Su sentido, en palabras sencillas: Oh Allah, haz que caminemos por la tierra hac
 
 ## Para niños de 8 a 12 años
 
-<!-- reader:start audience="8-12" estimated_minutes="6.0" -->
+<!-- reader:start audience="8-12" estimated_minutes="7.0" -->
 
 <!-- unit:start id="8-12.explanation" kind="explanation" -->
 
-Aquí la tierra cambia de un sitio a otro: roja, negra, arenosa, arcillosa, a veces llena de basura. Pero el Corán dice que los creyentes heredarán la tierra del Paraíso y dirán: {Alabado sea Allah, que ha cumplido Su promesa con nosotros y nos ha dado en herencia la tierra, para establecernos en el Paraíso donde queramos}.[^1] As-Sa'di explicó: "Es decir, la tierra del Paraíso".[^2] Y cuando Ibn Sayyad preguntó al Profeta, la paz y las bendiciones de Allah sean con él, por el suelo del Paraíso, respondió: «Harina blanca y finísima, almizcle puro».[^5]
+En este mundo, la tierra varía según el lugar: roja, negra, arenosa, arcillosa, a veces llena de basura. Pero el Corán dice que los creyentes heredarán la tierra del Paraíso y dirán: {Alabado sea Allah, que ha cumplido Su promesa con nosotros y nos ha dado en herencia la tierra, para establecernos en el Paraíso donde queramos}.[^1] As-Sa'di explicó: "Es decir, la tierra del Paraíso".[^2] Y cuando Ibn Sayyad preguntó al Profeta, la paz y las bendiciones de Allah sean con él, por el suelo del Paraíso, él respondió: «Harina blanca y finísima, almizcle puro».[^5]
 
 <!-- unit:end -->
 
@@ -409,7 +409,7 @@ Fíjate: todo en este viaje es grandioso, y al final la tierra del Paraíso resu
 
 <!-- activity:start audience="8-12" concept_id="lesson.036.activity.clear-the-path-sense-the-soil" -->
 
-Haz una tabla con tres filas (color, tacto, olor) y dos columnas ("Tierra de este mundo" y "Tierra del Paraíso"). Observa un poco de tierra de un jardín o un patio y anota en la primera columna lo que notes; en la segunda, la palabra del hadiz: «blanca», «harina finísima (darmaka)», «almizcle puro». Después, con uno de tus padres o tu maestro, elige un lugar compartido con algo que haga daño (pasillo, patio, entrada de un edificio), y fotografíalo o dibújalo antes y después de limpiarlo, con guantes y bajo la vigilancia de un adulto. Escribe dos frases: ¿qué quitaste? ¿Quién pasa ahora sin peligro?
+Haz una tabla con tres filas (color, tacto, olor) y dos columnas ("Tierra de este mundo" y "Tierra del Paraíso"). Toma un poco de tierra de un jardín o un patio y anota en la primera columna lo que notes; en la segunda, la palabra del hadiz: «blanca», «harina finísima (darmaka)», «almizcle puro». Después, con uno de tus padres o tu maestro, elige un lugar compartido con algo que haga daño (pasillo, patio, entrada de un edificio), y fotografíalo o dibújalo antes y después de limpiarlo, con guantes y bajo la vigilancia de un adulto. Escribe dos frases: ¿qué quitaste? ¿Quién pasa ahora sin peligro?
 
 <!-- activity:end -->
 
@@ -437,7 +437,7 @@ Su sentido: Oh Allah, que cada paso que demos sobre la tierra sea en obediencia 
 
 ## Para adolescentes de 13+
 
-<!-- reader:start audience="13+" estimated_minutes="6.5" -->
+<!-- reader:start audience="13+" estimated_minutes="7.0" -->
 
 <!-- unit:start id="13+.explanation" kind="explanation" -->
 
@@ -652,7 +652,7 @@ Esta súplica une las dos tierras: la que pisamos hoy, en la que pedimos a Allah
 **Estudio de la evidencia — 10 minutos:** se recita la aleya de Az-Zumar con la explicación de as-Sa'di; después se narra el relato de la Ascensión y los estudiantes ordenan las tarjetas; luego se lee el hadiz de Muslim sobre el suelo del Paraíso y se explican los términos.
 
 <!-- lesson-plan:instruction -->
-**Instrucción guiada — 10 minutos:** se lee el relato de Salma; el docente se detiene en la frase de Lina, "¡Nadie lo va a ver!", y pregunta: «¿Quién ve la obra que la gente no ve?». Después se relaciona con el hadiz del árbol.
+**Instrucción guiada — 10 minutos:** se lee el relato de Salma; el docente se detiene en la frase de Lina, "¡Nadie lo verá!", y pregunta: «¿Quién ve la obra que la gente no ve?». Después se relaciona con el hadiz del árbol.
 
 <!-- lesson-plan:activity -->
 **Actividad — 10 minutos:** los estudiantes completan la tabla de observación tal como se describe en la unidad de actividad y planifican, con la supervisión del docente, la limpieza del rincón elegido.
@@ -714,7 +714,7 @@ Esta súplica une las dos tierras: la que pisamos hoy, en la que pedimos a Allah
 [^2]: As-Sa'di, *Taisir al-Karim ar-Rahman fi Tafsir Kalam al-Mannan*, tafsir de la sura Az-Zumar, aleya 74: [quran.ksu.edu.sa/tafseer/saadi/sura39-aya74.html](https://quran.ksu.edu.sa/tafseer/saadi/sura39-aya74.html).
 [^3]: Ibn Kazir, *Tafsir al-Qur'an al-'Azim*, tafsir de la sura Az-Zumar, aleya 74, donde atribuye la interpretación de "la tierra" como la tierra del Paraíso a Abu al-'Aliya, Abu Salih, Qatada, as-Suddi e Ibn Zaid, y cita el hadiz de la Ascensión y el hadiz sobre el suelo del Paraíso: [quran.ksu.edu.sa/tafseer/katheer/sura39-aya74.html](https://quran.ksu.edu.sa/tafseer/katheer/sura39-aya74.html).
 [^4]: Sahih al-Bujari, Libro de la oración (Kitab as-Salat), capítulo de cómo se prescribió la oración durante el Viaje Nocturno, hadiz 349, transmitido por Anas ibn Malik de Abu Darr, que Allah esté complacido con ambos; el relato de la prescripción de la oración procede de la transmisión de Ibn Hazm y de Anas ibn Malik. Es un hadiz auténtico: [sunnah.com/bukhari:349](https://sunnah.com/bukhari:349). Se recoge el texto sin la cadena de transmisión, y se ha omitido un pasaje, marcado entre corchetes (la ascensión por los cielos y la bienvenida de los profetas, y la frase «Luego ascendió conmigo hasta llegar a un nivel en el que oía el chirrido de los cálamos», de la transmisión de Ibn Abbas y Abu Habba); la omisión no altera el sentido de lo que atañe a la lección. La versión «cúpulas de perlas (yanabid al-lu'lu')» está en Sahih al-Bujari, hadiz 3342: [sunnah.com/bukhari:3342](https://sunnah.com/bukhari:3342), y en Sahih Muslim, hadiz 163: [sunnah.com/muslim:163](https://sunnah.com/muslim:163). La explicación de «Son cinco y son cincuenta» procede de Sahih Muslim, hadiz 162 (de la transmisión de Zabit, de Anas): [sunnah.com/muslim:162a](https://sunnah.com/muslim:162a).
-[^5]: Sahih Muslim, Libro de las pruebas y los signos de la Hora (Kitab al-Fitan wa Ashrat as-Sa'a), capítulo sobre Ibn Sayyad, hadiz 2928 (segunda versión, por la vía de Abu Usama, de al-Yurairi, de Abu Nadra, de Abu Sa'id al-Judri). Es un hadiz auténtico: [sunnah.com/muslim:2928b](https://sunnah.com/muslim:2928b). En la primera versión (por la vía de Abu Maslama, de Abu Nadra), es el Profeta, la paz y las bendiciones de Allah sean con él, quien pregunta a Ibn Sayyad (que en esta versión aparece como Ibn Sa'id); este responde, y él le dice: «Has dicho la verdad»: [sunnah.com/muslim:2928a](https://sunnah.com/muslim:2928a).
+[^5]: Sahih Muslim, Libro de las pruebas y los signos de la Hora (Kitab al-Fitan wa Ashrat as-Sa'a), capítulo sobre Ibn Sayyad, hadiz 2928 (segunda versión, por la vía de Abu Usama, de al-Yurairi, de Abu Nadra, de Abu Sa'id al-Judri). Es un hadiz auténtico: [sunnah.com/muslim:2928b](https://sunnah.com/muslim:2928b). En la primera versión (por la vía de Abu Maslama, de Abu Nadra), es el Profeta, la paz y las bendiciones de Allah sean con él, quien pregunta a Ibn Sayyad (que en esta versión aparece como Ibn Sá'id); este responde, y él le dice: «Has dicho la verdad»: [sunnah.com/muslim:2928a](https://sunnah.com/muslim:2928a).
 [^6]: Yami' at-Tirmidi, Libro de la descripción del Paraíso (Abwab Sifat al-Yanna), capítulo sobre la descripción del Paraíso y sus delicias, hadiz 2526, de Abu Huraira, que Allah esté complacido con él: [sunnah.com/tirmidhi:2526](https://sunnah.com/tirmidhi:2526). Se recoge de él el pasaje pertinente y se ha omitido su comienzo, marcado (la pregunta de los Compañeros sobre la ternura de sus corazones cuando estaban con el Profeta, la paz y las bendiciones de Allah sean con él, y sobre la materia de la que fue creada la creación). At-Tirmidi dijo: "Este hadiz no tiene una cadena tan sólida, y para mí no es continua; este hadiz se ha transmitido también de Abu Huraira por otra cadena"; Ahmad Shakir y al-Albani lo declararon auténtico por el conjunto de sus vías, y Zubair Ali Za'i lo declaró débil. Por eso no se ha tomado en esta lección como evidencia principal.
 [^7]: Ibn Qayyim al-Yawziyya, *Hadi al-Arwah ila Bilad al-Afrah* (ed. 'Ata'at al-'Ilm), capítulo treinta y cuatro: sobre el suelo del Paraíso, su barro, sus guijarros y su construcción, pp. 280-288. Allí se encuentra su afirmación: "Son, pues, tres descripciones de su suelo, y no hay contradicción entre ellas", junto con las formas de armonizarlas, y las notas del editor crítico: que el hadiz de Ahmad gira en torno a Abu al-Mudilla, de quien Ibn al-Madini dijo: "Desconocido"; que el hadiz "La tierra del Paraíso es blanca; su explanada, rocas de alcanfor" (Ibn Abi ad-Dunya) tiene una cadena muy débil; y que el hadiz de Ubayy ibn Ka'b "y su tierra es oro puro ('iqyan)" es inventado: [shamela.ws/book/13652/333](https://shamela.ws/book/13652/333).
 [^8]: Sahih Muslim, Libro de la piedad, los lazos familiares y los buenos modales (Kitab al-Birr wa as-Sila wa al-Adab), capítulo del mérito de retirar del camino lo que causa daño, hadiz 1914 (tercera versión en el Libro de la piedad, por la vía de al-A'mash, de Abu Salih, de Abu Huraira). Es un hadiz auténtico: [sunnah.com/muslim:1914d](https://sunnah.com/muslim:1914d). La versión «¡Por Allah que voy a apartar esto del camino de los musulmanes para que no les haga daño!; y se le hizo entrar en el Paraíso» procede de la vía de Suhail, de su padre: [sunnah.com/muslim:1914c](https://sunnah.com/muslim:1914c).

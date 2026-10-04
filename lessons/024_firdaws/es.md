@@ -31,11 +31,11 @@ Después de esta lección, el aprendiz será capaz de:
 
 ## Sección académica para adultos
 
-<!-- reader:start audience="adults" estimated_minutes="6.5" -->
+<!-- reader:start audience="adults" estimated_minutes="7.0" -->
 
 <!-- unit:start id="adults.explanation" kind="explanation" -->
 
-En la lección sobre los grados del Paraíso aprendimos que el Paraíso tiene cien grados y que entre cada dos de ellos hay la distancia que separa el cielo de la tierra. Esta lección se detiene en las palabras con las que el Profeta, la paz y las bendiciones de Allah sean con él, cerró aquel hadiz: «Cuando pidáis a Allah, pedidle el Firdaus». No dijo: "Pedidle el rincón más bajo del Paraíso", ni: "Pedidle lo que corresponda a vuestras obras". Orientó a la comunidad entera hacia lo más alto que hay en el Paraíso, y luego lo describió con tres rasgos: es el centro del Paraíso y su parte más alta, sobre él está el Trono del Misericordioso, y de él brotan los ríos del Paraíso.
+En la lección sobre los grados del Paraíso aprendimos que el Paraíso tiene cien grados y que entre cada dos de ellos media la misma distancia que entre el cielo y la tierra. Esta lección se detiene en las palabras con las que el Profeta, la paz y las bendiciones de Allah sean con él, cerró aquel hadiz: «Cuando pidáis a Allah, pedidle el Firdaus». No dijo: "Pedidle el rincón más bajo del Paraíso", ni: "Pedidle lo que corresponda a vuestras obras". Orientó a la comunidad entera hacia lo más alto que hay en el Paraíso, y luego lo describió con tres rasgos: es el centro del Paraíso y su parte más alta, sobre él está el Trono del Misericordioso, y de él brotan los ríos del Paraíso.
 
 Esta enseñanza corrige dos errores opuestos:
 
@@ -64,7 +64,7 @@ Entre ambos extremos se sitúa el relato de la madre de Hariza: una madre desgar
 
 #### Interpretación académica
 
-La expresión "creo que dijo" (urahu) refleja la duda de uno de los transmisores acerca de las palabras "sobre él está el Trono del Misericordioso"; sin embargo, esas mismas palabras aparecen sin vacilación en la transmisión de Muhammad ibn Fulayh, de su padre, citada al final del hadiz. El hafiz Ibn Hayar recogió de Ibn Hibban que "el centro" (al-awsat) alude a la amplitud y "lo más alto" (al-a'la) a la elevación, y señaló que aquí "el centro" significa también lo más equilibrado y lo más excelente.[^6] Ibn Battal, por su parte, hizo notar que el Profeta, la paz y las bendiciones de Allah sean con él, ordenó a toda su comunidad pedir el Firdaus, aunque entre ella hubiera quienes no combatían; prueba de que Allah, por Su favor, puede hacer llegar hasta allí también a quien no combatió.[^7]
+La expresión "creo que dijo" (urahu) refleja la duda de uno de los transmisores acerca de las palabras "sobre él está el Trono del Misericordioso"; sin embargo, esas mismas palabras aparecen sin vacilación en la transmisión de Muhammad ibn Fulayh, de su padre, citada al final del hadiz. El hafiz Ibn Hayar recogió de Ibn Hibban que "el centro" (al-awsat) alude a la amplitud y "lo más alto" (al-a'la) a la elevación, y señaló que aquí "el centro" significa lo más equilibrado y lo más excelente.[^6] Ibn Battal, por su parte, hizo notar que el Profeta, la paz y las bendiciones de Allah sean con él, ordenó a toda su comunidad pedir el Firdaus, aunque entre ella hubiera quienes no combatían; prueba de que Allah, por Su favor, puede hacer llegar hasta allí también a quien no combatió.[^7]
 
 #### Explicación de la lección
 
@@ -86,7 +86,7 @@ La orden de pedir el Firdaus llega justo después de una buena nueva general: la
 
 #### Interpretación académica
 
-An-nuzul es la acogida honrosa que se prepara para el huésped a su llegada; y {sin desear jamás mudarse de ellos} significa que no buscarán cambiarlos por otro lugar ni preferirán ningún otro. Ibn Kazir, al comentar esta aleya, citó el hadiz "Cuando pidáis a Allah el Paraíso, pedidle el Firdaus". E Ibn al-Qayyim explicó que el nombre al-Firdaus se aplica al Paraíso entero, y también a su parte más excelsa y elevada, como si esta fuera la más merecedora del nombre; y que en su origen la palabra designa el jardín o vergel; y recoge además la opinión de az-Zayyay de que su sentido propio es el jardín que reúne todo lo que pueden contener los jardines.[^8]
+An-nuzul es la acogida honrosa que se prepara para el huésped a su llegada; y {sin desear jamás mudarse de ellos} significa que no buscarán cambiarlos por otro lugar ni preferirán ningún otro. Ibn Kazir, al comentar esta aleya, citó el hadiz "Cuando pidáis a Allah el Paraíso, pedidle el Firdaus". E Ibn al-Qayyim explicó que el nombre al-Firdaus se aplica al Paraíso entero, y también a su parte más excelsa y elevada, como si esta fuera la más merecedora del nombre; y que en su origen la palabra designa el jardín o vergel; y recogió además la opinión de az-Zayyay de que su sentido propio es el jardín que reúne todo lo que pueden contener los jardines.[^8]
 
 #### Explicación de la lección
 
@@ -196,7 +196,7 @@ Escribe en lo alto de la hoja: "Oh Allah, Te pido el Firdaus". Luego elige, entr
 
 ## Para niños de 4 a 7 años
 
-<!-- reader:start audience="4-7" estimated_minutes="5.5" -->
+<!-- reader:start audience="4-7" estimated_minutes="7.0" -->
 
 <!-- unit:start id="4-7.explanation" kind="explanation" -->
 
@@ -236,9 +236,9 @@ Esa noche, Yusuf rezó la oración de la noche (el 'isha) con su papá, tranquil
 
 **Esto pasó de verdad; lo contó Anas ibn Malik, que Allah esté complacido con él, y no es una historia inventada.**
 
-Había un muchacho joven que se llamaba Hariza. Salió con el Profeta, la paz y las bendiciones de Allah sean con él, el día de Badr, y allí le alcanzó una flecha y murió.[^3] Su mamá se puso muy, muy triste. Fue a ver al Profeta, la paz y las bendiciones de Allah sean con él, y le dijo: "Háblame de Hariza: si está en el Paraíso, tendré paciencia; y si no está allí, lloraré mucho por él". Y el Profeta, la paz y las bendiciones de Allah sean con él, le dijo: "Madre de Hariza, en el Paraíso hay muchos jardines, y tu hijo ha llegado al Firdaus más alto".[^2]
+Había un muchacho muy joven que se llamaba Hariza. Salió con el Profeta, la paz y las bendiciones de Allah sean con él, a la batalla de Badr, y allí lo alcanzó una flecha y murió.[^3] Su mamá se puso muy, muy triste. Fue a ver al Profeta, la paz y las bendiciones de Allah sean con él, y le dijo: "Háblame de Hariza: si está en el Paraíso, tendré paciencia; y si no está allí, lloraré mucho por él". Y el Profeta, la paz y las bendiciones de Allah sean con él, le dijo: "Madre de Hariza, en el Paraíso hay muchos jardines, y tu hijo ha llegado al Firdaus más alto".[^2]
 
-La mamá se alegró muchísimo con esta buena noticia y supo que su hijo estaba en lo más alto del Paraíso. Así aprendemos que el Firdaus no es solo para los mayores: Allah se lo da a las personas sinceras que Él quiere, aunque sean jóvenes.
+La mamá se alegró muchísimo con esta buena noticia y supo que su hijo estaba en lo más alto del Paraíso. Así aprendemos que el Firdaus no es solo para los mayores: Allah se lo da a las personas sinceras a las que Él ama, aunque sean jóvenes.
 
 <!-- retelling:end -->
 
@@ -263,7 +263,7 @@ La mamá se alegró muchísimo con esta buena noticia y supo que su hijo estaba 
 
 <!-- activity:start audience="4-7" concept_id="lesson.024.activity.spring-and-streams" -->
 
-Con tu papá o tu mamá, dibuja una montaña y, arriba del todo, un manantial de agua azul. Escribe a su lado, o pide a tu papá o a tu mamá que te lo escriba: "Mi oración". Después dibuja tres arroyos que bajen del manantial, y al final de cada arroyo dibuja algo bonito que nace de rezar con calma (por ejemplo: una palabra cariñosa para mamá, ayudar a tu hermana, una sonrisa). Reza cada día una oración tranquilo, junto a tus papás, y colorea un arroyo cada vez que hagas una de esas cosas bonitas.
+Con tu papá o tu mamá, dibuja una montaña y, arriba del todo, un manantial de agua azul. Escribe a su lado, o pide a tu papá o a tu mamá que te lo escriba: "Mi oración". Después dibuja tres arroyos que bajen del manantial, y al final de cada arroyo dibuja algo bonito que nace de rezar con calma (por ejemplo: una palabra cariñosa para mamá, ayudar a tu hermana, una sonrisa). Reza cada día una oración con calma, junto a tus papás, y colorea un arroyo cada vez que hagas una de esas cosas bonitas.
 
 <!-- activity:end -->
 
@@ -293,7 +293,7 @@ Dicho de forma sencilla: Allah, Te pedimos el lugar más alto del Paraíso; hazn
 
 ## Para niños de 8 a 12 años
 
-<!-- reader:start audience="8-12" estimated_minutes="6.5" -->
+<!-- reader:start audience="8-12" estimated_minutes="7.0" -->
 
 <!-- unit:start id="8-12.explanation" kind="explanation" -->
 
@@ -331,7 +331,7 @@ La abuela se quedó callada un momento; luego se rio y dijo: "¡Subhanallah! Yo 
 
 **Esto es un hecho real que narró Anas ibn Malik, que Allah esté complacido con él, recogido en Sahih al-Bujari; no es una historia inventada.**
 
-En la batalla de Badr, la primera gran batalla del islam, había entre los musulmanes un muchacho joven llamado Hariza ibn Suraqa. Lo alcanzó una flecha perdida, de arquero desconocido, y murió.[^3] Su madre, muy triste, acudió al Profeta, la paz y las bendiciones de Allah sean con él, y le dijo: "¡Oh, Profeta de Allah! ¿No vas a hablarme de Hariza? Si está en el Paraíso, tendré paciencia; y si no, lloraré por él con todas mis fuerzas".
+En la batalla de Badr, la primera gran batalla del islam, había entre los musulmanes un muchacho muy joven llamado Hariza ibn Suraqa. Lo alcanzó una flecha perdida, de arquero desconocido, y murió.[^3] Su madre, muy triste, acudió al Profeta, la paz y las bendiciones de Allah sean con él, y le dijo: "¡Oh, Profeta de Allah! ¿No vas a hablarme de Hariza? Si está en el Paraíso, tendré paciencia; y si no, lloraré por él con todas mis fuerzas".
 
 El Profeta, la paz y las bendiciones de Allah sean con él, le respondió: «¡Oh, madre de Hariza! Son muchos jardines en el Paraíso, y tu hijo ha alcanzado el Firdaus más alto».[^2]
 
@@ -403,7 +403,7 @@ Su sentido: Oh Allah, Te pedimos lo más alto del Paraíso, como nuestro Profeta
 
 ## Para adolescentes de 13+
 
-<!-- reader:start audience="13+" estimated_minutes="6.5" -->
+<!-- reader:start audience="13+" estimated_minutes="7.0" -->
 
 <!-- unit:start id="13+.explanation" kind="explanation" -->
 
@@ -457,7 +457,7 @@ Piensa en tres cosas. La madre hizo depender su paciencia del destino de su hijo
 
 <!-- terminology:start source_id="bukhari-2790" -->
 
-- **`El centro del Paraíso y lo más alto del Paraíso (awsat al-yanna wa a'la al-yanna)`** — Ibn Hayar recogió de Ibn Hibban que "el centro" alude a la amplitud y "lo más alto" a la elevación, y señaló que aquí "el centro" significa también lo más excelente.[^6]
+- **`El centro del Paraíso y lo más alto del Paraíso (awsat al-yanna wa a'la al-yanna)`** — Ibn Hayar recogió de Ibn Hibban que "el centro" alude a la amplitud y "lo más alto" a la elevación, y señaló que aquí "el centro" significa lo más excelente.[^6]
 - **`Los herederos (al-warizun)`** — quienes reciben el Firdaus como un don firme de Allah, del mismo modo que la herencia pertenece con firmeza a su dueño; Allah los describió con cualidades prácticas en la sura Al-Mu'minun.
 - **`La vanidad (al-lagw)`** — toda palabra o acto falso o inútil; entre ello están la burla y las palabras hirientes.
 
@@ -575,7 +575,7 @@ Esta súplica une la obediencia a la orden del Profeta, la paz y las bendiciones
 **Actividad — 8 minutos:** el niño dibuja la montaña, el manantial y los tres arroyos, tal como se describe en la unidad de actividad, y el educador escribe "Mi oración" en el manantial.
 
 <!-- lesson-plan:assessment -->
-**Evaluación y cierre — 3 minutos:** se le pregunta al niño: «¿Cómo se llama lo más alto del Paraíso? ¿Y qué le pedimos a Allah?». Después se lee juntos la súplica y su sentido sencillo.
+**Evaluación y cierre — 3 minutos:** se le pregunta al niño: «¿Cómo se llama lo más alto del Paraíso? ¿Y qué le pedimos a Allah?». Después se lee la súplica todos juntos, con su sentido sencillo.
 
 <!-- lesson-plan:differentiation -->
 **Diferenciación:** con los más pequeños basta un solo arroyo, y pueden pegar una pegatina en lugar de dibujar; los mayores dicen ellos mismos una cosa bonita para cada arroyo.
@@ -596,7 +596,7 @@ Esta súplica une la obediencia a la orden del Profeta, la paz y las bendiciones
 **Materiales:** el texto del hadiz por escrito; tarjetas con los tres términos; la hoja de actividad; lápices de colores.
 
 <!-- lesson-plan:preparation -->
-**Preparación:** el docente escribe las cualidades de las aleyas de Al-Mu'minun en tarjetas separadas, con un lenguaje sencillo, y se prepara para explicar la castidad con una expresión general adecuada a la edad, como "cuidar de uno mismo y el pudor".
+**Preparación:** el docente escribe las cualidades de las aleyas de Al-Mu'minun en tarjetas separadas, con un lenguaje sencillo, y se prepara para explicar la castidad con una expresión general adecuada a la edad, como "cuidar de uno mismo y tener pudor".
 
 <!-- lesson-plan:opening -->
 **Apertura — 5 minutos:** el docente pregunta: «Si un rey generoso te dijera: "Pide lo que quieras", ¿pedirías lo más pequeño o lo mejor? ¿Por qué?».

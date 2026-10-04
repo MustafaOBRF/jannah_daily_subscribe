@@ -31,7 +31,7 @@ Au terme de cette leçon, l'apprenant sera capable de :
 
 ## Section Académique Pour Adultes
 
-<!-- reader:start audience="adults" estimated_minutes="6.5" -->
+<!-- reader:start audience="adults" estimated_minutes="7.0" -->
 
 <!-- unit:start id="adults.explanation" kind="explanation" -->
 
@@ -86,11 +86,11 @@ L'ordre de demander le Firdaws vient juste après une bonne nouvelle générale�
 
 #### Interprétation Savante
 
-Le *nuzul* désigne ce que l'on prépare pour honorer un hôte à son arrivée ; et « sans jamais souhaiter en changer » (*la yabghuna 'anha hiwala*) signifie qu'ils n'en demandent pas d'autre et ne lui préfèrent rien. Ibn Kathir cite, à propos de ce verset, le hadith : « Lorsque vous demandez à Allah la Jannah, demandez-Lui le Firdaws. » Ibn al-Qayyim explique que le nom de Firdaws s'applique à la Jannah tout entière, et qu'il s'applique aussi à sa partie la meilleure et la plus élevée, comme si celle-ci était plus que toute autre digne de ce nom ; il ajoute que le mot désigne, à l'origine, le verger, et rapporte l'avis d'al-Zajjaj selon lequel son sens propre est le jardin qui réunit tout ce que l'on trouve dans les jardins.[^8]
+Le *nuzul* désigne ce que l'on prépare pour honorer un hôte à son arrivée ; et « sans jamais souhaiter en changer » (*la yabghuna 'anha hiwala*) signifie qu'ils n'en demandent pas d'autre et ne lui préfèrent rien. Ibn Kathir cite, à propos de ce verset, le hadith : « Lorsque vous demandez à Allah la Jannah, demandez-Lui le Firdaws. » Ibn al-Qayyim explique que le nom de Firdaws s'applique à la Jannah tout entière, et qu'il s'applique aussi à sa partie la meilleure et la plus élevée, comme si celle-ci était plus que toute autre digne de ce nom ; il ajoute que le mot désigne, à l'origine, le verger, et rapporte l'avis d'al-Zajjaj selon lequel son sens propre est le verger qui réunit tout ce que l'on trouve dans les vergers.[^8]
 
 #### Explication De La Leçon
 
-Le verset pose ensemble la foi et les bonnes œuvres comme condition, et décrit un bonheur dont ses habitants ne se lassent jamais. Ici-bas, tout bonheur finit par appeler le changement ; le Firdaws, lui, est le seul dont on ne voudra jamais s'éloigner.
+Le verset pose ensemble la foi et les bonnes œuvres comme condition, et décrit un bonheur dont ses habitants ne se lassent jamais. Ici-bas, tout bonheur finit par donner envie de changement ; au Firdaws, en revanche, on ne cherchera jamais d'autre bonheur.
 
 <!-- evidence:end -->
 
@@ -196,11 +196,11 @@ En haut de la feuille, écrivez : « Ô Allah, je Te demande le Firdaws. » C
 
 ## Pour Les Enfants De 4 À 7 Ans
 
-<!-- reader:start audience="4-7" estimated_minutes="5.5" -->
+<!-- reader:start audience="4-7" estimated_minutes="6.5" -->
 
 <!-- unit:start id="4-7.explanation" kind="explanation" -->
 
-Dans la Jannah, il y a beaucoup d'endroits, et certains sont plus hauts que d'autres. L'endroit le plus haut de toute la Jannah s'appelle `le Firdaws`. C'est du Firdaws que partent les belles rivières de la Jannah. Et notre Prophète Muhammad, paix et bénédictions sur lui, nous a appris que, quand nous faisons une prière à Allah, nous Lui demandons le Firdaws, l'endroit le plus haut de la Jannah.
+Dans la Jannah, il y a beaucoup d'endroits, et certains sont plus hauts que d'autres. L'endroit le plus haut de toute la Jannah s'appelle `le Firdaws`. C'est du Firdaws que partent les belles rivières de la Jannah. Et notre Prophète Muhammad, paix et bénédictions sur lui, nous a appris que, quand nous demandons quelque chose à Allah, nous Lui demandons le Firdaws, l'endroit le plus haut de la Jannah.
 
 <!-- unit:end -->
 
@@ -218,9 +218,9 @@ Ils grimpèrent un peu, et Youssef se sentit fatigué. Il vit une petite flaque 
 
 Tout en haut de la montagne, ils trouvèrent une source d'où l'eau jaillissait, fraîche et toute propre ; c'est de là que partaient tous les ruisseaux qui descendaient la montagne. Youssef but, éclata de rire et dit : « L'eau d'ici est bien meilleure que l'eau de la flaque ! »
 
-Papa s'assit et dit : « Le Prophète, paix et bénédictions sur lui, nous a appris que l'endroit le plus haut de la Jannah s'appelle le Firdaws, et que c'est de là que partent les rivières de la Jannah. Et il nous a dit : quand vous faites une prière à Allah, demandez-Lui le Firdaws. » « Alors je ne vais pas demander un petit endroit, dit Youssef. Je vais demander à Allah le Firdaws ! » « Bravo, dit Papa. Et nous faisons bien nos prières, pour être parmi ceux qui y habiteront. »
+Papa s'assit et dit : « Le Prophète, paix et bénédictions sur lui, nous a appris que l'endroit le plus haut de la Jannah s'appelle le Firdaws, et que c'est de là que partent les rivières de la Jannah. Et il nous a dit : quand vous demandez quelque chose à Allah, demandez-Lui le Firdaws. » « Alors je ne vais pas demander un petit endroit, dit Youssef. Je vais demander à Allah le Firdaws ! » « Bravo, dit Papa. Et nous faisons bien nos prières, pour être parmi ceux qui y habiteront. »
 
-Ce soir-là, Youssef fit la prière du soir avec son papa, tout calmement. Puis il leva les mains et dit : « Ô Allah, donne-moi le Firdaws. »
+Ce soir-là, Youssef fit la prière du 'Isha avec son papa, tout calmement. Puis il leva les mains et dit : « Ô Allah, donne-moi le Firdaws. »
 
 <!-- story:end -->
 
@@ -293,7 +293,7 @@ Ce qui veut dire, tout simplement : Ô Allah, nous Te demandons l'endroit le pl
 
 ## Pour Les Enfants De 8 À 12 Ans
 
-<!-- reader:start audience="8-12" estimated_minutes="6.5" -->
+<!-- reader:start audience="8-12" estimated_minutes="7.0" -->
 
 <!-- unit:start id="8-12.explanation" kind="explanation" -->
 
@@ -313,7 +313,7 @@ Omar adorait s'asseoir à côté de sa grand-mère après la prière du Maghrib.
 
 Le vendredi, au cercle d'étude de la mosquée, le professeur lut le hadith du Prophète, paix et bénédictions sur lui : « Lorsque vous demandez à Allah, demandez-Lui le Firdaws, car c'est le milieu de la Jannah et le plus haut de la Jannah. » Omar leva la main : « Professeur, ce n'est pas plus humble de demander une petite place ? C'est ce que fait ma grand-mère. » Le professeur sourit : « L'humilité, c'est trouver ton œuvre petite, pas trouver petit le don d'Allah. Et c'est le Prophète lui-même, paix et bénédictions sur lui, qui nous a ordonné de demander le plus haut. »
 
-Omar rentra à la maison, perplexe : devait-il dire à sa grand-mère que son invocation était une erreur ? Il avait peur de la blesser, ou d'avoir l'air de faire la leçon à plus âgée que lui. Alors il décida de lui poser une question, poliment, plutôt que de la corriger. Il s'assit près d'elle : « Grand-mère, j'ai appris aujourd'hui un très beau hadith. Tu veux que je te le lise ? » Et il le lui lut dans son cahier.
+Omar rentra à la maison, perplexe : devait-il dire à sa grand-mère que son invocation était une erreur ? Il avait peur de la blesser, ou d'avoir l'air de faire la leçon à une personne plus âgée que lui. Alors il décida de lui poser une question, poliment, plutôt que de la corriger. Il s'assit près d'elle : « Grand-mère, j'ai appris aujourd'hui un très beau hadith. Tu veux que je te le lise ? » Et il le lui lut dans son cahier.
 
 Sa grand-mère se tut un instant, puis éclata de rire : « Subhan Allah ! Moi qui croyais que demander le plus haut n'était pas pour quelqu'un comme moi… Alors, demandons le Firdaws ensemble. » Puis elle ajouta : « Mais tu sais, Omar, celui qui demande le plus haut doit aussi travailler pour l'obtenir. » Ils se mirent d'accord sur une seule chose : cette semaine, Omar ferait les cinq prières à l'heure, et sa grand-mère le lui rappellerait gentiment. À la fin de la semaine, leur invocation après le Maghrib était devenue : « Ô Allah, nous Te demandons le Firdaws le plus élevé. »
 
@@ -403,11 +403,11 @@ Son sens : Ô Allah, nous Te demandons le sommet de la Jannah, comme notre Prop
 
 ## Pour Les Adolescents, 13 Ans Et Plus
 
-<!-- reader:start audience="13+" estimated_minutes="6.5" -->
+<!-- reader:start audience="13+" estimated_minutes="7.0" -->
 
 <!-- unit:start id="13+.explanation" kind="explanation" -->
 
-On entend souvent dire à un jeune pratiquant : « N'en fais pas trop, contente-toi d'être un musulman ordinaire », comme si l'ambition en religion était de l'extrémisme, et comme si le sommet de la Jannah était réservé aux savants, aux martyrs et aux anciens. Pourtant, c'est à toute la communauté, et non à une élite, que le Prophète, paix et bénédictions sur lui, s'est adressé : « Lorsque vous demandez à Allah, demandez-Lui le Firdaws, car c'est le milieu de la Jannah et le plus haut de la Jannah. »[^1] Et en face, le Coran décrit ceux qui hériteront le Firdaws non par des slogans, mais par des actes de tous les jours : le recueillement dans la prière, le refus des futilités, l'acquittement de la zakat, la chasteté, le respect des dépôts confiés et des engagements, et l'assiduité aux prières.[^5] L'ambition sincère réunit donc les deux : une demande haute, qui n'a pas honte d'elle-même, et une pratique discrète, qui ne cherche pas à briller.
+On entend souvent dire à un jeune pratiquant : « N'en fais pas trop, contente-toi d'être un musulman ordinaire », comme si l'ambition en religion était un excès de zèle, et comme si le sommet de la Jannah était réservé aux savants, aux martyrs et aux personnes âgées. Pourtant, c'est à toute la communauté, et non à une élite, que le Prophète, paix et bénédictions sur lui, s'est adressé : « Lorsque vous demandez à Allah, demandez-Lui le Firdaws, car c'est le milieu de la Jannah et le plus haut de la Jannah. »[^1] Et en face, le Coran décrit ceux qui hériteront le Firdaws non par des slogans, mais par des actes de tous les jours : le recueillement dans la prière, le refus des futilités, l'acquittement de la zakat, la chasteté, le respect des dépôts confiés et des engagements, et l'assiduité aux prières.[^5] L'ambition sincère réunit donc les deux : une demande haute, qui n'a pas honte d'elle-même, et une pratique discrète, qui ne cherche pas à briller.
 
 <!-- unit:end -->
 
@@ -427,7 +427,7 @@ Rana se trouvait devant deux choix, et aucun n'était facile. Si elle riait, ell
 
 Elle ouvrit son vieux carnet et trouva, sous son objectif, un verset qu'elle avait recopié de la sourate al-Mu'minun : « ceux qui se détournent des futilités ». Elle comprit que le chemin vers cette grande demande passait par une petite décision, maintenant. Elle écrivit calmement dans le groupe : « Je crois que cette photo lui fait du mal. Moi, je ne participe pas. » Puis elle envoya un message privé à la camarade absente pour prendre de ses nouvelles.
 
-Deux amies cessèrent de lui parler pendant plusieurs jours, et Rana se sentit seule. Mais la camarade absente la remercia, et l'une des amies supprima la photo deux jours plus tard. Ce soir-là, Rana n'écrivit rien pour le montrer à qui que ce soit ; elle nota seulement dans son carnet : « Ma demande est haute, et mon pas de cette semaine, c'est de me détourner des futilités et d'être fidèle à ma prière, à l'heure. »
+Deux amies cessèrent de lui parler pendant plusieurs jours, et Rana se sentit seule. Mais la camarade absente la remercia, et l'une des amies supprima la photo deux jours plus tard. Ce soir-là, Rana n'écrivit rien pour le montrer à qui que ce soit ; elle nota seulement dans son carnet : « Ma demande est haute, et mon pas de cette semaine, c'est de me détourner des futilités et de faire mes prières à l'heure. »
 
 <!-- story:end -->
 
@@ -445,7 +445,7 @@ Deux amies cessèrent de lui parler pendant plusieurs jours, et Rana se sentit s
 
 Anas ibn Malik, qu'Allah soit satisfait de lui, raconte que Harithah ibn Suraqah fut tué le jour de Badr alors qu'il n'était qu'un *ghulam*, c'est-à-dire un tout jeune homme, atteint par une flèche dont on ignorait l'archer.[^3] Sa mère vint trouver le Prophète, paix et bénédictions sur lui, et lui dit : « Ô Prophète d'Allah, ne vas-tu pas me parler de Harithah […] ? S'il est dans la Jannah, je patienterai ; et s'il en est autrement, je m'épuiserai à le pleurer. » Il lui répondit : « Ô mère de Harithah, ce sont des jardins dans la Jannah, et ton fils a atteint le Firdaws le plus élevé. »[^2] Dans une autre version, rapportée elle aussi par al-Bukhari, il lui dit : « Serait-ce donc un seul jardin ? Ce sont des jardins nombreux. »[^3]
 
-Retiens trois choses. D'abord, la mère avait suspendu sa patience au sort de son fils : avant toute autre chose, c'est l'au-delà qu'elle voulait connaître. Ensuite, la réponse est allée plus haut que sa question. Enfin, celui qui a reçu cette bonne nouvelle était un jeune homme à peu près de ton âge ; le récit ne lui attribue pas une longue liste d'œuvres, et personne n'avait entendu parler de lui avant sa mort. Pour le Firdaws, nul besoin d'être célèbre : il faut être sincère.
+Retiens trois choses. D'abord, la mère avait suspendu sa patience au sort de son fils : avant toute autre chose, c'est l'au-delà qu'elle voulait connaître. Ensuite, la réponse est allée plus haut que sa question. Enfin, celui qui a reçu cette bonne nouvelle était un jeune homme à peu près de ton âge ; le récit ne lui attribue pas une longue liste d'œuvres, et rien n'indique que l'on parlait de lui avant sa mort. Pour le Firdaws, nul besoin d'être célèbre : il faut être sincère.
 
 <!-- retelling:end -->
 
@@ -605,7 +605,7 @@ Cette invocation réunit l'obéissance à l'ordre du Prophète, paix et bénédi
 **Étude de la preuve — 10 minutes :** lire le hadith, expliquer les termes, puis raconter l'épisode de la mère de Harithah ; demander aux élèves de repérer ce que la mère a demandé et ce qu'on lui a répondu.
 
 <!-- lesson-plan:instruction -->
-**Enseignement guidé — 10 minutes :** lire l'histoire d'Omar et de sa grand-mère ; l'enseignant s'arrête au moment où Omar hésite : « Comment partager avec politesse une chose nouvelle qu'on a apprise avec une personne plus âgée ? » Les élèves discutent ensuite de la phrase du professeur sur l'humilité.
+**Enseignement guidé — 10 minutes :** lire l'histoire d'Omar et de sa grand-mère ; l'enseignant s'arrête au moment où Omar hésite : « Comment partager poliment avec une personne plus âgée une chose nouvelle qu'on a apprise ? » Les élèves discutent ensuite de la phrase du professeur sur l'humilité.
 
 <!-- lesson-plan:activity -->
 **Activité — 10 minutes :** chaque élève choisit une carte de qualité, dessine la source et les trois ruisseaux comme indiqué dans l'unité d'activité, et écrit son plan pour les sept jours.

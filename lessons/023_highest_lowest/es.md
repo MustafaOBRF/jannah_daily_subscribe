@@ -30,7 +30,7 @@ Después de esta lección, el aprendiz será capaz de:
 
 ## Sección académica para adultos
 
-<!-- reader:start audience="adults" estimated_minutes="6.5" -->
+<!-- reader:start audience="adults" estimated_minutes="7.0" -->
 
 <!-- unit:start id="adults.explanation" kind="explanation" -->
 
@@ -62,7 +62,7 @@ El Corán ofrece un ejemplo vivo de esta balanza: la esposa de Faraón, una rein
 
 #### Interpretación académica
 
-El imam an-Nawawi, que Allah tenga misericordia de él, transmitió del cadí 'Iyad que "lo que les correspondía" (ajadhatihim) es la honra que recibieron de su Señor y que ya obtuvieron; explicó que "los que Yo escogí" (aradtu) significa "los que elegí y preferí"; y que "planté su honra con Mi Mano y puse un sello sobre ella" significa: los elegí y me hice cargo de ellos, de modo que ningún cambio puede alcanzar su honra.[^3] Y en las palabras "tendrás cuanto desee tu alma" se ve que la dádiva del más humilde no se detiene en la cifra mencionada.
+El imam an-Nawawi, que Allah tenga misericordia de él, transmitió del cadí 'Iyad que "lo que les correspondía" (ajadhatihim) es el honor que recibieron de su Señor y que ya obtuvieron; explicó que *aradtu* (literalmente, "quise"; aquí, "los que Yo escogí") significa "elegí y seleccioné"; y que "Su honor lo planté con Mi mano y lo sellé" significa: los elegí y me hice cargo de ellos, de modo que ningún cambio puede alcanzar su honor.[^3] Y en las palabras "tendrás cuanto desee tu alma" se ve que la dádiva del más humilde no se detiene en la cifra mencionada.
 
 #### Explicación de la lección
 
@@ -80,7 +80,7 @@ El rango más humilde no es una privación: cinco veces el reino de un rey, lueg
 
 #### Traducción al español
 
-> De Abdullah ibn Amr ibn al-As, que Allah esté complacido con ambos, que oyó decir al Profeta, la paz y las bendiciones de Allah sean con él: **«Cuando oigáis al almuédano, decid lo mismo que él dice; después pedid bendiciones para mí, porque quien pide para mí una bendición, Allah le bendice por ella diez veces; después pedid a Allah para mí al-Wasila, que es un rango en el Paraíso que solo corresponde a uno de los siervos de Allah, y espero ser yo ese siervo. A quien pida para mí al-Wasila le alcanzará la intercesión»**.[^4]
+> De Abdullah ibn Amr ibn al-As, que Allah esté complacido con ambos, que oyó decir al Profeta, la paz y las bendiciones de Allah sean con él: **«Cuando oigáis al almuédano, decid lo mismo que él dice; después pedid bendiciones para mí, porque quien pide para mí una bendición, Allah lo bendice diez veces por ella; después pedid a Allah para mí al-Wasila, que es un rango en el Paraíso que solo corresponde a uno de los siervos de Allah, y espero ser yo ese siervo. A quien pida para mí al-Wasila le alcanzará la intercesión»**.[^4]
 
 #### Interpretación académica
 
@@ -169,7 +169,7 @@ El hadiz de Musa traza los dos extremos; el de al-Wasila muestra la cumbre y abr
 ## Preguntas para la comprensión y la reflexión
 
 1. ¿Por qué la dádiva del más humilde de la gente del Paraíso se describe con cifras, y el honor del más alto, con el secreto?
-2. ¿Qué nos enseña la repetición de "Me doy por satisfecho, Señor mío" sobre la cortesía del siervo ante la dádiva de su Señor?
+2. ¿Qué nos enseña la repetición de "Me doy por satisfecho, Señor mío" sobre el adab del siervo, su actitud correcta ante la dádiva de su Señor?
 3. ¿Cómo une el hadiz de al-Wasila el rango más alto del Paraíso con una práctica diaria sencilla?
 4. ¿Cómo se refleja el sentido de "Eligió al vecino antes que la casa" en el orden de la súplica de la esposa de Faraón?
 5. ¿Qué jerarquía de este mundo te ocupa hoy más de lo que debería?
@@ -212,7 +212,7 @@ Faraón era un rey duro e injusto, que hacía daño a los niños de los hijos de
 
 Un día, la familia de Faraón sacó del agua a un bebé pequeñito. Y la reina dijo con dulzura: "Será la niña de mis ojos y de los tuyos. ¡No lo matéis!". Es decir: este bebé nos alegra el corazón, no le hagáis daño. Y el bebé se salvó. ¿Sabes quién era ese bebé? ¡Era Musa, la paz sea con él, que llegó a ser un gran profeta![^7]
 
-Esta reina amaba a Allah. Tenía un palacio en este mundo, pero no le pidió a Allah un palacio más grande. Le rezó así: "Señor mío, constrúyeme junto a Ti una casa en el Paraíso". Primero pidió estar cerca de Allah, y después pidió la casa.[^6]
+Esta reina amaba a Allah. Tenía un palacio en este mundo, pero no le pidió a Allah un palacio más grande, sino que le rogó: "Señor mío, constrúyeme junto a Ti una casa en el Paraíso". Primero pidió estar cerca de Allah, y después pidió la casa.[^6]
 
 Por eso Allah la nombró en el Corán como un ejemplo precioso para todos los creyentes, y el Profeta, la paz y las bendiciones de Allah sean con él, nos contó que es una de las mujeres más perfectas.[^8]
 
@@ -268,11 +268,11 @@ Significado: Oh Allah, haz que lo que más quiera en el mundo sea estar cerca de
 
 ## Para niños de 8 a 12 años
 
-<!-- reader:start audience="8-12" estimated_minutes="6.0" -->
+<!-- reader:start audience="8-12" estimated_minutes="6.5" -->
 
 <!-- unit:start id="8-12.explanation" kind="explanation" -->
 
-Musa, la paz sea con él, le preguntó a su Señor: ¿quién tiene el rango más bajo en el Paraíso? Y Allah le contó que es un hombre que entra después de todos los demás, y recibe algo como el reino de un rey de este mundo, luego otro igual cuatro veces más, luego diez veces todo eso, y además todo lo que desee; y él dice: "¡Me doy por satisfecho, Señor mío!". Después Musa preguntó por los de rango más alto, y Allah le contó que son personas que Él escogió y para las que preparó un honor que ningún ojo ha visto y del que ningún oído ha oído hablar.[^1] Y el rango más alto de todo el Paraíso se llama "al-Wasila"; el Profeta, la paz y las bendiciones de Allah sean con él, nos enseñó a pedirlo para él después de cada adhan.[^4]
+Musa, la paz sea con él, le preguntó a su Señor: ¿quién tiene el rango más bajo en el Paraíso? Y Allah le contó que es un hombre que entra después de todos los demás, y recibe algo como el reino de un rey de este mundo, luego otros cuatro reinos iguales, luego diez veces todo eso, y además todo lo que desee; y él dice: "¡Me doy por satisfecho, Señor mío!". Después Musa preguntó por los de rango más alto, y Allah le contó que son personas que Él escogió y para las que preparó un honor que ningún ojo ha visto y del que ningún oído ha oído hablar.[^1] Y el rango más alto de todo el Paraíso se llama "al-Wasila"; el Profeta, la paz y las bendiciones de Allah sean con él, nos enseñó a pedirlo para él después de cada adhan.[^4]
 
 Entonces, si el que menos tiene en el Paraíso recibe más que los reyes, ¿de verdad es el rey de este mundo la persona más alta? Eso es lo que responde la historia de la reina.
 
@@ -299,7 +299,7 @@ Entonces, si el que menos tiene en el Paraíso recibe más que los reyes, ¿de v
 
 Faraón era el rey más poderoso de su época, y mataba a los hijos varones de los hijos de Israel. Por orden de Allah, la madre de Musa dejó a su bebé en el río, y la familia de Faraón lo recogió.
 
-En ese momento, la esposa de Faraón se atrevió a dar un paso valiente y le dijo a su marido: "Será la niña de mis ojos y de los tuyos. No lo matéis; quizá nos sea útil o lo adoptemos como hijo". Y gracias a sus palabras, el bebé se salvó. El Corán nos cuenta que la familia de Faraón lo recogió "para que acabara siendo para ellos un enemigo y un motivo de pesar", sin darse cuenta: Musa, la paz sea con él, creció en su propio palacio y llegó a ser un profeta que llamaba a la verdad.[^7]
+En ese momento, la esposa de Faraón tuvo un gesto valiente y le dijo a su marido: "Será la niña de mis ojos y de los tuyos. No lo matéis; quizá nos sea útil o lo adoptemos como hijo". Y gracias a sus palabras, el bebé se salvó. El Corán nos cuenta que la familia de Faraón lo recogió "para que acabara siendo para ellos un enemigo y un motivo de pesar", sin darse cuenta: Musa, la paz sea con él, creció en su propio palacio y llegó a ser un profeta que llamaba a la verdad.[^7]
 
 La reina tenía lo que mucha gente sueña con tener: un título, un palacio y un lugar de honor junto al hombre más poderoso de la tierra. Pero creyó en Allah y no aceptó la injusticia de su marido. Y pidió a su Señor tres cosas: "Señor mío, constrúyeme junto a Ti una casa en el Paraíso, sálvame de Faraón y de sus obras, y sálvame de la gente injusta".
 
@@ -364,7 +364,7 @@ Significado: Oh Allah, haz que estar cerca de Ti sea lo más grande que yo desee
 
 <!-- unit:start id="13+.explanation" kind="explanation" -->
 
-Vivimos rodeados de rankings que no se acaban nunca: quién tiene la mejor nota, quién tiene más seguidores, quién lleva la ropa más cara. El islam no niega que las personas sean desiguales; al contrario, nos dice que la desigualdad del Paraíso es todavía mayor. En un hadiz auténtico, Musa, la paz sea con él, preguntó a su Señor por quien ocupa el rango más humilde del Paraíso, y la respuesta fue: un hombre que recibe cinco veces el reino de un rey de este mundo, y luego diez veces eso, y que dice: "Me doy por satisfecho, Señor mío". Después preguntó por los de rango más alto, y Allah le dijo que son personas que Él escogió y para las que guardó en secreto un honor que ningún ojo ha visto y que jamás ha pasado por el corazón de ningún ser humano.[^1] Y en la cima está "al-Wasila", un rango para un único siervo, que el Profeta, la paz y las bendiciones de Allah sean con él, esperaba ser él, y que nos enseñó a pedir para él después del adhan.[^4]
+Vivimos rodeados de rankings que no se acaban nunca: quién tiene la mejor nota, quién tiene más seguidores, quién lleva la ropa más cara. El islam no niega que haya diferencias entre las personas; al contrario, nos dice que las diferencias en el Paraíso son todavía mayores. En un hadiz auténtico, Musa, la paz sea con él, preguntó a su Señor por quien ocupa el rango más humilde del Paraíso, y la respuesta fue: un hombre que recibe cinco veces el reino de un rey de este mundo, y luego diez veces eso, y que dice: "Me doy por satisfecho, Señor mío". Después preguntó por los de rango más alto, y Allah le dijo que son personas que Él escogió y para las que guardó en secreto un honor que ningún ojo ha visto y que jamás ha pasado por el corazón de ningún ser humano.[^1] Y en la cima está "al-Wasila", un rango reservado a un único siervo; el Profeta, la paz y las bendiciones de Allah sean con él, esperaba ser ese siervo, y nos enseñó a pedirlo para él después del adhan.[^4]
 
 Así que la pregunta es: si el más humilde de la gente del Paraíso está por encima de los reyes, ¿con qué balanza medimos hoy lo que es "estar arriba"?
 
@@ -395,7 +395,7 @@ Y fue en ese palacio donde apareció el primer gesto suyo que el Corán guarda. 
 
 Después, el Corán guarda su segundo gesto, su súplica: "Señor mío, constrúyeme junto a Ti una casa en el Paraíso, sálvame de Faraón y de sus obras, y sálvame de la gente injusta". Una mujer que tenía lo más alto que ofrece este mundo en títulos y palacios, y que aun así puso "junto a Ti" por delante de "una casa"; por eso dijeron los sabios: "Eligió al vecino antes que la casa". Y se desentendió de "sus obras" mientras vivía en su casa: estar cerca de él no la convirtió en cómplice de su injusticia. Dijo Qatada: la incredulidad de su marido no la perjudicó en nada, puesto que ella obedeció a su Señor.[^6]
 
-¿El resultado? Allah la puso como "ejemplo para los que creen", hombres y mujeres, y el Profeta, la paz y las bendiciones de Allah sean con él, dio testimonio de que es una de las que alcanzaron la perfección.[^8] Faraón, en cambio, el que estaba más arriba a los ojos de la gente, no sacó ningún provecho de su reino.
+¿El resultado? Allah la puso como "ejemplo para los que creen", hombres y mujeres, y el Profeta, la paz y las bendiciones de Allah sean con él, dio testimonio de que es una de las que alcanzaron la perfección.[^8] A Faraón, en cambio, el que estaba más arriba a los ojos de la gente, de nada le sirvió su reino.
 
 <!-- retelling:start source_id="quran-66-11" audience="13+" -->
 
@@ -513,7 +513,7 @@ Significado: Oh Allah, haz que Tu cercanía sea la meta de mis aspiraciones, ele
 **Actividad — 7 minutos:** el niño dibuja las tres tarjetas y las ordena dos veces, tal como se describe en la unidad de actividad, y pega la estrella en la tarjeta de la oración.
 
 <!-- lesson-plan:assessment -->
-**Evaluación y cierre — 4 minutos:** se observa si el niño sabe decir qué pidió la reina y por qué movió la tarjeta. Luego se lee juntos la súplica y se acuerda qué oración rezará a su hora.
+**Evaluación y cierre — 4 minutos:** se observa si el niño sabe decir qué pidió la reina y por qué movió la tarjeta. Luego leen juntos la súplica y acuerdan qué oración rezará el niño a su hora.
 
 <!-- lesson-plan:differentiation -->
 **Diferenciación:** con los más pequeños basta con dos tarjetas (un palacio y un niño rezando) y con moverlas en lugar de explicarlo con palabras. A los mayores se les pide dibujar una cuarta tarjeta con una palabra de misericordia que hayan dicho hoy.
@@ -534,7 +534,7 @@ Significado: Oh Allah, haz que Tu cercanía sea la meta de mis aspiraciones, ele
 **Materiales:** tarjetas con los dos términos; seis tarjetas en blanco para cada estudiante; bolígrafos; un papel grande de pared para exponer las dos ordenaciones; un mushaf.
 
 <!-- lesson-plan:preparation -->
-**Preparación:** el docente prepara el dibujo sencillo de una escalera con peldaños, con "Diez veces más que un reino de este mundo" escrito abajo y "Lo que ningún ojo ha visto" escrito arriba, y escribe la súplica de respuesta al adhan que incluye la petición de al-Wasila para que la lean los estudiantes.
+**Preparación:** el docente prepara el dibujo sencillo de una escalera con peldaños, con "Diez veces más que un reino de este mundo" escrito abajo y "Lo que ningún ojo ha visto" escrito arriba, y escribe la súplica que se dice después del adhan, que incluye la petición de al-Wasila, para que la lean los estudiantes.
 
 <!-- lesson-plan:opening -->
 **Apertura — 5 minutos:** pregunta: «¿Quién es el que está más arriba en su colegio? ¿Por qué?», y después: «¿Puede ser que el que está más arriba para la gente no sea el que está más arriba para Allah?».
@@ -570,7 +570,7 @@ Significado: Oh Allah, haz que Tu cercanía sea la meta de mis aspiraciones, ele
 **Materiales:** una copia de la lección; ocho tarjetas para cada estudiante; una hoja personal que no se recoge; un mushaf.
 
 <!-- lesson-plan:preparation -->
-**Preparación:** el docente prepara ejemplos actuales y neutrales de la presión de los rankings sociales (notas, seguidores, marcas) y repasa el tafsir de Ibn Kazir a la aleya de At-Tahrim y el dicho de Qatada, para aclarar que el desentenderse se refiere a las obras, no a las personas.
+**Preparación:** el docente prepara ejemplos actuales y neutrales de la presión de los rankings sociales (notas, seguidores, marcas) y repasa el tafsir de Ibn Kazir a la aleya de At-Tahrim y el dicho de Qatada, para aclarar que se trata de desentenderse de las obras, no de las personas.
 
 <!-- lesson-plan:opening -->
 **Apertura — 5 minutos:** pregunta: «¿Qué ranking te ha hecho sentir menos que los demás esta semana?», y las respuestas se escriben de forma anónima en papelitos.

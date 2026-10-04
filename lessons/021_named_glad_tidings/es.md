@@ -21,24 +21,24 @@ bedtime_dua_id: "lesson.021.dua.love-and-gather-with-companions"
 
 Después de esta lección, el aprendiz será capaz de:
 
-- Narrar el hadiz de Abu Musa al-Ash'ari, que Allah esté complacido con él, junto al pozo de Aris (al-Bujari 3674), el día en que se hizo portero del Profeta, la paz y las bendiciones de Allah sean con él, y anunció el Paraíso a Abu Bakr, luego a Umar y luego a Uzmán, que Allah esté complacido con ellos; a Uzmán, además, junto con una prueba que habría de sobrevenirle.
+- Narrar el hadiz de Abu Musa al-Ash'ari, que Allah esté complacido con él, junto al pozo de Aris (al-Bujari 3674), el día en que se hizo portero del Profeta, la paz y las bendiciones de Allah sean con él, y anunció el Paraíso a Abu Bakr, luego a Umar y luego a Uzmán, que Allah esté complacido con ellos; a Uzmán, además, se le anunció una prueba que habría de sobrevenirle.
 - Nombrar a los diez que recibieron la buena nueva del Paraíso según el hadiz de Abd ar-Rahman ibn Awf, que Allah esté complacido con él (at-Tirmidi 3747), y mencionar a quienes los textos señalan como señores en el Paraíso: al-Hasan y al-Husain, señores de los jóvenes de su gente (at-Tirmidi 3768); Fátima, señora de sus mujeres (al-Bujari 3623-3624); y reconocer el mérito de Maryam y Jadiya, las mejores mujeres de su época (al-Bujari 3432).
 - Distinguir entre dar testimonio del Paraíso a favor de quien la revelación nombró y la esperanza que abrigamos por el resto de los creyentes, sin afirmarlo con certeza de ninguna persona concreta; y relacionarlo con la aleya {Y los primeros, los que se adelantaron... y quienes los siguieron en el bien} (At-Tawba 9:100), que abre la puerta para alcanzarlos.
 - Deducir que la buena nueva no hizo que sus destinatarios dejaran de obrar, que no eximió a Uzmán, que Allah esté complacido con él, de la prueba, y que amar a todos los Compañeros y a toda la familia del Profeta forma parte de la fe.
 - Realizar la actividad "La tarjeta de la buena nueva sincera": fijarse en una buena obra real de otra persona y escribirle unas palabras de ánimo sinceras con una súplica para que Allah le conceda el Paraíso, separando lo que el aprendiz ha visto con sus propios ojos de lo que solo espera.
-- Memorizar la súplica de esta lección para antes de dormir, en la que se pide a Allah el amor de Su Profeta, de sus Compañeros y de la gente de su casa, y reunirse con ellos en el Paraíso.
+- Memorizar la súplica de esta lección para antes de dormir, en la que se pide a Allah que nos conceda amar a Su Profeta, a sus Compañeros y a la gente de su casa, y que nos reúna con ellos en el Paraíso.
 
 ## Sección académica para adultos
 
-<!-- reader:start audience="adults" estimated_minutes="6.5" -->
+<!-- reader:start audience="adults" estimated_minutes="7.0" -->
 
 <!-- unit:start id="adults.explanation" kind="explanation" -->
 
-El Paraíso no se hereda por linaje ni se alcanza a fuerza de desearlo, y nadie puede declarar que una persona concreta pertenece a su gente si no es por una noticia de la revelación. Fue misericordia de Allah informar a Su Profeta, la paz y las bendiciones de Allah sean con él, de los nombres de ciertas personas, con nombre y apellido, que estarían en el Paraíso; y esas buenas nuevas se convirtieron en conocimiento firme: los diez que recibieron la buena nueva, al-Hasan y al-Husain, señores de los jóvenes de la gente del Paraíso, Fátima, señora de sus mujeres, Maryam y Jadiya, las mejores mujeres de su época, y otros sobre quienes consta un texto auténtico.
+El Paraíso no se hereda por linaje ni se alcanza a fuerza de desearlo, y nadie puede declarar que una persona concreta pertenece a su gente si no es por una noticia de la revelación. Fue misericordia de Allah informar a Su Profeta, la paz y las bendiciones de Allah sean con él, de los nombres de personas concretas que estarían en el Paraíso; y esas buenas nuevas se convirtieron en conocimiento firme: los diez que recibieron la buena nueva, al-Hasan y al-Husain, señores de los jóvenes de la gente del Paraíso, Fátima, señora de sus mujeres, Maryam y Jadiya, las mejores mujeres de su época, y otros sobre quienes consta un texto auténtico.
 
 Los sabios de la gente de la Sunna establecieron que damos testimonio del Paraíso a favor de aquel por quien lo dio el Mensajero de Allah, la paz y las bendiciones de Allah sean con él; que esperamos el bien para el creyente que obra con excelencia y tememos por el que obra mal; y que no colocamos a nadie en concreto en el Paraíso ni en el Fuego sin un texto que lo diga.[^7] Esta regla protege el corazón de dos peligros: la vanidad de enaltecerse a uno mismo o de enaltecer a quienes amamos, y el atrevimiento de juzgar el destino de los demás.
 
-La escena más nítida de estas buenas nuevas es el hadiz de Abu Musa junto al pozo de Aris: una buena nueva que se transmite en la puerta, uno tras otro, y que para Uzmán llega acompañada del anuncio de una prueba por venir. La buena nueva no era, pues, una dispensa del examen, sino una certeza que ayudaba a superarlo.
+La escena más nítida de estas buenas nuevas es el hadiz de Abu Musa junto al pozo de Aris: una buena nueva que se transmite en la puerta a uno tras otro, y que para Uzmán llega acompañada del anuncio de una prueba por venir. La buena nueva no era, pues, una dispensa del examen, sino una certeza que ayudaba a superarlo.
 
 <!-- unit:end -->
 
@@ -148,7 +148,7 @@ Fátima guardó el secreto de su padre aun cuando Aisha se lo preguntó, y la bu
 
 <!-- evidence:start id="bukhari-3432" kind="hadith" mode="canonical" -->
 
-### La mejor de sus mujeres fue Maryam, y la mejor de sus mujeres es Jadiya
+### La mejor de sus mujeres es Maryam, y la mejor de sus mujeres es Jadiya
 
 > عَنْ عَلِيٍّ رضي الله عنه، قَالَ: سَمِعْتُ النَّبِيَّ صلى الله عليه وسلم يَقُولُ: **«خَيْرُ نِسَائِهَا مَرْيَمُ ابْنَةُ عِمْرَانَ، وَخَيْرُ نِسَائِهَا خَدِيجَةُ»**.[^5]
 
@@ -164,7 +164,7 @@ Los comentaristas explicaron que el sentido es este: Maryam fue la mejor mujer d
 
 #### Explicación de la lección
 
-La excelencia que atestigua la revelación no es cosa solo de hombres: dos mujeres que creyeron en la verdad y fueron pacientes, y Allah ensalzó su recuerdo.
+La excelencia que atestigua la revelación no es cosa solo de hombres: he aquí dos mujeres que creyeron y fueron pacientes, y Allah ensalzó su recuerdo.
 
 <!-- evidence:end -->
 
@@ -182,7 +182,7 @@ La excelencia que atestigua la revelación no es cosa solo de hombres: dos mujer
 
 #### Interpretación académica
 
-Ibn Kazir explicó que Allah anunció Su complacencia con los que se adelantaron de entre los emigrantes y los auxiliares, y con quienes los siguieron en el bien, y que ¡ay de quien los aborrezca o los insulte![^9]
+Ibn Kazir explicó que Allah anunció Su complacencia con los que se adelantaron de entre los emigrantes y los auxiliares, y con quienes los siguieron en el bien, y que la perdición es para quien los aborrezca o los insulte.[^9]
 
 #### Explicación de la lección
 
@@ -242,11 +242,11 @@ Una buena nueva es una noticia bonita que alegra el corazón. Y la noticia más 
 
 Abu Musa hizo la ablución en su casa y dijo: "¡Hoy voy a estar todo el día con el Mensajero de Allah, la paz y las bendiciones de Allah sean con él!". Salió a buscarlo, preguntando por él aquí y allá, hasta que lo encontró sentado en el borde de un pozo que se llamaba el pozo de Aris. Aquel lugar tenía una puerta hecha con ramas de palmera. Abu Musa lo saludó, se sentó junto a la puerta y dijo: "Hoy yo seré el portero".
 
-Llegó Abu Bakr y empujó la puerta. Abu Musa le dijo: "Espera un poquito". Y fue a preguntar al Profeta, la paz y las bendiciones de Allah sean con él, que le dijo: `Déjale pasar y dale la buena noticia del Paraíso`. Abu Musa abrió la puerta y le dio la buena noticia, y Abu Bakr entró y se sentó al lado del Profeta, la paz y las bendiciones de Allah sean con él.
+Llegó Abu Bakr y empujó la puerta. Abu Musa le dijo: "Espera un poquito". Y fue a preguntar al Profeta, la paz y las bendiciones de Allah sean con él, que le dijo: `Déjalo pasar y dale la buena noticia del Paraíso`. Abu Musa abrió la puerta y le dio la buena noticia, y Abu Bakr entró y se sentó al lado del Profeta, la paz y las bendiciones de Allah sean con él.
 
 Abu Musa había dejado a su hermano en casa haciendo la ablución, y pensó: "¡Ojalá Allah quiera el bien para mi hermano y lo traiga aquí!". Abu Musa quería para su hermano lo mismo que para él.
 
-Después llegó Umar, y el Profeta, la paz y las bendiciones de Allah sean con él, dijo: `Déjale pasar y dale la buena noticia del Paraíso`. Luego llegó Uzmán, y el Profeta dijo: `Déjale pasar y dale la buena noticia del Paraíso`, y le avisó de que tendría que pasar por una prueba difícil. Y así, cada uno de ellos entró con su bonita buena noticia.[^1]
+Después llegó Umar, y el Profeta, la paz y las bendiciones de Allah sean con él, dijo: `Déjalo pasar y dale la buena noticia del Paraíso`. Luego llegó Uzmán, y el Profeta dijo: `Déjalo pasar y dale la buena noticia del Paraíso`, y le avisó de que tendría que pasar por una prueba difícil. Y así, cada uno de ellos entró con su bonita buena noticia.[^1]
 
 <!-- retelling:end -->
 
@@ -301,7 +301,7 @@ Con tu papá o tu mamá, elige a alguien de tu familia al que hoy hayas visto ha
 
 ## Para niños de 8 a 12 años
 
-<!-- reader:start audience="8-12" estimated_minutes="6.0" -->
+<!-- reader:start audience="8-12" estimated_minutes="6.5" -->
 
 <!-- unit:start id="8-12.explanation" kind="explanation" -->
 
@@ -458,7 +458,7 @@ Piénsalo: Abu Musa no estaba entre los que recibieron la buena nueva aquel día
 
 <!-- activity:start audience="13+" concept_id="lesson.021.activity.doorkeeper-glad-tidings-card" -->
 
-Elige a alguien a quien rara vez se elogia: un compañero callado, un hermano menor o alguien del personal de tu escuela. Escríbele un mensaje privado (en papel o por texto, no una publicación pública) con una buena acción concreta que le hayas visto hacer, el efecto que tuvo en ti y una súplica para que Allah le conceda el Paraíso. Después escribe para ti, en tu cuaderno, dos líneas: "Lo que vi con mis propios ojos" y "Lo que espero para él y no puedo afirmar con certeza". Envía el mensaje en un plazo de tres días y observa: ¿sentiste algo parecido a la alegría de Abu Musa cuando llevaba la buena nueva a otros?
+Elige a alguien a quien rara vez se elogia: un compañero callado, un hermano menor o alguien del personal de tu escuela. Escríbele un mensaje privado (en papel o por mensaje de texto, no en una publicación visible para todos) con una buena acción concreta que le hayas visto hacer, el efecto que tuvo en ti y una súplica para que Allah le conceda el Paraíso. Después escribe para ti, en tu cuaderno, dos líneas: "Lo que vi con mis propios ojos" y "Lo que espero para él y no puedo afirmar con certeza". Envía el mensaje en un plazo de tres días y observa: ¿sentiste algo parecido a la alegría de Abu Musa cuando llevaba la buena nueva a otros?
 
 <!-- activity:end -->
 
@@ -503,7 +503,7 @@ Elige a alguien a quien rara vez se elogia: un compañero callado, un hermano me
 **Apertura — 5 minutos:** el docente pregunta: «Si hoy alguien les dijera con total certeza que son de la gente del Paraíso, ¿qué cambiaría en su día?». Escucha dos o tres respuestas y añade: «Hoy veremos cómo recibieron esta noticia quienes de verdad la recibieron».
 
 <!-- lesson-plan:evidence -->
-**Estudio de las evidencias — 20 minutos:** se lee en voz alta, por una sola voz, el hadiz completo del pozo de Aris, deteniéndose en tres momentos: la decisión de Abu Musa de hacerse portero, su deseo del bien para su hermano y la diferencia en la buena nueva de Uzmán. Luego se leen brevemente los hadices de los diez, de al-Hasan y al-Husain, de Fátima y de Maryam y Jadiya, y se cierra con la aleya 100 de At-Tawba. Después de cada texto se pregunta: «¿Quién informó? ¿Y quién transmitió?».
+**Estudio de las evidencias — 20 minutos:** un solo lector lee en voz alta el hadiz completo del pozo de Aris, deteniéndose en tres momentos: la decisión de Abu Musa de hacerse portero, su deseo del bien para su hermano y la diferencia en la buena nueva de Uzmán. Luego se leen brevemente los hadices de los diez, de al-Hasan y al-Husain, de Fátima y de Maryam y Jadiya, y se cierra con la aleya 100 de At-Tawba. Después de cada texto se pregunta: «¿Quién informó? ¿Y quién transmitió?».
 
 <!-- lesson-plan:instruction -->
 **Instrucción guiada — 10 minutos:** el docente completa con los participantes las dos columnas de la pizarra: en "Testimonio por texto", los nombres sobre los que hay un texto; en "Esperanza", ejemplos como "un familiar piadoso ya fallecido" o "un sabio conocido". Y dice: «A los primeros los amamos y damos testimonio de ellos como lo dio la revelación; para los segundos, esperamos el bien, y no avalamos a nadie ante Allah». Después se debate: ¿por qué la buena nueva de Uzmán llegó unida a la prueba?
@@ -515,7 +515,7 @@ Elige a alguien a quien rara vez se elogia: un compañero callado, un hermano me
 **Evaluación y cierre — 10 minutos:** tarjeta de salida: (1) nombra a cinco de los diez; (2) escribe una frase que distinga entre el testimonio y la esperanza; (3) ¿qué enseñanza deja la buena nueva de Uzmán? Se cierra con la pregunta: «¿Cómo puedo ser esta semana de quienes los siguieron en el bien?».
 
 <!-- lesson-plan:differentiation -->
-**Diferenciación:** para los principiantes basta con el hadiz del pozo de Aris, el hadiz de los diez y la aleya de At-Tawba. A los más avanzados se les pide comparar la versión de al-Bujari 3674 con la de Abu Uzmán an-Nahdi, de Abu Musa, en el mismo capítulo, y preparar una semblanza de uno de los diez a partir de los libros de biografía.
+**Diferenciación:** para los principiantes basta con el hadiz del pozo de Aris, el hadiz de los diez y la aleya de At-Tawba. A los más avanzados se les pide comparar la versión de al-Bujari 3674 con la que transmite Abu Uzmán an-Nahdi de Abu Musa en el mismo capítulo, y preparar una semblanza de uno de los diez a partir de los libros de biografía.
 
 <!-- lesson-plan:safeguards -->
 **Advertencias pedagógicas:** hay que evitar que la lección se convierta en una comparación polémica entre los Compañeros y la familia del Profeta, o en insultos o descalificaciones; el criterio adoptado es amarlos a todos y hablar bien de todos ellos. No se permite afirmar con certeza el Paraíso o el Fuego de personas concretas, contemporáneas o ya fallecidas. Y se tienen en cuenta los sentimientos de quien ha perdido a un ser querido: esperar el Paraíso para él es legítimo y deseable, y esta lección no le resta nada.
@@ -530,7 +530,7 @@ Elige a alguien a quien rara vez se elogia: un compañero callado, un hermano me
 **Resultados de aprendizaje:** el niño vuelve a contar la historia con tres golpes en la puerta, dice los nombres de Abu Bakr, Umar y Uzmán, sabe que fue el Profeta, la paz y las bendiciones de Allah sean con él, quien dio la buena noticia, y hace una tarjeta para alguien de su familia en quien haya visto algo bueno.
 
 <!-- lesson-plan:materials -->
-**Materiales:** una puertecita de cartón o la puerta de la habitación; cartulina y colores seguros; la tarjeta de la súplica escrita con letra clara.
+**Materiales:** una puertecita de cartón o la puerta de la habitación; cartulina y colores no tóxicos; la tarjeta de la súplica escrita con letra clara.
 
 <!-- lesson-plan:preparation -->
 **Preparación:** el educador ensaya la narración de la historia con voz tranquila, dando golpes de verdad en la puerta, y prepara los nombres de los tres escritos en letra grande. No se muestra ninguna imagen de un Compañero ni del Profeta, la paz y las bendiciones de Allah sean con él.
@@ -539,16 +539,16 @@ Elige a alguien a quien rara vez se elogia: un compañero callado, un hermano me
 **Apertura — 3 minutos:** el educador pregunta: «¿Cuál es la noticia más bonita que has oído alguna vez? ¿Cómo te sentiste?». Y luego dice: «Hoy vamos a oír hablar de la noticia más bonita de todas».
 
 <!-- lesson-plan:evidence -->
-**Lectura del relato — 7 minutos:** el educador cuenta la historia tal como aparece en la unidad del relato, da tres golpes en la puerta cada vez que llega un Compañero, y los niños repiten con él: "Déjale pasar y dale la buena noticia del Paraíso".
+**Lectura del relato — 7 minutos:** el educador cuenta la historia tal como aparece en la unidad del relato, da tres golpes en la puerta cada vez que llega un Compañero, y los niños repiten con él: "Déjalo pasar y dale la buena noticia del Paraíso".
 
 <!-- lesson-plan:instruction -->
-**Instrucción guiada — 4 minutos:** el educador pregunta: «¿Abu Musa dio la buena noticia porque se le ocurrió a él?», y remarca: «No, primero le preguntó al Profeta, la paz y las bendiciones de Allah sean con él». Luego: «¿Qué deseaba para su hermano?», y subraya que querer el bien para los demás es una conducta preciosa.
+**Instrucción guiada — 4 minutos:** el educador pregunta: «¿Abu Musa dio la buena noticia porque se le ocurrió a él?», y remarca: «No, primero le preguntó al Profeta, la paz y las bendiciones de Allah sean con él». Luego: «¿Qué deseaba para su hermano?», y subraya que querer el bien para los demás es algo precioso.
 
 <!-- lesson-plan:activity -->
 **Actividad — 7 minutos:** se realiza la actividad "La tarjeta de la buena nueva sincera": dibujar la puerta y la buena acción, y luego entregar la tarjeta a alguien de la familia diciendo la frase propuesta.
 
 <!-- lesson-plan:assessment -->
-**Evaluación y cierre — 4 minutos:** se observa si el niño menciona al menos uno de los tres nombres y si sabe quién dio la buena noticia. Después se lee juntos la súplica antes de dormir.
+**Evaluación y cierre — 4 minutos:** se observa si el niño menciona al menos uno de los tres nombres y si sabe quién dio la buena noticia. Después, todos juntos leen la súplica antes de dormir.
 
 <!-- lesson-plan:differentiation -->
 **Diferenciación:** con los más pequeños basta con un solo golpe en la puerta y el nombre de Abu Bakr, y el niño puede dar la buena noticia de palabra en lugar de dibujarla. A los mayores se les pide que cuenten la historia a un hermano más pequeño.

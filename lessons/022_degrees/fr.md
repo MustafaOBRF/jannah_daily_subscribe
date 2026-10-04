@@ -24,14 +24,14 @@ Au terme de cette leçon, l'apprenant sera capable de :
 - s'appuyer sur les versets de la sourate al-Isra' (17:18-21) pour établir que la Jannah est faite de degrés, et que les écarts entre ses habitants dans l'au-delà dépassent tous les écarts qui séparent les hommes ici-bas ;
 - expliquer le hadith des cent degrés (al-Bukhari 2790) et montrer que l'entrée dans la Jannah est promise à quiconque croit et s'acquitte des obligations, que ceux qui y entrent se distinguent ensuite par les degrés situés au-dessus, et qu'entre deux degrés s'étend la distance qui sépare le ciel de la terre ;
 - commenter le hadith des habitants des demeures élevées (al-Bukhari 3256) et montrer que les plus hauts degrés ne sont pas réservés aux prophètes, mais qu'y parviennent « des hommes qui ont cru en Allah et ajouté foi aux messagers » ;
-- raconter le récit des pauvres parmi les Émigrés qui dirent : « Les gens fortunés ont emporté les plus hauts degrés » (Muslim 595), et en tirer l'éthique d'une saine émulation pour les degrés, d'un cœur pur : chercher une œuvre à sa portée plutôt que de souhaiter la disparition du bienfait d'autrui, et accueillir avec contentement sa parole, paix et bénédictions sur lui : « Telle est la grâce d'Allah ; Il la donne à qui Il veut » ;
+- raconter le récit des pauvres parmi les Émigrés qui dirent : « Les gens fortunés ont emporté les plus hauts degrés » (Muslim 595), et en tirer l'éthique d'une saine émulation, d'un cœur pur, dans la course aux degrés : chercher une œuvre à sa portée plutôt que de souhaiter la disparition du bienfait d'autrui, et accueillir avec contentement sa parole, paix et bénédictions sur lui : « Telle est la grâce d'Allah ; Il la donne à qui Il veut » ;
 - distinguer l'émulation louable (*ghibtah*) de l'envie blâmable (*hasad*) lorsqu'on se compare aux autres ;
 - réaliser l'activité « Une porte à ma portée », qui transforme la comparaison avec ceux qui nous devancent grâce à des moyens que nous n'avons pas en une bonne œuvre à la mesure de nos capacités ;
 - retenir l'invocation de la leçon, qui demande à Allah de purifier le cœur de l'envie, d'aider à rivaliser dans le bien et de faire parvenir aux plus hauts degrés.
 
 ## Section académique pour les adultes
 
-<!-- reader:start audience="adults" estimated_minutes="6.5" -->
+<!-- reader:start audience="adults" estimated_minutes="7.0" -->
 
 <!-- unit:start id="adults.explanation" kind="explanation" -->
 
@@ -83,7 +83,7 @@ Le hadith distingue entre l'entrée dans la Jannah en elle-même — un droit qu
 
 #### Explication de la leçon
 
-Ce hadith écarte deux erreurs : le désespoir de celui qui croit la Jannah hors d'atteinte sans les œuvres des grands, et la satisfaction trop facile de celui qui croit que le simple fait d'y entrer est le terme de tout effort.
+Ce hadith écarte deux erreurs : le désespoir de celui qui croit la Jannah hors d'atteinte sans égaler les œuvres des plus grands, et la satisfaction trop facile de celui qui croit que le simple fait d'y entrer est le terme de tout effort.
 
 <!-- evidence:end -->
 
@@ -212,7 +212,7 @@ Tout simplement : quand tu vois quelqu'un faire un bien que tu ne peux pas fair
 
 <!-- activity:start audience="4-7" concept_id="lesson.022.activity.within-my-means-door" -->
 
-Avec ton papa ou ta maman, trace le contour de tes deux mains sur une feuille. Dans la première main, dessine un bien que font les grands et que tu ne peux pas encore faire (comme donner de l'argent aux pauvres). Dans la deuxième main, dessine un bien que tu peux faire aujourd'hui, toi (comme dire *Subhan Allah*, aider ta maman, ou faire un sourire). Puis, après une prière, dites ensemble *Subhan Allah*, ton papa ou ta maman et toi, en comptant sur les doigts de la deuxième main.
+Avec ton papa ou ta maman, trace le contour de tes deux mains sur une feuille. Dans la première main, dessine un bien que font les grands et que tu ne peux pas encore faire (comme donner de l'argent aux pauvres). Dans la deuxième main, dessine un bien que tu peux faire aujourd'hui, toi (comme dire *Subhan Allah*, aider ta maman, ou faire un sourire). Puis, après une prière, dis *Subhan Allah* avec ton papa ou ta maman, en comptant ensemble sur les doigts de la deuxième main.
 
 <!-- activity:end -->
 
@@ -240,7 +240,7 @@ Avec ton papa ou ta maman, trace le contour de tes deux mains sur une feuille. D
 
 ## Pour les enfants de 8 à 12 ans
 
-<!-- reader:start audience="8-12" estimated_minutes="6.0" -->
+<!-- reader:start audience="8-12" estimated_minutes="6.5" -->
 
 <!-- unit:start id="8-12.explanation" kind="explanation" -->
 
@@ -280,7 +280,7 @@ Le Prophète, paix et bénédictions sur lui, leur dit alors : **« Ne vous en
 
 Les pauvres se mirent à le faire. Mais les riches l'apprirent… et firent la même chose ! Les pauvres revinrent alors voir le Prophète, paix et bénédictions sur lui, et lui dirent : « Nos frères, les gens aisés, ont appris ce que nous faisions, et ils ont fait de même. » Tu as remarqué ? Ils les appellent « nos frères ». Le Prophète, paix et bénédictions sur lui, répondit : **« Telle est la grâce d'Allah ; Il la donne à qui Il veut. »**[^5]
 
-Ce récit nous apprend que faire la course vers les plus hauts degrés est une très belle chose ; et que le musulman qui voit quelqu'un passer devant lui grâce à ce qu'il n'a pas cherche un bien qu'il peut faire, lui, se réjouit pour son frère, et sait qu'Allah donne Sa grâce à qui Il veut.[^5]
+Ce récit nous apprend que faire la course vers les plus hauts degrés est une très belle chose ; et que, lorsque le musulman voit quelqu'un passer devant lui grâce à ce qu'il ne possède pas, il cherche un bien qu'il peut faire, lui, se réjouit pour son frère, et sait qu'Allah donne Sa grâce à qui Il veut.[^5]
 
 <!-- retelling:end -->
 
@@ -293,7 +293,7 @@ Ce récit nous apprend que faire la course vers les plus hauts degrés est une t
 ### Questions pour comprendre et réfléchir
 
 1. Que pouvaient faire les riches que les pauvres ne pouvaient pas faire ?
-2. Pourquoi le dhikr après la prière était-il une bonne solution pour les pauvres ?
+2. Pourquoi le *dhikr* après la prière était-il une bonne solution pour les pauvres ?
 3. Qu'a dit le Prophète, paix et bénédictions sur lui, quand les riches ont fait comme eux ? Et qu'est-ce que cela veut dire ?
 4. Que fais-tu quand tu vois un camarade te devancer dans une bonne action que tu ne peux pas encore faire ?
 
@@ -348,7 +348,7 @@ La vraie question n'est donc pas : « La compétition existe-t-elle ? » mai
 <!-- terminology:start source_id="muslim-595a" -->
 
 - **`L'émulation`** (*al-ghibtah*) — souhaiter avoir un bien semblable à celui d'autrui, sans souhaiter qu'il le perde ; elle est louable dans les affaires de l'au-delà.[^9]
-- **`L'envie`** (*al-hasad*) — souhaiter que le bienfait disparaisse de chez celui qui le possède ; c'est un trait de caractère blâmable qui corrompt le cœur.[^9]
+- **`L'envie`** (*al-hasad*) — souhaiter que celui qui possède un bienfait en soit privé ; c'est un trait de caractère blâmable qui corrompt le cœur.[^9]
 - **`Les gens fortunés`** (*ahl ad-duthur*) — ceux qui possèdent de grandes richesses.
 
 <!-- terminology:end -->
@@ -438,7 +438,7 @@ Réserve une page pendant une semaine. Chaque fois que tu te compares à quelqu'
 **Matériel :** un exemplaire de la leçon pour chaque apprenant ; un exemplaire du Coran pour se reporter à la sourate al-Isra' ; un tableau ; une fiche d'activité « Une porte à ma portée » à deux colonnes, avec une ligne pour le bilan ; une carte de sortie.
 
 <!-- lesson-plan:preparation -->
-**Préparation :** l'enseignant lit les quatre textes et leurs références, ainsi que le texte intégral du hadith d'al-Bukhari 2790, y compris la partie omise à la fin ; il revoit le commentaire d'an-Nawawi sur le hadith de Muslim 595, afin de présenter de manière équilibrée, sans trancher hâtivement, la divergence sur le riche reconnaissant et le pauvre patient ; et il garde à l'esprit que le récit du retour des pauvres est une parole d'Abu Salih dans la version de Qutaybah. Il prépare un exemple neutre de porte du bien qui exige des moyens (comme la fondation d'un waqf) et une alternative à la portée de chacun.
+**Préparation :** l'enseignant lit les quatre textes et leurs références, ainsi que le texte intégral du hadith d'al-Bukhari 2790, y compris la partie omise à la fin ; il revoit le commentaire d'an-Nawawi sur le hadith de Muslim 595, afin de présenter de manière équilibrée, sans trancher hâtivement, la divergence sur le riche reconnaissant et le pauvre patient ; et il garde à l'esprit que le récit du retour des pauvres est une parole d'Abu Salih dans la version de Qutaybah. Il prépare un exemple neutre de porte du bien qui exige des moyens (comme la constitution d'un *waqf*, une fondation pieuse) et une alternative à la portée de chacun.
 
 <!-- lesson-plan:opening -->
 **Ouverture — 5 minutes :** l'enseignant demande : « La Jannah est-elle pour vous une demeure unique où tous sont au même rang ? Et quand avez-vous eu le sentiment que d'autres vous devançaient dans le bien grâce à ce que vous n'aviez pas ? » Il note deux réponses au tableau, sans les commenter.
@@ -447,7 +447,7 @@ Réserve une page pendant une semaine. Chaque fois que tu te compares à quelqu'
 **Étude des preuves — 20 minutes :** on lit ensemble, à voix haute, les versets 18 à 21 de la sourate al-Isra', et l'on demande d'en dégager les conditions de l'effort reconnu (5 minutes). Puis vient le hadith des cent degrés, avec cette question : « Quelle bonne nouvelle les Compagnons voulaient-ils annoncer, et qu'a ajouté le Prophète, paix et bénédictions sur lui ? » (5 minutes). Ensuite le hadith des demeures élevées, en s'arrêtant sur « Si ! Par Celui qui tient mon âme en Sa main » (5 minutes). Enfin le récit des pauvres parmi les Émigrés en entier, découpé en quatre moments : la plainte, la question, l'enseignement et le retour (5 minutes).
 
 <!-- lesson-plan:instruction -->
-**Enseignement guidé — 12 minutes :** l'enseignant construit au tableau l'enchaînement suivant : « Des rangs bien établis → dont la cause est la foi et les œuvres → séparés par des distances immenses → une porte ouverte à d'autres que les prophètes → l'éthique de l'émulation ». Il demande : « En quoi la démarche des pauvres diffère-t-elle de l'envie ? » et « Pourquoi le Prophète, paix et bénédictions sur lui, a-t-il conclu par : Telle est la grâce d'Allah ? » Il présente brièvement la divergence sur la question du riche reconnaissant et du pauvre patient.
+**Enseignement guidé — 12 minutes :** l'enseignant construit au tableau l'enchaînement suivant : « Des rangs attestés par les textes → dont la cause est la foi et les œuvres → séparés par des distances immenses → une porte ouverte à d'autres que les prophètes → l'éthique de l'émulation ». Il demande : « En quoi la démarche des pauvres diffère-t-elle de l'envie ? » et « Pourquoi le Prophète, paix et bénédictions sur lui, a-t-il conclu par : Telle est la grâce d'Allah ? » Il présente brièvement la divergence sur la question du riche reconnaissant et du pauvre patient.
 
 <!-- lesson-plan:activity -->
 **Activité — 13 minutes :** les apprenants réalisent individuellement l'activité « Une porte à ma portée » (8 minutes), puis, deux par deux, chacun présente à l'autre l'alternative qu'il a choisie, et ils vérifient ensemble qu'elle est licite, réaliste et fixée dans le temps (5 minutes).
@@ -519,7 +519,7 @@ Réserve une page pendant une semaine. Chaque fois que tu te compares à quelqu'
 **Étude de la preuve — 10 minutes :** les élèves lisent l'explication, puis l'enseignant explique les trois termes ; ensuite on lit le récit à tour de rôle, en s'arrêtant après la phrase des pauvres « Les gens fortunés ont emporté… » et après le passage où les riches font de même.
 
 <!-- lesson-plan:instruction -->
-**Enseignement guidé — 8 minutes :** l'enseignant lance la discussion : « Pourquoi le Prophète, paix et bénédictions sur lui, leur a-t-il choisi justement le dhikr ? » et « Pourquoi les pauvres ont-ils appelé les riches “nos frères” ? » Il souligne que l'envie souhaite la disparition du bienfait d'autrui, et que les pauvres n'ont rien fait de tel.
+**Enseignement guidé — 8 minutes :** l'enseignant lance la discussion : « Pourquoi le Prophète, paix et bénédictions sur lui, leur a-t-il choisi justement le *dhikr* ? » et « Pourquoi les pauvres ont-ils appelé les riches “nos frères” ? » Il souligne que l'envie souhaite la disparition du bienfait d'autrui, et que les pauvres n'ont rien fait de tel.
 
 <!-- lesson-plan:activity -->
 **Activité — 8 minutes :** les élèves remplissent trois lignes du tableau « À ma mesure », et chacun choisit une ligne à mettre en pratique.

@@ -21,7 +21,7 @@ bedtime_dua_id: "lesson.041.dua.pleasant-dwellings-without-noise-or-toil"
 
 After this lesson, the learner will be able to:
 
-- Narrate, in sequence, the hadith of the palace of Umar ibn al-Khattab, may Allah be pleased with him, in Jannah (al-Bukhari 3242 and Muslim 2395): the Prophet's dream, peace and blessings be upon him; the question "Whose palace is this?"; how he remembered Umar's protective jealousy and turned away; and then Umar's tears and his words, "Would I ever feel jealous where you are concerned, O Messenger of Allah?"
+- Narrate, in sequence, the hadith of the palace of Umar ibn al-Khattab, may Allah be pleased with him, in Jannah (al-Bukhari 3242 and Muslim 2395): the dream of the Prophet, peace and blessings be upon him; the question "Whose palace is this?"; how he remembered Umar's protective jealousy and turned away; and then Umar's tears and his words, "Would I ever feel jealous where you are concerned, O Messenger of Allah?"
 - Affirm only what authentic texts establish about the palaces of Jannah: a palace of gold (at-Tirmidhi 3688); a house for Khadijah, may Allah be pleased with her, made of hollow pearl, with no clamor in it and no toil (al-Bukhari 3820); and `pleasant dwellings in the Gardens of Eternity` (at-Tawbah 9:72).
 - Explain that these palaces are real, already prepared, and assigned to their owners by name, and that Allah's good pleasure is greater than all of them.
 - Draw two courtesies from the hadith: being mindful of the owner's feelings before entering his place, and humility when one is honored.
@@ -30,11 +30,11 @@ After this lesson, the learner will be able to:
 
 ## Academic Section for Adults
 
-<!-- reader:start audience="adults" estimated_minutes="6.5" -->
+<!-- reader:start audience="adults" estimated_minutes="7.0" -->
 
 <!-- unit:start id="adults.explanation" kind="explanation" -->
 
-Many people dream of a spacious home, and anyone who has ever lived in one knows that even a beautiful house can fill up with noise, exhaustion and quarreling. Revelation tells us that the people of Jannah have palaces and dwellings that are real, created already, assigned to their owners by name, and free of everything that clouds the homes of this world.
+Many people dream of a spacious home, and anyone who has ever lived in a house knows that even a beautiful one can fill up with noise, exhaustion and quarreling. Revelation tells us that the people of Jannah have palaces and dwellings that are real, already created, assigned to their owners by name, and free of everything that clouds the homes of this world.
 
 Earlier lessons dealt with the deeds by which homes in Jannah are built, and with how its people will recognize their own places there. This lesson turns to the palaces themselves: what has actually been established about them? It is built on an authentic hadith in which the Prophet, peace and blessings be upon him, saw a palace belonging to Umar ibn al-Khattab, may Allah be pleased with him. In one brief scene it teaches us that the palace is real, that it has an owner, and that courtesy toward its owner does not lapse, even in Jannah.
 
@@ -66,7 +66,7 @@ In describing them we confine ourselves to what is authentic: a palace of gold, 
 
 #### Scholarly Explanation
 
-*Al-ghayrah*, protective jealousy, is a man's sense of honor and his care to shield his family and those under his protection from the gaze of others and from anyone entering upon them.[^9] This was a dream, and the dreams of prophets are true. At-Tirmidhi relates that Ibn Abbas said, "The dreams of prophets are revelation"; this is why the Companions passed it on as information about Jannah and as a merit of Umar.[^3] Jabir's narration explains why the Prophet, peace and blessings be upon him, turned away: he wanted to go into the palace and look around it, but he remembered Umar's protective jealousy, and so he did not enter.[^2]
+*Al-ghayrah*, protective jealousy, is a man's sense of honor and his care to shield his family and those under his protection from the gaze of others and from anyone entering upon them.[^9] This was a dream, and the dreams of prophets are true. At-Tirmidhi relates that Ibn Abbas said, "The dreams of prophets are revelation"; this is why the Companions passed it on as information about Jannah and as a virtue of Umar.[^3] Jabir's narration explains why the Prophet, peace and blessings be upon him, turned away: he wanted to go into the palace and look around it, but he remembered Umar's protective jealousy, and so he did not enter.[^2]
 
 #### Lesson Explanation
 
@@ -126,7 +126,7 @@ Ibn Kathir, may Allah have mercy on him, explains `pleasant dwellings` as "beaut
 
 #### Lesson Explanation
 
-The ayah ends its description of the dwellings by declaring that Allah's good pleasure is greater. The palace is not the final goal of our seeking; it is one of the signs of Allah's being pleased with His servant.
+The ayah ends its description of the dwellings by declaring that Allah's good pleasure is greater. The palace is not the final goal of our seeking; it is one of the fruits of Allah's pleasure with His servant.
 
 <!-- evidence:end -->
 
@@ -251,7 +251,7 @@ What it means: O Allah, give us lovely homes in Jannah and palaces where nobody 
 
 ## For Children Ages 8 to 12
 
-<!-- reader:start audience="8-12" estimated_minutes="6.0" -->
+<!-- reader:start audience="8-12" estimated_minutes="6.5" -->
 
 <!-- unit:start id="8-12.explanation" kind="explanation" -->
 
@@ -285,7 +285,7 @@ If I asked you to describe your dream house, you might talk about big rooms, a y
 
 <!-- retelling:start source_id="bukhari-3242" audience="8-12" -->
 
-Abu Hurayrah, may Allah be pleased with him, says: We were sitting with the Messenger of Allah, peace and blessings be upon him, when he said, "While I was asleep, I saw myself in Jannah." The dreams of prophets are true, so what he saw was real news about Jannah.[^1][^3]
+Abu Hurayrah, may Allah be pleased with him, says: We were sitting with the Messenger of Allah, peace and blessings be upon him, when he said, "While I was asleep, I saw myself in Jannah." The dreams of prophets are true, so what he saw was a true report about Jannah.[^1][^3]
 
 The Prophet, peace and blessings be upon him, saw a palace, and beside it a woman was making wudu'. He asked, "Whose palace is this?" They said, "It belongs to Umar ibn al-Khattab."[^1] In the narration of Anas, the palace was made of gold, and at first the Prophet, peace and blessings be upon him, was told, "It belongs to a young man of Quraysh," so he thought it was his own. Then he was told: "Umar ibn al-Khattab."[^3]
 
@@ -351,7 +351,7 @@ What it means: O Allah, grant us in Your Jannah the pleasant dwellings You have 
 
 <!-- unit:start id="13+.explanation" kind="explanation" -->
 
-We live at a time when it has become easy to walk right into other people's private lives: a glance at a friend's screen, a screenshot of a private chat dropped into a group, opening a brother's door without knocking. And so often the excuse is, "Relax, we're all friends here." At the same time, we love being honored, and we may show off a little when someone praises us in public. An authentic hadith about the palaces of Jannah brings both of these together: a Prophet stopping at the door of a palace that is not his, and a Companion who weeps when he is given the news of his palace in front of everyone. Before the story, keep this in mind: the palaces of Jannah are real. The Prophet, peace and blessings be upon him, described them in terms of gold and pearl,[^3][^4][^5] and Allah called them `pleasant dwellings`, then added: `And the good pleasure of Allah is greater still`.[^6]
+We live in a time when it has become easy to walk right into other people's private lives: a glance at a friend's screen, a screenshot of a private chat dropped into a group, opening a brother's door without knocking. And so often the excuse is, "Relax, we're all friends here." At the same time, we love being honored, and we may show off a little when someone praises us in public. An authentic hadith about the palaces of Jannah brings both of these together: a Prophet stopping at the door of a palace that is not his, and a Companion who weeps when he is given the news of his palace in front of everyone. Before the story, keep this in mind: the palaces of Jannah are real. The Prophet, peace and blessings be upon him, described them in terms of gold and pearl,[^3][^4][^5] and Allah called them `pleasant dwellings`, then added: `And the good pleasure of Allah is greater still`.[^6]
 
 <!-- unit:end -->
 
@@ -458,7 +458,7 @@ What it means: O Allah, grant us the pleasant dwellings You have promised Your s
 **Preparation:** The teacher reads al-Bukhari 3242 and 3679, Muslim 2394 and 2395, at-Tirmidhi 3688 together with its grading, al-Bukhari 3820, the tafsir of Ibn Kathir and as-Sa'di on at-Tawbah 9:72, and Chapter 36 of *Hadi al-Arwah*. The teacher should note that the detailed reports in the books on the description of Jannah about other palaces (such as the palace of pearl for Ibrahim, peace be upon him) are disputed as to whether they go back to the Prophet, peace and blessings be upon him, or stop at a Companion, so they are not used in this lesson. The teacher should also bear in mind that the lessons "The Deeds That Build Homes in Jannah" and "Knowing One's Place in Jannah" have already been covered, and should not repeat their material.
 
 <!-- lesson-plan:opening -->
-**Opening — 5 minutes:** The teacher asks: "Describe a home you would love to live in. Then name one thing that spoils even the most beautiful homes in this world." Write the answers up, then ask: What do we know for certain about the palaces of Jannah?
+**Opening — 5 minutes:** The teacher asks: "Describe a home you would love to live in. Then name one thing that spoils even the most beautiful homes in this world." Write the answers on the board, then ask: What do we know for certain about the palaces of Jannah?
 
 <!-- lesson-plan:evidence -->
 **Studying the Evidence — 20 minutes:** Read the hadith of Abu Hurayrah, then the addition in Muslim, then the narration of Jabir, and ask: What does each narration add? (8 minutes). Then read the hadith of Anas, pointing out at-Tirmidhi's grading (3 minutes). Then the hadith of Khadijah, with Ibn al-Qayyim's comment and the meaning of *sakhab* and *nasab* (4 minutes). Then the ayah of at-Tawbah with the two tafsirs, filling in the first column (5 minutes).
@@ -488,7 +488,7 @@ What it means: O Allah, grant us the pleasant dwellings You have promised Your s
 **Learning Outcomes:** The child says that there are real palaces in Jannah, including a palace of gold and a house of pearl; tells how the Prophet, peace and blessings be upon him, saw Umar's palace and did not go in because he remembered Umar's feelings; and knocks on the door and waits for permission before going into someone's room.
 
 <!-- lesson-plan:materials -->
-**Materials:** A picture of a beautiful palace with no writing and no people in it; a pearl or a shiny bead; large sheets of paper and coloring pencils; the du'a card.
+**Materials:** A picture of a beautiful palace with no writing and no people in it; a pearl or a shiny bead; large sheets of paper and colored pencils; the du'a card.
 
 <!-- lesson-plan:preparation -->
 **Preparation:** The caregiver closes the door of a nearby room so the child can practice knocking and waiting. The caregiver also practices telling the report without adding any words or feelings that were not reported, and without describing the woman beyond what is in the hadith.
@@ -557,7 +557,7 @@ What it means: O Allah, grant us the pleasant dwellings You have promised Your s
 ### Teens, Ages 13+ — 50 Minutes
 
 <!-- lesson-plan:outcomes -->
-**Learning Outcomes:** The teen analyzes the stances of the Prophet, peace and blessings be upon him, and of Umar in the hadith; distinguishes praiseworthy protective jealousy from control; identifies forms of digital privacy violation; explains why Allah's good pleasure is greater than the dwellings; and keeps an agreed rule for a week, privately recording the hard moments.
+**Learning Outcomes:** The teen analyzes how the Prophet, peace and blessings be upon him, and Umar each acted in the hadith; distinguishes praiseworthy protective jealousy from control; identifies forms of digital privacy violation; explains why Allah's good pleasure is greater than the dwellings; and keeps an agreed rule for a week, privately recording the hard moments.
 
 <!-- lesson-plan:materials -->
 **Materials:** Copies of the lesson; a private sheet that is not collected; cards for anonymous questions; a mushaf.

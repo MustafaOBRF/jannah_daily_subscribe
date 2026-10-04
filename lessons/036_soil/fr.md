@@ -30,15 +30,15 @@ Au terme de cette leçon, l'apprenant sera capable de :
 
 ## Section Académique Pour Adultes
 
-<!-- reader:start audience="adults" estimated_minutes="6.5" -->
+<!-- reader:start audience="adults" estimated_minutes="7.0" -->
 
 <!-- unit:start id="adults.explanation" kind="explanation" -->
 
-La terre d'ici-bas nous donne beaucoup : nous y marchons, nous mangeons ce qu'elle fait pousser, et c'est sur elle que nous nous prosternons. Mais c'est aussi une terre de poussière, de boue et d'épines, dont les hommes se disputent le moindre empan, qu'ils se transmettent de génération en génération avant de la quitter tous. La Révélation a décrit une autre terre : les croyants en héritent pour ne jamais la quitter, et sa poussière est de musc.
+La terre d'ici-bas nous donne beaucoup : nous y marchons, nous mangeons ce qu'elle fait pousser, et c'est sur elle que nous nous prosternons. Mais c'est aussi une terre de poussière, de boue et d'épines, dont les hommes se disputent le moindre pouce, qu'ils se transmettent de génération en génération avant de la quitter tous. La Révélation a décrit une autre terre : les croyants en héritent pour ne jamais la quitter, et sa poussière est de musc.
 
 Cette leçon rassemble les textes établis au sujet de la terre de la Jannah et de son sol, et en dégage trois vérités :
 
-1. **La terre de la Jannah est l'héritage des croyants :** les gens de la Jannah louent leur Seigneur de leur avoir fait hériter sa terre, où ils s'installent là où ils le veulent.
+1. **La terre de la Jannah est l'héritage des croyants :** les gens de la Jannah louent leur Seigneur de leur avoir fait hériter sa terre, et ils s'y installent là où ils le veulent.
 2. **Son sol est d'un parfum exquis, d'une blancheur pure :** le Prophète, paix et bénédictions sur lui, l'a vu la nuit de l'Ascension, et sa terre était de musc ; il l'a décrit comme une fine farine blanche, un musc pur.
 3. **Le chemin qui y mène passe par la terre d'ici-bas :** un petit geste accompli sur un chemin peut devenir la cause d'un délice dans la Jannah.
 
@@ -64,7 +64,7 @@ Quant à la construction de la Jannah, à ses briques et à ses murs, ils feront
 
 #### Interprétation Savante
 
-As-Sa'di explique que « Il nous a fait hériter la terre » signifie « c'est-à-dire la terre de la Jannah », et que « nous nous installons dans la Jannah où bon nous semble » veut dire : « nous descendons à l'endroit que nous voulons, et nous y prenons le délice que nous désirons ».[^2] Ibn Kathir rapporte l'avis selon lequel il s'agit de la terre de la Jannah d'après Abu al-'Aliyah, Abu Salih, Qatadah, as-Suddi et Ibn Zayd, puis il cite sous ce verset les deux hadiths d'al-Bukhari et de Muslim, présentés ci-dessous, au sujet de la terre de la Jannah.[^3]
+As-Sa'di commente « et nous a fait hériter la terre » par les mots « c'est-à-dire la terre de la Jannah », et explique que « nous nous installons dans la Jannah où bon nous semble » veut dire : « nous descendons à l'endroit que nous voulons, et nous y prenons le délice que nous désirons ».[^2] Ibn Kathir attribue à Abu al-'Aliyah, Abu Salih, Qatadah, as-Suddi et Ibn Zayd l'avis selon lequel il s'agit de la terre de la Jannah, puis il cite sous ce verset les deux hadiths d'al-Bukhari et de Muslim, présentés ci-dessous, au sujet de la terre de la Jannah.[^3]
 
 #### Explication De La Leçon
 
@@ -82,7 +82,7 @@ Les gens de la Jannah prononcent ces mots en y entrant, pleins de louange envers
 
 #### Traduction Française
 
-> D'après Anas ibn Malik, qui dit : Abu Dharr racontait que le Messager d'Allah, paix et bénédictions sur lui, a dit : **« Le toit de ma maison s'ouvrit alors que j'étais à La Mecque. Jibril descendit, m'ouvrit la poitrine, puis la lava avec l'eau de Zamzam. Ensuite, il apporta une bassine d'or remplie de sagesse et de foi, la vida dans ma poitrine, puis la referma. Puis il me prit par la main et m'éleva jusqu'au ciel le plus proche. Lorsque j'arrivai au ciel le plus proche, Jibril dit au gardien de ce ciel : “Ouvre.” Il demanda : “Qui est là ?” Il répondit : “C'est Jibril.” — “Quelqu'un est-il avec toi ?” — “Oui, Muhammad, paix et bénédictions sur lui, est avec moi.” — “L'a-t-on envoyé chercher ?” — “Oui.” »** [Puis il relata son élévation à travers les cieux, sa rencontre avec Adam, Idris, Musa, 'Isa et Ibrahim, sur eux la paix, et l'accueil qu'ils lui réservèrent ; puis il dit :] **« Allah prescrivit alors à ma communauté cinquante prières. Je redescendis avec cela, et lorsque je passai auprès de Musa, il me demanda : “Qu'Allah t'a-t-Il prescrit pour ta communauté ?” Je répondis : “Il a prescrit cinquante prières.” Il dit : “Retourne auprès de ton Seigneur, car ta communauté n'en sera pas capable.” J'y retournai donc, et Il en retira une partie. Je revins auprès de Musa et lui dis : “Il en a retiré une partie.” Il dit : “Retourne auprès de ton Seigneur, car ta communauté n'en sera pas capable.” J'y retournai, et Il en retira une autre partie. Je revins auprès de lui, et il dit : “Retourne auprès de ton Seigneur, car ta communauté n'en sera pas capable.” J'y retournai alors, et Il dit : “Elles sont cinq, et elles sont cinquante ; la Parole ne se modifie pas auprès de Moi.” Je revins auprès de Musa, qui me dit : “Retourne auprès de ton Seigneur.” Je répondis : “J'éprouve désormais de la pudeur devant mon Seigneur.” Puis il m'emmena jusqu'à ce qu'il me conduise au Lotus de la Limite, que recouvraient des couleurs dont je ne sais ce qu'elles sont. Puis on me fit entrer dans la Jannah : il s'y trouvait des rangs de perles, et voici que sa terre était de musc. »**[^4]
+> D'après Anas ibn Malik, qui dit : Abu Dharr racontait que le Messager d'Allah, paix et bénédictions sur lui, a dit : **« Le toit de ma maison s'ouvrit alors que j'étais à La Mecque. Jibril descendit, m'ouvrit la poitrine, puis la lava avec l'eau de Zamzam. Ensuite, il apporta une bassine d'or remplie de sagesse et de foi, la vida dans ma poitrine, puis la referma. Puis il me prit par la main et m'éleva jusqu'au ciel le plus proche. Lorsque j'arrivai au ciel le plus proche, Jibril dit au gardien de ce ciel : “Ouvre.” Il demanda : “Qui est là ?” Il répondit : “C'est Jibril.” — “Quelqu'un est-il avec toi ?” — “Oui, Muhammad, paix et bénédictions sur lui, est avec moi.” — “L'a-t-on envoyé chercher ?” — “Oui.” »** [Puis il relata son élévation à travers les cieux, sa rencontre avec Adam, Idris, Musa, 'Isa et Ibrahim, sur eux la paix, et l'accueil qu'ils lui réservèrent ; puis il dit :] **« Allah prescrivit alors à ma communauté cinquante prières. Je redescendis avec cela, et lorsque je passai auprès de Musa, il me demanda : “Qu'est-ce qu'Allah t'a prescrit pour ta communauté ?” Je répondis : “Il a prescrit cinquante prières.” Il dit : “Retourne auprès de ton Seigneur, car ta communauté n'en sera pas capable.” J'y retournai donc, et Il en retira une partie. Je revins auprès de Musa et lui dis : “Il en a retiré une partie.” Il dit : “Retourne auprès de ton Seigneur, car ta communauté n'en sera pas capable.” J'y retournai, et Il en retira une autre partie. Je revins auprès de lui, et il dit : “Retourne auprès de ton Seigneur, car ta communauté n'en sera pas capable.” J'y retournai alors, et Il dit : “Elles sont cinq, et elles sont cinquante ; la Parole ne se modifie pas auprès de Moi.” Je revins auprès de Musa, qui me dit : “Retourne auprès de ton Seigneur.” Je répondis : “J'éprouve désormais de la pudeur devant mon Seigneur.” Puis il m'emmena jusqu'à ce qu'il me conduise au Lotus de la Limite, que recouvraient des couleurs dont je ne sais ce qu'elles sont. Puis on me fit entrer dans la Jannah : il s'y trouvait des rangs de perles, et voici que sa terre était de musc. »**[^4]
 
 #### Interprétation Savante
 
@@ -196,11 +196,11 @@ Prenez une poignée de terre d'un jardin ou d'un chemin dans un petit récipient
 
 ## Pour Les Enfants De 4 À 7 Ans
 
-<!-- reader:start audience="4-7" estimated_minutes="5.0" -->
+<!-- reader:start audience="4-7" estimated_minutes="6.5" -->
 
 <!-- unit:start id="4-7.explanation" kind="explanation" -->
 
-Chaque jour, nous marchons sur la terre : il y a de la poussière, de la boue, et parfois des cailloux et des épines. Mais notre Prophète, paix et bénédictions sur lui, nous a raconté qu'il avait vu la terre de la Jannah, et que sa terre est de musc. Le musc, c'est un parfum très doux.[^4] Et dans la Jannah, les gens disent : « Louange à Allah, qui a tenu Sa promesse envers nous ! »[^1]
+Chaque jour, nous marchons sur la terre : il y a de la poussière, de la boue, et parfois des cailloux et des épines. Mais notre Prophète, paix et bénédictions sur lui, nous a raconté qu'il avait vu la terre de la Jannah, et que cette terre est faite de musc. Le musc, c'est un parfum très doux.[^4] Et dans la Jannah, les gens disent : « Louange à Allah, qui a tenu Sa promesse envers nous ! »[^1]
 
 <!-- unit:end -->
 
@@ -307,7 +307,7 @@ Ce qui veut dire, tout simplement : *« Ô Allah, aide-nous à marcher sur la 
 
 ## Pour Les Enfants De 8 À 12 Ans
 
-<!-- reader:start audience="8-12" estimated_minutes="6.0" -->
+<!-- reader:start audience="8-12" estimated_minutes="7.0" -->
 
 <!-- unit:start id="8-12.explanation" kind="explanation" -->
 
@@ -323,7 +323,7 @@ Ici-bas, la terre change d'un endroit à l'autre : rouge, noire, sableuse, argi
 
 **Ceci est une histoire pédagogique imaginaire, et non un hadith ni un récit historique.**
 
-Concours à l'école : « le plus beau carré potager » ! La photo du gagnant paraîtrait dans le journal. Salma, en CM2, faisait partie du club jardinage avec trois camarades.
+Concours à l'école : « le plus beau carré potager » ! La photo du gagnant paraîtrait dans le journal scolaire. Salma, en CM2, faisait partie du club jardinage avec trois camarades.
 
 « Plantons dans le carré de devant, près du portail, proposa Lina. La terre est prête, et tout le monde verra notre photo ! »
 
@@ -389,7 +389,7 @@ Remarque : tout est grandiose dans ce voyage, et à la fin, on apprend que la t
 
 ### Questions De Compréhension Et De Réflexion
 
-1. Pourquoi Salma a-t-elle choisi le coin du fond, sachant qu'il ne gagnerait pas ?
+1. Pourquoi Salma a-t-elle choisi le coin du fond, sachant qu'elle ne gagnerait pas ?
 2. Qu'a dit Monsieur Sa'id ? Qu'est-ce qui a changé dans l'allée ?
 3. Remets dans l'ordre les étapes de l'Ascension : la prière, l'entrée dans la Jannah, la poitrine lavée, les portes du ciel.
 4. Quelles sont les trois qualités du sol de la Jannah dans « Une fine farine blanche, un musc pur » ?
@@ -431,7 +431,7 @@ Ce qui veut dire : *« Ô Allah, que chacun de nos pas sur la terre soit dans 
 
 ## Pour Les Adolescents, 13 Ans Et Plus
 
-<!-- reader:start audience="13+" estimated_minutes="6.5" -->
+<!-- reader:start audience="13+" estimated_minutes="7.0" -->
 
 <!-- unit:start id="13+.explanation" kind="explanation" -->
 
@@ -449,13 +449,13 @@ Ici-bas, la terre est l'un des premiers sujets de discorde : bornes, mètres ca
 
 Le grand-père de Khalid avait laissé un petit terrain agricole, partagé entre son père et son oncle. Des années plus tard, l'oncle bâtit un mur qui, selon le père de Khalid, empiétait d'un mètre entier sur sa part. Depuis ce jour, un mètre de terre pesait plus lourd que vingt ans de fraternité.
 
-Khalid a quinze ans. Dans le groupe familial, sur le téléphone, son cousin Yusuf posta un message furieux, avec un mot blessant contre le père de Khalid. Les messages privés affluèrent : « Réponds-lui ! Ton père a raison ! » Et son ami écrivit : « Si tu te tais, t'es un faible. »
+Khalid avait quinze ans. Sur le groupe familial, son cousin Yusuf posta un message furieux, avec un mot blessant contre le père de Khalid. Les messages privés affluèrent : « Réponds-lui ! Ton père a raison ! » Et son ami écrivit : « Si tu te tais, t'es un faible. »
 
 Khalid tapa une réponse cinglante, le pouce au-dessus de « Envoyer ». Puis il s'arrêta. Il se souvint que sa grand-mère lisait le groupe tous les soirs, et qu'elle avait pleuré la dernière fois que ses deux fils s'étaient disputés.
 
 Khalid effaça sa réponse, sans savoir quoi faire d'autre que se taire.
 
-Ce soir-là, au cours de la mosquée, l'imam récita : « Et ils diront : “Louange à Allah, qui a tenu Sa promesse envers nous et nous a fait hériter la terre…” », puis il dit : « C'est la terre de la Jannah, et c'est le seul héritage que ses héritiers ne se disputent pas. » Ensuite, il cita le hadith de l'homme que le Prophète, paix et bénédictions sur lui, avait vu jouir des délices de la Jannah grâce à un arbre qu'il avait coupé en plein chemin et qui faisait du tort aux gens.[^8]
+Ce soir-là, pendant le cours à la mosquée, l'imam récita : « Et ils diront : “Louange à Allah, qui a tenu Sa promesse envers nous et nous a fait hériter la terre…” », puis il dit : « C'est la terre de la Jannah, et c'est le seul héritage que ses héritiers ne se disputent pas. » Ensuite, il cita le hadith de l'homme que le Prophète, paix et bénédictions sur lui, avait vu jouir des délices de la Jannah grâce à un arbre qu'il avait coupé en plein chemin et qui faisait du tort aux gens.[^8]
 
 Khalid pensa au canal d'irrigation commun aux deux terrains : les deux familles s'en servaient, mais personne ne l'entretenait plus depuis la dispute. Il était envahi d'épines et de déchets, et l'eau débordait sur le chemin de terre que sa grand-mère empruntait pour rentrer chez elle.
 
@@ -481,7 +481,7 @@ Dans son journal, Khalid écrivit : « Réparer le mur, ce n'est pas en mon po
 
 Le Prophète, paix et bénédictions sur lui, raconte que le toit de sa maison, à La Mecque, s'ouvrit ; Jibril descendit, lui ouvrit la poitrine, la lava avec l'eau de Zamzam et y versa sagesse et foi, puis l'éleva vers le ciel. Chaque porte ne s'ouvrait qu'après une question : « Qui est avec toi ? L'a-t-on envoyé chercher ? » Dans les cieux, il rencontra Adam, Idris, Musa, 'Isa et Ibrahim, sur eux la paix. Puis cinquante prières furent prescrites ; sur le conseil de Musa, il retourna demander à son Seigneur de les alléger, jusqu'à ce qu'elles soient cinq, et Allah dit : « Elles sont cinq, et elles sont cinquante ; la Parole ne se modifie pas auprès de Moi. » Le Prophète dit alors : « J'éprouve désormais de la pudeur devant mon Seigneur. » Puis il parvint au Lotus de la Limite, recouvert de couleurs qu'il ne sut nommer, et on le fit entrer dans la Jannah : « il s'y trouvait des rangs de perles, et voici que sa terre était de musc ».[^4]
 
-Médite : au cours d'un seul voyage, le Prophète a vu la terre de la Jannah et nous a rapporté la prière. La terre de la Jannah, on la voit à travers l'information véridique, et on la recherche par la prosternation sur la terre d'ici-bas. Et quand, ici-bas, la terre devient une cause de rupture, souviens-toi que la seule terre qui mérite qu'on la désire est la terre de musc.
+Médite : au cours d'un seul voyage, le Prophète a vu la terre de la Jannah et nous a ramené la prière. La terre de la Jannah, on la voit à travers le récit véridique, et on la recherche par la prosternation sur la terre d'ici-bas. Et quand, ici-bas, la terre devient une cause de rupture, souviens-toi que la seule terre qui mérite qu'on la désire est la terre de musc.
 
 <!-- retelling:end -->
 
@@ -493,7 +493,7 @@ Médite : au cours d'un seul voyage, le Prophète a vu la terre de la Jannah et
 
 <!-- terminology:start source_id="bukhari-349" -->
 
-- **`Les rangs de perles (habayil al-lu'lu')`** — c'est la leçon de cette version ; une autre version porte *janabidh al-lu'lu'*, c'est-à-dire des coupoles de perles.[^9]
+- **`Les rangs de perles (habayil al-lu'lu')`** — c'est la formulation de cette version ; une autre version porte *janabidh al-lu'lu'*, c'est-à-dire des coupoles de perles.[^9]
 - **`Nous nous installons (natabawwa')`** — nous descendons et demeurons là où nous le voulons, selon l'explication d'as-Sa'di.[^2]
 
 <!-- terminology:end -->

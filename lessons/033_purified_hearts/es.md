@@ -27,17 +27,17 @@ Después de esta lección, el aprendiz será capaz de:
 - Narrar desde el Corán la historia de Yusuf, la paz sea con él, y sus hermanos (Yusuf 12:15, 88-92 y 100), y extraer de su perdón tres pasos: renunciar al reproche, suplicar por quien se equivocó y recordar el favor de Allah en lugar de la ofensa.
 - Distinguir entre perdonar y dejar el rencor, por un lado, y renunciar a un derecho o callar ante un daño grave, por otro.
 - Realizar la actividad "Hoy no hay reproche": convertir una frase de reproche guardada en una respuesta al estilo de Yusuf, y suplicar en secreto por esa persona durante tres noches.
-- Repetir antes de dormir la súplica de la lección, pidiendo a Allah un corazón libre de rencor y reunirnos en el Paraíso como hermanos, unos frente a otros.
+- Repetir antes de dormir la súplica de la lección, pidiendo a Allah un corazón libre de rencor y que nos reúna en el Paraíso como hermanos, unos frente a otros.
 
 ## Sección académica para adultos
 
-<!-- reader:start audience="adults" estimated_minutes="6.5" -->
+<!-- reader:start audience="adults" estimated_minutes="7.0" -->
 
 <!-- unit:start id="adults.explanation" kind="explanation" -->
 
 El `gill` es el rencor que se esconde en el pecho:[^9] el residuo de una vieja disputa, una envidia que nunca se dijo, una herida que no acabó de cerrar. Puede cargarlo incluso el creyente piadoso. Y parte de la plenitud de la dicha del Paraíso es que Allah no deja entrar a su gente con esos restos, sino que Él mismo se encarga de arrancarlos: {Y habremos arrancado de sus pechos todo rencor}. Ningún lugar puede ser del todo deleitoso si el corazón se encoge ante quienes lo habitan.
 
-Esta lección se detiene en la purificación de los corazones en sí. Del ajuste de las injusticias sobre el puente ya se habló en la lección sobre cómo se entra en el Paraíso; aquí solo tomamos de él que la purificación precede a la entrada. Después volvemos a esta vida con el ejemplo de Yusuf, la paz sea con él, que, cuando tuvo a sus hermanos a su merced, les dijo: {Hoy no hay reproche contra ustedes}.
+Esta lección se detiene en la purificación de los corazones en sí. De cómo se saldan las injusticias sobre el puente ya se habló en la lección sobre cómo se entra en el Paraíso; aquí solo tomamos de él que la purificación precede a la entrada. Después volvemos a esta vida con el ejemplo de Yusuf, la paz sea con él, que, cuando tuvo a sus hermanos a su merced, les dijo: {Hoy no hay reproche contra ustedes}.
 
 <!-- unit:end -->
 
@@ -55,11 +55,11 @@ Esta lección se detiene en la purificación de los corazones en sí. Del ajuste
 
 #### Traducción al español
 
-> **"Y habremos arrancado de sus pechos todo rencor; a sus pies correrán los ríos, y dirán: «Alabado sea Allah, que nos guio hasta esto; jamás habríamos encontrado el camino si Allah no nos hubiera guiado. Los mensajeros de nuestro Señor trajeron, en verdad, la verdad». Y se les anunciará: «Ese es el Paraíso que han recibido en herencia por lo que hacían»."** (Al-A'raf 7:43)[^1]
+> **"Y habremos arrancado de sus pechos todo rencor; a sus pies correrán los ríos, y dirán: «Alabado sea Allah, que nos guio hasta esto; jamás habríamos encontrado el camino si Allah no nos hubiera guiado. Ciertamente, los mensajeros de nuestro Señor trajeron la verdad». Y se les anunciará: «Ese es el Paraíso que han recibido en herencia por lo que hacían»."** (Al-A'raf 7:43)[^1]
 
 #### Interpretación académica
 
-Arrancar (`naz'`) es extraer de raíz, y el `gill` es el rencor que se esconde en el pecho.[^9] As-Sa'di explicó que Allah arranca de sus corazones el rencor y la rivalidad que hubiera en ellos, hasta que se convierten en hermanos que se aman, y concede a cada uno tal honra que nadie cree que exista una dicha por encima de la suya; así quedan a salvo de la envidia y la aversión, porque desaparecen sus causas.[^1] Y se ha transmitido por varias vías que Ali, que Allah esté complacido con él, dijo: «Espero que yo, Uzmán, Talha y az-Zubair seamos de aquellos de quienes Allah dijo: {Y habremos arrancado de sus pechos todo rencor}».[^10]
+Arrancar (`naz'`) es extraer, y el `gill` es el rencor que se esconde en el pecho.[^9] As-Sa'di explicó que Allah arranca de sus corazones el rencor y la rivalidad que hubiera en ellos, hasta que se convierten en hermanos que se aman, y concede a cada uno tal honra que nadie cree que exista una dicha por encima de la suya; así quedan a salvo de la envidia y la aversión, porque desaparecen sus causas.[^1] Y se ha transmitido por varias vías que Ali, que Allah esté complacido con él, dijo: «Espero que yo, Uzmán, Talha y az-Zubair seamos de aquellos de quienes Allah dijo: {Y habremos arrancado de sus pechos todo rencor}».[^10]
 
 #### Explicación de la lección
 
@@ -121,7 +121,7 @@ Primero se saldan los derechos; después se arranca lo que quedó de ellos en el
 
 #### Traducción al español
 
-> De Abu Huraira, que Allah esté complacido con él, del Profeta, la paz y las bendiciones de Allah sean con él, que dijo: **«El primer grupo que entre en el Paraíso tendrá el aspecto de la luna en la noche de luna llena; y los que vengan tras ellos, el del astro de brillo perlado más luminoso del cielo. Sus corazones serán como el corazón de un solo hombre: no habrá entre ellos aversión ni envidia. Cada uno tendrá dos esposas de entre las huríes de grandes ojos, cuya médula de las piernas se verá a través del hueso y de la carne»**.[^4]
+> De Abu Huraira, que Allah esté complacido con él, del Profeta, la paz y las bendiciones de Allah sean con él, que dijo: **«El primer grupo que entre en el Paraíso tendrá el aspecto de la luna en la noche de luna llena; y los que vengan tras ellos, el del astro de brillo perlado más luminoso del cielo. Sus corazones serán como el corazón de un solo hombre: no habrá entre ellos aversión ni envidia. Cada uno tendrá dos esposas de entre las huríes de grandes ojos, y la médula de sus piernas se verá a través del hueso y de la carne»**.[^4]
 
 #### Interpretación académica
 
@@ -165,11 +165,11 @@ Aquí está la herida, y aquí está la promesa que se cumplirá en la escena de
 
 #### Traducción al español
 
-> **"Y cuando entraron ante él, dijeron: «¡Oh, al-Aziz! La penuria nos ha alcanzado a nosotros y a nuestra familia, y traemos una mercancía de poco valor; danos la medida completa y sé generoso con nosotros. Allah recompensa a los que dan con generosidad». Él dijo: «¿Saben lo que hicieron con Yusuf y con su hermano cuando actuaban como ignorantes?». Dijeron: «¿De verdad eres tú Yusuf?». Respondió: «Yo soy Yusuf, y este es mi hermano. Allah nos ha colmado de Su favor. Quien teme a Allah y tiene paciencia... Allah no deja que se pierda la recompensa de los que hacen el bien». Dijeron: «¡Por Allah! Allah te ha preferido a nosotros, y nosotros éramos culpables». Él dijo: «Hoy no hay reproche contra ustedes. Que Allah los perdone; Él es el más Misericordioso de los misericordiosos»."** (Yusuf 12:88-92)[^6]
+> **"Y cuando entraron ante él, dijeron: «¡Oh, al-Aziz! La penuria nos ha alcanzado a nosotros y a nuestra familia, y traemos una mercancía de poco valor; danos la medida completa y sé generoso con nosotros. Allah recompensa a los que dan con generosidad». Él dijo: «¿Saben lo que hicieron con Yusuf y con su hermano cuando actuaban como ignorantes?». Dijeron: «¿De verdad eres tú Yusuf?». Respondió: «Yo soy Yusuf, y este es mi hermano. Allah nos ha colmado de Su favor. Quien teme a Allah y tiene paciencia, sepa que Allah no deja que se pierda la recompensa de los que hacen el bien». Dijeron: «¡Por Allah! Allah te ha preferido a nosotros, y nosotros éramos culpables». Él dijo: «Hoy no hay reproche contra ustedes. Que Allah los perdone; Él es el más Misericordioso de los misericordiosos»."** (Yusuf 12:88-92)[^6]
 
 #### Interpretación académica
 
-`Bida'a muzya` es una mercancía escasa y de poca calidad. Y `la tazrib` significa "ni reprimenda ni reproche"; Ibn Kazir lo explicó así: "y no volveré a sacarles su falta contra mí después de hoy", y añadió que, además, les dio la súplica del perdón. As-Sa'di dijo: los disculpó por completo, sin echarles en cara la falta pasada, y suplicó para ellos el perdón y la misericordia; y ese es el colmo de la bondad.[^6]
+`Bida'a muzya` es una mercancía escasa y de poca calidad. Y `la tazrib` significa "ni reprimenda ni reproche"; Ibn Kazir lo explicó así: "y no volveré a sacarles su falta contra mí después de hoy", y señaló que, además, suplicó por su perdón. As-Sa'di dijo: los disculpó por completo, sin echarles en cara la falta pasada, y suplicó para ellos el perdón y la misericordia; y esa es la cima de la bondad.[^6]
 
 #### Explicación de la lección
 
@@ -245,7 +245,7 @@ Las aleyas de Al-A'raf y Al-Hiyr anuncian la gracia; los dos hadices de al-Bujar
 
 <!-- activity:start audience="adults" concept_id="lesson.033.activity.no-reproach-today" -->
 
-En una hoja privada, escribe la frase de reproche que se te repite por dentro hacia un creyente que te ofendió con una ofensa corriente, ya terminada. Táchala y escribe debajo una respuesta de tres líneas al estilo de Yusuf: (1) una gracia de Allah que viste a pesar de lo ocurrido; (2) "sin reproche": un recordatorio concreto que dejarás de repetir; (3) una súplica concreta para que Allah lo perdone y le conceda el bien. Después dibuja tres casillas, suplica por esa persona en secreto durante tres noches seguidas y marca una casilla cada noche. No elijas un daño grave o que siga ocurriendo: eso requiere protección y asesoramiento, no esta actividad.
+En una hoja privada, escribe la frase de reproche que se te repite por dentro hacia un creyente que te ofendió en algo corriente que ya terminó. Táchala y escribe debajo una respuesta de tres líneas al estilo de Yusuf: (1) una gracia de Allah que viste a pesar de lo ocurrido; (2) "sin reproche": un solo recordatorio que dejarás de repetir; (3) una súplica concreta para que Allah lo perdone y le conceda el bien. Después dibuja tres casillas, suplica por esa persona en secreto durante tres noches seguidas y marca una casilla cada noche. No elijas un daño grave o que siga ocurriendo: eso requiere protección y asesoramiento, no esta actividad.
 
 <!-- activity:end -->
 
@@ -263,7 +263,7 @@ En una hoja privada, escribe la frase de reproche que se te repite por dentro ha
 
 A veces alguien nos quita un juguete o nos dice algo que nos pone tristes. Y en el corazón se queda algo pesado, como una piedrecita. Si ese peso se queda dentro y se convierte en enfado que no se va, se llama `gill`, que quiere decir rencor.
 
-En el Paraíso, esa piedrecita no se queda en ningún corazón. Allah nos contó que saca el rencor de los corazones de la gente del Paraíso, y que allí se sientan como hermanos en lechos preciosos, mirándose a la cara y queriéndose mucho.[^2] Y nuestro Profeta, la paz y las bendiciones de Allah sean con él, nos contó que sus corazones son como un solo corazón: nadie le tiene manía a nadie, y nadie tiene envidia de nadie.[^4]
+En el Paraíso, esa piedrecita no se queda en ningún corazón. Allah nos contó que saca el rencor de los corazones de la gente del Paraíso, y que allí se sientan como hermanos en lechos preciosos, mirándose a la cara y queriéndose mucho.[^2] Y nuestro Profeta, la paz y las bendiciones de Allah sean con él, nos contó que sus corazones son como un solo corazón: nadie le tiene rabia a nadie, y nadie tiene envidia de nadie.[^4]
 
 <!-- unit:end -->
 
@@ -328,7 +328,7 @@ Con tu papá o tu mamá, dibuja una nubecita gris, y dentro de ella dibuja algo 
 
 > اللَّهُمَّ لَا تَجْعَلْ فِي قَلْبِي غِلًّا لِأَحَدٍ مِنَ الْمُؤْمِنِينَ، وَاغْفِرْ لِي وَلِمَنْ أَخْطَأَ فِي حَقِّي، وَاجْمَعْنَا فِي جَنَّتِكَ إِخْوَانًا عَلَى سُرُرٍ مُتَقَابِلِينَ.
 
-Qué quiere decir: "Oh Allah, deja mi corazón limpito, sin manía a nadie; perdóname a mí y a quien me puso triste, y júntanos en el Paraíso como hermanos, sentados frente a frente".
+Qué quiere decir: "Oh Allah, deja mi corazón limpito, que no le tenga rabia a nadie; perdóname a mí y a quien me puso triste, y júntanos en el Paraíso como hermanos, sentados frente a frente".
 
 <!-- bedtime-dua:end -->
 
@@ -356,7 +356,7 @@ Allah nos contó que arranca el rencor de los pechos de la gente del Paraíso: {
 
 - **`El rencor (al-gill)`** — el resentimiento que se esconde en el pecho y sigue ahí después de que la discusión ha terminado.[^9]
 - **`Sin reproche (la tazrib)`** — sin culpar, sin regañar y sin volver a recordar el error.[^6]
-- **`Sembrar la discordia (nazaga)`** — estropear la relación entre las personas y crear enemistad entre ellas con susurros malos.[^7]
+- **`Sembrar la discordia (nazaga)`** — estropear la relación entre las personas y crear enemistad entre ellas con malos susurros.[^7]
 
 <!-- terminology:end -->
 
@@ -376,7 +376,7 @@ Yusuf, la paz sea con él, era un niño cuando sus hermanos se lo llevaron y se 
 
 Después llegaron años de hambre, y sus hermanos entraron a verlo sin reconocerlo. Le dijeron: "¡Oh, al-Aziz! La penuria nos ha alcanzado a nosotros y a nuestra familia, y traemos una mercancía de poco valor; danos la medida completa y sé generoso con nosotros".
 
-Había llegado el momento que Allah le había prometido. Yusuf les preguntó: {¿Saben lo que hicieron con Yusuf y con su hermano cuando actuaban como ignorantes?}. Asombrados, dijeron: "¿De verdad eres tú Yusuf?". Él respondió: "Yo soy Yusuf, y este es mi hermano. Allah nos ha colmado de Su favor. Quien teme a Allah y tiene paciencia... Allah no deja que se pierda la recompensa de los que hacen el bien".
+Había llegado el momento que Allah le había prometido. Yusuf les preguntó: {¿Saben lo que hicieron con Yusuf y con su hermano cuando actuaban como ignorantes?}. Asombrados, dijeron: "¿De verdad eres tú Yusuf?". Él respondió: "Yo soy Yusuf, y este es mi hermano. Allah nos ha colmado de Su favor. Quien teme a Allah y tiene paciencia, sepa que Allah no deja que se pierda la recompensa de los que hacen el bien".
 
 Ellos lo reconocieron: "¡Por Allah! Allah te ha preferido a nosotros, y nosotros éramos culpables".
 
@@ -468,19 +468,19 @@ Y nadie entra en el Paraíso con esa carga. Primero se saldan las injusticias so
 
 **Esta es una historia verdadera del Noble Corán; no es una escena imaginada.**
 
-Todo empezó con una herida profunda: unos hermanos se llevan al más pequeño y se ponen de acuerdo para arrojarlo al pozo. Y en el fondo del pozo le llega una promesa de Allah: les contarás lo que han hecho sin que ellos se den cuenta.[^5] Vienen años de destierro y de cárcel, y después, un puesto muy alto en Egipto.
+Todo empezó con una herida profunda: unos hermanos se llevan al más pequeño y se ponen de acuerdo para arrojarlo al pozo. Y en el fondo del pozo le llega una promesa de Allah: les contarás lo que han hecho sin que ellos se den cuenta.[^5] Vienen años lejos de su tierra, años de cárcel, y después, un puesto muy alto en Egipto.
 
 <!-- retelling:start source_id="quran-12-88-92" audience="13+" -->
 
-Entonces los papeles se invierten. Los hermanos entran ante `al-Aziz`, necesitados: la penuria nos ha alcanzado a nosotros y a nuestra familia, y traemos una mercancía de poco valor, escasa y mala; danos la medida completa y sé generoso con nosotros. Es el momento con el que sueña cualquiera a quien han hecho daño: el otro está débil y todo está en tus manos.
+Entonces los papeles se invierten. Los hermanos entran ante `al-Aziz`, necesitados: la penuria nos ha alcanzado a nosotros y a nuestra familia, y traemos una mercancía de poco valor, es decir, escasa y mala; danos la medida completa y sé generoso con nosotros. Es el momento con el que sueña cualquiera a quien han hecho daño: el otro está débil y todo está en tus manos.
 
-Yusuf hace una sola pregunta: {¿Saben lo que hicieron con Yusuf y con su hermano cuando actuaban como ignorantes?}. Y lo reconocen: "¿De verdad eres tú Yusuf?". Él responde: "Yo soy Yusuf, y este es mi hermano. Allah nos ha colmado de Su favor. Quien teme a Allah y tiene paciencia... Allah no deja que se pierda la recompensa de los que hacen el bien". Y ellos admiten: "¡Por Allah! Allah te ha preferido a nosotros, y nosotros éramos culpables".
+Yusuf hace una sola pregunta: {¿Saben lo que hicieron con Yusuf y con su hermano cuando actuaban como ignorantes?}. Y lo reconocen: "¿De verdad eres tú Yusuf?". Él responde: "Yo soy Yusuf, y este es mi hermano. Allah nos ha colmado de Su favor. Quien teme a Allah y tiene paciencia, sepa que Allah no deja que se pierda la recompensa de los que hacen el bien". Y ellos admiten: "¡Por Allah! Allah te ha preferido a nosotros, y nosotros éramos culpables".
 
-Llega el veredicto: {Hoy no hay reproche contra ustedes. Que Allah los perdone; Él es el más Misericordioso de los misericordiosos}. Ibn Kazir lo explicó así: "no volveré a sacarles su falta contra mí después de hoy"; y además les dio la súplica del perdón.[^6]
+Llega el veredicto: {Hoy no hay reproche contra ustedes. Que Allah los perdone; Él es el más Misericordioso de los misericordiosos}. Ibn Kazir lo explicó así: "no volveré a sacarles su falta contra mí después de hoy"; y además suplicó para ellos el perdón.[^6]
 
 <!-- retelling:end -->
 
-Y más fino todavía es lo que dijo después, ante sus padres: {Fue bondadoso conmigo cuando me sacó de la prisión}. Mencionó la prisión y calló el pozo, por nobleza, para no avergonzar a sus hermanos; y atribuyó la ruptura a Satanás: {después de que Satanás sembrara la discordia entre mis hermanos y yo}.[^7] No se conformó con perdonar: también cerró la puerta al recuerdo.
+Y más fino todavía es lo que dijo después, ante sus padres: {Fue bondadoso conmigo cuando me sacó de la prisión}. Mencionó la prisión y calló lo del pozo, por nobleza, para no avergonzar a sus hermanos; y atribuyó la ruptura a Satanás: {después de que Satanás sembrara la discordia entre mis hermanos y yo}.[^7] No se conformó con perdonar: también cerró la puerta al recuerdo.
 
 Piensa en la diferencia. Mucha gente dice "te perdono" y luego guarda la captura de pantalla de la conversación, o deja caer el error delante de los demás. El perdón de Yusuf te enseña que dejar el rencor es una decisión del corazón que se nota en la lengua. Pero eso no significa callar ante el acoso o ante un daño que continúa: los derechos se saldan, el daño se denuncia, y dejar el rencor es otra cosa.[^3]
 
@@ -506,7 +506,7 @@ Piensa en la diferencia. Mucha gente dice "te perdono" y luego guarda la captura
 
 <!-- activity:start audience="13+" concept_id="lesson.033.activity.no-reproach-today" -->
 
-En una hoja privada o en una nota bloqueada, escribe la respuesta que tienes guardada para alguien que te ofendió en un desacuerdo corriente que ya terminó. Táchala y escribe en su lugar tres líneas al estilo de Yusuf: (1) una gracia de Allah que te llevaste a pesar de lo ocurrido; (2) un hábito de reproche concreto que vas a cortar, como las indirectas o volver a compartir una captura antigua; (3) una súplica concreta por esa persona. Después suplica por ella en secreto durante tres noches seguidas y marca cada noche. Si se trata de acoso o de algo peligroso, en lugar de esta actividad cuéntaselo a un adulto de confianza.
+En una hoja privada o en una nota bloqueada, escribe la respuesta que tienes guardada para alguien que te ofendió en un desacuerdo corriente que ya terminó. Táchala y escribe en su lugar tres líneas al estilo de Yusuf: (1) una gracia de Allah que te llevaste a pesar de lo ocurrido; (2) un hábito de reproche concreto que vas a cortar, como las indirectas o volver a compartir una captura antigua; (3) una súplica concreta por esa persona. Después suplica por ella en secreto durante tres noches seguidas y deja una marca cada noche. Si se trata de acoso o de algo peligroso, en lugar de esta actividad cuéntaselo a un adulto de confianza.
 
 <!-- activity:end -->
 
@@ -575,7 +575,7 @@ Su significado: "Oh Allah, limpia mi corazón de todo rencor hacia cualquier cre
 ### Niños de 4 a 7 — 25 minutos
 
 <!-- lesson-plan:outcomes -->
-**Resultados de aprendizaje:** el niño dice que los corazones de la gente del Paraíso están limpios y que en ellos no hay manía a nadie; vuelve a contar en dos frases que Yusuf perdonó a sus hermanos y les dijo "Hoy no hay reproche contra ustedes"; dice "No te regaño; que Allah te perdone" a quien le pide perdón; y suplica por alguien que lo puso triste.
+**Resultados de aprendizaje:** el niño dice que los corazones de la gente del Paraíso están limpios y que en ellos no hay rabia contra nadie; vuelve a contar en dos frases que Yusuf perdonó a sus hermanos y les dijo "Hoy no hay reproche contra ustedes"; dice "No te regaño; que Allah te perdone" a quien le pide perdón; y suplica por alguien que lo puso triste.
 
 <!-- lesson-plan:materials -->
 **Materiales:** papel de dibujo; un lápiz gris y colores vivos; pegatinas de estrellas; una piedrecita limpia; la tarjeta de la súplica escrita con letra clara.
@@ -596,7 +596,7 @@ Su significado: "Oh Allah, limpia mi corazón de todo rencor hacia cualquier cre
 **Actividad — 7 minutos:** se realiza la actividad de la nube y el corazón tal como aparece en la unidad de actividad, y las estrellas se añaden en casa las noches siguientes.
 
 <!-- lesson-plan:assessment -->
-**Evaluación y cierre — 3 minutos:** se le pregunta al niño: «¿Qué les dijo Yusuf a sus hermanos?» y «¿Qué le dices a quien te pide perdón?». Después se lee juntos la súplica.
+**Evaluación y cierre — 3 minutos:** se le pregunta al niño: «¿Qué les dijo Yusuf a sus hermanos?» y «¿Qué le dices a quien te pide perdón?». Después leen juntos la súplica.
 
 <!-- lesson-plan:differentiation -->
 **Diferenciación:** con los más pequeños basta con el corazón y la frase "No te regaño". A los mayores se les pide que cuenten la historia con sus propias palabras en tres frases.

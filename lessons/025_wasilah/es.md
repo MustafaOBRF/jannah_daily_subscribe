@@ -23,7 +23,7 @@ Después de esta lección, el aprendiz será capaz de:
 
 - Narrar en su orden el hadiz de la gran intercesión (al-Bujari 4712): la humanidad reunida en el lugar de la congregación; su peregrinar hacia Adán, luego Noé, luego Ibrahim, luego Moisés y luego Jesús, la paz sea con ellos; la excusa de cada uno; y, al final, la postración del Profeta, la paz y las bendiciones de Allah sean con él, bajo el Trono y sus palabras: «¡Mi comunidad, oh Señor! ¡Mi comunidad, oh Señor!».
 - Distinguir entre la posición loable (al-maqam al-mahmud), que es el lugar de la gran intercesión el Día de la Resurrección, tal como la explicó Ibn Umar, que Allah esté complacido con ambos, y la mayoría de los exégetas (Al-Isra 17:79; al-Bujari 4718), y la wasila, un rango del Paraíso que solo corresponde a un único siervo y que el Profeta, la paz y las bendiciones de Allah sean con él, esperaba que fuera para él (Muslim 384).
-- Explicar el sentido de sus palabras, la paz y las bendiciones de Allah sean con él: «Yo soy el señor de los hijos de Adán el Día de la Resurrección, el primero en interceder y el primero cuya intercesión es aceptada» (Muslim 2278), y comprender que este liderazgo se hizo patente un día en que se excusaron incluso los mensajeros de firme resolución (ulu al-'azm).
+- Explicar el sentido de sus palabras, la paz y las bendiciones de Allah sean con él: «Yo seré el señor de los hijos de Adán el Día de la Resurrección, el primero en interceder y el primero cuya intercesión será aceptada» (Muslim 2278), y comprender que este liderazgo se hizo patente un día en que se excusaron incluso los mensajeros de firme resolución (ulu al-'azm).
 - Recorrer la secuencia que la Sunna enseña para después del adhán: repetir lo que dice el almuédano, pedir luego bendiciones por el Profeta, la paz y las bendiciones de Allah sean con él, y después pedir para él la wasila con la súplica que transmitió Yabir (al-Bujari 614), entendiendo el sentido de cada una de sus frases.
 - Realizar la actividad "La secuencia después del adhán: la aprendo y la enseño", practicándola con un adhán real y enseñándosela después a otra persona.
 - Recordar la súplica de esta lección, que pide a Allah que bendiga a Su Profeta, que le conceda la wasila, que nos otorgue su intercesión y que nos reúna con él en el Paraíso.
@@ -52,7 +52,7 @@ El Día de la Resurrección, los profetas se excusarán de interceder uno tras o
 
 #### Traducción al español
 
-> De Abu Huraira, que Allah esté complacido con él, que dijo: Trajeron al Mensajero de Allah, la paz y las bendiciones de Allah sean con él, un poco de carne, y le ofrecieron la paletilla, que era la parte que más le gustaba. Le dio un mordisco con la punta de los dientes y luego dijo: **«Yo seré el señor de la gente el Día de la Resurrección. ¿Y saben por qué? Los primeros y los últimos serán reunidos en una misma explanada, donde el que llama hará que todos lo oigan y la mirada los abarcará a todos. El sol se acercará, y la angustia y la congoja llegarán a un punto que la gente no podrá soportar ni aguantar. Entonces dirán: "¿No ven a qué extremo han llegado? ¿Por qué no buscan a alguien que interceda por ustedes ante su Señor?". Y se dirán unos a otros: "Vayan a Adán". Irán a Adán, la paz sea con él, y le dirán: "Tú eres el padre de la humanidad; Allah te creó con Su mano, insufló en ti de Su espíritu y ordenó a los ángeles que se postraran ante ti, y se postraron. Intercede por nosotros ante tu Señor. ¿No ves en qué estado estamos? ¿No ves a qué extremo hemos llegado?". Y Adán dirá: "Mi Señor está hoy enojado como nunca lo estuvo antes ni lo estará jamás después. Él me prohibió acercarme al árbol y yo lo desobedecí. ¡Yo mismo, yo mismo, yo mismo! Vayan a otro; vayan a Noé". Irán a Noé y le dirán: "¡Oh, Noé! Tú fuiste el primero de los mensajeros enviados a la gente de la tierra, y Allah te llamó «un siervo agradecido». Intercede por nosotros ante tu Señor. ¿No ves en qué estado estamos?". Y él dirá: "Mi Señor, Poderoso y Majestuoso, está hoy enojado como nunca lo estuvo antes ni lo estará jamás después. Yo tuve una súplica y la pronuncié contra mi pueblo. ¡Yo mismo, yo mismo, yo mismo! Vayan a otro; vayan a Ibrahim". Irán a Ibrahim y le dirán: "¡Oh, Ibrahim! Tú eres el profeta de Allah y Su amigo íntimo de entre la gente de la tierra. Intercede por nosotros ante tu Señor. ¿No ves en qué estado estamos?". Y él les dirá: "Mi Señor está hoy enojado como nunca lo estuvo antes ni lo estará jamás después, y yo dije tres mentiras" (y Abu Hayyan las mencionó en el hadiz). "¡Yo mismo, yo mismo, yo mismo! Vayan a otro; vayan a Moisés". Irán a Moisés y le dirán: "¡Oh, Moisés! Tú eres el Mensajero de Allah; Allah te distinguió por encima de la gente con Su mensaje y con Su palabra. Intercede por nosotros ante tu Señor. ¿No ves en qué estado estamos?". Y él dirá: "Mi Señor está hoy enojado como nunca lo estuvo antes ni lo estará jamás después, y yo maté a una persona sin haber recibido orden de matarla. ¡Yo mismo, yo mismo, yo mismo! Vayan a otro; vayan a Jesús". Irán a Jesús y le dirán: "¡Oh, Jesús! Tú eres el Mensajero de Allah, Su palabra que Él depositó en María y un espíritu procedente de Él, y hablaste a la gente cuando eras un niño en la cuna. Intercede por nosotros. ¿No ves en qué estado estamos?". Y Jesús dirá: "Mi Señor está hoy enojado como nunca lo estuvo antes ni lo estará jamás después" (y no mencionó ningún pecado). "¡Yo mismo, yo mismo, yo mismo! Vayan a otro; vayan a Muhammad", la paz y las bendiciones de Allah sean con él. Irán a Muhammad y le dirán: "¡Oh, Muhammad! Tú eres el Mensajero de Allah y el sello de los profetas, y Allah te ha perdonado tus faltas pasadas y futuras. Intercede por nosotros ante tu Señor. ¿No ves en qué estado estamos?". Entonces me pondré en marcha, llegaré bajo el Trono y caeré postrado ante mi Señor, Poderoso y Majestuoso. Luego Allah me abrirá alabanzas y palabras de bella glorificación hacia Él que no abrió a nadie antes que a mí. Después se dirá: "¡Oh, Muhammad! Levanta la cabeza. Pide y se te dará; intercede y tu intercesión será aceptada". Levantaré la cabeza y diré: "¡Mi comunidad, oh Señor! ¡Mi comunidad, oh Señor!". Y se dirá: "¡Oh, Muhammad! Haz entrar a los de tu comunidad que no tienen cuentas que rendir por la puerta derecha de las puertas del Paraíso; y ellos comparten con el resto de la gente las demás puertas"». Y añadió: «Por Aquel en cuya mano está mi alma, la distancia entre las dos hojas de una de las puertas del Paraíso es como la que hay entre La Meca y Himyar, o como la que hay entre La Meca y Busra»**.[^1]
+> De Abu Huraira, que Allah esté complacido con él, que dijo: Trajeron al Mensajero de Allah, la paz y las bendiciones de Allah sean con él, un poco de carne, y le ofrecieron la paletilla, que era la parte que más le gustaba. Le dio un mordisco con la punta de los dientes y luego dijo: **«Yo seré el señor de la gente el Día de la Resurrección. ¿Y saben por qué? Los primeros y los últimos serán reunidos en una misma explanada, donde el que llama hará que todos lo oigan y la mirada los abarcará a todos. El sol se acercará, y la angustia y la congoja llegarán a un punto que la gente no podrá soportar ni aguantar. Entonces dirán: "¿No ven a qué extremo han llegado? ¿Por qué no buscan a alguien que interceda por ustedes ante su Señor?". Y se dirán unos a otros: "Vayan a Adán". Irán a Adán, la paz sea con él, y le dirán: "Tú eres el padre de la humanidad; Allah te creó con Su mano, insufló en ti de Su espíritu y ordenó a los ángeles que se postraran ante ti, y se postraron. Intercede por nosotros ante tu Señor. ¿No ves en qué estado estamos? ¿No ves a qué extremo hemos llegado?". Y Adán dirá: "Mi Señor está hoy enojado como nunca lo estuvo antes ni lo estará jamás después. Él me prohibió acercarme al árbol y yo lo desobedecí. ¡Yo mismo, yo mismo, yo mismo! Vayan a otro; vayan a Noé". Irán a Noé y le dirán: "¡Oh, Noé! Tú fuiste el primero de los mensajeros enviados a la gente de la tierra, y Allah te llamó ‘un siervo agradecido’. Intercede por nosotros ante tu Señor. ¿No ves en qué estado estamos?". Y él dirá: "Mi Señor, Poderoso y Majestuoso, está hoy enojado como nunca lo estuvo antes ni lo estará jamás después. Yo tuve una súplica y la pronuncié contra mi pueblo. ¡Yo mismo, yo mismo, yo mismo! Vayan a otro; vayan a Ibrahim". Irán a Ibrahim y le dirán: "¡Oh, Ibrahim! Tú eres el profeta de Allah y Su amigo íntimo de entre la gente de la tierra. Intercede por nosotros ante tu Señor. ¿No ves en qué estado estamos?". Y él les dirá: "Mi Señor está hoy enojado como nunca lo estuvo antes ni lo estará jamás después, y yo dije tres mentiras" (y Abu Hayyan las mencionó en el hadiz). "¡Yo mismo, yo mismo, yo mismo! Vayan a otro; vayan a Moisés". Irán a Moisés y le dirán: "¡Oh, Moisés! Tú eres el Mensajero de Allah; Allah te distinguió por encima de la gente con Su mensaje y con Su palabra. Intercede por nosotros ante tu Señor. ¿No ves en qué estado estamos?". Y él dirá: "Mi Señor está hoy enojado como nunca lo estuvo antes ni lo estará jamás después, y yo maté a una persona sin haber recibido orden de matarla. ¡Yo mismo, yo mismo, yo mismo! Vayan a otro; vayan a Jesús". Irán a Jesús y le dirán: "¡Oh, Jesús! Tú eres el Mensajero de Allah, Su palabra que Él depositó en María y un espíritu procedente de Él, y hablaste a la gente cuando eras un niño en la cuna. Intercede por nosotros. ¿No ves en qué estado estamos?". Y Jesús dirá: "Mi Señor está hoy enojado como nunca lo estuvo antes ni lo estará jamás después" (y no mencionó ningún pecado). "¡Yo mismo, yo mismo, yo mismo! Vayan a otro; vayan a Muhammad", la paz y las bendiciones de Allah sean con él. Irán a Muhammad y le dirán: "¡Oh, Muhammad! Tú eres el Mensajero de Allah y el sello de los profetas, y Allah te ha perdonado tus faltas pasadas y futuras. Intercede por nosotros ante tu Señor. ¿No ves en qué estado estamos?". Entonces me pondré en marcha, llegaré bajo el Trono y caeré postrado ante mi Señor, Poderoso y Majestuoso. Luego Allah me inspirará alabanzas y bellas palabras de glorificación hacia Él que no inspiró a nadie antes que a mí. Después se dirá: "¡Oh, Muhammad! Levanta la cabeza. Pide y se te dará; intercede y tu intercesión será aceptada". Levantaré la cabeza y diré: "¡Mi comunidad, oh Señor! ¡Mi comunidad, oh Señor!". Y se dirá: "¡Oh, Muhammad! Haz entrar a los de tu comunidad que no tienen cuentas que rendir por la puerta derecha de las puertas del Paraíso; y ellos comparten con el resto de la gente las demás puertas"». Y añadió: «Por Aquel en cuya mano está mi alma, la distancia entre las dos hojas de una de las puertas del Paraíso es como la que hay entre La Meca y Himyar, o como la que hay entre La Meca y Busra»**.[^1]
 
 #### Interpretación académica
 
@@ -96,7 +96,7 @@ Es "loable" porque su beneficio alcanza a todos los que esperan en aquel lugar, 
 
 #### Traducción al español
 
-> De Ibn Umar, que Allah esté complacido con ambos, que dijo: **«El Día de la Resurrección la gente se agrupará en multitudes; cada comunidad seguirá a su profeta y le dirá: "¡Oh, tú, intercede!", hasta que la intercesión llegue al Profeta, la paz y las bendiciones de Allah sean con él. Ese es el día en que Allah lo elevará a la posición loable»**.[^3]
+> De Ibn Umar, que Allah esté complacido con ambos, que dijo: **«El Día de la Resurrección la gente se agrupará en multitudes; cada comunidad seguirá a su profeta y le dirá: "¡Oh, fulano, intercede!", hasta que la intercesión llegue al Profeta, la paz y las bendiciones de Allah sean con él. Ese es el día en que Allah lo elevará a la posición loable»**.[^3]
 
 #### Interpretación académica
 
@@ -118,7 +118,7 @@ Al-Bujari recogió estas palabras de Ibn Umar, que Allah esté complacido con am
 
 #### Interpretación académica
 
-An-Nawawi, que Allah tenga misericordia de él, señaló que al-wasila significa en la lengua árabe "el lugar cercano junto al rey", y que "le corresponderá" (hallat lahu) significa "se le hará obligada", aunque también se dijo: "lo alcanzará".[^7]
+An-Nawawi, que Allah tenga misericordia de él, señaló que al-wasila significa en la lengua árabe "la posición cercana al rey", y que "le corresponderá" (hallat lahu) significa "le será debida", aunque también se dijo: "la alcanzará".[^7]
 
 #### Explicación de la lección
 
@@ -158,7 +158,7 @@ La súplica reúne la wasila en el Paraíso y la posición loable el Día de la 
 
 #### Traducción al español
 
-> De Abu Huraira, que Allah esté complacido con él, que dijo: El Mensajero de Allah, la paz y las bendiciones de Allah sean con él, dijo: **«Yo seré el señor de los hijos de Adán el Día de la Resurrección, el primero para quien se abrirá la tumba, el primero en interceder y el primero cuya intercesión será aceptada»**.[^6]
+> De Abu Huraira, que Allah esté complacido con él, que dijo: El Mensajero de Allah, la paz y las bendiciones de Allah sean con él, dijo: **«Yo seré el señor de los hijos de Adán el Día de la Resurrección, el primero cuya tumba se abrirá, el primero en interceder y el primero cuya intercesión será aceptada»**.[^6]
 
 #### Explicación de la lección
 
@@ -195,7 +195,7 @@ Escribe los pasos del hadiz de Muslim 384 y, a continuación, la súplica de Yab
 
 ## Para niños de 4 a 7 años
 
-<!-- reader:start audience="4-7" estimated_minutes="5.0" -->
+<!-- reader:start audience="4-7" estimated_minutes="5.5" -->
 
 <!-- unit:start id="4-7.explanation" kind="explanation" -->
 
@@ -235,7 +235,7 @@ Dicho de forma sencilla: el Día de la Resurrección la gente buscará a alguien
 
 ### Preguntas cortas
 
-1. ¿A quién fue primero la gente?
+1. ¿A quién fue a ver primero la gente?
 2. ¿Qué hizo nuestro Profeta, la paz y las bendiciones de Allah sean con él, antes de hablar: se postró o se sentó?
 3. ¿Qué le pidió nuestro Profeta a su Señor?
 4. ¿Qué pedimos nosotros para nuestro Profeta después del adhán?
@@ -274,7 +274,7 @@ Quiere decir: Oh Allah, bendice a nuestro Profeta Muhammad y dale la paz; dale e
 
 ## Para niños de 8 a 12 años
 
-<!-- reader:start audience="8-12" estimated_minutes="6.0" -->
+<!-- reader:start audience="8-12" estimated_minutes="7.0" -->
 
 <!-- unit:start id="8-12.explanation" kind="explanation" -->
 
@@ -306,11 +306,11 @@ El Profeta, la paz y las bendiciones de Allah sean con él, estaba sentado con s
 
 Entonces les describió aquel día: toda la gente, los primeros y los últimos, será reunida en una misma tierra; el sol se acercará, y la gente sentirá una angustia y una congoja que no podrá soportar. Y se dirán unos a otros: "¿Por qué no buscan a alguien que interceda por ustedes ante su Señor?".
 
-Irán a Adán, la paz sea con él: "Tú eres el padre de la humanidad; Allah te creó con Su mano e hizo que los ángeles se postraran ante ti. ¡Intercede por nosotros!". Pero Adán recordará que comió del árbol que le habían prohibido, y dirá: "¡Yo mismo, yo mismo! Vayan a Noé". Noé recordará una súplica que pronunció contra su pueblo y los enviará a Ibrahim. Ibrahim los enviará a Moisés. Moisés recordará que mató a una persona sin haber recibido orden de matarla, y los enviará a Jesús. Y Jesús, la paz sea con él, no mencionó ningún pecado, pero también dijo: "Vayan a otro; vayan a Muhammad", la paz y las bendiciones de Allah sean con él.
+Irán a Adán, la paz sea con él: "Tú eres el padre de la humanidad; Allah te creó con Su mano e hizo que los ángeles se postraran ante ti. ¡Intercede por nosotros!". Pero Adán recordará que comió del árbol que le habían prohibido, y dirá: "¡Yo mismo, yo mismo! Vayan a Noé". Noé recordará una súplica que pronunció contra su pueblo y los enviará a Ibrahim. Ibrahim los enviará a Moisés. Moisés recordará que mató a una persona sin haber recibido orden de matarla, y los enviará a Jesús. Y Jesús, la paz sea con él, no mencionará ningún pecado, pero también dirá: "Vayan a otro; vayan a Muhammad", la paz y las bendiciones de Allah sean con él.
 
 Fíjate bien: son los más grandes de los profetas, y cada uno sabe que aquel momento le queda grande, así que, con total honradez, indica a la gente quién viene después.
 
-Entonces irán a nuestro Profeta, la paz y las bendiciones de Allah sean con él. Él se pondrá en marcha y, antes de interceder, se postrará ante su Señor bajo el Trono, y Allah le abrirá alabanzas y palabras de glorificación que no había abierto a nadie antes que a él. Después se dirá: "¡Oh, Muhammad! Levanta la cabeza. Pide y se te dará; intercede y tu intercesión será aceptada". Él levantará la cabeza y dirá: "¡Mi comunidad, oh Señor! ¡Mi comunidad, oh Señor!". Y se le dirá: "Haz entrar a los de tu comunidad que no tienen cuentas que rendir por la puerta derecha de las puertas del Paraíso". Y el Profeta, la paz y las bendiciones de Allah sean con él, contó que la distancia entre los dos lados de una de las puertas del Paraíso es como la que hay entre La Meca y Himyar, o entre La Meca y Busra.[^1]
+Entonces irán a nuestro Profeta, la paz y las bendiciones de Allah sean con él. Él se pondrá en marcha y, antes de interceder, se postrará ante su Señor bajo el Trono, y Allah le inspirará alabanzas y palabras de glorificación que no había inspirado a nadie antes que a él. Después se dirá: "¡Oh, Muhammad! Levanta la cabeza. Pide y se te dará; intercede y tu intercesión será aceptada". Él levantará la cabeza y dirá: "¡Mi comunidad, oh Señor! ¡Mi comunidad, oh Señor!". Y se le dirá: "Haz entrar a los de tu comunidad que no tienen cuentas que rendir por la puerta derecha de las puertas del Paraíso". Y el Profeta, la paz y las bendiciones de Allah sean con él, contó que la distancia entre los dos lados de una de las puertas del Paraíso es como la que hay entre La Meca y Himyar, o entre La Meca y Busra.[^1]
 
 Esa es "la posición loable" que Allah le prometió en el Corán.[^3]
 
@@ -368,11 +368,11 @@ Su significado: Oh Allah, bendice a nuestro Profeta Muhammad y dale la paz; conc
 
 ## Para adolescentes de 13+
 
-<!-- reader:start audience="13+" estimated_minutes="6.5" -->
+<!-- reader:start audience="13+" estimated_minutes="7.0" -->
 
 <!-- unit:start id="13+.explanation" kind="explanation" -->
 
-Vivimos en un mundo que mide el valor de una persona por cuánta gente le presta atención. Sin embargo, la posición más grande que jamás ocupará un ser humano, "la posición loable", no es la de la fama, sino la de la postración y el servicio a los demás. Y en el Paraíso hay un rango llamado "la wasila" que solo corresponde a un único siervo. El Profeta, la paz y las bendiciones de Allah sean con él, dijo de él: "Y espero ser yo ese siervo", y después nos pidió que lo pidiéramos para él después de cada adhán.[^4] ¿Qué tiene que ver un minuto después del adhán, mientras estás con tus amigos o frente a una pantalla, con la escena más grandiosa del Día de la Resurrección?
+Vivimos en un mundo que mide el valor de una persona por cuánta gente le presta atención. Sin embargo, la posición más grande que jamás ocupará un ser humano, "la posición loable", no es la de la fama, sino la de la postración y el servicio a los demás. Y en el Paraíso hay un rango llamado "la wasila" que solo corresponde a un único siervo. El Profeta, la paz y las bendiciones de Allah sean con él, dijo de él: "Y espero ser yo ese siervo", y luego nos encargó pedirlo para él después de cada adhán.[^4] ¿Qué tiene que ver un minuto después del adhán, mientras estás con tus amigos o frente a una pantalla, con la escena más grandiosa del Día de la Resurrección?
 
 <!-- unit:end -->
 
@@ -398,11 +398,11 @@ Vivimos en un mundo que mide el valor de una persona por cuánta gente le presta
 
 El hadiz empieza en un momento de lo más corriente: una comida entre compañeros y un trozo de carne que al Profeta, la paz y las bendiciones de Allah sean con él, le gustaba. Y de pronto dice: "Yo seré el señor de la gente el Día de la Resurrección. ¿Y saben por qué?". No deja la frase en el aire: la explica con una escena completa.
 
-Los primeros y los últimos serán reunidos en una misma explanada, donde el que llama hará que todos lo oigan y la mirada los abarcará a todos; el sol se acercará y la angustia y la congoja llegarán a un punto insoportable. Entonces la gente buscará a alguien que interceda. Empezarán por Adán, la paz sea con él, enumerando sus méritos, y él se excusará porque comió del árbol. Luego irán a Noé, el primero de los mensajeros enviados a la gente de la tierra, que se excusará por una súplica que pronunció contra su pueblo. Luego a Ibrahim, el amigo íntimo de Allah, que se excusará por tres palabras que dijo. Luego a Moisés, a quien Allah habló, que se excusará por una persona a la que mató sin haber recibido orden de matarla. Luego a Jesús, palabra de Allah y espíritu procedente de Él, que no mencionará ningún pecado y, aun así, dirá como los demás: "¡Yo mismo, yo mismo, yo mismo! Vayan a otro", y les indicará a Muhammad, la paz y las bendiciones de Allah sean con él.
+Los primeros y los últimos serán reunidos en una misma explanada, donde el que llama hará que todos lo oigan y la mirada los abarcará a todos; el sol se acercará y la angustia y la congoja llegarán a un punto insoportable. Entonces la gente buscará a alguien que interceda. Empezarán por Adán, la paz sea con él, enumerando sus méritos, y él se excusará porque comió del árbol. Luego irán a Noé, el primero de los mensajeros enviados a la gente de la tierra, que se excusará por una súplica que pronunció contra su pueblo. Luego a Ibrahim, el amigo íntimo de Allah, que se excusará por tres palabras que dijo. Luego a Moisés, a quien Allah habló, que se excusará por una persona a la que mató sin haber recibido orden de matarla. Luego a Jesús, palabra de Allah y espíritu procedente de Él, que no mencionará ningún pecado y, aun así, dirá como los demás: "¡Yo mismo, yo mismo, yo mismo! Vayan a otro", y los remitirá a Muhammad, la paz y las bendiciones de Allah sean con él.
 
 Fíjate en dos cosas: cada profeta conoce los límites de su lugar y no reclama lo que no le corresponde; y no se limita a excusarse, sino que indica a la gente a quién acudir después.
 
-Entonces la gente llegará a Muhammad, la paz y las bendiciones de Allah sean con él. Él se pondrá en marcha y, antes de interceder, caerá postrado bajo el Trono, y Allah le abrirá alabanzas y palabras de bella glorificación que no abrió a nadie antes que a él. Después se dirá: "Levanta la cabeza. Pide y se te dará; intercede y tu intercesión será aceptada". Y en un instante en que se le dice "pide y se te dará", sus palabras fueron: "¡Mi comunidad, oh Señor! ¡Mi comunidad, oh Señor!". Entonces se le permitirá hacer entrar a los de su comunidad que no tienen cuentas que rendir por la puerta derecha de las puertas del Paraíso.[^1]
+Entonces la gente llegará a Muhammad, la paz y las bendiciones de Allah sean con él. Él se pondrá en marcha y, antes de interceder, caerá postrado bajo el Trono, y Allah le inspirará alabanzas y bellas palabras de glorificación que no inspiró a nadie antes que a él. Después se dirá: "Levanta la cabeza. Pide y se te dará; intercede y tu intercesión será aceptada". Y en un instante en que se le dice "pide y se te dará", sus palabras fueron: "¡Mi comunidad, oh Señor! ¡Mi comunidad, oh Señor!". Entonces se le permitirá hacer entrar a los de su comunidad que no tienen cuentas que rendir por la puerta derecha de las puertas del Paraíso.[^1]
 
 E Ibn Umar, que Allah esté complacido con ambos, dijo: "Ese es el día en que Allah lo elevará a la posición loable".[^3]
 
@@ -434,7 +434,7 @@ Dicho de otro modo: en un día en que la angustia llegó a su límite, los mensa
 
 <!-- activity:start audience="13+" concept_id="lesson.025.activity.after-adhan-sequence-teach-back" -->
 
-Memoriza la súplica de Yabir: "اللَّهُمَّ رَبَّ هَذِهِ الدَّعْوَةِ التَّامَّةِ، وَالصَّلَاةِ الْقَائِمَةِ، آتِ مُحَمَّدًا الْوَسِيلَةَ وَالْفَضِيلَةَ، وَابْعَثْهُ مَقَامًا مَحْمُودًا الَّذِي وَعَدْتَهُ" ("Oh Allah, Señor de esta llamada perfecta y de la oración que está a punto de establecerse: concede a Muhammad la wasila y la excelencia, y elévalo a la posición loable que le prometiste").[^5] Junto a cada frase, escribe su sentido con tus propias palabras. Durante siete días, haz que el adhán sea tu señal para parar un minuto entero el móvil o la conversación, y recorre la secuencia de tres pasos. Después enséñasela a un amigo o a un hermano explicándole tres frases, y escribe para ti un párrafo corto: ¿cuándo te costó parar, y qué cambió al cabo de una semana?
+Memoriza la súplica de Yabir: "اللَّهُمَّ رَبَّ هَذِهِ الدَّعْوَةِ التَّامَّةِ، وَالصَّلَاةِ الْقَائِمَةِ، آتِ مُحَمَّدًا الْوَسِيلَةَ وَالْفَضِيلَةَ، وَابْعَثْهُ مَقَامًا مَحْمُودًا الَّذِي وَعَدْتَهُ" ("Oh Allah, Señor de esta llamada perfecta y de la oración que está a punto de establecerse: concede a Muhammad la wasila y la excelencia, y elévalo a la posición loable que le prometiste").[^5] Junto a cada frase, escribe su sentido con tus propias palabras. Durante siete días, haz que el adhán sea tu señal para dejar el teléfono o la conversación durante un minuto entero, y recorre la secuencia de tres pasos. Después enséñasela a un amigo o a un hermano explicándole tres frases, y escribe para ti un párrafo corto: ¿cuándo te costó parar, y qué cambió al cabo de una semana?
 
 <!-- activity:end -->
 
@@ -450,7 +450,7 @@ Memoriza la súplica de Yabir: "اللَّهُمَّ رَبَّ هَذِهِ ا�
 
 > اللَّهُمَّ صَلِّ وَسَلِّمْ عَلَى نَبِيِّنَا مُحَمَّدٍ، وَآتِهِ الْوَسِيلَةَ وَالْفَضِيلَةَ، وَارْزُقْنَا شَفَاعَتَهُ، وَاجْمَعْنَا بِهِ فِي الْجَنَّةِ.
 
-Su significado: Oh Allah, bendice a nuestro Profeta Muhammad y dale la paz; concédele la wasila y la excelencia; haznos de quienes alcancen su intercesión; y reúnenos con él en el Paraíso. Esta súplica no es la súplica transmitida para el adhán, la que se dice al oír la llamada a la oración.
+Su significado: Oh Allah, bendice a nuestro Profeta Muhammad y dale la paz; concédele la wasila y la excelencia; haz que estemos entre quienes alcancen su intercesión; y reúnenos con él en el Paraíso. Esta súplica es distinta de la súplica del adhán transmitida en la Sunna, que se dice al oír la llamada a la oración.
 
 <!-- bedtime-dua:end -->
 
@@ -600,7 +600,7 @@ Su significado: Oh Allah, bendice a nuestro Profeta Muhammad y dale la paz; conc
 **Diferenciación:** a quien le cueste escribir se le permite hacer una grabación de voz privada. A los más avanzados se les pide rastrear los pasajes del Corán donde se menciona a los cinco profetas e identificar el mérito que la gente atribuyó a cada uno en el hadiz.
 
 <!-- lesson-plan:safeguards -->
-**Advertencias pedagógicas:** en el debate se protege la dignidad de los profetas, la paz sea con ellos, frente a cualquier menosprecio o burla. No se pide a nadie que confiese sus faltas con la oración. "¡Yo mismo, yo mismo!" no se interpreta como egoísmo, sino como temor reverencial ante la inmensidad de aquel momento. Y la intercesión se presenta junto con su condición —el permiso de Allah y Su complacencia—, no como una garantía en la que apoyarse para dejar de obrar.
+**Advertencias pedagógicas:** en el debate se protege la dignidad de los profetas, la paz sea con ellos, frente a cualquier menosprecio o burla. No se pide a nadie que revele sus descuidos en la oración. "¡Yo mismo, yo mismo!" no se interpreta como egoísmo, sino como temor reverencial ante la inmensidad de aquel momento. Y la intercesión se presenta junto con su condición —el permiso de Allah y Su complacencia—, no como una garantía en la que apoyarse para dejar de obrar.
 
 <!-- lesson-plan:end -->
 

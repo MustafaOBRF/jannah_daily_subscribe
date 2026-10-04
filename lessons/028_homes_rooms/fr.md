@@ -30,7 +30,7 @@ Au terme de cette leçon, l'apprenant sera capable de :
 
 ## Section Académique Pour Adultes
 
-<!-- reader:start audience="adults" estimated_minutes="6.5" -->
+<!-- reader:start audience="adults" estimated_minutes="7.0" -->
 
 <!-- unit:start id="adults.explanation" kind="explanation" -->
 
@@ -64,13 +64,13 @@ Quant aux œuvres par lesquelles se bâtissent les maisons de la Jannah, à la d
 
 #### Interprétation Savante
 
-Le début du quatrième verset, qui porte sur les règles du combat, a été omis, car la leçon ne s'y appuie pas. At-Tabari explique : « Il la leur a fait connaître et la leur a rendue claire, si bien que l'homme, une fois entré, se rend à sa demeure comme il se rendait à sa demeure ici-bas, sans que rien lui en paraisse obscur. » Et il rapporte avec sa chaîne cette parole de Mujahid : « Ses habitants trouvent le chemin de leurs maisons et de leurs demeures, et du lot qu'Allah leur a attribué, sans jamais se tromper, comme s'ils y habitaient depuis le jour de leur création ; ils ne demandent leur chemin à personne. »[^4] Ibn Kathir cite, de son côté, Muhammad ibn Ka'b al-Qurazi : « Ils reconnaîtront leurs maisons en entrant dans la Jannah comme vous reconnaissez les vôtres en rentrant de la prière du vendredi. »[^5]
+Le début du quatrième verset, qui porte sur les règles du combat, a été omis, car la leçon ne s'y appuie pas. At-Tabari explique : « Il la leur a fait connaître et la leur a rendue claire, si bien que l'homme, une fois entré, se rend à sa demeure comme il se rendait à celle d'ici-bas, sans que rien lui en paraisse obscur. » Et il rapporte avec sa chaîne cette parole de Mujahid : « Ses habitants trouvent le chemin de leurs maisons et de leurs demeures, et du lot qu'Allah leur a attribué, sans jamais se tromper, comme s'ils y habitaient depuis le jour de leur création ; ils ne demandent leur chemin à personne. »[^4] Ibn Kathir cite, de son côté, Muhammad ibn Ka'b al-Qurazi : « Ils reconnaîtront leurs maisons en entrant dans la Jannah comme vous reconnaissez les vôtres en rentrant de la prière du vendredi. »[^5]
 
-As-Sa'di a réuni deux sens : Allah la leur a d'abord fait connaître en éveillant en eux le désir de l'atteindre, en la leur dépeignant et en leur indiquant les œuvres qui y conduisent ; puis, lorsqu'ils y entrent, Il leur fait connaître leurs demeures et les délices qu'elles renferment.[^6] Ibn al-Qayyim mentionne une autre interprétation, qui rattache le verbe à *al-'arf*, le parfum suave : Il l'aurait « embaumée » pour eux — le verbe *'arrafa* pouvant, en arabe, signifier aussi bien « faire connaître » que « parfumer ». Il retient toutefois que le sens est celui de faire connaître et de rendre manifeste, afin que chacun sache quelle est sa demeure et n'empiète pas sur celle d'autrui.[^7]
+As-Sa'di a réuni deux sens : Allah la leur a d'abord fait connaître en éveillant en eux le désir de l'atteindre, en la leur dépeignant et en leur indiquant les œuvres qui y conduisent ; puis, lorsqu'ils y entrent, Il leur fait connaître leurs demeures et les délices qu'elles renferment.[^6] Ibn al-Qayyim mentionne une autre interprétation, qui rattache le verbe à *al-'arf*, le parfum suave : Il l'aurait « parfumée » pour eux — le verbe *'arrafa* pouvant, en arabe, signifier aussi bien « faire connaître » que « parfumer ». Il retient toutefois que le sens est celui de faire connaître et de rendre manifeste, afin que chacun sache quelle est sa demeure et n'empiète pas sur celle d'autrui.[^7]
 
 #### Explication De La Leçon
 
-Le contexte de ces versets concerne ceux qui sont tués dans le sentier d'Allah ; pourtant, at-Tabari comme Ibn Kathir citent à cet endroit le hadith d'Abu Sa'id, qui s'applique à l'ensemble des croyants. Connaître sa demeure est donc un honneur accordé à tous les gens de la Jannah. Dans le verset, ce don vient après deux formes de guidance — être guidé sur le chemin, et voir son état rendu meilleur — ; puis vient le couronnement : une demeure où nul ne se sent étranger.
+Le contexte de ces versets concerne ceux qui sont tués dans le sentier d'Allah ; pourtant, at-Tabari comme Ibn Kathir citent à cet endroit le hadith d'Abu Sa'id, qui s'applique à l'ensemble des croyants. Connaître sa demeure est donc un honneur accordé à tous les gens de la Jannah. Dans le verset, ce don vient après deux formes de guidance : être guidé sur le chemin, et voir son état rendu meilleur. Puis vient le couronnement : une demeure où nul ne se sent étranger.
 
 <!-- evidence:end -->
 
@@ -154,7 +154,7 @@ Décrivez votre maison à l'aide de cinq signes distinctifs, sans le nom de la r
 
 ## Pour Les Enfants De 4 À 7 Ans
 
-<!-- reader:start audience="4-7" estimated_minutes="5.0" -->
+<!-- reader:start audience="4-7" estimated_minutes="6.0" -->
 
 <!-- unit:start id="4-7.explanation" kind="explanation" -->
 
@@ -178,7 +178,7 @@ Zaynab eut un petit peu peur : et si elle se trompait ? Puis elle dit : « J
 
 Papa demanda : « Quelqu'un t'a montré le chemin ? » « Non, je la connais ! »
 
-Papa s'assit près d'elle et lui dit : « Le Prophète, paix et bénédictions sur lui, nous a appris que, dans la Jannah, le croyant connaît sa maison encore mieux qu'il ne connaît sa maison d'ici. » Zaynab s'étonna : « Mais je ne l'ai jamais vue, ma maison de la Jannah ! » Papa répondit : « C'est Allah qui la fait connaître à ceux qui y habitent. Allah a dit : "Et Il les fera entrer dans la Jannah qu'Il leur a fait connaître."[^1] Et nous, nous demandons à Allah d'en faire partie. »
+Papa s'assit près d'elle et lui dit : « Le Prophète, paix et bénédictions sur lui, nous a appris que, dans la Jannah, le croyant connaît sa maison encore mieux qu'il ne connaît sa maison d'ici. » Zaynab s'étonna : « Mais je ne l'ai jamais vue, ma maison de la Jannah ! » Papa répondit : « C'est Allah qui la fait connaître à ceux qui y habitent. Allah a dit : "Et Il les fera entrer dans la Jannah qu'Il leur a fait connaître."[^1] Et nous, nous demandons à Allah de nous compter parmi ses habitants. »
 
 Le soir, Zaynab leva les mains et dit : « Ô Allah, fais-moi entrer dans la Jannah, et montre-moi le chemin de ma maison là-bas. »
 
@@ -237,11 +237,11 @@ Dessine la porte de ta maison et, juste à côté, trois signes qui te permetten
 
 <!-- bedtime-dua:start audience="4-7" id="lesson.028.dua.guide-us-to-our-homes" provenance="lesson_authored" source_id="" attribution="not_prophetic" -->
 
-**Du'a composée pour cette leçon ; elle n'est pas attribuée au Prophète, paix et bénédictions sur lui.**
+**Du'a composé pour cette leçon ; il n'est pas attribué au Prophète, paix et bénédictions sur lui.**
 
 > اللَّهُمَّ كَمَا هَدَيْتَنَا إِلَى بُيُوتِنَا فِي الدُّنْيَا، فَأَدْخِلْنَا الْجَنَّةَ الَّتِي عَرَّفْتَهَا لِعِبَادِكَ، وَاهْدِنَا فِيهَا إِلَى مَنَازِلِنَا بِرَحْمَتِكَ.
 
-Ce que cela veut dire, tout simplement : « Ô Allah, puisque nous savons trouver le chemin de notre maison ici, fais-nous entrer dans la Jannah et montre-nous le chemin de notre maison là-bas, par Ta miséricorde. »
+Ce que cela veut dire, tout simplement : « Ô Allah, comme nous savons trouver le chemin de notre maison ici, fais-nous entrer dans la Jannah et montre-nous le chemin de notre maison là-bas, par Ta miséricorde. »
 
 <!-- bedtime-dua:end -->
 
@@ -253,7 +253,7 @@ Ce que cela veut dire, tout simplement : « Ô Allah, puisque nous savons trou
 
 ## Pour Les Enfants De 8 À 12 Ans
 
-<!-- reader:start audience="8-12" estimated_minutes="5.5" -->
+<!-- reader:start audience="8-12" estimated_minutes="7.0" -->
 
 <!-- unit:start id="8-12.explanation" kind="explanation" -->
 
@@ -299,7 +299,7 @@ Ils se mirent d'accord : chaque soir de la visite du grand-père, ils liraient 
 
 **Ceci est un récit véridique, rapporté par Abu Sa'id al-Khudri, qu'Allah soit satisfait de lui, d'après le Prophète, paix et bénédictions sur lui, dans Sahih al-Bukhari ; ce n'est pas une histoire imaginaire.**
 
-Le Prophète, paix et bénédictions sur lui, a annoncé que les croyants, une fois sauvés du Feu le Jour de la Résurrection, seront arrêtés sur une `qantarah`, c'est-à-dire un pont, entre la Jannah et le Feu. Là seront réglées les injustices commises entre eux ici-bas : chaque victime recevra son dû de celui qui l'a lésée. Puis, quand leurs cœurs seront purifiés et apaisés, ils pourront entrer dans la Jannah.
+Le Prophète, paix et bénédictions sur lui, a annoncé que les croyants, une fois sauvés du Feu le Jour de la Résurrection, seront retenus sur une `qantarah`, c'est-à-dire un pont, entre la Jannah et le Feu. Là seront réglées les injustices commises entre eux ici-bas : chaque victime recevra son dû de celui qui l'a lésée. Puis, quand leurs cœurs seront purifiés et apaisés, ils recevront la permission d'entrer dans la Jannah.
 
 Puis il a juré, paix et bénédictions sur lui : **« Par Celui qui tient en Sa main l'âme de Muhammad, chacun d'eux trouvera le chemin de sa demeure dans la Jannah mieux qu'il ne trouvait celui de la demeure qu'il avait dans le bas monde. »**[^2]
 
@@ -353,7 +353,7 @@ Rédige une « carte-énigme » qui décrit ta maison à l'aide de quatre sign
 
 <!-- bedtime-dua:start audience="8-12" id="lesson.028.dua.guide-us-to-our-homes" provenance="lesson_authored" source_id="" attribution="not_prophetic" -->
 
-**Du'a composée pour cette leçon ; elle n'est pas attribuée au Prophète, paix et bénédictions sur lui.**
+**Du'a composé pour cette leçon ; il n'est pas attribué au Prophète, paix et bénédictions sur lui.**
 
 > اللَّهُمَّ كَمَا هَدَيْتَنَا إِلَى بُيُوتِنَا فِي الدُّنْيَا، فَأَدْخِلْنَا الْجَنَّةَ الَّتِي عَرَّفْتَهَا لِعِبَادِكَ، وَاهْدِنَا فِيهَا إِلَى مَنَازِلِنَا بِرَحْمَتِكَ.
 
@@ -369,7 +369,7 @@ Son sens : « Ô Allah, de même que Tu nous as guidés aujourd'hui jusqu'à n
 
 ## Pour Les Adolescents, 13 Ans Et Plus
 
-<!-- reader:start audience="13+" estimated_minutes="6.0" -->
+<!-- reader:start audience="13+" estimated_minutes="7.0" -->
 
 <!-- unit:start id="13+.explanation" kind="explanation" -->
 
@@ -461,7 +461,7 @@ Décris le trajet de ton école ou de la mosquée jusqu'à chez toi à l'aide de
 
 <!-- bedtime-dua:start audience="13+" id="lesson.028.dua.guide-us-to-our-homes" provenance="lesson_authored" source_id="" attribution="not_prophetic" -->
 
-**Du'a composée pour cette leçon ; elle n'est pas attribuée au Prophète, paix et bénédictions sur lui.**
+**Du'a composé pour cette leçon ; il n'est pas attribué au Prophète, paix et bénédictions sur lui.**
 
 > اللَّهُمَّ كَمَا هَدَيْتَنَا إِلَى بُيُوتِنَا فِي الدُّنْيَا، فَأَدْخِلْنَا الْجَنَّةَ الَّتِي عَرَّفْتَهَا لِعِبَادِكَ، وَاهْدِنَا فِيهَا إِلَى مَنَازِلِنَا بِرَحْمَتِكَ.
 >

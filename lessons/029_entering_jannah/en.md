@@ -29,15 +29,15 @@ After this lesson, the learner will be able to:
 
 ## Academic Section for Adults
 
-<!-- reader:start audience="adults" estimated_minutes="6.5" -->
+<!-- reader:start audience="adults" estimated_minutes="7.0" -->
 
 <!-- unit:start id="adults.explanation" kind="explanation" -->
 
 Many people picture entering Jannah as a single moment: a door swings open, and in you go. The authentic texts, however, sketch a road with stations laid out in order. First comes the coming-to (*al-wurud*), from which no one is exempt, and then the rescue of those who were mindful of Allah. Next, those who have been rescued are held back on a raised bridge, the qantarah, between Jannah and the Fire, where the wrongs between them are settled until they are refined and purified. Then they are led to Jannah in throngs, each according to its rank, and a vast company of them enters together, holding on to one another.
 
-This lesson stays with those stations alone. The Prophet, peace and blessings be upon him, being the first to reach the gate of Jannah was covered in the lesson on the forerunners. The greeting of the keepers and the angels, the calls and glad tidings of Jannah, and the security of its people together with the slaughter of death each have a lesson of their own still to come. The removal of rancor from the hearts of its people is likewise a separate subject, taken up later.
+This lesson stays with those stations alone. That the Prophet, peace and blessings be upon him, will be the first to reach the gate of Jannah was covered in the lesson on the forerunners. The greeting of the keepers and the angels, the calls and glad tidings of Jannah, and the security of its people together with the slaughter of death each have a lesson of their own still to come. The removal of rancor from the hearts of its people is likewise a separate subject, taken up later.
 
-And the practical question this lesson carries is this: if the wrongs between believers are settled on the qantarah before they enter, what is stopping me from settling them today?
+The practical question this lesson raises is this: if the wrongs between believers are settled on the qantarah before they enter, what is stopping me from settling them today?
 
 <!-- unit:end -->
 
@@ -57,7 +57,7 @@ And the practical question this lesson carries is this: if the wrongs between be
 
 #### Scholarly Explanation
 
-The people of the Tree are those who pledged allegiance to the Prophet, peace and blessings be upon him, beneath the tree on the day of al-Hudaybiyah, in what is known as the Pledge of Ridwan (*Bay'at ar-Ridwan*). An-Nawawi reported from the scholars that the meaning is that not one of them will ever enter it, and that the words "if Allah wills" were said to seek blessing, not out of doubt. He also said that the hadith is evidence for discussion, objection and reply when the aim is to seek guidance, and that this was Hafsah's aim; she did not mean to reject what the Prophet, peace and blessings be upon him, had said. And he established that the sound view of the coming-to (*al-wurud*) is that it means passing over the Sirat, a bridge laid across Jahannam: its own people fall into it, and the rest are saved.[^7]
+The people of the Tree are those who pledged allegiance to the Prophet, peace and blessings be upon him, beneath the tree on the day of al-Hudaybiyah, in what is known as the Pledge of Ridwan (*Bay'at ar-Ridwan*). An-Nawawi reported from the scholars that the meaning is that not one of them will ever enter it, and that the words "if Allah wills" were said to seek blessing, not out of doubt. He also said that the hadith is evidence for discussion, objection, and reply when the aim is to seek guidance, and that this was Hafsah's aim; she did not mean to reject what the Prophet, peace and blessings be upon him, had said. He further held that the sound view of the coming-to (*al-wurud*) is that it means passing over the Sirat, a bridge laid across Jahannam: its own people fall into it, and the rest are saved.[^7]
 
 #### Lesson Explanation
 
@@ -73,7 +73,7 @@ Hafsah did not keep her difficulty to herself. She laid it out with an ayah from
 
 <!-- evidence:translation -->
 
-> **"There is not one of you who will not come to it: that is, with your Lord, a decree that must be fulfilled. Then We will rescue those who were mindful of Us, and leave the wrongdoers in it, on their knees."** (Maryam 19:71-72)[^2]
+> **"There is not one of you who will not come to it; this is, for your Lord, a decree that must be fulfilled. Then We will rescue those who were mindful of Us, and leave the wrongdoers in it, on their knees."** (Maryam 19:71-72)[^2]
 
 #### Scholarly Explanation
 
@@ -113,11 +113,11 @@ These are believers, already rescued, and still they do not go in until the clai
 
 <!-- evidence:translation -->
 
-> On the authority of Abu Hurayrah, may Allah be pleased with him, who said: The Messenger of Allah, peace and blessings be upon him, said: **"Whoever has wronged someone, whether in his honor or in anything else, let him clear himself of it with that person today, before the day comes when there will be neither dinar nor dirham. If he has righteous deeds, an amount equal to his wrong will be taken from them; and if he has no good deeds left, some of the bad deeds of the one he wronged will be taken and loaded onto him."**[^4]
+> On the authority of Abu Hurayrah, may Allah be pleased with him, who said: The Messenger of Allah, peace and blessings be upon him, said: **"Whoever has wronged someone, whether in his honor or in anything else, let him clear himself of it with that person today, before the day comes when there will be neither dinar nor dirham. If he has righteous deeds, an amount equal to his wrong will be taken from them; and if he has no good deeds, some of the bad deeds of the one he wronged will be taken and loaded onto him."**[^4]
 
 #### Scholarly Explanation
 
-*Fal-yatahallalhu* means that he should ask the other person to release him from the claim, either by restoring what is owed or by asking forgiveness. "In his honor" (*min 'irdihi*) covers backbiting, mockery and slander, while "or in anything else" (*aw shay'*) covers money, belongings and every other right.
+*Fal-yatahallalhu* means that he should ask the other person to release him from the claim, either by restoring what is owed or by asking forgiveness. "In his honor" (*min 'irdihi*) covers backbiting, mockery, and slander, while "or in anything else" (*aw shay'*) covers money, belongings, and every other right.
 
 #### Lesson Explanation
 
@@ -133,15 +133,15 @@ The hadith of the qantarah describes the settling that takes place there; this h
 
 <!-- evidence:translation -->
 
-> **"And those who were mindful of their Lord will be led to Jannah in throngs, until, when they reach it, and its gates are opened, and its keepers say to them, 'Peace be upon you! You have been purified, so enter it, to abide here forever.'"** (az-Zumar 39:73)[^5]
+> **"And those who were mindful of their Lord will be led to Jannah in throngs, until, when they reach it, and its gates are opened, and its keepers say to them, 'Peace be upon you! You have been purified, so enter it, to abide in it forever.'"** (az-Zumar 39:73)[^5]
 
 #### Scholarly Explanation
 
-Ibn Kathir said that *zumaran* means one company after another: those brought near to Allah, then the righteous, then those who come after them, each group with those who resemble it: prophets with prophets, the truthful with their like, martyrs with their peers, and scholars with their fellows.[^8]
+Ibn Kathir said that *zumaran* means one company after another: those brought near to Allah, then the righteous, then those who come after them, each group with those who resemble it, so that prophets are with prophets, the truthful with their like, martyrs with their peers, and scholars with their fellows.[^8]
 
 #### Lesson Explanation
 
-This lesson pauses at the leading in companies, each according to its deeds. The opening of the gates and the keepers' greeting, `Peace be upon you! You have been purified`, are the subject of the next lesson. Notice how the word *tibtum*, "you have been purified," meets the hadith's "once they have been cleansed and refined": only the pure and good go in.
+This lesson stops at the point where they are led in companies according to their deeds. The opening of the gates and the keepers' greeting, `Peace be upon you! You have been purified`, are the subject of the next lesson. Notice how the word *tibtum*, "you have been purified," echoes the hadith's "once they have been cleansed and refined": only the pure and good go in.
 
 <!-- evidence:end -->
 
@@ -161,7 +161,7 @@ The uncertainty about the number comes from the narrator, Abu Hazim. An-Nawawi e
 
 #### Lesson Explanation
 
-An entry with no crowding and no selfish scramble: hands joined and faces full of light. And how fitting that it comes after the qantarah: people who once had wrongs between them have become one hand.
+An entry with no crowding and no selfish scramble: hands joined and faces full of light. And how fitting that it comes after the qantarah: people who once had wrongs between them now walk hand in hand, as one.
 
 <!-- evidence:end -->
 
@@ -185,7 +185,7 @@ An entry with no crowding and no selfish scramble: hands joined and faces full o
 
 <!-- activity:start audience="adults" concept_id="lesson.029.activity.settle-it-before-the-bridge" -->
 
-In a private notebook, review four kinds of rights: a debt or a trust you have not returned; something you borrowed; a word that hurt someone, or backbiting; and a right you have neglected toward a relative or a worker. Choose one specific right and decide how you will settle it: returning the money or the item, apologizing directly, or asking to be forgiven. If you fear that telling the person you backbit would cause greater harm, ask people of knowledge about the most fitting course. Set a deadline no more than a week away, and once it is done, write a single line, "Settled on [date]," with no details.
+In a private notebook, review four kinds of rights: a debt or a trust you have not returned; something you borrowed; a word that hurt someone, or backbiting; and a right you have neglected toward a relative or a worker. Choose one specific right and decide how you will settle it: returning the money or the item, apologizing directly, or asking to be forgiven. If you fear that telling the person you spoke ill of behind their back would cause greater harm, ask people of knowledge about the most fitting course. Set a deadline no more than a week away, and once it is done, write a single line, "Settled on [date]," with no details.
 
 <!-- activity:end -->
 
@@ -197,11 +197,11 @@ In a private notebook, review four kinds of rights: a debt or a trust you have n
 
 ## For Children Ages 4 to 7
 
-<!-- reader:start audience="4-7" estimated_minutes="4.0" -->
+<!-- reader:start audience="4-7" estimated_minutes="5.0" -->
 
 <!-- unit:start id="4-7.explanation" kind="explanation" -->
 
-How do the believers get into Jannah? The Prophet, peace and blessings be upon him, told us that there is a way to get there. Everyone will pass along a path, and Allah will keep safe the people who loved Him and obeyed Him.[^2] Then they will stop for a little while at a place just before Jannah. If anyone took something from his brother, or made him sad, the right thing is given back to its owner, until every heart is clean and good.[^3] Then they will walk to Jannah, group after group,[^5] and lots and lots of them will go in together, holding each other's hands, with faces that shine like the moon on the night it is full and round.[^6]
+How do the believers get into Jannah? The Prophet, peace and blessings be upon him, told us that there is a way to get there. Everyone will pass along a path, and Allah will keep safe the people who loved Him and obeyed Him.[^2] Then they will stop for a little while at a place just before Jannah. If anyone had taken something from his brother, or made him sad, whatever is owed will be given back to its owner, until every heart is clean and good.[^3] Then they will walk to Jannah, group after group,[^5] and lots and lots of them will go in together, holding each other's hands, with faces that shine like the moon on the night it is full and round.[^6]
 
 <!-- unit:end -->
 
@@ -217,13 +217,13 @@ How do the believers get into Jannah? The Prophet, peace and blessings be upon h
 
 The Prophet, peace and blessings be upon him, was at the home of his wife Hafsah, may Allah be pleased with her. A woman from the Ansar named Umm Mubashshir was there too, and she heard him say about the Companions who had made a promise to him under a tree: "Not one of them will go into the Fire, if Allah wills."
 
-Hafsah said, "But they will, O Messenger of Allah!" The Prophet, peace and blessings be upon him, spoke to her firmly. Then Hafsah said, "Allah says: `There is not one of you who will not come to it`." That means: everyone will pass by it.
+Hafsah said, "But they will, O Messenger of Allah!" The Prophet, peace and blessings be upon him, spoke to her firmly. Then Hafsah said, "Allah says: `There is not one of you who will not come to it`." That means: everyone will pass over it.
 
 So the Prophet, peace and blessings be upon him, answered her with the very next ayah: `Then We will rescue those who were mindful of Us.` That means: then Allah will keep safe the people who feared Him and obeyed Him.[^1]
 
 <!-- retelling:end -->
 
-Hafsah wanted to understand, so she asked with an ayah from the Qur'an, and the Prophet, peace and blessings be upon him, answered her with an ayah from the Qur'an. And we learn that on the way to Jannah, everyone passes by, and Allah keeps safe the people who obey Him.
+Hafsah wanted to understand, so she asked with an ayah from the Qur'an, and the Prophet, peace and blessings be upon him, answered her with an ayah from the Qur'an. And we learn that on the way to Jannah, everyone passes over, and Allah keeps safe the people who obey Him.
 
 <!-- story:end -->
 
@@ -277,7 +277,7 @@ What it means: O Allah, keep us safe with the people who obey You, help us give 
 
 ## For Children Ages 8 to 12
 
-<!-- reader:start audience="8-12" estimated_minutes="5.0" -->
+<!-- reader:start audience="8-12" estimated_minutes="6.5" -->
 
 <!-- unit:start id="8-12.explanation" kind="explanation" -->
 
@@ -377,7 +377,7 @@ What it means: O Allah, make us among those You rescue along with the mindful, h
 
 ## For Teens, Ages 13+
 
-<!-- reader:start audience="13+" estimated_minutes="5.0" -->
+<!-- reader:start audience="13+" estimated_minutes="6.0" -->
 
 <!-- unit:start id="13+.explanation" kind="explanation" -->
 
@@ -411,9 +411,9 @@ Notice the twist: even the people who made it across the Sirat do not go in whil
 
 The setting is the home of the Mother of the Believers Hafsah, daughter of Umar. Also present is a woman of the Ansar, Umm Mubashshir, who hears the Prophet, peace and blessings be upon him, say about those who pledged allegiance to him beneath the tree on the day of al-Hudaybiyah: **"If Allah wills, not one of the people of the Tree, those who pledged allegiance beneath it, will enter the Fire."**
 
-Hafsah says, "Surely they will, O Messenger of Allah!" He rebukes her sharply. It was not an easy moment, but she neither backed down nor dug in out of stubbornness; she put forward what was on her mind as evidence, not opinion: `There is not one of you who will not come to it.`
+Hafsah says, "Surely they will, O Messenger of Allah!" He rebukes her sharply. It is not an easy moment, but she neither backs down nor digs in out of stubbornness; she puts forward what was on her mind as evidence, not opinion: `There is not one of you who will not come to it.`
 
-And the answer came from the very same place in the mushaf: **"Allah, Mighty and Majestic, has also said: `Then We will rescue those who were mindful of Us, and leave the wrongdoers in it, on their knees.`"**[^1]
+The answer comes from the very same place in the mushaf: **"Allah, Mighty and Majestic, has also said: `Then We will rescue those who were mindful of Us, and leave the wrongdoers in it, on their knees.`"**[^1]
 
 <!-- retelling:end -->
 
@@ -627,7 +627,7 @@ What it means: O Allah, make us among those You rescue along with the mindful, h
 [^4]: Sahih al-Bukhari, Book of Wrongs (*al-Mazalim*), Chapter on Whoever Has Wronged a Man and Is Released by Him: Must He Specify the Wrong?, hadith 2449, narrated by Sa'id al-Maqburi from Abu Hurayrah, may Allah be pleased with him: [sunnah.com/bukhari:2449](https://sunnah.com/bukhari:2449).
 [^5]: The Noble Qur'an, Surah az-Zumar, ayah 73: [quran.com/39/73](https://quran.com/39/73). The English rendering in this lesson is a meaning-based project translation.
 [^6]: Sahih al-Bukhari, Book of Heart-Softening Narrations (*ar-Riqaq*), Chapter on the Description of Jannah and the Fire, hadith 6543, narrated by Abu Hazim from Sahl ibn Sa'd, may Allah be pleased with him: [sunnah.com/bukhari:6543](https://sunnah.com/bukhari:6543). Muslim also recorded it in the Book of Faith (*al-Iman*), hadith 219, with the wording «مُتَمَاسِكُونَ آخِذٌ بَعْضُهُمْ بَعْضًا، لَا يَدْخُلُ أَوَّلُهُمْ حَتَّى يَدْخُلَ آخِرُهُمْ، وُجُوهُهُمْ عَلَى صُورَةِ الْقَمَرِ لَيْلَةَ الْبَدْرِ» ("holding on to one another, each taking hold of the next; the first of them will not enter until the last of them enters, and their faces will be like the moon on the night it is full"): [sunnah.com/muslim:219](https://sunnah.com/muslim:219).
-[^7]: Yahya ibn Sharaf an-Nawawi, *al-Minhaj Sharh Sahih Muslim ibn al-Hajjaj*, Book of the Virtues of the Companions, commentary on the hadith of Umm Mubashshir (no. 2496): the words "if Allah wills" were said to seek blessing, not out of doubt; the hadith is evidence for discussion, objection and reply when the aim is to seek guidance, which was Hafsah's aim; and the sound view of the coming-to (*al-wurud*) is that it means passing over the Sirat.
+[^7]: Yahya ibn Sharaf an-Nawawi, *al-Minhaj Sharh Sahih Muslim ibn al-Hajjaj*, Book of the Virtues of the Companions, commentary on the hadith of Umm Mubashshir (no. 2496): the words "if Allah wills" were said to seek blessing, not out of doubt; the hadith is evidence for discussion, objection, and reply when the aim is to seek guidance, which was Hafsah's aim; and the sound view of the coming-to (*al-wurud*) is that it means passing over the Sirat.
 [^8]: Tafsir Ibn Kathir, Surah az-Zumar, ayah 73 (the meaning of *zumaran*, and the holding back on the qantarah after the crossing of the Sirat and before the gates of Jannah): [quran.ksu.edu.sa/tafseer/katheer/sura39-aya73.html](https://quran.ksu.edu.sa/tafseer/katheer/sura39-aya73.html).
 [^9]: Yahya ibn Sharaf an-Nawawi, *al-Minhaj Sharh Sahih Muslim ibn al-Hajjaj*, Book of Faith, commentary on hadith 219 (the meaning of *mutamasikun*: each takes another by the hand, and they enter abreast, in a single row, side by side).
 

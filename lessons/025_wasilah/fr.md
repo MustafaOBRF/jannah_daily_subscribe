@@ -195,11 +195,11 @@ Notez les étapes du hadith de Muslim 384, puis l'invocation rapportée par Jabi
 
 ## Pour Les Enfants De 4 À 7 Ans
 
-<!-- reader:start audience="4-7" estimated_minutes="5.0" -->
+<!-- reader:start audience="4-7" estimated_minutes="5.5" -->
 
 <!-- unit:start id="4-7.explanation" kind="explanation" -->
 
-Notre Prophète Muhammad, paix et bénédictions sur lui, nous aime très fort. Le Jour de la Résurrection, quand les gens seront fatigués et auront besoin de quelqu'un pour les aider, notre Prophète se prosternera devant son Seigneur et fera des invocations pour nous. Et dans la Jannah, il y a une place tout en haut, très très haut, qui s'appelle « al-Wasilah ». Elle n'est que pour un seul serviteur d'Allah, et nous espérons qu'elle sera pour notre Prophète. Il nous a appris à la demander pour lui à Allah chaque fois que nous entendons l'adhan.[^4]
+Notre Prophète Muhammad, paix et bénédictions sur lui, nous aime très fort. Le Jour de la Résurrection, quand les gens seront fatigués et auront besoin de quelqu'un pour les aider, notre Prophète se prosternera devant son Seigneur et priera Allah pour nous. Et dans la Jannah, il y a une place tout en haut, très très haut, qui s'appelle « al-Wasilah ». Elle n'est que pour un seul serviteur d'Allah, et nous espérons qu'elle sera pour notre Prophète. Il nous a appris à la demander pour lui à Allah chaque fois que nous entendons l'adhan.[^4]
 
 <!-- unit:end -->
 
@@ -217,13 +217,13 @@ Et il leur expliqua : le Jour de la Résurrection, tous les gens seront réunis
 
 Ils iront voir Adam, paix sur lui, notre tout premier papa. Mais il leur dira : « Allez voir quelqu'un d'autre, allez voir Nuh. » Ils iront voir Nuh, paix sur lui, et il dira : « Allez voir Ibrahim. » Ibrahim dira : « Allez voir Musa. » Musa dira : « Allez voir 'Isa. » Et 'Isa, paix sur lui, dira : « Allez voir Muhammad, paix et bénédictions sur lui. »
 
-Alors ils viendront voir notre Prophète Muhammad, paix et bénédictions sur lui. Il ira se prosterner devant son Seigneur, et il remerciera Allah avec de très belles paroles qu'Allah n'avait apprises à personne avant lui. On lui dira : « Ô Muhammad, relève la tête ! Demande, et tu recevras », c'est-à-dire : demande ce que tu veux, et on te le donnera. Et qu'a-t-il demandé ? Rien pour lui ! Il a dit : « Ma communauté, ô Seigneur ! Ma communauté, ô Seigneur ! » Sa communauté, c'est nous, les musulmans !
+Alors ils viendront voir notre Prophète Muhammad, paix et bénédictions sur lui. Il ira se prosterner devant son Seigneur, et il louera Allah avec de très belles paroles qu'Allah n'avait apprises à personne avant lui. On lui dira : « Ô Muhammad, relève la tête ! Demande, et tu recevras », c'est-à-dire : demande ce que tu veux, et on te le donnera. Et que demandera-t-il ? Rien pour lui ! Il dira : « Ma communauté, ô Seigneur ! Ma communauté, ô Seigneur ! » Sa communauté, c'est nous, les musulmans !
 
 Alors on lui dira : « Fais entrer les gens de ta communauté dans la Jannah par la porte de droite. » Et les portes de la Jannah sont immenses, immenses ![^1]
 
 <!-- retelling:start source_id="bukhari-4712" audience="4-7" -->
 
-Tout simplement, cela veut dire : le Jour de la Résurrection, les gens chercheront quelqu'un pour prier Allah à leur place ; chaque prophète les enverra vers un autre prophète, jusqu'à ce qu'ils arrivent à notre Prophète, paix et bénédictions sur lui. Il se prosternera devant son Seigneur et dira : « Ma communauté, ô Seigneur ! » Ce jour-là, il pense à nous ; et nous, nous pensons à lui après chaque adhan.[^1]
+Tout simplement, cela veut dire : le Jour de la Résurrection, les gens chercheront quelqu'un pour prier Allah à leur place ; chaque prophète les enverra vers un autre prophète, jusqu'à ce qu'ils arrivent à notre Prophète, paix et bénédictions sur lui. Il se prosternera devant son Seigneur et dira : « Ma communauté, ô Seigneur ! » Ce jour-là, il pensera à nous ; et nous, nous pensons à lui après chaque adhan.[^1]
 
 <!-- retelling:end -->
 
@@ -235,7 +235,7 @@ Tout simplement, cela veut dire : le Jour de la Résurrection, les gens cherche
 
 ### Questions Courtes
 
-1. Chez qui les gens sont-ils allés en premier ?
+1. Qui les gens sont-ils allés voir en premier ?
 2. Qu'a fait notre Prophète, paix et bénédictions sur lui, avant de parler : s'est-il prosterné ou s'est-il assis ?
 3. Qu'a demandé notre Prophète, paix et bénédictions sur lui, à son Seigneur ?
 4. Et nous, que demandons-nous pour notre Prophète, paix et bénédictions sur lui, après l'adhan ?
@@ -274,7 +274,7 @@ Ce qu'elle veut dire : Ô Allah, prie sur notre Prophète Muhammad et salue-le,
 
 ## Pour Les Enfants De 8 À 12 Ans
 
-<!-- reader:start audience="8-12" estimated_minutes="6.0" -->
+<!-- reader:start audience="8-12" estimated_minutes="6.5" -->
 
 <!-- unit:start id="8-12.explanation" kind="explanation" -->
 
@@ -368,11 +368,11 @@ Sens : Ô Allah, prie sur notre Prophète Muhammad et accorde-lui la paix ; do
 
 ## Pour Les Adolescents, 13 Ans Et Plus
 
-<!-- reader:start audience="13+" estimated_minutes="6.5" -->
+<!-- reader:start audience="13+" estimated_minutes="7.0" -->
 
 <!-- unit:start id="13+.explanation" kind="explanation" -->
 
-Nous vivons dans un monde qui mesure la valeur d'une personne au nombre de regards qu'elle attire. Pourtant, le plus haut rang qu'un être humain ait jamais occupé, la « Station louable », n'a rien d'une scène de célébrité : c'est une station de prosternation, et de service rendu aux autres. Et il est dans la Jannah un rang nommé « al-Wasilah », qui ne convient qu'à un seul serviteur ; le Prophète, paix et bénédictions sur lui, en a dit : « Et j'espère être celui-là », avant de nous demander de le solliciter pour lui après chaque adhan.[^4] Quel rapport entre une minute après l'adhan, quand tu es avec tes amis ou devant ton écran, et la scène la plus grandiose du Jour de la Résurrection ?
+Nous vivons dans un monde qui mesure la valeur d'une personne au nombre de regards qu'elle attire. Pourtant, le plus haut rang qu'un être humain ait jamais occupé, la « Station louable », n'a rien d'une scène de célébrité : c'est une station de prosternation, et de service rendu aux autres. Et il est dans la Jannah un rang nommé « al-Wasilah », qui ne convient qu'à un seul serviteur ; le Prophète, paix et bénédictions sur lui, en a dit : « Et j'espère être celui-là », avant de nous demander de prier Allah de le lui accorder après chaque adhan.[^4] Quel rapport entre une minute après l'adhan, quand tu es avec tes amis ou devant ton écran, et la scène la plus grandiose du Jour de la Résurrection ?
 
 <!-- unit:end -->
 
@@ -450,7 +450,7 @@ Apprends par cœur l'invocation rapportée par Jabir : « اللَّهُمَّ
 
 > اللَّهُمَّ صَلِّ وَسَلِّمْ عَلَى نَبِيِّنَا مُحَمَّدٍ، وَآتِهِ الْوَسِيلَةَ وَالْفَضِيلَةَ، وَارْزُقْنَا شَفَاعَتَهُ، وَاجْمَعْنَا بِهِ فِي الْجَنَّةِ.
 
-Sens : Ô Allah, prie sur notre Prophète Muhammad et accorde-lui la paix ; accorde-lui al-Wasilah et al-Fadilah ; compte-nous parmi ceux qui obtiendront son intercession, et réunis-nous avec lui dans la Jannah. Cette invocation est distincte de l'invocation transmise de l'adhan, que l'on prononce en entendant l'appel à la prière.
+Sens : Ô Allah, prie sur notre Prophète Muhammad et accorde-lui la paix ; accorde-lui al-Wasilah et al-Fadilah ; compte-nous parmi ceux qui obtiendront son intercession, et réunis-nous avec lui dans la Jannah. Cette invocation est distincte de l'invocation de l'adhan transmise par la Sunna, que l'on prononce en entendant l'appel à la prière.
 
 <!-- bedtime-dua:end -->
 

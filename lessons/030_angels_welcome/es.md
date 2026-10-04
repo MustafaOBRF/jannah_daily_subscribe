@@ -30,7 +30,7 @@ Después de esta lección, el aprendiz será capaz de:
 
 ## Sección académica para adultos
 
-<!-- reader:start audience="adults" estimated_minutes="6.5" -->
+<!-- reader:start audience="adults" estimated_minutes="7.0" -->
 
 <!-- unit:start id="adults.explanation" kind="explanation" -->
 
@@ -56,7 +56,7 @@ Esta lección presenta una escena coránica de la sura An-Nahl: alguien pregunta
 
 #### Traducción al español
 
-> **"Y se dirá a quienes temieron a Allah: «¿Qué ha hecho descender vuestro Señor?». Responderán: «El bien». Quienes obran con excelencia tendrán en esta vida algo bueno, pero la morada de la Otra Vida es mejor. ¡Qué excelente es la morada de los temerosos de Allah! Jardines del Edén ('Adn) en los que entrarán, por los que corren los ríos y donde tendrán cuanto deseen. Así recompensa Allah a los temerosos de Él: aquellos a quienes los ángeles toman el alma estando puros, y les dicen: «Paz sobre vosotros. Entrad en el Paraíso por lo que hacíais»."** (An-Nahl 16:30-32)[^1]
+> **"Y se dirá a quienes temieron a Allah: «¿Qué ha hecho descender vuestro Señor?». Responderán: «El bien». Quienes obran con excelencia tendrán en esta vida algo bueno, pero la morada de la Otra Vida es mejor. ¡Qué excelente es la morada de los temerosos de Allah! Jardines del Edén ('Adn) en los que entrarán, bajo los cuales corren los ríos y donde tendrán cuanto deseen. Así recompensa Allah a los temerosos de Él: aquellos a quienes los ángeles toman el alma estando puros, y les dicen: «Paz sobre vosotros. Entrad en el Paraíso por lo que hacíais»."** (An-Nahl 16:30-32)[^1]
 >
 > Y unas aleyas antes, la respuesta de quienes desmentían a la misma pregunta: **"Y cuando se les dice: «¿Qué ha hecho descender vuestro Señor?», responden: «Fábulas de los antiguos»."** (An-Nahl 16:24)[^2]
 
@@ -173,7 +173,7 @@ Las aleyas trazan un recorrido de bienvenida sin interrupciones: paz al morir, p
 1. ¿En qué se diferencian la respuesta de quienes desmentían y la de los temerosos de Allah a la pregunta «¿Qué ha hecho descender vuestro Señor?», y cómo se reflejó esa diferencia en el destino de cada grupo?
 2. Menciona los tres momentos en los que los ángeles saludan con la paz, y la causa que nombra cada saludo.
 3. ¿Cómo concilias las palabras {por lo que hacíais} con el hecho de que el Paraíso se obtiene por la misericordia de Allah y no como precio de las obras?
-4. ¿Qué te enseña sobre la manera correcta de responder un saludo el que los ángeles añadieran "y la misericordia de Allah" al contestar a Adán?
+4. Al contestar a Adán, los ángeles añadieron "y la misericordia de Allah". ¿Qué te enseña eso sobre la manera correcta de responder a un saludo?
 5. ¿Qué relación de tu vida necesita hoy que seas tú quien tome la iniciativa de saludar?
 
 <!-- unit:end -->
@@ -194,13 +194,13 @@ Durante siete días, saluda con el saludo de paz completo cada vez que entres en
 
 ## Para niños de 4 a 7 años
 
-<!-- reader:start audience="4-7" estimated_minutes="5.0" -->
+<!-- reader:start audience="4-7" estimated_minutes="5.5" -->
 
 <!-- unit:start id="4-7.explanation" kind="explanation" -->
 
 Cuando la gente del Paraíso llegue allí, sus puertas se abrirán y los ángeles les dirán: "¡La paz sea con vosotros!".[^5] Y cuando ya vivan en sus casas preciosas, los ángeles entrarán a verlos por todas las puertas y les dirán otra vez: "¡La paz sea con vosotros!".[^6]
 
-¿Y sabes una cosa? ¡Esas mismas palabras las decimos nosotros todos los días! El primero que las dijo fue nuestro padre Adán, la paz sea con él. Allah le mandó saludar a los ángeles, y Adán dijo: "As-salamu alaikum", que quiere decir "la paz sea con vosotros". Los ángeles le respondieron: "As-salamu alaika wa rahmatullah", que quiere decir "la paz sea contigo y la misericordia de Allah". ¡Le regalaron unas palabras bonitas de más![^7]
+¿Y sabes una cosa? ¡Esas mismas palabras las decimos nosotros todos los días! El primero que las dijo fue nuestro padre Adán, la paz sea con él. Allah le mandó saludar a los ángeles, y Adán dijo: "As-salamu alaikum", que quiere decir "la paz sea con vosotros". Los ángeles le respondieron: "As-salamu alaika wa rahmatullah", que quiere decir "la paz sea contigo y la misericordia de Allah". ¡Hasta le añadieron unas palabras más, muy bonitas![^7]
 
 Hoy vamos a escuchar una historia del Corán sobre unas personas que dijeron una palabra buena, y los ángeles las recibieron con la paz.
 
@@ -269,7 +269,7 @@ Practica con tu papá o con tu mamá cómo se dice: "As-salamu alaikum wa rahmat
 
 > اللَّهُمَّ طَيِّبْ قُلُوبَنَا وَأَلْسِنَتَنَا وَأَعْمَالَنَا، وَاجْعَلْنَا مِمَّنْ تَتَلَقَّاهُمُ الْمَلَائِكَةُ بِالسَّلَامِ عِنْدَ دُخُولِ الْجَنَّةِ.
 
-Quiere decir: Oh Allah, haz que nuestro corazón, nuestras palabras y lo que hacemos sean buenos, y ponnos entre los que los ángeles reciben diciendo "la paz sea con vosotros" cuando entran en el Paraíso.
+Quiere decir: Oh Allah, haz que nuestro corazón, nuestras palabras y lo que hacemos sean buenos, y ponnos entre las personas a las que los ángeles reciben diciendo "la paz sea con vosotros" cuando entran en el Paraíso.
 
 <!-- bedtime-dua:end -->
 
@@ -279,7 +279,7 @@ Quiere decir: Oh Allah, haz que nuestro corazón, nuestras palabras y lo que hac
 
 ## Para niños de 8 a 12 años
 
-<!-- reader:start audience="8-12" estimated_minutes="6.0" -->
+<!-- reader:start audience="8-12" estimated_minutes="6.5" -->
 
 <!-- unit:start id="8-12.explanation" kind="explanation" -->
 
@@ -294,7 +294,7 @@ Este saludo es antiquísimo: Allah se lo enseñó a Adán, la paz sea con él. A
 <!-- terminology:start source_id="quran-16-30-32" -->
 
 - **`Puros (tayyibin)`** — limpios de la idolatría y del mal, con palabras y obras puras, según lo explicó Muyahid.[^3]
-- **`Paz sobre vosotros (salamun alaikum)`** — un saludo completo que significa: "estáis a salvo de todo daño, para siempre".[^4]
+- **`Paz sobre vosotros (salamun alaikum)`** — un saludo completo que significa: "la seguridad frente a todo daño ya es vuestra".[^4]
 
 <!-- terminology:end -->
 
@@ -312,7 +312,7 @@ Algunos exégetas cuentan que las tribus árabes enviaban a un hombre a La Meca,
 
 El Corán nos conserva la pregunta y dos respuestas. Cuando a los que desmentían les preguntaron: "¿Qué ha hecho descender vuestro Señor?", respondieron: "Fábulas de los antiguos", es decir, viejas historias que se cuentan de unos a otros.[^2] En cambio, cuando a los temerosos de Allah les hicieron la misma pregunta, respondieron: "El bien", es decir, Allah ha hecho descender el bien, la misericordia y la bendición para quien lo siga.[^1]
 
-Dos respuestas que caben en dos líneas, pero con finales muy distintos. Allah prometió a quienes obran con excelencia algo bueno en este mundo y una morada en la Otra Vida todavía mejor: los Jardines del Edén, por los que corren los ríos y donde tendrán cuanto deseen. Y después describió el momento en que se encuentran con los ángeles: {aquellos a quienes los ángeles toman el alma estando puros, y les dicen: «Paz sobre vosotros. Entrad en el Paraíso por lo que hacíais»}.[^1]
+Dos respuestas que caben en dos líneas, pero con finales muy distintos. Allah prometió a quienes obran con excelencia algo bueno en este mundo y una morada en la Otra Vida todavía mejor: los Jardines del Edén, bajo los cuales corren los ríos y donde tendrán cuanto deseen. Y después describió el momento en que se encuentran con los ángeles: {aquellos a quienes los ángeles toman el alma estando puros, y les dicen: «Paz sobre vosotros. Entrad en el Paraíso por lo que hacíais»}.[^1]
 
 Fíjate bien: la palabra "el bien" no era un simple cumplido. Salía de un corazón que veía la revelación como un regalo y la ponía en práctica. Por eso quien la dijo llegó a ser de los "puros", y los ángeles lo recibieron con la paz.
 
@@ -375,7 +375,7 @@ Su significado: Oh Allah, purifica nuestro corazón, haz que nuestras palabras y
 
 Cada día, de una forma u otra, al musulmán le preguntan: "¿Y qué religión es esa que sigues?". La pregunta puede venir de un compañero curioso, de un comentario sarcástico o de un vídeo que presenta el islam de forma distorsionada. Y tu respuesta, con palabras y con actos, dice algo de ti.
 
-El Corán cuenta una pregunta parecida que se hizo hace catorce siglos, y une la respuesta sincera a ella con el final del camino: unos ángeles que reciben con la paz a quienes la dieron. El Corán menciona esa bienvenida en tres momentos: al morir;[^1] ante las puertas del Paraíso, cuando los guardianes dicen: "Paz sobre vosotros; habéis sido puros";[^5] y en las moradas, cuando los ángeles entran por todas las puertas: "¡Paz sobre vosotros por la paciencia que tuvisteis!".[^6] Es el mismo saludo que Adán recibió de los ángeles nada más ser creado.[^7]
+El Corán cuenta una pregunta parecida que se hizo hace catorce siglos, y relaciona la respuesta sincera que recibió con el final del camino: unos ángeles que reciben con la paz a quienes la dieron. El Corán menciona esa bienvenida en tres momentos: al morir;[^1] ante las puertas del Paraíso, cuando los guardianes dicen: "Paz sobre vosotros; habéis sido puros";[^5] y en las moradas, cuando los ángeles entran por todas las puertas: "¡Paz sobre vosotros por la paciencia que tuvisteis!".[^6] Es el mismo saludo que Adán recibió de los ángeles nada más ser creado.[^7]
 
 <!-- unit:end -->
 
@@ -400,11 +400,11 @@ El Corán cuenta una pregunta parecida que se hizo hace catorce siglos, y une la
 
 Imagina La Meca en la temporada de la peregrinación: tribus llegadas de toda Arabia, y cada una ha enviado a alguien para averiguar qué pasa con ese hombre que dice ser profeta. Cuenta al-Bagawi que el recién llegado se encontraba en los caminos con quienes lo recibían con veredictos ya hechos: "Hechicero, adivino, poeta, mentiroso, loco; más te vale no ir a verlo". Toda la presión del mundo antes de haber escuchado una sola aleya.
 
-Pero algunos se negaron a cargar con un juicio prestado y dijeron: "Sería el peor de los emisarios si volviera a mi gente sin haber entrado en La Meca para encontrarme con él". Así que entraban, se encontraban con los Compañeros del Profeta, la paz y las bendiciones de Allah sean con él, y estos les contaban que decía la verdad y que era un profeta enviado.[^3]
+Pero algunos se negaron a cargar con un juicio prestado y dijeron: "Sería el peor de los emisarios si volviera a mi gente sin haber entrado en La Meca para encontrarme con él". Así que entraron, se encontraron con los Compañeros del Profeta, la paz y las bendiciones de Allah sean con él, y estos les contaron que decía la verdad y que era un profeta enviado.[^3]
 
 El Corán conserva las dos respuestas. A los que desmentían les preguntaron: "¿Qué ha hecho descender vuestro Señor?", y respondieron: "Fábulas de los antiguos"; Ibn Kazir comenta que esquivaron la respuesta.[^2] A los temerosos de Allah se les hizo la misma pregunta, y respondieron con una sola palabra: "El bien", es decir, misericordia, bendición y belleza para quien lo siga.[^1] Su respuesta no fue un discurso ni una discusión, sino una claridad sincera en un ambiente que no les era nada favorable.
 
-Luego el Corán desvela adónde llevan los dos caminos. Quienes obran con excelencia tendrán algo bueno en este mundo; la Otra Vida es mejor; y los Jardines del Edén, donde tendrán cuanto deseen. Y cuando llega el último instante: {aquellos a quienes los ángeles toman el alma estando puros, y les dicen: «Paz sobre vosotros. Entrad en el Paraíso por lo que hacíais»}.[^1]
+Luego el Corán desvela adónde llevan los dos caminos. Quienes obran con excelencia tendrán algo bueno en este mundo; la Otra Vida es mejor, y les esperan los Jardines del Edén, donde tendrán cuanto deseen. Y cuando llega el último instante: {aquellos a quienes los ángeles toman el alma estando puros, y les dicen: «Paz sobre vosotros. Entrad en el Paraíso por lo que hacíais»}.[^1]
 
 Fíjate en la simetría: quien dijo de la revelación "es el bien" y vivió de acuerdo con ello escucha al final "la paz". Y as-Sa'di señaló que las obras son la causa de la entrada, pero que esta la obtuvieron por la misericordia de Allah, no por su propia fuerza ni capacidad.[^4]
 
@@ -518,13 +518,13 @@ Su significado: Oh Allah, haz que nuestro corazón sea puro, nuestras palabras s
 **Lectura de la evidencia — 7 minutos:** el educador lee la introducción y después la historia, y pide a los niños que repitan con él, con voz alegre, la palabra "¡El bien!", y luego la frase de los ángeles: «Paz sobre vosotros. Entrad en el Paraíso por lo que hacíais».
 
 <!-- lesson-plan:instruction -->
-**Instrucción guiada — 4 minutos:** el educador pregunta: "¿Qué dijeron los creyentes? ¿Qué dicen los ángeles? ¿Qué palabras de más le regalaron los ángeles a Adán?". Y enseña que la respuesta más completa es: "Wa alaikum as-salam wa rahmatullah".
+**Instrucción guiada — 4 minutos:** el educador pregunta: "¿Qué dijeron los creyentes? ¿Qué dicen los ángeles? ¿Qué palabras le añadieron los ángeles a Adán?". Y enseña que la respuesta más completa es: "Wa alaikum as-salam wa rahmatullah".
 
 <!-- lesson-plan:activity -->
 **Actividad — 7 minutos:** los niños practican por parejas cómo saludar primero y cómo responder con un saludo más completo; luego dibujan la puerta y colorean el primer corazón, tal como se describe en la unidad de actividad, y se llevan la hoja a casa.
 
 <!-- lesson-plan:assessment -->
-**Evaluación y cierre — 4 minutos:** el educador observa si el niño sabe decir el saludo completo y responder con uno más completo, y si recuerda la respuesta "¡El bien!". Después se lee juntos la súplica.
+**Evaluación y cierre — 4 minutos:** el educador observa si el niño sabe decir el saludo completo y responder con uno más completo, y si recuerda la respuesta "¡El bien!". Después se lee la súplica todos juntos.
 
 <!-- lesson-plan:differentiation -->
 **Diferenciación:** a los más pequeños les basta con "As-salamu alaikum" y "Wa alaikum as-salam". A los mayores se les pide que cuenten a su familia la historia de Adán con los ángeles.

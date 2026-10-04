@@ -29,7 +29,7 @@ Au terme de cette leçon, l'apprenant sera capable de :
 
 ## Section Académique Pour Adultes
 
-<!-- reader:start audience="adults" estimated_minutes="6.5" -->
+<!-- reader:start audience="adults" estimated_minutes="7.0" -->
 
 <!-- unit:start id="adults.explanation" kind="explanation" -->
 
@@ -59,7 +59,7 @@ Et la question pratique que porte cette leçon est la suivante : si les injusti
 
 #### Interprétation Savante
 
-Les gens de l'Arbre sont ceux qui prêtèrent au Prophète, paix et bénédictions sur lui, le serment d'allégeance sous l'arbre, le jour d'al-Hudaybiyah : c'est le Serment de l'Agrément (*Bay'at ar-Ridwan*). An-Nawawi rapporte des savants que le sens est : aucun d'eux n'y entrera, assurément ; et que les mots « si Allah le veut » ont été dits pour attirer la bénédiction (*tabarruk*), non par doute. Il ajoute que le hadith fonde la légitimité de la discussion, de l'objection et de la réponse lorsqu'on cherche à être guidé (*istirshad*) : telle était l'intention de Hafsah, et non de réfuter la parole du Prophète, paix et bénédictions sur lui. Il établit enfin que l'opinion juste sur le sens de la « venue » (*al-wurud*) est le passage sur le Sirat, un pont dressé au-dessus de la Géhenne : ceux qui lui appartiennent y tombent, et les autres en réchappent.[^7]
+Les gens de l'Arbre sont ceux qui prêtèrent au Prophète, paix et bénédictions sur lui, le serment d'allégeance sous l'arbre, le jour d'al-Hudaybiyah : c'est le Serment de l'Agrément (*Bay'at ar-Ridwan*). An-Nawawi rapporte des savants que le sens est : aucun d'eux n'y entrera, assurément ; et que les mots « si Allah le veut » ont été dits pour attirer la bénédiction (*tabarruk*), non par doute. Il ajoute que le hadith fonde la légitimité de la discussion, de l'objection et de la réponse lorsqu'on cherche à être guidé (*istirshad*) : telle était l'intention de Hafsah, et non de réfuter la parole du Prophète, paix et bénédictions sur lui. Il établit enfin que l'opinion juste sur le sens de la « venue » (*al-wurud*) est le passage sur le Sirat, un pont dressé au-dessus de la Géhenne : ceux qui sont voués à la Géhenne y tombent, et les autres en réchappent.[^7]
 
 #### Explication De La Leçon
 
@@ -151,7 +151,7 @@ Ibn Kathir explique que *zumaran* signifie : groupe après groupe. D'abord les 
 
 #### Explication De La Leçon
 
-Cette leçon s'arrête à la marche par groupes, selon les œuvres de chacun. L'ouverture des portes et la salutation des gardiens, « Paix sur vous ! Vous avez été purs », sont le sujet de la leçon suivante. Remarquez pourtant comme « vous avez été purs » (*tibtum*) fait écho à « épurés et affinés » : seul ce qui est pur entre.
+Cette leçon s'arrête à la marche par groupes, selon les œuvres de chacun. L'ouverture des portes et la salutation des gardiens, « Paix sur vous ! Vous avez été purs », sont le sujet de la leçon suivante. Remarquez pourtant comme « vous avez été purs » (*tibtum*) fait écho à « épurés et affinés » : seuls les purs y entrent.
 
 <!-- evidence:end -->
 
@@ -165,7 +165,7 @@ Cette leçon s'arrête à la marche par groupes, selon les œuvres de chacun. L'
 
 #### Traduction Française
 
-> D'après Sahl ibn Sa'd, qu'Allah soit satisfait de lui, le Prophète, paix et bénédictions sur lui, a dit : **« Il entrera assurément dans la Jannah, de ma communauté, soixante-dix mille, ou sept cent mille — le rapporteur hésitait entre les deux —, se tenant les uns aux autres, chacun tenant son voisin, de sorte que le premier et le dernier d'entre eux entreront ensemble dans la Jannah ; et leurs visages auront l'éclat de la lune la nuit où elle est pleine. »**[^6]
+> D'après Sahl ibn Sa'd, qu'Allah soit satisfait de lui, le Prophète, paix et bénédictions sur lui, a dit : **« Soixante-dix mille de ma communauté, ou sept cent mille — le rapporteur hésitait entre les deux —, entreront assurément dans la Jannah, se tenant les uns aux autres, chacun tenant son voisin, de sorte que le premier et le dernier d'entre eux entreront ensemble dans la Jannah ; et leurs visages auront l'éclat de la lune la nuit où elle est pleine. »**[^6]
 
 #### Interprétation Savante
 
@@ -173,7 +173,7 @@ L'hésitation sur le nombre vient du rapporteur Abu Hazim. An-Nawawi explique *m
 
 #### Explication De La Leçon
 
-Une entrée sans bousculade ni course égoïste : des mains entrelacées et des visages lumineux. Et il est beau que cette scène vienne après la passerelle : ceux entre qui il y avait des torts ne forment plus qu'une seule main.
+Une entrée sans bousculade ni course égoïste : des mains entrelacées et des visages lumineux. Et il est beau que cette scène vienne après la passerelle : ceux entre qui il y avait des torts avancent désormais unis, main dans la main.
 
 <!-- evidence:end -->
 
@@ -209,11 +209,11 @@ Dans un carnet personnel, passez en revue quatre catégories de droits : une de
 
 ## Pour Les Enfants De 4 À 7 Ans
 
-<!-- reader:start audience="4-7" estimated_minutes="4.0" -->
+<!-- reader:start audience="4-7" estimated_minutes="5.0" -->
 
 <!-- unit:start id="4-7.explanation" kind="explanation" -->
 
-Comment les croyants entrent-ils dans la Jannah ? Le Prophète, paix et bénédictions sur lui, nous a appris qu'il y a un chemin pour y aller. Tous les gens passent sur un chemin, et Allah sauve ceux qui L'aimaient et Lui obéissaient.[^2] Ensuite, ils s'arrêtent un petit moment à un endroit, juste avant la Jannah. Si l'un d'eux avait pris quelque chose à son frère, ou s'il l'avait rendu triste, chacun récupère ce qui est à lui, jusqu'à ce que tous les cœurs soient bien propres et tout doux.[^3] Puis ils marchent vers la Jannah, par groupes, un groupe après l'autre.[^5] Et beaucoup d'entre eux entrent ensemble, en se tenant par la main, avec des visages qui brillent comme la lune quand elle est toute ronde.[^6]
+Comment les croyants entrent-ils dans la Jannah ? Le Prophète, paix et bénédictions sur lui, nous a appris qu'il y a un chemin pour y aller. Tous les gens passent sur un chemin, et Allah sauve ceux qui L'aimaient et Lui obéissaient.[^2] Ensuite, ils s'arrêtent un petit moment à un endroit, juste avant la Jannah. Si l'un d'eux avait pris quelque chose à son frère, ou s'il l'avait rendu triste, chacun récupère ce qui est à lui, jusqu'à ce que tous les cœurs soient bien propres et purs.[^3] Puis ils marchent vers la Jannah, par groupes, un groupe après l'autre.[^5] Et beaucoup d'entre eux entrent ensemble, en se tenant par la main, avec des visages qui brillent comme la lune quand elle est toute ronde.[^6]
 
 <!-- unit:end -->
 
@@ -235,7 +235,7 @@ Alors le Prophète, paix et bénédictions sur lui, lui répondit avec le verset
 
 <!-- retelling:end -->
 
-Hafsah voulait comprendre : elle a posé sa question avec un verset du Coran, et le Prophète, paix et bénédictions sur lui, lui a répondu avec un verset du Coran. Et nous avons appris que sur le chemin de la Jannah, on passe d'abord par un passage, et qu'Allah sauve celui qui Lui obéit.
+Hafsah voulait comprendre : elle a posé sa question avec un verset du Coran, et le Prophète, paix et bénédictions sur lui, lui a répondu avec un verset du Coran. Et nous avons appris que sur le chemin de la Jannah, il y a un passage, et qu'Allah sauve celui qui Lui obéit.
 
 <!-- story:end -->
 
@@ -259,7 +259,7 @@ Hafsah voulait comprendre : elle a posé sa question avec un verset du Coran, e
 
 <!-- activity:start audience="4-7" concept_id="lesson.029.activity.settle-it-before-the-bridge" -->
 
-Avec ton papa ou ta maman, dessine une petite passerelle faite de trois pierres. Réfléchissez ensemble : as-tu un jouet ou un crayon à quelqu'un, et tu ne le lui as pas encore rendu ? As-tu rendu triste ton frère, ta sœur ou ton ami sans lui dire « pardon » ? Choisis une seule chose, et répare-la aujourd'hui : rends l'objet, ou dis « Pardonne-moi ». Ensuite, colorie une pierre de ta passerelle et dis : « Al-hamdu lillah, mon cœur est tout propre maintenant ! »
+Avec ton papa ou ta maman, dessine une petite passerelle faite de trois pierres. Réfléchissez ensemble : as-tu un jouet ou un crayon qui appartient à quelqu'un, et que tu ne lui as pas encore rendu ? As-tu rendu triste ton frère ou ton ami sans lui dire « pardon » ? Choisis une seule chose, et répare-la aujourd'hui : rends l'objet, ou dis « Pardonne-moi ». Ensuite, colorie une pierre de ta passerelle et dis : « Al-hamdu lillah, mon cœur est tout propre maintenant ! »
 
 <!-- activity:end -->
 
@@ -287,7 +287,7 @@ Ce qui veut dire : « Ô Allah, sauve-nous avec ceux qui T'obéissent, aide-no
 
 ## Pour Les Enfants De 8 À 12 Ans
 
-<!-- reader:start audience="8-12" estimated_minutes="5.0" -->
+<!-- reader:start audience="8-12" estimated_minutes="6.5" -->
 
 <!-- unit:start id="8-12.explanation" kind="explanation" -->
 
@@ -309,7 +309,7 @@ Et le plus beau, c'est que le Prophète, paix et bénédictions sur lui, nous a 
 - **`La venue (al-wurud)`** — le passage sur le Sirat, tendu au-dessus de la Géhenne ; c'est l'explication du verset que les savants ont jugée la plus juste.[^7]
 - **`Les gens de l'Arbre (ashab ash-shajarah)`** — les Compagnons qui ont prêté serment d'allégeance au Prophète, paix et bénédictions sur lui, sous un arbre, le jour d'al-Hudaybiyah.
 - **`La passerelle (al-qantarah)`** — un pont, ou un endroit surélevé, entre la Jannah et le Feu, où les croyants sont retenus avant d'entrer.
-- **`L'injustice (al-mazlamah)`** — un droit que tu as pris à quelqu'un sans en avoir le droit, que ce soit de l'argent ou une parole blessante.
+- **`L'injustice (al-mazlamah)`** — un droit que tu as enlevé à quelqu'un injustement, qu'il s'agisse d'argent ou d'une parole blessante.
 
 <!-- terminology:end -->
 
@@ -385,13 +385,13 @@ Ce qui veut dire : « Ô Allah, mets-nous au nombre de ceux qui sont sauvés a
 
 ## Pour Les Adolescents, 13 Ans Et Plus
 
-<!-- reader:start audience="13+" estimated_minutes="5.0" -->
+<!-- reader:start audience="13+" estimated_minutes="6.5" -->
 
 <!-- unit:start id="13+.explanation" kind="explanation" -->
 
 À l'ère du « tout, tout de suite », on imagine volontiers la Jannah comme un portail qu'on franchit en un clic. Mais la Révélation décrit un chemin : une venue à laquelle personne n'échappe, puis le salut de ceux qui ont craint Allah.[^2] Ensuite, une passerelle où les croyants sauvés sont retenus, le temps que soient réglées les injustices entre eux, jusqu'à ce qu'ils soient épurés et affinés ; et c'est seulement alors qu'ils reçoivent la permission d'entrer.[^3] Puis ils sont conduits par groupes, chacun avec ceux qui lui ressemblent par les œuvres,[^5] et une foule immense d'entre eux entre en se tenant les uns aux autres, chacun tenant la main de son voisin, avec des visages pareils à la lune la nuit où elle est pleine.[^6]
 
-Remarque le paradoxe : ceux-là mêmes qui ont franchi le Sirat n'entrent pas tant qu'un compte reste ouvert entre eux. C'est pourquoi le Prophète, paix et bénédictions sur lui, a dit : celui qui a commis envers quelqu'un une injustice, touchant à son honneur ou à quoi que ce soit d'autre, qu'il s'en fasse tenir quitte par lui aujourd'hui, avant que ne vienne le jour où il n'y aura plus ni dinar ni dirham, mais où l'on prendra des bonnes actions, ou bien où l'on fera porter des mauvaises.[^4] Et les injustices d'aujourd'hui ne sont pas qu'une affaire d'argent : un commentaire moqueur, une capture d'écran diffusée, une rumeur transférée.
+Remarque le paradoxe : ceux-là mêmes qui ont franchi le Sirat n'entrent pas tant qu'un compte reste ouvert entre eux. C'est pourquoi le Prophète, paix et bénédictions sur lui, a dit : celui qui a commis envers quelqu'un une injustice, touchant à son honneur ou à quoi que ce soit d'autre, qu'il s'en fasse tenir quitte par lui aujourd'hui, avant que ne vienne le jour où il n'y aura plus ni dinar ni dirham, mais où l'on prendra des bonnes actions, ou bien où l'on fera porter des mauvaises.[^4] Et les injustices d'aujourd'hui ne sont pas qu'une affaire d'argent : un commentaire moqueur, une capture d'écran diffusée, une rumeur relayée.
 
 <!-- unit:end -->
 
@@ -419,9 +419,9 @@ Remarque le paradoxe : ceux-là mêmes qui ont franchi le Sirat n'entrent pas t
 
 La scène se passe chez la Mère des croyants Hafsah, fille de 'Umar. Une femme des Ansar est présente, Umm Mubashshir. Elle entend le Prophète, paix et bénédictions sur lui, dire de ceux qui lui ont prêté serment sous l'arbre, le jour d'al-Hudaybiyah : **« Aucun des gens de l'Arbre, ceux qui ont prêté serment d'allégeance sous lui, n'entrera dans le Feu, si Allah le veut. »**
 
-Hafsah dit : « Si, ô Messager d'Allah ! » Il la reprend sévèrement. Le moment n'avait rien de facile ; pourtant, elle ne se dérobe pas, et elle ne s'entête pas non plus : ce qu'elle a en tête, elle le présente comme une preuve, non comme une opinion : « *Et il n'est aucun d'entre vous qui n'y parviendra.* »
+Hafsah dit : « Si, ô Messager d'Allah ! » Il la reprend sévèrement. Le moment n'a rien de facile ; pourtant, elle ne se dérobe ni ne s'entête ; ce qu'elle a en tête, elle le présente comme une preuve, non comme une opinion : « *Et il n'est aucun d'entre vous qui n'y parviendra.* »
 
-Et la réponse vient de la même page du Mushaf : **« Allah, Puissant et Majestueux, a dit : “*Puis Nous sauverons ceux qui ont craint, et Nous y laisserons les injustes, agenouillés.*” »**[^1]
+Et la réponse vient du même passage du Mushaf : **« Allah, Puissant et Majestueux, a dit : “*Puis Nous sauverons ceux qui ont craint, et Nous y laisserons les injustes, agenouillés.*” »**[^1]
 
 <!-- retelling:end -->
 
@@ -449,7 +449,7 @@ An-Nawawi explique que les mots « si Allah le veut » ont été dits pour att
 
 <!-- activity:start audience="13+" concept_id="lesson.029.activity.settle-it-before-the-bridge" -->
 
-Ouvre une page personnelle avec trois colonnes : « Le droit que je dois », « Comment m'en faire tenir quitte », « L'échéance ». Passe en revue la vie réelle et la vie en ligne : un objet emprunté, une petite somme d'argent, un commentaire moqueur, une photo publiée sans permission, une rumeur que tu as partagée. Choisis-en une seule, et répare-la dans les 72 heures : supprime ce que tu as publié, rends ce que tu as pris, ou excuse-toi directement, avec une phrase sans justification. Ne prends pas contact avec une personne qui te fait du mal ou avec qui tu n'es pas en sécurité : demande conseil à un parent ou à un enseignant de confiance. Une fois la chose faite, écris un seul mot sur la page, « Réglé », puis une ligne sur ce qui a changé en toi.
+Ouvre une page personnelle avec trois colonnes : « Le droit que je dois », « Comment m'en faire tenir quitte », « L'échéance ». Passe en revue la vie réelle et la vie en ligne : un objet emprunté, une petite somme d'argent, un commentaire moqueur, une photo publiée sans permission, une rumeur que tu as partagée. Choisis-en un seul, et répare-le dans les 72 heures : supprime ce que tu as publié, rends ce que tu as pris, ou excuse-toi directement, avec une phrase sans justification. Ne prends pas contact avec une personne qui te fait du mal ou avec qui tu n'es pas en sécurité : demande conseil à un parent ou à un enseignant de confiance. Une fois la chose faite, écris un seul mot sur la page, « Réglé », puis une ligne sur ce qui a changé en toi.
 
 <!-- activity:end -->
 

@@ -31,7 +31,7 @@ Después de esta lección, el aprendiz será capaz de:
 
 ## Sección académica para adultos
 
-<!-- reader:start audience="adults" estimated_minutes="6.5" -->
+<!-- reader:start audience="adults" estimated_minutes="7.0" -->
 
 <!-- unit:start id="adults.explanation" kind="explanation" -->
 
@@ -55,11 +55,11 @@ Esta lección viene después de las lecciones sobre la entrada, el recibimiento 
 
 #### Traducción al español
 
-> De Zawbán, liberto del Mensajero de Allah, la paz y las bendiciones de Allah sean con él, que dijo: **Estaba yo de pie junto al Mensajero de Allah, la paz y las bendiciones de Allah sean con él, cuando llegó uno de los sabios de los judíos y dijo: «La paz sea contigo, oh Muhammad». Le di un empujón que casi lo derriba, y él dijo: «¿Por qué me empujas?». Le respondí: «¿Por qué no dices: "Oh Mensajero de Allah"?». El judío dijo: «Nosotros lo llamamos por el nombre que le pusieron los suyos». Y el Mensajero de Allah, la paz y las bendiciones de Allah sean con él, dijo: «Mi nombre es Muhammad, el que me pusieron los míos». El judío dijo: «He venido a hacerte unas preguntas». El Mensajero de Allah, la paz y las bendiciones de Allah sean con él, le dijo: «¿Te servirá de algo si te lo cuento?». Respondió: «Te escucharé con mis propios oídos». Entonces el Mensajero de Allah, la paz y las bendiciones de Allah sean con él, trazó unas líneas en el suelo con una ramita que llevaba consigo, y dijo: «Pregunta». El judío dijo: «¿Dónde estará la gente el día en que la tierra sea cambiada por otra tierra, y también los cielos?». El Mensajero de Allah, la paz y las bendiciones de Allah sean con él, respondió: «Estarán en la oscuridad, antes del Puente». Dijo: «¿Y quiénes serán los primeros en cruzar?». Respondió: «Los pobres de entre los emigrantes (muhayirun)». El judío dijo: «¿Y cuál será su obsequio de bienvenida cuando entren en el Paraíso?». Respondió: «El lóbulo del hígado del pez (an-nun)». Dijo: «¿Y cuál será su alimento después?». Respondió: «Se sacrificará para ellos el toro del Paraíso, que pacía en sus confines». Dijo: «¿Y qué beberán con él?». Respondió: «De una fuente que hay en él, llamada Salsabil». Dijo: «Has dicho la verdad».** [Luego le preguntó por una cuestión relativa al hijo, y él le respondió; queda fuera del tema de esta lección.] **El judío dijo: «Ciertamente has dicho la verdad, y eres sin duda un profeta». Luego se dio la vuelta y se marchó. Y el Mensajero de Allah, la paz y las bendiciones de Allah sean con él, dijo: «Este hombre me ha preguntado por lo que me ha preguntado, y yo no sabía nada de ello hasta que Allah me lo dio a conocer»**.[^1]
+> De Zawbán, liberto del Mensajero de Allah, la paz y las bendiciones de Allah sean con él, que dijo: **Estaba yo de pie junto al Mensajero de Allah, la paz y las bendiciones de Allah sean con él, cuando llegó uno de los sabios de los judíos y dijo: «La paz sea contigo, oh Muhammad». Le di un empujón que casi lo derriba, y él dijo: «¿Por qué me empujas?». Le respondí: «¿Por qué no dices: "Oh Mensajero de Allah"?». El judío dijo: «Nosotros lo llamamos por el nombre que le pusieron los suyos». Y el Mensajero de Allah, la paz y las bendiciones de Allah sean con él, dijo: «Mi nombre es Muhammad, el que me pusieron los míos». El judío dijo: «He venido a hacerte unas preguntas». El Mensajero de Allah, la paz y las bendiciones de Allah sean con él, le dijo: «¿Te servirá de algo si te lo cuento?». Respondió: «Te escucharé con mis propios oídos». Entonces el Mensajero de Allah, la paz y las bendiciones de Allah sean con él, trazó unas líneas en el suelo con una ramita que llevaba consigo, y dijo: «Pregunta». El judío dijo: «¿Dónde estará la gente el día en que la tierra sea cambiada por otra tierra, y también los cielos?». El Mensajero de Allah, la paz y las bendiciones de Allah sean con él, respondió: «Estarán en la oscuridad, antes del Puente». Dijo: «¿Y quiénes serán los primeros en cruzar?». Respondió: «Los pobres de entre los emigrantes (muhayirun)». El judío dijo: «¿Y cuál será su obsequio de bienvenida cuando entren en el Paraíso?». Respondió: «El lóbulo del hígado del pez (an-nun)». Dijo: «¿Y cuál será su alimento después?». Respondió: «Se sacrificará para ellos el toro del Paraíso, que pacía en sus confines». Dijo: «¿Y qué beberán con él?». Respondió: «De una fuente que hay allí, llamada Salsabil». Dijo: «Has dicho la verdad».** [Luego le preguntó por una cuestión relativa al hijo, y él le respondió; queda fuera del tema de esta lección.] **El judío dijo: «Ciertamente has dicho la verdad, y eres sin duda un profeta». Luego se dio la vuelta y se marchó. Y el Mensajero de Allah, la paz y las bendiciones de Allah sean con él, dijo: «Este hombre me ha preguntado por lo que me ha preguntado, y yo no sabía nada de ello hasta que Allah me lo dio a conocer»**.[^1]
 
 #### Interpretación académica
 
-An-Nawawi, que Allah tenga misericordia de él, explicó: el `habr` es el sabio; "trazó con una ramita" significa que hizo unas líneas con ella en el suelo, "y eso es lo que hace quien está pensando"; "el Puente" es aquí as-Sirat; "ichaza" significa el paso y el cruce; la `tuhfa` es "lo que se le regala a una persona como algo reservado para ella y como muestra de cariño"; `an-nun` es el pez; y "`ziyada` y `za'ida` son una misma cosa: el extremo del hígado, que es su parte más exquisita".[^5] Ibn al-Qayyim, que Allah tenga misericordia de él, dedicó a este hadiz un capítulo que tituló: "Sobre el obsequio de bienvenida de la gente del Paraíso cuando entran en él".[^7]
+An-Nawawi, que Allah tenga misericordia de él, explicó: el `habr` es el sabio; "trazó con una ramita" significa que hizo unas líneas con ella en el suelo, "y eso es lo que hace quien está pensando"; "el Puente" es aquí as-Sirat; "iyaza" significa el paso y el cruce; la `tuhfa` es "lo que se le regala a una persona como algo reservado para ella y como muestra de cariño"; `an-nun` es el pez; y "`ziyada` y `za'ida` son una misma cosa: el extremo del hígado, que es su parte más exquisita".[^5] Ibn al-Qayyim, que Allah tenga misericordia de él, dedicó a este hadiz un capítulo que tituló: "Sobre el obsequio de bienvenida de la gente del Paraíso cuando entran en él".[^7]
 
 #### Explicación de la lección
 
@@ -103,7 +103,7 @@ An-Nawawi, que Allah tenga misericordia de él, explicó: el `nuzul` es "lo que 
 
 #### Explicación de la lección
 
-El Profeta, la paz y las bendiciones de Allah sean con él, rio porque el hombre judío confirmó lo que él había anunciado. Afirmamos lo que ha llegado en el hadiz, incluido el atributo de la mano de Allah, Exaltado sea, de la manera que conviene a Su majestad —{No hay nada como Él}—, sin preguntar por el cómo ni establecer semejanzas, y sin añadir nada al texto cuando describe lo oculto.
+El Profeta, la paz y las bendiciones de Allah sean con él, rio porque el hombre judío confirmó lo que él había anunciado. Afirmamos lo que ha llegado en el hadiz, incluido el atributo de la mano de Allah, Exaltado sea, de la manera que conviene a Su majestad —{No hay nada como Él}—, sin preguntar por el cómo ni establecer semejanzas, y sin añadir nada al texto al describir lo oculto.
 
 <!-- evidence:end -->
 
@@ -125,7 +125,7 @@ As-Sa'di, que Allah tenga misericordia de él, explicó que esta generosa recomp
 
 #### Explicación de la lección
 
-Allah llamó a todo el deleite del Paraíso "nuzul", es decir, hospitalidad. El obsequio de bienvenida del hadiz de Zawbán es, pues, una imagen en miniatura de un sentido más amplio: la gente del Paraíso es huésped del Misericordioso, y quien la acoge es Perdonador, Misericordioso. Y la condición de esa hospitalidad, según la aleya, es la fe y, después, la firmeza en el camino recto (istiqama).
+Allah llamó a todo el deleite del Paraíso "nuzul", es decir, hospitalidad. El obsequio de bienvenida del hadiz de Zawbán es, pues, una imagen en miniatura de un sentido más amplio: los habitantes del Paraíso son huéspedes del Misericordioso, y quien los acoge es Perdonador, Misericordioso. Y la condición de esa hospitalidad, según la aleya, es la fe y, después, la firmeza en el camino recto (istiqama).
 
 <!-- evidence:end -->
 
@@ -160,7 +160,7 @@ Esta semana, recibe deliberadamente a un invitado: un familiar, un vecino recié
 
 ## Para niños de 4 a 7 años
 
-<!-- reader:start audience="4-7" estimated_minutes="5.0" -->
+<!-- reader:start audience="4-7" estimated_minutes="6.0" -->
 
 <!-- unit:start id="4-7.explanation" kind="explanation" -->
 
@@ -250,7 +250,7 @@ Quiere decir: "Oh Allah, haz que seamos Tus invitados en el Paraíso, danos all�
 
 ## Para niños de 8 a 12 años
 
-<!-- reader:start audience="8-12" estimated_minutes="6.0" -->
+<!-- reader:start audience="8-12" estimated_minutes="7.0" -->
 
 <!-- unit:start id="8-12.explanation" kind="explanation" -->
 
@@ -288,7 +288,7 @@ El sabio dijo: "He venido a hacerte unas preguntas". Él, la paz y las bendicion
 
 El sabio preguntó: "¿Dónde estará la gente el día en que la tierra y los cielos sean cambiados?". Respondió: "En la oscuridad, antes del Puente", es decir, antes de as-Sirat. Luego preguntó: "¿Quiénes serán los primeros en cruzar?". Respondió: "Los pobres de entre los emigrantes".
 
-Y entonces llegó la pregunta que nos interesa: "¿Y cuál será su obsequio de bienvenida cuando entren en el Paraíso?". Respondió: "El lóbulo del hígado del pez". "¿Y cuál será su alimento después?". Respondió: "Se sacrificará para ellos el toro del Paraíso, que pacía en sus confines". "¿Y qué beberán con él?". Respondió: "De una fuente que hay en él, llamada Salsabil". Y el sabio dijo: "Has dicho la verdad".
+Y entonces llegó la pregunta que nos interesa: "¿Y cuál será su obsequio de bienvenida cuando entren en el Paraíso?". Respondió: "El lóbulo del hígado del pez". "¿Y cuál será su alimento después?". Respondió: "Se sacrificará para ellos el toro del Paraíso, que pacía en sus confines". "¿Y qué beberán con él?". Respondió: "De una fuente que hay allí, llamada Salsabil". Y el sabio dijo: "Has dicho la verdad".
 
 Después le preguntó por otra cuestión, y él le respondió. Entonces el sabio dijo: "Ciertamente has dicho la verdad, y eres sin duda un profeta", y se marchó. Y el Profeta, la paz y las bendiciones de Allah sean con él, dijo: "Este hombre me ha preguntado por lo que me ha preguntado, y yo no sabía nada de ello hasta que Allah me lo dio a conocer".[^1]
 
@@ -346,11 +346,11 @@ Su significado: "Oh Allah, haz del Paraíso nuestra acogida y nuestra morada; h�
 
 ## Para adolescentes de 13+
 
-<!-- reader:start audience="13+" estimated_minutes="6.5" -->
+<!-- reader:start audience="13+" estimated_minutes="7.0" -->
 
 <!-- unit:start id="13+.explanation" kind="explanation" -->
 
-Puede que un compañero de otra religión te pregunte, o que alguien deje un comentario bajo una publicación: "¿Y qué van a comer en ese Paraíso suyo?", en tono de examen o de burla. Tienes tres respuestas posibles: saltar y defenderte con fuerza, callarte porque no sabes qué decir, o contestar con calma a partir de una fuente fiable. Esta lección recoge una escena real en la que uno de los sabios judíos vino a poner a prueba al Profeta, la paz y las bendiciones de Allah sean con él, con preguntas sobre lo oculto, entre ellas: ¿qué es lo primero con que se honra a la gente del Paraíso? La respuesta en sí es asombrosa, pero la manera de responder es otra lección igual de importante.
+Puede que un compañero de otra religión te pregunte, o que alguien deje un comentario bajo una publicación: "¿Y qué van a comer en ese Paraíso suyo?", en tono de examen o de burla. Tienes tres respuestas posibles: alterarte y defenderte con vehemencia, callarte porque no sabes qué decir, o contestar con calma a partir de una fuente fiable. Esta lección recoge una escena real en la que uno de los sabios judíos vino a poner a prueba al Profeta, la paz y las bendiciones de Allah sean con él, con preguntas sobre lo oculto, entre ellas: ¿qué es lo primero con que se honra a la gente del Paraíso? La respuesta en sí es asombrosa, pero la manera de responder es otra lección igual de importante.
 
 <!-- unit:end -->
 
@@ -381,7 +381,7 @@ Fíjate en la actitud del Profeta, la paz y las bendiciones de Allah sean con é
 
 El sabio dice: "He venido a hacerte unas preguntas". Y el Profeta, la paz y las bendiciones de Allah sean con él, le pregunta a su vez: "¿Te servirá de algo si te lo cuento?". Es una pregunta que pone al descubierto la intención: ¿preguntas para sacar provecho o para discutir? "Te escucharé con mis propios oídos", responde. El Profeta, la paz y las bendiciones de Allah sean con él, traza unas líneas en el suelo con una ramita y luego dice: "Pregunta".
 
-Las preguntas se suceden. ¿Dónde estará la gente el día en que la tierra sea cambiada? "En la oscuridad, antes del Puente". ¿Quiénes serán los primeros en cruzar? "Los pobres de entre los emigrantes". ¿Cuál será su obsequio de bienvenida cuando entren en el Paraíso? "El lóbulo del hígado del pez". ¿Y su alimento después? "Se sacrificará para ellos el toro del Paraíso, que pacía en sus confines". ¿Y su bebida? "De una fuente que hay en él, llamada Salsabil". Y el sabio dice: "Has dicho la verdad".
+Las preguntas se suceden. ¿Dónde estará la gente el día en que la tierra sea cambiada? "En la oscuridad, antes del Puente". ¿Quiénes serán los primeros en cruzar? "Los pobres de entre los emigrantes". ¿Cuál será su obsequio de bienvenida cuando entren en el Paraíso? "El lóbulo del hígado del pez". ¿Y su alimento después? "Se sacrificará para ellos el toro del Paraíso, que pacía en sus confines". ¿Y su bebida? "De una fuente que hay allí, llamada Salsabil". Y el sabio dice: "Has dicho la verdad".
 
 Después pregunta por otra cuestión que, según dice, nadie en la tierra conoce salvo un profeta, o uno o dos hombres. Recibe la respuesta y dice: "Ciertamente has dicho la verdad, y eres sin duda un profeta". Y se marcha.
 
@@ -494,7 +494,7 @@ Su significado: "Oh Allah, haz del Paraíso la hospitalidad con que nos recibas 
 **Apertura — 3 minutos:** el educador hace como que llama a la puerta, y el niño lo recibe diciendo: "¡Bienvenido, qué alegría!" y ofreciéndole un dátil. Luego le pregunta: «¿Cómo te sentiste al dar el regalo?».
 
 <!-- lesson-plan:evidence -->
-**Lectura del relato — 7 minutos:** el educador lee la explicación y luego el relato, y va levantando tres dedos, uno tras otro, al llegar al regalo, a la comida y a la bebida; el niño las repite con él.
+**Lectura del relato — 7 minutos:** el educador lee la explicación y luego el relato, y va levantando tres dedos, uno tras otro, al llegar al regalo, a la comida y a la bebida; el niño repite esas palabras con él.
 
 <!-- lesson-plan:instruction -->
 **Instrucción guiada — 4 minutos:** el educador pregunta: «¿Qué hizo Zawbán? ¿Y qué dijo el Profeta, la paz y las bendiciones de Allah sean con él?». Y explica que el Profeta, la paz y las bendiciones de Allah sean con él, habló con calma, y que a nosotros nos gusta ser como él con todo el que nos habla.
@@ -503,7 +503,7 @@ Su significado: "Oh Allah, haz del Paraíso la hospitalidad con que nos recibas 
 **Actividad — 7 minutos:** el niño prepara el platito del regalo para un invitado de verdad que vaya a venir, ensaya cómo ofrecerlo y acuerda con su padre o su madre el momento de la visita; después dibuja los tres círculos.
 
 <!-- lesson-plan:assessment -->
-**Evaluación y cierre — 4 minutos:** se observa si el niño ordena los tres tiempos y si sabe quién le enseñó al Profeta, la paz y las bendiciones de Allah sean con él. Después se lee juntos la súplica.
+**Evaluación y cierre — 4 minutos:** se observa si el niño ordena los tres tiempos y si sabe quién le enseñó al Profeta, la paz y las bendiciones de Allah sean con él. Después leen juntos la súplica.
 
 <!-- lesson-plan:differentiation -->
 **Diferenciación:** con los más pequeños basta con las palabras "regalo" y "Salsabil". A los mayores se les pide que cuenten el relato a un hermano en tres frases.
@@ -545,7 +545,7 @@ Su significado: "Oh Allah, haz del Paraíso la hospitalidad con que nos recibas 
 **Diferenciación:** a quienes tengan dificultades se les da una tarjeta con ejemplos ya preparados. A los más avanzados se les pide leer el relato de Abd Allah ibn Salam y escribir en qué se parecen las dos historias.
 
 <!-- lesson-plan:safeguards -->
-**Advertencias pedagógicas:** se habla con respeto de que quien preguntaba era un sabio judío, y no se permite ningún comentario burlón sobre los seguidores de ninguna religión. No se entra en detalles sobre la cuestión del hijo. Se tiene en cuenta a los estudiantes que no pueden invitar a nadie a su casa, y se les permite recibir a un compañero en el colegio.
+**Advertencias pedagógicas:** se menciona con respeto que quien preguntaba era un sabio judío, y no se permite ningún comentario burlón sobre los seguidores de ninguna religión. No se entra en detalles sobre la cuestión del hijo. Se tiene en cuenta a los estudiantes que no pueden invitar a nadie a su casa, y se les permite recibir a un compañero en el colegio.
 
 <!-- lesson-plan:end -->
 
@@ -566,7 +566,7 @@ Su significado: "Oh Allah, haz del Paraíso la hospitalidad con que nos recibas 
 **Apertura — 5 minutos:** el docente muestra un comentario imaginario: "¿Y qué van a comer en ese Paraíso suyo?", y pregunta: «¿Cuál es la primera respuesta que se les ocurre? ¿Y cuál sería la mejor?».
 
 <!-- lesson-plan:evidence -->
-**Estudio de las evidencias — 12 minutos:** se lee el relato deteniéndose en el empujón, en «¿Te servirá de algo?» y en el cierre. Después se lee la definición de nuzul y la aleya de Fussilat.
+**Estudio de las evidencias — 12 minutos:** se lee el relato deteniéndose en el empujón, en «¿Te servirá de algo?» y en el cierre. Después se leen la definición de nuzul y la aleya de Fussilat.
 
 <!-- lesson-plan:instruction -->
 **Instrucción guiada — 10 minutos:** en grupos pequeños se trabaja con las tres tarjetas de diálogo, y para cada una se redacta una respuesta que siga el modelo del relato: calma, una pregunta por la intención, una respuesta basada en una fuente y, cuando haga falta, un "no lo sé".

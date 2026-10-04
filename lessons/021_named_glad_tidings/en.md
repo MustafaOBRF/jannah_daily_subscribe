@@ -30,7 +30,7 @@ After this lesson, the learner will be able to:
 
 ## Academic Section for Adults
 
-<!-- reader:start audience="adults" estimated_minutes="6.5" -->
+<!-- reader:start audience="adults" estimated_minutes="7.0" -->
 
 <!-- unit:start id="adults.explanation" kind="explanation" -->
 
@@ -150,7 +150,7 @@ Fatimah kept her father's secret even when Aishah asked her about it, and the gl
 
 #### Scholarly Explanation
 
-The commentators explain that the meaning is this: Maryam was the best of the women of her time, and Khadijah the best of the women of this ummah in her time; each held a leadership within her own community.
+The commentators explain that the meaning is this: Maryam was the best of the women of her time, and Khadijah the best of the women of this ummah in her time; each was preeminent within her own community.
 
 #### Lesson Explanation
 
@@ -198,7 +198,7 @@ The door did not close after them. `And those who followed them in excellence` i
 
 <!-- activity:start audience="adults" concept_id="lesson.021.activity.doorkeeper-glad-tidings-card" -->
 
-Abu Musa was a doorkeeper who carried glad tidings; he did not invent them. Choose someone in your life (a parent, a spouse, a colleague) in whom you have seen a specific good deed this month, and write them a short, three-line message: exactly what you saw, without exaggeration; why it is a deed Allah loves; and a sincere du'a that Allah make them one of the people of Jannah. Then, in your private notebook, write two lines, "What I witnessed" and "What I only hope for," to train yourself never to blur bearing witness with hoping. Deliver the message this week.
+Abu Musa was a doorkeeper who carried glad tidings; he did not invent them. Choose someone in your life (a parent, a spouse, a colleague) whom you have seen do a specific good deed this month, and write them a short, three-line message: exactly what you saw, without exaggeration; why it is a deed Allah loves; and a sincere du'a that Allah make them one of the people of Jannah. Then, in your private notebook, write two lines, "What I witnessed" and "What I only hope for," to train yourself never to blur bearing witness with hoping. Deliver the message this week.
 
 <!-- activity:end -->
 
@@ -289,7 +289,7 @@ With your mom or dad, pick someone in your family you saw doing something kind t
 
 ## For Children Ages 8 to 12
 
-<!-- reader:start audience="8-12" estimated_minutes="6.0" -->
+<!-- reader:start audience="8-12" estimated_minutes="6.5" -->
 
 <!-- unit:start id="8-12.explanation" kind="explanation" -->
 
@@ -325,13 +325,13 @@ One day Abu Musa made wudu' at home and set out, saying to himself, "I will stic
 
 The Prophet, peace and blessings be upon him, sat on the stone rim, the *quff*, with his legs dangling into the well. Abu Musa greeted him with salam, then went back and sat by the gate, and made a decision: "Today I will be the doorkeeper of the Messenger of Allah, peace and blessings be upon him."
 
-Someone pushed the gate, and Abu Musa asked, "Who is it?" "Abu Bakr." "*'Ala rislik*," he said, which means "Just a moment." He didn't open the gate on his own say-so. Instead he went to the Prophet, peace and blessings be upon him, to ask permission, and the Prophet said: **"Let him in, and give him the glad tidings of Jannah."** So he went back and said, "Come in, and the Messenger of Allah, peace and blessings be upon him, gives you the glad tidings of Jannah." Abu Bakr sat on the Prophet's right, peace and blessings be upon him, and let his legs dangle into the well just as he had.
+Someone pushed the gate, and Abu Musa asked, "Who is it?" "Abu Bakr." "*'Ala rislik*," he said, which means "Just a moment." He didn't open the gate on his own say-so. Instead he went to the Prophet, peace and blessings be upon him, to ask permission, and the Prophet said: **"Let him in, and give him the glad tidings of Jannah."** So he went back and said, "Come in, and the Messenger of Allah, peace and blessings be upon him, gives you the glad tidings of Jannah." Abu Bakr sat at the right of the Prophet, peace and blessings be upon him, and let his legs dangle into the well just as he had.
 
-Abu Musa had left his brother making wudu', planning to catch up with him, so he said, "If Allah wants good for so-and-so, He will bring him." Next came Umar ibn al-Khattab. Abu Musa asked permission for him, the Prophet, peace and blessings be upon him, said the very same words, and Umar sat on his left. Then came Uthman ibn Affan, and the Prophet, peace and blessings be upon him, said: **"Let him in, and give him the glad tidings of Jannah, along with a trial that will befall him."** Uthman came in, found the rim already full, and sat facing them on the other side.[^1]
+Abu Musa had left his brother making wudu', and his brother was going to catch up with him, so he said, "If Allah wants good for so-and-so, He will bring him." Next came Umar ibn al-Khattab. Abu Musa asked permission for him, the Prophet, peace and blessings be upon him, said the very same words, and Umar sat on his left. Then came Uthman ibn Affan, and the Prophet, peace and blessings be upon him, said: **"Let him in, and give him the glad tidings of Jannah, along with a trial that will befall him."** Uthman came in, found the rim already full, and sat facing them on the other side.[^1]
 
 <!-- retelling:end -->
 
-Abu Musa didn't hand out glad tidings based on his own opinion. He carried the Prophet's words exactly, peace and blessings be upon him, and he wished good for his brother. And Uthman was promised Jannah together with a test still to come, which shows that glad tidings don't mean an easy life.
+Abu Musa didn't hand out glad tidings based on his own opinion. He passed on the words of the Prophet, peace and blessings be upon him, exactly as they were said, and he wished good for his brother. And Uthman was promised Jannah together with a test still to come, which shows that glad tidings don't mean an easy life.
 
 <!-- story:end -->
 
@@ -354,7 +354,7 @@ Abu Musa didn't hand out glad tidings based on his own opinion. He carried the P
 
 <!-- activity:start audience="8-12" concept_id="lesson.021.activity.doorkeeper-glad-tidings-card" -->
 
-Be a "doorkeeper of good" this week. Keep an eye on a classmate, a brother, or a sister, and write three lines on a card: (1) one specific, real good deed you saw them do, for example, "I saw you helping our new classmate at recess"; (2) why Allah loves that deed; (3) a du'a: "I ask Allah to make you one of the people of Jannah." The rule: don't exaggerate, and don't write "You're going to Jannah." Write what you saw, and pray for what you hope. Hand over the card, and write in your notebook how it went.
+Be a "doorkeeper of good" this week. Pay attention to a classmate, a brother, or a sister, and write three lines on a card: (1) one specific, real good deed you saw them do, for example, "I saw you helping our new classmate at recess"; (2) why Allah loves that deed; (3) a du'a: "I ask Allah to make you one of the people of Jannah." The rule: don't exaggerate, and don't write "You're going to Jannah." Write what you saw, and pray for what you hope. Give them the card, and write in your notebook how it went.
 
 <!-- activity:end -->
 
@@ -416,9 +416,9 @@ Here is the surprising part: those who were promised Jannah did not treat the pr
 
 Abu Musa's day began with a personal decision. He made wudu' and went out, saying, "I will stick close to the Messenger of Allah, peace and blessings be upon him, and spend this whole day with him." Not finding him at the mosque, he tracked him down to the well of Aris, whose gate was made of palm stalks. The Prophet, peace and blessings be upon him, was sitting on the well's stone rim with his legs dangling into it. Abu Musa greeted him, then chose for himself a role no one had asked him to take: "Today I will be the doorkeeper of the Messenger of Allah, peace and blessings be upon him."
 
-Abu Bakr arrived. "Just a moment," Abu Musa told him, and he did not open the gate until he had asked permission. The answer came: **"Let him in, and give him the glad tidings of Jannah."** He passed it on, and Abu Bakr sat at the Prophet's right, peace and blessings be upon him. In a lull while he waited, Abu Musa remembered the brother he had left making wudu', and said, "If Allah wants good for so-and-so, He will bring him." He wanted the same glad tidings for his brother. Then Umar arrived, received the glad tidings, and sat on the left.
+Abu Bakr arrived. "Just a moment," Abu Musa told him, and he did not open the gate until he had asked permission. The answer came: **"Let him in, and give him the glad tidings of Jannah."** He passed it on, and Abu Bakr sat at the right of the Prophet, peace and blessings be upon him. In a lull while he waited, Abu Musa remembered the brother he had left making wudu', and said, "If Allah wants good for so-and-so, He will bring him." He wanted the same glad tidings for his brother. Then Umar arrived, received the glad tidings, and sat on the left.
 
-Then came Uthman, and this time the answer was different: **"Let him in, and give him the glad tidings of Jannah, along with a trial that will befall him."** Glad tidings and a warning of hardship, in a single sentence. He came in, found the rim full, and sat facing them on the other side. The Successor Sa'id ibn al-Musayyab later read this seating as a sign of their graves: Abu Bakr and Umar were buried beside the Prophet, peace and blessings be upon him, and Uthman was buried somewhere else.[^1][^8]
+Then came Uthman, and this time the answer was different: **"Let him in, and give him the glad tidings of Jannah, along with a trial that will befall him."** Glad tidings and a warning of hardship, in a single sentence. He came in, found the rim full, and sat facing them on the other side. Sa'id ibn al-Musayyab, one of the Successors (the generation after the Companions), later read this seating as a sign of their graves: Abu Bakr and Umar were buried beside the Prophet, peace and blessings be upon him, and Uthman was buried somewhere else.[^1][^8]
 
 <!-- retelling:end -->
 
@@ -446,7 +446,7 @@ Think about it: Abu Musa was not one of those receiving glad tidings in that gat
 
 <!-- activity:start audience="13+" concept_id="lesson.021.activity.doorkeeper-glad-tidings-card" -->
 
-Choose someone who rarely gets praised: a quiet classmate, a younger brother or sister, or a staff member at your school. Write them a private message (on paper or by text, not a public post) that includes a specific good moment you saw from them, the effect it had on you, and a du'a for them to reach Jannah. Then, in your notebook, write two lines for yourself: "What I saw with my own eyes" and "What I hope for them but cannot claim for certain." Send the message within three days, and notice: did you feel something like Abu Musa's joy as he carried glad tidings to someone else?
+Choose someone who rarely gets praised: a quiet classmate, a younger brother or sister, or a staff member at your school. Write them a private message (on paper or by text, not a public post) that includes a specific good deed you saw them do, the effect it had on you, and a du'a for them to reach Jannah. Then, in your notebook, write two lines for yourself: "What I saw with my own eyes" and "What I hope for them but cannot claim for certain." Send the message within three days, and notice: did you feel something like Abu Musa's joy as he carried glad tidings to someone else?
 
 <!-- activity:end -->
 
@@ -494,7 +494,7 @@ Choose someone who rarely gets praised: a quiet classmate, a younger brother or 
 **Studying the Evidence — 20 minutes:** Read the hadith of the well of Aris in full, by a single reader, pausing at three points: Abu Musa's decision to be the doorkeeper, his wish for good for his brother, and the difference in Uthman's glad tidings. Then read briefly the hadiths of the Ten, of al-Hasan and al-Husayn, of Fatimah, and of Maryam and Khadijah, and close with the ayah of at-Tawbah 9:100. After each text, ask: "Who gave the news? And who passed it on?"
 
 <!-- lesson-plan:instruction -->
-**Guided Instruction — 10 minutes:** The teacher and the group fill in the two columns on the board together: names for which a text exists go under "Witness by text," while "a righteous relative of ours who has passed away" and "a famous scholar" go under "Hope." Say: "We love the first group and bear witness for them as revelation did; we hope for the second, and we vouch for no one over Allah's head." Then discuss: why did Uthman's glad tidings come paired with a trial?
+**Guided Instruction — 10 minutes:** The teacher and the group fill in the two columns on the board together: names for which a text exists go under "Witness by text," while "a righteous relative of ours who has passed away" and "a famous scholar" go under "Hope." Say: "We love the first group and bear witness for them as revelation did; we hope for the second, and we vouch for no one before Allah." Then discuss: why did Uthman's glad tidings come paired with a trial?
 
 <!-- lesson-plan:activity -->
 **Activity — 15 minutes:** Participants carry out the "Honest Glad-Tidings Card" activity as described in the activity unit: each writes their message, then the two lines "What I witnessed" and "What I only hope for" in their private notebook. Two volunteers read their messages aloud without naming the recipient.
@@ -518,7 +518,7 @@ Choose someone who rarely gets praised: a quiet classmate, a younger brother or 
 **Learning Outcomes:** The child retells the story using three knocks at the door, names Abu Bakr, Umar, and Uthman, says that it was the Prophet, peace and blessings be upon him, who gave the glad tidings, and makes a card for a family member in whom they saw something good.
 
 <!-- lesson-plan:materials -->
-**Materials:** A small cardboard door, or the door of the room; card stock and child-safe colors; the du'a card in clear handwriting.
+**Materials:** A small cardboard door, or the door of the room; card stock and child-safe crayons or markers; the du'a card in clear handwriting.
 
 <!-- lesson-plan:preparation -->
 **Preparation:** The caregiver practices telling the story in a calm voice with real knocks on the door, and prepares the three names written in large letters. No picture of any Companion or of the Prophet, peace and blessings be upon him, is shown.
@@ -572,7 +572,7 @@ Choose someone who rarely gets praised: a quiet classmate, a younger brother or 
 **Activity — 10 minutes:** Carry out the "Honest Glad-Tidings Card" activity as described in the activity unit. The teacher checks that every card names a specific, real deed, without exaggeration and without any claim of certainty.
 
 <!-- lesson-plan:assessment -->
-**Assessment and Closing — 5 minutes:** Each student writes two names from the Ten, the meaning of "along with a trial that will befall him," and one sentence praying for someone to reach Jannah in the correct form. Then read the du'a.
+**Assessment and Closing — 5 minutes:** Each student writes two names from the Ten, the meaning of "along with a trial that will befall him," and one correctly worded sentence asking Allah to grant someone Jannah. Then read the du'a.
 
 <!-- lesson-plan:differentiation -->
 **Differentiation:** For students who struggle, present the story in four illustrated panels with no faces, and ask for only five of the Ten. Ask advanced students to research one well-known deed of one of the Ten and present it in a minute.

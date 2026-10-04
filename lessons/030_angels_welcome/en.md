@@ -30,7 +30,7 @@ After this lesson, the learner will be able to:
 
 ## Academic Section for Adults
 
-<!-- reader:start audience="adults" estimated_minutes="6.5" -->
+<!-- reader:start audience="adults" estimated_minutes="7.0" -->
 
 <!-- unit:start id="adults.explanation" kind="explanation" -->
 
@@ -60,7 +60,7 @@ This lesson presents a Qur'anic scene from Surah an-Nahl: a question asked about
 
 #### Scholarly Explanation
 
-The hafiz Ibn Kathir, may Allah have mercy on him, said: This is news about the fortunate, in contrast to what Allah reported about the wretched. Those others turned away from answering and said, "Legends of the ancients," while these `say, "Good"`: that is, He sent down good, a mercy, a blessing, and a beautiful thing for whoever follows it. And in ayah 32 Allah tells of their state at the approach of death: that they are *tayyibin*, good and pure, meaning free of shirk, of defilement, and of every evil, and that the angels greet them with peace and give them the glad tidings of Jannah.[^1]
+The hafiz Ibn Kathir, may Allah have mercy on him, said: This is what Allah tells us about the fortunate, in contrast to what He reported about the wretched. Those others turned away from answering and said, "Legends of the ancients," while these `say, "Good"`: that is, He sent down good, a mercy, a blessing, and a beautiful thing for whoever follows it. And in ayah 32 Allah tells of their state at the approach of death: that they are *tayyibin*, good and pure, meaning free of shirk, of defilement, and of every evil, and that the angels greet them with peace and give them the glad tidings of Jannah.[^1]
 
 Al-Baghawi, may Allah have mercy on him, mentions a background to this question: during the pilgrimage season, the Arab tribes would send someone to bring them news of the Prophet, peace and blessings be upon him. On the roads, that envoy would be met by people describing him as a sorcerer, a soothsayer, a poet, a liar, or a madman. And the envoy would say, "I would be the worst envoy ever sent if I went back to my people without entering Makkah and meeting him." So he would enter it, meet the Companions of the Prophet, peace and blessings be upon him, and they would tell him that he was truthful and a Prophet sent by Allah. This is a report the commentators mention as context for the ayah; it is not a hadith with a chain of narration. Al-Baghawi also cites Mujahid on `good and pure` (*tayyibin*): their deeds and their words were pure.[^3] And as-Sa'di, may Allah have mercy on him, said: `Peace be upon you` means the complete greeting and safety from every harm; deeds are the means of entering Jannah, and this came to them through Allah's mercy and generosity, not through their own power and strength.[^4]
 
@@ -118,11 +118,11 @@ The welcome does not end at the gate. The angels visit them after they have sett
 
 <!-- evidence:translation -->
 
-> On the authority of Abu Hurayrah, may Allah be pleased with him, the Prophet, peace and blessings be upon him, said: **"Allah created Adam, and his height was sixty cubits. Then He said: 'Go and greet that group of angels over there with salam, and listen to how they greet you in return, for it will be your greeting and the greeting of your descendants.' So he said: '*As-salamu 'alaykum*' (Peace be upon you). They said: '*As-salamu 'alayka wa rahmatullah*' (Peace be upon you, and the mercy of Allah). So they added for him: 'and the mercy of Allah.' Everyone who enters Jannah will be in the form of Adam, and human stature has kept on diminishing until now."**[^7]
+> On the authority of Abu Hurayrah, may Allah be pleased with him, the Prophet, peace and blessings be upon him, said: **"Allah created Adam, and his height was sixty cubits. Then He said: 'Go and greet that group of angels over there with salam, and listen to how they greet you in return, for it will be your greeting and the greeting of your descendants.' So he said: '*As-salamu 'alaykum*' (Peace be upon you). They said: '*As-salamu 'alayka wa rahmatullah*' (Peace be upon you, and the mercy of Allah). So they gave him more: 'and the mercy of Allah.' Everyone who enters Jannah will be in the form of Adam, and human stature has kept on diminishing until now."**[^7]
 
 #### Scholarly Explanation
 
-Al-Bukhari recorded it in the chapter on the creation of Adam and his descendants, and recorded a similar version in the Book of Asking Permission under the chapter "The Beginning of Salam," thereby treating it as the foundation for the legitimacy of the greeting of salam.[^7]
+Al-Bukhari recorded it in the chapter on the creation of Adam and his descendants, and recorded a similar version in the Book of Asking Permission under the chapter "The Beginning of Salam," thereby making it the basis for the greeting of salam being prescribed.[^7]
 
 #### Lesson Explanation
 
@@ -184,13 +184,13 @@ For seven days, greet with the full salam every time you enter your home, and an
 
 ## For Children Ages 4 to 7
 
-<!-- reader:start audience="4-7" estimated_minutes="5.0" -->
+<!-- reader:start audience="4-7" estimated_minutes="5.5" -->
 
 <!-- unit:start id="4-7.explanation" kind="explanation" -->
 
 When the people of Jannah get there, its gates open wide for them, and the angels say to them, "Peace be upon you!"[^5] And after they move into their beautiful homes, the angels come in to visit them through every door, and they say, "Peace be upon you!"[^6]
 
-And guess what? We say that very same word every day! The first person who ever said it was our father Adam, peace be upon him. Allah told him to say salam to the angels, so he said, "*As-salamu 'alaykum*." And the angels answered, "*As-salamu 'alayka wa rahmatullah*," which means "Peace be upon you, and the mercy of Allah." They gave him back even more lovely words than he gave them![^7]
+And guess what? We say that very same word every day! The first person who ever said it was our father Adam, peace be upon him. Allah told him to say salam to the angels, so he said, "*As-salamu 'alaykum*." And the angels answered, "*As-salamu 'alayka wa rahmatullah*," which means "Peace be upon you, and the mercy of Allah." They gave him back even more lovely words than he had said![^7]
 
 Today we are going to hear a story from the Qur'an about people who said a good word, and the angels welcomed them with salam.
 
@@ -208,7 +208,7 @@ Long, long ago, in Makkah, the Prophet, peace and blessings be upon him, used to
 
 And some people would ask, "What has your Lord sent down?"
 
-They asked some people who did not love the truth, and those people said something that was not true: "That's just old stories from long ago!"[^2]
+They asked some people who did not love the truth, and those people said something that was not true: "Those are just old stories from long ago!"[^2]
 
 Then they asked the believers, the ones who are mindful of Allah and obey Him: "What has your Lord sent down?" And the believers answered with one beautiful word: "Good!" They meant: Allah has sent down good things, mercy, and blessings.[^1]
 
@@ -269,7 +269,7 @@ Practice with your mom or dad saying, "*As-salamu 'alaykum wa rahmatullah*." For
 
 ## For Children Ages 8 to 12
 
-<!-- reader:start audience="8-12" estimated_minutes="6.0" -->
+<!-- reader:start audience="8-12" estimated_minutes="6.5" -->
 
 <!-- unit:start id="8-12.explanation" kind="explanation" -->
 
@@ -388,7 +388,7 @@ The Qur'an tells of a similar question asked fourteen centuries ago, and it ties
 
 **This is a true story from the Noble Qur'an. The part about the pilgrimage season comes from the commentators.**
 
-Picture Makkah in the pilgrimage season: tribes from every corner of Arabia, and each tribe has sent someone to bring back news of this man who says he is a Prophet. Al-Baghawi mentions that a newcomer would find people posted along the roads, ready to greet him with ready-made verdicts: "Sorcerer. Soothsayer. Poet. Liar. Madman. You're better off not meeting him." Full-on pressure, before he had heard a single ayah.
+Picture Makkah in the pilgrimage season: tribes from every corner of Arabia, and each tribe has sent someone to bring back news of this man who says he is a Prophet. Al-Baghawi mentions that a newcomer would find people posted along the roads, waiting to meet him with ready-made verdicts: "Sorcerer. Soothsayer. Poet. Liar. Madman. You're better off not meeting him." Full-on pressure, before he had heard a single ayah.
 
 But some of them refused to carry home a borrowed verdict. One would say, "I'd be the worst envoy ever sent if I went back to my people without entering Makkah and meeting him." So he went in, met the Companions of the Prophet, peace and blessings be upon him, and they told him that he was truthful and a Prophet sent by Allah.[^3]
 
@@ -469,7 +469,7 @@ Privately, choose someone with whom things have gone cool or awkward: a classmat
 **Opening — 5 minutes:** The teacher asks: "Think of the most beautiful welcome you have ever received after a journey or a long absence. What was the first word you heard?" Then: "If you were asked today, in a single sentence, 'What has your Lord sent down?', how would you answer?" The teacher writes down the answers without comment.
 
 <!-- lesson-plan:evidence -->
-**Studying the Evidence — 20 minutes:** Read an-Nahl 16:24, then ayat 30-32 in full, and present al-Baghawi's background account, noting its status (7 minutes). Then az-Zumar 39:73-74 and ar-Ra'd 13:23-24, as the learners fill in the table on the board (7 minutes). Then the hadiths of al-Bukhari 3326 and Muslim 54, pausing at "so they added for him" and at an-Nawawi's commentary (6 minutes).
+**Studying the Evidence — 20 minutes:** Read an-Nahl 16:24, then ayat 30-32 in full, and present al-Baghawi's background account, noting its status (7 minutes). Then az-Zumar 39:73-74 and ar-Ra'd 13:23-24, as the learners fill in the table on the board (7 minutes). Then the hadiths of al-Bukhari 3326 and Muslim 54, pausing at "so they gave him more" and at an-Nawawi's commentary (6 minutes).
 
 <!-- lesson-plan:instruction -->
 **Guided Instruction — 10 minutes:** The teacher leads a discussion of three questions: Why is the answer "Good" paired with the greeting "Peace"? How do we understand the particle *bi-* ("because of," "for") in `because of what you used to do` and `for what you patiently endured` as indicating a cause, not a payment in exchange, as as-Sa'di established? And what is the connection between spreading salam, love, and faith?

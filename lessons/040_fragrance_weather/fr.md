@@ -30,7 +30,7 @@ Au terme de cette leçon, l'apprenant sera capable de :
 
 ## Section Académique Pour Adultes
 
-<!-- reader:start audience="adults" estimated_minutes="6.5" -->
+<!-- reader:start audience="adults" estimated_minutes="7.0" -->
 
 <!-- unit:start id="adults.explanation" kind="explanation" -->
 
@@ -163,7 +163,7 @@ Notez une occasion de bien précise que vous avez réellement manquée : un ent
 
 ## Pour Les Enfants De 4 À 7 Ans
 
-<!-- reader:start audience="4-7" estimated_minutes="5.0" -->
+<!-- reader:start audience="4-7" estimated_minutes="5.5" -->
 
 <!-- unit:start id="4-7.explanation" kind="explanation" -->
 
@@ -213,7 +213,7 @@ Ce que cela veut dire : Anas avait manqué une occasion, mais il ne s'est pas a
 
 1. Qu'est-ce qu'Anas ibn an-Nadr a promis pour la prochaine fois ?
 2. Qu'est-ce qu'Anas a dit à Sa'd près de la montagne d'Uhud ?
-3. Comment fait-il dans la Jannah : trop chaud ? trop froid ? ou toujours bon ?
+3. Quel temps fait-il dans la Jannah : trop chaud ? trop froid ? ou toujours bon ?
 4. Quelle est la meilleure odeur que tu aies jamais sentie ? Le parfum de la Jannah est encore meilleur !
 5. Quelle gentille chose as-tu oublié de faire, que tu voudrais faire la prochaine fois ?
 
@@ -251,7 +251,7 @@ Ce que cela veut dire : Ô Allah, donne-nous le bon parfum de la Jannah et sa j
 
 ## Pour Les Enfants De 8 À 12 Ans
 
-<!-- reader:start audience="8-12" estimated_minutes="6.0" -->
+<!-- reader:start audience="8-12" estimated_minutes="7.0" -->
 
 <!-- unit:start id="8-12.explanation" kind="explanation" -->
 
@@ -358,9 +358,9 @@ Sens de cette invocation : Ô Allah, accorde-nous le parfum de la Jannah et la 
 
 <!-- unit:start id="13+.explanation" kind="explanation" -->
 
-À la récré, quelques élèves se moquent de l'accent d'un nouveau. Tu es là. Tu sais qu'il faudrait dire quelque chose, mais tu te tais. La scène se termine, et une question te reste en travers de la gorge : est-ce que j'ai raté le coche pour de bon ?
+À la récré, quelques élèves se moquent de l'accent d'un nouveau. Tu es là. Tu sais qu'il faudrait dire quelque chose, mais tu te tais. La scène se termine, et une question ne te quitte plus : est-ce que j'ai raté le coche pour de bon ?
 
-Face à une occasion manquée, beaucoup oscillent entre deux réflexes : se flageller jusqu'à en être paralysé, ou tourner la page comme si de rien n'était. Dans cette leçon, un Compagnon a choisi une troisième voie : un engagement sincère pour la fois suivante, dont Allah seul est témoin. Et son histoire contient une phrase sur le parfum de la Jannah qui nous pousse à nous demander : jusqu'où la certitude de l'invisible peut-elle aller, au point qu'on en sente la proximité ?
+Face à une occasion manquée, beaucoup oscillent entre deux réflexes : se flageller jusqu'à en être paralysé, ou tourner la page comme si de rien n'était. Dans cette leçon, un Compagnon a choisi une troisième voie : un engagement sincère pour la fois suivante, dont Allah seul est témoin. Et son histoire contient une phrase sur le parfum de la Jannah qui nous pousse à nous demander : comment la certitude de l'invisible peut-elle devenir si forte qu'on en sente la proximité ?
 
 Parmi les repères que l'on connaît de cet invisible : le parfum de la Jannah se perçoit à quarante années de marche, comme l'a appris le Prophète, paix et bénédictions sur lui, en interdisant de tuer un *mu'ahad* ;[^2] et son air ne connaît ni chaleur accablante ni *zamharir*, ce froid glacial.[^4][^6]
 
@@ -419,7 +419,7 @@ Pour résumer : une occasion manquée, puis un engagement intime avec Allah, pu
 3. Anas a présenté à Allah des excuses pour le recul de ses frères, sans les insulter : qu'en retires-tu ?
 4. Que signifie avoir une certitude de la Jannah si forte qu'on « sent son parfum » ?
 5. Pourquoi le Prophète, paix et bénédictions sur lui, relie-t-il le parfum de la Jannah à la justice envers les non-musulmans ?
-6. Dans quelle situation t'es-tu tu, pour le regretter ensuite ? Et quand pourrait-elle se représenter ?
+6. Dans quelle situation as-tu gardé le silence, avant de le regretter ? Et quand pourrait-elle se représenter ?
 
 <!-- unit:end -->
 
@@ -502,7 +502,7 @@ Sens de cette invocation : Ô Allah, accorde-nous le parfum de la Jannah et la 
 **Matériel :** trois petites boîtes couvertes contenant des odeurs familières (un morceau de pain, une rose ou quelques feuilles de menthe, une écorce d'orange) ; deux feuilles à dessin ; des crayons ; un flacon de parfum manipulé uniquement par l'éducateur ; la carte du du'a.
 
 <!-- lesson-plan:preparation -->
-**Préparation :** l'éducateur s'assure que les odeurs ne présentent aucun risque d'allergie, et s'exerce à raconter le récit sans aucune description du combat ni des blessures, en se contentant du mot « mort en martyr ».
+**Préparation :** l'éducateur s'assure que les odeurs ne présentent aucun risque d'allergie, et s'exerce à raconter le récit sans aucune description du combat ni des blessures, en se contentant de l'expression « mort en martyr ».
 
 <!-- lesson-plan:opening -->
 **Ouverture — 4 minutes :** les yeux fermés, l'enfant sent les boîtes et devine ce qu'elles contiennent. L'éducateur dit : « Tu as reconnu la chose à son odeur, avant même de la voir ! »

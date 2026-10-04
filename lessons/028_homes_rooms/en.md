@@ -30,13 +30,13 @@ By the end of this lesson, the learner will be able to:
 
 ## Academic Section for Adults
 
-<!-- reader:start audience="adults" estimated_minutes="6.5" -->
+<!-- reader:start audience="adults" estimated_minutes="7.0" -->
 
 <!-- unit:start id="adults.explanation" kind="explanation" -->
 
-We all know the moment. You come home worn out from a long journey, turn into your neighborhood, and walk straight to your own door without reading a single sign or asking anyone the way. Yet that knowledge did not arrive all at once. Anyone who has moved into a new house remembers how many days it took before the way home became second nature. Even so, the Prophet, peace and blessings be upon him, swore that a believer will know the way to his home in Jannah better than he knew the way to the home he lived in all his life in this world.
+We all know that moment. You come home worn out from a long journey, turn into your neighborhood, and walk straight to your own door without reading a single sign or asking anyone the way. Yet that knowledge did not arrive all at once. Anyone who has moved into a new house remembers how many days it took before the way home became second nature. Even so, the Prophet, peace and blessings be upon him, swore that a believer will know the way to his home in Jannah better than he knew the way to the home he lived in all his life in this world.
 
-This lesson pauses on that one idea alone: how do the people of Jannah come to know their homes? Three texts answer the question: the ayah of Surah Muhammad, "and admit them into Jannah, which He has made known to them"; the hadith of Abu Sa'id al-Khudri, may Allah be pleased with him, in Sahih al-Bukhari; and the ayah of at-Tawbah, which describes the believers' dwellings as "fine." Taken together, they yield three truths:
+This lesson dwells on that one idea alone: how do the people of Jannah come to know their homes? Three texts answer the question: the ayah of Surah Muhammad, "and admit them into Jannah, which He has made known to them"; the hadith of Abu Sa'id al-Khudri, may Allah be pleased with him, in Sahih al-Bukhari; and the ayah of at-Tawbah, which describes the believers' dwellings as "fine." Taken together, they yield three truths:
 
 1. **This knowledge is a gift, not an achievement:** The people of Jannah do not learn its paths by repetition, the way we learn the streets of our cities. It is Allah who makes their homes known to them, so there is no confusion, no asking, and no feeling of being a stranger.
 2. **The making-known begins in this world:** Allah has described Jannah to His servants, stirred their longing for it, and shown them the deeds that lead there. Whoever knows its description today knows where they are heading.
@@ -68,7 +68,7 @@ As-Sa'di brought two meanings together: Allah first made Jannah known to them by
 
 #### Lesson Explanation
 
-The context of these ayat concerns those killed in the cause of Allah, yet at-Tabari and Ibn Kathir both cite here the hadith of Abu Sa'id, which applies to all the believers. Knowing one's home, then, is an honor for every one of the people of Jannah. In the ayah it comes after two forms of guidance: being guided along the way, and having one's condition set right. Then comes the crown of it all: a home where no one is a stranger.
+These ayat speak of those killed in the cause of Allah, yet at-Tabari and Ibn Kathir both cite here the hadith of Abu Sa'id, which applies to all the believers. Knowing one's home, then, is an honor for every one of the people of Jannah. In the ayah it comes after two forms of guidance: being guided along the way, and having one's condition set right. Then comes the crown of it all: a home where no one is a stranger.
 
 <!-- evidence:end -->
 
@@ -114,7 +114,7 @@ This ayah is an example of the "first making-known" that as-Sa'di described: a d
 
 ### How Do These Texts Fit Together?
 
-The ayah of at-Tawbah describes the dwellings before they are seen; the ayah of Surah Muhammad promises that Allah will make them known to their people; and the hadith of Abu Sa'id swears that this knowing will be more complete than our knowledge of our own homes, and shows that it comes only after hearts have been purified. In this world, then, knowing Jannah means a description to be sought out and reflected upon; in the Hereafter, it is a gift that is simply given.
+The ayah of at-Tawbah describes the dwellings before they are seen; the ayah of Surah Muhammad promises that Allah will make them known to their people; and the hadith of Abu Sa'id swears that this knowing will be more complete than our knowledge of our own homes, and shows that it comes only after hearts have been purified. In this world, then, this knowledge comes through a description to be sought out and reflected upon; in the Hereafter, it is a gift freely given.
 
 <!-- unit:end -->
 
@@ -126,7 +126,7 @@ The ayah of at-Tawbah describes the dwellings before they are seen; the ayah of 
 2. How did as-Sa'di reconcile the making-known in this world with the making-known at the moment of entry?
 3. Why does the permission to enter come, in the hadith, after the purification from wrongs and not before it?
 4. What purpose does the Prophet's oath serve in a report about the unseen such as this one?
-5. What do you know today of the description of the dwellings whose people you ask Allah to make you one of?
+5. What do you already know of the description of the dwellings in which you ask Allah to give you a place?
 
 <!-- unit:end -->
 
@@ -148,7 +148,7 @@ Write a description of your home using five distinctive landmarks, without the s
 
 ## For Children Ages 4 to 7
 
-<!-- reader:start audience="4-7" estimated_minutes="5.0" -->
+<!-- reader:start audience="4-7" estimated_minutes="6.0" -->
 
 <!-- unit:start id="4-7.explanation" kind="explanation" -->
 
@@ -192,7 +192,7 @@ That night, Zaynab raised her hands and said, "O Allah, let me into Jannah, and 
 
 The Prophet, peace and blessings be upon him, told us about the Day of Resurrection. When Allah saves the believers from the Fire, they stop at a bridge just before Jannah. There, everyone gets back what is fair from anyone who treated them unfairly in this world, until there is no unfairness left between them, and their hearts become clean and good. Then Allah lets them go into Jannah.
 
-And the Prophet, peace and blessings be upon him, made a promise by Allah. He said that each one of them knows the way to his home in Jannah better than he knew the way to his home in this world.[^2]
+And the Prophet, peace and blessings be upon him, swore an oath. He said that each one of them knows the way to his home in Jannah better than he knew the way to his home in this world.[^2]
 
 So nobody in Jannah gets lost, and nobody has to go looking for their home.
 
@@ -249,11 +249,11 @@ What it means, simply: O Allah, just as we know the way to our home here, let us
 
 ## For Children Ages 8 to 12
 
-<!-- reader:start audience="8-12" estimated_minutes="5.5" -->
+<!-- reader:start audience="8-12" estimated_minutes="7.0" -->
 
 <!-- unit:start id="8-12.explanation" kind="explanation" -->
 
-When a family moves house, it takes days to learn the way home by heart. Jannah is different. Allah says of the believers: "and He will admit them into Jannah, which He has made known to them."[^1] The Qur'an commentator Mujahid explained that its people find their way to their houses and homes without a single mistake, as if they had lived there since the day they were created, never asking anyone for directions.[^4] Some scholars added that Allah is already making Jannah known to us now, by describing it in the Qur'an, making us long for it, and showing us the deeds that lead there.[^6]
+When a family moves, it takes days to learn the way home by heart. Jannah is different. Allah says of the believers: "and He will admit them into Jannah, which He has made known to them."[^1] The Qur'an commentator Mujahid explained that its people find their way to their houses and dwellings without a single mistake, as if they had lived there since the day they were created, never asking anyone for directions.[^4] Some scholars added that Allah is already making Jannah known to us now, by describing it in the Qur'an, making us long for it, and showing us the deeds that lead there.[^6]
 
 <!-- unit:end -->
 
@@ -269,7 +269,7 @@ Ammar's family had moved to a new neighborhood two months ago, and his grandpa w
 
 Ammar opened the map on his phone: dead battery. He looked around. Every street looked the same, and so did every house. "Which way, champ?" asked Grandpa.
 
-Ammar's face went hot. He thought about marching off confidently anywhere so Grandpa wouldn't know he was lost. But he stopped and said honestly, "Grandpa, give me a minute to remember."
+Ammar's face went hot. He thought about striding off in any direction so Grandpa wouldn't know he was lost. But he stopped and said honestly, "Grandpa, give me a minute to remember."
 
 He closed his eyes and recalled his mom's words on moving day: "After the pharmacy with the green cross, we turn right, and our brown door is next to the lemon tree." He remembered things he had noticed himself, day after day: the wall with a bird painted on it, the red bike outside the neighbors' house. Step by step, reading the landmarks one by one, he led the way to the brown door.
 
@@ -323,7 +323,7 @@ Notice two things: the believers reach their homes only with clean hearts free o
 
 ### Understanding and Reflection Questions
 
-1. What easy way out did Ammar consider when he lost the way? Why was honesty better?
+1. What easy way out did Ammar consider when he lost his way? Why was honesty better?
 2. How did Ammar find his house without a map? How is that different from a believer knowing his home in Jannah?
 3. What happens to the believers on the bridge (*qantarah*) before they enter Jannah?
 4. Name one thing the ayah of at-Tawbah tells us about the dwellings of Jannah.
@@ -367,7 +367,7 @@ What it means: O Allah, as You guided us home today, bring us into the Jannah Yo
 
 ## For Teens, Ages 13+
 
-<!-- reader:start audience="13+" estimated_minutes="6.0" -->
+<!-- reader:start audience="13+" estimated_minutes="7.0" -->
 
 <!-- unit:start id="13+.explanation" kind="explanation" -->
 
@@ -389,7 +389,7 @@ That night, Dana put a post together: a gorgeous photo of a city she had lived i
 
 She froze. "I'm looking for somewhere to belong," she thought, "and I'm buying it with a borrowed photo?" She didn't delete it right away; she hesitated a long time, then deleted it. In its place she wrote: "I've lived in three cities, and each one taught me something. I'm still learning where I belong."
 
-The next morning, not everything had changed. One classmate mocked it; another ignored it. But a new girl in the class, who had also moved from another country, messaged her: "I'm exactly like you." At break, the two of them sat together.
+The next morning, not everything had changed. One classmate sneered; another ignored it. But a new girl in the class, who had also moved from another country, messaged her: "I'm just like you." At break, the two of them sat together.
 
 At home, her mom said, "Loving the cities you've lived in isn't wrong, and missing them is natural. But the home we're hoping for is one where we won't need a map, or need to convince anyone." So Dana wrote in her private journal: "I don't want to lie in order to belong. I want to know what the home I'm hoping for is like." Then she began reading one ayah a day describing Jannah, copying each under the heading: "The Home Where No One Is a Stranger."
 
@@ -407,9 +407,9 @@ At home, her mom said, "Loving the cities you've lived in isn't wrong, and missi
 
 **This is a true report that Abu Sa'id al-Khudri, may Allah be pleased with him, narrated from the Prophet, peace and blessings be upon him, and it is recorded in Sahih al-Bukhari. It is not an imagined scene.**
 
-The Prophet, peace and blessings be upon him, describes a scene on the Day of Resurrection. The believers have been saved from the Fire, but they do not walk straight into Jannah. They are held back on a bridge between Jannah and the Fire, where the wrongs between them in this world are settled in full: a word that wounded, a right that was swallowed up, an injustice its victim kept quiet about. Only once they have been "refined and purified" are they given permission to enter. Then he swears, peace and blessings be upon him: **«فَوَالَّذِي نَفْسُ مُحَمَّدٍ بِيَدِهِ، لَأَحَدُهُمْ أَهْدَى بِمَنْزِلِهِ فِي الْجَنَّةِ مِنْهُ بِمَنْزِلِهِ كَانَ فِي الدُّنْيَا»**, that is: **"By Him in whose hand is the soul of Muhammad, each one of them will know the way to his home in Jannah better than he knew the way to his home in this world."**[^2]
+The Prophet, peace and blessings be upon him, describes a scene on the Day of Resurrection. The believers have been saved from the Fire, but they do not walk straight into Jannah. They are held back on a bridge between Jannah and the Fire, where the wrongs between them in this world are settled in full: a word that wounded, a right that was taken away, an injustice its victim kept quiet about. Only once they have been "refined and purified" are they given permission to enter. Then he swears, peace and blessings be upon him: **«فَوَالَّذِي نَفْسُ مُحَمَّدٍ بِيَدِهِ، لَأَحَدُهُمْ أَهْدَى بِمَنْزِلِهِ فِي الْجَنَّةِ مِنْهُ بِمَنْزِلِهِ كَانَ فِي الدُّنْيَا»**, that is: **"By Him in whose hand is the soul of Muhammad, each one of them will know the way to his home in Jannah better than he knew the way to his home in this world."**[^2]
 
-Think about the order: purification before home. No one enters their home there while holding a wrong done to another, or while another still has a claim against them. Then comes complete knowing: no one needs to ask, and no one needs to prove they belong. This is what Mujahid understood from Allah's words "which He has made known to them": "as if they had lived there since the day they were created."[^4]
+Think about the order: purification before home. No one enters their home there while still guilty of wronging someone, or while someone still has a claim against them. Then comes complete knowing: no one needs to ask, and no one needs to prove they belong. This is what Mujahid understood from Allah's words "which He has made known to them": "as if they had lived there since the day they were created."[^4]
 
 <!-- retelling:end -->
 
@@ -518,10 +518,10 @@ This du'a links a blessing we live every night, coming home, with the hope of a 
 ### Children Ages 4-7 — 25 Minutes
 
 <!-- lesson-plan:outcomes -->
-**Learning Outcomes:** The child says that the people of Jannah know their homes there because Allah makes them known to them, picks out the door of their own home from their drawing among other drawings, and repeats the lesson's du'a.
+**Learning Outcomes:** The child says that the people of Jannah know their homes there because Allah makes them known to them, picks out the drawing of their own door from among other drawings, and repeats the lesson's du'a.
 
 <!-- lesson-plan:materials -->
-**Materials:** Paper and crayons; three cards of the same size for the doors; a picture or drawing of a short route with a tree, a bakery, and a green door; the du'a card in clear, large writing.
+**Materials:** Paper and crayons; three cards of the same size for the doors; a picture or drawing of a short route with a tree, a bakery, and a green door; the du'a card, clearly written.
 
 <!-- lesson-plan:preparation -->
 **Preparation:** The educator practices telling Zaynab's story in a calm voice, draws two different doors in advance to be mixed in with the child's door, and sets up a simple path in the room with three landmarks (a cushion, a chair, a toy) for the "Guide" game.
@@ -617,7 +617,7 @@ This du'a links a blessing we live every night, coming home, with the hope of a 
 **Differentiation:** Students who are uncomfortable writing may make a private voice recording instead. Advanced students are asked to present the three views on the meaning of "which He has made known to them" and explain which is preferred.
 
 <!-- lesson-plan:safeguards -->
-**Teaching Cautions:** No student should be asked to reveal anything about their migration, housing, or family circumstances in front of the group. The lesson must not be taken as belittling love of one's homeland or family, nor as a call to withdraw from friends. Any student who shows signs of bullying or severe isolation should be referred for a one-to-one conversation and to the person responsible for safeguarding in the institution.
+**Teaching Cautions:** No student should be asked to reveal anything about their migration, housing, or family circumstances in front of the group. The lesson must not be taken as belittling love of one's homeland or family, nor as a call to withdraw from friends. Any student who shows signs of bullying or severe isolation should be referred for a one-on-one conversation and to the person responsible for child protection in the institution.
 
 <!-- lesson-plan:end -->
 

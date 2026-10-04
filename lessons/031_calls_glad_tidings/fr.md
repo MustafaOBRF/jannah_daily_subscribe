@@ -24,13 +24,13 @@ Au terme de cette leçon, l'apprenant sera capable de :
 - réciter dans son intégralité le hadith de Muslim (2837) : « Un crieur proclamera : il vous est donné d'être en bonne santé, et vous ne tomberez plus jamais malades… », en énumérer les quatre bonnes nouvelles — une santé sans maladie, une vie sans mort, une jeunesse sans décrépitude, une félicité sans misère — et citer le verset auquel il est rattaché à la fin (al-A'raf 7:43) ;
 - ordonner trois appels rapportés par les textes : l'appel de la sécurité, « Ô Mes serviteurs, nulle crainte sur vous aujourd'hui, et vous ne serez point affligés » (az-Zukhruf 43:68) ; l'appel de la félicitation, « Et il leur sera proclamé : “Voici la Jannah qui vous a été donnée en héritage pour ce que vous faisiez” » (al-A'raf 7:43) ; puis le contenu de l'appel dans le hadith de Muslim ;
 - expliquer le sens de « l'héritage par les œuvres » à la lumière d'Ibn Kathir et d'as-Sa'di : l'œuvre pieuse est la cause par laquelle on obtient la miséricorde d'Allah, les demeures diffèrent selon les œuvres, et l'entrée elle-même est une grâce d'Allah ;
-- distinguer la bonne nouvelle véridique que porte le mot « jamais » dans l'annonce de l'au-delà, de l'exagération des promesses d'ici-bas, qui ne maîtrisent pas la durée ;
+- distinguer la bonne nouvelle véridique que porte le mot « jamais » dans l'annonce de l'au-delà, de l'exagération des promesses d'ici-bas, qui ne peuvent garantir aucune permanence ;
 - réaliser l'activité « L'enveloppe scellée par la bonne nouvelle » : répartir ce qui pèse sur le cœur — maladie, faiblesse, tristesse, peur de perdre un être cher — dans des enveloppes portant les mots de l'appel, puis accomplir un geste réel de miséricorde envers une personne qui vit aujourd'hui l'une de ces situations ;
 - retenir l'invocation de cette leçon, qui demande à Allah la bonne santé ici-bas, une place parmi les gens de la Jannah qui y sont en bonne santé sans jamais tomber malades, et Son aide pour accomplir les œuvres par lesquelles on en hérite.
 
 ## Section Académique Pour Adultes
 
-<!-- reader:start audience="adults" estimated_minutes="6.5" -->
+<!-- reader:start audience="adults" estimated_minutes="7.0" -->
 
 <!-- unit:start id="adults.explanation" kind="explanation" -->
 
@@ -112,13 +112,13 @@ Observez l'ordre du verset : les rancunes sont d'abord arrachées des poitrines
 
 #### Explication De La Leçon
 
-Le hadith ne précise pas qui est ce crieur : nous ne le désignons donc pas sans preuve. Les quatre bonnes nouvelles répondent à quatre portes de l'inquiétude que tout être humain connaît : le corps tombe malade, la vie prend fin, la force se fane, l'existence se resserre. Cet appel ne minimise en rien la douleur de celui qui est malade, âgé ou endeuillé aujourd'hui ; il lui ouvre au contraire un horizon véridique, que nulle promesse de ce monde ne peut offrir.
+Le hadith ne précise pas qui est ce crieur : nous ne le désignons donc pas sans preuve. Les quatre bonnes nouvelles répondent à quatre portes de l'inquiétude que tout être humain connaît : le corps tombe malade, la vie prend fin, la force se fane, la vie matérielle se fait dure. Cet appel ne minimise en rien la douleur de celui qui est malade, âgé ou endeuillé aujourd'hui ; il lui ouvre au contraire un horizon véridique, que nulle promesse de ce monde ne peut offrir.
 
 <!-- evidence:end -->
 
 ### Comment Ces Textes S'articulent-ils ?
 
-L'appel d'az-Zukhruf met les serviteurs à l'abri de la crainte et de la tristesse et leur donne la permission d'entrer ; l'appel d'al-A'raf les félicite de leur héritage, une fois leurs poitrines purifiées et leur Seigneur loué ; et le hadith de Muslim détaille le contenu de la bonne nouvelle en quatre bienfaits qui ne cessent jamais. Les trois textes se rejoignent sur deux points : la permanence ne peut être promise en vérité que dans l'au-delà, et l'œuvre d'aujourd'hui est la cause qu'Allah a faite chemin vers cet héritage.
+L'appel d'az-Zukhruf met les serviteurs à l'abri de la crainte et de la tristesse et leur donne la permission d'entrer ; l'appel d'al-A'raf les félicite de leur héritage, une fois leurs poitrines purifiées et leur Seigneur loué ; et le hadith de Muslim détaille le contenu de la bonne nouvelle en quatre bienfaits qui ne cessent jamais. Les trois textes se rejoignent sur deux points : la permanence ne peut être promise en vérité que dans l'au-delà, et l'œuvre d'aujourd'hui est la cause dont Allah a fait le chemin de cet héritage.
 
 <!-- unit:end -->
 
@@ -152,7 +152,7 @@ Préparez quatre enveloppes et inscrivez sur chacune une formule de l'appel : �
 
 ## Pour Les Enfants De 4 À 7 Ans
 
-<!-- reader:start audience="4-7" estimated_minutes="5.0" -->
+<!-- reader:start audience="4-7" estimated_minutes="6.0" -->
 
 <!-- unit:start id="4-7.explanation" kind="explanation" -->
 
@@ -258,7 +258,7 @@ Ce qu'elle veut dire, tout simplement : Ô Allah, protège-nous de la maladie i
 
 ## Pour Les Enfants De 8 À 12 Ans
 
-<!-- reader:start audience="8-12" estimated_minutes="5.5" -->
+<!-- reader:start audience="8-12" estimated_minutes="7.0" -->
 
 <!-- unit:start id="8-12.explanation" kind="explanation" -->
 
@@ -274,7 +274,7 @@ Une bonne nouvelle (*bisharah*), c'est une nouvelle qui met le cœur en joie. Ic
 
 **Ceci est une histoire éducative imaginée, et non un hadith ni un récit historique.**
 
-L'équipe de l'école venait de remporter la coupe du championnat, et Hamza, élève de sixième, avait été choisi pour l'annoncer au micro le lendemain matin. Ses coéquipiers se pressaient autour de lui, et Ziyad lança : « Écris : “On est les champions pour toujours, et leur équipe restera nulle pour toujours !” » Tout le monde éclata de rire, et Hamza l'écrivit.
+L'équipe de l'école venait de remporter la coupe du championnat, et Hamza, élève de CM2, avait été choisi pour l'annoncer au micro le lendemain matin. Ses coéquipiers se pressaient autour de lui, et Ziyad lança : « Écris : “On est les champions pour toujours, et leur équipe restera nulle pour toujours !” » Tout le monde éclata de rire, et Hamza l'écrivit.
 
 Le soir, M. Kamal relut les textes de l'annonce. Il ne raya rien ; il écrivit seulement une question, au stylo vert : « “Pour toujours” : est-ce vrai, ici ? À toi de décider. »
 
@@ -302,7 +302,7 @@ Le lendemain, au micro, Hamza dit : « Bravo à notre équipe pour la coupe de
 
 Le Prophète, paix et bénédictions sur lui, a annoncé qu'un crieur appellera les gens de la Jannah avec quatre bonnes nouvelles : il vous est donné d'être en bonne santé, et vous ne tomberez plus jamais malades ; de vivre, et vous ne mourrez plus jamais ; de rester jeunes, et vous ne deviendrez plus jamais vieux et faibles ; de vivre dans les délices, sans plus jamais connaître ni misère ni peine. Le hadith rappelle ensuite la parole d'Allah, exalté soit-Il : « Et il leur sera proclamé : “Voici la Jannah qui vous a été donnée en héritage pour ce que vous faisiez.” »[^7]
 
-Remarque deux choses : chaque bonne nouvelle efface une crainte de ce monde ; et le hadith relie cet appel aux bonnes œuvres, qu'Allah a faites cause pour obtenir Sa miséricorde.
+Remarque deux choses : chaque bonne nouvelle efface une crainte de ce monde ; et le hadith relie cet appel aux bonnes œuvres, dont Allah a fait le moyen d'obtenir Sa miséricorde.
 
 <!-- retelling:end -->
 
@@ -317,7 +317,7 @@ Remarque deux choses : chaque bonne nouvelle efface une crainte de ce monde ; 
 - **`Tasqamu (tomber malade)`** — de *as-saqam*, la maladie.
 - **`Tahramu (devenir décrépit)`** — de *al-haram*, la faiblesse du corps qui vient avec le grand âge.
 - **`Tabta'isu (connaître la misère)`** — de *al-bu's*, la détresse, la vie difficile et la tristesse.
-- **`Uwrithtumuha (elle vous a été donnée en héritage)`** — elle vous a été donnée pour de bon, comme un héritage ; et vos bonnes œuvres ont été la cause pour obtenir la miséricorde d'Allah.[^6]
+- **`Urithtumuha (elle vous a été donnée en héritage)`** — elle vous a été donnée pour de bon, comme un héritage ; et vos bonnes œuvres ont été la cause qui vous a valu la miséricorde d'Allah.[^6]
 
 <!-- terminology:end -->
 
@@ -371,7 +371,7 @@ Son sens : Ô Allah, accorde-nous la bonne santé ici-bas, place-nous parmi les
 
 ## Pour Les Adolescents, 13 Ans Et Plus
 
-<!-- reader:start audience="13+" estimated_minutes="6.0" -->
+<!-- reader:start audience="13+" estimated_minutes="7.0" -->
 
 <!-- unit:start id="13+.explanation" kind="explanation" -->
 
@@ -415,7 +415,7 @@ Dans son carnet personnel, elle écrit : « Le mot “jamais” est un dépôt
 
 Le Prophète, paix et bénédictions sur lui, annonce qu'un crieur appellera les gens de la Jannah pour leur annoncer quatre bonnes nouvelles, chacune scellée par le mot « jamais » : une santé que nulle maladie ne viendra suivre, une vie que nulle mort ne viendra suivre, une jeunesse que nulle décrépitude ne viendra suivre, une félicité que nulle misère ne viendra suivre. Le hadith rappelle ensuite la parole d'Allah, exalté soit-Il : « Et il leur sera proclamé : “Voici la Jannah qui vous a été donnée en héritage pour ce que vous faisiez.” »[^7]
 
-Réfléchis : les quatre choses sur lesquelles reposent aujourd'hui tant d'angoisses et tant de publicités — la santé, la durée de la vie, la jeunesse et l'aisance — sont exactement celles que l'appel vient garantir. La différence, c'est que la publicité te vend un « jamais » qu'elle ne possède pas, tandis que l'appel te le promet de la part de Celui qui le possède. Ibn Kathir a expliqué que l'œuvre pieuse est une cause pour obtenir la miséricorde, et que les demeures diffèrent selon les œuvres.[^6]
+Réfléchis : les quatre choses sur lesquelles reposent aujourd'hui tant d'angoisses et tant de publicités — la santé, la durée de la vie, la jeunesse et l'aisance — sont exactement celles que l'appel vient garantir. La différence, c'est que la publicité te vend un « jamais » qu'elle ne possède pas, tandis que l'appel te le promet de la part de Celui qui le possède. Ibn Kathir a expliqué que l'œuvre pieuse est une cause qui fait obtenir la miséricorde, et que les demeures diffèrent selon les œuvres.[^6]
 
 <!-- retelling:end -->
 
@@ -453,7 +453,7 @@ Réfléchis : les quatre choses sur lesquelles reposent aujourd'hui tant d'ango
 
 <!-- activity:start audience="13+" concept_id="lesson.031.activity.sealed-with-the-call" -->
 
-Inscris sur quatre enveloppes les quatre formules de l'appel tirées du hadith. Sur de petits papiers, et sans que personne ne les voie, écris tes vraies peurs : la santé, la perte d'un proche, l'image de ton corps, ton avenir matériel. Glisse chaque papier dans son enveloppe et ferme-la, sans que personne ne la lise. Choisis ensuite une enveloppe, pense à une personne qui vit aujourd'hui cette situation, et offre-lui dans la semaine quelque chose de réel : du temps passé avec un proche âgé, un message à un ami malade, ou un coup de main à quelqu'un qui traverse une période difficile. Pour finir, écris un court paragraphe : qu'est-ce que l'appel change dans ta manière de vivre cette peur ?
+Inscris sur quatre enveloppes les quatre formules de l'appel tirées du hadith. En secret, sur de petits papiers, écris tes vraies peurs : la santé, la perte d'un proche, l'image de ton corps, ton avenir matériel. Glisse chaque papier dans son enveloppe et ferme-la, sans que personne ne la lise. Choisis ensuite une enveloppe, pense à une personne qui vit aujourd'hui cette situation, et offre-lui dans la semaine quelque chose de réel : du temps passé avec un proche âgé, un message à un ami malade, ou un coup de main à quelqu'un qui traverse une période difficile. Pour finir, écris un court paragraphe : qu'est-ce que l'appel change dans ta manière de vivre cette peur ?
 
 <!-- activity:end -->
 
@@ -512,7 +512,7 @@ Cette invocation réunit la demande de bonne santé ici-bas, qui est légitime, 
 **Évaluation et clôture — 10 minutes :** chaque apprenant écrit de mémoire les quatre bonnes nouvelles, ainsi qu'une phrase expliquant l'héritage par les œuvres, en l'attribuant à un exégète. L'enseignant conclut en invitant ceux qui le souhaitent à partager leurs deux lignes au bout de trois jours.
 
 <!-- lesson-plan:differentiation -->
-**Différenciation :** pour les débutants, s'en tenir au hadith de Muslim et au verset d'al-A'raf. Demander aux apprenants avancés de comparer le rattachement du hadith au verset d'al-A'raf chez Muslim et au verset d'az-Zukhruf chez at-Tirmidhi, et d'exposer la remarque d'at-Tirmidhi sur la version arrêtée à un Compagnon ou à un rapporteur (*mawquf*).
+**Différenciation :** pour les débutants, s'en tenir au hadith de Muslim et au verset d'al-A'raf. Demander aux apprenants avancés de comparer le rattachement du hadith au verset d'al-A'raf chez Muslim et au verset d'az-Zukhruf chez at-Tirmidhi, et d'exposer la remarque d'at-Tirmidhi sur la version non remontée jusqu'au Prophète (*mawquf*).
 
 <!-- lesson-plan:safeguards -->
 **Précautions pédagogiques :** ne pas identifier le crieur du hadith sans preuve. Ne jamais affirmer avec certitude qu'une personne déterminée fait partie des gens de la Jannah. Ne pas demander à un participant malade ou récemment endeuillé de révéler le contenu de son enveloppe. Dans son chapitre sur « le crieur de la Jannah », Ibn al-Qayyim rassemble des hadiths authentiques et des récits faibles, dont un récit attribué à Abu Musa al-Ash'ari qui repose sur un rapporteur abandonné (*matruk*) : on ne présentera donc que ce qui est établi.[^8] L'égorgement de la mort et l'appel à l'éternité sont laissés à la leçon suivante, et l'appel de l'agrément divin et de la vision d'Allah à leurs leçons respectives.
@@ -635,7 +635,7 @@ Cette invocation réunit la demande de bonne santé ici-bas, qui est légitime, 
 
 [^1]: Le Noble Coran, sourate az-Zukhruf, versets 68-73 : [quran.com/43/68-73](https://quran.com/43/68-73). La traduction française proposée dans cette leçon est une traduction du sens propre au projet.
 [^2]: As-Sa'di, *Taysir al-Karim ar-Rahman fi Tafsir Kalam al-Mannan*, commentaire de la sourate az-Zukhruf, verset 68 : [quran.ksu.edu.sa/tafseer/saadi/sura43-aya68.html](https://quran.ksu.edu.sa/tafseer/saadi/sura43-aya68.html).
-[^3]: Ibn Kathir, *Tafsir al-Qur'an al-'Azim*, commentaire de la sourate az-Zukhruf, versets 69-72, où figurent la parole d'al-Mu'tamir ibn Sulayman d'après son père Sulayman at-Taymi (récit *maqtu'* : parole d'un Successeur, et non hadith remontant au Prophète), ainsi que l'explication de *tuhbarun* et de *uwrithtumuha* : [quran.ksu.edu.sa/tafseer/katheer/sura43-aya69.html](https://quran.ksu.edu.sa/tafseer/katheer/sura43-aya69.html), [quran.ksu.edu.sa/tafseer/katheer/sura43-aya70.html](https://quran.ksu.edu.sa/tafseer/katheer/sura43-aya70.html), [quran.ksu.edu.sa/tafseer/katheer/sura43-aya72.html](https://quran.ksu.edu.sa/tafseer/katheer/sura43-aya72.html).
+[^3]: Ibn Kathir, *Tafsir al-Qur'an al-'Azim*, commentaire de la sourate az-Zukhruf, versets 69-72, où figurent la parole d'al-Mu'tamir ibn Sulayman d'après son père Sulayman at-Taymi (récit *maqtu'* : parole d'un Successeur, et non hadith remontant au Prophète), ainsi que l'explication de *tuhbarun* et de *urithtumuha* : [quran.ksu.edu.sa/tafseer/katheer/sura43-aya69.html](https://quran.ksu.edu.sa/tafseer/katheer/sura43-aya69.html), [quran.ksu.edu.sa/tafseer/katheer/sura43-aya70.html](https://quran.ksu.edu.sa/tafseer/katheer/sura43-aya70.html), [quran.ksu.edu.sa/tafseer/katheer/sura43-aya72.html](https://quran.ksu.edu.sa/tafseer/katheer/sura43-aya72.html).
 [^4]: Le Noble Coran, sourate al-A'raf, versets 42-43 : [quran.com/7/42-43](https://quran.com/7/42-43). La traduction française proposée dans cette leçon est une traduction du sens propre au projet.
 [^5]: As-Sa'di, *Taysir al-Karim ar-Rahman*, commentaire de la sourate al-A'raf, verset 43, où l'appel est décrit comme étant « en guise de félicitation, d'honneur, de salutation et de considération », et où il cite certains des pieux prédécesseurs au sujet de l'héritage par les œuvres : [quran.ksu.edu.sa/tafseer/saadi/sura7-aya43.html](https://quran.ksu.edu.sa/tafseer/saadi/sura7-aya43.html).
 [^6]: Ibn Kathir, *Tafsir al-Qur'an al-'Azim*, commentaire de la sourate al-A'raf, verset 43 : « C'est-à-dire : c'est à cause de vos œuvres que la miséricorde vous a atteints, si bien que vous êtes entrés dans la Jannah, et vous avez pris possession de vos demeures selon vos œuvres » : [quran.ksu.edu.sa/tafseer/katheer/sura7-aya43.html](https://quran.ksu.edu.sa/tafseer/katheer/sura7-aya43.html).

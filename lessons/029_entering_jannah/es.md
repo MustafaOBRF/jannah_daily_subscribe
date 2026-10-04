@@ -29,7 +29,7 @@ Después de esta lección, el aprendiz será capaz de:
 
 ## Sección académica para adultos
 
-<!-- reader:start audience="adults" estimated_minutes="6.5" -->
+<!-- reader:start audience="adults" estimated_minutes="7.0" -->
 
 <!-- unit:start id="adults.explanation" kind="explanation" -->
 
@@ -63,7 +63,7 @@ Los compañeros del árbol son quienes juraron fidelidad al Profeta, la paz y la
 
 #### Explicación de la lección
 
-Hafsa no se guardó la duda: la expuso con una aleya del Libro de Allah. Y la respuesta no fue una opinión, sino la aleya que viene justo después. El camino al Paraíso pasa, pues, por esa llegada, y en ella uno se salva por la taqwa, no por las ilusiones.
+Hafsa no se guardó la duda: la expuso con una aleya del Libro de Allah. Y la respuesta no fue una opinión, sino la aleya que viene justo después. El camino al Paraíso pasa, pues, por esa llegada, y en ella uno se salva por la taqwa (el temor consciente de Allah), no por las ilusiones.
 
 <!-- evidence:end -->
 
@@ -85,7 +85,7 @@ Hafsa no se guardó la duda: la expuso con una aleya del Libro de Allah. Y la re
 
 #### Explicación de la lección
 
-Las dos aleyas reúnen el temor y la esperanza: la llegada alcanza a todos, y la salvación es de los temerosos de Allah. Por eso el creyente ni se confía ante el designio de Allah ni desespera de Su misericordia.
+Las dos aleyas reúnen el temor y la esperanza: la llegada alcanza a todos, y la salvación es de los temerosos de Allah. Por eso el creyente ni se siente a salvo del designio de Allah ni desespera de Su misericordia.
 
 <!-- evidence:end -->
 
@@ -151,7 +151,7 @@ Ibn Kazir explicó que `zumaran` significa "grupo tras grupo": los allegados a A
 
 #### Explicación de la lección
 
-Esta lección se detiene en la conducción en grupos según las obras. La apertura de las puertas y el saludo de los guardianes, {La paz sea con ustedes; han sido buenos y puros}, son el tema de la lección siguiente. Pero la palabra árabe `tibtum` ("han sido buenos y puros") enlaza con "limpios y depurados" del hadiz del puente: solo entra lo que es bueno.
+Esta lección se detiene en la conducción en grupos según las obras. La apertura de las puertas y el saludo de los guardianes, {La paz sea con ustedes; han sido buenos y puros}, son el tema de la lección siguiente. Y la palabra árabe `tibtum` ("han sido buenos y puros") enlaza con "limpios y depurados" del hadiz del puente: solo entra lo que es bueno.
 
 <!-- evidence:end -->
 
@@ -209,7 +209,7 @@ Repasa en un cuaderno personal cuatro tipos de derechos: una deuda o un depósit
 
 ## Para niños de 4 a 7 años
 
-<!-- reader:start audience="4-7" estimated_minutes="4.0" -->
+<!-- reader:start audience="4-7" estimated_minutes="5.0" -->
 
 <!-- unit:start id="4-7.explanation" kind="explanation" -->
 
@@ -223,7 +223,7 @@ Repasa en un cuaderno personal cuatro tipos de derechos: una deuda o un depósit
 
 <!-- story:start audience="4-7" role="primary" type="prophetic_era" source_id="muslim-2496" authenticated="true" -->
 
-**Esto pasó de verdad, le pasó a la madre de los creyentes Hafsa, que Allah esté complacido con ella; no es un cuento inventado.**
+**Esto le pasó de verdad a la madre de los creyentes Hafsa, que Allah esté complacido con ella; no es un cuento inventado.**
 
 <!-- retelling:start source_id="muslim-2496" audience="4-7" -->
 
@@ -231,11 +231,11 @@ El Profeta, la paz y las bendiciones de Allah sean con él, estaba en casa de su
 
 Hafsa dijo: "¡Claro que sí, oh Mensajero de Allah!". El Profeta, la paz y las bendiciones de Allah sean con él, la reprendió, es decir, le habló con firmeza. Entonces Hafsa dijo: "Pero Allah dice: {No hay ninguno de ustedes que no vaya a llegar a él}", o sea, que todas las personas pasarán por allí.
 
-Y el Profeta, la paz y las bendiciones de Allah sean con él, le respondió con la aleya que viene después: {Luego salvaremos a quienes fueron temerosos de Allah}, es decir: después, Allah salva a los que le tenían respeto y lo obedecían.[^1]
+Y el Profeta, la paz y las bendiciones de Allah sean con él, le respondió con la aleya que viene después: {Luego salvaremos a quienes fueron temerosos de Allah}, es decir: después, Allah salva a los que lo temían y lo obedecían.[^1]
 
 <!-- retelling:end -->
 
-Hafsa quería entender, por eso preguntó con una aleya del Corán, y el Profeta, la paz y las bendiciones de Allah sean con él, le respondió con otra aleya del Corán. Y así aprendemos que en el camino al Paraíso hay que pasar por un lugar, y que Allah salva a quien lo obedece.
+Hafsa quería entender, por eso preguntó con una aleya del Corán, y el Profeta, la paz y las bendiciones de Allah sean con él, le respondió con otra aleya del Corán. Y así aprendemos que el camino al Paraíso tiene un paso por el que todos pasan, y que Allah salva a quien lo obedece.
 
 <!-- story:end -->
 
@@ -287,7 +287,7 @@ Con tu papá o tu mamá, dibuja un puentecito con tres piedras. Piensa con ellos
 
 ## Para niños de 8 a 12 años
 
-<!-- reader:start audience="8-12" estimated_minutes="5.0" -->
+<!-- reader:start audience="8-12" estimated_minutes="6.0" -->
 
 <!-- unit:start id="8-12.explanation" kind="explanation" -->
 
@@ -309,7 +309,7 @@ Y lo mejor es que el Profeta, la paz y las bendiciones de Allah sean con él, no
 - **`La llegada (al-wurud)`** — el paso sobre el Sirat, el puente tendido sobre Yahannam, según lo que los sabios consideraron más acertado al explicar la aleya.[^7]
 - **`Los compañeros del árbol (ashab ash-shayara)`** — los Compañeros que juraron fidelidad al Profeta, la paz y las bendiciones de Allah sean con él, bajo el árbol el día de al-Hudaibiya.
 - **`El puente (al-qantara)`** — un puente o lugar elevado entre el Paraíso y el Fuego donde los creyentes quedan detenidos antes de entrar.
-- **`La injusticia (al-madlama)`** — un derecho que le quitaste a otro sin tener derecho, ya sea dinero o una palabra hiriente.
+- **`La injusticia (al-madlama)`** — un derecho de otra persona que le quitaste injustamente, ya sea dinero o una palabra hiriente.
 
 <!-- terminology:end -->
 
@@ -385,7 +385,7 @@ Haz una "tarjeta del puente" con tres tablones: (1) **¿Qué debo?** Un derecho 
 
 ## Para adolescentes de 13+
 
-<!-- reader:start audience="13+" estimated_minutes="5.0" -->
+<!-- reader:start audience="13+" estimated_minutes="6.0" -->
 
 <!-- unit:start id="13+.explanation" kind="explanation" -->
 
@@ -419,7 +419,7 @@ Fíjate en la paradoja: ni siquiera quienes ya han cruzado el Sirat entran mient
 
 El lugar: la casa de la madre de los creyentes Hafsa, hija de Umar. La testigo: una mujer de los ansar, Umm Mubashshir, que oyó al Profeta, la paz y las bendiciones de Allah sean con él, decir de quienes le juraron fidelidad bajo el árbol el día de al-Hudaibiya: **«No entrará en el Fuego, si Allah quiere, ninguno de los compañeros del árbol, los que juraron fidelidad bajo él»**.
 
-Hafsa dijo: "¡Claro que sí, oh Mensajero de Allah!". Y él la reprendió. No era un momento fácil, pero ella ni se echó atrás ni se obstinó: presentó lo que tenía en mente como una prueba, no como una opinión: {No hay ninguno de ustedes que no vaya a llegar a él}.
+Hafsa dijo: "¡Claro que sí, oh Mensajero de Allah!". Y él la reprendió. No era un momento fácil, pero ella ni se echó atrás ni se obstinó; presentó lo que tenía en mente como una prueba, no como una opinión: {No hay ninguno de ustedes que no vaya a llegar a él}.
 
 Y la respuesta llegó del mismo lugar del Mushaf: **«Allah, Poderoso y Majestuoso, ya ha dicho: {Luego salvaremos a quienes fueron temerosos de Allah y dejaremos en él a los injustos, postrados de rodillas}»**.[^1]
 
@@ -485,7 +485,7 @@ Abre una página personal con tres columnas: "El derecho que debo", "Cómo voy a
 **Resultados de aprendizaje:** el aprendiz narra en orden el relato de Hafsa y explica la respuesta con la aleya siguiente; ordena las cuatro etapas del camino al Paraíso con la evidencia de cada una; explica el sentido de la detención de los creyentes sobre el puente; y elabora un plan para obtener el perdón por un derecho concreto, con una fecha fijada.
 
 <!-- lesson-plan:materials -->
-**Materiales:** copias impresas de las seis evidencias; un mushaf para las suras Maryam y Az-Zumar; una pizarra con una línea horizontal dividida en cuatro etapas; cuadernos personales.
+**Materiales:** copias impresas de las seis evidencias; un Mushaf para las suras Maryam y Az-Zumar; una pizarra con una línea horizontal dividida en cuatro etapas; cuadernos personales.
 
 <!-- lesson-plan:preparation -->
 **Preparación:** el docente lee el hadiz en Sahih Muslim (Libro de los méritos de los Compañeros, capítulo de los méritos de los compañeros del árbol) con el comentario de an-Nawawi, el tafsir de Ibn Kazir de la aleya 73 de Az-Zumar y el capítulo sobre la compensación de las injusticias en Sahih al-Bujari. Prepara además una respuesta breve a la pregunta: ¿cómo se obtiene el perdón por una murmuración si contárselo al afectado causaría un mal mayor? Y remite los detalles jurídicos a las personas de conocimiento.
@@ -530,7 +530,7 @@ Abre una página personal con tres columnas: "El derecho que debo", "Cómo voy a
 **Apertura — 3 minutos:** el educador pregunta: «Cuando nos vamos de viaje, ¿llegamos enseguida o tenemos que recorrer un camino?». Y luego dice: «Hoy vamos a aprender el camino de los creyentes hacia el Paraíso».
 
 <!-- lesson-plan:evidence -->
-**Lectura del relato — 6 minutos:** el educador cuenta el relato tal como aparece en la unidad del relato; levanta un dedo en la primera aleya y dos dedos en la segunda, y los niños repiten: "Luego salvaremos a quienes fueron temerosos de Allah".
+**Lectura del relato — 6 minutos:** el educador cuenta el relato tal como aparece en la unidad del relato; levanta un dedo al llegar a la primera aleya y dos dedos al llegar a la segunda, y los niños repiten: "Luego salvaremos a quienes fueron temerosos de Allah".
 
 <!-- lesson-plan:instruction -->
 **Instrucción guiada — 5 minutos:** los niños caminan sobre la cinta y se paran junto a la tarjeta del puente, donde cada uno dice: "Le devuelvo a cada uno lo suyo". Después se toman de la mano y caminan juntos hasta el final del camino.
@@ -539,7 +539,7 @@ Abre una página personal con tres columnas: "El derecho que debo", "Cómo voy a
 **Actividad — 7 minutos:** se realiza la actividad "Ponte en paz antes del puente" tal como se describe en la unidad de actividad: dibujar el puente y elegir una sola cosa que arreglar hoy con ayuda de los padres.
 
 <!-- lesson-plan:assessment -->
-**Evaluación y cierre — 4 minutos:** el niño pone las tres tarjetas en orden y dice qué va a devolver o a quién le va a pedir perdón. Después se lee juntos la súplica antes de dormir.
+**Evaluación y cierre — 4 minutos:** el niño pone las tres tarjetas en orden y dice qué va a devolver o a quién le va a pedir perdón. Después leen todos juntos la súplica antes de dormir.
 
 <!-- lesson-plan:differentiation -->
 **Diferenciación:** con los más pequeños bastan dos tarjetas: el puente y las manos entrelazadas. A los mayores se les pide que cuenten el relato a un hermano o a una hermana.

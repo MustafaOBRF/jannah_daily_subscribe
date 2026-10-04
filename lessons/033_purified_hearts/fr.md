@@ -31,7 +31,7 @@ Au terme de cette leçon, l'apprenant sera capable de :
 
 ## Section Académique Pour Adultes
 
-<!-- reader:start audience="adults" estimated_minutes="6.5" -->
+<!-- reader:start audience="adults" estimated_minutes="7.0" -->
 
 <!-- unit:start id="adults.explanation" kind="explanation" -->
 
@@ -245,7 +245,7 @@ Les versets d'al-A'raf et d'al-Hijr annoncent le bienfait ; les deux hadiths d'
 
 <!-- activity:start audience="adults" concept_id="lesson.033.activity.no-reproach-today" -->
 
-Sur une feuille que vous garderez pour vous, écrivez la phrase de reproche qui revient sans cesse dans votre esprit à l'égard d'un croyant qui vous a blessé — une offense ordinaire, aujourd'hui terminée. Barrez-la, puis écrivez en dessous une réponse de trois lignes, à la manière de Yusuf : (1) un bienfait d'Allah que vous avez perçu malgré ce qui s'est passé ; (2) « nul reproche » : un rappel précis que vous cesserez de ressasser ; (3) une invocation précise pour lui, demandant le pardon et le bien. Tracez ensuite trois cases, invoquez Allah pour lui en secret trois nuits de suite, et cochez une case chaque soir. Ne choisissez pas un mal grave ou qui se poursuit : celui-là appelle protection et conseil, non cet exercice.
+Sur une feuille que vous garderez pour vous, écrivez la phrase de reproche qui revient sans cesse dans votre esprit à l'égard d'un croyant qui vous a blessé — une offense ordinaire, aujourd'hui terminée. Barrez-la, puis écrivez en dessous une réponse de trois lignes, à la manière de Yusuf : (1) un bienfait d'Allah que vous avez perçu malgré ce qui s'est passé ; (2) « nul reproche » : un seul rappel que vous cesserez de ressasser ; (3) une invocation précise pour lui, demandant le pardon et le bien. Tracez ensuite trois cases, invoquez Allah pour lui en secret trois nuits de suite, et cochez une case chaque soir. Ne choisissez pas un mal grave ou qui se poursuit : celui-là appelle protection et conseil, non cet exercice.
 
 <!-- activity:end -->
 
@@ -289,7 +289,7 @@ Yusuf aurait pu se fâcher contre eux. Mais il a dit : « Nul reproche contre 
 
 <!-- retelling:end -->
 
-Quand toute sa famille est arrivée, Yusuf a remercié son Seigneur de l'avoir fait sortir de prison. Il n'a pas parlé du puits, pour ne pas rendre ses frères tristes, et il a dit que c'était Satan qui les avait séparés.[^7] Voilà comment est un cœur tout propre : il pardonne, et il ne reparle plus de la bêtise.
+Quand toute sa famille est arrivée, Yusuf a remercié son Seigneur de l'avoir fait sortir de prison. Il n'a pas parlé du puits, pour ne pas rendre ses frères tristes, et il a dit que c'était Satan qui les avait séparés.[^7] Voilà comment est un cœur tout propre : il pardonne, et il ne reparle plus de la faute.
 
 <!-- story:end -->
 
@@ -312,7 +312,7 @@ Quand toute sa famille est arrivée, Yusuf a remercié son Seigneur de l'avoir f
 
 <!-- activity:start audience="4-7" concept_id="lesson.033.activity.no-reproach-today" -->
 
-Avec ton papa ou ta maman, dessine un petit nuage gris, et dessine dedans une chose toute simple qui t'a rendu triste, venant d'un frère, d'une sœur ou d'un ami — par exemple, un jouet qu'on t'a pris. Puis dessine à côté un cœur plein de couleurs, et dis comme Yusuf : « Je ne t'en veux pas. Qu'Allah te pardonne. » Pendant trois soirs, avant de dormir, fais une jolie prière pour cette personne, et colle une étoile sur le cœur.
+Avec ton papa ou ta maman, dessine un petit nuage gris, et dessine dedans une chose toute simple qui t'a rendu triste, venant d'un frère, d'une sœur ou d'un ami — par exemple, un jouet qu'on t'a pris. Puis dessine à côté un cœur plein de couleurs, et dis comme Yusuf : « Je ne t'en veux pas. Qu'Allah te pardonne. » Pendant trois soirs, avant de dormir, demande à Allah du bien pour cette personne avec un joli du'a, et colle une étoile sur le cœur.
 
 <!-- activity:end -->
 
@@ -324,7 +324,7 @@ Avec ton papa ou ta maman, dessine un petit nuage gris, et dessine dedans une ch
 
 <!-- bedtime-dua:start audience="4-7" id="lesson.033.dua.no-rancour-brothers-facing" provenance="lesson_authored" source_id="" attribution="not_prophetic" -->
 
-**Du'a thématique composée pour cette leçon ; non attribuée au Prophète, paix et bénédictions sur lui.**
+**Du'a thématique composé pour cette leçon ; non attribué au Prophète, paix et bénédictions sur lui.**
 
 > اللَّهُمَّ لَا تَجْعَلْ فِي قَلْبِي غِلًّا لِأَحَدٍ مِنَ الْمُؤْمِنِينَ، وَاغْفِرْ لِي وَلِمَنْ أَخْطَأَ فِي حَقِّي، وَاجْمَعْنَا فِي جَنَّتِكَ إِخْوَانًا عَلَى سُرُرٍ مُتَقَابِلِينَ.
 
@@ -386,7 +386,7 @@ Ils avaient besoin de lui, et il avait le pouvoir de les punir, ou de leur rappe
 
 Une fois la famille réunie, Yusuf dit : « Il m'a comblé de bienfaits lorsqu'Il m'a fait sortir de prison. » Il ne dit pas « du puits », pour ne pas faire rougir ses frères après leur avoir pardonné ; puis il ajouta : « après que Satan eut semé la discorde entre mes frères et moi ».[^7]
 
-Remarque les trois gestes du pardon de Yusuf : rappeler la grâce d'Allah, renoncer au reproche, et invoquer Allah pour ceux qui ont fauté. Ces trois gestes sont, ici-bas, un entraînement vers le cœur que recevront les gens de la Jannah.
+Remarque les trois gestes du pardon de Yusuf : rappeler la grâce d'Allah, renoncer au reproche, et invoquer Allah pour ceux qui ont fauté. Ces trois gestes sont, ici-bas, une manière de s'exercer à avoir le cœur que recevront les gens de la Jannah.
 
 <!-- story:end -->
 
@@ -422,7 +422,7 @@ Sur une carte, écris une phrase de reproche qui te revient souvent en tête à 
 
 <!-- bedtime-dua:start audience="8-12" id="lesson.033.dua.no-rancour-brothers-facing" provenance="lesson_authored" source_id="" attribution="not_prophetic" -->
 
-**Du'a thématique composée pour cette leçon ; non attribuée au Prophète, paix et bénédictions sur lui.**
+**Du'a thématique composé pour cette leçon ; non attribué au Prophète, paix et bénédictions sur lui.**
 
 > اللَّهُمَّ لَا تَجْعَلْ فِي قَلْبِي غِلًّا لِأَحَدٍ مِنَ الْمُؤْمِنِينَ، وَاغْفِرْ لِي وَلِمَنْ أَخْطَأَ فِي حَقِّي، وَاجْمَعْنَا فِي جَنَّتِكَ إِخْوَانًا عَلَى سُرُرٍ مُتَقَابِلِينَ.
 
@@ -468,7 +468,7 @@ Personne n'entre dans la Jannah avec ce fardeau. Les injustices sont d'abord ré
 
 **Ceci est une histoire vraie, tirée du Noble Coran. Ce n'est pas une scène imaginée.**
 
-Tout commence par une blessure profonde : des frères emmènent leur jeune frère et s'accordent pour le jeter dans le puits. Au fond, une promesse lui parvient d'Allah : tu leur rappelleras ce qu'ils ont fait, sans qu'ils s'en doutent.[^5] Suivent des années d'exil et de prison, puis un rang élevé en Égypte.
+Tout commence par une blessure profonde : des frères emmènent leur jeune frère et s'accordent pour le jeter dans le puits. Au fond du puits, une promesse lui parvient d'Allah : tu leur rappelleras ce qu'ils ont fait, sans qu'ils s'en doutent.[^5] Suivent des années d'exil et de prison, puis un rang élevé en Égypte.
 
 <!-- retelling:start source_id="quran-12-88-92" audience="13+" -->
 
@@ -482,7 +482,7 @@ Et le verdict tombe : « Nul reproche contre vous aujourd'hui. Qu'Allah vous p
 
 Plus délicat encore, ce qu'il dit plus tard devant ses parents : « Il m'a comblé de bienfaits lorsqu'Il m'a fait sortir de prison. » Il nomme la prison et tait le puits, par noblesse d'âme, pour ne pas faire rougir ses frères ; puis il attribue la séparation au fait que « Satan a semé la discorde entre mes frères et moi ».[^7] Il ne s'est pas contenté de pardonner : il a aussi fermé la porte au rappel.
 
-Mesure la différence. Beaucoup disent « Je t'ai pardonné »… puis gardent la capture d'écran de la conversation, ou glissent une allusion à la faute devant les autres. Le pardon de Yusuf t'apprend que renoncer à la rancœur est une décision du cœur qui se voit sur la langue. En même temps, cela ne veut pas dire se taire face au harcèlement ou à un mal qui continue : les droits se règlent, le mal se signale, et renoncer à la rancœur est encore autre chose.[^3]
+Mesure la différence. Beaucoup disent « Je t'ai pardonné »… puis gardent la capture d'écran de la conversation, ou glissent une allusion à la faute devant les autres. Le pardon de Yusuf t'apprend que renoncer à la rancœur est une décision du cœur qui se traduit dans les paroles. En même temps, cela ne veut pas dire se taire face au harcèlement ou à un mal qui continue : les droits se règlent, le mal se signale, et renoncer à la rancœur est encore autre chose.[^3]
 
 <!-- story:end -->
 
@@ -506,7 +506,7 @@ Mesure la différence. Beaucoup disent « Je t'ai pardonné »… puis gardent
 
 <!-- activity:start audience="13+" concept_id="lesson.033.activity.no-reproach-today" -->
 
-Sur une feuille personnelle ou dans une note verrouillée, écris la réplique que tu gardes en réserve pour quelqu'un qui t'a blessé lors d'un conflit ordinaire, aujourd'hui terminé. Barre-la, et écris à la place trois lignes à la manière de Yusuf : (1) un bienfait d'Allah que tu as retiré de ce qui s'est passé ; (2) une habitude de reproche que tu vas arrêter, comme les allusions ou le fait de republier une vieille capture d'écran ; (3) une invocation précise pour lui. Invoque ensuite Allah pour lui en secret trois nuits de suite, et coche chaque soir. S'il s'agit de harcèlement ou d'un danger, parles-en plutôt à un adulte de confiance, au lieu de faire cette activité.
+Sur une feuille personnelle ou dans une note verrouillée, écris la réplique que tu gardes en réserve pour quelqu'un qui t'a blessé lors d'un conflit ordinaire, aujourd'hui terminé. Barre-la, et écris à la place trois lignes à la manière de Yusuf : (1) un bienfait d'Allah que tu as reçu malgré ce qui s'est passé ; (2) une habitude de reproche que tu vas arrêter, comme les allusions ou le fait de republier une vieille capture d'écran ; (3) une invocation précise pour lui. Invoque ensuite Allah pour lui en secret trois nuits de suite, et coche chaque soir. S'il s'agit de harcèlement ou d'un danger, parles-en plutôt à un adulte de confiance, au lieu de faire cette activité.
 
 <!-- activity:end -->
 
@@ -518,7 +518,7 @@ Sur une feuille personnelle ou dans une note verrouillée, écris la réplique q
 
 <!-- bedtime-dua:start audience="13+" id="lesson.033.dua.no-rancour-brothers-facing" provenance="lesson_authored" source_id="" attribution="not_prophetic" -->
 
-**Du'a thématique composée pour cette leçon ; non attribuée au Prophète, paix et bénédictions sur lui.**
+**Du'a thématique composé pour cette leçon ; non attribué au Prophète, paix et bénédictions sur lui.**
 
 > اللَّهُمَّ لَا تَجْعَلْ فِي قَلْبِي غِلًّا لِأَحَدٍ مِنَ الْمُؤْمِنِينَ، وَاغْفِرْ لِي وَلِمَنْ أَخْطَأَ فِي حَقِّي، وَاجْمَعْنَا فِي جَنَّتِكَ إِخْوَانًا عَلَى سُرُرٍ مُتَقَابِلِينَ.
 

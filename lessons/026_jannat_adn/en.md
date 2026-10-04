@@ -26,18 +26,18 @@ After this lesson, the learner will be able to:
 - Distinguish, on this subject, between what is firmly established from the Prophet (`I planted their honor with My own Hand`, Muslim 189), the report from Ibn Umar about 'Adn being created by the Hand, which is his own statement (*mawquf*) with an authentic chain, and narrations attributed to the Prophet on this point that are not authentic.
 - Narrate the hadith of the debate between Adam and Musa, peace be upon them both (Muslim 2652), and explain that Adam, whom Allah created with His Hand and settled in His Jannah, left it because of a sin, and that Allah then accepted his repentance (Ta Ha 20:120-122).
 - Tell the difference between appealing to divine decree over a calamity that has already happened, after repentance, which is what Adam did, and appealing to divine decree to excuse sin, which is false.
-- Carry out the activity "The Road Back in Adam's Footsteps" by drawing three stations on the way back from a real slip, together with a commitment not to blame again someone who has repented and apologized.
+- Carry out the activity "The Road Back in Adam's Footsteps" by drawing three stations of a sincere return from a real slip, together with a commitment not to blame again someone who has repented and apologized.
 - Say the lesson's du'a before sleep, asking for a repentance like Adam's and a home in Jannat 'Adn.
 
 ## Academic Section for Adults
 
-<!-- reader:start audience="adults" estimated_minutes="6.5" -->
+<!-- reader:start audience="adults" estimated_minutes="7.0" -->
 
 <!-- unit:start id="adults.explanation" kind="explanation" -->
 
 Jannat 'Adn are the Gardens of residence. In the Arabic language, *'adn* means abiding and permanence: one says *'adana bi al-makan* when someone settles in a place to stay.[^10] Ibn al-Qayyim held that "Jannat 'Adn" is a name for the gardens of Jannah as a whole rather than for one garden among them, since all of them are a home of residence from which no one ever departs. Allah has promised them to His believing servants and paired them with His good pleasure.[^1]
 
-A tremendous meaning is bound up with this subject: Allah, exalted is He, singled out certain of His creations to be created by His Hand, as a mark of honor for them. The Qur'an states plainly that He created Adam with His two Hands; it is authentically reported in Muslim that He planted the honor of the highest people of Jannah with His Hand; and it is authentically reported from Ibn Umar, may Allah be pleased with him and his father, as his own statement, that 'Adn is among the four things He created with His Hand. The position of Ahl as-Sunnah here is to affirm the Hand as a real attribute of Allah that befits His majesty: without likening it to the hands of creatures, without asking how it is, and without twisting it into a figurative meaning such as "power" or "favor."
+Closely tied to this subject is a profound meaning: Allah, exalted is He, singled out certain of His creations to be created by His Hand, as a mark of honor for them. The Qur'an states plainly that He created Adam with His two Hands; it is authentically reported in Muslim that He planted the honor of the highest people of Jannah with His Hand; and it is authentically reported from Ibn Umar, may Allah be pleased with him and his father, as his own statement, that 'Adn is among the four things He created with His Hand. The position of Ahl as-Sunnah here is to affirm the Hand as a real attribute of Allah that befits His majesty: without likening it to the hands of creatures, without asking how it is, and without twisting it into a figurative meaning such as "power" or "favor."
 
 Both meanings meet in the hadith of the debate between Adam, whom Allah created with His Hand and settled in His Jannah, and Musa, for whom Allah wrote the Torah with His Hand. Its practical lesson is this: the road to the Home of Residence is repentance, as Adam repented, not an appeal to divine decree to excuse sin.
 
@@ -267,7 +267,7 @@ Then Adam turned back to his Lord, sorry for what he had done, and Allah accepte
 
 <!-- retelling:start source_id="muslim-2652c" audience="4-7" -->
 
-Our Prophet, peace and blessings be upon him, also told us that Musa, peace be upon him, met Adam before their Lord. Musa said to him: "You are Adam, whom Allah created with His Hand and gave a home in His Jannah. And then, because of your mistake, people came down to the earth?" Adam said: "Musa, didn't you find in the Torah that this was written down with Allah before I was even created?" Musa said: "Yes." And the Prophet, peace and blessings be upon him, said: Adam won the argument with his answer.[^7]
+Our Prophet, peace and blessings be upon him, also told us that Musa, peace be upon him, met Adam in the presence of their Lord. Musa said to him: "You are Adam, whom Allah created with His Hand and gave a home in His Jannah. And then, because of your mistake, people came down to the earth?" Adam said: "Musa, didn't you find in the Torah that this was written down with Allah before I was even created?" Musa said: "Yes." And the Prophet, peace and blessings be upon him, said: Adam won the argument with his answer.[^7]
 
 The scholars explain: Adam had already said sorry to Allah, and Allah had forgiven him. So we don't keep blaming someone for a mistake they have already said sorry for.[^9]
 
@@ -321,7 +321,7 @@ What it means: O Allah, accept us when we come back to You, the way You accepted
 
 ## For Children Ages 8 to 12
 
-<!-- reader:start audience="8-12" estimated_minutes="6.0" -->
+<!-- reader:start audience="8-12" estimated_minutes="6.5" -->
 
 <!-- unit:start id="8-12.explanation" kind="explanation" -->
 
@@ -416,7 +416,7 @@ What it means: O Allah, accept our repentance as You accepted the repentance of 
 
 Jannat 'Adn is "the Home of Residence": fine dwellings that no one ever leaves, and above them, good pleasure from Allah that is greater still.[^1] This topic touches a subtle point of belief. It is authentically established that Allah created Adam with His Hand (Sad 38:75) and that He planted the honor of the highest people of Jannah with His Hand (Muslim 189), and it is authentically reported that Ibn Umar said 'Adn is among the things Allah created with His Hand.[^3][^4] The method of Ahl as-Sunnah here is clear: we affirm what Allah affirmed for Himself; we deny that He resembles His creation, `There is nothing like unto Him`; we do not ask how; and we do not twist the meaning into "power" to dodge what the text says.[^6][^11]
 
-You may notice that some widely shared clips relate detailed hadiths about 'Adn, its bricks, and its speaking, and much of that is not authentically from the Prophet, peace and blessings be upon him. Integrity means telling apart an authentic hadith, a Companion's statement, and a weak narration before you share anything.
+You may notice that some widely shared clips relate detailed hadiths about 'Adn, its bricks, and how it speaks, and much of that is not authentically from the Prophet, peace and blessings be upon him. Integrity means telling apart an authentic hadith, a Companion's statement, and a weak narration before you share anything.
 
 <!-- unit:end -->
 
@@ -425,7 +425,7 @@ You may notice that some widely shared clips relate detailed hadiths about 'Adn,
 <!-- terminology:start source_id="muslim-2652c" -->
 
 - **`The attribute of the Hand (sifat al-yad)`** — an attribute of Allah established by the Qur'an and the Sunnah, which we affirm in the way that befits Him, without likening it, without asking how, and without denying it.[^11]
-- **`A Companion's report (al-athar al-mawquf)`** — a statement attributed to a Companion rather than to the Prophet, peace and blessings be upon him, and cited along with its grade.[^4]
+- **`A Companion's report (al-athar al-mawquf)`** — a statement attributed to a Companion rather than to the Prophet, peace and blessings be upon him, which is always cited together with its grade.[^4]
 - **`Appealing to divine decree (al-ihtijaj bi al-qadar)`** — arguing that something was already written; valid for calamities, never valid as an excuse for sins.[^9]
 
 <!-- terminology:end -->
@@ -568,7 +568,7 @@ What it means: O Allah, just as You chose Adam after his slip, turned to him in 
 **Differentiation:** For the youngest, the first circle and the heart are enough. Older children are asked to tell the story in their own words.
 
 <!-- lesson-plan:safeguards -->
-**Teaching Cautions:** Never tell the child "Allah's Hand is like...," and never ask the child to draw it or imagine it. If the child asks, "What is Allah's Hand like?" answer calmly: "We don't know how. There is nothing like Allah, and we believe what He told us." Do not depict Adam or Musa in drawings or role-play. Do not load the child with blame toward Adam, or the feeling that our being outside Jannah is his fault.
+**Teaching Cautions:** Never tell the child "Allah's Hand is like...," and never ask the child to draw it or imagine it. If the child asks, "What is Allah's Hand like?" answer calmly: "We don't know how. There is nothing like Allah, and we believe what He told us." Do not depict Adam or Musa in drawings or role-play. Do not burden the child with blaming Adam, or with the feeling that our being outside Jannah is his fault.
 
 <!-- lesson-plan:end -->
 
@@ -637,7 +637,7 @@ What it means: O Allah, just as You chose Adam after his slip, turned to him in 
 **Assessment and Closing — 6 minutes:** A short paragraph: "How can I believe in divine decree and take responsibility for my actions at the same time?" After a week, ask the students a general question, "Did you complete your stations?", without asking for details.
 
 <!-- lesson-plan:differentiation -->
-**Differentiation:** For those who find the point of belief heavy going, the rule of ash-Shura 42:11 is enough. Advanced students are asked to summarize Ibn al-Qayyim's discussion of the difference between appealing to divine decree over calamities and over misdeeds.
+**Differentiation:** For those who find this point of belief hard going, the rule of ash-Shura 42:11 is enough. Advanced students are asked to summarize Ibn al-Qayyim's discussion of the difference between appealing to divine decree over calamities and over misdeeds.
 
 <!-- lesson-plan:safeguards -->
 **Teaching Cautions:** Avoid open-ended theological debate about the divine attributes in front of beginners, and refer in-depth questions to a private session. Do not ask anyone to disclose their sins. Gently remind anyone struggling with an excessive sense of guilt that Ta Ha 20:122 is a door of hope, and follow up individually when needed.

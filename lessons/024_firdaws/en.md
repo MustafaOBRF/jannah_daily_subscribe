@@ -31,11 +31,11 @@ After this lesson, the learner will be able to:
 
 ## Academic Section for Adults
 
-<!-- reader:start audience="adults" estimated_minutes="6.5" -->
+<!-- reader:start audience="adults" estimated_minutes="7.0" -->
 
 <!-- unit:start id="adults.explanation" kind="explanation" -->
 
-In the lesson on the degrees of Jannah, we learned that Jannah has a hundred degrees, and that the distance between any two of them is like the distance between heaven and earth. This lesson pauses on the words with which the Prophet, peace and blessings be upon him, closed that hadith: "So when you ask Allah, ask Him for al-Firdaws." He did not say, "Ask Him for the lowest part of Jannah," nor, "Ask Him for whatever matches your deeds." He pointed the entire ummah to the very highest thing Jannah holds, and then described it in three ways: it is the middle of Jannah and its highest part, above it is the Throne of the Most Merciful, and from it the rivers of Jannah gush forth.
+In the lesson on the degrees of Jannah, we learned that Jannah has a hundred degrees, and that the distance between any two of them is like the distance between heaven and earth. This lesson dwells on the words with which the Prophet, peace and blessings be upon him, closed that hadith: "So when you ask Allah, ask Him for al-Firdaws." He did not say, "Ask Him for the lowest part of Jannah," nor, "Ask Him for whatever matches your deeds." He pointed the entire ummah to the very highest thing Jannah holds, and then described it in three ways: it is the middle of Jannah and its highest part, above it is the Throne of the Most Merciful, and from it the rivers of Jannah gush forth.
 
 This guidance corrects two opposite mistakes:
 
@@ -82,7 +82,7 @@ The command to ask for al-Firdaws comes right after a general promise of entry t
 
 #### Scholarly Explanation
 
-A *nuzul* (lodging) is the honor made ready for a guest upon arrival, and "never wishing to be moved from it" means they will never seek to leave it or prefer anything else. Ibn Kathir cites at this ayah the hadith "When you ask Allah for Jannah, ask Him for al-Firdaws." Ibn al-Qayyim explains that the name al-Firdaws is used for Jannah as a whole, and also for its finest and highest part, as though that part has the greatest claim to the name; and that the word originally means an orchard; he also cites al-Zajjaj's view that its real sense is an orchard that gathers within it everything orchards can hold.[^8]
+A *nuzul* (lodging) is the honor made ready for a guest upon arrival, and "never wishing to be moved from it" means they will never seek to leave it or prefer anything else. Ibn Kathir cites at this ayah the hadith "When you ask Allah for Jannah, ask Him for al-Firdaws." Ibn al-Qayyim explains that the name al-Firdaws is used for Jannah as a whole, and also for its finest and highest part, as though that part has the greatest claim to the name. He adds that the word originally means an orchard, and cites al-Zajjaj's view that its real sense is an orchard that gathers within it everything orchards can hold.[^8]
 
 #### Lesson Explanation
 
@@ -186,7 +186,7 @@ At the top of a sheet of paper, write: "O Allah, I ask You for al-Firdaws." Then
 
 ## For Children Ages 4 to 7
 
-<!-- reader:start audience="4-7" estimated_minutes="5.5" -->
+<!-- reader:start audience="4-7" estimated_minutes="6.0" -->
 
 <!-- unit:start id="4-7.explanation" kind="explanation" -->
 
@@ -204,11 +204,11 @@ Jannah has lots and lots of places, and some are higher up than others. The very
 
 Yusuf and his sister Maryam went on a trip to the mountain with their dad. Yusuf spotted a little stream trickling between the rocks. Its water was so clear it sparkled in the sun. "Dad," Yusuf asked, "where does this water come from?" "Let's climb up and find out!" said Dad.
 
-They climbed for a little while, and Yusuf got tired. He saw a small pool with just a little water in it, so he sat down and said, "This is far enough. I don't want to climb any more." Maryam took his hand and said, "It's not much farther, Yusuf. Come with us!" So Yusuf decided to keep going. Up he went, one step at a time, with Dad holding his other hand.
+They climbed for a little while, and Yusuf got tired. He saw a small pool with just a little water in it, so he sat down and said, "This is far enough. I don't want to climb anymore." Maryam took his hand and said, "It's not much farther, Yusuf. Come with us!" So Yusuf decided to keep going. Up he went, one step at a time, with Dad holding his other hand.
 
 At the very top of the mountain, they found a spring with water bubbling out of it, cool and clean, and all the little streams ran down the mountain from there. Yusuf took a drink, laughed, and said, "The water up here is much nicer than the water in the pool!"
 
-Dad sat down and said, "The Prophet, peace and blessings be upon him, told us that the highest part of Jannah is called al-Firdaws, and that the rivers of Jannah flow out from it. And he told us: when you make du'a to Allah, ask Him for al-Firdaws." "Then I won't ask for a little place," said Yusuf. "I'm going to ask Allah for al-Firdaws!" "Well done," said Dad. "And we'll pray our prayers nicely, so that we can be among its people."
+Dad sat down and said, "The Prophet, peace and blessings be upon him, told us that the highest part of Jannah is called al-Firdaws, and that the rivers of Jannah flow out from it. And he told us: when you make du'a to Allah, ask Him for al-Firdaws." "Then I won't ask for a little place," said Yusuf. "I'm going to ask Allah for al-Firdaws!" "Well done," said Dad. "And we'll pray well, so that we can be among its people."
 
 That night, Yusuf prayed Isha calmly next to his dad. Then he raised his hands and said, "O Allah, please give me al-Firdaws."
 
@@ -269,7 +269,7 @@ With your mom or dad, draw a mountain with a blue spring at the very top. Next t
 
 > اللَّهُمَّ إِنَّا نَسْأَلُكَ الْفِرْدَوْسَ الْأَعْلَى، فَاجْعَلْنَا مِنَ الْوَارِثِينَ الَّذِينَ يَرِثُونَهُ، وَأَعِنَّا عَلَى الْخُشُوعِ فِي صَلَاتِنَا وَالْمُحَافَظَةِ عَلَيْهَا.
 
-What it means, in simple words: O Allah, we ask You for the very highest place in Jannah, so please make us its people, and help us pray with our hearts paying attention, and never leave our prayers.
+What it means, in simple words: O Allah, we ask You for the very highest place in Jannah, so please make us its people, and help us pray with our hearts paying attention, and never miss our prayers.
 
 <!-- bedtime-dua:end -->
 
@@ -281,11 +281,11 @@ What it means, in simple words: O Allah, we ask You for the very highest place i
 
 ## For Children Ages 8 to 12
 
-<!-- reader:start audience="8-12" estimated_minutes="6.5" -->
+<!-- reader:start audience="8-12" estimated_minutes="7.0" -->
 
 <!-- unit:start id="8-12.explanation" kind="explanation" -->
 
-Jannah has many, many degrees, and the highest, the middle, and the very best of them all is `al-Firdaws`. The Prophet, peace and blessings be upon him, told us that above it is the Throne of the Most Merciful and that the rivers of Jannah gush out from it, and he gave us a clear instruction: "So when you ask Allah, ask Him for al-Firdaws."[^1] Asking for al-Firdaws isn't showing off. It is obeying the Prophet, peace and blessings be upon him. In Surah al-Mu'minun, Allah describes the people who will inherit al-Firdaws. Some of their qualities are: being humble and focused in prayer, staying away from empty, pointless talk, keeping what they are trusted with and keeping their promises, and praying all their prayers faithfully.[^5]
+Jannah has many, many degrees, and the highest, the middle, and the very best of them all is `al-Firdaws`. The Prophet, peace and blessings be upon him, told us that above it is the Throne of the Most Merciful and that the rivers of Jannah gush out from it, and he gave us a clear instruction: "So when you ask Allah, ask Him for al-Firdaws."[^1] Asking for al-Firdaws isn't showing off. It is obeying the Prophet, peace and blessings be upon him. In Surah al-Mu'minun, Allah describes the people who will inherit al-Firdaws. Some of their qualities are: being humble and focused in prayer, staying away from empty, pointless talk, taking good care of what they are trusted with and keeping their promises, and praying all their prayers faithfully.[^5]
 
 <!-- unit:end -->
 
@@ -389,7 +389,7 @@ What it means: O Allah, we ask You for the highest part of Jannah, just as our P
 
 ## For Teens, Ages 13+
 
-<!-- reader:start audience="13+" estimated_minutes="6.5" -->
+<!-- reader:start audience="13+" estimated_minutes="7.0" -->
 
 <!-- unit:start id="13+.explanation" kind="explanation" -->
 
@@ -431,7 +431,7 @@ Two of her friends froze her out for several days, and Rana felt lonely. But the
 
 Anas ibn Malik, may Allah be pleased with him, relates that Harithah ibn Suraqah was struck down on the day of Badr while still a *ghulam*, a youth, by an arrow whose archer no one knew.[^3] His mother came to the Prophet, peace and blessings be upon him, and said: "O Prophet of Allah, will you not tell me about Harithah? ... If he is in Jannah, I will be patient; but if it is otherwise, I will pour all my strength into weeping for him." He said to her: "O Umm Harithah, there are gardens within Jannah, and your son has attained al-Firdaws al-A'la."[^2] In another narration in al-Bukhari, he said to her: "Is it only one garden? There are many gardens."[^3]
 
-Reflect on three things. The mother tied her patience to her son's fate, so the Hereafter was the first thing she asked about. The answer reached higher than her question. And the one who received these glad tidings was a young man close to your own age, with no long list of deeds mentioned in the report, and nothing about him announced to anyone before his death. Al-Firdaws does not require you to be famous. It requires you to be sincere.
+Reflect on three things. The mother tied her patience to her son's fate, so the Hereafter was the first thing she asked about. The answer reached higher than her question. And the one who received these glad tidings was a young man close to your own age, with no long list of deeds mentioned in the report, and nothing to suggest that anyone had heard of him before his death. Al-Firdaws does not require you to be famous. It requires you to be sincere.
 
 <!-- retelling:end -->
 

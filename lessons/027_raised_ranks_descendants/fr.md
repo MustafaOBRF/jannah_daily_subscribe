@@ -267,7 +267,7 @@ Allah est très, très doux avec les familles qui croient en Lui. Il nous a dit 
 
 Ensuite, il appela ses fils, leur dit au revoir et demanda à Allah de veiller sur eux : « Qu'Allah vous protège ! »[^6]
 
-'Umar a laissé à ses fils quelque chose de plus précieux que l'argent : être des gens bons. Et Allah prend soin des gens bons.
+'Umar a laissé à ses fils quelque chose de plus précieux que l'argent : qu'ils soient des gens bons. Et Allah prend soin des gens bons.
 
 <!-- retelling:end -->
 
@@ -473,7 +473,7 @@ Mieux encore : c'est peut-être toi qui feras monter quelqu'un d'autre. D'aprè
 
 - **`Tenu en gage`** (*rahin*) — retenu par ses œuvres et responsable d'elles : personne ne porte les œuvres d'un autre.
 - **`« Sans rien retrancher »`** (*wa ma alatnahum*) — Nous n'avons rien ôté aux pères de leur récompense en élevant jusqu'à eux leurs enfants.[^1]
-- **`Il prend en charge les vertueux`** (*yatawalla as-salihin*) — Il prend soin d'eux, les protège et leur suffit ; c'est le verset qu'invoqua 'Umar ibn 'Abd al-'Aziz.
+- **`Il prend en charge les vertueux`** (*yatawalla as-salihin*) — Il prend soin d'eux, les protège et leur suffit ; c'est le verset sur lequel s'appuya 'Umar ibn 'Abd al-'Aziz.
 
 <!-- terminology:end -->
 

@@ -30,13 +30,13 @@ After this lesson, the learner will be able to:
 
 ## Academic Section for Adults
 
-<!-- reader:start audience="adults" estimated_minutes="6.5" -->
+<!-- reader:start audience="adults" estimated_minutes="7.0" -->
 
 <!-- unit:start id="adults.explanation" kind="explanation" -->
 
 The smell of fresh bread can reach you before the bakery comes into view, and the smell of rain before a single drop has touched you. A scent is a messenger that runs ahead of its sender. Through this everyday experience we can draw closer to a remarkable Prophetic description: Jannah has a sweet fragrance that its people can sense from a vast distance, and its air is perfectly temperate, never hurting with heat or cold. And on the day of Uhud a Companion said of Jannah, "I can smell its fragrance." How can a person in this world catch the scent of a home he has not yet entered?
 
-This lesson pauses at three meanings: the fragrance of Jannah, what deprives a servant of it, and the gentle balance of its air. The light of Jannah and its daylight have two neighboring lessons of their own, and its trees and shade are left for a later lesson.
+This lesson focuses on three themes: the fragrance of Jannah, what deprives a servant of it, and the gentle balance of its air. The light of Jannah and its daylight are covered in two neighboring lessons, and its trees and shade are left for a later lesson.
 
 <!-- unit:end -->
 
@@ -100,7 +100,7 @@ The ayah is not reserved for martyrs, because it includes `some are still waitin
 
 #### Lesson Explanation
 
-The hadith brings together a piece of news and a ruling. The news: the fragrance of Jannah can be sensed from a distance a traveler would need forty years to cover. The ruling: killing someone to whom the Muslims have granted safety, even someone of another faith, can deprive the killer of that fragrance. Justice toward all people is part of the road to Jannah.
+The hadith brings together a report and a ruling. The report: the fragrance of Jannah can be sensed from a distance a traveler would need forty years to cover. The ruling: killing someone to whom the Muslims have granted safety, even someone of another faith, can deprive the killer of that fragrance. Justice toward all people is part of the road to Jannah.
 
 <!-- evidence:end -->
 
@@ -131,7 +131,7 @@ This reward is tied to the words `for their patience`. Whoever is patient in thi
 ## Questions for Understanding and Reflection
 
 1. Why did Anas say, "Allah will surely see what I do," and not "People will see"?
-2. What are the two kinds of the fragrance of Jannah that Ibn al-Qayyim mentioned? And why did he not commit to either one in the case of Anas?
+2. What are the two kinds of Jannah's fragrance that Ibn al-Qayyim mentioned? And why did he not commit to either one in the case of Anas?
 3. What do the words `and some are still waiting` add to our understanding of the ayah?
 4. How does the hadith of the *mu'ahad* connect the description of Jannah with justice toward non-Muslims?
 5. How is `for their patience` connected to the gentle air of Jannah?
@@ -155,7 +155,7 @@ Write down a specific opportunity for good that you actually missed: a funeral, 
 
 ## For Children Ages 4 to 7
 
-<!-- reader:start audience="4-7" estimated_minutes="5.0" -->
+<!-- reader:start audience="4-7" estimated_minutes="5.5" -->
 
 <!-- unit:start id="4-7.explanation" kind="explanation" -->
 
@@ -243,7 +243,7 @@ It means: O Allah, let us smell the beautiful smell of Jannah and feel its lovel
 
 ## For Children Ages 8 to 12
 
-<!-- reader:start audience="8-12" estimated_minutes="6.0" -->
+<!-- reader:start audience="8-12" estimated_minutes="6.5" -->
 
 <!-- unit:start id="8-12.explanation" kind="explanation" -->
 
@@ -350,7 +350,7 @@ It means: O Allah, grant us the fragrance of Jannah and the sweetness of its bre
 
 <!-- unit:start id="13+.explanation" kind="explanation" -->
 
-At break, a few students started mocking a new kid because of his accent. You were right there. You knew the right thing was to say something, but you stayed quiet. The moment passed, and a question stayed with you: did I miss my chance for good?
+During a break at school, a few students started mocking a new kid because of his accent. You were right there. You knew the right thing was to say something, but you stayed quiet. The moment passed, and a question stayed with you: did I miss my chance forever?
 
 A lot of people handle a missed opportunity in one of two ways: they beat themselves up until they can't move, or they forget about it as if nothing happened. In this lesson you'll meet a Companion who chose a third way: a sincere pledge for next time, with no witness but Allah. His story contains a sentence about the fragrance of Jannah that makes us ask: how can certainty about the unseen be so strong that you can actually feel it close by?
 
@@ -476,7 +476,7 @@ It means: O Allah, grant us the fragrance of Jannah and the sweetness of its bre
 **Assessment and Closing — 10 minutes:** Exit card: "From what distance can the fragrance of Jannah be sensed, and who, according to the hadith, will not smell it?" and "Explain `where they will see neither sun nor bitter cold` in one sentence." Then read al-Ahzab 33:23, make the lesson's du'a together, and agree to review the pledges in two weeks.
 
 <!-- lesson-plan:differentiation -->
-**Differentiation:** For beginners, cover only the account of Anas and al-Insan 76:13. Ask advanced learners to gather the narrations of the account of Anas (al-Bukhari 2805 and 4048, and Muslim 1903) and compare their wording, and to review, from the notes to *Hadi al-Arwah*, how the narrations differ on the distance of the fragrance (forty years; seventy autumns in at-Tirmidhi 1403; and weak narrations of five hundred and a thousand years).
+**Differentiation:** For beginners, cover only the account of Anas and al-Insan 76:13. Ask advanced learners to gather the narrations of the account of Anas (al-Bukhari 2805 and 4048, and Muslim 1903) and compare their wording, and to review, from the notes to *Hadi al-Arwah*, how the narrations differ on the distance of the fragrance (forty years; seventy autumns in al-Tirmidhi 1403; and weak narrations of five hundred and a thousand years).
 
 <!-- lesson-plan:safeguards -->
 **Teaching Cautions:** Do not rely on what is not authentic, such as the hadith "Make it fragrant for your people... that is the coolness people feel in the hours before dawn" (its chain contains a narrator whose reports are abandoned, *matruk*), or the hadith "The fragrance of Jannah can be found from a distance of a thousand years" (very weak). Do not describe what Anas experienced with details that have not come down to us. Do not use the account to glorify violence: its context is defense in a battle fought alongside the Prophet, peace and blessings be upon him, and the hadith of the *mu'ahad* forbids attacking peaceful people. The north wind in the market of Jannah is left for its own lesson.
@@ -569,7 +569,7 @@ It means: O Allah, grant us the fragrance of Jannah and the sweetness of its bre
 **Preparation:** The teacher reviews al-Sa'di's tafsir of al-Ahzab 33:23 and Ibn al-Qayyim's words in Chapter 42 of *Hadi al-Arwah*, and words the scenarios neutrally so that none of them points to a particular student.
 
 <!-- lesson-plan:opening -->
-**Opening — 5 minutes:** Read the scene at break and ask: "What makes us stay silent when we know what's right?"
+**Opening — 5 minutes:** Read the break-time scene and ask: "What makes us stay silent when we know what's right?"
 
 <!-- lesson-plan:evidence -->
 **Studying the Evidence — 12 minutes:** Read the account, pausing at the wording of the pledge, at the apology and the disavowal, and at Sa'd's testimony; then read the ayah and its tafsir.

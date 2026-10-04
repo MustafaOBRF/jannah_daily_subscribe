@@ -31,7 +31,7 @@ By the end of this lesson, the learner will be able to:
 
 ## Academic Section for Adults
 
-<!-- reader:start audience="adults" estimated_minutes="6.5" -->
+<!-- reader:start audience="adults" estimated_minutes="7.0" -->
 
 <!-- unit:start id="adults.explanation" kind="explanation" -->
 
@@ -59,7 +59,7 @@ Ibn Taymiyyah, may Allah have mercy on him, established that Allah sustains from
 
 #### Lesson Explanation
 
-The gaps of this world are small when measured against the gaps of the Hereafter, and the striving that Allah acknowledges brings together three things: the will, the deed, and faith.
+The gaps of this world are small when measured against the gaps of the Hereafter, and the striving that Allah acknowledges brings together three things: desire, effort, and faith.
 
 <!-- evidence:end -->
 
@@ -91,7 +91,7 @@ The hadith guards against two errors: the despair of someone who thinks Jannah i
 
 <!-- evidence:translation -->
 
-> On the authority of Abu Sa'id al-Khudri, may Allah be pleased with him, the Prophet, peace and blessings be upon him, said: **"The people of Jannah will gaze up at the people of the lofty chambers above them as you gaze at a brilliant star lingering far off on the horizon, in the east or the west, because of how they differ in rank."** They said, "O Messenger of Allah, those are the stations of the prophets, which no one else will reach?" He said: **"Not so! By the One in whose hand my soul rests, they are men who believed in Allah and affirmed the truth of the messengers."**[^4]
+> On the authority of Abu Sa'id al-Khudri, may Allah be pleased with him, the Prophet, peace and blessings be upon him, said: **"The people of Jannah will gaze up at the people of the lofty chambers above them just as they gaze at a brilliant star lingering far off on the horizon, in the east or the west, because of how they differ in rank."** They said, "O Messenger of Allah, those are the stations of the prophets, which no one else will reach?" He said: **"Not so! By the One in whose hand my soul rests, they are men who believed in Allah and affirmed the truth of the messengers."**[^4]
 
 #### Scholarly Explanation
 
@@ -154,7 +154,7 @@ Write down one door of goodness in which someone else is ahead of you because of
 
 ## For Children Ages 4 to 7
 
-<!-- reader:start audience="4-7" estimated_minutes="5.0" -->
+<!-- reader:start audience="4-7" estimated_minutes="5.5" -->
 
 <!-- unit:start id="4-7.explanation" kind="explanation" -->
 
@@ -172,7 +172,7 @@ All of Jannah is beautiful, and everyone who goes there is very, very happy. But
 
 <!-- retelling:start source_id="muslim-595a" audience="4-7" -->
 
-In the city of Madinah, some of the Prophet's friends, peace and blessings be upon him, were poor. They had no money. Some of his other friends were rich, with lots and lots of money. The poor friends came to the Prophet, peace and blessings be upon him, and said: "O Messenger of Allah, the rich people have gotten ahead of us to the high levels of Jannah! They pray like we pray, and they fast like we fast, but they give their money in charity, and we can't."
+In the city of Madinah, some friends of the Prophet, peace and blessings be upon him, were poor. They had no money. Some of his other friends were rich, with lots and lots of money. The poor friends came to the Prophet, peace and blessings be upon him, and said: "O Messenger of Allah, the rich people have gotten ahead of us to the high levels of Jannah! They pray like we pray, and they fast like we fast, but they give their money in charity, and we can't."
 
 The poor friends did not say, "We want the rich people to lose their money." No! They wanted to do good, just like them.
 
@@ -232,7 +232,7 @@ With your mom or dad, trace around both your hands on a sheet of paper. Inside t
 
 ## For Children Ages 8 to 12
 
-<!-- reader:start audience="8-12" estimated_minutes="6.0" -->
+<!-- reader:start audience="8-12" estimated_minutes="7.0" -->
 
 <!-- unit:start id="8-12.explanation" kind="explanation" -->
 
@@ -262,7 +262,7 @@ You might think that everyone who enters Jannah ends up in the same place. But t
 
 <!-- retelling:start source_id="muslim-595a" audience="8-12" -->
 
-In Madinah, among the Prophet's Companions, peace and blessings be upon him, were some of the Emigrants (*al-Muhajirun*) who were poor and owned next to nothing. Among the Muslims there were also rich people with plenty of money. The poor Companions noticed something that worried them: the rich prayed just as they prayed and fasted just as they fasted, but then went further, giving charity and freeing slaves with their wealth, something the poor simply could not do.
+In Madinah, among the Companions of the Prophet, peace and blessings be upon him, were some of the Emigrants (*al-Muhajirun*) who were poor and owned next to nothing. Among the Muslims there were also rich people with plenty of money. The poor Companions noticed something that worried them: the rich prayed just as they prayed and fasted just as they fasted, but then went further, giving charity and freeing slaves with their wealth, something the poor simply could not do.
 
 So they came to the Prophet, peace and blessings be upon him, and said: "The people of wealth have carried off the highest degrees and the lasting bliss!" In other words: the people with money have beaten us to the high stations of Jannah. The Prophet, peace and blessings be upon him, asked them, "And how is that?" So they explained.
 
@@ -325,11 +325,11 @@ Draw a chart with three columns. In the first column, write a good deed that som
 
 ## For Teens, Ages 13+
 
-<!-- reader:start audience="13+" estimated_minutes="6.5" -->
+<!-- reader:start audience="13+" estimated_minutes="7.0" -->
 
 <!-- unit:start id="13+.explanation" kind="explanation" -->
 
-We live in an age of nonstop comparison: grades, followers, and achievements put on display across our screens every single day. The Qur'an does not deny that people differ in rank. It tells us, rather, that the ranking of the Hereafter is far greater: "And the Hereafter is greater in degrees and greater in distinction."[^1] In Jannah there are degrees, and between any two of them lies a distance like that between heaven and earth,[^3] and its people look up at the owners of the lofty chambers above them like a star far off on the horizon. When the Companions assumed those stations belonged to the prophets alone, the Prophet, peace and blessings be upon him, swore that they belong to "men who believed in Allah and affirmed the truth of the messengers."[^4]
+We live in an age of nonstop comparison: grades, followers, and achievements put on display across our screens every single day. The Qur'an does not deny that people differ in rank. It tells us, rather, that the ranking of the Hereafter is far greater: "And the Hereafter is greater in degrees and greater in distinction."[^1] In Jannah there are degrees, and between any two of them lies a distance like that between heaven and earth,[^3] and its people look up at the owners of the lofty chambers above them as at a star far off on the horizon. When the Companions assumed those stations belonged to the prophets alone, the Prophet, peace and blessings be upon him, swore that they belong to "men who believed in Allah and affirmed the truth of the messengers."[^4]
 
 So the question is not whether competition exists. The question is: what are we competing for, and with what kind of heart? Comparison can lead to envy, which wishes another person's blessing gone, or to aspiration, which pushes you to act. The account of the poor Emigrants is a living model of the second path.
 
@@ -517,7 +517,7 @@ Set aside one page for a week. Every time you catch yourself comparing yourself 
 **Activity — 8 minutes:** Students fill in three rows of the "Within My Reach" chart, and each student chooses one row to put into practice.
 
 <!-- lesson-plan:assessment -->
-**Assessment and Closing — 4 minutes:** Students answer the fourth understanding question aloud; then read the du'a together, and agree to review the follow-up card after a week.
+**Assessment and Closing — 4 minutes:** Students answer the fourth understanding question aloud. Then everyone reads the du'a together, and the class agrees to review the follow-up card after a week.
 
 <!-- lesson-plan:differentiation -->
 **Differentiation:** For students who struggle, a single row of the chart is enough, with ready-made examples to choose from. Advanced students are asked to read the hadith of the lofty chambers and write a sentence explaining "Not so! By the One in whose hand my soul rests."

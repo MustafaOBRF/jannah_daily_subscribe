@@ -31,13 +31,13 @@ Después de esta lección, el aprendiz será capaz de:
 
 ## Sección académica para adultos
 
-<!-- reader:start audience="adults" estimated_minutes="6.5" -->
+<!-- reader:start audience="adults" estimated_minutes="7.0" -->
 
 <!-- unit:start id="adults.explanation" kind="explanation" -->
 
 Los jardines de 'Adn (Yannat 'Adn) son los jardines de la morada permanente: en árabe, *'adn* significa residir y perdurar, y se dice *'adana bil-makan* de quien se establece en un lugar para quedarse.[^10] Ibn al-Qayyim consideró más probable que "jardines de 'Adn" sea un nombre que abarca todos los jardines del Paraíso y no uno solo de ellos, porque todos son morada de permanencia de la que nadie se marcha; Allah los prometió a Sus siervos creyentes y los unió a Su complacencia.[^1]
 
-A este tema va unido un sentido de enorme hondura: Allah, el Altísimo, distinguió a algunas de Sus criaturas creándolas con Su mano, como señal de honra. El Corán afirma expresamente que creó a Adán con Sus dos manos; está establecido en Sahih Muslim que plantó con Su mano la honra reservada a los más elevados de la gente del Paraíso; y está establecido, como dicho del Compañero Ibn Umar, que Allah esté complacido con ambos, que 'Adn es una de las cuatro cosas que creó con Su mano. La postura de Ahl as-Sunna al respecto es afirmar la mano como un atributo real de Allah, tal como corresponde a Su majestad, sin asemejarla a las manos de las criaturas, sin preguntar cómo es y sin desviar su sentido hacia "el poder" o "la gracia".
+A este tema va unido un sentido de enorme hondura: Allah, el Altísimo, distinguió a algunas de Sus criaturas creándolas con Su mano, como señal de honra. El Corán afirma expresamente que creó a Adán con Sus dos manos; está establecido en Sahih Muslim que plantó con Su mano la honra reservada a los más elevados de la gente del Paraíso; y está establecido como dicho del Compañero Ibn Umar (que Allah esté complacido con ambos) que 'Adn es una de las cuatro cosas que Allah creó con Su mano. La postura de Ahl as-Sunna al respecto es afirmar la mano como un atributo real de Allah, tal como corresponde a Su majestad, sin asemejarla a las manos de las criaturas, sin preguntar cómo es y sin desviar su sentido hacia "el poder" o "la gracia".
 
 Ambos sentidos se reúnen en el hadiz del debate entre Adán, a quien Allah creó con Su mano e hizo habitar en Su Jardín, y Moisés, para quien Allah escribió la Torá con Su mano. La lección práctica que se desprende es que el camino hacia la morada permanente pasa por el arrepentimiento, como se arrepintió Adán, y no por escudarse en el decreto divino para excusar el pecado.
 
@@ -83,7 +83,7 @@ La aleya define los jardines de 'Adn con dos rasgos: una morada excelente y una 
 
 #### Interpretación académica
 
-An-Nawawi dijo que las palabras "en el jardín de 'Adn" se refieren a quienes miran, es decir: estando ellos en el jardín de 'Adn. Al-Bujari incluyó el hadiz en el Libro del Tawhid para afirmar que los creyentes verán a su Señor, y los atributos que en él se mencionan se dejan pasar tal como vinieron, sin preguntar por el cómo.
+An-Nawawi dijo que las palabras "en el jardín de 'Adn" se refieren a quienes miran, es decir: estando ellos en el jardín de 'Adn. Al-Bujari incluyó el hadiz en el Libro del Tawhid para afirmar que los creyentes verán a su Señor, y los atributos que en él se mencionan se aceptan tal como han llegado, sin preguntar por el cómo.
 
 #### Explicación de la lección
 
@@ -145,7 +145,7 @@ De este dicho tomamos el sentido de honra que concuerda con el hadiz de la honra
 
 #### Traducción al español
 
-> **"Dijo: «¡Iblís! ¿Qué te impidió postrarte ante quien creé con Mis dos manos? ¿Te has ensoberbecido, o es que eres de los que se creen por encima?»."** (Sad 38:75)[^5]
+> **"Dijo: «¡Iblís! ¿Qué te impidió postrarte ante quien creé con Mis dos manos? ¿Te has ensoberbecido, o es que eres de los que se creen superiores?»."** (Sad 38:75)[^5]
 
 #### Interpretación académica
 
@@ -283,7 +283,7 @@ Después, Adán volvió a su Señor arrepentido, y Allah aceptó su arrepentimie
 
 <!-- retelling:start source_id="muslim-2652c" audience="4-7" -->
 
-Nuestro Profeta, la paz y las bendiciones de Allah sean con él, nos contó también que Moisés, la paz sea con él, se encontró con Adán ante su Señor, y Moisés le dijo: "¿Tú eres Adán, a quien Allah creó con Su mano y puso a vivir en Su Jardín, y después, por tu error, la gente bajó a la tierra?". Y Adán le respondió: "Moisés, ¿no encontraste en la Torá que esto ya estaba escrito junto a Allah antes de que yo fuera creado?". Moisés dijo: "Sí". Y el Profeta, la paz y las bendiciones de Allah sean con él, dijo: "Adán le ganó a Moisés con su respuesta".[^7]
+Nuestro Profeta, la paz y las bendiciones de Allah sean con él, nos contó también que Moisés, la paz sea con él, se encontró con Adán ante su Señor, y Moisés le dijo: "¿Tú eres Adán, a quien Allah creó con Su mano y puso a vivir en Su Jardín, y después, por tu error, la gente bajó a la tierra?". Y Adán le respondió: "Moisés, ¿no encontraste en la Torá que Allah ya había escrito esto antes de que yo fuera creado?". Moisés dijo: "Sí". Y el Profeta, la paz y las bendiciones de Allah sean con él, dijo: "Adán le ganó a Moisés con su respuesta".[^7]
 
 Los sabios nos explican: Adán ya se había arrepentido, y Allah lo había perdonado; por eso no le echamos la culpa a nadie por un error del que ya se arrepintió.[^9]
 
@@ -325,7 +325,7 @@ Con tu papá o tu mamá, dibuja un caminito con tres círculos y, al final, una 
 
 > اللَّهُمَّ تُبْ عَلَيْنَا كَمَا تُبْتَ عَلَى أَبِينَا آدَمَ، وَأَسْكِنَّا جَنَّاتِ عَدْنٍ بِرَحْمَتِكَ.
 
-Quiere decir: "Oh Allah, acepta que volvamos a Ti, como aceptaste que volviera a Ti nuestro padre Adán, y déjanos vivir en los jardines de 'Adn, por Tu misericordia".
+Quiere decir: "Oh Allah, acepta que volvamos a Ti, como aceptaste el regreso de nuestro padre Adán, y déjanos vivir en los jardines de 'Adn, por Tu misericordia".
 
 <!-- bedtime-dua:end -->
 
@@ -426,7 +426,7 @@ Su significado: "Oh Allah, acepta nuestro arrepentimiento como aceptaste el arre
 
 ## Para adolescentes de 13+
 
-<!-- reader:start audience="13+" estimated_minutes="6.5" -->
+<!-- reader:start audience="13+" estimated_minutes="7.0" -->
 
 <!-- unit:start id="13+.explanation" kind="explanation" -->
 

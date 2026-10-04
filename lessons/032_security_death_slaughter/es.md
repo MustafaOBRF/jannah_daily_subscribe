@@ -31,7 +31,7 @@ Después de esta lección, el aprendiz será capaz de:
 
 ## Sección académica para adultos
 
-<!-- reader:start audience="adults" estimated_minutes="6.5" -->
+<!-- reader:start audience="adults" estimated_minutes="7.0" -->
 
 <!-- unit:start id="adults.explanation" kind="explanation" -->
 
@@ -81,7 +81,7 @@ La escena reúne tres momentos: un conocimiento cierto ("esta es la muerte", y t
 
 #### Explicación de la lección
 
-El hadiz precisa el momento: cuando ambos grupos ya se han establecido en sus moradas. La gente del Paraíso vive ya en el deleite antes de la proclamación, y a ese deleite se le suma una alegría nueva: la certeza de que no se interrumpirá. La plenitud de una gracia está en saberla a salvo de perderse.
+El hadiz precisa el momento: cuando ambos grupos ya se han establecido en sus moradas. La gente del Paraíso vive ya en el deleite antes de la proclamación, y a ese deleite se le suma una alegría nueva: la certeza de que no se interrumpirá. La plenitud de una bendición está en saberla a salvo de perderse.
 
 <!-- evidence:end -->
 
@@ -103,7 +103,7 @@ Ibn Kazir, Allah tenga misericordia de él, transmitió de Ibn Abbás, que Allah
 
 #### Explicación de la lección
 
-La segunda aleya completa el sentido: todo lo que hay en la tierra se hereda de sus dueños, y el regreso es solo a Allah. El descuido no consiste, pues, en ignorar que existe la muerte, sino en estar ocupado, lejos de ella, con lo que uno va a dejar atrás.
+La segunda aleya completa el sentido: todo lo que hay en la tierra se hereda de sus dueños, y el regreso es solo a Allah. El descuido no consiste, pues, en ignorar que existe la muerte, sino en distraerse de ella con lo que uno va a dejar atrás.
 
 <!-- evidence:end -->
 
@@ -125,7 +125,7 @@ As-Sa'di, Allah tenga misericordia de él, dijo sobre {seguros}: seguros "de la 
 
 #### Explicación de la lección
 
-Las aleyas mencionan cuatro dimensiones de la seguridad: seguridad al entrar; seguridad en los corazones, al arrancarles el rencor; seguridad en los cuerpos, libres de fatiga; y seguridad en la morada, sin expulsión posible. El hadiz del sacrificio de la muerte corona estas cuatro dimensiones eliminando lo último que aún podría temerse. Y llama la atención que la seguridad frente a los demás aparezca entre la seguridad al entrar y la seguridad frente a la fatiga: nadie está del todo seguro mientras guarda en el pecho rencor contra su hermano o miedo de él. Por eso, limpiar el corazón de envidia y resentimiento en este mundo es prepararse para aquella seguridad, y no simplemente un buen modal social.
+Las aleyas mencionan cuatro dimensiones de la seguridad: seguridad al entrar; seguridad en los corazones, al arrancarles el rencor; seguridad en los cuerpos, libres de fatiga; y seguridad en la morada, sin expulsión posible. El hadiz del sacrificio de la muerte corona estas cuatro dimensiones eliminando lo último que aún podría temerse. Y llama la atención que la seguridad frente a los demás aparezca entre la seguridad al entrar y la seguridad frente a la fatiga: nadie está del todo seguro mientras guarda en el pecho rencor contra su hermano o miedo de él. Por eso, limpiar el corazón de envidia y resentimiento en este mundo es prepararse para aquella seguridad, y no una simple virtud social.
 
 <!-- evidence:end -->
 
@@ -135,7 +135,7 @@ Las aleyas mencionan cuatro dimensiones de la seguridad: seguridad al entrar; se
 
 ## Preguntas para la comprensión y la reflexión
 
-1. ¿Por qué forma parte de la plenitud de la escena que todos reconozcan a la muerte antes de que sea sacrificada?
+1. ¿Por qué es parte esencial de la escena que todos reconozcan a la muerte antes de que sea sacrificada?
 2. Según el hadiz de Ibn Umar, ¿qué diferencia hay entre el deleite antes de la proclamación y el deleite después de ella?
 3. Menciona las cuatro dimensiones de la seguridad en las aleyas de Al-Hiyr. ¿Cuál de ellas responde más a lo que necesitas hoy?
 4. ¿Por qué cerró el Profeta, la paz y las bendiciones de Allah sean con él, el hadiz con la aleya de advertencia y señaló hacia este mundo?
@@ -164,7 +164,7 @@ Reserva dos minutos antes de dormir durante siete noches y escribe en dos column
 
 <!-- unit:start id="4-7.explanation" kind="explanation" -->
 
-¿Alguna vez estabas jugando a algo muy divertido y te dijeron: "Se acabó el tiempo"? ¿O vinieron a verte tus abuelos y luego llegó la hora de decir adiós? En este mundo, las cosas bonitas se terminan. Pero en el Paraíso todo es bonito, y nada se termina nunca. Allí nadie se cansa, nadie se enferma, nadie se despide y nadie tiene que irse.[^3] Y nuestro Profeta, la paz y las bendiciones de Allah sean con él, nos contó una noticia asombrosa que hace que la gente del Paraíso esté tranquila para siempre.
+¿Te ha pasado alguna vez que estabas jugando a algo muy divertido y te dijeron: "Se acabó el tiempo"? ¿O que vinieron a verte tus abuelos y luego llegó la hora de decir adiós? En este mundo, las cosas bonitas se terminan. Pero en el Paraíso todo es bonito, y nada se termina nunca. Allí nadie se cansa, nadie se enferma, nadie se despide y nadie tiene que irse.[^3] Y nuestro Profeta, la paz y las bendiciones de Allah sean con él, nos contó una noticia asombrosa que hace que la gente del Paraíso esté tranquila para siempre.
 
 <!-- unit:end -->
 
@@ -190,7 +190,7 @@ Cuando el Profeta, la paz y las bendiciones de Allah sean con él, terminó de c
 
 <!-- retelling:start source_id="bukhari-4730" audience="4-7" -->
 
-Dicho de forma sencilla: llegará un día en que la muerte misma se acabará, y a la gente del Paraíso le dirán: "Quédense para siempre, ya no hay muerte". Allí no hay miedo ni despedidas. Y nosotros, ahora, en este mundo, nos acordamos de aquel día: hacemos el bien y no nos olvidamos de él.[^1]
+Dicho de forma sencilla: llegará un día en que la muerte misma se acabará, y a la gente del Paraíso le dirán: "Quédense para siempre, ya no hay muerte". Allí no hay miedo ni despedidas. Y nosotros, ahora, en este mundo, nos acordamos de aquel día: hacemos el bien y no nos olvidamos de ese día.[^1]
 
 <!-- retelling:end -->
 
@@ -441,7 +441,7 @@ Su sentido: Oh Allah, haznos entrar en el Paraíso en completa seguridad, añád
 **Preparación:** el docente lee al-Bujari 4730 y 6548 y Muslim 2849 y 2850, y compara sus formulaciones; repasa el tafsir de Ibn Kazir sobre Maryam 19:39, el de as-Sa'di sobre Al-Hiyr 15:46 y 15:48, y el capítulo sobre el sacrificio de la muerte en *Hadi al-Arwah* de Ibn al-Qayyim. Tiene presente que la lección anterior de la serie, sobre la eternidad del Paraíso, trató las aleyas de la sura Al-Waqi'a y el hadiz de Muslim 2837, de modo que aquí solo se aluden de pasada. Y se prepara para la pregunta: "¿Cómo puede sacrificarse la muerte, si no es un cuerpo?".
 
 <!-- lesson-plan:opening -->
-**Apertura — 5 minutos:** el docente pregunta: «¿Cuál es la gracia más bonita que tienen ahora mismo? ¿Y qué le resta alegría?». Con delicadeza, orienta el diálogo hacia la idea de que el miedo a perderlo acompaña a todo deleite de este mundo, y entonces plantea la pregunta de la lección.
+**Apertura — 5 minutos:** el docente pregunta: «¿Cuál es la bendición más bonita que tienen ahora mismo? ¿Y qué le quita parte de la alegría que les da?». Con delicadeza, orienta el diálogo hacia la idea de que el miedo a perderlo acompaña a todo deleite de este mundo, y entonces plantea la pregunta de la lección.
 
 <!-- lesson-plan:evidence -->
 **Estudio de las evidencias — 20 minutos:** se lee completo el hadiz de Abu Sa'id, y los participantes rellenan las tres columnas de la pizarra (8 minutos). Luego se leen los añadidos de Muslim y el hadiz de Ibn Umar, y se pregunta: «¿Cuándo ocurre esto? ¿Y qué añade?» (5 minutos). Después se leen las aleyas de Al-Hiyr con el tafsir de as-Sa'di, y los participantes extraen las cuatro dimensiones de la seguridad (7 minutos).
@@ -486,7 +486,7 @@ Su sentido: Oh Allah, haznos entrar en el Paraíso en completa seguridad, añád
 **Instrucción guiada — 4 minutos:** el educador pregunta: «¿Por qué se alegró la gente del Paraíso?», y explica que lo más bonito del Paraíso es que allí nadie tiene miedo de que algo se acabe, y que el Profeta, la paz y las bendiciones de Allah sean con él, nos recordó que no nos olvidemos de aquel día mientras jugamos.
 
 <!-- lesson-plan:activity -->
-**Actividad — 7 minutos:** el niño prepara su cielo de noche, pega la primera estrella dorada por algo bueno que hizo hoy y dibuja la primera estrella vacía por lo que hará mañana; y se acuerda con su papá o su mamá hacer el seguimiento cada noche.
+**Actividad — 7 minutos:** el niño prepara su cielo de noche, pega la primera estrella dorada por algo bueno que hizo hoy y dibuja la primera estrella vacía por lo que hará mañana; y se acuerda con su papá o su mamá que harán juntos el seguimiento cada noche.
 
 <!-- lesson-plan:assessment -->
 **Evaluación y cierre — 4 minutos:** se observa si el niño es capaz de decir qué le dijeron a la gente del Paraíso y si puede nombrar una cosa buena que hizo. Después leen juntos la súplica.
@@ -525,7 +525,7 @@ Su sentido: Oh Allah, haznos entrar en el Paraíso en completa seguridad, añád
 **Actividad — 10 minutos:** los estudiantes rellenan la primera fila de la tabla sobre su día; luego, por parejas, se intercambian las hojas para comprobar que la "corrección" sea concreta, sin leer el "momento en que me olvidé" salvo que su autor lo permita.
 
 <!-- lesson-plan:assessment -->
-**Evaluación y cierre — 5 minutos:** cada estudiante escribe dos frases: "¿Qué le dijeron a la gente del Paraíso?" y "¿Qué significa que {ni será jamás sacada de allí}?". Después se lee la súplica y se acuerda compartir el número de marcas al cabo de una semana.
+**Evaluación y cierre — 5 minutos:** cada estudiante escribe dos frases: "¿Qué le dijeron a la gente del Paraíso?" y "¿Qué significa {ni serán jamás sacados de allí}?". Después se lee la súplica y se acuerda compartir el número de marcas al cabo de una semana.
 
 <!-- lesson-plan:differentiation -->
 **Diferenciación:** a quienes tengan dificultades se les da una tabla de solo dos columnas, con ejemplos de correcciones ya preparados. A los más avanzados se les pide memorizar las aleyas de Al-Hiyr 15:45-48 y comparar las versiones de Abu Sa'id y de Ibn Umar.

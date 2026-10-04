@@ -25,13 +25,13 @@ Au terme de cette leçon, l'apprenant sera capable de :
 - Affirmer l'attribut de la Main pour Allah, exalté soit-Il, tel qu'Il l'a affirmé Lui-même en disant `ce que J'ai créé de Mes deux mains` (Sad 38:75), tout en écartant toute ressemblance par Sa parole `Rien n'est semblable à Lui` (ash-Shura 42:11) : sans L'assimiler à Ses créatures, sans s'interroger sur le comment, et sans nier l'attribut.
 - Distinguer, sur ce sujet, ce qui est établi de façon authentique comme parole du Prophète (`J'ai planté leur honneur de Ma main`, Muslim 189), le propos d'Ibn 'Umar sur la création de 'Adn par la Main, qui est sa propre parole (*mawquf*) transmise par une chaîne authentique, et les récits attribués au Prophète sur ce point, qui ne sont pas établis.
 - Raconter le hadith de la controverse entre Adam et Musa, paix sur eux (Muslim 2652), et montrer qu'Adam, qu'Allah avait créé de Sa Main et installé dans Sa Jannah, en sortit à cause d'une faute, puis qu'Allah accepta son repentir (Ta-Ha 20:120-122).
-- Faire la différence entre invoquer le décret divin face à un malheur survenu, une fois le repentir accompli — ce que fit Adam —, et invoquer le décret pour justifier la désobéissance, ce qui est faux.
+- Faire la différence entre invoquer le décret divin face à un malheur survenu, une fois le repentir accompli — ce que fit Adam —, et invoquer le décret pour justifier la désobéissance, ce qui est irrecevable.
 - Réaliser l'activité « Le chemin du retour sur les pas d'Adam » en dessinant les trois étapes d'un retour sincère après un faux pas bien réel, et en s'engageant à ne plus reprocher sa faute à quiconque s'en est repenti et s'en est excusé.
 - Réciter, avant de dormir, l'invocation de la leçon, qui demande un repentir semblable à celui d'Adam et une demeure dans les jardins de 'Adn.
 
 ## Section Académique Pour Adultes
 
-<!-- reader:start audience="adults" estimated_minutes="6.5" -->
+<!-- reader:start audience="adults" estimated_minutes="7.0" -->
 
 <!-- unit:start id="adults.explanation" kind="explanation" -->
 
@@ -105,7 +105,7 @@ Ce qu'il y a de plus haut à obtenir dans le jardin de 'Adn, ce n'est ni l'or ni
 
 #### Interprétation Savante
 
-Il s'agit de la fin du hadith où Musa interroge son Seigneur sur celui dont le rang est le plus bas en Jannah et sur ceux dont le rang est le plus élevé ; son début — la description du rang le plus bas — a été omis, car il ne change pas le sens de ce passage. C'est le texte le plus authentique remontant au Prophète, sur ce sujet, qui affirme une plantation faite de la Main d'Allah dans la Jannah ; c'est par lui qu'Ibn al-Qayyim clôt le chapitre qu'il consacre à l'éminence de ce qu'Allah a planté de Sa Main.
+Il s'agit de la fin du hadith où Musa interroge son Seigneur sur celui dont le rang est le plus bas en Jannah et sur ceux dont le rang est le plus élevé ; son début — la description du rang le plus bas — a été omis, car il ne change pas le sens de ce passage. C'est, sur ce sujet, le texte remontant au Prophète le plus authentique qui affirme une plantation faite de la Main d'Allah dans la Jannah ; c'est par lui qu'Ibn al-Qayyim clôt le chapitre qu'il consacre à l'éminence de ce qu'Allah a planté de Sa Main.
 
 #### Explication De La Leçon
 
@@ -337,7 +337,7 @@ Ce qu'elle veut dire : « Ô Allah, accepte notre retour vers Toi comme Tu as 
 
 ## Pour Les Enfants De 8 À 12 Ans
 
-<!-- reader:start audience="8-12" estimated_minutes="6.0" -->
+<!-- reader:start audience="8-12" estimated_minutes="6.5" -->
 
 <!-- unit:start id="8-12.explanation" kind="explanation" -->
 
@@ -386,7 +386,7 @@ Pourquoi Adam a-t-il eu le dernier mot ? Les savants expliquent qu'Adam s'étai
 ### Questions De Compréhension Et De Réflexion
 
 1. Par quoi Allah a-t-Il honoré Adam, d'après ce que dit Musa dans le hadith ?
-2. Que le Diable a-t-il promis à Adam ? Et où se trouve la vraie vie éternelle ?
+2. Qu'est-ce que le Diable a promis à Adam ? Et où se trouve la vraie vie éternelle ?
 3. Pourquoi un élève qui a négligé ses devoirs ne peut-il pas dire : « C'était écrit pour moi » ?
 4. Un camarade s'est excusé d'une erreur qu'il a faite dans l'équipe, mais les autres continuent de la lui rappeler chaque jour. Que leur dis-tu ?
 
@@ -426,7 +426,7 @@ Son sens : « Ô Allah, accepte notre repentir comme Tu as accepté le repenti
 
 ## Pour Les Adolescents, 13 Ans Et Plus
 
-<!-- reader:start audience="13+" estimated_minutes="6.5" -->
+<!-- reader:start audience="13+" estimated_minutes="7.0" -->
 
 <!-- unit:start id="13+.explanation" kind="explanation" -->
 
@@ -548,7 +548,7 @@ Son sens : « Ô Allah, de même que Tu as élu Adam après son faux pas, que 
 **Différenciation :** pour les débutants, on se limite aux versets de Sad et d'ash-Shura et au hadith d'Adam et de Musa. Aux apprenants avancés, on demande une brève étude de l'origine du propos d'Ibn 'Umar chez ad-Darimi et al-Hakim, ainsi qu'une comparaison entre l'avis d'an-Nawawi sur « dans le jardin de 'Adn » et d'autres avis.
 
 <!-- lesson-plan:safeguards -->
-**Précautions pédagogiques :** n'employer aucune comparaison sensible pour la Main, ne pas la dessiner, ne pas la désigner par un geste de la main, et ne pas entrer dans son interprétation par la puissance ou le bienfait. Ne pas présenter le propos d'Ibn 'Umar comme un hadith du Prophète, et ne pas utiliser les récits faibles pour décrire 'Adn. Il est interdit de tirer de ce hadith une thèse fataliste ou une négation de la responsabilité. On ne demande à personne de révéler son péché.
+**Précautions pédagogiques :** n'employer aucune comparaison concrète pour la Main, ne pas la dessiner, ne pas la désigner par un geste de la main, et ne pas entrer dans son interprétation par la puissance ou le bienfait. Ne pas présenter le propos d'Ibn 'Umar comme un hadith du Prophète, et ne pas utiliser les récits faibles pour décrire 'Adn. Il est interdit de tirer de ce hadith une thèse fataliste ou une négation de la responsabilité. On ne demande à personne de révéler son péché.
 
 <!-- lesson-plan:end -->
 

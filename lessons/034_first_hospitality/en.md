@@ -31,13 +31,13 @@ After this lesson, the learner will be able to:
 
 ## Academic Section for Adults
 
-<!-- reader:start audience="adults" estimated_minutes="6.5" -->
+<!-- reader:start audience="adults" estimated_minutes="7.0" -->
 
 <!-- unit:start id="adults.explanation" kind="explanation" -->
 
 When a dear guest arrives after a long journey, a generous host does not wait for them to sit down and ask for something. He meets them at the door with something good, prepared before they ever arrived. That familiar human instinct opens the door to this lesson. Once the people of Jannah have crossed the Sirat and entered Jannah, they are received with a hospitality the Prophet, peace and blessings be upon him, described in remarkable detail: first a welcome gift, then a meal after it, then a drink. And this report came as the answer to questions from a learned Jewish rabbi, in a scene that also teaches us how to ask about the unseen and how to answer.
 
-This lesson follows the lessons on entering Jannah, on the reception, and on the glad tidings, and it pauses at one single moment: the very first thing offered to the people of Jannah. The food and drink of Jannah in general have their own lesson later in the series.
+This lesson follows the lessons on entering Jannah, on the reception, and on the glad tidings, and it pauses at a single moment: the very first thing offered to the people of Jannah. The food and drink of Jannah in general have their own lesson later in the series.
 
 <!-- unit:end -->
 
@@ -61,7 +61,7 @@ An-Nawawi, may Allah have mercy on him, explains: a *habr* is a learned man; "he
 
 #### Lesson Explanation
 
-The hadith maps out the order of the hospitality: a welcome gift on entry, then a meal "after it," then a drink. This is an honor prepared before the guests arrive, not food to stave off hunger. The account also carries two points of etiquette. The first is the Prophet's gentleness, peace and blessings be upon him, toward a questioner who addressed him by his bare name: he did not grow angry, but simply stated that his name was Muhammad. The second is his question, "Will anything benefit you if I tell you?", a reminder that the purpose of knowledge is to benefit from it. And he closed, peace and blessings be upon him, by declaring that his knowledge of these things came from Allah alone, for the unseen is received only through revelation.
+The hadith maps out the order of the hospitality: a welcome gift on entry, then a meal "after it," then a drink. This is an honor prepared before the guests arrive, not food to stave off hunger. The account also carries two points of etiquette. The first is the gentleness of the Prophet, peace and blessings be upon him, toward a questioner who addressed him by his bare name: he did not grow angry, but simply stated that his name was Muhammad. The second is his question, "Will anything benefit you if I tell you?", a reminder that the purpose of knowledge is to benefit from it. And he closed, peace and blessings be upon him, by declaring that his knowledge of these things came from Allah alone, for the unseen is received only through revelation.
 
 <!-- evidence:end -->
 
@@ -130,7 +130,7 @@ Allah called the whole of Jannah's bliss a *nuzul*, a hospitality laid out for a
 1. What is the difference between the "welcome gift" and the "meal" in Thawban's hadith, and what does their order signify?
 2. How did the Prophet, peace and blessings be upon him, deal with a rabbi who called him by his bare name, and with Thawban's impulsive shove?
 3. What does the question "Will anything benefit you if I tell you?" teach us about our intention in seeking knowledge?
-4. Why is the Prophet's closing statement, peace and blessings be upon him, "I had no knowledge of any of it until Allah brought it to me," a governing principle whenever we speak about the unseen?
+4. Why is the closing statement of the Prophet, peace and blessings be upon him, "I had no knowledge of any of it until Allah brought it to me," a governing principle whenever we speak about the unseen?
 5. How does as-Sa'di bring together the names "Most Forgiving" and "Most Merciful" in explaining the meaning of *nuzul*?
 6. Who was the last guest you welcomed? Did you prepare anything for them before they arrived?
 
@@ -152,7 +152,7 @@ This week, host one guest on purpose: a relative, a new neighbor, or a colleague
 
 ## For Children Ages 4 to 7
 
-<!-- reader:start audience="4-7" estimated_minutes="5.0" -->
+<!-- reader:start audience="4-7" estimated_minutes="6.0" -->
 
 <!-- unit:start id="4-7.explanation" kind="explanation" -->
 
@@ -168,7 +168,7 @@ When Grandma comes to visit, what does your mom do at the door? She smiles and s
 
 **This really happened. A Companion named Thawban, may Allah be pleased with him, told us about it. It is not a made-up story.**
 
-Thawban was standing next to the Prophet, peace and blessings be upon him. Along came a man who was one of the scholars of the Jews, and he said, "Peace be upon you, O Muhammad."
+Thawban was standing next to the Prophet, peace and blessings be upon him. Along came one of the scholars of the Jews, and he said, "Peace be upon you, O Muhammad."
 
 Thawban gave him a hard push, and the man almost fell over! Thawban said to him, "Why don't you say, 'O Messenger of Allah'?" The scholar said, "We call him by the name his family gave him."
 
@@ -242,7 +242,7 @@ What it means: O Allah, make us Your guests in Jannah, give us the present its p
 
 ## For Children Ages 8 to 12
 
-<!-- reader:start audience="8-12" estimated_minutes="6.0" -->
+<!-- reader:start audience="8-12" estimated_minutes="7.0" -->
 
 <!-- unit:start id="8-12.explanation" kind="explanation" -->
 
@@ -270,7 +270,7 @@ On the first day at a new school, a lot of students remember one moment for the 
 
 **This is a true account narrated by Thawban, may Allah be pleased with him, in Sahih Muslim. It is not a made-up story.**
 
-Thawban, the freed servant of the Prophet, peace and blessings be upon him, was standing beside him. Then a *habr*, one of the rabbis of the Jews, meaning one of their scholars, came up and said, "Peace be upon you, O Muhammad."
+Thawban, the freed servant of the Prophet, peace and blessings be upon him, was standing beside him. Then a *habr*, one of the Jewish rabbis (that is, one of their scholars), came up and said, "Peace be upon you, O Muhammad."
 
 Thawban shoved him so hard that he almost fell. The man said, "Why are you pushing me?" Thawban said, "Why don't you say, 'O Messenger of Allah'?" The rabbi said, "We only call him by the name his family gave him."
 
@@ -298,10 +298,10 @@ To put it another way: the people of Jannah are received with a welcome gift, th
 
 ### Understanding and Reflection Questions
 
-1. Why did Thawban push the rabbi? And how was the Prophet's response, peace and blessings be upon him, different?
+1. Why did Thawban push the rabbi? And how was the response of the Prophet, peace and blessings be upon him, different?
 2. Put the hospitality of the people of Jannah in order: what comes first, what comes after it, and what do they drink?
 3. Why did the Prophet, peace and blessings be upon him, ask, "Will anything benefit you if I tell you?"
-4. Where did the Prophet's knowledge of these things come from, peace and blessings be upon him?
+4. Where did the Prophet, peace and blessings be upon him, get his knowledge of these things?
 5. How could you welcome a new student in your class so that they feel truly wanted?
 
 <!-- unit:end -->
@@ -312,7 +312,7 @@ To put it another way: the people of Jannah are received with a welcome gift, th
 
 <!-- activity:start audience="8-12" concept_id="lesson.034.activity.welcome-in-three-stations" -->
 
-Pick a guest you are going to welcome this week: a relative coming to visit, or a new student in your class. Draw a card with three columns: "Arrival Gift" (something small you prepare ahead of time), "Next" (food or something you do together), and "To Finish" (a drink or a kind word). Carry out your plan, then write two sentences under the card: What did your guest do at the first station? And what did you learn about the hospitality of Jannah?
+Pick a guest you are going to welcome this week: a relative coming to visit, or a new student in your class. Make a card with three columns: "Arrival Gift" (something small you prepare ahead of time), "Next" (food or something you do together), and "To Finish" (a drink or a kind word). Carry out your plan, then write two sentences under the card: What did your guest do at the first station? And what did you learn about the hospitality of Jannah?
 
 <!-- activity:end -->
 
@@ -338,11 +338,11 @@ Meaning: O Allah, make Jannah our welcome and our home, honor us there with the 
 
 ## For Teens, Ages 13+
 
-<!-- reader:start audience="13+" estimated_minutes="6.5" -->
+<!-- reader:start audience="13+" estimated_minutes="7.0" -->
 
 <!-- unit:start id="13+.explanation" kind="explanation" -->
 
-A classmate from another faith might ask you, or someone might comment under a post, "So what are you all going to eat in your Paradise?" in a tone that is testing you or mocking you. You have three possible responses: get worked up and defend yourself hard, stay quiet because you don't know, or answer calmly from a reliable source. This lesson contains a real scene in which a scholar from among the Jewish rabbis tested the Prophet, peace and blessings be upon him, with questions about the unseen, including this one: What is the first honor given to the people of Jannah? The answer itself is astonishing, but the way it was answered is a second lesson that matters just as much.
+A classmate from another faith might ask you, or someone might comment under a post, "So what are you all going to eat in your Paradise?" in a tone that is testing you or mocking you. You have three possible responses: get worked up and defend yourself aggressively, stay quiet because you don't know, or answer calmly from a reliable source. This lesson contains a real scene in which a scholar from among the Jewish rabbis tested the Prophet, peace and blessings be upon him, with questions about the unseen, including this one: What is the first honor given to the people of Jannah? The answer itself is astonishing, but the way it was answered is a second lesson that matters just as much.
 
 <!-- unit:end -->
 
@@ -367,7 +367,7 @@ A classmate from another faith might ask you, or someone might comment under a p
 
 **This is a true account narrated in Sahih Muslim by Thawban, may Allah be pleased with him, the freed servant of the Messenger of Allah, peace and blessings be upon him. It is not an imagined scene.**
 
-Thawban is the Prophet's freed servant, peace and blessings be upon him, always at his side and seeing to his needs. A rabbi from among the Jews walks in and says, "Peace be upon you, O Muhammad." Thawban shoves him so hard he nearly goes down, and says, "Why don't you say, 'O Messenger of Allah'?" The rabbi replies, "We only call him by the name his family gave him."
+Thawban is the freed servant of the Prophet, peace and blessings be upon him, always at his side and seeing to his needs. A rabbi from among the Jews walks in and says, "Peace be upon you, O Muhammad." Thawban shoves him so hard he nearly goes down, and says, "Why don't you say, 'O Messenger of Allah'?" The rabbi replies, "We only call him by the name his family gave him."
 
 Notice how the Prophet, peace and blessings be upon him, handles it. He doesn't demand a title for himself, and he doesn't escalate. He just says, "My name is Muhammad, the name my family gave me." Thawban's words make it clear that he meant to honor the Prophet, peace and blessings be upon him, but what actually opened the door to conversation was the Prophet's calm, not the shove.
 
@@ -510,7 +510,7 @@ Meaning: O Allah, make Jannah the welcome in which we are received as guests in 
 ### Children Ages 8-12 — 40 Minutes
 
 <!-- lesson-plan:outcomes -->
-**Learning Outcomes:** The student retells the account in sequence; explains the three terms; compares Thawban's action with the Prophet's response, peace and blessings be upon him; and plans to welcome a guest on a three-column card.
+**Learning Outcomes:** The student retells the account in sequence; explains the three terms; compares Thawban's action with the response of the Prophet, peace and blessings be upon him; and plans to welcome a guest on a three-column card.
 
 <!-- lesson-plan:materials -->
 **Materials:** Term cards; six sequence cards without pictures ("The Greeting," "The Shove," "The Name," "Will It Benefit You?", "The Questions," "Allah Taught Me"); activity cards; pens.
@@ -531,7 +531,7 @@ Meaning: O Allah, make Jannah the welcome in which we are received as guests in 
 **Activity — 10 minutes:** Each student fills in the three-station card for a specific guest, then shows it to a classmate, who checks that the "arrival gift" is something that can really be prepared.
 
 <!-- lesson-plan:assessment -->
-**Assessment and Closing — 5 minutes:** Each student writes two sentences: "What is the welcome gift of the people of Jannah?" and "What did I learn from the Prophet's response to the rabbi, peace and blessings be upon him?" Then read the du'a, and agree to share the cards in a week.
+**Assessment and Closing — 5 minutes:** Each student writes two sentences: "What is the welcome gift of the people of Jannah?" and "What did I learn from how the Prophet, peace and blessings be upon him, responded to the rabbi?" Then read the du'a, and agree to share the cards in a week.
 
 <!-- lesson-plan:differentiation -->
 **Differentiation:** For students who struggle, provide a card with ready-made examples. Ask advanced students to read the account of Abd Allah ibn Salam and write down how the two stories resemble each other.

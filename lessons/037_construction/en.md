@@ -31,13 +31,13 @@ After this lesson, the learner will be able to:
 
 ## Academic Section for Adults
 
-<!-- reader:start audience="adults" estimated_minutes="6.5" -->
+<!-- reader:start audience="adults" estimated_minutes="7.0" -->
 
 <!-- unit:start id="adults.explanation" kind="explanation" -->
 
 We all know building from experience: a foundation, then bricks, then walls, then a roof, and finally the finishing touches. We also know that every building in this world wears out, that its owners may disagree about its design, and that people will talk about it. Coming after the lesson on the ground and soil of Jannah, this lesson asks: What do we know with certainty about the buildings of Jannah? What can we not state definitively? And how does a servant of Allah come to have something built for him there?
 
-The lesson rests on an authentic hadith that brings both questions together: a man builds a house for Allah in this world, people criticize his work, and he answers them with a Prophetic promise: Allah builds for whoever builds for Him the like of it in Jannah. The builder in Jannah, then, is Allah, and the material the servant supplies in this world is sincere work. After that, we read what has been authentically reported about the buildings themselves, and we put the report whose authenticity is disputed in its proper place.
+The lesson rests on an authentic hadith that brings both kinds of building together: a man builds a house for Allah in this world, people criticize his work, and he answers them with a Prophetic promise: for whoever builds for Allah, Allah builds the like of it in Jannah. The builder in Jannah, then, is Allah, and the material the servant supplies in this world is sincere work. After that, we read what has been authentically reported about the buildings themselves, and we put the report whose authenticity is disputed in its proper place.
 
 <!-- unit:end -->
 
@@ -65,7 +65,7 @@ Bukayr's words "I think he said" record one narrator's uncertainty about the exa
 
 #### Lesson Explanation
 
-The one who acts in this promise is Allah: "Allah will build for him." The building of Jannah, then, is not human craftsmanship that we can measure by our own; it is the gift of a generous Lord. And Uthman's answer, may Allah be pleased with him, is a model for anyone criticized over a good deed: he did not argue in his own defense; he referred the matter back to the text and to the intention.
+In this promise, the one who builds is Allah: "Allah will build for him." The building of Jannah, then, is not human craftsmanship that we can measure by our own; it is the gift of a generous Lord. And Uthman's answer, may Allah be pleased with him, is a model for anyone criticized over a good deed: he did not argue in his own defense; he referred the matter back to the text and to the intention.
 
 <!-- evidence:end -->
 
@@ -154,7 +154,7 @@ That is why the report is mentioned here only so the reader knows what the books
 1. According to the narration in Muslim and the hadith of Ibn Umar, why did people dislike the change to the mosque's building? And how did Uthman answer them?
 2. What is the difference between what this lesson affirms about the buildings of Jannah and what it mentions only with caution? Why?
 3. Explain an-Nawawi's two readings of the meaning of "the like of it."
-4. What is the significance of Allah being the one who acts in the promise: "Allah will build for him"?
+4. What is the significance of Allah being the one who builds in the promise: "Allah will build for him"?
 5. When does public work shift from "seeking the Face of Allah" to seeking recognition? What are the signs?
 6. How can you answer criticism of a good deed you are doing without defending yourself?
 
@@ -192,7 +192,7 @@ Have you ever built a house out of blocks? You put one block on top of another u
 
 **This really happened. It is recorded in Sahih al-Bukhari and Sahih Muslim, and it is not a made-up story.**
 
-In the city of Madinah, the Prophet's mosque, peace and blessings be upon him, was built of mud bricks. Its roof was made of palm leaves, and its pillars were made of palm-tree trunks.[^2]
+In the city of Madinah, the mosque of the Prophet, peace and blessings be upon him, was built of mud bricks. Its roof was made of palm leaves, and its pillars were made of palm-tree trunks.[^2]
 
 <!-- retelling:start source_id="bukhari-450" audience="4-7" -->
 
@@ -200,11 +200,11 @@ A long time later, Uthman ibn Affan, may Allah be pleased with him, became the l
 
 But some people didn't like that idea. They wanted the mosque to stay just the way it was. And they talked about it a lot.
 
-So what did Uthman do? He reminded them of what the Prophet, peace and blessings be upon him, had said. He told them: "You have talked a lot. And I heard the Prophet, peace and blessings be upon him, say: Whoever builds a mosque for Allah, Allah will build the same for him in Jannah."[^1]
+So what did Uthman do? He reminded them of what the Prophet, peace and blessings be upon him, had said. He told them: "You have talked a lot. And I heard the Prophet, peace and blessings be upon him, say: 'Whoever builds a mosque for Allah, Allah will build the same for him in Jannah.'"[^1]
 
 Then Uthman built the mosque out of stone, and he made it bigger.[^2]
 
-Look: Uthman built a house for Allah here in this world, and Allah is the One who builds in Jannah. And the most important thing about building is doing it for Allah, not so that people will say, "Wow, how beautiful!"[^1]
+See? Uthman built a house for Allah here in this world, and Allah is the One who builds in Jannah. And the most important thing about building is doing it for Allah, not so that people will say, "Wow, how beautiful!"[^1]
 
 <!-- retelling:end -->
 
@@ -216,7 +216,7 @@ Look: Uthman built a house for Allah here in this world, and Allah is the One wh
 
 ### Short Questions
 
-1. What was the Prophet's mosque, peace and blessings be upon him, built from?
+1. What was the mosque of the Prophet, peace and blessings be upon him, built from?
 2. What did Uthman want to do to the mosque?
 3. What did the Prophet, peace and blessings be upon him, say about someone who builds a mosque for Allah?
 4. Who builds the houses in Jannah?
@@ -230,7 +230,7 @@ Look: Uthman built a house for Allah here in this world, and Allah is the One wh
 
 <!-- activity:start audience="4-7" concept_id="lesson.037.activity.intention-before-the-first-stone" -->
 
-With your mom or dad, pick a small job for the prayer corner at home: straightening the prayer rugs, wiping the shelf, or putting the mushaf back in its place. Before you start, put your hand on your heart and say, "I'm doing this for Allah." When you're done, draw the prayer corner all neat and tidy, and tell your mom or dad: Did you do it for Allah, or so that someone would praise you?
+With your mom or dad, pick a small job for the prayer corner at home: straightening the prayer rugs, wiping the shelf, or putting the mushaf back in its place. Before you start, put your hand on your heart and say, "I'm doing this for Allah." When you're done, draw the prayer corner all neat and tidy, and tell your mom or dad whether you did it for Allah or so that someone would praise you.
 
 <!-- activity:end -->
 
@@ -260,7 +260,7 @@ Meaning: O Allah, let everything we do be for You alone, and give us beautiful, 
 
 <!-- unit:start id="8-12.explanation" kind="explanation" -->
 
-When you see a huge building, you might wonder: Who built it? What is it made of? How long will it last? Every building in this world has a builder, it has materials, and its life will one day come to an end. But Allah has told us that in Jannah there are `chambers, above them chambers built high, beneath which rivers flow`.[^3] And the Prophet, peace and blessings be upon him, told us that there are two gardens of silver and two gardens of gold, "their vessels and all that is in them."[^6] Some books also contain a report about bricks of gold and silver, but the scholars disagree about whether it is authentic, so we don't make it the foundation of what we say.[^7] The important question is this: how can something be built for you there?
+When you see a huge building, you might wonder: Who built it? What is it made of? How long will it last? Every building in this world has a builder and materials, and one day it will come to an end. But Allah has told us that in Jannah there are `chambers, above them chambers built high, beneath which rivers flow`.[^3] And the Prophet, peace and blessings be upon him, told us that there are two gardens of silver and two gardens of gold, "their vessels and all that is in them."[^6] Some books also contain a report about bricks of gold and silver, but the scholars disagree about whether it is authentic, so we don't make it the foundation of what we say.[^7] The important question is this: how can something be built for you there?
 
 <!-- unit:end -->
 
@@ -268,7 +268,7 @@ When you see a huge building, you might wonder: Who built it? What is it made of
 
 <!-- terminology:start source_id="bukhari-446" -->
 
-- **`Mud brick (al-labin)`** — brick made of sun-dried mud; the Prophet's mosque, peace and blessings be upon him, was built from it.[^9]
+- **`Mud brick (al-labin)`** — brick made of sun-dried mud; the mosque of the Prophet, peace and blessings be upon him, was built from it.[^9]
 - **`Plaster (al-qassah)`** — gypsum, a white material used to stick stones together and to coat walls.[^9]
 - **`Teak (as-saj)`** — a kind of strong wood; the mosque's roof was made of it in the time of Uthman.[^9]
 
@@ -290,17 +290,17 @@ When you see a huge building, you might wonder: Who built it? What is it made of
 
 **This is a true account that al-Bukhari and Muslim narrated from Uthman ibn Affan, may Allah be pleased with him. It is not a made-up story.**
 
-Abdullah ibn Umar, may Allah be pleased with them both, tells us that the Prophet's mosque, peace and blessings be upon him, in Madinah was built of mud brick, with a roof of palm fronds and pillars of palm wood. Abu Bakr added nothing to it. Umar made it bigger, but he rebuilt it in exactly the same style: mud brick, palm fronds and wooden pillars.[^2]
+Abdullah ibn Umar, may Allah be pleased with them both, tells us that the mosque of the Prophet, peace and blessings be upon him, in Madinah was built of mud brick, with a roof of palm fronds and pillars of palm wood. Abu Bakr added nothing to it. Umar made it bigger, but he rebuilt it in exactly the same style: mud brick, palm fronds and wooden pillars.[^2]
 
 <!-- retelling:start source_id="bukhari-450" audience="8-12" -->
 
 Then came the time of Uthman ibn Affan, may Allah be pleased with him, and he wanted to rebuild the mosque. That is where the problem started: people disliked the idea, and they wanted him to leave the mosque the way they had always known it. And there was a lot of talk about it.[^1]
 
-Some people would drop a project because they were afraid of the talk. Others would push ahead just to prove they were right. But Uthman took the matter back to the words of the Prophet, peace and blessings be upon him, and said: "You have said a great deal. But I heard the Prophet, peace and blessings be upon him, say: Whoever builds a mosque seeking by it the Face of Allah, Allah will build for him the like of it in Jannah."[^1]
+Some people would drop a project because they were afraid of the talk. Others would push ahead just to prove they were right. But Uthman took the matter back to the words of the Prophet, peace and blessings be upon him, and said: "You have said a great deal. But I heard the Prophet, peace and blessings be upon him, say: 'Whoever builds a mosque seeking by it the Face of Allah, Allah will build for him the like of it in Jannah.'"[^1]
 
 So Uthman went ahead with the building. He enlarged the mosque a great deal, built its wall of carved stone and plaster, made its pillars of carved stone, and gave it a roof of teak.[^2]
 
-Notice two things. First, the promise says "Allah will build for him," so Allah is the One who builds in Jannah. Second, the condition is "seeking by it the Face of Allah," so the value of the work lies in its intention before its stones. And whoever cannot build a mosque can still serve the houses of Allah with a sincere intention.[^1]
+Notice two things. First, the promise says "Allah will build for him," so Allah is the One who builds in Jannah. Second, the condition is "seeking by it the Face of Allah," so the value of the work lies in its intention before it lies in its stones. And whoever cannot build a mosque can still serve the houses of Allah with a sincere intention.[^1]
 
 <!-- retelling:end -->
 
@@ -316,7 +316,7 @@ Notice two things. First, the promise says "Allah will build for him," so Allah 
 2. Why did some people dislike changing the mosque?
 3. Which path did Uthman choose when the talk grew loud?
 4. What do we affirm about the buildings of Jannah, and which report do we not use as a foundation? Why?
-5. When did you do something good and other people talked about it? How did you react?
+5. Think of a time you did something good and other people talked about it. How did you react?
 
 <!-- unit:end -->
 
@@ -326,7 +326,7 @@ Notice two things. First, the promise says "Allah will build for him," so Allah 
 
 <!-- activity:start audience="8-12" concept_id="lesson.037.activity.intention-before-the-first-stone" -->
 
-With your family or your class, choose a way to serve a place of prayer: cleaning the shelves where the mushafs are kept, lining up the shoes, or setting up a prayer corner at school. Before you start, write on a card, "My intention: ..." and fold it up. After the work, draw the place before and after, then open your card and answer: Did my intention stay the same while I was working? And what did I do if someone said something about my work?
+With your family or your class, choose a way to serve a place of prayer: cleaning the shelves where the mushafs are kept, lining up the shoes, or setting up a prayer corner at school. Before you start, write on a card, "My intention: ..." and fold it up. After the work, draw the place before and after, then open your card and answer: Did my intention stay the same while I was working? And if someone said something about my work, what did I do?
 
 <!-- activity:end -->
 
@@ -356,7 +356,7 @@ Meaning: O Allah, make our deeds for You alone and not for people's praise, and 
 
 <!-- unit:start id="13+.explanation" kind="explanation" -->
 
-Every public project, whether it's a fundraising drive, a volunteer initiative or a useful page online, is going to get people talking. Some will criticize fairly, some will cling to the way things used to be, and some will just talk. Under that kind of pressure, two questions come up: Do I stop because I'm afraid of what people will say? Or do I keep going just to prove I'm right? In an authentic hadith, Uthman ibn Affan, may Allah be pleased with him, faced exactly this situation when he rebuilt the Prophet's Mosque, peace and blessings be upon him, and his answer became a lesson in the kind of building that lasts. The Qur'an tells us that those who are mindful of Allah will have in Jannah `chambers, above them chambers built high`.[^3] So how can you be one of those for whom something is built?
+Every public project, whether it's a fundraising drive, a volunteer initiative or a useful page online, is going to get people talking. Some will criticize fairly, some will cling to the way things used to be, and some will just talk. Under that kind of pressure, two questions come up: Do I stop because I'm afraid of what people will say? Or do I keep going just to prove I'm right? In an authentic hadith, Uthman ibn Affan, may Allah be pleased with him, faced exactly this situation when he rebuilt the Mosque of the Prophet, peace and blessings be upon him, and his answer became a lesson in the kind of building that lasts. The Qur'an tells us that those who are mindful of Allah will have in Jannah `chambers, above them chambers built high`.[^3] So how can you be one of those for whom something is built?
 
 <!-- unit:end -->
 
@@ -393,7 +393,7 @@ Then Uthman ibn Affan, may Allah be pleased with him, now the caliph, wanted to 
 
 Notice that the objection did not come from enemies. It came from Muslims who loved the mosque the way they had always known it. And that is the hardest kind of pressure: being criticized by sincere people.
 
-So what did Uthman do? The hadith does not say that he pulled rank, or that he defended his own taste in architecture. He said: "You have said a great deal. But I heard the Prophet, peace and blessings be upon him, say: Whoever builds a mosque seeking by it the Face of Allah, Allah will build for him the like of it in Jannah."[^1] He shifted the conversation from "What does Uthman want?" to "What did the Messenger of Allah, peace and blessings be upon him, say? And what is the intention?"
+So what did Uthman do? The hadith does not say that he pulled rank, or that he defended his own taste in architecture. He said: "You have said a great deal. But I heard the Prophet, peace and blessings be upon him, say: 'Whoever builds a mosque seeking by it the Face of Allah, Allah will build for him the like of it in Jannah.'"[^1] He shifted the conversation from "What does Uthman want?" to "What did the Messenger of Allah, peace and blessings be upon him, say? And what is the intention?"
 
 Then he finished the building: he enlarged the mosque a great deal, made its wall of carved stone and plaster, its pillars of stone, and its roof of teak.[^2]
 
@@ -496,7 +496,7 @@ Meaning: O Allah, purify our intentions so that our work is for You alone, not f
 **Materials:** Building blocks; a picture of palm fronds, a palm trunk and mud bricks, if possible; a cloth for wiping the shelf; paper and crayons; the du'a card.
 
 <!-- lesson-plan:preparation -->
-**Preparation:** The caregiver deliberately leaves the prayer corner a little untidy (a folded prayer rug, a mushaf out of its place) for the child to put right, and practices telling the account without adding words or feelings for Uthman that are not in the report.
+**Preparation:** The caregiver deliberately leaves the prayer corner a little untidy (a folded prayer rug, a mushaf out of its place) for the child to put right, and practices telling the account without attributing to Uthman any words or feelings that are not in the report.
 
 <!-- lesson-plan:opening -->
 **Opening — 4 minutes:** The child builds a small tower out of blocks, and the caregiver asks: "Who built this? And who builds the houses in Jannah?"

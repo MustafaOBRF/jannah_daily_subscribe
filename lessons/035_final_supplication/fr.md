@@ -25,18 +25,18 @@ Au terme de cette leçon, l'apprenant sera capable de :
 - expliquer, à partir des exégètes, le sens de *da'wa* (« invocation »), de la glorification (*tasbih*) et de la louange (*hamd*), en distinguant l'avis qui rattache la glorification au moment où l'on désire une chose de celui qu'a retenu Ibn al-Qayyim : un éloge qui leur est inspiré, ouvert par la glorification et refermé par la louange ;
 - établir, par le hadith de Jabir (Muslim 2835), que la glorification et la louange sont inspirées aux gens de la Jannah comme leur est inspirée la respiration, c'est-à-dire sans effort ni peine ;
 - relier la louange des gens de la Jannah, une fois installés, à la disparition de la tristesse et de la fatigue (Fatir 35:33-35), et rattacher cela au mérite de la louange et de la glorification dès ce monde (Muslim 223) ;
-- réaliser l'activité « Le dernier mot est louange » : observer ce que l'on dit réellement à chaque fin de moment dans la journée, puis clore chacune de ces fins par une phrase de louange qui nomme un bienfait précis ;
+- réaliser l'activité « Le dernier mot est louange » : observer ce que l'on dit réellement chaque fois que quelque chose se termine dans la journée, puis clore chacune de ces fins par une phrase de louange qui nomme un bienfait précis ;
 - apprendre par cœur l'invocation prophétique du coucher : « Al-hamdu lillahi alladhi at'amana wa saqana… » (Muslim 2715), afin que la louange soit la dernière parole de la journée.
 
 ## Section Académique Pour Adultes
 
-<!-- reader:start audience="adults" estimated_minutes="6.5" -->
+<!-- reader:start audience="adults" estimated_minutes="7.0" -->
 
 <!-- unit:start id="adults.explanation" kind="explanation" -->
 
 Tout voyage s'achève sur un dernier mot qui trahit ce que le voyageur porte au cœur : une plainte, un soupir de soulagement, ou une louange. Le Coran nous fait connaître le dernier mot des gens de la Jannah, au terme du long voyage d'ici-bas et des terreurs de la Station du Jugement : « et la fin de leur invocation : “Louange à Allah, Seigneur des mondes !” ».
 
-Cette leçon expose la scène coranique de la sourate Yunus ; elle lit à ses côtés les versets de la sourate Fatir sur la louange des gens de la Jannah une fois parvenus à demeure, ainsi que le hadith de Jabir selon lequel la glorification et la louange coulent sur leurs langues comme coule la respiration. Puis elle pose une question : si la louange est le dernier mot des gens de la Jannah, quel est le nôtre aujourd'hui ?
+Cette leçon expose la scène coranique de la sourate Yunus ; elle lit à ses côtés les versets de la sourate Fatir sur la louange des gens de la Jannah une fois établis dans leur demeure, ainsi que le hadith de Jabir selon lequel la glorification et la louange coulent sur leurs langues comme coule la respiration. Puis elle pose une question : si la louange est le dernier mot des gens de la Jannah, quel est le nôtre aujourd'hui ?
 
 <!-- unit:end -->
 
@@ -66,7 +66,7 @@ At-Tabari rapporte d'Ibn Jurayj, sous la forme « on m'a rapporté que… », 
 
 #### Explication De La Leçon
 
-Ces versets mettent face à face deux cœurs : un cœur qui s'est reposé sur ce monde et s'est endormi dans l'insouciance, et un cœur qui a cru, a agi et a été guidé. Le second ne finit ni dans le silence ni dans les réclamations : sa parole s'ouvre par la proclamation de la transcendance d'Allah, se poursuit par la paix échangée entre frères, et se referme sur la louange.
+Ces versets mettent face à face deux cœurs : un cœur qui s'est reposé sur ce monde et s'est endormi dans l'insouciance, et un cœur qui a cru, a agi et a été guidé. Le second ne finit ni dans le silence ni dans les réclamations : sa parole s'ouvre par la proclamation de la transcendance d'Allah, se poursuit par la paix échangée entre eux, et se referme sur la louange.
 
 <!-- evidence:end -->
 
@@ -84,7 +84,7 @@ Ces versets mettent face à face deux cœurs : un cœur qui s'est reposé sur c
 
 #### Interprétation Savante
 
-Ibn Kathir explique que « la tristesse » (*al-hazan*) est la crainte de ce que l'on redoute : Allah l'a ôtée de leurs cœurs et les a délivrés de tous les soucis de ce monde et de l'au-delà qu'ils appréhendaient. Ibn 'Abbas et d'autres ont dit : Il leur a pardonné beaucoup de mauvaises actions, et Il leur a su gré de peu de bonnes. Au sujet de « par Sa grâce » (*min fadlihi*), il dit : Il nous a accordé ce rang par Sa grâce, Sa générosité et Sa miséricorde, car nos œuvres n'en valaient pas le prix.[^5] As-Sa'di précise que cette tristesse englobe toute tristesse : aucun chagrin ne les effleure, ni à cause d'un manque dans leur beauté, ni dans leur nourriture, ni dans la durée de leur séjour.[^6]
+Ibn Kathir explique que « la tristesse » (*al-hazan*) est la crainte de ce que l'on redoute : Allah l'a ôtée de leurs cœurs et les a délivrés de tous les soucis de ce monde et de l'au-delà qu'ils appréhendaient. Ibn 'Abbas et d'autres ont dit : Il leur a pardonné beaucoup de mauvaises actions, et Il leur a su gré du peu de bonnes qu'ils avaient faites. Au sujet de « par Sa grâce » (*min fadlihi*), il dit : Il nous a accordé ce rang par Sa grâce, Sa générosité et Sa miséricorde, car nos œuvres n'en valaient pas le prix.[^5] As-Sa'di précise que cette tristesse englobe toute tristesse : aucun chagrin ne vient les effleurer à cause d'un manque, ni dans leur beauté, ni dans leur nourriture, ni dans la permanence de leur séjour.[^6]
 
 #### Explication De La Leçon
 
@@ -102,7 +102,7 @@ La louange des gens de la Jannah est celle de quelqu'un qui a connu la tristesse
 
 #### Traduction Française
 
-> D'après Jabir, qu'Allah soit satisfait de lui, qui dit : J'ai entendu le Prophète, paix et bénédictions sur lui, dire : **« Les gens de la Jannah y mangent et y boivent ; ils n'y crachent pas, n'y urinent pas, n'y vont pas à selle et ne s'y mouchent pas. »** On demanda : « Que devient donc la nourriture ? » Il répondit : **« Un rot, et une transpiration au parfum de musc. La glorification et la louange leur sont inspirées comme leur est inspirée la respiration. »**[^7]
+> D'après Jabir, qu'Allah soit satisfait de lui, qui dit : J'ai entendu le Prophète, paix et bénédictions sur lui, dire : **« Les gens de la Jannah y mangent et y boivent ; ils n'y crachent pas, n'y urinent pas, n'y vont pas à la selle et ne s'y mouchent pas. »** On demanda : « Que devient donc la nourriture ? » Il répondit : **« Un rot, et une transpiration au parfum de musc. La glorification et la louange leur sont inspirées comme leur est inspirée la respiration. »**[^7]
 
 #### Interprétation Savante
 
@@ -138,7 +138,7 @@ Les deux paroles qui forment l'invocation des gens de la Jannah dans l'au-delà 
 
 ### Comment Ces Textes S'articulent-ils ?
 
-Les versets de Yunus s'ouvrent sur une croisée des chemins : se satisfaire de ce monde dans l'insouciance, ou croire et agir. Le voyage du croyant s'achève sur la glorification, la paix et la louange — la louange de celui dont Allah, par Sa grâce, a écarté la tristesse et la fatigue. Le hadith de Jabir montre que ce rappel, là-bas, est un souffle et non une obligation ; celui d'Abu Malik montre que ces deux mêmes paroles remplissent la Balance ici-bas. La Jannah est donc la demeure où la louange a le dernier mot, et ce monde est le terrain où nous apprenons à en faire le dernier mot de nos affaires.
+Les versets de Yunus s'ouvrent sur une croisée des chemins : se satisfaire de ce monde dans l'insouciance, ou croire et agir. Le voyage du croyant s'achève sur la glorification, la paix et la louange — la louange de celui dont Allah, par Sa grâce, a écarté la tristesse et la fatigue. Le hadith de Jabir montre que ce rappel, là-bas, est un souffle et non une obligation ; celui d'Abu Malik montre que ces deux mêmes paroles remplissent la Balance ici-bas. La Jannah est donc la demeure où la louange a le dernier mot, et ce monde est le terrain où nous apprenons à clore par elle chacune de nos affaires.
 
 <!-- unit:end -->
 
@@ -343,7 +343,7 @@ Quand le Prophète, paix et bénédictions sur lui, se mettait au lit, il disait
 
 > **الْحَمْدُ لِلَّهِ الَّذِي أَطْعَمَنَا وَسَقَانَا، وَكَفَانَا وَآوَانَا، فَكَمْ مِمَّنْ لَا كَافِيَ لَهُ وَلَا مُؤْوِيَ.**[^9]
 >
-> Sens : « Louange à Allah, qui nous a accordé la nourriture et la boisson, qui nous a suffi en tout ce dont nous avons besoin, et qui nous a donné un abri où nous trouvons le repos ; car combien de gens ne trouvent personne pour leur suffire, ni de lieu pour les abriter ! »[^9]
+> Sens : « Louange à Allah, qui nous a accordé la nourriture et la boisson, qui a pourvu à tous nos besoins, et qui nous a donné un abri où nous trouvons le repos ; car combien de gens ne trouvent personne pour pourvoir à leurs besoins, ni de lieu pour les abriter ! »[^9]
 
 <!-- bedtime-dua:end -->
 
@@ -361,7 +361,7 @@ Quand le Prophète, paix et bénédictions sur lui, se mettait au lit, il disait
 
 Regarde comment les choses se terminent autour de toi : un match qui s'achève sur une vanne sarcastique, une journée de cours sur un « Enfin, c'est fini ! », une conversation de groupe qui finit en concert de plaintes contre tout et n'importe quoi. Dans ce genre d'ambiance, râler devient la langue commune, et la louange sonne presque comme un discours déconnecté du réel.
 
-Pourtant, le Coran nous apprend que les gens de la Jannah, au terme d'un voyage où la peur et la fatigue étaient bien réelles, ont pour dernier mot : « Louange à Allah, Seigneur des mondes »,[^1] et que la louange remplit la Balance dès ce monde.[^8] La question n'est donc pas : la vie est-elle fatigante ? Mais : à quoi laisses-tu le dernier mot ?
+Pourtant, le Coran nous apprend que les gens de la Jannah, au terme d'un voyage où la peur et la fatigue étaient bien réelles, ont pour dernier mot : « Louange à Allah, Seigneur des mondes »,[^1] et que la louange remplit la Balance dès ce monde.[^8] La question n'est donc pas : la vie est-elle fatigante ? Mais : sur quel mot la termines-tu ?
 
 <!-- unit:end -->
 
@@ -438,7 +438,7 @@ Il est établi que le Prophète, paix et bénédictions sur lui, disait en se me
 
 > **الْحَمْدُ لِلَّهِ الَّذِي أَطْعَمَنَا وَسَقَانَا، وَكَفَانَا وَآوَانَا، فَكَمْ مِمَّنْ لَا كَافِيَ لَهُ وَلَا مُؤْوِيَ.**[^9]
 >
-> Sens : « Louange à Allah, qui nous a nourris et abreuvés, qui nous a épargné ce qui nous préoccupe et nous a donné un toit où trouver la paix ; car combien de gens ne trouvent personne pour leur suffire, ni d'abri où se réfugier ! » Ainsi, la dernière parole de ta journée devient une louange qui mesure la valeur des petits bienfaits dont d'autres sont privés.[^9]
+> Sens : « Louange à Allah, qui nous a nourris et abreuvés, qui a pourvu à ce qui nous préoccupe et nous a donné un toit où trouver la paix ; car combien de gens ne trouvent personne pour pourvoir à leurs besoins, ni d'abri où se réfugier ! » Ainsi, la dernière parole de ta journée devient une louange qui mesure la valeur des petits bienfaits dont d'autres sont privés.[^9]
 
 <!-- bedtime-dua:end -->
 

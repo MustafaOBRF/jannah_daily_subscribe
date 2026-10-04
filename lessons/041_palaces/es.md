@@ -30,7 +30,7 @@ Después de esta lección, el aprendiz será capaz de:
 
 ## Sección académica para adultos
 
-<!-- reader:start audience="adults" estimated_minutes="6.5" -->
+<!-- reader:start audience="adults" estimated_minutes="7.0" -->
 
 <!-- unit:start id="adults.explanation" kind="explanation" -->
 
@@ -72,7 +72,7 @@ El celo (`gaira`) es el pundonor del hombre y su empeño en proteger a su famili
 
 #### Explicación de la lección
 
-El hadiz encierra tres verdades sobre los palacios del Paraíso: que existen ya, que pertenecen a sus dueños con nombre propio, y que tienen patios y moradores. Y encierra dos lecciones de conducta: un Profeta noble que tiene en cuenta los sentimientos de su compañero antes de entrar en su palacio, y un compañero que recibe la buena nueva delante de todos y llora; no se crece con ella, sino que deja claro que el celo no tiene cabida ante el Mensajero de Allah, la paz y las bendiciones de Allah sean con él.
+El hadiz encierra tres verdades sobre los palacios del Paraíso: que existen ya, que pertenecen a sus dueños con nombre propio, y que tienen patios y moradores. Y encierra dos lecciones de conducta: un Profeta noble que tiene en cuenta los sentimientos de su compañero antes de entrar en su palacio, y un compañero que recibe la buena nueva delante de todos y llora; no se envanece con ella, sino que deja claro que el celo no tiene cabida ante el Mensajero de Allah, la paz y las bendiciones de Allah sean con él.
 
 <!-- evidence:end -->
 
@@ -112,7 +112,7 @@ Ibn al-Qayyim, que Allah tenga misericordia de él, dijo: "El `qasab` es aquí l
 
 #### Explicación de la lección
 
-El hadiz descarta en la casa de Jadiya lo que más amarga la vida de un hogar: el ruido y el cansancio. La buena nueva le llegó cuando iba de camino llevándole comida al Profeta, la paz y las bendiciones de Allah sean con él, y quizá haya en ello una correspondencia con su obra: una casa sin fatiga para quien se fatigó por el descanso de otro. Y Allah sabe más.
+El hadiz excluye de la casa de Jadiya lo que más amarga la vida de un hogar: el ruido y el cansancio. La buena nueva le llegó cuando iba de camino llevándole comida al Profeta, la paz y las bendiciones de Allah sean con él, y quizá haya en ello una correspondencia con su obra: una casa sin fatiga para quien se fatigó por el descanso de otro. Y Allah sabe más.
 
 <!-- evidence:end -->
 
@@ -134,7 +134,7 @@ Ibn Kazir, que Allah tenga misericordia de él, explicó {moradas buenas} así: 
 
 #### Explicación de la lección
 
-La aleya cierra la descripción de las moradas diciendo que la complacencia de Allah es mayor. El palacio no es, por tanto, la meta última del anhelo, sino una de las huellas de la complacencia de Allah con Su siervo.
+La aleya cierra la descripción de las moradas diciendo que la complacencia de Allah es mayor. El palacio no es, por tanto, la meta última del anhelo, sino una manifestación de la complacencia de Allah con Su siervo.
 
 <!-- evidence:end -->
 
@@ -325,7 +325,7 @@ Este hadiz nos enseña tres cosas. Los palacios del Paraíso son reales y tienen
 
 <!-- activity:start audience="8-12" concept_id="lesson.041.activity.remember-the-owner-before-entering" -->
 
-Elige a un hermano, una hermana, tu padre o tu madre, y hazle dos preguntas: "¿Qué lugar o qué cosa tuya te gustaría que te pidiera permiso para usar?" y "¿Cómo te gustaría que te lo pidiera?". Escribe su respuesta en un papel como una sola norma, por ejemplo: "Llamo a la puerta del cuarto de mi hermana y espero a que me conteste". Cúmplela durante cinco días y marca con un ✓ cada día en una tabla. El quinto día, pídele que escriba una palabra sobre cómo se ha sentido, y luego escribe tú dos frases: ¿qué has aprendido? ¿Y en qué se parece esto a lo que hizo el Profeta, la paz y las bendiciones de Allah sean con él, ante el palacio de Umar?
+Elige a un hermano, una hermana, tu padre o tu madre, y hazle dos preguntas: "¿Para qué lugar o qué cosa tuya te gustaría que te pidiera permiso?" y "¿Cómo te gustaría que te lo pidiera?". Escribe su respuesta en un papel como una sola norma, por ejemplo: "Llamo a la puerta del cuarto de mi hermana y espero a que me conteste". Cúmplela durante cinco días y marca con un ✓ cada día en una tabla. El quinto día, pídele que escriba una palabra sobre cómo se ha sentido, y luego escribe tú dos frases: ¿qué has aprendido? ¿Y en qué se parece esto a lo que hizo el Profeta, la paz y las bendiciones de Allah sean con él, ante el palacio de Umar?
 
 <!-- activity:end -->
 
@@ -394,7 +394,7 @@ Llega entonces el momento en torno al cual gira todo el hadiz. Yabir cuenta en s
 
 Y fíjate en Umar, el hombre fuerte al que todos respetaban e incluso temían. Escucha delante de todos que tiene un palacio en el Paraíso, y el hadiz no recoge de él ni una sola palabra de orgullo. Dice Abu Huraira: "Umar se echó a llorar mientras todos nosotros estábamos en aquella reunión", y luego dijo: "¡Daría a mi padre por ti, oh Mensajero de Allah! ¿Acaso iba yo a tener celos de ti?".[^1]
 
-La lección para ti está en dos escenas. La primera: la intimidad de los demás no es algo "sin importancia". Si el Profeta, la paz y las bendiciones de Allah sean con él, se acordó de los sentimientos de su compañero ante la puerta de un palacio del Paraíso, con más razón debes tú acordarte del dueño del teléfono antes de mirarlo, de quien escribió el chat antes de reenviarlo y de quien duerme en ese cuarto antes de entrar. La segunda: cuando te elogien en público, que el elogio te acerque a la humildad, no a la presunción.
+La lección para ti está en dos escenas. La primera: la intimidad de los demás no es algo "sin importancia". Si el Profeta, la paz y las bendiciones de Allah sean con él, se acordó de los sentimientos de su compañero ante la puerta de un palacio del Paraíso, con más razón debes tú acordarte del dueño del teléfono antes de mirarlo, de quien escribió el chat antes de reenviarlo y del dueño del cuarto antes de entrar en él. La segunda: cuando te elogien en público, que el elogio te acerque a la humildad, no a la presunción.
 
 <!-- retelling:end -->
 

@@ -95,11 +95,11 @@ Este hadiz es el fundamento legal que sostiene todo el título de esta lección:
 
 #### Interpretación académica
 
-Dijeron los sabios que "que aún no hayan alcanzado al-hinz" significa que no han llegado a la edad de responsabilidad, a partir de la cual empiezan a anotarse los pecados de la persona; y que la entrada del padre en el Paraíso es aquí un favor de Allah, no algo merecido por las obras del niño, pues el niño todavía no tiene obras.
+Explicaron los sabios que la expresión "que aún no hayan alcanzado al-hinz" quiere decir que no han llegado a la edad de responsabilidad, a partir de la cual empiezan a anotarse los pecados de la persona; y que la entrada del padre en el Paraíso es aquí un favor de Allah, no algo merecido por las obras del niño, pues el niño todavía no tiene obras.
 
 #### Explicación de la lección
 
-Este hadiz da la vuelta a la mirada del duelo y la convierte en mirada de esperanza: el hijo que pierden sus padres no es una pérdida sin más, sino una causa que los eleva hasta el Paraíso si soportan con paciencia y buscan la recompensa de Allah; así se reúnen para ellos, a la vez, la recompensa de la paciencia y la intercesión del hijo.
+Este hadiz da la vuelta a la mirada del duelo y la convierte en mirada de esperanza: el hijo que pierden sus padres no es una pérdida sin más, sino una causa que los eleva hasta el Paraíso si sobrellevan la pérdida con paciencia y buscan la recompensa de Allah; así se reúnen para ellos, a la vez, la recompensa de la paciencia y la intercesión del hijo.
 
 <!-- evidence:end -->
 
@@ -135,7 +135,7 @@ Este hadiz dibuja la escena más hermosa de un niño que ha pasado a la miserico
 
 #### Traducción al español
 
-> Samura ibn Yundab, que Allah esté complacido con él, dijo: El Mensajero de Allah, la paz y las bendiciones de Allah sean con él, solía preguntar a menudo a sus Compañeros: «¿Alguno de vosotros ha visto un sueño?», y le contaba su sueño quien Allah quería. Una mañana dijo: «Esta noche vinieron a mí dos visitantes; me despertaron y me dijeron: "¡Ven!"». Después, la paz y las bendiciones de Allah sean con él, relató un sueño largo, de muchas escenas, en el que los dos visitantes le mostraron la situación de la gente en el barzaj [aquí nos limitamos al pasaje pertinente, y se han omitido sus demás escenas, que son largas, por quedar fuera del tema de esta lección]. Dijo, la paz y las bendiciones de Allah sean con él: **«Seguimos adelante hasta llegar a un jardín frondoso, de un verde profundo, en el que había todas las flores de la primavera. En medio del jardín había un hombre alto, tan alto que apenas podía verle la cabeza, que se perdía en el cielo; y a su alrededor había más niños de los que yo había visto jamás. Les pregunté a los dos: "¿Qué es esto? ¿Quiénes son estos?"»**. Cuando, más adelante, llegaron con él al momento de las explicaciones, le dijeron: **«En cuanto al hombre alto que está en el jardín, es Ibrahim, la paz y las bendiciones de Allah sean con él; y en cuanto a los niños que lo rodean, son todos los recién nacidos que murieron en la fitra»**. Entonces algunos musulmanes preguntaron: "¡Oh, Mensajero de Allah! ¿Y los hijos de los politeístas?". Y el Mensajero de Allah, la paz y las bendiciones de Allah sean con él, respondió: **«Y los hijos de los politeístas»**.[^5]
+> Samura ibn Yundab, que Allah esté complacido con él, dijo: El Mensajero de Allah, la paz y las bendiciones de Allah sean con él, solía preguntar a menudo a sus Compañeros: «¿Alguno de vosotros ha visto un sueño?», y le contaba su sueño quien Allah quería. Una mañana dijo: «Esta noche vinieron a mí dos visitantes; me despertaron y me dijeron: "¡Ven!"». Después, la paz y las bendiciones de Allah sean con él, relató un sueño largo, de muchas escenas, en el que los dos visitantes le mostraron la situación de la gente en el barzaj [aquí nos limitamos al pasaje pertinente, y se han omitido sus demás escenas, que son largas, por quedar fuera del tema de esta lección]. Dijo, la paz y las bendiciones de Allah sean con él: **«Seguimos adelante hasta llegar a un jardín frondoso, de un verde profundo, en el que había todas las flores de la primavera. En medio del jardín había un hombre alto, tan alto que apenas podía verle la cabeza, que se perdía en el cielo; y a su alrededor había más niños de los que yo había visto jamás. Les pregunté a los dos: "¿Qué es esto? ¿Quiénes son estos?"»**. Cuando, más adelante, llegaron con él al momento de las explicaciones, le dijeron: **«En cuanto al hombre alto que está en el jardín, es Ibrahim, la paz y las bendiciones de Allah sean con él; y en cuanto a los niños que lo rodean, son todos los niños que murieron en la fitra»**. Entonces algunos musulmanes preguntaron: "¡Oh, Mensajero de Allah! ¿Y los hijos de los politeístas?". Y el Mensajero de Allah, la paz y las bendiciones de Allah sean con él, respondió: **«Y los hijos de los politeístas»**.[^5]
 
 #### Interpretación académica
 
@@ -177,7 +177,7 @@ Escribe un párrafo breve en el que describas lo que sientes después de leer lo
 
 ## Para niños de 4 a 7 años
 
-<!-- reader:start audience="4-7" estimated_minutes="4.5" -->
+<!-- reader:start audience="4-7" estimated_minutes="5.0" -->
 
 <!-- unit:start id="4-7.explanation" kind="explanation" -->
 
@@ -239,7 +239,7 @@ Nuestro Profeta, la paz y las bendiciones de Allah sean con él, también nos co
 
 <!-- activity:start audience="4-7" concept_id="lesson.020.activity.garden_lanterns" -->
 
-Junto con tu papá o tu mamá, dibujen un jardín verde y precioso, con árboles y flores. Después, dibuja en el centro un farolito pequeño y encendido, en medio de las flores. Y di con tu papá o tu mamá: "Este farolito es como la luz del amor que ilumina el precioso jardín del Paraíso, donde el profeta de Allah Ibrahim, la paz sea con él, cuida a los niños".
+Junto con tu papá o tu mamá, dibujen un jardín verde y precioso, con árboles y flores. Después, dibuja tú en el centro un farolito pequeño y encendido, en medio de las flores. Y di junto con tu papá o tu mamá: "Este farolito es como la luz del amor que ilumina el precioso jardín del Paraíso, donde el profeta de Allah Ibrahim, la paz sea con él, cuida a los niños".
 
 <!-- activity:end -->
 
@@ -265,7 +265,7 @@ Junto con tu papá o tu mamá, dibujen un jardín verde y precioso, con árboles
 
 ## Para niños de 8 a 12 años
 
-<!-- reader:start audience="8-12" estimated_minutes="6.0" -->
+<!-- reader:start audience="8-12" estimated_minutes="6.5" -->
 
 <!-- unit:start id="8-12.explanation" kind="explanation" -->
 
@@ -281,7 +281,7 @@ El islam nos enseña que el niño que todavía no ha llegado a la "edad de respo
 
 **Esto es un hecho real que Samura ibn Yundab, que Allah esté complacido con él, narró del Profeta, la paz y las bendiciones de Allah sean con él, y no una historia inventada.**
 
-El Profeta, la paz y las bendiciones de Allah sean con él, preguntaba a menudo a sus Compañeros: «¿Alguno de vosotros ha visto un sueño?». Una mañana fue él quien les contó un sueño muy largo que había visto, y que Samura ibn Yundab, que Allah esté complacido con él, transmitió de él; en él, el Profeta dijo: «Seguimos adelante hasta llegar a un jardín frondoso, de un verde profundo, en el que había todas las flores de la primavera. En medio del jardín había un hombre alto, tan alto que apenas podía verle la cabeza, que se perdía en el cielo; y a su alrededor había más niños de los que yo había visto jamás». El Profeta, la paz y las bendiciones de Allah sean con él, preguntó por aquella escena a los dos que lo acompañaban en el sueño, y ellos le respondieron: «En cuanto al hombre alto que está en el jardín, es Ibrahim, la paz sea con él; y en cuanto a los niños que lo rodean, son todos los recién nacidos que murieron en la fitra».[^5]
+El Profeta, la paz y las bendiciones de Allah sean con él, preguntaba a menudo a sus Compañeros: «¿Alguno de vosotros ha visto un sueño?». Una mañana fue él quien les contó un sueño muy largo que había visto, y que Samura ibn Yundab, que Allah esté complacido con él, transmitió. En ese sueño, el Profeta dijo: «Seguimos adelante hasta llegar a un jardín frondoso, de un verde profundo, en el que había todas las flores de la primavera. En medio del jardín había un hombre alto, tan alto que apenas podía verle la cabeza, que se perdía en el cielo; y a su alrededor había más niños de los que yo había visto jamás». El Profeta, la paz y las bendiciones de Allah sean con él, preguntó por aquella escena a los dos que lo acompañaban en el sueño, y ellos le respondieron: «En cuanto al hombre alto que está en el jardín, es Ibrahim, la paz y las bendiciones de Allah sean con él; y en cuanto a los niños que lo rodean, son todos los niños que murieron en la fitra».[^5]
 
 <!-- retelling:start source_id="bukhari.tabir.samurah_ruya" audience="8-12" -->
 
@@ -370,7 +370,7 @@ Con tu papá o tu mamá, fabrica un "farol del jardín": decora un vaso de vidri
 
 <!-- unit:start id="13+.explanation" kind="explanation" -->
 
-En el islam, la "edad de responsabilidad" (sinn at-taklif) parte de que la obligación religiosa depende de la razón y la pubertad: el Cálamo ha sido levantado del niño hasta que alcance la pubertad, y hasta entonces no se le anota ninguna mala obra. Por eso, los hijos de los creyentes que mueren antes de esa edad se cuentan entre la gente del Paraíso por el favor de Allah, no por obras que aún no se les habían anotado. En cuanto a los hijos de los no creyentes que mueren antes de la responsabilidad, sobre ellos hay un texto profético explícito dentro del hadiz del sueño que verás en esta lección; aun así, algunos detalles de la cuestión llevan siglos siendo objeto de razonamiento (iytihad) entre los sabios. Es una discrepancia legítima que no debe inquietar a nadie, porque todo remite, en última instancia, a la justicia de Allah y a Su amplia misericordia.
+En el islam, el concepto de "edad de responsabilidad" (sinn at-taklif) se basa en que la obligación religiosa depende de la razón y la pubertad: el Cálamo ha sido levantado del niño hasta que alcance la pubertad, y hasta entonces no se le anota ninguna mala obra. Por eso, los hijos de los creyentes que mueren antes de esa edad se cuentan entre la gente del Paraíso por el favor de Allah, no por obras que aún no se les habían anotado. En cuanto a los hijos de los no creyentes que mueren antes de la responsabilidad, sobre ellos hay un texto profético explícito dentro del hadiz del sueño que verás en esta lección; aun así, algunos detalles de la cuestión llevan siglos siendo objeto de razonamiento (iytihad) entre los sabios. Es una discrepancia legítima que no debe inquietar a nadie, porque todo remite, en última instancia, a la justicia de Allah y a Su amplia misericordia.
 
 <!-- unit:end -->
 
@@ -382,13 +382,13 @@ En el islam, la "edad de responsabilidad" (sinn at-taklif) parte de que la oblig
 
 **Esto es un hecho real que Samura ibn Yundab, que Allah esté complacido con él, narró del Profeta, la paz y las bendiciones de Allah sean con él, recogido en Sahih al-Bujari, y no una escena inventada.**
 
-El Profeta, la paz y las bendiciones de Allah sean con él, solía preguntar a sus Compañeros por sus sueños, y una mañana les contó él un sueño largo, de muchas escenas, que Samura ibn Yundab, que Allah esté complacido con él, transmitió de él, en el que dos visitantes lo llevaron a ver la situación de la gente. En una de esas escenas, dijo, la paz y las bendiciones de Allah sean con él: «Seguimos adelante hasta llegar a un jardín frondoso, de un verde profundo, en el que había todas las flores de la primavera. En medio del jardín había un hombre alto, tan alto que apenas podía verle la cabeza, que se perdía en el cielo; y a su alrededor había más niños de los que yo había visto jamás. Les pregunté a los dos: "¿Qué es esto? ¿Quiénes son estos?"».[^5]
+El Profeta, la paz y las bendiciones de Allah sean con él, solía preguntar a sus Compañeros por sus sueños, y una mañana les contó él un sueño largo, de muchas escenas, que Samura ibn Yundab, que Allah esté complacido con él, transmitió, en el que dos visitantes lo llevaron a ver la situación de la gente. En una de esas escenas, dijo, la paz y las bendiciones de Allah sean con él: «Seguimos adelante hasta llegar a un jardín frondoso, de un verde profundo, en el que había todas las flores de la primavera. En medio del jardín había un hombre alto, tan alto que apenas podía verle la cabeza, que se perdía en el cielo; y a su alrededor había más niños de los que yo había visto jamás. Les pregunté a los dos: "¿Qué es esto? ¿Quiénes son estos?"».[^5]
 
-Al final del sueño, cuando los dos visitantes le explicaron todo lo que había visto, dijeron de esta escena: «En cuanto al hombre alto que está en el jardín, es Ibrahim, la paz sea con él; y en cuanto a los niños que lo rodean, son todos los recién nacidos que murieron en la fitra». Algunos de los presentes preguntaron: "¡Oh, Mensajero de Allah! ¿Y los hijos de los politeístas?". Y él, la paz y las bendiciones de Allah sean con él, respondió: «Y los hijos de los politeístas».[^5]
+Al final del sueño, cuando los dos visitantes le explicaron todo lo que había visto, dijeron de esta escena: «En cuanto al hombre alto que está en el jardín, es Ibrahim, la paz y las bendiciones de Allah sean con él; y en cuanto a los niños que lo rodean, son todos los niños que murieron en la fitra». Algunos de los presentes preguntaron: "¡Oh, Mensajero de Allah! ¿Y los hijos de los politeístas?". Y él, la paz y las bendiciones de Allah sean con él, respondió: «Y los hijos de los politeístas».[^5]
 
 <!-- retelling:start source_id="bukhari.tabir.samurah_ruya" audience="13+" -->
 
-Dicho de otro modo: Allah mostró en sueños a Su Profeta, la paz y las bendiciones de Allah sean con él, una escena verdadera de un jardín del Paraíso, donde Ibrahim, la paz sea con él —padre de los profetas y amigo íntimo (Jalil) del Misericordioso—, cuida a todo niño que murió en la fitra antes de ser responsable, con la ternura de un abuelo compasivo hacia sus nietos. Y cuando se le preguntó expresamente por los hijos de los politeístas, el Profeta, la paz y las bendiciones de Allah sean con él, los incluyó en ese mismo juicio; lo que llevó a los sabios a estudiarla más a fondo durante siglos, aunque algunos de sus detalles siguen siendo objeto de razonamiento.[^5]
+Dicho de otro modo: Allah mostró en sueños a Su Profeta, la paz y las bendiciones de Allah sean con él, una escena verdadera de un jardín del Paraíso, donde Ibrahim, la paz sea con él —padre de los profetas y amigo íntimo (Jalil) del Misericordioso—, cuida a todo niño que murió en la fitra antes de ser responsable, con la ternura de un abuelo compasivo hacia sus nietos. Y cuando se le preguntó expresamente por los hijos de los politeístas, el Profeta, la paz y las bendiciones de Allah sean con él, los incluyó en ese mismo dictamen, lo que llevó a los sabios a estudiar la cuestión más a fondo durante siglos, aunque algunos de sus detalles siguen siendo objeto de razonamiento.[^5]
 
 <!-- retelling:end -->
 
@@ -406,7 +406,7 @@ El Profeta, la paz y las bendiciones de Allah sean con él, dijo: «Sus pequeño
 
 <!-- retelling:start source_id="muslim.ahmad.daaamees_al_jannah" audience="13+" -->
 
-Este hadiz redefine el sentido mismo de la pérdida: el vínculo entre el niño y sus padres no se rompe porque muera pequeño, sino que se transforma en intercesión y en una espera llena de amor el Día de la Resurrección, hasta que el niño se aferra a la ropa de su padre o de su madre y no la suelta hasta que entran con él en el Paraíso. Esto significa que la paciencia y la búsqueda de la recompensa de Allah (ihtisab) ante la pérdida de un hijo pequeño no son mero aguante del dolor, sino una inversión en un vínculo que dará como fruto un reencuentro y una reunión eternos, si Allah quiere.[^4]
+Este hadiz redefine el sentido mismo de la pérdida: el vínculo entre el niño y sus padres no se rompe porque muera pequeño, sino que se transforma en intercesión y en una espera llena de amor el Día de la Resurrección, hasta que el niño se aferra a la ropa de su padre o de su madre y no la suelta hasta que entran con él en el Paraíso. Así, la paciencia y la búsqueda de la recompensa de Allah (ihtisab) ante la pérdida de un hijo pequeño no son mero aguante del dolor, sino una inversión en un vínculo que fructificará en un reencuentro y una reunión eternos, si Allah quiere.[^4]
 
 <!-- retelling:end -->
 
@@ -419,8 +419,8 @@ Este hadiz redefine el sentido mismo de la pérdida: el vínculo entre el niño 
 <!-- terminology:start source_id="hadith.rafa_al-qalam" -->
 
 - **`La responsabilidad religiosa (at-taklif)`** — la obligación que la ley revelada impone a la persona cuerda y púber de cumplir sus mandatos y evitar sus prohibiciones; antes de la pubertad no se la considera obligada ni se le piden cuentas.[^2]
-- **`La disposición natural pura (al-fitra)`** — el estado natural y sano con el que Allah creó a todo ser humano, antes de que lo influya su entorno o de que alcance la edad de responsabilidad.[^5]
-- **`Buscar la recompensa de Allah (al-ihtisab)`** — que el creyente soporte con paciencia la desgracia esperando de Allah su recompensa, y no que solo la aguante sin pensar en su recompensa.[^3]
+- **`La disposición natural pura (al-fitra)`** — el estado natural y sano con el que Allah creó a todo ser humano, antes de que lo influya su entorno o alcance la edad de responsabilidad.[^5]
+- **`Buscar la recompensa de Allah (al-ihtisab)`** — que el creyente soporte con paciencia la desgracia esperando de Allah su recompensa, y no que solo la aguante sin pensar en su premio.[^3]
 
 <!-- terminology:end -->
 
@@ -444,7 +444,7 @@ Este hadiz redefine el sentido mismo de la pérdida: el vínculo entre el niño 
 
 <!-- activity:start audience="13+" concept_id="lesson.020.activity.garden_lanterns" -->
 
-Escribe un párrafo personal sobre lo que más te ha tocado de los hadices de los "da'amis del Paraíso" y del sueño de Samura ibn Yundab: ¿la imagen del jardín, o la del niño aferrado a la ropa de su padre? Después escribe una súplica personal por tu familia, por un niño que conozcas y que haya pasado a la misericordia de Allah o, si no conoces a ninguno, por cualquier niño. Dobla la hoja en forma de pequeño farol y guárdala en un lugar tranquilo, solo tuyo, como símbolo de la luz que esta esperanza enciende en tu corazón.
+Escribe un párrafo personal sobre lo que más te ha tocado de los hadices de los "da'amis del Paraíso" y del sueño de Samura ibn Yundab: ¿la imagen del jardín, o la del niño aferrado a la ropa de su padre? Después escribe una súplica personal por tu familia, por un niño conocido que haya pasado a la misericordia de Allah o, si no conoces a ninguno, por cualquier niño. Dobla la hoja en forma de pequeño farol y guárdala en un lugar tranquilo, solo tuyo, como símbolo de la luz que esta esperanza enciende en tu corazón.
 
 <!-- activity:end -->
 

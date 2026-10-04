@@ -22,7 +22,7 @@ bedtime_dua_id: "lesson.039.dua.in-your-name-i-die-and-live"
 After this lesson, the learner will be able to:
 
 - Narrate the Qur'anic scene in Surah Maryam (19:58-63): prophets who fall down in prostration, weeping, when the verses of the Most Merciful are recited to them; then a later generation who squandered the prayer and followed their desires; then the door of repentance left open; and finally the Gardens of Eden, where `they will hear no idle talk, only peace, and they will have their provision there morning and evening`.
-- Explain what "morning and evening" mean in Jannah according to the commentators: times that follow one another, whose passing is recognized by changes of light, with no night and no darkness there; and keep what the text establishes distinct from scholarly reasoning about the how, which belongs to the unseen.
+- Explain what "morning and evening" mean in Jannah according to the commentators: times that follow one another, whose passing is recognized by changes of light, with no night and no darkness there; and keep what the text establishes distinct from scholarly reasoning about how it works, which belongs to the unseen.
 - Set out the two views of the commentators on `they squandered the prayer`: abandoning it altogether, or neglecting its appointed times, as Ibn Mas'ud, may Allah be pleased with him, said.
 - Use the hadith of Abu Hurayrah (al-Bukhari 3245) to show that the people of Jannah glorify Allah morning and evening, and the hadith of Abu Musa (al-Bukhari 574) to show the merit of the Fajr and Asr prayers, and connect the two to the care a believer gives his time in this world.
 - Carry out the "Close the Gap to the Call" activity: measuring the gap in time between the moment a prayer comes due and the moment it is actually prayed, naming what causes the delay, and then shrinking that gap for Fajr and Asr through a commitment made in advance.
@@ -30,7 +30,7 @@ After this lesson, the learner will be able to:
 
 ## Academic Section for Adults
 
-<!-- reader:start audience="adults" estimated_minutes="6.5" -->
+<!-- reader:start audience="adults" estimated_minutes="7.0" -->
 
 <!-- unit:start id="adults.explanation" kind="explanation" -->
 
@@ -64,7 +64,7 @@ Under this ayah Ibn Kathir also cites a hadith that contains the words "Not a si
 
 #### Lesson Explanation
 
-The commentators agree that there is no darkness in Jannah, and they differ over the form time takes there; how it works belongs to the unseen, which `the Most Merciful has promised His servants in the unseen`. What is striking is that a passage that opens with people who squandered the prayer, an act of worship bound to set times, closes with a bliss that has times of its own. Whoever guards time for Allah here has been promised time there with no fatigue and no night. This connection is a teaching reflection offered by the lesson, not a view handed down from the commentators.
+The commentators agree that there is no darkness in Jannah, and they differ over the form time takes there; how it works belongs to the unseen, for these are Gardens `which the Most Merciful has promised His servants in the unseen`. What is striking is that a passage that opens with people who squandered the prayer, an act of worship bound to set times, closes with a bliss that has times of its own. Whoever guards time for Allah here has been promised time there with no fatigue and no night. This connection is a teaching reflection offered by the lesson, not a view handed down from the commentators.
 
 <!-- evidence:end -->
 
@@ -104,7 +104,7 @@ Their glorifying Allah morning and evening is not a heavy duty laid upon them; i
 
 #### Lesson Explanation
 
-Fajr is the prayer of the morning, and Asr the prayer of the evening. Whoever guards these two in this world, just when they weigh heaviest, against sleep at one end and busyness at the other, may hope to enter the Jannah whose people, we are told, receive their provision morning and evening.
+Fajr is the prayer of the morning, and Asr the prayer of the evening. Whoever guards these two in this world, at the very times they weigh heaviest, when sleep or busyness pulls the other way, may hope to enter the Jannah whose people, we are told, receive their provision morning and evening.
 
 <!-- evidence:end -->
 
@@ -119,9 +119,9 @@ The ayat of Surah Maryam present three portraits of time: prophets whose hours w
 ## Questions for Understanding and Reflection
 
 1. What are the three ways of relating to the prayer portrayed in Maryam 19:58-60?
-2. What are the two views on the meaning of `they squandered the prayer`? And what does Ibn Mas'ud's answer, may Allah be pleased with him, tell us?
+2. What are the two views on the meaning of `they squandered the prayer`? And what does the answer of Ibn Mas'ud, may Allah be pleased with him, tell us?
 3. How did Ibn Kathir, Qatadah, and Zuhayr ibn Muhammad explain the mornings and evenings of Jannah, and on what did they agree?
-4. Why is provision said to come at known times even though it never stops, as as-Sa'di explains?
+4. Why, according to as-Sa'di, is provision said to come at known times even though it never stops?
 5. Which desire most often steals your prayer time from you, and in which prayer?
 
 <!-- unit:end -->
@@ -168,7 +168,7 @@ In Surah Maryam, Allah tells us about some wonderful prophets who loved Him very
 
 Then, after them, came other people. These people let the prayer slip away. Some scholars said they kept putting it off until its time was gone, because they were busy with the things they wanted.[^1]
 
-But Allah is so kind. Anyone who comes back to Allah and says sorry, who believes, and who does good things, Allah lets into Jannah, and not one of his good deeds gets lost.
+But Allah is so kind. If anyone comes back to Allah and says sorry, believes, and does good things, Allah lets them into Jannah, and not one of their good deeds gets lost.
 
 And in that Jannah, they never hear any mean or silly talk. They only hear "Salam," peace. And their food and good things come to them morning and evening.[^1]
 
@@ -197,7 +197,7 @@ So the prophets loved prayer time, and the people who let it slip away lost out.
 
 <!-- activity:start audience="4-7" concept_id="lesson.039.activity.close-the-gap-to-the-call" -->
 
-With your mom or dad, use a small sand timer (or count to sixty). For three days, whenever you hear the adhan, or your mom or dad calls you for Fajr or Asr, flip the timer over and try to be on your prayer rug before the sand runs out. On a piece of paper, draw a little sun for the morning and a low, slanting sun for Asr, and put a star next to it every time you beat the sand.
+With your mom or dad, use a small sand timer (or count to sixty). For three days, whenever you hear the adhan, or your mom or dad calls you for Fajr or Asr, flip the timer over and try to be on your prayer rug before the sand runs out. On a piece of paper, draw a little sun for the morning and a low, slanting sun for Asr, and put a star next to the right sun every time you beat the sand.
 
 <!-- activity:end -->
 
@@ -328,7 +328,7 @@ When the Prophet, peace and blessings be upon him, was ready to go to sleep, he 
 
 ## For Teens, Ages 13+
 
-<!-- reader:start audience="13+" estimated_minutes="6.5" -->
+<!-- reader:start audience="13+" estimated_minutes="6.0" -->
 
 <!-- unit:start id="13+.explanation" kind="explanation" -->
 
@@ -361,7 +361,7 @@ Surah Maryam moves through the lives of the prophets one after another, then pau
 
 <!-- retelling:start source_id="quran-19-58-63" audience="13+" -->
 
-Then comes the turn: `But after them came a later generation who squandered the prayer and followed their desires; they will soon meet ruin`. Not all the commentators said these people abandoned the prayer. Umar ibn Abd al-Aziz said: "Their squandering was not that they abandoned it; rather, they squandered its time." And the reason, as as-Sa'di explains, was that their ambitions were taken up with their desires, so they put those desires ahead of what they owed to Allah.[^1][^2]
+Then comes the turn: `But after them came a later generation who squandered the prayer and followed their desires; they will soon meet ruin`. Not all the commentators said these people abandoned the prayer. Umar ibn Abd al-Aziz said: "Their squandering was not that they abandoned it; rather, they squandered its time." And the reason, according to as-Sa'di, was that their ambitions were taken up with their desires, so they put those desires ahead of what they owed to Allah.[^1][^2]
 
 Yet the ayat do not slam the door: `Except those who repent, believe, and do righteous deeds`. Ibn Kathir says that Allah accepts such a person's repentance and gives him a good end, and not the least of his deeds is diminished. Then comes the promise: the Gardens of Eden, with no idle talk there, only peace, `and they will have their provision there morning and evening`. Qatadah said: "There is no night there; it is only brightness and light."[^1]
 
@@ -413,7 +413,7 @@ It is authentically reported that when the Prophet, peace and blessings be upon 
 >
 > *"All praise is for Allah, who gave us life after He had caused us to die, and to Him is the rising."*
 >
-> What it means: In Your name, O Allah, I die when I fall asleep, and in Your name I live when I wake. All praise is for Allah, who gave us back our life after a sleep that resembles death, and to Him is the resurrection. So the last moment of your day and the first moment of your tomorrow both belong to Allah's name, and you wake to find your Fajr waiting for you.[^6]
+> What it means: In Your name, O Allah, I die when I fall asleep, and in Your name I live when I wake. All praise is for Allah, who gave us back our life after a sleep that resembles death, and to Him is the resurrection. So the last moment of your day and the first moment of your tomorrow are both in the name of Allah, and you wake to find your Fajr waiting for you.[^6]
 
 <!-- bedtime-dua:end -->
 

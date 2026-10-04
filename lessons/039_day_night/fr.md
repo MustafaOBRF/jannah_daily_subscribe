@@ -30,7 +30,7 @@ Au terme de cette leçon, l'apprenant sera capable de :
 
 ## Section Académique Pour Adultes
 
-<!-- reader:start audience="adults" estimated_minutes="6.5" -->
+<!-- reader:start audience="adults" estimated_minutes="7.0" -->
 
 <!-- unit:start id="adults.explanation" kind="explanation" -->
 
@@ -58,7 +58,7 @@ Le Coran dit pourtant de la Jannah : « Ils y auront leur subsistance, matin e
 
 #### Interprétation Savante
 
-Ibn Kathir, qu'Allah lui fasse miséricorde, explique que le premier verset vise les prophètes dans leur ensemble : lorsqu'ils entendaient la parole d'Allah, ils se prosternaient par humilité, par louange et par gratitude. Le texte évoque ensuite des générations venues après eux, qui négligèrent la prière et se tournèrent vers les passions de ce monde. Les premiers musulmans ont divergé sur la nature de cette négligence. Selon les uns, il s'agit de l'abandon complet de la prière — c'est l'avis retenu par Ibn Jarir ; selon les autres, il s'agit d'en laisser perdre les heures. On interrogea Ibn Mas'ud, qu'Allah soit satisfait de lui, sur la préservation de la prière dont parle le Coran ; il répondit : « Il s'agit de ses heures. » On lui dit : « Nous pensions qu'il n'était question que de son abandon. » Il répliqua : « Cela, c'est de la mécréance. » Et 'Umar ibn 'Abd al-'Aziz a dit : « Leur négligence ne consistait pas à l'abandonner : c'est l'heure qu'ils laissaient perdre. » Sur « sauf celui qui se repent », Ibn Kathir explique : à celui qui revient, Allah accepte son repentir et réserve une belle fin, et rien ne sera retranché de ses œuvres.[^1]
+Ibn Kathir, qu'Allah lui fasse miséricorde, explique que le premier verset vise les prophètes dans leur ensemble : lorsqu'ils entendaient la parole d'Allah, ils se prosternaient par humilité, par louange et par gratitude. Le texte évoque ensuite des générations venues après eux, qui négligèrent la prière et se tournèrent vers les passions de ce monde. Les premiers musulmans ont divergé sur la nature de cette négligence. Selon les uns, il s'agit de l'abandon complet de la prière — c'est l'avis retenu par Ibn Jarir ; selon les autres, il s'agit d'en laisser perdre les heures. On interrogea Ibn Mas'ud, qu'Allah soit satisfait de lui, sur la préservation de la prière dont parle le Coran ; il répondit : « Il s'agit de ses heures. » On lui dit : « Nous pensions qu'il n'était question que de son abandon. » Il répliqua : « Cela, c'est de la mécréance. » Et 'Umar ibn 'Abd al-'Aziz a dit : « Leur négligence ne consistait pas à l'abandonner : c'est l'heure qu'ils laissaient perdre. » Sur « sauf celui qui se repent », Ibn Kathir explique : à celui qui revient, Allah accepte son repentir et lui réserve une belle fin, et rien ne sera retranché de ses œuvres.[^1]
 
 Sur « matin et soir », Ibn Kathir explique : c'est-à-dire à la façon des matins et des soirs, non qu'il y ait là-bas une nuit ou un jour ; mais ils vivent des moments qui se succèdent et dont ils reconnaissent le passage à des clartés et à des lumières. Il rapporte de Qatadah : « Il y a là deux moments, un matin et un soir ; il n'y a là ni nuit ni jour, mais seulement clarté et lumière » ; et de Zuhayr ibn Muhammad : « Il n'y a pas de nuit dans la Jannah ; ils sont dans une lumière perpétuelle. Ils reconnaissent la durée de la nuit à ce que l'on abaisse les voiles et que l'on ferme les portes, et la durée du jour à ce qu'on les relève et qu'on les ouvre. » Il rapporte encore d'al-Hasan : « Les Arabes tenaient le repas du matin et celui du soir pour ce que la vie offre de plus doux ; le Coran est donc descendu en leur parlant des délices tels que leurs âmes les concevaient. »[^1] Al-Baghawi mentionne un autre avis : il s'agirait de l'aisance de la vie et de l'abondance de la subsistance.[^3] Quant à as-Sa'di, il dit : leurs subsistances ne cessent jamais, chaque fois qu'ils les désirent ; et la plénitude de leur délice veut qu'elles viennent à des moments connus, afin que leur venue soit plus savoureuse et leur bienfait plus complet.[^2]
 
@@ -148,7 +148,7 @@ Pendant sept jours, notez pour chaque prière trois choses : l'heure de l'adhan
 
 ## Pour Les Enfants De 4 À 7 Ans
 
-<!-- reader:start audience="4-7" estimated_minutes="5.0" -->
+<!-- reader:start audience="4-7" estimated_minutes="4.5" -->
 
 <!-- unit:start id="4-7.explanation" kind="explanation" -->
 
@@ -231,7 +231,7 @@ Quand le Prophète, paix et bénédictions sur lui, voulait dormir, il disait :
 
 ## Pour Les Enfants De 8 À 12 Ans
 
-<!-- reader:start audience="8-12" estimated_minutes="6.0" -->
+<!-- reader:start audience="8-12" estimated_minutes="5.5" -->
 
 <!-- unit:start id="8-12.explanation" kind="explanation" -->
 
@@ -326,7 +326,7 @@ Quand le Prophète, paix et bénédictions sur lui, voulait dormir, il disait :
 
 ## Pour Les Adolescents, 13 Ans Et Plus
 
-<!-- reader:start audience="13+" estimated_minutes="6.5" -->
+<!-- reader:start audience="13+" estimated_minutes="5.5" -->
 
 <!-- unit:start id="13+.explanation" kind="explanation" -->
 
@@ -389,7 +389,7 @@ Remarque le contraste : d'un côté, des gens qui ont sacrifié les heures de c
 
 <!-- activity:start audience="13+" concept_id="lesson.039.activity.close-the-gap-to-the-call" -->
 
-Pendant sept jours, note dans un carnet personnel, pour chaque prière : l'heure de l'adhan, l'heure à laquelle tu as prié, l'écart en minutes, et la cause : téléphone, jeu, sommeil, amis. Les trois premiers jours, contente-toi de noter, honnêtement. Choisis ensuite l'aube et l'après-midi, et écris pour chacune une décision prise à l'avance, à appliquer avant le moment de faiblesse, par exemple : « Je laisse mon téléphone hors de ma chambre la nuit » ou « Je préviens mes potes que je prie l'après-midi d'abord ». Pour finir, trace un graphique simple de tes écarts, et écris un paragraphe : qui, ou quoi, tenait les rênes de mon temps ?
+Pendant sept jours, note dans un carnet personnel, pour chaque prière : l'heure de l'adhan, l'heure à laquelle tu as prié, l'écart en minutes, et la cause : téléphone, jeu, sommeil, amis. Les trois premiers jours, contente-toi de noter, honnêtement. Choisis ensuite l'aube et l'après-midi, et écris pour chacune une décision prise à l'avance, à appliquer avant le moment de faiblesse, par exemple : « Je laisse mon téléphone hors de ma chambre la nuit » ou « Je préviens mes potes que je fais d'abord la prière de l'après-midi ». Pour finir, trace un graphique simple de tes écarts, et écris un paragraphe : qui, ou quoi, tenait les rênes de mon temps ?
 
 <!-- activity:end -->
 
@@ -407,7 +407,7 @@ Il est établi que le Prophète, paix et bénédictions sur lui, disait, lorsqu'
 >
 > Et lorsqu'il se réveillait de son sommeil, il disait : **الْحَمْدُ لِلَّهِ الَّذِي أَحْيَانَا بَعْدَ مَا أَمَاتَنَا، وَإِلَيْهِ النُّشُورُ.**[^6]
 >
-> Ce qui veut dire : « C'est en Ton nom, ô Allah, que je meurs quand je m'endors, et en Ton nom que je vis quand je me réveille. » Et : « Louange à Allah, qui nous a rendu la vie après le sommeil, qui ressemble à la mort ; et c'est vers Lui que se fera la résurrection. » Ainsi, la fin de ta journée et le début de ton lendemain se placent sous le nom d'Allah, et tu te réveilles avec ton aube qui t'attend.[^6]
+> Ce qui veut dire : « C'est en Ton nom, ô Allah, que je meurs quand je m'endors, et en Ton nom que je vis quand je me réveille. » Et : « Louange à Allah, qui nous a rendu la vie après le sommeil, qui ressemble à la mort ; et c'est vers Lui que se fera la résurrection. » Ainsi, la fin de ta journée et le début de ton lendemain se placent sous le nom d'Allah, et, à ton réveil, l'aube t'attend.[^6]
 
 <!-- bedtime-dua:end -->
 
@@ -434,7 +434,7 @@ Il est établi que le Prophète, paix et bénédictions sur lui, disait, lorsqu'
 **Ouverture — 5 minutes :** l'enseignant demande : « Si l'on avait noté hier, pour chaque prière, l'heure de l'adhan et l'heure à laquelle vous l'avez accomplie, combien de minutes cela ferait-il au total ? » Puis : « Pouvez-vous imaginer une journée sans nuit et sans fatigue ? » Il écoute sans commenter.
 
 <!-- lesson-plan:evidence -->
-**Étude des preuves — 20 minutes :** lire les versets 58 à 63 en entier, puis les apprenants remplissent les trois colonnes (7 minutes). Présenter ensuite les deux avis sur la négligence de la prière, avec la parole d'Ibn Mas'ud (4 minutes). Puis les avis des exégètes sur le matin et le soir, en écrivant au tableau : « Ce qui fait l'accord » et « Ce qui fait débat » (5 minutes). Enfin, les deux hadiths, en expliquant le sens des « deux fraîches » (4 minutes).
+**Étude des preuves — 20 minutes :** lire les versets 58 à 63 en entier, puis les apprenants remplissent les trois colonnes (7 minutes). Présenter ensuite les deux avis sur la négligence de la prière, avec la parole d'Ibn Mas'ud (4 minutes). Puis les avis des exégètes sur le matin et le soir, en écrivant au tableau : « Points d'accord » et « Points de divergence » (5 minutes). Enfin, les deux hadiths, en expliquant le sens des « deux fraîches » (4 minutes).
 
 <!-- lesson-plan:instruction -->
 **Enseignement guidé — 10 minutes :** l'enseignant ouvre la discussion : pourquoi s'adresser aux gens en leur parlant de matin et de soir, alors qu'ils connaissent déjà ces moments ? Et pourquoi as-Sa'di met-il en avant la sagesse des « moments connus » alors que la subsistance est perpétuelle ? Il précise que relier les heures de la prière aux moments de la Jannah est une méditation éducative propre à la leçon, et non une exégèse rapportée.

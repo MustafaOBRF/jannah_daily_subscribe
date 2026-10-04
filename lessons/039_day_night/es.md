@@ -26,11 +26,11 @@ Después de esta lección, el aprendiz será capaz de:
 - Exponer las dos opiniones de los exégetas sobre el sentido de {echaron a perder la oración}: abandonarla por completo, o malograr sus horas, como dijo Ibn Mas'ud, que Allah esté complacido con él.
 - Apoyarse en el hadiz de Abu Huraira (al-Bujari 3245) para mostrar que la gente del Paraíso glorifica a Allah mañana y tarde, y en el hadiz de Abu Musa (al-Bujari 574) para mostrar el mérito de las oraciones del alba y de la tarde; y relacionar ambas cosas con el cuidado que el creyente pone en su tiempo en este mundo.
 - Llevar a cabo la actividad "Acorta la distancia hasta la llamada": medir el tiempo que pasa entre la entrada de la hora de cada oración y el momento en que de verdad se reza, ponerle nombre a lo que la retrasa y, después, acortar esa distancia en el alba y en la tarde mediante un compromiso tomado de antemano.
-- Memorizar la súplica profética al acostarse y al despertar: «بِاسْمِكَ اللَّهُمَّ أَمُوتُ وَأَحْيَا» ("En Tu nombre, oh Allah, muero y vivo") y «الْحَمْدُ لِلَّهِ الَّذِي أَحْيَانَا بَعْدَ مَا أَمَاتَنَا وَإِلَيْهِ النُّشُورُ» ("Alabado sea Allah, que nos dio la vida después de habernos hecho morir, y a Él es la resurrección") (al-Bujari 6324).
+- Memorizar la súplica profética al acostarse y al despertar: «بِاسْمِكَ اللَّهُمَّ أَمُوتُ وَأَحْيَا» ("En Tu nombre, oh Allah, muero y vivo") y «الْحَمْدُ لِلَّهِ الَّذِي أَحْيَانَا بَعْدَ مَا أَمَاتَنَا وَإِلَيْهِ النُّشُورُ» ("Alabado sea Allah, que nos dio la vida después de habernos hecho morir, y hacia Él será la resurrección") (al-Bujari 6324).
 
 ## Sección académica para adultos
 
-<!-- reader:start audience="adults" estimated_minutes="6.5" -->
+<!-- reader:start audience="adults" estimated_minutes="7.0" -->
 
 <!-- unit:start id="adults.explanation" kind="explanation" -->
 
@@ -88,7 +88,7 @@ Ibn Kazir adujo este hadiz al comentar la aleya de Maryam como testimonio de que
 
 #### Explicación de la lección
 
-Que glorifiquen a Allah mañana y tarde no es una carga pesada, sino una delicia que se renueva con cada momento que se renueva, en corazones entre los que no hay discordia ni rencor. Los momentos del Paraíso son, por tanto, momentos de recuerdo de Allah, de sustento y de paz.
+Que glorifiquen a Allah mañana y tarde no es una carga pesada, sino una delicia que se renueva a cada momento, en corazones entre los que no hay discordia ni rencor. Los momentos del Paraíso son, por tanto, momentos de recuerdo de Allah, de sustento y de paz.
 
 <!-- evidence:end -->
 
@@ -110,7 +110,7 @@ Que glorifiquen a Allah mañana y tarde no es una carga pesada, sino una delicia
 
 #### Explicación de la lección
 
-El alba es la oración de la mañana, y la de la tarde es la oración del atardecer. Quien las guarda en este mundo, justo cuando más pesan —por el sueño o por el ajetreo—, puede esperar entrar en el Paraíso, cuyo sustento llega a sus habitantes mañana y tarde.
+La oración del alba es la oración de la «mañana» (bukra), y la de la tarde, la oración de la «tarde» ('ashiyy). Quien las guarda en este mundo, justo cuando más pesan —por el sueño o por el ajetreo—, puede esperar entrar en el Paraíso, cuyo sustento llega a sus habitantes mañana y tarde.
 
 <!-- evidence:end -->
 
@@ -148,7 +148,7 @@ Durante siete días, anota tres cosas en cada oración: la hora del adán (la ll
 
 ## Para niños de 4 a 7 años
 
-<!-- reader:start audience="4-7" estimated_minutes="5.0" -->
+<!-- reader:start audience="4-7" estimated_minutes="5.5" -->
 
 <!-- unit:start id="4-7.explanation" kind="explanation" -->
 
@@ -326,7 +326,7 @@ Cuando el Profeta, la paz y las bendiciones de Allah sean con él, iba a dormir,
 
 ## Para adolescentes de 13+
 
-<!-- reader:start audience="13+" estimated_minutes="6.5" -->
+<!-- reader:start audience="13+" estimated_minutes="6.0" -->
 
 <!-- unit:start id="13+.explanation" kind="explanation" -->
 
@@ -407,7 +407,7 @@ Está confirmado que el Profeta, la paz y las bendiciones de Allah sean con él,
 >
 > Y cuando despertaba de su sueño, decía: **الْحَمْدُ لِلَّهِ الَّذِي أَحْيَانَا بَعْدَ مَا أَمَاتَنَا، وَإِلَيْهِ النُّشُورُ.**[^6]
 >
-> Significa: "En Tu nombre, oh Allah, muero cuando me duermo, y en Tu nombre vivo cuando despierto". Y: "Alabado sea Allah, que nos devolvió la vida después del sueño, que se parece a la muerte; y a Él es la resurrección". Así, el final de tu día y el comienzo de tu mañana quedan en el nombre de Allah, y te despiertas con tu oración del alba esperándote.[^6]
+> Significa: "En Tu nombre, oh Allah, muero cuando me duermo, y en Tu nombre vivo cuando despierto". Y: "Alabado sea Allah, que nos devolvió la vida después del sueño, que se parece a la muerte; y hacia Él será la resurrección". Así, el final de tu día y el comienzo de tu mañana quedan en el nombre de Allah, y te despiertas con tu oración del alba esperándote.[^6]
 
 <!-- bedtime-dua:end -->
 

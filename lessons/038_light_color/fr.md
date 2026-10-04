@@ -32,7 +32,7 @@ Au terme de cette leçon, l'apprenant sera capable de :
 
 ## Section Académique Pour Adultes
 
-<!-- reader:start audience="adults" estimated_minutes="6.5" -->
+<!-- reader:start audience="adults" estimated_minutes="7.0" -->
 
 <!-- unit:start id="adults.explanation" kind="explanation" -->
 
@@ -40,7 +40,7 @@ Nous vivons d'une lumière d'emprunt : nos jours, nous les devons à un soleil 
 
 Cette leçon rassemble cinq textes qui se complètent pour établir trois vérités :
 
-1. **Là-bas, la lumière est le fruit de la foi et des œuvres :** elle court devant les croyants au Jour de la Résurrection, et nul ne peut y allumer la sienne s'il n'en est le possesseur.
+1. **Là-bas, la lumière est le fruit de la foi et des œuvres :** elle court devant les croyants au Jour de la Résurrection, et nul autre que celui qui la possède ne peut y prendre une flamme.
 2. **La Jannah est une demeure de lumière et de limpidité :** ni soleil ni froid glacial, des visages rayonnants, et une blancheur de délices qui n'est qu'éclat, sans le moindre trouble.
 3. **La lumière a un chemin dès ici-bas :** celui qui marche dans les ténèbres vers les mosquées reçoit la bonne nouvelle d'une lumière parfaite.
 
@@ -200,7 +200,7 @@ Tracez deux colonnes : « Lumière empruntée » et « Lumière portée ».
 
 ## Pour Les Enfants De 4 À 7 Ans
 
-<!-- reader:start audience="4-7" estimated_minutes="5.0" -->
+<!-- reader:start audience="4-7" estimated_minutes="6.5" -->
 
 <!-- unit:start id="4-7.explanation" kind="explanation" -->
 
@@ -248,7 +248,7 @@ Sara demanda : « Et la Jannah, elle ressemble à ce ciel ? » Il répondit�
 
 Allah nous a appris, dans la sourate al-Hadid, qu'au Jour de la Résurrection, la lumière des croyants et des croyantes marchera devant eux et à leur droite, et qu'on leur dira : « Réjouissez-vous ! Voici pour vous des Jardins où coulent des rivières. »
 
-Et des gens qui faisaient semblant de croire, mais qui ne croyaient pas dans leur cœur, diront aux croyants : « Attendez-nous, qu'on prenne un peu de votre lumière ! » On leur répondra : « Retournez derrière vous, et cherchez une lumière ! » Puis on mettra entre eux un grand mur avec une porte, et à l'intérieur, il y a la miséricorde d'Allah.[^1]
+Et des gens qui faisaient semblant de croire, mais qui ne croyaient pas dans leur cœur, diront aux croyants : « Attendez-nous, qu'on prenne un peu de votre lumière ! » On leur répondra : « Retournez derrière vous, et cherchez une lumière ! » Puis on mettra entre eux un grand mur avec une porte, et à l'intérieur, il y aura la miséricorde d'Allah.[^1]
 
 Les savants ont dit : chacun aura une lumière à la mesure de sa foi et de ses bonnes actions ; personne ne pourra prendre la lumière d'un autre.[^3]
 
@@ -303,7 +303,7 @@ Le Prophète, paix et bénédictions sur lui, faisait cette invocation, et nous 
 
 ## Pour Les Enfants De 8 À 12 Ans
 
-<!-- reader:start audience="8-12" estimated_minutes="6.0" -->
+<!-- reader:start audience="8-12" estimated_minutes="7.0" -->
 
 <!-- unit:start id="8-12.explanation" kind="explanation" -->
 
@@ -418,11 +418,11 @@ Voici une invocation que le Prophète, paix et bénédictions sur lui, faisait l
 
 ## Pour Les Adolescents, 13 Ans Et Plus
 
-<!-- reader:start audience="13+" estimated_minutes="6.5" -->
+<!-- reader:start audience="13+" estimated_minutes="7.0" -->
 
 <!-- unit:start id="13+.explanation" kind="explanation" -->
 
-Dans le monde des images, on peut « rayonner » d'un simple geste : un filtre qui éclaircit la peau, lisse le visage et pousse la luminosité. Mais c'est une lumière empruntée, qui disparaît dès que l'écran s'éteint. Les textes, eux, parlent d'un éclat réel : les visages des premiers à entrer dans la Jannah, « à l'image de la lune la nuit où elle est pleine »,[^6] et une lumière qui court devant les croyants au Jour de la Résurrection, à la mesure de leur foi et de leurs œuvres.[^3] Et quand les textes décrivent les délices de la Jannah par la blancheur, il s'agit d'une blancheur de limpidité et d'éclat, non d'un classement des êtres humains selon la couleur de leur peau.[^7]
+Dans le monde des images, on peut « rayonner » d'un simple clic : un filtre qui éclaircit la peau, lisse le visage et pousse la luminosité. Mais c'est une lumière empruntée, qui disparaît dès que l'écran s'éteint. Les textes, eux, parlent d'un éclat réel : les visages des premiers à entrer dans la Jannah, « à l'image de la lune la nuit où elle est pleine »,[^6] et une lumière qui court devant les croyants au Jour de la Résurrection, à la mesure de leur foi et de leurs œuvres.[^3] Et quand les textes décrivent les délices de la Jannah par la blancheur, il s'agit d'une blancheur de limpidité et d'éclat, non d'un classement des êtres humains selon la couleur de leur peau.[^7]
 
 <!-- unit:end -->
 
@@ -460,7 +460,7 @@ Le soir, Nour ne raconta nulle part ce qu'elle avait fait. Elle ouvrit son carne
 
 **Ceci est une vraie nouvelle tirée du Noble Coran, dans la sourate al-Hadid (57:12-13) ; ce n'est pas une scène imaginée.**
 
-Allah décrit les croyants et les croyantes au Jour de la Résurrection, leur lumière courant devant eux et à leur droite ; puis leur parvient la bonne nouvelle : « Votre bonne nouvelle, aujourd'hui : des Jardins sous lesquels coulent les rivières, pour y demeurer éternellement. Voilà le succès immense. » Et les hypocrites, hommes et femmes — qui vivaient parmi les croyants par leur seule apparence —, disent : « Attendez-nous, que nous prenions une flamme à votre lumière ! » On leur répond : « Retournez derrière vous, et cherchez une lumière ! » Puis on dresse entre eux une muraille percée d'une porte : à l'intérieur, la miséricorde ; à l'extérieur, de ce côté-là, le châtiment.[^1]
+Allah décrit les croyants et les croyantes au Jour de la Résurrection, leur lumière courant devant eux et à leur droite ; puis leur parvient la bonne nouvelle : « Votre bonne nouvelle, aujourd'hui : des Jardins sous lesquels coulent les rivières, pour y demeurer éternellement. Voilà le succès immense. » Et les hypocrites, hommes et femmes — qui ne vivaient parmi les croyants que par les apparences —, disent : « Attendez-nous, que nous prenions une flamme à votre lumière ! » On leur répond : « Retournez derrière vous, et cherchez une lumière ! » Puis on dresse entre eux une muraille percée d'une porte : à l'intérieur, la miséricorde ; à l'extérieur, de ce côté-là, le châtiment.[^1]
 
 As-Sa'di explique que cette réponse signifie qu'obtenir la lumière est alors « impossible ».[^3] Et Ibn Kathir rapporte d'Ibn Mas'ud, qu'Allah soit satisfait de lui, que les gens passeront sur le Pont à la mesure de leurs œuvres : il en est dont la lumière est pareille à une montagne, d'autres dont la lumière est pareille à un palmier, et le plus pauvre d'entre eux en lumière a sa lumière à l'orteil, tantôt allumée, tantôt éteinte.[^2]
 
@@ -687,7 +687,7 @@ Remarque que l'invocation commence par le cœur avant les yeux : la lumière qu
 [^3]: As-Sa'di, *Taysir al-Karim ar-Rahman fi Tafsir Kalam al-Mannan*, commentaire de la sourate al-Hadid, versets 12 et 13 : [quran.ksu.edu.sa/tafseer/saadi/sura57-aya12.html](https://quran.ksu.edu.sa/tafseer/saadi/sura57-aya12.html), [quran.ksu.edu.sa/tafseer/saadi/sura57-aya13.html](https://quran.ksu.edu.sa/tafseer/saadi/sura57-aya13.html).
 [^4]: Le Noble Coran, sourate al-Insan, verset 13 : [quran.com/76/13](https://quran.com/76/13).
 [^5]: Ibn Kathir, *Tafsir al-Qur'an al-'Azim*, commentaire de la sourate al-Insan, verset 13 : [quran.ksu.edu.sa/tafseer/katheer/sura76-aya13.html](https://quran.ksu.edu.sa/tafseer/katheer/sura76-aya13.html) ; as-Sa'di, *Taysir al-Karim ar-Rahman*, même passage : [quran.ksu.edu.sa/tafseer/saadi/sura76-aya13.html](https://quran.ksu.edu.sa/tafseer/saadi/sura76-aya13.html) ; et le propos d'Ibn Taymiyyah tiré de *Majmu' al-Fatawa* (4/312), tel que le rapporte 'Umar Sulayman al-Ashqar dans *al-Jannah wa an-Nar*, deuxième partie, troisième chapitre, huitième section : « La lumière de la Jannah » : [shamela.ws/book/12714/156](https://shamela.ws/book/12714/156).
-[^6]: Sahih al-Bukhari, Livre des récits des prophètes (*Ahadith al-Anbiya'*), chapitre de la création d'Adam et de sa descendance, hadith 3327, rapporté par Abu Zur'ah d'après Abu Hurayrah, qu'Allah soit satisfait de lui ; authentique : [sunnah.com/bukhari:3327](https://sunnah.com/bukhari:3327). Le début du texte est reproduit, et la suite (pureté des corps, peignes, sueur, encensoirs, épouses, stature) est omise, l'omission étant signalée. Muslim le rapporte dans le Livre de la Jannah, de la description de ses délices et de ses habitants, hadith 2834 : [sunnah.com/muslim:2834](https://sunnah.com/muslim:2834) ; et al-Bukhari le rapporte en des termes proches sous les n° 3245 et 3254.
+[^6]: Sahih al-Bukhari, Livre des récits des prophètes (*Ahadith al-Anbiya'*), chapitre de la création d'Adam et de sa descendance, hadith 3327, rapporté par Abu Zur'ah d'après Abu Hurayrah, qu'Allah soit satisfait de lui ; authentique : [sunnah.com/bukhari:3327](https://sunnah.com/bukhari:3327). Le début du texte est reproduit, et la suite (pureté des corps, peignes, sueur, encensoirs, épouses, stature) est omise, l'omission étant signalée. Muslim le rapporte dans le Livre de la Jannah, de la description de ses délices et de ses habitants, hadith 2834 : [sunnah.com/muslim:2834](https://sunnah.com/muslim:2834) ; et al-Bukhari le rapporte en des termes proches sous les nos 3245 et 3254.
 [^7]: Le Noble Coran, sourate as-Saffat, versets 45-47 : [quran.com/37/45-47](https://quran.com/37/45-47) ; Ibn Kathir, *Tafsir al-Qur'an al-'Azim*, commentaire de la sourate as-Saffat, verset 46, où figure le propos de Zayd ibn Aslam rapporté par Malik : [quran.ksu.edu.sa/tafseer/katheer/sura37-aya46.html](https://quran.ksu.edu.sa/tafseer/katheer/sura37-aya46.html) ; as-Sa'di, même passage : [quran.ksu.edu.sa/tafseer/saadi/sura37-aya46.html](https://quran.ksu.edu.sa/tafseer/saadi/sura37-aya46.html).
 [^8]: Sunan Abi Dawud, Livre de la prière, chapitre de la marche vers la prière dans l'obscurité, hadith 561, rapporté par Buraydah al-Aslami, qu'Allah soit satisfait de lui ; jugé authentique par al-Albani : [sunnah.com/abudawud:561](https://sunnah.com/abudawud:561) ; rapporté aussi par at-Tirmidhi, chapitres de la prière, hadith 223, qui a dit : « *gharib* par cette voie » ; jugé authentique par al-Albani et Ahmad Shakir : [sunnah.com/tirmidhi:223](https://sunnah.com/tirmidhi:223). L'explication de « ténèbres » (*az-zulam*) et de « lumière parfaite » est celle de la leçon, d'après le sens des mots.
 [^9]: Sahih al-Bukhari, Livre des invocations, chapitre de l'invocation lorsqu'on se réveille la nuit, hadith 6316, rapporté par Kurayb d'après Ibn 'Abbas, qu'Allah soit satisfait de lui et de son père ; authentique, et le texte reproduit est le sien : [sunnah.com/bukhari:6316](https://sunnah.com/bukhari:6316) ; rapporté aussi par Muslim, Livre de la prière du voyageur et de son raccourcissement, chapitre de l'invocation dans la prière de nuit, hadith 763, en plusieurs versions, dont l'une précise qu'il la prononçait en sortant pour la prière : [sunnah.com/muslim:763](https://sunnah.com/muslim:763). Le sens donné après l'invocation est une explication approximative formulée par la leçon.

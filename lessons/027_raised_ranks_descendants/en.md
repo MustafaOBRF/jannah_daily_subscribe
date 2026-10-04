@@ -35,9 +35,9 @@ After this lesson, the learner will be able to:
 
 <!-- unit:start id="adults.explanation" kind="explanation" -->
 
-Among the widest doors of hope that open onto Jannah is this: Allah does not make a believer's bliss a solitary, sealed-off happiness. He gathers to that believer whoever among their family was righteous, raising the lower-ranked to the rank of the higher so that the believer's eyes may be gladdened by them, while the higher loses nothing of their reward. This grace does not cancel justice. The Qur'an makes faith the condition for any descendant who is joined in this way, and it closes the very same ayah with `Every person is held in pledge for what he has earned`. Lineage alone admits no one to Jannah.
+One of the widest doors of hope concerning Jannah is this: Allah does not make a believer's bliss a solitary, sealed-off happiness. He gathers to that believer whoever among their family was righteous, raising the lower-ranked to the rank of the higher so that the believer's eyes may be gladdened by them, while the higher loses nothing of their reward. This grace does not cancel justice. The Qur'an makes faith the condition for any descendant who is joined in this way, and it closes the very same ayah with `Every person is held in pledge for what he has earned`. Lineage alone admits no one to Jannah.
 
-This grace runs in both directions. A righteous parent may have their descendants raised up to them by Allah, and a righteous child may, through their prayers for forgiveness, have their parent's rank raised by Allah. That is why Ya'qub, peace be upon him, on his deathbed asked his sons about their worship, not their wealth; and why Umar ibn Abd al-Aziz, may Allah have mercy on him, refused to bequeath his sons what was not theirs, and entrusted them to Allah instead.
+This grace runs in both directions. Allah may raise a righteous parent's descendants up to that parent, and Allah may raise a parent's rank through the prayers for forgiveness of a righteous child. That is why Ya'qub, peace be upon him, on his deathbed asked his sons about their worship, not their wealth; and why Umar ibn Abd al-Aziz, may Allah have mercy on him, refused to bequeath his sons what was not theirs, and entrusted them to Allah instead.
 
 And there is hope here for everyone. Whoever has lost their parents, or grew up without one of them, can still be the child who prays. And whoever is the first Muslim in their family can be the root to which their own descendants are one day joined.
 
@@ -59,7 +59,7 @@ And there is hope here for everyone. Whoever has lost their parents, or grew up 
 
 #### Scholarly Explanation
 
-Ibn Kathir relates from Ibn Abbas, may Allah be pleased with him and his father, the words: "Allah raises the descendants of the believer to his rank, even if they fell short of him in deeds, so that his eyes may be gladdened by them." He explains that `We shall not deprive them` means that We do not reduce the parents' reward in the slightest by joining their children to them.[^1] The commentators differ over who the "descendants" are here: the young children who follow their parents in the ruling of faith, the grown children who believed by their own choice, or both groups? Al-Wahidi held that both are included, while Ibn al-Qayyim inclined to the view that restricting it to young children is the more apparent reading.[^8]
+Ibn Kathir relates that Ibn Abbas, may Allah be pleased with him and his father, said: "Allah raises the descendants of the believer to his rank, even if they fell short of him in deeds, so that his eyes may be gladdened by them." He explains that `We shall not deprive them` means that We do not reduce the parents' reward in the slightest by joining their children to them.[^1] The commentators differ over who the "descendants" are here: the young children who follow their parents in the ruling of faith, the grown children who believed by their own choice, or both groups? Al-Wahidi held that both are included, while Ibn al-Qayyim inclined to the view that restricting it to young children is the more apparent reading.[^8]
 
 #### Lesson Explanation
 
@@ -163,7 +163,7 @@ The hadith describes the child as righteous before it mentions the prayer. Raisi
 
 #### Scholarly Explanation
 
-This is a historical report transmitted by the historians and biographers. It is not a Prophetic hadith, it is not graded by the standards of the hadith critics, and it is cited here as an educational illustration, not as legal proof. The passages omitted at the ellipses are, in the first place, other narrations of the same sentence's meaning and, in the second, Umar's weighing of his sons' wealth against the safety of his own Hereafter.[^6]
+This is a historical report transmitted by the historians and biographers. It is not a Prophetic hadith, it is not graded by the standards of the hadith critics, and it is cited here as an educational illustration, not as legal proof. At the first ellipsis, the omitted text consists of other narrations of the same sentence's meaning; at the second, it is Umar's weighing of his sons' wealth against the safety of his own Hereafter.[^6]
 
 #### Lesson Explanation
 
@@ -363,7 +363,7 @@ About thirteen hundred years ago, Umar ibn Abd al-Aziz, may Allah have mercy on 
 
 Then Umar fell into his last illness, and someone said to him: "These sons of yours are poor. Won't you set something aside for them in your will?" It was an easy chance: one word from him, and his sons would be given a fortune.
 
-But Umar knew that money was not theirs. So he recited Allah's words: "Indeed, my Protector is Allah, who sent down the Book, and He takes the righteous into His care." And he said something like this: By Allah, I will not give them what belongs to someone else. My sons will turn out one of two ways. Either a son is righteous, and then Allah takes care of him and looks after him; or he is not, and then I will not use money to help him disobey Allah.
+But Umar saw that this money was not theirs. So he recited Allah's words: "Indeed, my Protector is Allah, who sent down the Book, and He takes the righteous into His care." And he said something like this: By Allah, I will not give them what belongs to someone else. My sons will turn out one of two ways. Either a son is righteous, and then Allah takes care of him and looks after him; or he is not, and then I will not use money to help him disobey Allah.
 
 Then he called his sons, said goodbye to them, and told them: "Go now, may Allah keep you safe from sin, and may He watch over you well after I am gone." In other words: may Allah protect you from doing wrong and take good care of you once I am no longer here.[^6]
 
@@ -598,7 +598,7 @@ Meaning: O Allah, forgive me and my parents, guide my family to You, and by Your
 ### Children Ages 4-7 — 25 Minutes
 
 <!-- lesson-plan:outcomes -->
-**Learning Outcomes:** The child can say again, in a simple sentence, that Allah brings believing families together in Jannah; can recall Ya'qub's question to his sons; says a short du'a for someone in their family; and adds the first link to their chain.
+**Learning Outcomes:** The child can restate, in a simple sentence, that Allah brings believing families together in Jannah; can recall Ya'qub's question to his sons; says a short du'a for someone in their family; and adds the first link to their chain.
 
 <!-- lesson-plan:materials -->
 **Materials:** Precut strips of colored paper; tape, or a safe stapler used by an adult; a picture of a finished chain of links; the du'a card in large print.

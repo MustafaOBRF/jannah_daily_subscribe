@@ -23,14 +23,14 @@ By the end of this lesson, the learner will be able to:
 
 - Relate the hadith in which Musa, peace be upon him, asked his Lord about the lowest and the highest in rank among the people of Jannah (Muslim 189), and describe both ends of the scale: the gift of the lowest, which reaches the like of the kingdom of a king of this world and ten times as much, and the hidden honor of the highest, which no eye has seen, linking it to the ayah of as-Sajdah 32:17.
 - Explain that the highest station in Jannah is *al-Wasilah*, which befits only one servant of Allah and which the Prophet, peace and blessings be upon him, hoped would be his (Muslim 384), and that asking for it on his behalf after the call to prayer is a daily deed that connects every Muslim to that station.
-- Narrate the Qur'anic story of the wife of Pharaoh: how she saved the infant Musa with a word of mercy (al-Qasas 28:7-9), and then her prayer, `My Lord, build for me near You a house in Jannah` (at-Tahrim 66:11), and explain the scholars' saying: "She chose the neighbor before the house."
+- Narrate the Qur'anic story of the wife of Pharaoh: how she saved the infant Musa with a word of mercy (al-Qasas 28:7-9), and then her prayer, `My Lord, build for me, near You, a house in Jannah` (at-Tahrim 66:11), and explain the scholars' saying: "She chose the neighbor before the house."
 - Draw on the hadith "Many men attained perfection" (al-Bukhari 3411) to show that the ranks of this world are not the scale by which stations in the Hereafter are measured.
 - Carry out the "Re-ranking What Is High" activity, in which the learner ranks what they consider lofty twice, before and after the evidence, gives a reason for every shift, and then chooses one deed that will bring them closer to Allah.
 - Recall the lesson's du'a, which asks Allah to make nearness to Him our highest wish, to raise our rank, and to grant us contentment.
 
 ## Academic Section for Adults
 
-<!-- reader:start audience="adults" estimated_minutes="6.5" -->
+<!-- reader:start audience="adults" estimated_minutes="7.0" -->
 
 <!-- unit:start id="adults.explanation" kind="explanation" -->
 
@@ -54,13 +54,13 @@ The Qur'an offers a living example of this scale of values: the wife of Pharaoh,
 
 <!-- evidence:translation -->
 
-> On the authority of al-Mughirah ibn Shu'bah, may Allah be pleased with him, who traced it back to the Messenger of Allah, peace and blessings be upon him, who said: **"Musa asked his Lord: 'Who is the lowest in rank among the people of Jannah?' He said: 'He is a man who comes after the people of Jannah have been admitted into Jannah. It is said to him, "Enter Jannah." He says, "My Lord, how, when the people have already settled into their places and taken what they have taken?" It is said to him, "Would you be content to have the like of the kingdom of one of the kings of this world?" He says, "I am content, my Lord." He says, "You shall have that, and the like of it, and the like of it, and the like of it, and the like of it." At the fifth, he says, "I am content, my Lord." He says, "This is yours, and ten times as much, and you shall have whatever your soul desires and whatever delights your eye." He says, "I am content, my Lord."' Musa said: 'My Lord, and the highest of them in rank?' He said: 'Those are the ones I chose. I planted their honor with My own Hand and set a seal upon it, so no eye has seen it, no ear has heard of it, and it has never crossed the heart of any human being.'"** He said: And its confirmation in the Book of Allah, the Mighty and Majestic, is: `No soul knows what delight of the eyes has been hidden away for them` (the ayah).[^1]
+> On the authority of al-Mughirah ibn Shu'bah, may Allah be pleased with him, tracing it back to the Messenger of Allah, peace and blessings be upon him, who said: **"Musa asked his Lord: 'Who is the lowest in rank among the people of Jannah?' He said: 'He is a man who comes after the people of Jannah have been admitted into Jannah. It is said to him, "Enter Jannah." He says, "My Lord, how, when the people have already settled into their places and taken what they have taken?" It is said to him, "Would you be content to have the like of the kingdom of one of the kings of this world?" He says, "I am content, my Lord." He says, "You shall have that, and the like of it, and the like of it, and the like of it, and the like of it." At the fifth, he says, "I am content, my Lord." He says, "This is yours, and ten times as much, and you shall have whatever your soul desires and whatever delights your eye." He says, "I am content, my Lord."' Musa said: 'My Lord, and the highest of them in rank?' He said: 'Those are the ones I chose. I planted their honor with My own Hand and set a seal upon it, so no eye has seen it, no ear has heard of it, and it has never crossed the heart of any human being.'"** He said: And its confirmation in the Book of Allah, the Mighty and Majestic, is: `No soul knows what delight of the eyes has been hidden away for them` (the ayah).[^1]
 >
 > The ayah in full: **`No soul knows what delight of the eyes has been hidden away for them, as a reward for what they used to do.`** (as-Sajdah 32:17)[^2]
 
 #### Scholarly Explanation
 
-Imam an-Nawawi, may Allah have mercy on him, cited al-Qadi 'Iyad as explaining "what they have taken" (*akhadhatihim*) as the honor they have received from their Master and secured for themselves; he explained "the ones I chose" (*aradtu*) as those whom He selected and singled out, and said that "I planted their honor with My Hand and set a seal upon it" means: I selected them and took charge of them, so no change can reach their honor.[^3] And the words "you shall have whatever your soul desires" show that the gift of the lowest does not stop at the numbers mentioned.
+Imam an-Nawawi, may Allah have mercy on him, cited al-Qadi 'Iyad as explaining "what they have taken" (*akhadhatihim*) as the honor they have received from their Master and secured for themselves; he explained "the ones I chose" (*aradtu*) as those whom He selected and singled out, and said that "I planted their honor with My own Hand and set a seal upon it" means: I selected them and took charge of them, so no change can reach their honor.[^3] And the words "you shall have whatever your soul desires" show that the gift of the lowest does not stop at the numbers mentioned.
 
 #### Lesson Explanation
 
@@ -76,7 +76,7 @@ The lowest station is no deprivation: five times the kingdom of a king, then ten
 
 <!-- evidence:translation -->
 
-> On the authority of Abdullah ibn Amr ibn al-As, may Allah be pleased with him and his father, that he heard the Prophet, peace and blessings be upon him, say: **"When you hear the mu'adhdhin, say what he says. Then invoke blessings upon me, for whoever invokes one blessing upon me, Allah blesses him ten times for it. Then ask Allah to grant me *al-Wasilah*, for it is a station in Jannah that befits only one of the servants of Allah, and I hope that I will be he. Whoever asks for *al-Wasilah* for me, intercession becomes his due."**[^4]
+> On the authority of Abdullah ibn Amr ibn al-As, may Allah be pleased with him and his father, that he heard the Prophet, peace and blessings be upon him, say: **"When you hear the mu'adhdhin, say what he says. Then invoke blessings upon me, for whoever invokes one blessing upon me, Allah blesses him ten times for it. Then ask Allah to grant me *al-Wasilah*, for it is a station in Jannah that befits only one of the servants of Allah, and I hope that I will be the one. Whoever asks for *al-Wasilah* for me, intercession becomes his due."**[^4]
 
 #### Scholarly Explanation
 
@@ -96,11 +96,11 @@ At the summit of Jannah there is a station for one servant alone, and every Musl
 
 <!-- evidence:translation -->
 
-> **"And Allah sets forth as an example for those who believe the wife of Pharaoh, when she said: 'My Lord, build for me, near You, a house in Jannah, and save me from Pharaoh and his deeds, and save me from the wrongdoing people.'"** (at-Tahrim 66:11)[^6]
+> **"And Allah sets forth an example for those who believe: the wife of Pharaoh, when she said: 'My Lord, build for me, near You, a house in Jannah, and save me from Pharaoh and his deeds, and save me from the wrongdoing people.'"** (at-Tahrim 66:11)[^6]
 
 #### Scholarly Explanation
 
-Al-Hafiz Ibn Kathir, may Allah have mercy on him, reported the scholars' comment on her words `My Lord, build for me near You a house in Jannah`: "She chose the neighbor before the house" (in Arabic a rhyming phrase, *ikhtarat al-jar qabla ad-dar*). He explained `and save me from Pharaoh and his deeds` as meaning: deliver me from him, for I disown his deeds before You. He reported from Qatadah that Pharaoh was the most tyrannical of all the people on earth, and yet his wife was not harmed by her husband's disbelief once she had obeyed her Lord. He also mentioned reports from some of the early generations about her being tortured; these are reports that stop at those early authorities (*mawquf*), and this lesson builds nothing on them.[^6]
+Al-Hafiz Ibn Kathir, may Allah have mercy on him, reported the scholars' comment on her words `My Lord, build for me, near You, a house in Jannah`: "She chose the neighbor before the house" (in Arabic a rhyming phrase, *ikhtarat al-jar qabla ad-dar*). He explained `and save me from Pharaoh and his deeds` as meaning: deliver me from him, for I disown his deeds before You. He reported from Qatadah that Pharaoh was the most tyrannical of all the people on earth, and yet his wife was not harmed by her husband's disbelief once she had obeyed her Lord. He also mentioned reports from some of the early generations about her being tortured; these are reports that stop at those early authorities (*mawquf*), and this lesson builds nothing on them.[^6]
 
 #### Lesson Explanation
 
@@ -120,7 +120,7 @@ She occupied one of the highest ranks this world has to offer, and yet in her pr
 
 #### Scholarly Explanation
 
-The commentators mention that Pharaoh had been slaughtering the sons of the Children of Israel, as the opening of the surah states. Ibn Kathir reports from Muhammad ibn Ishaq and others that the *lam* in `so that he would become` is the *lam* of outcome (*lam al-'aqibah*): they did not pick him up in order to make him their enemy, but that is how their deed ended. Ibn Kathir adds that, seen in light of Allah's decree, it remains a *lam* of purpose: Allah caused them to pick him up so that He would make him an enemy and a grief for them.[^7]
+The commentators mention that Pharaoh had been slaughtering the sons of the Children of Israel, as the opening of the surah states. Ibn Kathir reports from Muhammad ibn Ishaq and others that the *lam* in `so that he would become` is the *lam* of outcome (*lam al-'aqibah*): they did not pick him up in order to make him their enemy, but that is how their deed ended. Ibn Kathir adds that, seen in light of Allah's decree, it remains a *lam* of purpose: Allah caused them to pick him up so that He would make him an enemy and a cause of grief for them.[^7]
 
 #### Lesson Explanation
 
@@ -140,7 +140,7 @@ The Qur'an does not say when the wife of Pharaoh came to believe, but it preserv
 
 #### Scholarly Explanation
 
-Al-Hafiz Ibn Hajar, may Allah have mercy on him, cited al-Kirmani as saying that perfection is used for a thing being complete and reaching its utmost in its kind, so what is meant is reaching the utmost in all the virtues proper to women, and that the word "perfection" does not by itself establish prophethood. He also mentioned the scholars' disagreement over whether Maryam was a prophet, and cited al-Qurtubi as saying that nothing has come indicating that Asiyah was a prophet.[^9]
+Al-Hafiz Ibn Hajar, may Allah have mercy on him, cited al-Kirmani as saying that perfection is used for a thing being complete and reaching its utmost in its kind, so what is meant is reaching the utmost in all the virtues proper to women, and that the word "perfection" does not by itself establish prophethood. He also mentioned the scholars' disagreement over whether Maryam was a prophet, and cited al-Qurtubi as saying that nothing has been transmitted indicating that Asiyah was a prophet.[^9]
 
 #### Lesson Explanation
 
@@ -159,7 +159,7 @@ The hadith of Musa sketches the two ends of the range; the hadith of *al-Wasilah
 ## Questions for Understanding and Reflection
 
 1. Why is the gift of the lowest in Jannah described in numbers, while the honor of the highest is described by its concealment?
-2. What does the repeated "I am content, my Lord" teach us about a servant's courtesy toward what his Lord gives?
+2. What does the repeated "I am content, my Lord" teach us about a servant's proper manners toward what his Lord gives?
 3. How does the hadith of *al-Wasilah* connect the highest station in Jannah to a simple daily deed?
 4. How does the meaning of "She chose the neighbor before the house" show itself in the order of the words in the prayer of Pharaoh's wife?
 5. Which worldly rank occupies you today more than it should?
@@ -204,7 +204,7 @@ One day, Pharaoh's family picked a tiny baby up out of the water. The queen said
 
 This queen loved Allah. She had a palace in this world, but she didn't ask Allah for a bigger palace. Instead, she prayed to her Lord and said, "My Lord, build for me, near You, a house in Jannah." First she asked to be close to Allah, and then she asked for the house.[^6]
 
-So Allah told about her in the Qur'an as a beautiful example for all the believers, and our Prophet, peace and blessings be upon him, told us that she was one of the most perfect women of all.[^8]
+So Allah told us about her in the Qur'an as a beautiful example for all the believers, and our Prophet, peace and blessings be upon him, told us that she was one of the most perfect women of all.[^8]
 
 <!-- retelling:start source_id="quran-66-11" audience="4-7" -->
 
@@ -272,7 +272,7 @@ So if the lowest person in Jannah gets more than kings, is a king in this world 
 
 <!-- terminology:start source_id="muslim-189b" -->
 
-- **`Rank or station (al-manzilah)`** — the standing and level a person has in Jannah; it differs from one of its people to another.
+- **`Rank or station (al-manzilah)`** — the standing and level a person has in Jannah; it differs from one person in Jannah to another.
 - **`Al-Wasilah`** — the highest station in Jannah, meant for only one servant of Allah; the Prophet, peace and blessings be upon him, hoped it would be his.
 
 <!-- terminology:end -->
@@ -381,7 +381,7 @@ So here's the question: if the lowest person in Jannah ranks above kings, what s
 
 Imagine living at the very center of power: your husband is the mightiest king of his age, and the most brutal oppressor of the Children of Israel. That was the position of Pharaoh's wife.
 
-It was inside this palace that the first of her stands preserved by the Qur'an took place. By revelation from Allah, the mother of Musa had set her infant adrift on the river, and Pharaoh's household picked him up. Then Pharaoh's wife spoke: "A delight of the eye for me and for you. Do not kill him; perhaps he will be of benefit to us, or we may take him as a son." One word, spoken in the right place, saved Musa, peace be upon him, while the whole palace "did not perceive" what Allah was bringing about.[^7]
+It was inside this palace that she took the first stand the Qur'an preserves for her. By revelation from Allah, the mother of Musa had set her infant adrift on the river, and Pharaoh's household picked him up. Then Pharaoh's wife spoke: "A delight of the eye for me and for you. Do not kill him; perhaps he will be of benefit to us, or we may take him as a son." One word, spoken in the right place, saved Musa, peace be upon him, while the whole palace "did not perceive" what Allah was bringing about.[^7]
 
 Then the Qur'an preserves her second stand, her prayer: "My Lord, build for me, near You, a house in Jannah, and save me from Pharaoh and his deeds, and save me from the wrongdoing people." Here was a woman who held the highest title and the finest palace this world could offer, yet she put "near You" ahead of "a house." The scholars said: "She chose the neighbor before the house." She also disowned "his deeds" while living under his roof; being close to him did not make her a partner in his oppression. As Qatadah said, her husband's disbelief did her no harm once she had obeyed her Lord.[^6]
 
@@ -494,7 +494,7 @@ What it means: O Allah, make nearness to You the goal of all my ambition, raise 
 **Opening — 3 minutes:** The educator asks: "If I offered you a big palace, or being close to someone you love, which would you choose?" and listens without correcting.
 
 <!-- lesson-plan:evidence -->
-**Reading the Evidence — 7 minutes:** The educator reads the short explanation and then the story, shows the river picture at the moment Musa is saved, and asks the child to repeat along: "رَبِّ ابْنِ لِي عِنْدَكَ بَيْتًا فِي الْجَنَّةِ" ("My Lord, build for me, near You, a house in Jannah").
+**Reading the Evidence — 7 minutes:** The educator reads the short explanation and then the story, shows the river picture at the moment Musa is saved, and asks the child to repeat after them: "رَبِّ ابْنِ لِي عِنْدَكَ بَيْتًا فِي الْجَنَّةِ" ("My Lord, build for me, near You, a house in Jannah").
 
 <!-- lesson-plan:instruction -->
 **Guided Instruction — 4 minutes:** The educator asks: "What did the queen ask for first: to be close to Allah, or the house?" and explains that the person with the smallest place in Jannah gets more than kings do, so imagine what those higher up receive!

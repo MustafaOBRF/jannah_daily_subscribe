@@ -23,7 +23,7 @@ After this lesson, the learner will be able to:
 
 - Define `rancor (al-ghill)` as the resentment that lies hidden in the chest, and show that Allah has promised to draw it out of the hearts of the people of Jannah in two ayat: al-A'raf 7:43 and al-Hijr 15:47.
 - Set out in order how the believers are purified before entering Jannah and as they enter: the wrongs between them are settled on the qantarah (al-Bukhari 6535), and then they enter with hearts "as the heart of one man: no mutual hatred among them and no envy" (al-Bukhari 3254).
-- Explain why the removal of rancor is a blessing even though the people of Jannah hold different ranks, as as-Sa'di sets it out.
+- Explain why the removal of rancor is a blessing even though the people of Jannah hold different ranks, following as-Sa'di's explanation.
 - Narrate from the Qur'an the account of Yusuf, peace be upon him, and his brothers (Yusuf 12:15, 88-92, 100), and draw three steps from his forgiveness: dropping reproach, praying for the one who did wrong, and speaking of Allah's favor instead of the wrong that was done.
 - Distinguish forgiving and letting go of rancor, on the one hand, from giving up one's rights or keeping quiet about serious harm, on the other.
 - Carry out the "No Reproach Today" activity: turning a buried line of reproach into a response in the way of Yusuf, together with a private du'a for that person on three nights.
@@ -31,13 +31,13 @@ After this lesson, the learner will be able to:
 
 ## Academic Section for Adults
 
-<!-- reader:start audience="adults" estimated_minutes="6.5" -->
+<!-- reader:start audience="adults" estimated_minutes="7.0" -->
 
 <!-- unit:start id="adults.explanation" kind="explanation" -->
 
 *Ghill*, rancor, is the resentment that lies hidden in the chest:[^9] what is left over from an old quarrel, a buried envy, or a wound that never quite closed. Even a righteous believer may carry it. Part of the perfection of Jannah's bliss is that Allah does not let its people enter with these remnants; He Himself takes charge of drawing them out: `And We will have removed whatever rancor was in their breasts`. No place can be pure bliss while the heart still feels cramped by the people in it.
 
-This lesson stays with the purifying of the heart itself. The settling of wrongs on the qantarah was covered in the lesson on how the believers enter Jannah; all we take from it here is that the purification comes before the entry. Then we return to this world, following the example of Yusuf, peace be upon him, who, when he finally held power over his brothers, said: `No reproach upon you today`.
+This lesson focuses on the purification of the heart itself. The settling of wrongs on the qantarah was covered in the lesson on how the believers enter Jannah; all we take from it here is that the purification comes before the entry. Then we return to this world, following the example of Yusuf, peace be upon him, who, when he finally held power over his brothers, said: `No reproach upon you today`.
 
 <!-- unit:end -->
 
@@ -57,7 +57,7 @@ This lesson stays with the purifying of the heart itself. The settling of wrongs
 
 #### Scholarly Explanation
 
-*Naz'* means drawing something out, and *ghill* is the resentment that lies hidden in the chest.[^9] As-Sa'di says that Allah uproots whatever rancor and rivalry was in their hearts until they become loving brothers, and gives each of them such honor that he sees no bliss above the bliss he is in; so they are safe from envying and hating one another, because the causes of it are gone.[^1] It is reported through several chains that Ali, may Allah be pleased with him, said: "I hope that Uthman, Talhah, al-Zubayr and I will be among those of whom Allah said: `And We will have removed whatever rancor was in their breasts`."[^10]
+*Naz'* means drawing something out, and *ghill* is the resentment that lies hidden in the chest.[^9] As-Sa'di says that Allah uproots whatever rancor and rivalry was in their hearts until they become loving brothers, and gives each of them such honor that he sees no bliss above the bliss he is in; so they are safe from envying and hating one another, because the causes of it are gone.[^1] It is reported through several chains that Ali, may Allah be pleased with him, said: "I hope that Uthman, Talhah, az-Zubayr and I will be among those of whom Allah said: `And We will have removed whatever rancor was in their breasts`."[^10]
 
 #### Lesson Explanation
 
@@ -181,7 +181,7 @@ The forgiveness came at a moment of complete power, and Yusuf joined three thing
 
 #### Lesson Explanation
 
-Complete forgiveness is not satisfied with letting go of punishment; it lets go of reminders as well. Yusuf did not say, "after you threw me in"; he said, `after Satan had sown discord between me and my brothers`.
+Complete forgiveness does not stop at waiving the punishment; it lets go of the reminders as well. Yusuf did not say, "after you threw me in"; he said, `after Satan had sown discord between me and my brothers`.
 
 <!-- evidence:end -->
 
@@ -197,11 +197,11 @@ Complete forgiveness is not satisfied with letting go of punishment; it lets go 
 
 #### Scholarly Explanation
 
-As-Sa'di said that the rancor this du'a asks to be kept away covers both little and much of it; and once rancor is gone, its opposite takes its place: love and sincere goodwill. He adds that the ayah shows this to be one of the rights that believers owe one another.[^8]
+As-Sa'di said that the rancor this du'a asks Allah to keep away covers all of it, small or great; and once rancor is gone, its opposite takes its place: love and sincere goodwill. He adds that the ayah shows this to be one of the rights that believers owe one another.[^8]
 
 #### Lesson Explanation
 
-What Allah completes in Jannah by drawing it out, the believer seeks in this world through du'a and inner struggle.
+What Allah completes in Jannah by drawing rancor out, the believer seeks in this world through du'a and inner struggle.
 
 <!-- evidence:end -->
 
@@ -241,7 +241,7 @@ On a private sheet of paper, write the line of reproach that keeps replaying in 
 
 ## For Children Ages 4 to 7
 
-<!-- reader:start audience="4-7" estimated_minutes="5.0" -->
+<!-- reader:start audience="4-7" estimated_minutes="5.5" -->
 
 <!-- unit:start id="4-7.explanation" kind="explanation" -->
 
@@ -296,7 +296,7 @@ When his whole family came, Yusuf thanked his Lord for bringing him out of priso
 
 <!-- activity:start audience="4-7" concept_id="lesson.033.activity.no-reproach-today" -->
 
-With your mom or dad, draw a small gray cloud, and inside it draw something little that made you sad, from a brother, sister, or friend, like a toy someone took. Then draw a colorful heart next to it, and say what Yusuf said: "I don't blame you. May Allah forgive you." On each of three nights, make a nice du'a for that person before bed, and put a star on the heart.
+With your mom or dad, draw a small gray cloud, and inside it draw something little that made you sad, from a brother, sister, or friend, like a toy someone took. Then draw a colorful heart next to it, and say what Yusuf said: "I don't blame you. May Allah forgive you." On each of three nights, make a kind du'a for that person before bed, and put a star on the heart.
 
 <!-- activity:end -->
 
@@ -326,7 +326,7 @@ What it means: O Allah, make my heart clean, so it doesn't dislike anyone. Forgi
 
 ## For Children Ages 8 to 12
 
-<!-- reader:start audience="8-12" estimated_minutes="6.0" -->
+<!-- reader:start audience="8-12" estimated_minutes="6.5" -->
 
 <!-- unit:start id="8-12.explanation" kind="explanation" -->
 
@@ -468,7 +468,7 @@ Then comes the verdict: `No reproach upon you today. Allah will forgive you, and
 
 <!-- retelling:end -->
 
-Even more striking is what he said later, in front of his parents: `He was truly good to me when He brought me out of prison`. He mentioned the prison and left out the well, out of generosity, so as not to embarrass his brothers, and then he put the split down to the fact that `Satan had sown discord between me and my brothers`.[^7] He didn't stop at forgiving; he shut the door on reminders too.
+Even more striking is what he said later, in front of his parents: `He was truly good to me when He brought me out of prison`. He mentioned the prison and left out the well, out of generosity, so as not to embarrass his brothers, and then he blamed the rift on the fact that `Satan had sown discord between me and my brothers`.[^7] He didn't stop at forgiving; he shut the door on reminders too.
 
 Think about the difference. Plenty of people say "I forgive you," then keep a screenshot of the conversation, or drop hints about the mistake in front of others. Yusuf's forgiveness teaches you that letting go of rancor is a decision of the heart that shows up in what you say. At the same time, it doesn't mean staying silent about bullying or ongoing harm: rights get settled, harm gets reported, and letting go of resentment is a separate thing.[^3]
 
@@ -556,7 +556,7 @@ What it means: O Allah, purify my heart of all resentment toward any believer. F
 **Differentiation:** For beginners, cover only the ayah of al-Hijr, Yusuf 12:92, and the hadith of the qantarah. Ask advanced learners to gather the chains of the report from Ali from the tafsirs of at-Tabari and Ibn Kathir and assess them, and to compare what the commentators say about when the removal of rancor takes place.
 
 <!-- lesson-plan:safeguards -->
-**Teaching Cautions:** No one is asked to disclose the person or the wrong. State clearly that the activity is for ordinary disagreements; that domestic, emotional or physical abuse calls for protection and specialist counsel; and that forgiveness is never forced on the one who was wronged. Yusuf and his brothers are not to be depicted in drawings or role-play. The mention of the dispute between Ali, Talhah and al-Zubayr, may Allah be pleased with them, must not be used to disparage any of them.
+**Teaching Cautions:** No one is asked to disclose the person or the wrong. State clearly that the activity is for ordinary disagreements; that domestic, emotional or physical abuse calls for protection and specialist counsel; and that forgiveness is never forced on the one who was wronged. Yusuf and his brothers are not to be depicted in drawings or role-play. The mention of the dispute between Ali, Talhah and az-Zubayr, may Allah be pleased with them, must not be used to disparage any of them.
 
 <!-- lesson-plan:end -->
 
@@ -571,7 +571,7 @@ What it means: O Allah, purify my heart of all resentment toward any believer. F
 **Materials:** Drawing paper; a gray pencil and bright colors; star stickers; a small, clean stone; the du'a card in clear handwriting.
 
 <!-- lesson-plan:preparation -->
-**Preparation:** The caregiver learns the simplified story well, and chooses a simple family situation in which siblings had a disagreement and one of them apologized.
+**Preparation:** The caregiver learns the simplified story by heart, and chooses a simple family situation in which siblings had a disagreement and one of them apologized.
 
 <!-- lesson-plan:opening -->
 **Opening — 4 minutes:** The caregiver places the stone in the child's palm: "When someone makes us sad and we stay angry with them, something heavy sits in our heart, like this stone. In Jannah, Allah takes that heaviness out of every heart."
@@ -683,7 +683,7 @@ What it means: O Allah, purify my heart of all resentment toward any believer. F
 [^7]: The Noble Qur'an, Surah Yusuf, ayah 100: [quran.com/12/100](https://quran.com/12/100). On his mentioning the prison and not the well, out of generosity, so as not to embarrass his brothers: as-Sa'di's tafsir: [quran.ksu.edu.sa/tafseer/saadi/sura12-aya100.html](https://quran.ksu.edu.sa/tafseer/saadi/sura12-aya100.html); al-Baghawi: [quran.ksu.edu.sa/tafseer/baghawy/sura12-aya100.html](https://quran.ksu.edu.sa/tafseer/baghawy/sura12-aya100.html); and al-Qurtubi: [quran.ksu.edu.sa/tafseer/qortobi/sura12-aya100.html](https://quran.ksu.edu.sa/tafseer/qortobi/sura12-aya100.html). On *al-'arsh* meaning a raised seat, and on prostration as a greeting having been permitted in their laws and then forbidden in this religion: Tafsir Ibn Kathir: [quran.ksu.edu.sa/tafseer/katheer/sura12-aya100.html](https://quran.ksu.edu.sa/tafseer/katheer/sura12-aya100.html).
 [^8]: The Noble Qur'an, Surah al-Hashr, ayah 10: [quran.com/59/10](https://quran.com/59/10); and as-Sa'di's tafsir of it: [quran.ksu.edu.sa/tafseer/saadi/sura59-aya10.html](https://quran.ksu.edu.sa/tafseer/saadi/sura59-aya10.html). The bedtime du'a in this lesson is worded by the lesson, inspired by this ayah and by al-Hijr 15:47; it is not a transmitted du'a in its exact wording.
 [^9]: Al-Qurtubi, *al-Jami' li-Ahkam al-Qur'an*, tafsir of Surah al-A'raf, ayah 43: "*Naz'* means drawing out, and *ghill* is the resentment that lies hidden in the chest": [quran.ksu.edu.sa/tafseer/qortobi/sura7-aya43.html](https://quran.ksu.edu.sa/tafseer/qortobi/sura7-aya43.html).
-[^10]: The report from Ali ibn Abi Talib, may Allah be pleased with him, which is a Companion's statement, not a hadith attributed to the Prophet: Ibn Jarir at-Tabari narrated it by way of Qatadah from Ali (Qatadah never met Ali), and through other routes from Ibn Sirin, Ibrahim an-Nakha'i, Rib'i ibn Hirash and others, in closely similar wordings that mention Uthman, Talhah and al-Zubayr. Ibn Kathir cites them in his tafsir of al-A'raf 7:43 and al-Hijr 15:47: [quran.ksu.edu.sa/tafseer/katheer/sura15-aya47.html](https://quran.ksu.edu.sa/tafseer/katheer/sura15-aya47.html). It is mentioned as supporting material on the strength of its multiple routes, not relied upon as primary evidence; a judgment on its chains taken together requires scholarly review.
-[^11]: This lesson does not rely on: as-Suddi's statement that the people of Jannah find at its gate a tree with two springs at its base, and drink from one of them, so that whatever rancor is in their breasts is drawn out (the statement of a Successor, cited by Ibn Kathir and al-Baghawi in their tafsir of al-A'raf 7:43); nor on the hadith "Rancor sits at the gates of Jannah like kneeling camels" (cited by al-Qurtubi without a chain, and narrated by Abu Nu'aym in *Sifat al-Jannah*, no. 293, by way of Muqatil from ad-Dahhak from Ibn Abbas with the phrasing "and they mentioned from the Prophet"; it is not established); nor on the report of Abu Umamah, "The people of Jannah will enter Jannah with what is in their breasts..." (Ibn Kathir said: al-Qasim ibn Abd al-Rahman is weak in what he narrates from Abu Umamah): [quran.ksu.edu.sa/tafseer/katheer/sura15-aya47.html](https://quran.ksu.edu.sa/tafseer/katheer/sura15-aya47.html); and Abu Nu'aym al-Asbahani, *Sifat al-Jannah*, Chapter on Their Purification by the Drawing Out of Rancor from Their Breasts: [shamela.ws/book/21602/380](https://shamela.ws/book/21602/380).
+[^10]: The report from Ali ibn Abi Talib, may Allah be pleased with him, which is a Companion's statement, not a hadith attributed to the Prophet: Ibn Jarir at-Tabari narrated it by way of Qatadah from Ali (Qatadah never met Ali), and through other routes from Ibn Sirin, Ibrahim an-Nakha'i, Rib'i ibn Hirash and others, in closely similar wordings that mention Uthman, Talhah and az-Zubayr. Ibn Kathir cites them in his tafsir of al-A'raf 7:43 and al-Hijr 15:47: [quran.ksu.edu.sa/tafseer/katheer/sura15-aya47.html](https://quran.ksu.edu.sa/tafseer/katheer/sura15-aya47.html). It is mentioned as supporting material on the strength of its multiple routes, not relied upon as primary evidence; a judgment on its chains taken together requires scholarly review.
+[^11]: This lesson does not rely on: as-Suddi's statement that the people of Jannah find at its gate a tree with two springs at its base, and drink from one of them, so that whatever rancor is in their breasts is drawn out (the statement of a Successor, cited by Ibn Kathir and al-Baghawi in their tafsir of al-A'raf 7:43); nor on the hadith "Rancor sits at the gates of Jannah like kneeling camels" (cited by al-Qurtubi without a chain, and narrated by Abu Nu'aym in *Sifat al-Jannah*, no. 293, by way of Muqatil from ad-Dahhak from Ibn Abbas with the phrasing "and they mentioned from the Prophet"; it is not established); nor on the report of Abu Umamah, "The people of Jannah will enter Jannah with what is in their breasts..." (Ibn Kathir said: al-Qasim ibn Abd ar-Rahman is weak in what he narrates from Abu Umamah): [quran.ksu.edu.sa/tafseer/katheer/sura15-aya47.html](https://quran.ksu.edu.sa/tafseer/katheer/sura15-aya47.html); and Abu Nu'aym al-Asbahani, *Sifat al-Jannah*, Chapter on Their Purification by the Drawing Out of Rancor from Their Breasts: [shamela.ws/book/21602/380](https://shamela.ws/book/21602/380).
 
 <!-- references:end -->

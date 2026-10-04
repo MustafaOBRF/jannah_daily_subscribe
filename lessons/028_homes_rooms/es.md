@@ -23,14 +23,14 @@ Al terminar esta lección, el aprendiz será capaz de:
 
 - Recitar en su contexto la palabra de Allah, el Altísimo: {وَيُدْخِلُهُمُ الْجَنَّةَ عَرَّفَهَا لَهُمْ} ("y los hará entrar en el Paraíso, que les ha dado a conocer", Muhammad 47:6), y explicar el sentido de "que les ha dado a conocer" según la mayoría de los exégetas: Allah se lo aclaró de tal modo que encuentran sus moradas en él sin que nadie tenga que indicarles el camino.
 - Narrar el hadiz de Abu Sa'id al-Judri, que Allah esté complacido con él, recogido en Sahih al-Bujari (6535): «Cada uno de ellos sabrá llegar a su morada en el Paraíso mejor de lo que sabía llegar a la que tuvo en este mundo», y ordenar las etapas que describe: la salvación del Fuego, la retención sobre el puente, la purificación de las injusticias, el permiso para entrar y, por último, el hallazgo de la propia morada.
-- Distinguir entre conocer la casa en este mundo, algo que se logra a fuerza de repetición y costumbre, y conocer la morada en el Paraíso, que es un don de Allah, que Él mismo da a conocer.
+- Distinguir entre conocer la casa en este mundo, algo que se logra a fuerza de repetición y costumbre, y conocer la morada en el Paraíso, que es un don de Allah: es Él quien la da a conocer.
 - Exponer la conciliación que propone as-Sa'di: Allah dio a conocer primero el Paraíso a Sus siervos en este mundo, describiéndoselo y despertando en ellos el anhelo de alcanzarlo, y después, cuando entren, les dará a conocer sus moradas; y apoyar lo de la descripción en la palabra del Altísimo: {وَمَسَاكِنَ طَيِّبَةً فِي جَنَّاتِ عَدْنٍ} ("y moradas buenas en los Jardines del Edén", At-Tawba 9:72).
 - Realizar la actividad "Reconócelo por sus señas": describir una casa conocida por sus rasgos distintivos hasta que se la pueda identificar sin dirección y, después, preparar una tarjeta con lo que Allah ha dicho de las moradas del Paraíso para repasarla en momentos fijos.
 - Recordar la súplica de la lección, que pide a Allah que nos haga entrar en el Paraíso que dio a conocer a Sus siervos y que nos guíe en él hasta nuestras moradas.
 
 ## Sección académica para adultos
 
-<!-- reader:start audience="adults" estimated_minutes="6.5" -->
+<!-- reader:start audience="adults" estimated_minutes="7.0" -->
 
 <!-- unit:start id="adults.explanation" kind="explanation" -->
 
@@ -132,7 +132,7 @@ La aleya de At-Tawba describe las moradas antes de que se vean; la aleya de la s
 2. ¿Cómo concilia as-Sa'di el dar a conocer en este mundo con el dar a conocer al entrar?
 3. ¿Por qué en el hadiz el permiso para entrar llega después de la purificación de las injusticias, y no antes?
 4. ¿Qué aporta el juramento profético a una noticia del mundo oculto como esta?
-5. ¿Qué sabes hoy de cómo son las moradas de las que pides a Allah que te haga habitante?
+5. ¿Qué sabes hoy de cómo son las moradas que pides a Allah llegar a habitar?
 
 <!-- unit:end -->
 
@@ -154,7 +154,7 @@ Describe tu casa con cinco señas distintivas, sin el nombre de la calle ni el n
 
 ## Para niños de 4 a 7 años
 
-<!-- reader:start audience="4-7" estimated_minutes="5.0" -->
+<!-- reader:start audience="4-7" estimated_minutes="6.5" -->
 
 <!-- unit:start id="4-7.explanation" kind="explanation" -->
 
@@ -174,7 +174,7 @@ Era viernes, y Zaynab había rezado con su papá en la mezquita. Al terminar la 
 
 Su papá sonrió y le dijo: "¿Y si hoy la guía eres tú? Yo voy contigo y tú eliges el camino".
 
-A Zaynab le dio un poquito de miedo: ¿y si se equivocaba? Pero dijo: "¡Lo voy a intentar!", y echó a andar de la mano de su papá. Olió el rico olor del pan y dijo: "Aquí está la panadería; seguimos todo recto". Luego vio el árbol grande y dijo: "En el árbol giramos a la derecha". Después vio una puerta verde, y en el escalón una gata blanca dormida, y gritó: "¡Esta es nuestra casa!".
+A Zaynab le dio un poquito de miedo: ¿y si se equivocaba? Pero dijo: "¡Lo voy a intentar!", y echó a andar de la mano de su papá. Le llegó un rico olor a pan y dijo: "Aquí está la panadería; seguimos todo recto". Luego vio el árbol grande y dijo: "En el árbol giramos a la derecha". Después vio una puerta verde, y en el escalón una gata blanca dormida, y gritó: "¡Esta es nuestra casa!".
 
 Su papá le preguntó: "¿Te ha dicho alguien por dónde ir?". Y ella respondió: "¡No, yo la conozco!".
 
@@ -196,7 +196,7 @@ Por la noche, Zaynab levantó las manos y dijo: "Ya Allah, hazme entrar en el Pa
 
 **Esto es algo real que dijo el Profeta, la paz y las bendiciones de Allah sean con él, y que nos transmitió Abu Sa'id al-Judri, que Allah esté complacido con él; no es un cuento inventado.**
 
-El Profeta, la paz y las bendiciones de Allah sean con él, nos habló del Día de la Resurrección: cuando Allah salve a los creyentes del Fuego, se quedarán un ratito junto a un puente, antes del Paraíso. Allí, a cada uno le devolverán lo que otro le quitó o el daño que otro le hizo en este mundo, hasta que entre ellos no quede nada injusto y sus corazones queden limpios y buenos. Y entonces Allah les dará permiso para entrar en el Paraíso.
+El Profeta, la paz y las bendiciones de Allah sean con él, nos habló del Día de la Resurrección: cuando Allah salve a los creyentes del Fuego, se quedarán un ratito junto a un puente, antes del Paraíso. Allí, cada uno recibirá lo que le corresponde de quien le quitó algo o le hizo daño en este mundo, hasta que entre ellos no quede nada injusto y sus corazones queden limpios y buenos. Y entonces Allah les dará permiso para entrar en el Paraíso.
 
 Y el Profeta, la paz y las bendiciones de Allah sean con él, juró que cada uno de ellos sabrá ir a su casa del Paraíso mejor de lo que sabía ir a su casa de este mundo.[^2]
 
@@ -253,7 +253,7 @@ Dicho de forma sencilla: Ya Allah, igual que conocemos el camino a nuestra casa 
 
 ## Para niños de 8 a 12 años
 
-<!-- reader:start audience="8-12" estimated_minutes="5.5" -->
+<!-- reader:start audience="8-12" estimated_minutes="7.0" -->
 
 <!-- unit:start id="8-12.explanation" kind="explanation" -->
 
@@ -271,9 +271,9 @@ Al mudarse, una familia tarda días en aprenderse el camino a su nueva casa. En 
 
 La familia de Ammar se había mudado a un barrio nuevo hacía dos meses, y su abuelo venía a visitarlos por primera vez. Tras la oración del magrib, el papá se quedó en la mezquita para una breve reunión y dijo: "Ammar, acompaña a tu abuelo a casa; está cerca".
 
-Salieron juntos. Ammar abrió el mapa en el móvil… y la batería estaba muerta. Miró alrededor: calles iguales, casas iguales. El abuelo le preguntó: "¿Por dónde vamos, campeón?".
+Salieron juntos. Ammar abrió el mapa en el móvil… y no tenía batería. Miró alrededor: calles iguales, casas iguales. El abuelo le preguntó: "¿Por dónde vamos, campeón?".
 
-Ammar se puso colorado. Pensó en tirar muy decidido hacia cualquier lado para que el abuelo no notara nada. Pero se detuvo y le dijo con sinceridad: "Abuelo, dame un minuto para acordarme".
+Ammar se puso colorado. Pensó en tirar decidido hacia cualquier lado para que el abuelo no viera que dudaba. Pero se detuvo y le dijo con sinceridad: "Abuelo, dame un minuto para acordarme".
 
 Cerró los ojos y recordó las palabras de su madre el día de la mudanza: "Después de la farmacia de la cruz verde giramos a la derecha, y nuestra puerta marrón está junto al limonero". Y también cosas en las que él mismo se fijaba cada día: la pared con un pájaro pintado y la bicicleta roja frente a la casa de los vecinos. Avanzó paso a paso, leyendo las señas una a una, hasta llegar a la puerta marrón.
 
@@ -369,7 +369,7 @@ Su significado: Oh Allah, así como hoy nos has guiado hasta nuestras casas, haz
 
 ## Para adolescentes de 13+
 
-<!-- reader:start audience="13+" estimated_minutes="6.0" -->
+<!-- reader:start audience="13+" estimated_minutes="7.0" -->
 
 <!-- unit:start id="13+.explanation" kind="explanation" -->
 
@@ -389,7 +389,7 @@ Dana tiene quince años, ha vivido en tres ciudades y en dos países, y este es 
 
 Esa noche, Dana preparó una publicación: una foto preciosa de una ciudad en la que solo había vivido unos meses de pequeña, con la frase "Mi hogar para siempre". Sabía que era una exageración en la que ni ella creía, pero acallaría la pregunta. Antes de pulsar "Publicar", se acordó de lo que la profesora de educación islámica había leído esa mañana: el hadiz del Profeta, la paz y las bendiciones de Allah sean con él, según el cual el creyente sabrá llegar a su morada en el Paraíso mejor que a su casa en este mundo.
 
-Se detuvo y pensó: "¿Tanto necesito un lugar al que pertenecer que voy a comprarle una foto prestada?". No borró la publicación enseguida; dudó un buen rato y, al final, la borró. En su lugar escribió: "He vivido en tres ciudades y cada una me ha enseñado algo. Todavía estoy aprendiendo dónde pertenezco".
+Se detuvo y pensó: "¿Tanto necesito un lugar al que pertenecer que voy a recurrir a una foto prestada?". No borró la publicación enseguida; dudó un buen rato y, al final, la borró. En su lugar escribió: "He vivido en tres ciudades y cada una me ha enseñado algo. Todavía estoy aprendiendo a qué lugar pertenezco".
 
 Por la mañana no todo había cambiado: una compañera comentó con sorna y otra lo ignoró. Pero una alumna nueva, que también venía de otro país, le escribió: "Me pasa exactamente lo mismo". Y en el recreo se sentaron juntas.
 
@@ -449,7 +449,7 @@ Fíjate en el orden: primero la purificación, después la casa. Nadie entra all
 
 <!-- activity:start audience="13+" concept_id="lesson.028.activity.know-it-by-its-description" -->
 
-Describe el camino del colegio o de la mezquita a tu casa con solo cinco señas, sin nombres de calles, y dáselo a alguien de confianza para ver si logra dibujar el recorrido con ella. Después, abre en tu diario una página titulada: "Las señas del hogar donde nadie es extranjero". Escribe en ella la aleya de At-Tawba (9:72) y, cada día de esta semana, añade una aleya o un hadiz auténtico que describa el Paraíso, con su fuente, y debajo una sola línea: ¿qué cambia esta descripción en mi manera de ver la pertenencia?
+Describe el camino del colegio o de la mezquita a tu casa con solo cinco señas, sin nombres de calles, y comprueba si alguien de confianza logra dibujar el recorrido con tu descripción. Después, abre en tu diario una página titulada: "Las señas del hogar donde nadie es extranjero". Escribe en ella la aleya de At-Tawba (9:72) y, cada día de esta semana, añade una aleya o un hadiz auténtico que describa el Paraíso, con su fuente, y debajo una sola línea: ¿qué cambia esta descripción en mi manera de ver la pertenencia?
 
 <!-- activity:end -->
 
@@ -520,7 +520,7 @@ Esta súplica une una gracia que vivimos cada noche, la de volver a casa, con la
 ### Niños de 4 a 7 — 25 minutos
 
 <!-- lesson-plan:outcomes -->
-**Resultados de aprendizaje:** el niño dice que la gente del Paraíso reconoce allí sus casas porque Allah se las da a conocer, identifica la puerta de su casa en su propio dibujo entre otros dibujos y repite la súplica de la lección.
+**Resultados de aprendizaje:** el niño dice que la gente del Paraíso reconoce allí sus casas porque Allah se las da a conocer, reconoce su dibujo de la puerta de su casa entre otros dibujos y repite la súplica de la lección.
 
 <!-- lesson-plan:materials -->
 **Materiales:** papel y colores; tres tarjetas del mismo tamaño para las puertas; una imagen o un dibujo de un camino corto con un árbol, una panadería y una puerta verde; una tarjeta con la súplica en letra clara.

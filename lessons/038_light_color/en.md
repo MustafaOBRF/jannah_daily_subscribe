@@ -22,7 +22,7 @@ bedtime_dua_id: "lesson.038.dua.light-in-heart-and-all-sides"
 After this lesson, the learner will be able to:
 
 - Recite the two ayat of al-Hadid (57:12-13) and explain the scene they describe: the believers' light running before them and on their right; the glad tidings of gardens given to them; the hypocrites asking to borrow from their light and being turned away; and then the wall whose inner side holds mercy.
-- Show that this light is given in proportion to a person's faith and deeds, as as-Sa'di and Ibn Kathir establish, and that it cannot be borrowed on the Day of Resurrection.
+- Show that this light is given in proportion to a person's faith and deeds, as established by as-Sa'di and Ibn Kathir, and that it cannot be borrowed on the Day of Resurrection.
 - Explain the words of Allah, exalted is He, `they will see there neither sun nor bitter cold`, as meaning that Jannah holds no harmful heat and no painful cold, and that denying the sun there does not mean denying light.
 - Narrate the hadith of al-Bukhari (3327) on the radiance of the faces of the people of Jannah, like the moon on the night it is full and then like the most brilliant shining star, and understand that the light differs as the ranks differ.
 - Distinguish the whiteness with which the texts describe the drink and delights of Jannah, a whiteness of radiance and purity, from any ranking of human beings by the color of their skin.
@@ -32,7 +32,7 @@ After this lesson, the learner will be able to:
 
 ## Academic Section for Adults
 
-<!-- reader:start audience="adults" estimated_minutes="6.5" -->
+<!-- reader:start audience="adults" estimated_minutes="7.0" -->
 
 <!-- unit:start id="adults.explanation" kind="explanation" -->
 
@@ -190,7 +190,7 @@ Draw two columns: "Borrowed light" and "Carried light." In the first, write what
 
 ## For Children Ages 4 to 7
 
-<!-- reader:start audience="4-7" estimated_minutes="5.0" -->
+<!-- reader:start audience="4-7" estimated_minutes="6.5" -->
 
 <!-- unit:start id="4-7.explanation" kind="explanation" -->
 
@@ -218,7 +218,7 @@ On the way home she looked up, and the sky was changing! It turned light blue, a
 
 Her dad smiled. "The Prophet, peace and blessings be upon him, told us that people who walk to the mosque in the dark will get happy news: a full, complete light on the Day of Resurrection."[^8]
 
-"Is Jannah like this sky?" Sarah asked. "The light of Jannah is more beautiful than anything we've ever seen," her dad said, "and there's no sun there to burn us. We don't know exactly what it looks like, but Allah has promised it to the people who love Him."
+"Is Jannah like this sky?" Sarah asked. "The light of Jannah is more beautiful than anything we've ever seen," her dad said, "and there's no sun there to burn us. We don't know exactly what it looks like, but Allah has promised it to His servants."
 
 "Then I want to have a light too," said Sarah. And the next week, she woke up before her dad even knocked on the door.
 
@@ -293,7 +293,7 @@ The Prophet, peace and blessings be upon him, used to make this du'a, and we mak
 
 ## For Children Ages 8 to 12
 
-<!-- reader:start audience="8-12" estimated_minutes="6.0" -->
+<!-- reader:start audience="8-12" estimated_minutes="7.0" -->
 
 <!-- unit:start id="8-12.explanation" kind="explanation" -->
 
@@ -311,7 +311,7 @@ Every light we see in this world comes from a source that can run out: the sun s
 
 It was Science Week, and Ms. Huda asked each pair of students to build a small lamp: a battery, some wires, a switch and a little bulb. "On presentation day," she said, "I'm going to ask each of you to explain the circuit on your own."
 
-Yaseen, a fifth grader, loved electricity and picked it up fast. His partner Omar got flustered every time he touched a wire. On the first day, Yaseen thought, "I'll just build it myself in fifteen minutes, and we'll both get full marks."
+Yaseen, a fifth grader, loved electricity and picked it up fast. His partner Omar got flustered every time he touched a wire. On the first day, Yaseen thought, "I'll just build it myself in fifteen minutes, and we'll both get a perfect score."
 
 But then he remembered what Ms. Huda had said: "Each of you explains it on your own." He pictured Omar standing in front of the class in silence, the lamp glowing in his hands, with no idea why it was glowing.
 
@@ -408,7 +408,7 @@ The Prophet, peace and blessings be upon him, used to make this du'a when he got
 
 ## For Teens, Ages 13+
 
-<!-- reader:start audience="13+" estimated_minutes="6.5" -->
+<!-- reader:start audience="13+" estimated_minutes="7.0" -->
 
 <!-- unit:start id="13+.explanation" kind="explanation" -->
 
@@ -430,7 +430,7 @@ Then someone started a "Glow Ranking," dropping a number under every photo. Unde
 
 Noor looked at her own photo. It didn't look like the face she saw in the mirror. She remembered yesterday's class at the mosque, when the teacher read the hadith of the full moon and said, "This radiance is promised to the people of Jannah of every color, and what it's measured by is faith and deeds." Then the teacher recited the ayah of al-Hadid: `their light running before them and on their right`.[^1]
 
-Noor typed something and deleted it three times. She knew that whatever she said would make her "the extreme one." In the end she deleted her filtered photo, posted an ordinary one from the trip, and wrote a single line under it: "Our faces aren't a competition. And Habiba is prettier than all of us when she laughs." Then she sent Habiba a private message: "Sorry I stayed quiet the first time."
+Noor typed something and deleted it three times. She knew that whatever she said would make her "the too-religious one." In the end she deleted her filtered photo, posted an ordinary one from the trip, and wrote a single line under it: "Our faces aren't a competition. And Habiba is prettier than all of us when she laughs." Then she sent Habiba a private message: "Sorry I stayed quiet the first time."
 
 Her friend Reem replied, "You're overreacting, it was a joke." Two people left the group. But the ranking stopped, and Habiba wrote to her privately: "Thank you. I thought nobody even noticed."
 
@@ -533,7 +533,7 @@ Notice that the du'a begins with the heart before the eyes: the light you are as
 **Materials:** Copies of the lesson; a mushaf; a flashlight and a switch to turn off the room lights; a board divided into two columns, "Borrowed light" and "Carried light"; a seven-day tracking card for each learner.
 
 <!-- lesson-plan:preparation -->
-**Preparation:** The teacher reviews the tafsir of as-Sa'di and Ibn Kathir on al-Hadid (57:12-13), al-Insan (76:13) and as-Saffat (37:46); al-Bukhari 3327 together with Muslim 2834; and Abu Dawud 561 together with at-Tirmidhi's comment at 223; and reads chapter thirty-five of Ibn al-Qayyim's *Hadi al-Arwah* to become familiar with the weak reports it contains.
+**Preparation:** The teacher reviews the tafsir of as-Sa'di and Ibn Kathir on al-Hadid (57:12-13), al-Insan (76:13) and as-Saffat (37:46); al-Bukhari 3327 together with Muslim 2834; and Abu Dawud 561 together with at-Tirmidhi's comment on it (223); and reads chapter thirty-five of Ibn al-Qayyim's *Hadi al-Arwah* to become familiar with the weak reports it contains.
 
 <!-- lesson-plan:opening -->
 **Opening — 5 minutes:** The teacher switches off the lights for a moment and turns on the flashlight, then asks: "If this flashlight went out, what light would still be with you?" Listen to three answers without commenting.
@@ -545,7 +545,7 @@ Notice that the du'a begins with the heart before the eyes: the light you are as
 **Guided Instruction — 10 minutes:** The teacher leads a discussion of two questions: Why can light not be lent on the Day of Resurrection? And how do we speak about the whiteness of Jannah's delights in a way that wounds no one because of the color of their skin? Then read the closing paragraph, "How Do These Texts Fit Together?"
 
 <!-- lesson-plan:activity -->
-**Activity — 15 minutes:** Learners carry out the activity "Borrowed Light or Carried Light?" as described in the activity unit, and each writes down the deed chosen, its time, and fills in the tracking card.
+**Activity — 15 minutes:** Learners carry out the activity "Borrowed Light or Carried Light?" as described in the activity unit, and each writes down the chosen deed and its time on the tracking card.
 
 <!-- lesson-plan:assessment -->
 **Assessment and Closing — 10 minutes:** Each learner writes three sentences: as-Sa'di's explanation of `Go back behind you and seek out a light`; what the ayah of al-Insan denies and what it does not; and the hadith of Abu Dawud from memory. The teacher closes with the du'a for light and invites anyone who wishes to share their dawn lines after a week.
@@ -575,7 +575,7 @@ Notice that the du'a begins with the heart before the eyes: the light you are as
 **Opening — 3 minutes:** The caregiver dims the light, turns on the flashlight, and asks: "When do we need a flashlight? And when don't we need it?"
 
 <!-- lesson-plan:evidence -->
-**Reading the Evidence — 7 minutes:** Tell Sarah's story, then say, "And this next one is true, from the Qur'an," and calmly retell the scene from Surah al-Hadid. Read the ayah `they will see there neither sun nor bitter cold` and explain it with gestures: no hot, no cold.
+**Reading the Evidence — 7 minutes:** Tell Sarah's story, then say, "And this next one is true, from the Qur'an," and calmly retell the scene from Surah al-Hadid. Read the ayah `they will see there neither sun nor bitter cold` and explain it with gestures: no heat, no cold.
 
 <!-- lesson-plan:instruction -->
 **Guided Instruction — 4 minutes:** The caregiver repeats with the child: "Light in the heart comes from prayer and telling the truth," "On the Day of Resurrection, everyone has their own light," "The light of Jannah is beautiful and never goes away."

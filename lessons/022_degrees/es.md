@@ -31,11 +31,11 @@ Después de esta lección, el aprendiz será capaz de:
 
 ## Sección académica para adultos
 
-<!-- reader:start audience="adults" estimated_minutes="6.5" -->
+<!-- reader:start audience="adults" estimated_minutes="7.0" -->
 
 <!-- unit:start id="adults.explanation" kind="explanation" -->
 
-El Paraíso no es una sola morada en la que se igualan todos los que entran, sino grados superpuestos unos sobre otros, y en ellos sus habitantes se distinguen entre sí más de lo que las personas se distinguen en este mundo. Esta lección muestra que eso está establecido por los textos, que los grados altos están abiertos también a quienes no son profetas, y cuál es la manera correcta de competir por ellos con un corazón sano. Las moradas más alta y más baja, así como el Firdaus, tienen sus propias lecciones.
+El Paraíso no es una sola morada en la que se igualan todos los que entran, sino grados, unos por encima de otros, y en ellos sus habitantes se distinguen entre sí más de lo que las personas se distinguen en este mundo. Esta lección muestra que eso está establecido por los textos, que los grados altos están abiertos también a quienes no son profetas, y cuál es la manera correcta de competir por ellos con un corazón sano. Las moradas más alta y más baja, así como el Firdaus, tienen sus propias lecciones.
 
 <!-- unit:end -->
 
@@ -75,7 +75,7 @@ Las diferencias de este mundo son pequeñas comparadas con las de la Otra Vida, 
 
 #### Traducción al español
 
-> De Abu Huraira, que Allah esté complacido con él, que dijo: el Mensajero de Allah, la paz y las bendiciones de Allah sean con él, dijo: **«Quien cree en Allah y en Su Mensajero, establece la oración y ayuna en Ramadán, tiene sobre Allah el derecho de que Él lo haga entrar en el Paraíso, tanto si combatió por la causa de Allah como si se quedó en la tierra en la que nació»**. Dijeron: "¡Oh, Mensajero de Allah! ¿No se lo anunciaremos a la gente?". Respondió: **«En el Paraíso hay cien grados que Allah ha preparado para quienes combaten por Su causa; entre un grado y otro hay lo que hay entre el cielo y la tierra...»**.[^3]
+> De Abu Huraira, que Allah esté complacido con él, que dijo: el Mensajero de Allah, la paz y las bendiciones de Allah sean con él, dijo: **«Quien cree en Allah y en Su Mensajero, establece la oración y ayuna en Ramadán, tiene sobre Allah el derecho de que Él lo haga entrar en el Paraíso, tanto si combatió por la causa de Allah como si se quedó en la tierra en la que nació»**. Dijeron: "¡Oh, Mensajero de Allah! ¿No damos a la gente esta buena noticia?". Respondió: **«En el Paraíso hay cien grados que Allah ha preparado para quienes combaten por Su causa; entre un grado y otro hay lo que hay entre el cielo y la tierra...»**.[^3]
 
 #### Interpretación académica
 
@@ -97,11 +97,11 @@ El hadiz cierra el paso a dos errores: la desesperanza de quien cree que el Para
 
 #### Traducción al español
 
-> De Abu Sa'id al-Judri, que Allah esté complacido con él, que el Profeta, la paz y las bendiciones de Allah sean con él, dijo: **«La gente del Paraíso contempla a la gente de las estancias altas (al-ghuraf) por encima de ellos como vosotros contempláis el astro resplandeciente que se aleja en el horizonte, por el oriente o por el occidente, por la diferencia de rango que hay entre ellos»**. Dijeron: "¡Oh, Mensajero de Allah! ¿Esas son las moradas de los profetas, que nadie más alcanza?". Respondió: **«¡Sí que las alcanzan otros! Por Aquel en cuya mano está mi alma: hombres que creyeron en Allah y dieron crédito a los mensajeros»**.[^4]
+> De Abu Sa'id al-Judri, que Allah esté complacido con él, que el Profeta, la paz y las bendiciones de Allah sean con él, dijo: **«La gente del Paraíso contempla por encima de sí a la gente de las estancias altas (al-ghuraf), como se contempla el astro resplandeciente que se aleja en el horizonte, por el oriente o por el occidente, por la diferencia de rango que hay entre ellos»**. Dijeron: "¡Oh, Mensajero de Allah! ¿Esas son las moradas de los profetas, que nadie más alcanza?". Respondió: **«¡Sí que las alcanzan otros! Por Aquel en cuya mano está mi alma: hombres que creyeron en Allah y dieron crédito a los mensajeros»**.[^4]
 
 #### Interpretación académica
 
-"Al-ghabir" designa al astro que se ve a lo lejos, en el horizonte, cuando sale o cuando se pone. Al-Qurtubi, que Allah tenga misericordia de él, señaló que las estancias difieren en altura según difieren las obras de sus moradores, y que lo que aquí se quiere decir es la fe plena y el crédito completo, sin vacilación alguna, no la mera raíz de la fe.[^7]
+"Al-ghabir" designa al astro que se ve a lo lejos, en el horizonte, cuando sale o cuando se pone. Al-Qurtubi, que Allah tenga misericordia de él, señaló que las estancias difieren en altura según difieren las obras de sus moradores, y que lo que aquí se quiere decir es la fe plena y el crédito completo, sin vacilación alguna, y no solo la fe en su grado básico.[^7]
 
 #### Explicación de la lección
 
@@ -119,11 +119,11 @@ Los Compañeros creyeron que aquellas moradas eran solo para los profetas, y el 
 
 #### Traducción al español
 
-> De Abu Huraira, que Allah esté complacido con él: los emigrantes pobres acudieron al Mensajero de Allah, la paz y las bendiciones de Allah sean con él, y le dijeron: "Los ricos se han llevado los grados más altos y la dicha perpetua". Él preguntó: **«¿Y eso por qué?»**. Respondieron: "Rezan como nosotros rezamos y ayunan como nosotros ayunamos, pero ellos dan limosna y nosotros no podemos, y liberan esclavos y nosotros no podemos". El Mensajero de Allah, la paz y las bendiciones de Allah sean con él, les dijo: **«¿Queréis que os enseñe algo con lo que alcanzaréis a quienes se os adelantaron y os adelantaréis a quienes vengan detrás de vosotros, y nadie será mejor que vosotros salvo quien haga lo mismo que vosotros?»**. Dijeron: "¡Claro que sí, oh Mensajero de Allah!". Dijo: **«Glorificad a Allah (subhana Allah), proclamad Su grandeza (Allahu akbar) y alabadlo (al-hamdu lillah) treinta y tres veces al final de cada oración»**. Abu Salih dijo: los emigrantes pobres volvieron al Mensajero de Allah, la paz y las bendiciones de Allah sean con él, y le dijeron: "Nuestros hermanos, los dueños de las riquezas, se enteraron de lo que hacíamos e hicieron lo mismo". Y el Mensajero de Allah, la paz y las bendiciones de Allah sean con él, dijo: **«Ese es el favor de Allah, que Él concede a quien quiere»**.[^5]
+> De Abu Huraira, que Allah esté complacido con él: los emigrantes pobres acudieron al Mensajero de Allah, la paz y las bendiciones de Allah sean con él, y le dijeron: "Los ricos se han llevado los grados más altos y la dicha perpetua". Él preguntó: **«¿Y eso por qué?»**. Respondieron: "Rezan como nosotros rezamos y ayunan como nosotros ayunamos, pero ellos dan limosna y nosotros no, y liberan esclavos y nosotros no". El Mensajero de Allah, la paz y las bendiciones de Allah sean con él, les dijo: **«¿Queréis que os enseñe algo con lo que alcanzaréis a quienes se os adelantaron y os adelantaréis a quienes vengan detrás de vosotros, y nadie será mejor que vosotros salvo quien haga lo mismo que vosotros?»**. Dijeron: "¡Claro que sí, oh Mensajero de Allah!". Dijo: **«Glorificad a Allah (subhana Allah), proclamad Su grandeza (Allahu akbar) y alabadlo (al-hamdu lillah) treinta y tres veces al final de cada oración»**. Abu Salih dijo: los emigrantes pobres volvieron al Mensajero de Allah, la paz y las bendiciones de Allah sean con él, y le dijeron: "Nuestros hermanos, los dueños de las riquezas, se enteraron de lo que hacíamos e hicieron lo mismo". Y el Mensajero de Allah, la paz y las bendiciones de Allah sean con él, dijo: **«Ese es el favor de Allah, que Él concede a quien quiere»**.[^5]
 
 #### Interpretación académica
 
-"Ad-duzur" son las grandes riquezas. La mayoría de los sabios entendió que cada una de las tres invocaciones se repite treinta y tres veces. An-Nawawi, que Allah tenga misericordia de él, mencionó que algunos se basaron en este hadiz para preferir al rico agradecido sobre el pobre paciente, y que la cuestión es objeto de discrepancia.[^8] El relato del regreso de los pobres es aquí palabra de Abu Salih, y Suhail lo incorporó al hadiz de Abu Huraira en otra transmisión recogida por Muslim.[^5]
+"Ad-duzur" son las grandes riquezas. La mayoría de los sabios entendió que cada una de las tres invocaciones se repite treinta y tres veces. An-Nawawi, que Allah tenga misericordia de él, mencionó que algunos se basaron en este hadiz para preferir al rico agradecido sobre el pobre paciente, y que la cuestión es objeto de discrepancia.[^8] En esta transmisión, el episodio del regreso de los pobres procede de Abu Salih, y Suhail lo incorporó al hadiz de Abu Huraira en otra transmisión recogida por Muslim.[^5]
 
 #### Explicación de la lección
 
@@ -150,7 +150,7 @@ El Profeta, la paz y las bendiciones de Allah sean con él, aprobó su anhelo de
 
 <!-- activity:start audience="adults" concept_id="lesson.022.activity.within-my-means-door" -->
 
-Escribe una puerta del bien en la que otra persona te aventaja gracias a medios que hoy no tienes (dinero, tiempo, salud o conocimiento). Después, del mismo modo que el Profeta, la paz y las bendiciones de Allah sean con él, indicó a los pobres una obra a su alcance, elige una obra lícita dentro de tus posibilidades que sirva al mismo propósito, y fíjale un momento concreto esta semana. Al final de la semana, escribe: ¿tu comparación se volvió envidia o sana competencia?
+Anota un campo del bien en el que otra persona te aventaja gracias a medios que hoy no tienes (dinero, tiempo, salud o conocimiento). Después, del mismo modo que el Profeta, la paz y las bendiciones de Allah sean con él, indicó a los pobres una obra a su alcance, elige una obra lícita dentro de tus posibilidades que sirva al mismo propósito, y fíjale un momento concreto esta semana. Al final de la semana, escribe: ¿tu comparación se volvió envidia o sana competencia?
 
 <!-- activity:end -->
 
@@ -162,11 +162,11 @@ Escribe una puerta del bien en la que otra persona te aventaja gracias a medios 
 
 ## Para niños de 4 a 7 años
 
-<!-- reader:start audience="4-7" estimated_minutes="5.0" -->
+<!-- reader:start audience="4-7" estimated_minutes="5.5" -->
 
 <!-- unit:start id="4-7.explanation" kind="explanation" -->
 
-Todo el Paraíso es precioso, y todos los que entran en él son felicísimos. Pero Allah puso en el Paraíso grados, unos más altos que otros, como los peldaños de una escalera. Nuestro Profeta Muhammad, la paz y las bendiciones de Allah sean con él, nos contó que la gente del Paraíso ve a los que están más arriba lejos y brillantes, como una estrella que reluce en el borde del cielo.[^4] Y a quien cree en Allah y hace el bien que puede, Allah lo sube grados y más grados.
+Todo el Paraíso es precioso, y todos los que entran en él son muy, muy felices. Pero Allah puso en el Paraíso grados, unos más altos que otros. Nuestro Profeta Muhammad, la paz y las bendiciones de Allah sean con él, nos contó que la gente del Paraíso ve a los que están más arriba lejos y brillantes, como una estrella que reluce en el borde del cielo.[^4] Y a quien cree en Allah y hace el bien que puede, Allah lo sube grados y más grados.
 
 <!-- unit:end -->
 
@@ -240,11 +240,11 @@ Junto con tu papá o tu mamá, dibuja el contorno de tus dos manos en una hoja. 
 
 ## Para niños de 8 a 12 años
 
-<!-- reader:start audience="8-12" estimated_minutes="6.0" -->
+<!-- reader:start audience="8-12" estimated_minutes="7.0" -->
 
 <!-- unit:start id="8-12.explanation" kind="explanation" -->
 
-Quizá pienses que todos los que entran en el Paraíso acaban en el mismo lugar. Pero el Corán nos dice que el Paraíso tiene grados, y que la diferencia entre sus habitantes en la Otra Vida es mayor que cualquier diferencia entre las personas en este mundo.[^1] El Profeta, la paz y las bendiciones de Allah sean con él, nos contó que en el Paraíso hay cien grados que Allah preparó para quienes combaten por Su causa, y que entre un grado y otro hay tanta distancia como entre el cielo y la tierra;[^3] y que la gente del Paraíso ve a los que viven en las estancias altas, por encima de ellos, igual que nosotros vemos una estrella brillante y lejana en el horizonte. Y lo más bonito es que esas moradas no son solo para los profetas: también las alcanzan hombres que creyeron en Allah y dieron crédito a los mensajeros.[^4] Entonces, ¿cómo podemos hacer una carrera hacia ellas? ¿Y qué hacemos cuando vemos que otros van por delante de nosotros?
+Quizá pienses que todos los que entran en el Paraíso acaban en el mismo lugar. Pero el Corán nos dice que el Paraíso tiene grados, y que la diferencia entre sus habitantes en la Otra Vida es mayor que cualquier diferencia entre las personas en este mundo.[^1] El Profeta, la paz y las bendiciones de Allah sean con él, nos contó que en el Paraíso hay cien grados que Allah preparó para quienes combaten por Su causa, y que entre un grado y otro hay tanta distancia como entre el cielo y la tierra;[^3] y que la gente del Paraíso ve a los que viven en las estancias altas, por encima de ellos, igual que nosotros vemos una estrella brillante y lejana en el horizonte. Y lo más bonito es que esas moradas no son solo para los profetas: también las alcanzan hombres que creyeron en Allah y dieron crédito a los mensajeros.[^4] Entonces, ¿cómo podemos competir por llegar a ellas? ¿Y qué hacemos cuando vemos que otros van por delante de nosotros?
 
 <!-- unit:end -->
 
@@ -280,7 +280,7 @@ Entonces el Profeta, la paz y las bendiciones de Allah sean con él, les dijo: *
 
 Los pobres empezaron a ponerlo en práctica. Pero los ricos se enteraron… ¡y se pusieron a hacer lo mismo! Así que los pobres volvieron al Profeta, la paz y las bendiciones de Allah sean con él, y le dijeron: "Nuestros hermanos, los dueños de las riquezas, se enteraron de lo que hacíamos e hicieron lo mismo". ¿Te has fijado? Los llamaron "nuestros hermanos". Y el Profeta, la paz y las bendiciones de Allah sean con él, dijo: **«Ese es el favor de Allah, que Él concede a quien quiere»**.[^5]
 
-Esta historia nos enseña que hacer una carrera hacia los grados más altos es algo precioso, y que el musulmán, cuando ve que otro le adelanta con algo que él no tiene, busca un bien que sí esté a su alcance, se alegra por su hermano y sabe que Allah concede Su favor a quien quiere.[^5]
+Esta historia nos enseña que competir por llegar a los grados más altos es algo precioso, y que el musulmán, cuando ve que otro le adelanta con algo que él no tiene, busca un bien que sí esté a su alcance, se alegra por su hermano y sabe que Allah concede Su favor a quien quiere.[^5]
 
 <!-- retelling:end -->
 
@@ -339,7 +339,7 @@ Dibuja una tabla con tres columnas. En la primera, escribe un bien que hace algu
 
 Vivimos en la era de la comparación constante: notas, seguidores y logros que desfilan cada día por las pantallas. El Corán no niega que existan diferencias entre las personas; al contrario, nos dice que las de la Otra Vida son todavía mayores: {y la Otra Vida es mayor en grados y mayor en preeminencia}.[^1] En el Paraíso hay grados separados entre sí por la distancia que hay entre el cielo y la tierra,[^3] y sus habitantes ven a los de las estancias altas por encima de ellos como un astro lejano en el horizonte. Y cuando los Compañeros supusieron que esas moradas eran solo para los profetas, el Profeta, la paz y las bendiciones de Allah sean con él, juró que eran para "hombres que creyeron en Allah y dieron crédito a los mensajeros".[^4]
 
-Así que la pregunta no es si hay competencia, sino por qué competimos y con qué corazón. La comparación puede llevarte a la envidia, que desea que el otro pierda su bendición, o a la sana emulación, que te empuja a actuar. Y el relato de los emigrantes pobres es un ejemplo vivo del segundo camino.
+Así que la pregunta no es si hay competencia, sino en qué competimos y con qué corazón. La comparación puede llevarte a la envidia, que desea que el otro pierda su bendición, o a la sana emulación, que te empuja a actuar. Y el relato de los emigrantes pobres es un ejemplo vivo del segundo camino.
 
 <!-- unit:end -->
 
@@ -365,9 +365,9 @@ Así que la pregunta no es si hay competencia, sino por qué competimos y con qu
 
 <!-- retelling:start source_id="muslim-595a" audience="13+" -->
 
-En Medina, los emigrantes pobres cumplían con la oración y el ayuno igual que los demás, pero veían a sus hermanos ricos tomarles la delantera en un terreno en el que ellos no podían entrar: la limosna y la liberación de esclavos. Así que acudieron al Profeta, la paz y las bendiciones de Allah sean con él, con una frase que deja ver qué les quitaba el sueño: "Los ricos se han llevado los grados más altos y la dicha perpetua". No les preocupaba una casa más grande ni una ropa más bonita, sino un lugar en el Paraíso.
+En Medina, los emigrantes pobres cumplían con la oración y el ayuno igual que los demás, pero veían a sus hermanos ricos tomarles la delantera en un terreno en el que ellos no podían entrar: la limosna y la liberación de esclavos. Así que acudieron al Profeta, la paz y las bendiciones de Allah sean con él, con una frase que deja ver qué les quitaba el sueño: "Los ricos se han llevado los grados más altos y la dicha perpetua". No les preocupaba una casa más grande ni una prenda más bonita, sino un lugar en el Paraíso.
 
-El Profeta, la paz y las bendiciones de Allah sean con él, les preguntó: "¿Y eso por qué?". Respondieron: "Rezan como nosotros rezamos y ayunan como nosotros ayunamos, pero ellos dan limosna y nosotros no podemos, y liberan esclavos y nosotros no podemos". Y aquí llega el momento decisivo: aquella comparación podía haberse convertido en resentimiento o en críticas contra los ricos; pero los pobres no pidieron que a sus hermanos se les quitara nada, sino que pusieron la cuestión en manos del Profeta para que les señalara un camino.
+El Profeta, la paz y las bendiciones de Allah sean con él, les preguntó: "¿Y eso por qué?". Respondieron: "Rezan como nosotros rezamos y ayunan como nosotros ayunamos, pero ellos dan limosna y nosotros no, y liberan esclavos y nosotros no". Y aquí llega el momento decisivo: aquella comparación podía haberse convertido en resentimiento o en críticas contra los ricos; pero los pobres no pidieron que a sus hermanos se les quitara nada, sino que pusieron la cuestión en manos del Profeta para que les señalara un camino.
 
 Él les dijo: **«¿Queréis que os enseñe algo con lo que alcanzaréis a quienes se os adelantaron y os adelantaréis a quienes vengan detrás de vosotros, y nadie será mejor que vosotros salvo quien haga lo mismo que vosotros?»**. Y les enseñó a glorificar a Allah, a proclamar Su grandeza y a alabarlo treinta y tres veces al final de cada oración: una obra que no exige dinero, sino constancia.
 
@@ -438,7 +438,7 @@ Reserva una página durante una semana. Cada vez que te compares con alguien en 
 **Materiales:** una copia de la lección para cada participante; un mushaf para consultar la sura Al-Isra; pizarra; hoja de la actividad "Una puerta a mi alcance", con dos columnas y una línea para la revisión; tarjeta de salida.
 
 <!-- lesson-plan:preparation -->
-**Preparación:** el docente lee los cuatro textos y sus referencias, así como el texto completo del hadiz de al-Bujari 2790, incluida la parte omitida al final; repasa el comentario de an-Nawawi al hadiz de Muslim 595 para presentar de forma equilibrada, sin inclinarse precipitadamente por ninguna postura, la discrepancia sobre el rico agradecido y el pobre paciente; y tiene presente que el relato del regreso de los pobres es palabra de Abu Salih en la transmisión de Qutaiba. Prepara además un ejemplo neutro de una puerta del bien que requiere medios (como una fundación benéfica o waqf) y una alternativa al alcance de cualquiera.
+**Preparación:** el docente lee los cuatro textos y sus referencias, así como el texto completo del hadiz de al-Bujari 2790, incluida la parte omitida al final; repasa el comentario de an-Nawawi al hadiz de Muslim 595 para presentar de forma equilibrada, sin inclinarse precipitadamente por ninguna postura, la discrepancia sobre el rico agradecido y el pobre paciente; y tiene presente que el episodio del regreso de los pobres procede de Abu Salih en la transmisión de Qutaiba. Prepara además un ejemplo neutro de un campo del bien que requiere medios (como una fundación benéfica o waqf) y una alternativa al alcance de cualquiera.
 
 <!-- lesson-plan:opening -->
 **Apertura — 5 minutos:** el docente pregunta: «¿Para ustedes el Paraíso es una sola morada en la que todos son iguales? ¿Y cuándo han sentido que otros se les adelantaban en el bien con medios que ustedes no tenían?». Anota dos respuestas en la pizarra sin comentarlas.
@@ -447,7 +447,7 @@ Reserva una página durante una semana. Cada vez que te compares con alguien en 
 **Estudio de las evidencias — 20 minutos:** se leen en voz alta las aleyas 18-21 de Al-Isra y se pide identificar las condiciones del esfuerzo que Allah agradece (5 minutos). Luego, el hadiz de los cien grados, con la pregunta: «¿Qué querían anunciar los Compañeros, y qué añadió el Profeta, la paz y las bendiciones de Allah sean con él?» (5 minutos). Después, el hadiz de las estancias altas, deteniéndose en «¡Sí que las alcanzan otros! Por Aquel en cuya mano está mi alma» (5 minutos). Por último, el relato completo de los emigrantes pobres, dividido en cuatro momentos: la queja, la pregunta, la enseñanza y el regreso (5 minutos).
 
 <!-- lesson-plan:instruction -->
-**Instrucción guiada — 12 minutos:** el docente construye en la pizarra una cadena: «Diferencia de rango establecida ← su causa: la fe y las obras ← distancias inmensas ← puerta abierta a quienes no son profetas ← cómo competir correctamente». Pregunta: «¿En qué se diferencia lo que pidieron los pobres de la envidia?» y «¿Por qué el Profeta, la paz y las bendiciones de Allah sean con él, concluyó diciendo: "Ese es el favor de Allah"?». Presenta brevemente la discrepancia sobre el rico agradecido y el pobre paciente.
+**Instrucción guiada — 12 minutos:** el docente construye en la pizarra una cadena: «Diferencia de rango establecida → su causa: la fe y las obras → distancias inmensas → puerta abierta a quienes no son profetas → cómo competir correctamente». Pregunta: «¿En qué se diferencia lo que pidieron los pobres de la envidia?» y «¿Por qué el Profeta, la paz y las bendiciones de Allah sean con él, concluyó diciendo: "Ese es el favor de Allah"?». Presenta brevemente la discrepancia sobre el rico agradecido y el pobre paciente.
 
 <!-- lesson-plan:activity -->
 **Actividad — 13 minutos:** los participantes realizan individualmente la actividad "Una puerta a mi alcance" (8 minutos); después, por parejas, cada uno comparte la alternativa que ha elegido y ambos comprueban que sea lícita, realista y con un momento fijado (5 minutos).
@@ -471,7 +471,7 @@ Reserva una página durante una semana. Cada vez que te compares con alguien en 
 **Resultados de aprendizaje:** el niño dice con una frase sencilla que en el Paraíso hay grados, unos más altos que otros; vuelve a contar lo que hicieron los pobres cuando no tenían dinero; nombra un bien que él mismo puede hacer, y glorifica a Allah después de una oración.
 
 <!-- lesson-plan:materials -->
-**Materiales:** hojas grandes; lápices de colores seguros; una imagen o un dibujo de un cielo con estrellas, unas más altas que otras; tarjeta con la súplica en letra clara.
+**Materiales:** hojas grandes; lápices de colores no tóxicos; una imagen o un dibujo de un cielo con estrellas, unas más altas que otras; tarjeta con la súplica en letra clara.
 
 <!-- lesson-plan:preparation -->
 **Preparación:** el educador ensaya cómo contar el relato con voz tranquila, prepara dos ejemplos (un bien que hacen los mayores y otro que pueden hacer los pequeños) y elige un momento de oración cercano para practicar la glorificación.

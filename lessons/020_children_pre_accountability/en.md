@@ -53,7 +53,7 @@ The commentators explain that this ayah gives the believers glad tidings: Allah 
 
 #### Lesson Explanation
 
-This ayah is the Qur'anic root of every hadith that follows in this lesson. Allah does not let the bond between a believer and his offspring be lost; rather, by His mercy He reunites them in Jannah, and not by reckoning with a child who was never yet made accountable.
+This ayah is the Qur'anic root of every hadith that follows in this lesson. Allah does not let the bond between a believer and his offspring be lost; rather, He reunites them in Jannah out of His mercy, not by bringing to account a child who was never yet accountable.
 
 <!-- evidence:end -->
 
@@ -73,7 +73,7 @@ The commentators on this hadith explain that "the Pen has been lifted" means tha
 
 #### Lesson Explanation
 
-This hadith is the legal foundation for the very title of this lesson. Not a single bad deed is written against a child who has not reached maturity. So if Allah takes that child before maturity, the child meets their Lord carrying no sin to be reckoned with, but as pure as on the day they were born.
+This hadith is the legal foundation for the very title of this lesson. Not a single bad deed is written against a child who has not reached maturity. So if Allah takes that child before maturity, the child meets their Lord carrying no sin to be reckoned with, as pure as on the day they were born.
 
 <!-- evidence:end -->
 
@@ -85,7 +85,7 @@ This hadith is the legal foundation for the very title of this lesson. Not a sin
 
 <!-- evidence:translation -->
 
-> On the authority of Anas ibn Malik, may Allah be pleased with him, the Prophet, peace and blessings be upon him, said: **"There is no Muslim among people who has three of his children die before they reach the age of accountability, but that Allah will admit him into Jannah by the grace of His mercy toward them."**[^3]
+> On the authority of Anas ibn Malik, may Allah be pleased with him, the Prophet, peace and blessings be upon him, said: **"There is no Muslim person who has three of his children die before they reach the age of accountability, but that Allah will admit him into Jannah by the grace of His mercy toward them."**[^3]
 
 #### Scholarly Explanation
 
@@ -93,7 +93,7 @@ The scholars say that "before they reach the age of accountability" (literally, 
 
 #### Lesson Explanation
 
-This hadith turns a gaze of grief into a gaze of hope. The child whom parents lose is not a loss and nothing more; that child becomes a means of raising the parents to Jannah, if they are patient and seek their reward from Allah. In this way they gather two things at once: the reward of patience and the intercession of their child.
+This hadith turns a grieving outlook into a hopeful one. The child whom parents lose is not simply a loss; that child becomes a means of raising the parents to Jannah, if they are patient and seek their reward from Allah. In this way they gather two things at once: the reward of patience and the intercession of their child.
 
 <!-- evidence:end -->
 
@@ -113,7 +113,7 @@ The lexicographers explain that *da'amis* is the plural of *du'mus*, a tiny crea
 
 #### Lesson Explanation
 
-This hadith paints the most beautiful picture of a child who has passed into Allah's mercy. The child has not forgotten their father or mother. Instead, they stand waiting with joy, and the moment they see their parents, they take hold of their garment and will not let go until the two enter Jannah together. Losing a child, then, is neither forgetting nor severance; it is love waiting for a reunion yet to come, by Allah's leave.
+This hadith paints the most beautiful picture of a child who has passed into Allah's mercy. The child has not forgotten their father or mother. Instead, they stand waiting with joy, and the moment they see their parents, they take hold of their garment and will not let go until they all enter Jannah together. Losing a child, then, is neither forgetting nor severance; it is love waiting for a reunion yet to come, by Allah's leave.
 
 <!-- evidence:end -->
 
@@ -146,7 +146,7 @@ This hadith is the heart of the lesson. A child who dies young does not go into 
 1. What does it mean that "the Pen has been lifted" from the child, and how does this relate to the destiny of a child who dies before maturity?
 2. How does the hadith "There is no Muslim who loses three children..." shift parents' outlook from grief alone to hope?
 3. What does the hadith of "the *da'amis* of Jannah" reveal about the bond between a child and their parents after the child has passed into Allah's mercy?
-4. Why did Allah choose Ibrahim, peace be upon him, in particular, to be the guardian of the children of the people in that garden, judging from what you know of his life and his tenderness?
+4. Judging from what you know of his life and his tenderness, why do you think Allah chose Ibrahim, peace be upon him, in particular, to be the guardian of the children of the people in that garden?
 5. How would you answer, with courtesy and compassion, a family who have lost a young child and ask you about the child's destiny with Allah?
 
 <!-- unit:end -->
@@ -157,7 +157,7 @@ This hadith is the heart of the lesson. A child who dies young does not go into 
 
 <!-- activity:start audience="adults" concept_id="lesson.020.activity.garden_lanterns" -->
 
-Write a short paragraph describing how you felt after reading the hadith of "the *da'amis* of Jannah" and the hadith of Samurah ibn Jundab's dream. Then, on a small card, write the name of a child you know who has passed into Allah's mercy (a relative or someone you know), or, if you know no one, the name of any child at all, and beneath it write one du'a asking mercy for that child and their family. Fold the card and keep it in a quiet place of your own that you call your "Garden of Hope," and remind yourself that this du'a alone is a continuing charity and a mercy that reaches its destination.
+Write a short paragraph describing how you felt after reading the hadith of "the *da'amis* of Jannah" and the hadith of Samurah ibn Jundab's dream. Then, on a small card, write the name of a child you know who has passed into Allah's mercy (a relative or someone you know), or, if you know no one, the name of any child at all, and beneath it write one du'a asking mercy for that child and their family. Fold the card and keep it in a quiet place of your own that you call your "Garden of Hope," and remind yourself that this du'a alone is a continuing charity and a mercy that reaches them.
 
 <!-- activity:end -->
 
@@ -293,7 +293,7 @@ The Prophet, peace and blessings be upon him, said: "Their little ones are the *
 
 <!-- retelling:start source_id="muslim.ahmad.daaamees_al_jannah" audience="8-12" -->
 
-Picture this beautiful scene with me: a little child is waiting at the gate of Jannah. They see their father coming, take hold of the edge of his clothes lovingly, and never let go until the two of them enter Jannah together. A young child who has passed into Allah's mercy still loves their parents and longs to be with them again.[^4]
+Picture this beautiful scene with me: a little child is waiting at the gate of Jannah. They see their father coming, lovingly take hold of the edge of his clothes, and never let go until the two of them enter Jannah together. A young child who has passed into Allah's mercy still loves their parents and longs to be with them again.[^4]
 
 <!-- retelling:end -->
 
@@ -396,7 +396,7 @@ The Prophet, peace and blessings be upon him, said: "Their little ones are the *
 
 <!-- retelling:start source_id="muslim.ahmad.daaamees_al_jannah" audience="13+" -->
 
-This hadith redefines what loss itself means. The bond between a child and their parents is not cut when the child dies young. It turns into intercession and a loving wait on the Day of Resurrection, until the child holds fast to the garment of their father or mother and will not let go until they enter Jannah together. This means that patience and *ihtisab* when a young child is lost are not merely enduring pain; they are an investment in a relationship that will bear fruit in a reunion, and a togetherness that lasts forever, by Allah's leave.[^4]
+This hadith redefines what loss itself means. The bond between a child and their parents is not cut when the child dies young. It turns into intercession and a loving wait on the Day of Resurrection, when the child holds fast to the garment of their father or mother and will not let go until they enter Jannah together. This means that patience and *ihtisab* when a young child is lost are not merely enduring pain; they are an investment in a relationship that will bear fruit in a reunion, and a togetherness that lasts forever, by Allah's leave.[^4]
 
 <!-- retelling:end -->
 
@@ -421,7 +421,7 @@ This hadith redefines what loss itself means. The bond between a child and their
 ### Discussion Questions
 
 1. How does the hadith of Samurah ibn Jundab's dream show that the destiny of a child who dies young is neither unknown nor uncertain?
-2. Why was the Prophet's answer, peace and blessings be upon him, to the question "And the children of the polytheists?" so important for this question in particular?
+2. Why was the Prophet's answer, peace and blessings be upon him, to the question "And the children of the polytheists?" so important for this issue in particular?
 3. How does the hadith of "the *da'amis* of Jannah" change your understanding of what it means to "lose" a young child?
 4. How could you help a friend or relative who has lost a young child find real hope in these two hadiths, rather than just words of comfort?
 5. Why do some details about the destiny of the children of non-believers remain a matter of scholarly *ijtihad*, even though there is an explicit text, and how can that bring you peace rather than worry?
@@ -471,7 +471,7 @@ Write a private paragraph about what touched you most in the hadith of "the *da'
 **Materials:** A copy of the lesson; a mushaf for referring to the ayah of at-Tur; small blank cards for the activity.
 
 <!-- lesson-plan:preparation -->
-**Preparation:** Before the session, the teacher reviews the five pieces of evidence with their sources and gradings, gently confirms whether anyone in the group has suffered a recent loss, and prepares to set a calm, compassionate tone rather than a dry legal debate.
+**Preparation:** Before the session, the teacher reviews the five pieces of evidence with their sources and gradings, gently checks whether anyone in the group has suffered a recent loss, and prepares to set a calm, compassionate tone rather than a dry legal debate.
 
 <!-- lesson-plan:opening -->
 **Opening — 5 minutes:** The teacher asks: "What comes to mind when you hear that a young child has passed into Allah's mercy?" and then listens attentively without correcting anyone straight away.
@@ -537,7 +537,7 @@ Write a private paragraph about what touched you most in the hadith of "the *da'
 ### Children Ages 8-12 — 30 Minutes
 
 <!-- lesson-plan:outcomes -->
-**Learning Outcomes:** The student explains the meaning of "the age of accountability" and "the *da'amis* of Jannah," and connects the two hadiths with Ibrahim's care, peace be upon him, for the children in Jannah.
+**Learning Outcomes:** The student explains the meaning of "the age of accountability" and "the *da'amis* of Jannah," and connects the two hadiths with the care that Ibrahim, peace be upon him, gives the children in Jannah.
 
 <!-- lesson-plan:materials -->
 **Materials:** Cards for the three terms; a glass jar and colored paper for making the lantern; the du'a card.
@@ -549,7 +549,7 @@ Write a private paragraph about what touched you most in the hadith of "the *da'
 **Opening — 4 minutes:** Ask the students: "What do you think about someone being completely excused from being held to account for what they do? Who is that person in our religion?"
 
 <!-- lesson-plan:evidence -->
-**Studying the Evidence — 10 minutes:** Briefly explain the hadith of the three children, then tell the full story of the Prophet's dream, peace and blessings be upon him, then the hadith of "the *da'amis* of Jannah," explaining the terms as you read.
+**Studying the Evidence — 10 minutes:** Briefly explain the hadith of the three children, then tell the full story of the dream of the Prophet, peace and blessings be upon him, then the hadith of "the *da'amis* of Jannah," explaining the terms as you read.
 
 <!-- lesson-plan:instruction -->
 **Guided Instruction — 8 minutes:** The teacher discusses with the students the meaning of "before they reach the age of accountability" (*lam yablughu al-hinth*), why Allah chose Ibrahim, peace be upon him, in particular, to care for the children, and how the hadith of the *da'amis* describes a child's enduring love for their parents.
@@ -610,7 +610,7 @@ Write a private paragraph about what touched you most in the hadith of "the *da'
 
 [^1]: The Noble Qur'an, Surah at-Tur, ayah 21: [Qur'anic text](https://quran.com/52/21).
 [^2]: The hadith "The Pen has been lifted from three," narrated by Aishah, may Allah be pleased with her. The wording given here is that of Sunan Ibn Majah (2041), with similar wording in Sunan an-Nasa'i (3432); Sunan Abi Dawud (4398) has: "from the afflicted until he is cured, and from the child until he grows up." It is also narrated from Ali ibn Abi Talib, may Allah be pleased with him, by Abu Dawud (4403), with the wording "from the child until he reaches puberty," and by at-Tirmidhi (1423), who graded it *hasan gharib*. Al-Albani graded it authentic (*Sahih Sunan Abi Dawud*) on the strength of its combined chains: [Sunnah.com, Sunan Abi Dawud 4398](https://sunnah.com/abudawud:4398), [Sunan Ibn Majah 2041](https://sunnah.com/ibnmajah:2041).
-[^3]: The hadith "There is no Muslim among people who has three children die," narrated by Anas ibn Malik, may Allah be pleased with him; recorded by al-Bukhari in his Sahih, Book of Funerals (1381), whose wording this is, and in similar wording (1248). Sahih Muslim (2632) carries the same meaning from Abu Hurayrah, may Allah be pleased with him, in different wording: "None of the Muslims has three children die and is then touched by the Fire, except to fulfil the oath": [Sunnah.com, Sahih al-Bukhari 1381](https://sunnah.com/bukhari:1381), [Sahih al-Bukhari 1248](https://sunnah.com/bukhari:1248).
+[^3]: The hadith "There is no Muslim person who has three children die," narrated by Anas ibn Malik, may Allah be pleased with him; recorded by al-Bukhari in his Sahih, Book of Funerals (1381), whose wording this is, and in similar wording (1248). Sahih Muslim (2632) carries the same meaning from Abu Hurayrah, may Allah be pleased with him, in different wording: "None of the Muslims has three children die and is then touched by the Fire, except to fulfill the oath": [Sunnah.com, Sahih al-Bukhari 1381](https://sunnah.com/bukhari:1381), [Sahih al-Bukhari 1248](https://sunnah.com/bukhari:1248).
 [^4]: The hadith "Their little ones are the *da'amis* of Jannah," narrated by Abu Hurayrah, may Allah be pleased with him; recorded by Muslim in his Sahih, Book of Righteousness, Joining Ties, and Manners, chapter on the virtue of one whose child dies and who seeks the reward (2635). Abu Hurayrah related it in reply to Abu Hassan, who had said to him: "Two sons of mine have died. Will you tell me a hadith from the Messenger of Allah, peace and blessings be upon him, to comfort our hearts about our dead?" It is also recorded by Ahmad in his Musnad: [Sunnah.com, Sahih Muslim 2635](https://sunnah.com/muslim:2635a).
 [^5]: The long hadith of the dream related by Samurah ibn Jundab, may Allah be pleased with him; recorded by al-Bukhari in his Sahih, Book of the Interpretation of Dreams (*Kitab at-Ta'bir*), chapter on interpreting dreams after the dawn prayer (7047), whose wording is given here. Al-Bukhari also records it in a shorter, differently worded version in the Book of Funerals (1386), which says: "The old man at the foot of the tree is Ibrahim, peace be upon him, and the children around him are the children of the people." Dr. Umar Sulayman al-Ashqar cites the relevant passage in his book *al-Jannah wa an-Nar* (in the chapter on the children of the Muslims and of the polytheists): [Sunnah.com, Sahih al-Bukhari 7047](https://sunnah.com/bukhari:7047), [Sahih al-Bukhari 1386](https://sunnah.com/bukhari:1386).
 

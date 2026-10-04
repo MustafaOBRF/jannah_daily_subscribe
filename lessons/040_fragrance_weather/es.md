@@ -30,7 +30,7 @@ Después de esta lección, el aprendiz será capaz de:
 
 ## Sección académica para adultos
 
-<!-- reader:start audience="adults" estimated_minutes="6.5" -->
+<!-- reader:start audience="adults" estimated_minutes="7.0" -->
 
 <!-- unit:start id="adults.explanation" kind="explanation" -->
 
@@ -54,11 +54,11 @@ Esta lección se detiene en tres ideas: la fragancia del Paraíso, lo que priva 
 
 #### Traducción al español
 
-> De Anas, que Allah esté complacido con él, que dijo: **Mi tío Anas ibn an-Nadr no estuvo presente en la batalla de Badr, y dijo: «Oh Mensajero de Allah, falté a la primera batalla que libraste contra los idólatras. Si Allah me concede estar presente en una batalla contra los idólatras, Allah verá lo que soy capaz de hacer». Cuando llegó el día de Uhud y los musulmanes cedieron terreno, dijo: «Oh Allah, te pido disculpas por lo que han hecho estos —se refería a sus compañeros— y me desentiendo ante Ti de lo que han hecho aquellos —se refería a los idólatras—». Luego avanzó, y le salió al encuentro Sa'd ibn Mu'ad, y le dijo: «¡Sa'd ibn Mu'ad! ¡El Paraíso, por el Señor de an-Nadr! Percibo su aroma más acá de Uhud». Sa'd dijo: «Oh Mensajero de Allah, yo no fui capaz de hacer lo que él hizo». Anas dijo: Le encontramos ochenta y tantos golpes de espada, lanzazos o flechazos; lo encontramos muerto, y los idólatras habían mutilado su cuerpo, de modo que nadie lo reconoció salvo su hermana, por las yemas de los dedos. Anas dijo: Pensábamos —o suponíamos— que esta aleya se reveló acerca de él y de quienes fueron como él: {Entre los creyentes hay hombres que han sido fieles a lo que pactaron con Allah}, hasta el final de la aleya.** [A continuación, Anas refiere otro episodio sobre su tía ar-Rubayyi' relativo al talión, que queda fuera del tema de esta lección.][^1]
+> De Anas, que Allah esté complacido con él, que dijo: **Mi tío Anas ibn an-Nadr no estuvo presente en la batalla de Badr, y dijo: «Oh Mensajero de Allah, falté a la primera batalla que libraste contra los idólatras. Si Allah me concede estar presente en una batalla contra los idólatras, Allah verá lo que soy capaz de hacer». Cuando llegó el día de Uhud y los musulmanes cedieron terreno, dijo: «Oh Allah, te pido disculpas por lo que han hecho estos —se refería a sus compañeros— y me desentiendo ante Ti de lo que han hecho aquellos —se refería a los idólatras—». Luego avanzó, y le salió al encuentro Sa'd ibn Mu'ad, y le dijo: «¡Sa'd ibn Mu'ad! ¡El Paraíso, por el Señor de an-Nadr! Percibo su aroma más acá de Uhud». Sa'd dijo: «Oh Mensajero de Allah, yo no fui capaz de hacer lo que él hizo». Anas dijo: Encontramos en su cuerpo ochenta y tantos golpes de espada, lanzazos o flechazos; lo encontramos muerto, y los idólatras habían mutilado su cuerpo, de modo que nadie lo reconoció salvo su hermana, por las yemas de los dedos. Anas dijo: Pensábamos —o suponíamos— que esta aleya se reveló acerca de él y de quienes fueron como él: {Entre los creyentes hay hombres que han sido fieles a lo que pactaron con Allah}, hasta el final de la aleya.** [A continuación, Anas refiere otro episodio sobre su tía ar-Rubayyi' relativo al talión, que queda fuera del tema de esta lección.][^1]
 
 #### Interpretación académica
 
-Ibn al-Qayyim, que Allah tenga misericordia de él, dijo: «La fragancia del Paraíso es de dos clases: una fragancia que se halla en este mundo, que las almas perciben a veces y que las palabras no alcanzan a describir; y otra que los cuerpos captan con el sentido del olfato, como se huele el perfume de las flores y de otras cosas». Esta segunda la percibe la gente del Paraíso en la otra vida, de cerca y de lejos, y en este mundo puede percibirla aquel de Sus profetas y mensajeros a quien Allah quiera. Y añadió: «Lo que percibió Anas ibn an-Nadr puede pertenecer a esta clase, y puede pertenecer a la primera».[^7] En un comentario de *Riyad as-Salihin* se lee: «Es posible que aspirara realmente el aroma del Paraíso, y es posible que tuviera el Paraíso tan presente que se lo representara en aquel mismo lugar».[^8]
+Ibn al-Qayyim, que Allah tenga misericordia de él, dijo: «La fragancia del Paraíso es de dos clases: una fragancia que se halla en este mundo, que las almas perciben a veces y que las palabras no alcanzan a describir; y otra que los cuerpos captan con el sentido del olfato, como se huele el perfume de las flores y de otras cosas». Esta segunda la percibe la gente del Paraíso en la otra vida, de cerca y de lejos, y en este mundo puede percibirla quien Allah quiera de entre Sus profetas y mensajeros. Y añadió: «Lo que percibió Anas ibn an-Nadr puede pertenecer a esta clase, y puede pertenecer a la primera».[^7] En un comentario de *Riyad as-Salihin* se lee: «Es posible que aspirara realmente el aroma del Paraíso, y es posible que tuviera el Paraíso tan presente que se lo representara en aquel mismo lugar».[^8]
 
 #### Explicación de la lección
 
@@ -106,7 +106,7 @@ La aleya no se limita a los mártires, pues en ella están también {otros aún 
 
 #### Explicación de la lección
 
-El hadiz reúne una noticia y una norma. La noticia: la fragancia del Paraíso se percibe desde una distancia que un viajero no recorrería sino en cuarenta años. La norma: matar a quien los musulmanes han dado su garantía de seguridad, aunque no comparta su fe, puede privar al homicida de esa fragancia. La justicia con todas las personas forma parte del camino al Paraíso.
+El hadiz reúne una noticia y una norma. La noticia: la fragancia del Paraíso se percibe desde una distancia que un viajero no recorrería sino en cuarenta años. La norma: matar a alguien a quien los musulmanes han dado su garantía de seguridad, aunque no comparta su fe, puede privar al homicida de esa fragancia. La justicia con todas las personas forma parte del camino al Paraíso.
 
 <!-- evidence:end -->
 
@@ -163,7 +163,7 @@ Escribe una ocasión concreta de hacer el bien que de verdad dejaste pasar: un f
 
 ## Para niños de 4 a 7 años
 
-<!-- reader:start audience="4-7" estimated_minutes="5.0" -->
+<!-- reader:start audience="4-7" estimated_minutes="5.5" -->
 
 <!-- unit:start id="4-7.explanation" kind="explanation" -->
 
@@ -354,7 +354,7 @@ Su significado: "Oh Allah, concédenos el aroma del Paraíso y la dulzura de su 
 
 ## Para adolescentes de 13+
 
-<!-- reader:start audience="13+" estimated_minutes="6.5" -->
+<!-- reader:start audience="13+" estimated_minutes="6.0" -->
 
 <!-- unit:start id="13+.explanation" kind="explanation" -->
 
@@ -517,7 +517,7 @@ Su significado: "Oh Allah, concédenos el aroma del Paraíso y la dulzura de su 
 **Actividad — 6 minutos:** el niño recuerda con el educador una cosa buena que se le pasó, hace los dos dibujos y se ponen de acuerdo en cuál será la próxima ocasión. Cuando la cumpla en casa, el padre o la madre pondrá un poquito de perfume en el segundo dibujo.
 
 <!-- lesson-plan:assessment -->
-**Evaluación y cierre — 4 minutos:** se observa si el niño recuerda que el Paraíso huele muy bien y si repite las tres etapas del relato. Después se lee juntos la súplica.
+**Evaluación y cierre — 4 minutos:** se observa si el niño recuerda que el Paraíso huele muy bien y si repite las tres etapas del relato. Después se lee la súplica todos juntos.
 
 <!-- lesson-plan:differentiation -->
 **Diferenciación:** con los más pequeños basta con las palabras "Prometió" y "Cumplió". A los mayores se les pide que cuenten la historia a un hermano o una hermana en tres frases.

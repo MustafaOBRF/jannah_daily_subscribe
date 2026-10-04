@@ -31,11 +31,11 @@ Au terme de cette leçon, l'apprenant sera capable de :
 
 ## Section Académique Pour Adultes
 
-<!-- reader:start audience="adults" estimated_minutes="6.5" -->
+<!-- reader:start audience="adults" estimated_minutes="7.0" -->
 
 <!-- unit:start id="adults.explanation" kind="explanation" -->
 
-Lorsqu'un hôte cher arrive au terme d'un long voyage, l'homme généreux n'attend pas qu'il s'asseye et demande quoi que ce soit : il l'accueille dès le seuil avec quelque chose de bon, préparé avant même son arrivée. Ce geste familier, profondément humain, ouvre notre leçon. Car les gens de la Jannah, une fois le Pont franchi et la Jannah atteinte, sont reçus selon une hospitalité que le Prophète, paix et bénédictions sur lui, a décrite avec une étonnante précision : un premier présent, puis un repas, puis une boisson. Cette nouvelle fut donnée en réponse aux questions d'un savant parmi les rabbins juifs, dans une scène qui nous enseigne aussi comment l'on interroge sur l'Invisible, et comment l'on y répond.
+Lorsqu'un invité qui nous est cher arrive au terme d'un long voyage, l'homme généreux n'attend pas qu'il s'asseye et demande quoi que ce soit : il l'accueille dès le seuil avec quelque chose de bon, préparé avant même son arrivée. Ce geste familier, profondément humain, ouvre notre leçon. Car les gens de la Jannah, une fois le Pont franchi et la Jannah atteinte, sont reçus selon une hospitalité que le Prophète, paix et bénédictions sur lui, a décrite avec une étonnante précision : un premier présent, puis un repas, puis une boisson. Il le fit en réponse aux questions d'un savant parmi les rabbins juifs, dans une scène qui nous enseigne aussi comment l'on interroge sur l'Invisible, et comment l'on y répond.
 
 Cette leçon vient après celles consacrées à l'entrée, à l'accueil et aux bonnes nouvelles, et s'arrête sur un seul instant : la toute première chose offerte aux gens de la Jannah. La nourriture et la boisson des gens de la Jannah en général feront l'objet d'une leçon ultérieure de la série.
 
@@ -81,7 +81,7 @@ Le hadith dessine l'ordonnance de l'hospitalité : un présent à l'entrée, pu
 
 #### Explication De La Leçon
 
-Une seconde question, posée par un autre homme, à un autre moment — et la même réponse : le premier repas des gens de la Jannah est le lobe du foie du poisson. Cette réponse compta parmi les causes de l'islam de 'Abd Allah ibn Salam, le savant des Juifs de Médine. La concordance des deux récits affermit le sens, et montre que cette question était, chez les gens du Livre, de celles dont seul un prophète détient la réponse.
+Une seconde question, posée par un autre homme, à un autre moment — et la même réponse : le premier repas des gens de la Jannah est le lobe du foie du poisson. Cette réponse compta parmi les causes de l'entrée en islam de 'Abd Allah ibn Salam, le savant des Juifs de Médine. La concordance des deux récits affermit le sens, et montre que cette question était, chez les gens du Livre, de celles dont seul un prophète détient la réponse.
 
 <!-- evidence:end -->
 
@@ -150,7 +150,7 @@ Allah a appelé l'ensemble des délices de la Jannah *nuzul*, c'est-à-dire une 
 
 <!-- activity:start audience="adults" concept_id="lesson.034.activity.welcome-in-three-stations" -->
 
-Cette semaine, recevez délibérément un invité : un proche, un nouveau voisin ou un collègue qui vit seul. Prévoyez à l'avance trois temps : un petit présent préparé pour lui et offert dès son arrivée, puis un repas, puis une boisson. Après la visite, écrivez trois lignes : qu'avez-vous remarqué chez votre invité au premier temps ? Que vous a coûté la préparation anticipée ? Et en quoi cela a-t-il changé votre compréhension de la parole d'Allah : « en hospitalité de la part d'un Pardonneur, d'un Miséricordieux » ?
+Cette semaine, recevez délibérément un invité : un proche, un nouveau voisin ou un collègue isolé. Prévoyez à l'avance trois temps : un petit présent préparé pour lui et offert dès son arrivée, puis un repas, puis une boisson. Après la visite, écrivez trois lignes : qu'avez-vous remarqué chez votre invité au premier temps ? Que vous a coûté la préparation anticipée ? Et en quoi cela a-t-il changé votre compréhension de la parole d'Allah : « en hospitalité de la part d'un Pardonneur, d'un Miséricordieux » ?
 
 <!-- activity:end -->
 
@@ -160,7 +160,7 @@ Cette semaine, recevez délibérément un invité : un proche, un nouveau voisi
 
 ## Pour Les Enfants De 4 À 7 Ans
 
-<!-- reader:start audience="4-7" estimated_minutes="5.0" -->
+<!-- reader:start audience="4-7" estimated_minutes="5.5" -->
 
 <!-- unit:start id="4-7.explanation" kind="explanation" -->
 
@@ -188,7 +188,7 @@ Alors le savant posa beaucoup de questions. Il demanda par exemple : « Quel e
 
 Le Prophète, paix et bénédictions sur lui, répondit : « Le petit morceau du foie du poisson. » C'est un petit morceau tout au bout du foie du poisson ; les savants disent que c'en est la meilleure partie.[^5]
 
-Il demanda : « Et qu'est-ce qu'ils mangent après ? » Il répondit : « On prépare pour eux le taureau de la Jannah, qui mangeait l'herbe tout au bord de la Jannah. »
+Il demanda : « Et qu'est-ce qu'ils mangent après ? » Il répondit : « On sacrifie pour eux le taureau de la Jannah, qui broutait tout au bord de la Jannah. »
 
 Il demanda : « Et qu'est-ce qu'ils boivent ? » Il répondit : « L'eau d'une source de la Jannah qui s'appelle Salsabil. »
 
@@ -250,7 +250,7 @@ Ce que cela veut dire : Ô Allah, fais de nous Tes invités dans la Jannah, don
 
 ## Pour Les Enfants De 8 À 12 Ans
 
-<!-- reader:start audience="8-12" estimated_minutes="6.0" -->
+<!-- reader:start audience="8-12" estimated_minutes="6.5" -->
 
 <!-- unit:start id="8-12.explanation" kind="explanation" -->
 
@@ -262,7 +262,7 @@ Le premier jour dans une nouvelle école, beaucoup d'élèves se souviennent tou
 
 <!-- terminology:start source_id="muslim-315" -->
 
-- **`Le présent d'accueil (tuhfah)`** — un cadeau spécial par lequel on honore quelqu'un et on lui montre sa délicatesse ; ici, c'est la toute première chose offerte aux gens de la Jannah à leur entrée.[^5]
+- **`Le présent d'accueil (tuhfah)`** — un cadeau spécial par lequel on honore quelqu'un et on lui témoigne de la délicatesse ; ici, c'est la toute première chose offerte aux gens de la Jannah à leur entrée.[^5]
 - **`Le lobe du foie du poisson (ziyadat kabid an-nun)`** — *an-nun* signifie le poisson, et la *ziyadah* est un morceau situé au bout du foie, qui en est la partie la plus savoureuse.[^5]
 - **`L'hospitalité (nuzul)`** — ce que l'on prépare pour l'invité à son arrivée.[^8]
 
@@ -346,11 +346,11 @@ Sens : Ô Allah, fais de la Jannah le lieu où Tu nous accueilles et où nous d
 
 ## Pour Les Adolescents, 13 Ans Et Plus
 
-<!-- reader:start audience="13+" estimated_minutes="6.5" -->
+<!-- reader:start audience="13+" estimated_minutes="7.0" -->
 
 <!-- unit:start id="13+.explanation" kind="explanation" -->
 
-Un camarade d'une autre religion te pose la question, ou quelqu'un lâche en commentaire sous une publication : « Et vous allez manger quoi, dans votre paradis ? » — sur un ton de test, ou de moquerie. Trois réactions s'offrent à toi : t'emporter et te défendre avec force ; te taire, faute de savoir ; ou répondre calmement, en t'appuyant sur une source fiable. Cette leçon te fait découvrir une scène réelle : un savant, l'un des rabbins juifs, vint mettre le Prophète, paix et bénédictions sur lui, à l'épreuve en l'interrogeant sur l'Invisible, et notamment sur ceci : quelle est la toute première faveur offerte aux gens de la Jannah ? La réponse elle-même est saisissante ; mais la manière de répondre est une leçon tout aussi importante.
+Un camarade d'une autre religion te pose la question, ou quelqu'un lâche en commentaire sous une publication : « Et vous allez manger quoi, dans votre paradis ? » — sur un ton de défi, ou de moquerie. Trois réactions s'offrent à toi : t'emporter et te défendre avec force ; te taire, faute de savoir ; ou répondre calmement, en t'appuyant sur une source fiable. Cette leçon te fait découvrir une scène réelle : un savant, l'un des rabbins juifs, vint mettre le Prophète, paix et bénédictions sur lui, à l'épreuve en l'interrogeant sur l'Invisible, et notamment sur ceci : quelle est la toute première faveur offerte aux gens de la Jannah ? La réponse elle-même est saisissante ; mais la manière de répondre est une leçon tout aussi importante.
 
 <!-- unit:end -->
 
@@ -359,7 +359,7 @@ Un camarade d'une autre religion te pose la question, ou quelqu'un lâche en com
 <!-- terminology:start source_id="muslim-315" -->
 
 - **`Le rabbin (hibr)`** — le savant ; le mot désignait les savants des Juifs.[^5]
-- **`Le présent d'accueil (tuhfah)`** — un cadeau réservé à l'invité, par lequel on lui témoigne sa délicatesse ; ici, la toute première chose offerte aux gens de la Jannah.[^5]
+- **`Le présent d'accueil (tuhfah)`** — un cadeau réservé à l'invité, par lequel on lui témoigne de la délicatesse ; ici, la toute première chose offerte aux gens de la Jannah.[^5]
 - **`L'hospitalité (nuzul)`** — ce que l'on prépare pour l'invité à son arrivée ; Allah a appelé *nuzul* l'ensemble des délices de la Jannah.[^6]
 - **`Salsabil (salsabil)`** — le nom d'une source de la Jannah ; on a dit de ce nom qu'il signifie « au cours très rapide », ou bien « fluide et douce ».[^5]
 
@@ -389,7 +389,7 @@ Vient alors la dernière phrase : « Cet homme m'a interrogé sur ce qu'il m'a
 
 <!-- retelling:start source_id="muslim-315" audience="13+" -->
 
-En d'autres termes : un savant a mis le Prophète, paix et bénédictions sur lui, à l'épreuve par des questions sur l'Invisible ; il l'a reçu avec douceur, l'a interrogé sur son intention, puis lui a répondu par ce qu'Allah lui avait révélé : les gens de la Jannah sont accueillis par un présent, puis par un repas, puis par une boisson. La même réponse fut donnée à 'Abd Allah ibn Salam, et elle compta parmi les causes de son entrée en islam.[^1][^2] Le calme, la source sûre et l'honnêteté de rapporter le savoir à son origine : voilà ce qui rend convaincante ta réponse quand on t'interroge sur ta religion.
+En d'autres termes : un savant a mis le Prophète, paix et bénédictions sur lui, à l'épreuve par des questions sur l'Invisible ; celui-ci l'a reçu avec douceur, l'a interrogé sur son intention, puis lui a répondu par ce qu'Allah lui avait révélé : les gens de la Jannah sont accueillis par un présent, puis par un repas, puis par une boisson. La même réponse fut donnée à 'Abd Allah ibn Salam, et elle compta parmi les causes de son entrée en islam.[^1][^2] Le calme, la source sûre et l'honnêteté de rapporter le savoir à son origine : voilà ce qui rend convaincante ta réponse quand on t'interroge sur ta religion.
 
 <!-- retelling:end -->
 
@@ -533,7 +533,7 @@ Sens : Ô Allah, fais de la Jannah l'hospitalité où nous serons reçus comme 
 **Étude du récit — 12 minutes :** lecture du récit, pendant laquelle les élèves remettent les cartes de séquence dans l'ordre (8 minutes) ; puis explication des termes et lecture du verset (4 minutes).
 
 <!-- lesson-plan:instruction -->
-**Enseignement guidé — 8 minutes :** l'enseignant discute les questions 1, 3 et 4 et amène les élèves à voir que le calme a ouvert la porte au dialogue, et que le Prophète, paix et bénédictions sur lui, ne parlait de l'Invisible que selon ce qu'Allah lui avait appris.
+**Enseignement guidé — 8 minutes :** l'enseignant anime la discussion sur les questions 1, 3 et 4 et amène les élèves à voir que le calme a ouvert la porte au dialogue, et que le Prophète, paix et bénédictions sur lui, ne parlait de l'Invisible que selon ce qu'Allah lui avait appris.
 
 <!-- lesson-plan:activity -->
 **Activité — 10 minutes :** chaque élève remplit la carte des trois temps pour un invité précis, puis la montre à un camarade pour vérifier que « le présent d'arrivée » peut réellement être préparé.

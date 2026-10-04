@@ -30,7 +30,7 @@ After this lesson, the learner will be able to:
 
 ## Academic Section for Adults
 
-<!-- reader:start audience="adults" estimated_minutes="6.5" -->
+<!-- reader:start audience="adults" estimated_minutes="7.0" -->
 
 <!-- unit:start id="adults.explanation" kind="explanation" -->
 
@@ -40,7 +40,7 @@ This lesson brings together three texts about the calls with which the believers
 
 1. **The glad tidings remove whatever spoils bliss:** illness, death, old age, and misery, the four things from which no happiness in this world is ever safe.
 2. **The call is congratulation and honor:** not a bare announcement, but a celebration of the people of Jannah after their long wait.
-3. **Inheritance through deeds, under the shade of mercy:** deeds are the means, mercy is what admits, and ranks differ according to deeds.
+3. **Inheritance through deeds, sheltered by mercy:** deeds are the means, mercy is what admits, and ranks differ according to deeds.
 
 The angels' greeting of peace to the people of Jannah was covered in the previous lesson, and the call of everlasting life, when death is slaughtered, is the subject of the next.
 
@@ -106,13 +106,13 @@ Look at the order of the ayah. First the rancor is drawn out of their hearts; th
 
 #### Lesson Explanation
 
-The hadith does not say who the caller is, so we do not name one without evidence. The four glad tidings answer four doors of anxiety that every human being knows: the body falls ill, life comes to an end, strength withers, and living grows hard. This call does not make light of the pain of the sick, the elderly, or the grieving today. Rather, it gives them a truthful horizon that no promise of this world can offer.
+The hadith does not say who the caller is, so we do not name one without evidence. The four glad tidings answer four sources of anxiety that every human being knows: the body falls ill, life comes to an end, strength withers, and living grows hard. This call does not make light of the pain of the sick, the elderly, or the grieving today. Rather, it gives them a truthful horizon that no promise of this world can offer.
 
 <!-- evidence:end -->
 
 ### How Do These Texts Fit Together?
 
-The call in az-Zukhruf assures the servants of safety from fear and grief and grants them permission to enter. The call in al-A'raf congratulates them on their inheritance after their hearts have been cleansed and they have praised their Lord. And the hadith of Muslim spells out the content of the glad tidings in four blessings that never end. The three texts meet on two points: lastingness can be truthfully promised only in the Hereafter, and today's deeds are the means Allah has made the road to that inheritance.
+The call in az-Zukhruf assures the servants of safety from fear and grief and grants them permission to enter. The call in al-A'raf congratulates them on their inheritance after their hearts have been cleansed and they have praised their Lord. And the hadith of Muslim spells out the content of the glad tidings in four blessings that never end. The three texts meet on two points: permanence can be truthfully promised only in the Hereafter, and today's deeds are the means Allah has appointed as the road to that inheritance.
 
 <!-- unit:end -->
 
@@ -146,7 +146,7 @@ Prepare four envelopes, and write on each one a phrase from the call: «تَصِ
 
 ## For Children Ages 4 to 7
 
-<!-- reader:start audience="4-7" estimated_minutes="5.0" -->
+<!-- reader:start audience="4-7" estimated_minutes="6.5" -->
 
 <!-- unit:start id="4-7.explanation" kind="explanation" -->
 
@@ -164,9 +164,9 @@ We feel so happy when we hear good news, like "You're all better!" or "The guest
 
 Rayyan had chickenpox. Little red spots popped up all over him, and they itched and itched. The doctor said, "He needs to stay home for a week."
 
-Rayyan was sad. On Thursday it was his cousin's birthday party, and all the kids would be playing there. "I want to go!" he said. His mom said gently, "If you go, the other children might get sick like you. Let's be patient for a little while." Rayyan was quiet. Then he said, "Okay... I'll be patient." Instead of going, he drew his cousin a card with a ball and a sunshine on it, and his dad took it to him.
+Rayyan was sad. On Thursday it was his cousin's birthday party, and all the kids would be playing there. "I want to go!" he said. His mom said gently, "If you go, the other children might get sick like you. Let's be patient for a little while." Rayyan was quiet. Then he said, "Okay... I'll be patient." Instead of going, he drew his cousin a card with a ball and a sun on it, and his dad took it to him.
 
-The days went by. Rayyan took his medicine and said, "Alhamdulillah." Then one morning the phone rang. It was the doctor. Mom listened, then ran to the door of his room and called out in a big voice, "Everybody, good news! Rayyan is all better!" Dad clapped, his little sister jumped up and down, and Rayyan laughed and laughed.
+The days went by. Rayyan took his medicine and said, "Alhamdulillah." Then one morning the phone rang. It was the doctor. Mom listened, then ran to the door of his room and called out in a loud voice, "Everybody, good news! Rayyan is all better!" Dad clapped, his little sister jumped up and down, and Rayyan laughed and laughed.
 
 Then he asked, "Mom, does that mean I'll never, ever get sick again?"
 
@@ -222,7 +222,7 @@ And then the hadith mentions the words of Allah: this Jannah has been given to y
 
 <!-- activity:start audience="4-7" concept_id="lesson.031.activity.sealed-with-the-call" -->
 
-Your mom or dad gets two envelopes ready for you: one with a picture of a bandage on it, and one with a sad face. On one piece of paper, draw something that sometimes hurts you, and on another, draw something that makes you sad. Put each drawing in its envelope. Your mom or dad reads out on the first envelope, "In Jannah, no being sick, ever," and on the second, "In Jannah, no being sad, ever." Then you seal the envelopes together. After that, choose a kind thing to do for someone in your family who is sick or sad: a glass of water, a drawing, or the words "May Allah make you better."
+Your mom or dad gets two envelopes ready for you: one with a picture of a bandage on it, and one with a sad face. On one piece of paper, draw something that sometimes hurts you, and on another, draw something that makes you sad. Put each drawing in its envelope. Your mom or dad reads out the words on the first envelope, "In Jannah, no being sick, ever," and on the second, "In Jannah, no being sad, ever." Then the two of you seal the envelopes together. After that, choose a kind thing to do for someone in your family who is sick or sad: a glass of water, a drawing, or the words "May Allah make you better."
 
 <!-- activity:end -->
 
@@ -252,11 +252,11 @@ What it means, in simple words: O Allah, keep us safe from being sick here, brin
 
 ## For Children Ages 8 to 12
 
-<!-- reader:start audience="8-12" estimated_minutes="5.5" -->
+<!-- reader:start audience="8-12" estimated_minutes="7.0" -->
 
 <!-- unit:start id="8-12.explanation" kind="explanation" -->
 
-Glad tidings (*bisharah*) are good news that makes your heart happy. In this world we sometimes exaggerate and say "forever!" when forever isn't ours to promise. The people of Jannah hear glad tidings that are completely true. Allah says: `O My servants, no fear shall be upon you this Day, nor shall you grieve`,[^1] and He says about them: `And they will be called: "This is Jannah, which you have been made to inherit for what you used to do."`[^4] The scholar as-Sa'di explained that they are called "as congratulation to them, and as an honor."[^5]
+Glad tidings (*bisharah*) are good news that makes your heart happy. In this world we sometimes exaggerate and say "forever!" when forever isn't ours to promise. The people of Jannah hear glad tidings that are completely true. Allah says: `O My servants, no fear shall be upon you this Day, nor shall you grieve`,[^1] and He says about them: `And they will be called: "This is Jannah, which you have been made to inherit for what you used to do."`[^4] The Qur'an commentator as-Sa'di explained that they are called "as congratulation to them, and as an honor."[^5]
 
 <!-- unit:end -->
 
@@ -274,7 +274,7 @@ That evening Mr. Kamal looked over the announcement scripts. He didn't cross any
 
 Hamza thought for a long time. Next year a different team might win. And the kids at the other school would hear what he said from their brothers and sisters; how would he feel if someone called him "a loser forever"? Then he remembered a hadith his dad had once read him about a call to the people of Jannah, where the word "ever" comes again and again. So he opened the hadith book with his dad and read it, word for word, from Sahih Muslim.
 
-The next morning Hamza stood at the microphone and said, "Congratulations to our team on winning the trophy this year, and thank you to the other team for playing a clean game." Then he added a new segment he called "Good News That Never Ends," and in it he read: «إِنَّ لَكُمْ أَنْ تَصِحُّوا فَلَا تَسْقَمُوا أَبَدًا», "It is yours to be healthy and never fall ill, ever."[^7] Then he said, "That's the kind of 'ever' that's actually true."
+The next morning Hamza stood at the microphone and said, "Congratulations to our team on winning the trophy this year, and thank you to the other team for playing fair." Then he added a new segment he called "Good News That Never Ends," and in it he read: «إِنَّ لَكُمْ أَنْ تَصِحُّوا فَلَا تَسْقَمُوا أَبَدًا», "It is yours to be healthy and never fall ill, ever."[^7] Then he said, "That's the kind of 'ever' that's actually true."
 
 At recess Ziyad was annoyed. "You killed the hype!" he said. But a little third grader came up to Hamza and asked quietly, "My grandpa's in the hospital... is it true that the people of Jannah never get sick, ever?" Hamza answered calmly, "That's what the Prophet, peace and blessings be upon him, told us about the people of Jannah. And right now, let's make du'a for your grandpa to get better." And they made du'a for him together.
 
@@ -365,7 +365,7 @@ What it means: O Allah, give us well-being in this world, make us among the peop
 
 ## For Teens, Ages 13+
 
-<!-- reader:start audience="13+" estimated_minutes="6.0" -->
+<!-- reader:start audience="13+" estimated_minutes="7.0" -->
 
 <!-- unit:start id="13+.explanation" kind="explanation" -->
 
@@ -387,9 +387,9 @@ Joud tried the cream for a week. It was a good moisturizer, nothing more. Her fr
 
 That night, as usual, she sat down to read to her grandmother, who lives with the family. Her grandmother's hands trembled around her cup of tea as she asked Joud to read to her from the hadith book, and Joud's eyes fell on the hadith of Sahih Muslim: «إِنَّ لَكُمْ أَنْ تَشِبُّوا فَلَا تَهْرَمُوا أَبَدًا», "It is yours to be young and never grow old, ever." Her grandmother smiled and said, "That's the only promise of eternal youth I believe."
 
-Joud stopped. She felt that the line she'd been asked to say was mocking, without meaning to, her grandmother's hands, and every girl who would look in the mirror and panic at her first wrinkle. In the morning she wrote to the company: "I can say it's a good moisturizer, but I can't promise anyone they'll never age." The reply came two days later: "Sorry, the script cannot be changed."
+Joud stopped. She felt that the line she'd been asked to say was, without meaning to, mocking her grandmother's hands and every girl who would look in the mirror and panic at her first wrinkle. In the morning she wrote to the company: "I can say it's a good moisturizer, but I can't promise anyone they'll never age." The reply came two days later: "Sorry, the script cannot be changed."
 
-Joud lost the deal. "You're way too much of a perfectionist," Rana said. Joud didn't post anything about her decision; she didn't want to collect likes for taking a stand. But she started tutoring the little girl next door in math, to save up for the laptop slowly.
+Joud lost the deal. "You're way too idealistic," Rana said. Joud didn't post anything about her decision; she didn't want to collect likes for taking a stand. But she started tutoring the little girl next door in math, to save up for the laptop slowly.
 
 In her private journal she wrote: "The word 'ever' is a trust. I won't sell it." Underneath she added: "For what you used to do." And she decided to make her evening hour of reading to her grandmother one of the deeds through which she hopes to hear that call.
 
@@ -509,7 +509,7 @@ This du'a brings together two requests: well-being in this world, which is a leg
 **Differentiation:** For beginners, the hadith of Muslim and the ayah of al-A'raf are enough. Advanced learners are asked to compare how the hadith is linked to the ayah of al-A'raf in Muslim and to the ayah of az-Zukhruf in at-Tirmidhi, and to explain at-Tirmidhi's remark about the narration that stops at a Companion (*mawquf*).
 
 <!-- lesson-plan:safeguards -->
-**Teaching Cautions:** Do not name the caller in the hadith without evidence. Do not declare with certainty that any particular person is among the people of Jannah. Anyone in the group who is ill or recently bereaved must not be asked to reveal what is in their envelope. Ibn al-Qayyim, in his chapter on "the caller of Jannah," gathers authentic hadiths together with weak reports, among them a report from Abu Musa al-Ash'ari whose chain turns on a narrator whose narrations are rejected (*matruk*), so present only what is established.[^8] Leave the slaughter of death and the call of everlasting life to the next lesson, and the call of Allah's good pleasure (*ridwan*) and the vision of Allah to their own lessons.
+**Teaching Cautions:** Do not name the caller in the hadith without evidence. Do not declare with certainty that any particular person is among the people of Jannah. Anyone in the group who is ill or recently bereaved must not be asked to reveal what is in their envelope. Ibn al-Qayyim, in his chapter on "the caller of Jannah," gathers authentic hadiths together with weak reports, among them a report from Abu Musa al-Ash'ari whose chain hinges on a narrator whose narrations are rejected (*matruk*), so present only what is established.[^8] Leave the slaughter of death and the call of everlasting life to the next lesson, and the call of Allah's good pleasure (*ridwan*) and the vision of Allah to their own lessons.
 
 <!-- lesson-plan:end -->
 
@@ -569,7 +569,7 @@ This du'a brings together two requests: well-being in this world, which is a leg
 **Studying the Evidence — 10 minutes:** Read the ayah of az-Zukhruf (43:68), then retell the hadith and have the students read its wording. Explain the terms, and connect the end of the hadith to the ayah of al-A'raf and as-Sa'di's phrase "as congratulation to them, and as an honor."
 
 <!-- lesson-plan:instruction -->
-**Guided Instruction — 10 minutes:** Read Hamza's story, pausing at Mr. Kamal's question: "Why didn't he cross out the word himself?" Then the students correct the sample announcement script in pairs.
+**Guided Instruction — 10 minutes:** Read Hamza's story, pausing at Mr. Kamal's note to ask: "Why didn't he cross out the word himself?" Then the students correct the sample announcement script in pairs.
 
 <!-- lesson-plan:activity -->
 **Activity — 10 minutes:** Students do the envelope activity as described in the activity unit, and each one writes a plan for an act of mercy and the name of the adult who will go with them.
@@ -634,6 +634,6 @@ This du'a brings together two requests: well-being in this world, which is a leg
 [^5]: As-Sa'di, *Taysir al-Karim ar-Rahman*, tafsir of Surah al-A'raf, ayah 43, which describes the call as "congratulation to them, an honor, a greeting, and a mark of respect," and quotes one of the *Salaf* on inheriting through deeds: [quran.ksu.edu.sa/tafseer/saadi/sura7-aya43.html](https://quran.ksu.edu.sa/tafseer/saadi/sura7-aya43.html).
 [^6]: Ibn Kathir, *Tafsir al-Qur'an al-'Azim*, tafsir of Surah al-A'raf, ayah 43: "That is: because of your deeds, mercy reached you, so you entered Jannah, and you took up your dwellings in it according to your deeds": [quran.ksu.edu.sa/tafseer/katheer/sura7-aya43.html](https://quran.ksu.edu.sa/tafseer/katheer/sura7-aya43.html).
 [^7]: Sahih Muslim, Book of Paradise, Its Description, Its Bliss, and Its People, hadith 2837, through al-Agharr Abu Muslim from Abu Sa'id al-Khudri and Abu Hurayrah, may Allah be pleased with them both; an authentic (*sahih*) hadith: [sunnah.com/muslim:2837](https://sunnah.com/muslim:2837). The text is given without its chain of narration; Muslim's wording is «فَلَا تَبْتَئِسُوا». At-Tirmidhi also recorded it, in the Chapters on the Tafsir of the Qur'an, hadith 3246, with the wording «فَلَا تَبْأَسُوا», linking it to the words of Allah `That is the Jannah you have been made to inherit for what you used to do`, and he said: "Ibn al-Mubarak and others narrated this hadith from ath-Thawri without tracing it back to the Prophet." Ad-Daraqutni said: "Tracing it back to the Prophet is correct" (*al-'Ilal* 11/240-241, as cited by the editor of *Hadi al-Arwah*, 'Ata'at al-'Ilm edition). The narration relied on here is therefore the one traced back to the Prophet in Sahih Muslim: [sunnah.com/tirmidhi:3246](https://sunnah.com/tirmidhi:3246).
-[^8]: Ibn Qayyim al-Jawziyyah, *Hadi al-Arwah ila Bilad al-Afrah*, Chapter Forty-Three: On the call that the caller of Jannah proclaims within it: [shamela.ws/book/13652/390](https://shamela.ws/book/13652/390); and Abu Nu'aym al-Asbahani, *Sifat al-Jannah*, Chapter on what they are called with when they enter it, of the great glad tidings and the sublime gifts: [shamela.ws/book/21602/374](https://shamela.ws/book/21602/374). This chapter contains authentic hadiths and weak reports, among them the report of Abu Musa al-Ash'ari, which the editor noted turns on Abu Bakr al-Hudhali, whose narrations are rejected (*matruk*); this lesson relies only on what is established.
+[^8]: Ibn Qayyim al-Jawziyyah, *Hadi al-Arwah ila Bilad al-Afrah*, Chapter Forty-Three: On the call that the caller of Jannah proclaims within it: [shamela.ws/book/13652/390](https://shamela.ws/book/13652/390); and Abu Nu'aym al-Asbahani, *Sifat al-Jannah*, Chapter on what they are called with when they enter it, of the great glad tidings and the sublime gifts: [shamela.ws/book/21602/374](https://shamela.ws/book/21602/374). This chapter contains authentic hadiths and weak reports, among them the report of Abu Musa al-Ash'ari, which the editor noted hinges on Abu Bakr al-Hudhali, whose narrations are rejected (*matruk*); this lesson relies only on what is established.
 
 <!-- references:end -->

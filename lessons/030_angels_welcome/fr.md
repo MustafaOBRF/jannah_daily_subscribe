@@ -30,7 +30,7 @@ Au terme de cette leçon, l'apprenant sera capable de :
 
 ## Section Académique Pour Adultes
 
-<!-- reader:start audience="adults" estimated_minutes="6.5" -->
+<!-- reader:start audience="adults" estimated_minutes="7.0" -->
 
 <!-- unit:start id="adults.explanation" kind="explanation" -->
 
@@ -68,7 +68,7 @@ Al-Baghawi, qu'Allah lui fasse miséricorde, rapporte un contexte pour cette que
 
 #### Explication De La Leçon
 
-Une même question, deux réponses, deux destins. Celui qui a vu dans la Révélation « du bien » et en a vécu entend, au dernier instant de sa vie terrestre, ce mot : « Paix ». Cette salutation ne récompense donc pas un mot prononcé du bout des lèvres, mais une vie devenue bonne et pure, dans le cœur, la parole et les actes.
+Une même question, deux réponses, deux destins. Celui qui a vu dans la Révélation « du bien » et a vécu selon elle entend, au dernier instant de sa vie terrestre, ce mot : « Paix ». Cette salutation ne récompense donc pas un mot prononcé du bout des lèvres, mais une vie devenue bonne et pure, dans le cœur, la parole et les actes.
 
 <!-- evidence:end -->
 
@@ -162,7 +162,7 @@ Ici-bas, le salam est une œuvre qui trace le chemin ; dans la Jannah, il est l
 
 ### Comment Ces Textes S'assemblent-Ils ?
 
-Les versets dessinent un accueil continu, comme un voyage : la paix à la mort, puis à la porte, puis dans les demeures. Et chaque salutation nomme une cause : la pureté, les œuvres, la patience. Les deux hadiths relient cette salutation à notre vie : c'est la salutation d'Adam et de sa descendance, et la répandre aujourd'hui fait naître l'amour mutuel, qui relève de la foi complète. Que celui qui souhaite être accueilli par la paix devienne, dès maintenant, l'un de ses gens.
+Les versets dessinent un accueil continu, comme un voyage : la paix à la mort, puis à la porte, puis dans les demeures. Et chaque salutation nomme une cause : la pureté, les œuvres, la patience. Les deux hadiths relient cette salutation à notre vie : c'est la salutation d'Adam et de sa descendance, et la répandre aujourd'hui fait naître l'amour mutuel, qui relève de la foi complète. Que celui qui souhaite être accueilli par la paix soit, dès maintenant, de ceux qui la vivent.
 
 <!-- unit:end -->
 
@@ -174,7 +174,7 @@ Les versets dessinent un accueil continu, comme un voyage : la paix à la mort,
 2. Citez les trois moments où les anges saluent les gens de la Jannah, ainsi que la cause que nomme chacune de ces salutations.
 3. Comment concilier « pour ce que vous faisiez » avec le fait que la Jannah s'obtient par la miséricorde d'Allah et non en paiement des œuvres ?
 4. Qu'apporte à votre compréhension de l'art de rendre le salut le fait que les anges aient ajouté « et la miséricorde d'Allah » en répondant à Adam ?
-5. Quelle relation, dans votre vie, a besoin aujourd'hui que vous soyez le premier à y apporter le salam ?
+5. Dans quelle relation de votre vie devriez-vous, aujourd'hui, être le premier à apporter le salam ?
 
 <!-- unit:end -->
 
@@ -194,7 +194,7 @@ Pendant sept jours, prononcez le salam en entier chaque fois que vous entrez che
 
 ## Pour Les Enfants De 4 À 7 Ans
 
-<!-- reader:start audience="4-7" estimated_minutes="5.0" -->
+<!-- reader:start audience="4-7" estimated_minutes="5.5" -->
 
 <!-- unit:start id="4-7.explanation" kind="explanation" -->
 
@@ -228,7 +228,7 @@ Et Allah nous a appris que, lorsque la vie de ces gens bons et purs se termine s
 
 <!-- retelling:start source_id="quran-16-30-32" audience="4-7" -->
 
-Tout simplement, cela veut dire : ceux qui ont dit la bonne parole et qui ont fait le bien, les anges les accueillent avec la plus belle des salutations, « la Paix », et leur annoncent la Jannah. Un cœur bon et une langue bonne mènent à une belle salutation.[^1]
+Tout simplement, cela veut dire : ceux qui ont dit la bonne parole et qui ont fait le bien, les anges les accueillent avec la plus belle des salutations, « la Paix », et leur annoncent la Jannah. Un cœur bon et de bonnes paroles mènent à une belle salutation.[^1]
 
 <!-- retelling:end -->
 
@@ -269,7 +269,7 @@ Avec ton papa ou ta maman, entraîne-toi à dire : « *As-salamu 'alaykum wa r
 
 > اللَّهُمَّ طَيِّبْ قُلُوبَنَا وَأَلْسِنَتَنَا وَأَعْمَالَنَا، وَاجْعَلْنَا مِمَّنْ تَتَلَقَّاهُمُ الْمَلَائِكَةُ بِالسَّلَامِ عِنْدَ دُخُولِ الْجَنَّةِ.
 
-Ce que cela veut dire : Ô Allah, rends bons nos cœurs, nos paroles et nos actions, et fais de nous ceux que les anges accueillent en leur disant « Paix sur vous » quand ils entrent dans la Jannah.
+Ce que cela veut dire : Ô Allah, rends bons nos cœurs, nos paroles et nos actions, et fais que nous soyons de ceux que les anges accueillent en leur disant « Paix sur vous » quand ils entrent dans la Jannah.
 
 <!-- bedtime-dua:end -->
 
@@ -279,7 +279,7 @@ Ce que cela veut dire : Ô Allah, rends bons nos cœurs, nos paroles et nos act
 
 ## Pour Les Enfants De 8 À 12 Ans
 
-<!-- reader:start audience="8-12" estimated_minutes="6.0" -->
+<!-- reader:start audience="8-12" estimated_minutes="6.5" -->
 
 <!-- unit:start id="8-12.explanation" kind="explanation" -->
 
@@ -312,7 +312,7 @@ Certains exégètes racontent que les tribus arabes envoyaient un homme à La Me
 
 Le Coran, lui, nous a conservé la question et deux réponses. Quand on a demandé aux négateurs : « Qu'a fait descendre votre Seigneur ? », ils ont répondu : « Des légendes des anciens ! », c'est-à-dire de vieilles histoires qu'on se répète.[^2] Mais quand on a posé la même question aux pieux, ils ont répondu : « Du bien ! », c'est-à-dire : Il a fait descendre du bien, de la miséricorde et de la bénédiction pour celui qui le suit.[^1]
 
-Deux réponses tiennent en deux lignes, mais leurs conséquences sont immenses. Allah a promis à ceux qui font le bien une belle part dès ce monde, et une demeure dans l'au-delà meilleure encore : les Jardins d'Éden, sous lesquels coulent les rivières, où ils auront tout ce qu'ils désireront. Puis Il a décrit l'instant où ils rencontrent les anges : « Ceux dont les anges reprennent l'âme alors qu'ils sont bons et purs, en leur disant : “Paix sur vous ! Entrez dans la Jannah pour ce que vous faisiez.” »[^1]
+Deux réponses qui tiennent en deux lignes, mais leurs conséquences sont immenses. Allah a promis à ceux qui font le bien une belle part dès ce monde, et une demeure dans l'au-delà meilleure encore : les Jardins d'Éden, sous lesquels coulent les rivières, où ils auront tout ce qu'ils désireront. Puis Il a décrit l'instant où ils rencontrent les anges : « Ceux dont les anges reprennent l'âme alors qu'ils sont bons et purs, en leur disant : “Paix sur vous ! Entrez dans la Jannah pour ce que vous faisiez.” »[^1]
 
 Remarque bien : ce « Du bien ! » n'était pas une formule de politesse. Il venait d'un cœur qui voyait dans la Révélation un cadeau et qui la mettait en pratique ; c'est ainsi que celui qui l'a prononcé est devenu l'un des « bons et purs », et que les anges l'ont accueilli par la paix.
 
@@ -343,7 +343,7 @@ Autrement dit : on a interrogé les gens au sujet du Coran. Les uns l'ont rejet
 
 <!-- activity:start audience="8-12" concept_id="lesson.030.activity.first-and-fuller-salam" -->
 
-Dessine une carte avec cinq lieux : la maison, la classe, la mosquée, le terrain de jeu ou le bus, et la maison des voisins ou de la famille. Pendant une semaine, sois, dans chacun de ces lieux, le premier à saluer quelqu'un que tu connais ; une fois par jour, réponds par une salutation plus complète que celle que tu as reçue ; et fais une marque sur le lieu chaque fois que tu réussis. À la fin de la semaine, écris deux phrases : qu'est-ce qui a changé quand c'est toi qui as commencé ? Et avec qui as-tu eu le plus de mal à saluer le premier, et pourquoi ? Ne salue une personne que tu ne connais pas qu'en présence de ton père, de ta mère ou de ton enseignant.
+Dessine une carte avec cinq lieux : la maison, la classe, la mosquée, le terrain de jeu ou le bus, et la maison des voisins ou de la famille. Pendant une semaine, sois, dans chacun de ces lieux, le premier à saluer quelqu'un que tu connais ; une fois par jour, réponds par une salutation plus complète que celle que tu as reçue ; et fais une marque sur le lieu chaque fois que tu réussis. À la fin de la semaine, écris deux phrases : qu'est-ce qui a changé quand c'est toi qui as commencé ? Et qui as-tu eu le plus de mal à saluer en premier, et pourquoi ? Ne salue une personne que tu ne connais pas qu'en présence de ton père, de ta mère ou de ton enseignant.
 
 <!-- activity:end -->
 
@@ -369,13 +369,13 @@ Sens : Ô Allah, purifie nos cœurs, rends bonnes nos paroles et nos actions, e
 
 ## Pour Les Adolescents, 13 Ans Et Plus
 
-<!-- reader:start audience="13+" estimated_minutes="6.5" -->
+<!-- reader:start audience="13+" estimated_minutes="7.0" -->
 
 <!-- unit:start id="13+.explanation" kind="explanation" -->
 
 Chaque jour, d'une manière ou d'une autre, on demande au musulman : « C'est quoi, cette religion que tu suis ? » La question peut venir d'un camarade curieux, d'un commentaire moqueur ou d'une vidéo qui donne de l'islam une image déformée. Et ta réponse, par tes mots comme par ton comportement, dit quelque chose de toi.
 
-Le Coran rapporte une question semblable, posée il y a quatorze siècles, et il relie la réponse sincère qu'on y a donnée au bout du chemin : des anges qui accueillent ceux qui l'ont donnée par la paix. Le Coran mentionne cet accueil à trois moments : à la mort ;[^1] aux portes de la Jannah, quand les gardiens disent : « Paix sur vous ! Vous avez été bons et purs » ;[^5] et dans les demeures, quand les anges entrent par chaque porte : « Paix sur vous, pour ce que vous avez enduré avec patience ! »[^6] Et c'est la salutation même qu'Adam reçut des anges au tout début de sa création.[^7]
+Le Coran rapporte une question semblable, posée il y a quatorze siècles, et il relie la réponse sincère qu'on y a donnée au bout du chemin : des anges qui accueillent par la paix ceux qui l'ont donnée. Le Coran mentionne cet accueil à trois moments : à la mort ;[^1] aux portes de la Jannah, quand les gardiens disent : « Paix sur vous ! Vous avez été bons et purs » ;[^5] et dans les demeures, quand les anges entrent par chaque porte : « Paix sur vous, pour ce que vous avez enduré avec patience ! »[^6] Et c'est la salutation même qu'Adam reçut des anges au tout début de sa création.[^7]
 
 <!-- unit:end -->
 
@@ -402,15 +402,15 @@ Imagine La Mecque pendant la saison du pèlerinage : des tribus venues de toute
 
 Mais certains refusaient de rentrer chez eux avec un jugement d'emprunt : « Je serais le pire des émissaires si je rentrais auprès des miens sans être entré à La Mecque pour le rencontrer. » L'un d'eux entra donc, rencontra les Compagnons du Prophète, paix et bénédictions sur lui, et ceux-ci lui attestèrent sa véracité et qu'il était un prophète envoyé par Allah.[^3]
 
-Le Coran, lui, a conservé les deux réponses. On demanda aux négateurs : « Qu'a fait descendre votre Seigneur ? » Ils répondirent : « Des légendes des anciens ! » ; Ibn Kathir commente : ils se sont dérobés à la question.[^2] On posa la question aux pieux, et ils répondirent d'un seul mot : « Du bien », c'est-à-dire une miséricorde, une bénédiction et une grâce pour qui le suit.[^1] Leur réponse n'était ni un discours ni une polémique : c'était une clarté sincère, dans un environnement qui ne leur était pas favorable.
+Le Coran, lui, a conservé les deux réponses. On demanda aux négateurs : « Qu'a fait descendre votre Seigneur ? » Ils répondirent : « Des légendes des anciens ! » ; Ibn Kathir commente : ils se sont dérobés à la question.[^2] On posa la question aux pieux, et ils répondirent d'un seul mot : « Du bien », c'est-à-dire une miséricorde, une bénédiction et une grâce pour qui le suit.[^1] Leur réponse n'était ni un discours ni une polémique : c'était une parole claire et sincère, dans un environnement qui ne leur était pas favorable.
 
 Puis le Coran dévoile où mènent les deux chemins. À ceux qui ont fait le bien, une belle part en ce monde ; l'au-delà est meilleur encore, avec les Jardins d'Éden où ils auront tout ce qu'ils désireront. Et lorsque vient le dernier instant : « Ceux dont les anges reprennent l'âme alors qu'ils sont bons et purs, en leur disant : “Paix sur vous ! Entrez dans la Jannah pour ce que vous faisiez.” »[^1]
 
-Remarque l'écho : celui qui a dit de la Révélation « Du bien » et en a vécu entend, au bout du chemin, « Paix ». As-Sa'di précise que les œuvres sont la cause de l'entrée, mais que celle-ci leur a été accordée par la miséricorde d'Allah, non par leur propre force ni leur propre pouvoir.[^4]
+Remarque l'écho : celui qui a dit de la Révélation « Du bien » et a vécu selon elle entend, au bout du chemin, « Paix ». As-Sa'di précise que les œuvres sont la cause de l'entrée, mais que celle-ci leur a été accordée par la miséricorde d'Allah, non par leur propre force ni leur propre pouvoir.[^4]
 
 <!-- retelling:start source_id="quran-16-30-32" audience="13+" -->
 
-En d'autres termes : au milieu de jugements tout faits qui prêtaient au Prophète, paix et bénédictions sur lui, les pires qualificatifs, les pieux ont répondu à la question « Qu'a fait descendre votre Seigneur ? » par un mot sincère, « Du bien », et ils ont vécu selon ce qu'ils avaient dit. Allah nous a alors appris que les anges reprennent leur âme alors qu'ils sont bons et purs, et leur disent : « Paix sur vous ! Entrez dans la Jannah pour ce que vous faisiez. »[^1][^2]
+En d'autres termes : au milieu de jugements tout faits qui prêtaient au Prophète, paix et bénédictions sur lui, les pires qualificatifs, les pieux ont répondu à la question « Qu'a fait descendre votre Seigneur ? » par un mot sincère, « Du bien », et ils ont vécu selon ce qu'ils avaient dit. Et Allah nous a appris que les anges reprennent leur âme alors qu'ils sont bons et purs, et leur disent : « Paix sur vous ! Entrez dans la Jannah pour ce que vous faisiez. »[^1][^2]
 
 <!-- retelling:end -->
 
@@ -452,7 +452,7 @@ Choisis, sans le dire à personne, quelqu'un avec qui la relation s'est refroidi
 
 > اللَّهُمَّ طَيِّبْ قُلُوبَنَا وَأَلْسِنَتَنَا وَأَعْمَالَنَا، وَاجْعَلْنَا مِمَّنْ تَتَلَقَّاهُمُ الْمَلَائِكَةُ بِالسَّلَامِ عِنْدَ دُخُولِ الْجَنَّةِ.
 
-Sens : Ô Allah, rends nos cœurs purs, nos paroles sincères et nos actions désintéressées, et compte-nous parmi ceux que les anges accueillent par la paix lorsqu'ils entrent dans la Jannah, afin que le dernier mot que nous entendions en ce monde, et le premier que nous entendions dans l'autre, soit : « Paix ».
+Sens : Ô Allah, rends nos cœurs purs, nos paroles sincères et nos actions accomplies pour Toi seul, et compte-nous parmi ceux que les anges accueillent par la paix lorsqu'ils entrent dans la Jannah, afin que le dernier mot que nous entendions en ce monde, et le premier que nous entendions dans l'autre, soit : « Paix ».
 
 <!-- bedtime-dua:end -->
 

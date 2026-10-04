@@ -30,11 +30,11 @@ Después de esta lección, el aprendiz será capaz de:
 
 ## Sección académica para adultos
 
-<!-- reader:start audience="adults" estimated_minutes="6.5" -->
+<!-- reader:start audience="adults" estimated_minutes="7.0" -->
 
 <!-- unit:start id="adults.explanation" kind="explanation" -->
 
-En este mundo casi ninguna buena noticia llega sin mezcla. Al enfermo se le anuncia que está curado, y en la misma frase se le advierte que vigile una recaída; quien aprueba celebra su éxito, y enseguida empieza a inquietarle lo que vendrá después; el joven disfruta de su fuerza sabiendo que algún día se apagará. Toda buena noticia de esta vida lleva dentro un "pero" que solo espera su turno. Las buenas nuevas que escucha la gente del Paraíso, en cambio, terminan con una palabra que derriba todos los "peros": «jamás».
+En este mundo casi ninguna buena noticia llega sin mezcla. Al enfermo se le anuncia que está curado, y acto seguido se le advierte que vigile una recaída; quien aprueba celebra su éxito, y enseguida empieza a inquietarle lo que vendrá después; el joven disfruta de su fuerza sabiendo que algún día se apagará. Toda buena noticia de esta vida lleva dentro un "pero" que solo espera su turno. Las buenas nuevas que escucha la gente del Paraíso, en cambio, terminan con una palabra que derriba todos los "peros": «jamás».
 
 Esta lección reúne tres textos sobre las proclamas con las que se recibe a los creyentes: la proclama de seguridad de la sura Az-Zujruf, la proclama de felicitación y de herencia de la sura Al-A'raf, y el hadiz de Sahih Muslim, que detalla el contenido de la proclama en cuatro buenas nuevas. De todos ellos juntos se desprenden tres verdades:
 
@@ -152,11 +152,11 @@ Prepara cuatro sobres y escribe en cada uno unas palabras de la proclama: «Esta
 
 ## Para niños de 4 a 7 años
 
-<!-- reader:start audience="4-7" estimated_minutes="5.0" -->
+<!-- reader:start audience="4-7" estimated_minutes="6.5" -->
 
 <!-- unit:start id="4-7.explanation" kind="explanation" -->
 
-¡Qué contentos nos ponemos cuando oímos una noticia bonita, como "¡ya estás curado!" o "¡han llegado las visitas!"! La gente del Paraíso, cuando entra en él, oye las noticias más bonitas de todas: ya nunca más estarás enfermo, ni cansado, ni triste. ¡Nunca, nunca jamás! Y Allah, el Altísimo, les dice a Sus siervos creyentes: {¡Oh siervos Míos! Hoy no tendréis nada que temer ni estaréis tristes}.[^1]
+¡Qué contentos nos ponemos cuando oímos una noticia bonita, como "¡ya estás curado!" o "¡han llegado las visitas!"! La gente del Paraíso, cuando entra en él, oye las noticias más bonitas de todas: ya nunca más habrá enfermedad, ni cansancio, ni tristeza. ¡Nunca, nunca jamás! Y Allah, el Altísimo, les dice a Sus siervos creyentes: {¡Oh siervos Míos! Hoy no tendréis nada que temer ni estaréis tristes}.[^1]
 
 <!-- unit:end -->
 
@@ -258,7 +258,7 @@ En palabras sencillas: Oh Allah, protégenos de la enfermedad aquí, llévanos a
 
 ## Para niños de 8 a 12 años
 
-<!-- reader:start audience="8-12" estimated_minutes="5.5" -->
+<!-- reader:start audience="8-12" estimated_minutes="7.0" -->
 
 <!-- unit:start id="8-12.explanation" kind="explanation" -->
 
@@ -369,7 +369,7 @@ Su sentido: Oh Allah, concédenos bienestar en este mundo, cuéntanos entre la g
 
 ## Para adolescentes de 13+
 
-<!-- reader:start audience="13+" estimated_minutes="6.0" -->
+<!-- reader:start audience="13+" estimated_minutes="7.0" -->
 
 <!-- unit:start id="13+.explanation" kind="explanation" -->
 
@@ -389,11 +389,11 @@ Yud tiene dieciséis años y publica vídeos cortos sobre cómo organizar un dí
 
 Yud probó la crema durante una semana: era una buena crema hidratante, nada más. Su amiga Rana le dijo: "Todos los influencers dicen cosas así; es solo marketing. Nadie se lo va a tomar al pie de la letra". Sonaba convincente, y Yud estuvo a punto de aceptar.
 
-Esa noche, como de costumbre, se sentó a leerle a su abuela, que vive con ellos. A la abuela le temblaban las manos al sostener la taza de té, y le pidió a Yud que le leyera del libro de hadices. A Yud se le fueron los ojos al hadiz de Sahih Muslim: «Os corresponde ser jóvenes, y no envejeceréis jamás». La abuela sonrió y dijo: "Es la única promesa de juventud eterna que me creo".
+Esa noche, como de costumbre, se sentó a leerle a su abuela, que vive con ellos. A la abuela le temblaban las manos al sostener la taza de té, y le pidió a Yud que le leyera del libro de hadices. La mirada de Yud fue a dar con el hadiz de Sahih Muslim: «Os corresponde ser jóvenes, y no envejeceréis jamás». La abuela sonrió y dijo: "Es la única promesa de juventud eterna que me creo".
 
 Yud se quedó parada. Sintió que la frase que le pedían se burlaba, sin querer, de las manos de su abuela, y de cada chica que se mirara al espejo con miedo a su primera arruga. Por la mañana escribió a la marca: "Puedo decir que es una buena crema hidratante, pero no puedo prometerle a nadie que no va a envejecer nunca". La respuesta llegó dos días después: "Lo sentimos, el texto no se puede modificar".
 
-Yud perdió el contrato, y Rana le dijo: "Eres demasiado perfeccionista". Yud no publicó nada sobre su decisión; no quería ganarse aplausos por su postura. Pero empezó a dar clases de matemáticas a su vecina pequeña para ir reuniendo, poco a poco, el dinero del ordenador.
+Yud perdió el contrato, y Rana le dijo: "Eres demasiado idealista". Yud no publicó nada sobre su decisión; no quería ganarse aplausos por su postura. Pero empezó a dar clases de matemáticas a su vecina pequeña para ir reuniendo, poco a poco, el dinero del ordenador.
 
 En su cuaderno personal escribió: "«Jamás» es una palabra que se me ha confiado. No la voy a vender". Y debajo añadió: "Por lo que hacíais". Y decidió que la hora de lectura con su abuela, cada noche, sería una de las obras con las que esperaba oír aquella proclama.
 
@@ -451,7 +451,7 @@ Piénsalo: las cuatro cosas sobre las que hoy se construyen tanta ansiedad y tan
 
 <!-- activity:start audience="13+" concept_id="lesson.031.activity.sealed-with-the-call" -->
 
-Escribe en cuatro sobres las cuatro expresiones de la proclama del hadiz. En papelitos, y sin que nadie lo vea, escribe tus miedos reales: la salud, una pérdida, la imagen de tu cuerpo, tu futuro económico; mete cada papel en su sobre y ciérralo sin que nadie lo lea. Después elige un solo sobre, piensa en alguien que esté viviendo ahora esa situación, y en el plazo de una semana haz algo real por esa persona: pasar tiempo con un familiar mayor, escribirle un mensaje a un amigo enfermo o ayudar a alguien que lo está pasando mal económicamente. Al final, escribe un párrafo breve: ¿qué cambia la proclama en tu manera de afrontar ese miedo?
+Escribe en cuatro sobres las cuatro expresiones de la proclama del hadiz. En papelitos, y en secreto, escribe tus miedos reales: la salud, una pérdida, la imagen de tu cuerpo, tu futuro económico; mete cada papel en su sobre y ciérralo sin que nadie lo lea. Después elige un solo sobre, piensa en alguien que esté viviendo ahora esa situación, y en el plazo de una semana haz algo real por esa persona: pasar tiempo con un familiar mayor, escribirle un mensaje a un amigo enfermo o ayudar a alguien que lo está pasando mal económicamente. Al final, escribe un párrafo breve: ¿qué cambia la proclama en tu manera de afrontar ese miedo?
 
 <!-- activity:end -->
 
@@ -495,7 +495,7 @@ Esta súplica une la petición de bienestar en este mundo, que es legítima, con
 **Preparación:** el docente repasa el tafsir de as-Sa'di y de Ibn Kazir sobre Az-Zujruf (68-72) y Al-A'raf (43), así como el hadiz de Muslim 2837 junto con la versión de at-Tirmidi 3246, y escribe en cada sobre una de las cuatro expresiones de la proclama.
 
 <!-- lesson-plan:opening -->
-**Apertura — 5 minutos:** el docente pregunta: «¿Cuál es la última buena noticia que han recibido? ¿Y cuál fue el "pero" que llegó detrás?». Escucha tres respuestas y luego lee el hadiz de Muslim sin comentarlo.
+**Apertura — 5 minutos:** el docente pregunta: «¿Cuál es la última buena noticia que habéis recibido? ¿Y cuál fue el "pero" que llegó detrás?». Escucha tres respuestas y luego lee el hadiz de Muslim sin comentarlo.
 
 <!-- lesson-plan:evidence -->
 **Estudio de las evidencias — 20 minutos:** se leen completas las aleyas de Az-Zujruf; después, las palabras de as-Sa'di sobre el temor y la tristeza, y las de Sulaimán at-Taimi, advirtiendo que se trata de la comprensión de un tabi'i y no de un hadiz. A continuación, las dos aleyas de Al-A'raf, las palabras de as-Sa'di "como felicitación y como honra" y las de Ibn Kazir sobre la herencia. Por último, el hadiz de Muslim con sus palabras exactas, mencionando que en la versión de Muslim se vincula con Al-A'raf y en la de at-Tirmidi con Az-Zujruf. Los participantes rellenan las tres columnas de la pizarra.
@@ -567,7 +567,7 @@ Esta súplica une la petición de bienestar en este mundo, que es legítima, con
 **Preparación:** el docente escribe un texto de radio con dos exageraciones (por ejemplo, "para siempre" y una burla al otro equipo) para que los estudiantes lo corrijan.
 
 <!-- lesson-plan:opening -->
-**Apertura — 5 minutos:** el docente pregunta: «¿Cuál es la mejor noticia que han oído en la radio del colegio? ¿Y alguna vez han oído en ella una exageración?».
+**Apertura — 5 minutos:** el docente pregunta: «¿Cuál es la mejor noticia que habéis oído en la radio del colegio? ¿Y alguna vez habéis oído en ella una exageración?».
 
 <!-- lesson-plan:evidence -->
 **Estudio de la evidencia — 10 minutos:** se lee la aleya de Az-Zujruf (68); luego se cuenta el hadiz y los estudiantes leen sus palabras exactas; después se explican los términos, y el final del hadiz se vincula con la aleya de Al-A'raf y con las palabras de as-Sa'di: "como felicitación y como honra".

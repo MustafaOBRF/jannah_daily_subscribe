@@ -30,7 +30,7 @@ Después de esta lección, el aprendiz será capaz de:
 
 ## Sección académica para adultos
 
-<!-- reader:start audience="adults" estimated_minutes="6.5" -->
+<!-- reader:start audience="adults" estimated_minutes="7.0" -->
 
 <!-- unit:start id="adults.explanation" kind="explanation" -->
 
@@ -84,7 +84,7 @@ Las aleyas contraponen dos corazones: uno que se sintió seguro en este mundo y 
 
 #### Interpretación académica
 
-Ibn Kazir explicó que {la tristeza} (al-hazan) es el temor de lo que se teme: Allah la apartó de ellos y los liberó de todo lo que les inquietaba de las preocupaciones de esta vida y de la Otra. Ibn Abbas y otros dijeron: les perdonó muchas malas obras y les agradeció pocas buenas. Y sobre {por Su favor} dijo: es decir, nos concedió esta posición por Su favor, Su generosidad y Su misericordia; nuestras obras no valían tanto.[^5] As-Sa'di dijo que abarca toda tristeza, de modo que ninguna tristeza les sobreviene por merma alguna en su belleza, ni en su comida, ni en la permanencia de su estancia.[^6]
+Ibn Kazir explicó que {la tristeza} (al-hazan) es el temor a lo que se teme: Allah la apartó de ellos y los liberó de todas las preocupaciones de esta vida y de la Otra que temían. Ibn Abbas y otros dijeron: les perdonó muchas malas obras y les agradeció pocas buenas. Y sobre {por Su favor} dijo: es decir, nos concedió esta posición por Su favor, Su generosidad y Su misericordia; nuestras obras no valían tanto.[^5] As-Sa'di dijo que abarca toda tristeza, de modo que ninguna tristeza les sobreviene por merma alguna en su belleza, ni en su comida, ni en la permanencia de su estancia.[^6]
 
 #### Explicación de la lección
 
@@ -102,7 +102,7 @@ La alabanza de la gente del Paraíso es la de quien conoció la tristeza y el ca
 
 #### Traducción al español
 
-> De Yabir, que Allah esté complacido con él, que dijo: Oí al Profeta, la paz y las bendiciones de Allah sean con él, decir: **«La gente del Paraíso come y bebe en él, pero no escupe, ni orina, ni defeca, ni se suena la nariz»**. Le preguntaron: «¿Y qué es entonces de la comida?». Respondió: **«Un eructo y un sudor como el sudor del almizcle. Se les inspiran la glorificación y la alabanza como se les inspira la respiración»**.[^7]
+> De Yabir, que Allah esté complacido con él, que dijo: Oí al Profeta, la paz y las bendiciones de Allah sean con él, decir: **«La gente del Paraíso come y bebe en él, pero no escupe, ni orina, ni defeca, ni se suena la nariz»**. Le preguntaron: «¿Y qué es entonces de la comida?». Respondió: **«Un eructo y un sudor como el almizcle. Se les inspiran la glorificación y la alabanza como se les inspira la respiración»**.[^7]
 
 #### Interpretación académica
 
@@ -128,7 +128,7 @@ La respiración no exige esfuerzo ni cansa, y de ella depende la vida. Así es s
 
 #### Interpretación académica
 
-An-Nawawi, que Allah tenga misericordia de él, explicó que "llena la balanza" significa la grandeza de su recompensa; y sobre "llenan —o llena— lo que hay entre los cielos y la tierra", que puede entenderse así: si su recompensa se imaginara como un cuerpo, llenaría el espacio entre ambos. La causa de la grandeza de su mérito está en lo que contienen: la declaración de que Allah está libre de toda imperfección, al decir "gloria a Allah", y el abandono confiado y la necesidad de Él, al decir "alabado sea Allah".[^8]
+An-Nawawi, que Allah tenga misericordia de él, explicó que "llena la balanza" significa la grandeza de su recompensa; y sobre "llenan —o llena— lo que hay entre los cielos y la tierra", que puede entenderse así: si su recompensa se imaginara como un cuerpo, llenaría el espacio entre ambos. La causa de la grandeza de su mérito está en lo que contienen: la declaración de que Allah está libre de toda imperfección, al decir "gloria a Allah", y la entrega confiada a Él y la necesidad que se tiene de Él, al decir "alabado sea Allah".[^8]
 
 #### Explicación de la lección
 
@@ -218,7 +218,7 @@ Los creyentes empezaron su viaje con la fe y lo terminaron con la alabanza. Y no
 
 1. ¿Qué es lo primero que dice la gente del Paraíso?
 2. ¿Qué es lo último que dicen?
-3. ¿Qué les quitó Allah a la gente del Paraíso?
+3. ¿Qué le quitó Allah a la gente del Paraíso?
 4. ¿Cuándo vas a decir hoy "Alhamdulillah"?
 
 <!-- unit:end -->
@@ -289,7 +289,7 @@ En la sura Yunus, que fue revelada en La Meca, Allah describe dos grupos.
 
 El primer grupo no espera el encuentro con Allah: se conformó con este mundo y se sintió seguro en él, como si fuera todo lo que existe, y vivió desatento a los signos de Allah. Ibn Kazir explicó que no prestaban atención a los signos de Allah en el universo, así que no reflexionaban sobre ellos, ni a Sus mandatos, así que no los cumplían. Por eso su final fue el Fuego, a causa de lo que se ganaban.[^1]
 
-El segundo grupo creyó y obró rectamente. Su vida no siempre fue fácil: tenían miedo, se entristecían y se cansaban como todo el mundo. Pero Allah los guía por su fe. Muyahid dijo que su fe será para ellos una luz con la que caminarán, hasta llegar a los Jardines de la Delicia, a cuyos pies corren los ríos.[^1]
+El segundo grupo creyó y obró rectamente. Su vida no siempre fue fácil: tenían miedo, se entristecían y se cansaban como todo el mundo. Pero Allah los guía por su fe. Muyahid dijo que su fe será para ellos una luz con la que caminarán, hasta llegar a los Jardines de la Delicia, donde los ríos corren a sus pies.[^1]
 
 <!-- retelling:start source_id="quran-10-7-10" audience="8-12" -->
 
@@ -363,7 +363,7 @@ Pero el Corán nos dice que la gente del Paraíso, después de un viaje con mied
 
 <!-- terminology:start source_id="quran-35-33-35" -->
 
-- **`La tristeza (al-hazan)`** — el temor de lo que se teme, y todo lo que les inquietaba de las preocupaciones de esta vida y de la Otra, según explicó Ibn Kazir.[^5]
+- **`La tristeza (al-hazan)`** — el temor a lo que se teme, y todas las preocupaciones de esta vida y de la Otra que temían, según explicó Ibn Kazir.[^5]
 - **`El agotamiento (lugub)`** — el desfallecimiento; "nasab" (fatiga) y "lugub" son ambos cansancio, y lo que se quiere decir es que el cansancio desaparece tanto de sus cuerpos como de sus almas, según explicó Ibn Kazir.[^5]
 
 <!-- terminology:end -->
@@ -432,7 +432,7 @@ Está establecido que, cuando el Profeta, la paz y las bendiciones de Allah sean
 
 > **الْحَمْدُ لِلَّهِ الَّذِي أَطْعَمَنَا وَسَقَانَا، وَكَفَانَا وَآوَانَا، فَكَمْ مِمَّنْ لَا كَافِيَ لَهُ وَلَا مُؤْوِيَ.**[^9]
 >
-> Significa: Alabado sea Allah, que nos ha dado de comer y de beber, nos ha bastado en lo que nos preocupa y nos ha dado cobijo en un hogar donde encontramos sosiego; porque ¡cuántos hay que no encuentran quien les baste ni un techo que los cobije! Que la última palabra de tu día sea, así, una alabanza que conoce el valor de las pequeñas gracias que a otros les faltan.[^9]
+> Significa: Alabado sea Allah, que nos ha dado de comer y de beber, se ha ocupado de lo que nos preocupa y nos ha dado cobijo en un hogar donde encontramos sosiego; porque ¡cuántos hay que no encuentran a nadie que se ocupe de ellos ni un techo que los cobije! Que la última palabra de tu día sea, así, una alabanza que conoce el valor de las pequeñas gracias que a otros les faltan.[^9]
 
 <!-- bedtime-dua:end -->
 
@@ -561,7 +561,7 @@ Está establecido que, cuando el Profeta, la paz y las bendiciones de Allah sean
 **Materiales:** una copia de la lección; un cuaderno personal que no se recoge; un mushaf; tarjetas pequeñas para respuestas anónimas; capturas de texto neutrales (escritas en papel) de finales de chats de grupo llenos de quejas.
 
 <!-- lesson-plan:preparation -->
-**Preparación:** el docente prepara ejemplos neutrales de ese "idioma común de la queja", repasa las palabras de al-Hasan al-Basri en el tafsir de Ibn Kazir sobre Yunus 10:7 y tiene presente la diferencia entre la alabanza y el positivismo impostado.
+**Preparación:** el docente prepara ejemplos neutrales de ese "idioma común de la queja", repasa las palabras de al-Hasan al-Basri en el tafsir de Ibn Kazir sobre Yunus 10:7 y tiene presente la diferencia entre la alabanza y la positividad impostada.
 
 <!-- lesson-plan:opening -->
 **Apertura — 5 minutos:** el docente muestra los finales de chat escritos y pregunta: «Si este fuera el último mensaje del día, ¿qué diría de quien lo escribió?». Los estudiantes escriben respuestas anónimas.

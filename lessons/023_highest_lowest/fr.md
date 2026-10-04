@@ -30,7 +30,7 @@ Au terme de cette leçon, l'apprenant sera capable de :
 
 ## Section académique pour les adultes
 
-<!-- reader:start audience="adults" estimated_minutes="6.5" -->
+<!-- reader:start audience="adults" estimated_minutes="7.0" -->
 
 <!-- unit:start id="adults.explanation" kind="explanation" -->
 
@@ -62,7 +62,7 @@ Le Coran donne de cette échelle de valeurs un exemple vivant : la femme de Pha
 
 #### Interprétation savante
 
-L'imam an-Nawawi, qu'Allah lui fasse miséricorde, rapporte du cadi 'Iyad que « leurs parts » (*akhadhatihim*) désigne ce qu'ils ont reçu et acquis de l'honneur que leur fait leur Maître, et il explique que « ceux que J'ai voulus » (*aradtu*) signifie : ceux que J'ai choisis et élus ; il précise que « J'ai planté leur honneur de Ma Main et J'y ai apposé un sceau » signifie : Je les ai choisis et J'ai pris soin d'eux, si bien qu'aucune altération n'atteint leur honneur.[^3] Et la parole « tu auras tout ce que ton âme désire » montre que le don fait au plus humble ne s'arrête pas aux nombres cités.
+L'imam an-Nawawi, qu'Allah lui fasse miséricorde, rapporte du cadi 'Iyad que « leurs parts » (*akhadhatihim*) désigne ce qu'ils ont reçu et acquis de l'honneur que leur fait leur Maître, et il explique que « ceux que J'ai voulus » (*aradtu*) signifie : ceux que J'ai choisis et élus ; il précise que « J'ai planté leur honneur de Ma propre Main et J'y ai apposé Mon sceau » signifie : Je les ai choisis et J'ai pris soin d'eux, si bien qu'aucune altération n'atteint leur honneur.[^3] Et la parole « tu auras tout ce que ton âme désire » montre que le don fait au plus humble ne s'arrête pas aux nombres cités.
 
 #### Explication de la leçon
 
@@ -192,11 +192,11 @@ Notez huit éléments : un poste, un revenu, une réputation, un logement, un d
 
 ## Pour les enfants de 4 à 7 ans
 
-<!-- reader:start audience="4-7" estimated_minutes="5.0" -->
+<!-- reader:start audience="4-7" estimated_minutes="4.5" -->
 
 <!-- unit:start id="4-7.explanation" kind="explanation" -->
 
-Dans la Jannah, il y a beaucoup de maisons, et elles sont toutes magnifiques ; mais certaines sont plus hautes que d'autres. Le Prophète, paix et bénédictions sur lui, nous a appris que la personne qui a la plus petite place dans la Jannah reçoit d'Allah autant qu'un grand royaume de roi, et encore autant, et encore autant ! Et pour les personnes qui ont les plus hautes places, Allah a préparé quelque chose qu'aucun œil n'a jamais vu.[^1] Aujourd'hui, écoutons l'histoire d'une reine dont parle le Coran : elle vivait dans un palais, mais elle a demandé à Allah quelque chose de bien plus grand qu'un palais.
+Dans la Jannah, il y a beaucoup de maisons, et elles sont toutes magnifiques ; mais certaines sont plus hautes que d'autres. Le Prophète, paix et bénédictions sur lui, nous a appris que la personne qui a la plus petite place dans la Jannah reçoit d'Allah autant que le royaume d'un grand roi, et encore autant, et encore autant ! Et pour les personnes qui ont les plus hautes places, Allah a préparé quelque chose qu'aucun œil n'a jamais vu.[^1] Aujourd'hui, écoutons l'histoire d'une reine dont parle le Coran : elle vivait dans un palais, mais elle a demandé à Allah quelque chose de bien plus grand qu'un palais.
 
 <!-- unit:end -->
 
@@ -210,7 +210,7 @@ Dans la Jannah, il y a beaucoup de maisons, et elles sont toutes magnifiques ; 
 
 Pharaon était un roi dur et injuste, qui faisait du mal aux enfants des Banu Isra'il. Sa femme était une reine, et elle vivait avec lui dans son palais.
 
-Un jour, les gens de Pharaon trouvèrent un tout petit bébé sur l'eau. Alors la reine dit avec douceur : « *Qurratu 'aynin li wa lak, la taqtuluh* », ce qui veut dire : « Ce bébé fera la joie de nos cœurs ; ne lui faites pas de mal. » Et le bébé eut la vie sauve. Sais-tu qui était ce bébé ? C'était Musa, paix sur lui, qui allait devenir un grand prophète ![^7]
+Un jour, les gens de Pharaon ont tiré de l'eau un tout petit bébé. Alors la reine a dit avec douceur : « *Qurratu 'aynin li wa lak, la taqtuluh* », ce qui veut dire : « Ce bébé fera la joie de nos cœurs ; ne lui faites pas de mal. » Et le bébé a eu la vie sauve. Sais-tu qui était ce bébé ? C'était Musa, paix sur lui, qui allait devenir un grand prophète ![^7]
 
 Cette reine aimait Allah. Elle avait un palais sur terre, mais elle n'a pas demandé à Allah un palais encore plus grand. Elle a prié son Seigneur en disant : « *Rabbi ibni li 'indaka baytan fil-jannah* », c'est-à-dire : « Seigneur, bâtis-moi auprès de Toi une maison dans la Jannah. » Elle a d'abord demandé d'être près d'Allah, et ensuite la maison.[^6]
 
@@ -242,7 +242,7 @@ Cela veut dire, tout simplement : une reine au grand cœur a sauvé le bébé M
 
 <!-- activity:start audience="4-7" concept_id="lesson.023.activity.rerank-what-is-high" -->
 
-Avec ton papa ou ta maman, dessine trois cartes : une couronne, un grand palais et un enfant qui prie. Range-les de « la plus haute » à « la moins haute », comme tu le sens. Puis écoute encore une fois l'histoire, range-les à nouveau, et dis pourquoi tu as déplacé une carte. Colle une étoile sur la carte de la prière, et fais aujourd'hui une prière à son heure.
+Avec ton papa ou ta maman, dessine trois cartes : une couronne, un grand palais et un enfant qui prie. Range-les de « la plus haute » à « la moins haute », comme tu veux. Puis écoute encore une fois l'histoire, range-les à nouveau, et dis pourquoi tu as déplacé une carte. Colle une étoile sur la carte de la prière, et fais aujourd'hui une prière à son heure.
 
 <!-- activity:end -->
 
@@ -389,7 +389,7 @@ D'où la question : si le plus humble des gens de la Jannah est au-dessus des r
 
 **Cette histoire est vraie : elle vient du Noble Coran, ce n'est pas une histoire inventée.**
 
-Imagine que tu vives au cœur même du pouvoir : ton époux est le roi le plus puissant de son temps, et le plus cruel envers les Banu Isra'il. C'était la situation de la femme de Pharaon.
+Imagine que tu vives au cœur même du pouvoir : ton époux est le roi le plus puissant de son temps, et le plus cruel envers les Banu Isra'il. Telle était la situation de la femme de Pharaon.
 
 C'est dans ce palais qu'a lieu le premier acte que le Coran retient d'elle. Sur une inspiration d'Allah, la mère de Musa a confié son nourrisson aux flots ; les gens de Pharaon le recueillent, et elle dit alors : « Une joie pour mes yeux et pour les tiens ! Ne le tuez pas ; peut-être nous sera-t-il utile, ou bien l'adopterons-nous comme fils. » Une seule parole, prononcée au bon endroit, a sauvé Musa, paix sur lui — et tout le palais « ne pressentait rien » de ce qu'Allah préparait.[^7]
 
@@ -414,7 +414,7 @@ Autrement dit : une femme qui occupait l'un des rangs les plus élevés de ce m
 1. Quelle différence y a-t-il entre décrire le don fait au plus humble des gens de la Jannah par des chiffres, et décrire l'honneur des plus élevés comme quelque chose qui n'a jamais effleuré le cœur d'un être humain ?
 2. Comment la femme de Pharaon a-t-elle pu rester intègre alors qu'elle vivait au sein d'un système injuste ?
 3. Que signifierait, dans ta propre vie, placer « auprès de Toi » avant « une maison » ?
-4. Comment le croyant peut-il réunir le contentement de celui qui dit « J'en suis satisfait, Seigneur » et l'ambition de celle qui demande les plus hauts rangs ?
+4. Comment le croyant peut-il réunir le contentement de celui qui dit « J'en suis satisfait, Seigneur » et l'ambition de celui qui demande les plus hauts rangs ?
 5. Quel « classement » autour de toi pèse le plus sur toi, et comment cette leçon change-t-elle le poids que tu lui accordes ?
 
 <!-- unit:end -->
@@ -507,7 +507,7 @@ Sens : Ô Allah, fais de Ta proximité le but ultime de mes ambitions, élève 
 **Lecture de la preuve — 7 minutes :** l'éducateur lit la courte explication, puis l'histoire ; il montre l'image de la rivière au moment où Musa est sauvé, et demande à l'enfant de répéter avec lui : « *Rabbi ibni li 'indaka baytan fil-jannah* » (« Seigneur, bâtis-moi auprès de Toi une maison dans la Jannah »).
 
 <!-- lesson-plan:instruction -->
-**Enseignement guidé — 4 minutes :** il demande : « Qu'est-ce que la reine a demandé en premier : être près d'Allah, ou la maison ? » Puis il explique que la personne qui a la plus petite place dans la Jannah reçoit plus que les rois : alors, imagine ceux qui sont plus haut !
+**Enseignement guidé — 4 minutes :** il demande : « Qu'est-ce que la reine a demandé en premier : être près d'Allah, ou la maison ? » Puis il explique que la personne qui a la plus petite place dans la Jannah reçoit plus que les rois : alors, que dire de ceux qui sont plus haut !
 
 <!-- lesson-plan:activity -->
 **Activité — 7 minutes :** l'enfant dessine les trois cartes et les range deux fois, comme indiqué dans l'unité d'activité, puis colle l'étoile sur la carte de la prière.

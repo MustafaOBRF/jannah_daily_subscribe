@@ -31,7 +31,7 @@ Después de esta lección, el aprendiz será capaz de:
 
 ## Sección académica para adultos
 
-<!-- reader:start audience="adults" estimated_minutes="6.5" -->
+<!-- reader:start audience="adults" estimated_minutes="7.0" -->
 
 <!-- unit:start id="adults.explanation" kind="explanation" -->
 
@@ -67,7 +67,7 @@ Las palabras de Bukair, "creo que dijo", expresan la duda de uno de los transmis
 
 #### Explicación de la lección
 
-Quien actúa en la promesa es Allah: "Allah le construye". La construcción del Paraíso no es, por tanto, una obra humana que se pueda medir con medidas humanas, sino el don de un Señor generoso. Y la respuesta de Uzmán, que Allah esté complacido con él, es un modelo para quien recibe críticas por una buena obra: no se puso a defenderse a sí mismo, sino que remitió el asunto al texto revelado y a la intención.
+Quien actúa en la promesa es Allah: "Allah le construye". La construcción del Paraíso no es, por tanto, una obra humana que se pueda medir con medidas humanas, sino el don de un Señor generoso. Y la respuesta de Uzmán, que Allah esté complacido con él, es un modelo para quien recibe críticas por una buena obra: no salió en su propia defensa, sino que remitió el asunto al texto revelado y a la intención.
 
 <!-- evidence:end -->
 
@@ -166,7 +166,7 @@ Por eso el relato se menciona aquí para dar a conocer lo que contienen los libr
 3. Explica las dos interpretaciones de an-Nawawi sobre el sentido de "otra semejante".
 4. ¿Qué significa que quien actúa en la promesa sea Allah: "Allah le construye"?
 5. ¿En qué momento una obra pública deja de "buscar la faz de Allah" para buscar renombre? ¿Cuáles son las señales?
-6. ¿Cómo puedes responder a la crítica de una buena obra que realizas sin ponerte a defenderte a ti mismo?
+6. ¿Cómo puedes responder a las críticas a una buena obra que realizas sin salir en tu propia defensa?
 
 <!-- unit:end -->
 
@@ -186,7 +186,7 @@ Elige un servicio práctico para un lugar de oración: una reparación en el rin
 
 ## Para niños de 4 a 7 años
 
-<!-- reader:start audience="4-7" estimated_minutes="5.0" -->
+<!-- reader:start audience="4-7" estimated_minutes="4.5" -->
 
 <!-- unit:start id="4-7.explanation" kind="explanation" -->
 
@@ -214,7 +214,7 @@ Pero a algunas personas no les gustó la idea. Querían que la mezquita se queda
 
 Y luego Uzmán construyó la mezquita con piedras, y la hizo más grande.[^2]
 
-¿Te das cuenta? Uzmán construye en la tierra una casa para Allah, y es Allah quien construye en el Paraíso. Y lo más importante cuando construimos es hacerlo para Allah, no para que la gente diga: "¡Qué bonito!".[^1]
+¿Te das cuenta? Uzmán construyó en la tierra una casa para Allah, y es Allah quien construye en el Paraíso. Y lo más importante cuando construimos es hacerlo para Allah, no para que la gente diga: "¡Qué bonito!".[^1]
 
 <!-- retelling:end -->
 
@@ -270,7 +270,7 @@ Significado: Oh Allah, haz que todo lo que hacemos sea solo para Ti, y danos en 
 
 <!-- unit:start id="8-12.explanation" kind="explanation" -->
 
-Cuando ves un edificio enorme, te preguntas: ¿quién lo construyó?, ¿con qué?, ¿cuánto durará? Todo edificio de este mundo tiene un constructor, unos materiales y una vida que se acaba. Pero sobre el Paraíso, Allah nos ha contado que en él hay {aposentos sobre los que se alzan otros aposentos, edificados, bajo los cuales corren los ríos}.[^3] Y el Profeta, la paz y las bendiciones de Allah sean con él, nos contó que hay dos jardines de plata y dos jardines de oro: de plata y de oro son sus vasijas y cuanto hay en ellos.[^6] En algunos libros aparece un relato sobre ladrillos de oro y de plata, pero los sabios no se ponen de acuerdo sobre si es auténtico, así que no construimos nuestra explicación sobre él.[^7] La pregunta importante es otra: ¿qué hace falta para que se construya algo para ti allí?
+Cuando ves un edificio enorme, te preguntas: ¿quién lo construyó?, ¿con qué?, ¿cuánto durará? Todo edificio de este mundo tiene un constructor, unos materiales y una vida que se acaba. En cambio, del Paraíso Allah nos ha contado que en él hay {aposentos sobre los que se alzan otros aposentos, edificados, bajo los cuales corren los ríos}.[^3] Y el Profeta, la paz y las bendiciones de Allah sean con él, nos contó que hay dos jardines de plata y dos jardines de oro: de plata y de oro son sus vasijas y cuanto hay en ellos.[^6] En algunos libros aparece un relato sobre ladrillos de oro y de plata, pero los sabios no se ponen de acuerdo sobre si es auténtico, así que no construimos nuestra explicación sobre él.[^7] La pregunta importante es otra: ¿qué hace falta para que se construya algo para ti allí?
 
 <!-- unit:end -->
 
@@ -286,7 +286,7 @@ Cuando ves un edificio enorme, te preguntas: ¿quién lo construyó?, ¿con qué
 
 <!-- terminology:start source_id="bukhari-450" -->
 
-- **`Buscando con ello la faz de Allah (yabtagui bihi wayha Allah)`** — querer con lo que haces la complacencia de Allah solamente, no los elogios de la gente.[^1]
+- **`Buscando con ello la faz de Allah (yabtagui bihi wayha Allah)`** — buscar con lo que haces solo la complacencia de Allah, no los elogios de la gente.[^1]
 
 <!-- terminology:end -->
 
@@ -362,7 +362,7 @@ Significado: Oh Allah, haz que nuestras obras sean solo para Ti y no para recibi
 
 ## Para adolescentes de 13+
 
-<!-- reader:start audience="13+" estimated_minutes="6.5" -->
+<!-- reader:start audience="13+" estimated_minutes="6.0" -->
 
 <!-- unit:start id="13+.explanation" kind="explanation" -->
 
@@ -470,7 +470,7 @@ Significado: Oh Allah, purifica nuestras intenciones para que nuestras obras sea
 **Materiales:** una copia de la lección; un mushaf; una pizarra dividida en dos columnas: "Establecido por el texto" y "De autenticidad discutida"; una hoja de actividad con la línea de intención y las tres preguntas; una tarjeta de salida.
 
 <!-- lesson-plan:preparation -->
-**Preparación:** el docente lee al-Bujari 450 y 446, Muslim 533 en sus dos versiones, al-Bujari 4878 y at-Tirmidi 2526 junto con lo que dijo at-Tirmidi sobre su cadena de transmisión; el tafsir de Ibn Kazir y el de as-Sa'di sobre Az-Zumar 39:20; y el comentario de an-Nawawi al hadiz 533 de Muslim. Debe tener en cuenta que as-Sa'di mencionó en su tafsir la descripción del oro, la plata y el almizcle, y aclarar que con ello tomó el relato como apoyo, lo cual no significa que zanjara su grado de autenticidad. Recuerda también que la lección anterior, sobre la tierra del Paraíso, citó ese mismo relato como testimonio de apoyo.
+**Preparación:** el docente lee al-Bujari 450 y 446, Muslim 533 en sus dos versiones, al-Bujari 4878 y at-Tirmidi 2526 junto con lo que dijo at-Tirmidi sobre su cadena de transmisión; el tafsir de Ibn Kazir y el de as-Sa'di sobre Az-Zumar 39:20; y el comentario de an-Nawawi al hadiz 533 de Muslim. Debe tener en cuenta que as-Sa'di mencionó en su tafsir la descripción del oro, la plata y el almizcle, y aclarar que con ello tomó el relato como apoyo, lo cual no significa que zanjara su grado de autenticidad. Tiene presente, además, que la lección anterior, sobre la tierra del Paraíso, citó ese mismo relato como testimonio de apoyo.
 
 <!-- lesson-plan:opening -->
 **Apertura — 5 minutos:** el docente pregunta: «Recuerda una obra pública que hayas hecho o en la que hayas participado y que diera que hablar. ¿Qué sentiste? ¿Y qué hiciste?». Luego plantea la pregunta de la lección: ¿quién construye en el Paraíso?, ¿y sobre qué cimiento?
@@ -613,7 +613,7 @@ Significado: Oh Allah, purifica nuestras intenciones para que nuestras obras sea
 [^4]: As-Sa'di, *Taysir al-Karim ar-Rahman fi Tafsir Kalam al-Mannan*, tafsir de la sura Az-Zumar, aleya 20: [quran.ksu.edu.sa/tafseer/saadi/sura39-aya20.html](https://quran.ksu.edu.sa/tafseer/saadi/sura39-aya20.html).
 [^5]: Ibn Kazir, *Tafsir al-Qur'an al-'Azim*, tafsir de la sura Az-Zumar, aleya 20: [quran.ksu.edu.sa/tafseer/katheer/sura39-aya20.html](https://quran.ksu.edu.sa/tafseer/katheer/sura39-aya20.html).
 [^6]: Sahih al-Bujari, Libro de la exégesis (Kitab at-Tafsir), capítulo {Y además de esos dos, hay otros dos jardines}, hadiz 4878, transmitido por Abu Bakr ibn Abdullah ibn Qais de su padre, Abu Musa al-Ash'ari, que Allah esté complacido con él; auténtico: [sunnah.com/bukhari:4878](https://sunnah.com/bukhari:4878). Lo recoge también Muslim en el Libro de la fe (Kitab al-Iman), hadiz 180: [sunnah.com/muslim:180](https://sunnah.com/muslim:180).
-[^7]: Yami' at-Tirmidi, Libro de la descripción del Paraíso (Abwab Sifat al-Yanna), capítulo sobre la descripción del Paraíso y sus delicias, hadiz 2526, de Abu Huraira, que Allah esté complacido con él: [sunnah.com/tirmidhi:2526](https://sunnah.com/tirmidhi:2526). Se reproduce de él el pasaje pertinente; se ha omitido su comienzo, señalado con [...] (la pregunta de los Compañeros al Profeta, la paz y las bendiciones de Allah sean con él, sobre la ternura de sus corazones cuando estaban con él y sobre la materia de la creación), así como su final (los tres cuya súplica no es rechazada), y la omisión no altera el sentido del pasaje reproducido. At-Tirmidi dijo: "Este es un hadiz cuya cadena de transmisión no es muy sólida, y para mí no está conectada; este hadiz se ha transmitido también por otra cadena de Abu Huraira"; Ahmad Shakir y al-Albani lo declararon auténtico por el conjunto de sus vías, y Zubair Ali Za'i lo consideró débil. En las notas del editor de *Hadi al-Arwah* (ed. 'Ata'at al-'Ilm, capítulo trigésimo cuarto) se indica que la vía de Ahmad gira en torno a Abu al-Mudil·la, a quien Ibn al-Madini consideró desconocido: [shamela.ws/book/13652/333](https://shamela.ws/book/13652/333). Por eso no se ha tomado en esta lección como evidencia principal. Tampoco se ha tomado como base lo que Abu Nu'aim recoge en *Sifat al-Yanna* (capítulo de la descripción de los muros del Paraíso) ni lo que transmite Ibn Abi ad-Dunya en relatos sobre la descripción detallada de los muros del Paraíso.
+[^7]: Yami' at-Tirmidi, Libro de la descripción del Paraíso (Abwab Sifat al-Yanna), capítulo sobre la descripción del Paraíso y sus delicias, hadiz 2526, de Abu Huraira, que Allah esté complacido con él: [sunnah.com/tirmidhi:2526](https://sunnah.com/tirmidhi:2526). Se reproduce de él el pasaje pertinente; se ha omitido su comienzo, señalado con [...] (la pregunta de los Compañeros al Profeta, la paz y las bendiciones de Allah sean con él, sobre la ternura de sus corazones cuando estaban con él y sobre la materia de la creación), así como su final (los tres cuya súplica no es rechazada), y la omisión no altera el sentido del pasaje reproducido. At-Tirmidi dijo: "Este es un hadiz cuya cadena de transmisión no es muy sólida, y para mí no está conectada; este hadiz se ha transmitido también por otra cadena de Abu Huraira"; Ahmad Shakir y al-Albani lo declararon auténtico por el conjunto de sus vías, y Zubair Ali Za'i lo consideró débil. En las notas del editor de *Hadi al-Arwah* (ed. 'Ata'at al-'Ilm, capítulo trigésimo cuarto) se indica que la vía de Ahmad gira en torno a Abu al-Mudilla, a quien Ibn al-Madini consideró desconocido: [shamela.ws/book/13652/333](https://shamela.ws/book/13652/333). Por eso no se ha tomado en esta lección como evidencia principal. Tampoco se ha tomado como base lo que Abu Nu'aim recoge en *Sifat al-Yanna* (capítulo de la descripción de los muros del Paraíso) ni lo que transmite Ibn Abi ad-Dunya en relatos sobre la descripción detallada de los muros del Paraíso.
 [^8]: An-Nawawi, *Al-Minhay sharh Sahih Muslim ibn al-Hayyay*, Libro de las mezquitas y los lugares de oración, capítulo de la excelencia de construir mezquitas y la exhortación a ello, comentario del hadiz 533, sobre las dos posibilidades de sentido de «مِثْلَهُ» ("otra semejante").
 [^9]: Ibn Hayar al-Asqalani, *Fath al-Bari sharh Sahih al-Bujari*, Libro de la oración, capítulo de la construcción de la mezquita, comentario del hadiz 446, sobre el sentido de *al-qassa* (el yeso) y de *as-say*; e Ibn al-Azir, *An-Nihaya fi Garib al-Hadiz wa-l-Azar*, entradas "l-b-n" y "s-w-y".
 

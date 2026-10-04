@@ -21,9 +21,9 @@ bedtime_dua_id: "lesson.037.dua.sincere-work-built-chambers"
 
 Au terme de cette leçon, l'apprenant sera capable de :
 
-- raconter dans l'ordre le hadith de 'Uthman ibn 'Affan, qu'Allah soit satisfait de lui (al-Bukhari 450 et Muslim 533) : la réticence des gens à voir modifier la construction de la Mosquée du Prophète, et l'abondance de leurs critiques, puis la réponse de 'Uthman par ce hadith : « Celui qui bâtit une mosquée en recherchant par là la Face d'Allah, Allah lui bâtit son pareil dans la Jannah » ;
-- décrire la construction de la Mosquée du Prophète du vivant du Prophète, paix et bénédictions sur lui, et après lui, d'après le hadith d'Ibn 'Umar (al-Bukhari 446) : les briques crues, les palmes et les troncs de palmier, puis les pierres sculptées, le plâtre et le teck ;
-- affirmer de l'édifice de la Jannah ce qu'établissent le Coran et le hadith authentique : « des chambres hautes, surmontées d'autres chambres hautes, bâties » (az-Zumar 39:20), et deux jardins d'argent et deux jardins d'or, « leurs vaisselles et tout ce qu'ils contiennent » (al-Bukhari 4878) ;
+- raconter dans l'ordre le hadith de 'Uthman ibn 'Affan, qu'Allah soit satisfait de lui (al-Bukhari 450 et Muslim 533) : la réticence des gens à voir modifier la construction de la mosquée du Prophète, et l'abondance de leurs critiques, puis la réponse de 'Uthman par ce hadith : « Celui qui bâtit une mosquée en recherchant par là la Face d'Allah, Allah lui bâtit son pareil dans la Jannah » ;
+- décrire la construction de la mosquée du Prophète du vivant du Prophète, paix et bénédictions sur lui, et après lui, d'après le hadith d'Ibn 'Umar (al-Bukhari 446) : les briques crues, les palmes et les troncs de palmier, puis les pierres sculptées, le plâtre et le teck ;
+- affirmer de l'édifice de la Jannah ce qu'établissent le Coran et le hadith authentique : « des chambres hautes, surmontées d'autres chambres hautes, bâties » (az-Zumar 39:20), et deux jardins d'argent et deux jardins d'or, « leur vaisselle et tout ce qu'ils contiennent » (al-Bukhari 4878) ;
 - situer le récit « une brique d'argent et une brique d'or, et son mortier est le musc au parfum intense » (at-Tirmidhi 2526) comme un récit dont l'authenticité est discutée, que l'on ne prend donc pas pour preuve principale ;
 - expliquer les deux interprétations d'an-Nawawi sur le sens de « son pareil », et comprendre que l'édifice véritable, dans la Jannah, c'est Allah qui le bâtit, et que son fondement, ici-bas, est l'intention sincère ;
 - réaliser l'activité « L'intention avant la première pierre » : écrire son intention avant de rendre un service concret à un lieu de prière, puis examiner ses motivations une fois le travail accompli ;
@@ -31,13 +31,13 @@ Au terme de cette leçon, l'apprenant sera capable de :
 
 ## Section Académique Pour Adultes
 
-<!-- reader:start audience="adults" estimated_minutes="6.5" -->
+<!-- reader:start audience="adults" estimated_minutes="7.0" -->
 
 <!-- unit:start id="adults.explanation" kind="explanation" -->
 
 Ce qu'est un édifice, nous le savons d'expérience : des fondations, des briques, des murs, un toit, puis les ornements. Nous savons aussi que tout bâtiment d'ici-bas finit par s'user, que ceux qui en ont la charge peuvent se diviser sur sa forme, et que les gens ne manquent pas d'en parler. Cette leçon, qui fait suite à celle consacrée à la terre et au sol de la Jannah, pose donc trois questions : que savons-nous avec certitude de l'édifice de la Jannah ? Qu'est-ce que nous ne pouvons pas affirmer ? Et comment le serviteur peut-il obtenir qu'une demeure lui y soit bâtie ?
 
-La leçon s'appuie sur un hadith authentique qui réunit ces deux faces : un homme bâtit ici-bas une maison pour Allah, les gens critiquent son ouvrage, et il leur répond par une promesse prophétique : à celui qui bâtit pour Lui, Allah bâtit son pareil dans la Jannah. Celui qui bâtit dans la Jannah, c'est donc Allah ; le matériau que le serviteur fournit ici-bas, c'est l'œuvre sincère. Nous lirons ensuite ce qui est établi sur l'édifice lui-même, et nous remettrons à sa juste place le récit dont l'authenticité est discutée.
+La leçon s'appuie sur un hadith authentique qui réunit ces deux aspects : un homme bâtit ici-bas une maison pour Allah, les gens critiquent son ouvrage, et il leur répond par une promesse prophétique : à celui qui bâtit pour Lui, Allah bâtit son pareil dans la Jannah. Celui qui bâtit dans la Jannah, c'est donc Allah ; le matériau que le serviteur fournit ici-bas, c'est l'œuvre sincère. Nous lirons ensuite ce qui est établi sur l'édifice lui-même, et nous remettrons à sa juste place le récit dont l'authenticité est discutée.
 
 <!-- unit:end -->
 
@@ -125,7 +125,7 @@ Le mot « bâties » (*mabniyyah*) est un texte coranique explicite : il y a 
 
 #### Traduction Française
 
-> D'après Abu Musa al-Ash'ari, qu'Allah soit satisfait de lui, le Messager d'Allah, paix et bénédictions sur lui, a dit : **« Deux jardins d'argent, leurs vaisselles et tout ce qu'ils contiennent ; et deux jardins d'or, leurs vaisselles et tout ce qu'ils contiennent. Et rien ne sépare les gens de la vision de leur Seigneur, sinon le manteau de la Grandeur sur Sa Face, dans le Jardin d'Éden. »**[^6]
+> D'après Abu Musa al-Ash'ari, qu'Allah soit satisfait de lui, le Messager d'Allah, paix et bénédictions sur lui, a dit : **« Deux jardins d'argent, leur vaisselle et tout ce qu'ils contiennent ; et deux jardins d'or, leur vaisselle et tout ce qu'ils contiennent. Et rien ne sépare les gens de la vision de leur Seigneur, sinon le manteau de la Grandeur sur Sa Face, dans le Jardin d'Éden. »**[^6]
 
 #### Explication De La Leçon
 
@@ -266,11 +266,11 @@ Ce qui veut dire : Ô Allah, fais que tout ce que nous faisons soit pour Toi se
 
 ## Pour Les Enfants De 8 À 12 Ans
 
-<!-- reader:start audience="8-12" estimated_minutes="6.0" -->
+<!-- reader:start audience="8-12" estimated_minutes="5.5" -->
 
 <!-- unit:start id="8-12.explanation" kind="explanation" -->
 
-Quand tu vois un immeuble gigantesque, tu te demandes : qui l'a construit ? Avec quoi ? Combien de temps tiendra-t-il ? Tout bâtiment de ce monde a un constructeur, des matériaux, et une durée de vie qui finira un jour. La Jannah, elle, Allah nous a appris qu'il s'y trouve « des chambres hautes, surmontées d'autres chambres hautes, bâties, sous lesquelles coulent les rivières ».[^3] Et le Prophète, paix et bénédictions sur lui, nous a appris qu'il y a là deux jardins d'argent et deux jardins d'or, avec leurs vaisselles et tout ce qu'ils contiennent.[^6] Certains livres rapportent aussi un récit qui parle de briques d'or et d'argent, mais les savants ne sont pas d'accord sur son authenticité ; alors nous n'en faisons pas la base de ce que nous disons.[^7] La vraie question est donc celle-ci : comment obtenir qu'une demeure te soit bâtie là-bas ?
+Quand tu vois un immeuble gigantesque, tu te demandes : qui l'a construit ? Avec quoi ? Combien de temps tiendra-t-il ? Tout bâtiment de ce monde a un constructeur, des matériaux, et une durée de vie qui finira un jour. Quant à la Jannah, Allah nous a appris qu'il s'y trouve « des chambres hautes, surmontées d'autres chambres hautes, bâties, sous lesquelles coulent les rivières ».[^3] Et le Prophète, paix et bénédictions sur lui, nous a appris qu'il y a là deux jardins d'argent et deux jardins d'or, avec leur vaisselle et tout ce qu'ils contiennent.[^6] Certains livres rapportent aussi un récit qui parle de briques d'or et d'argent, mais les savants ne sont pas d'accord sur son authenticité ; alors nous n'en faisons pas la base de ce que nous disons.[^7] La vraie question est donc celle-ci : comment obtenir qu'une demeure te soit bâtie là-bas ?
 
 <!-- unit:end -->
 
@@ -336,7 +336,7 @@ Remarque deux choses. D'abord, la promesse dit : « Allah lui bâtit » ; c'
 
 <!-- activity:start audience="8-12" concept_id="lesson.037.activity.intention-before-the-first-stone" -->
 
-Avec ta famille ou ta classe, choisis un service pour un lieu de prière : nettoyer les étagères des Corans, ranger les chaussures, ou préparer un coin prière à l'école. Avant de commencer, écris sur une carte : « Mon intention : … », puis plie-la. Après le travail, dessine l'endroit avant et après, puis ouvre ta carte et réponds : mon intention est-elle restée la même pendant que je travaillais ? Et qu'ai-je fait quand quelqu'un a fait une remarque sur mon travail ?
+Avec ta famille ou ta classe, choisis un service pour un lieu de prière : nettoyer les étagères des Corans, ranger les chaussures, ou préparer un coin prière à l'école. Avant de commencer, écris sur une carte : « Mon intention : … », puis plie-la. Après le travail, dessine l'endroit avant et après, puis ouvre ta carte et réponds : mon intention est-elle restée la même pendant que je travaillais ? Et qu'ai-je fait si quelqu'un a fait une remarque sur mon travail ?
 
 <!-- activity:end -->
 
@@ -362,7 +362,7 @@ Sens : Ô Allah, fais que nos actions soient pour Toi seul, et non pour les com
 
 ## Pour Les Adolescents, 13 Ans Et Plus
 
-<!-- reader:start audience="13+" estimated_minutes="6.5" -->
+<!-- reader:start audience="13+" estimated_minutes="6.0" -->
 
 <!-- unit:start id="13+.explanation" kind="explanation" -->
 
