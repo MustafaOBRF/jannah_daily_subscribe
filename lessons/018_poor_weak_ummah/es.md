@@ -1,432 +1,574 @@
 ---
-lesson_id: "jannah.018"
+title: "Los pobres y los débiles de la comunidad ante Allah"
+lesson_id: "lesson.018"
 topic_id: "jannah.018"
 translation_key: "jannah.poor_weak_ummah"
 lang: "es"
-status: "draft"
+status: "translation_draft"
 authoring_standard: "full_text_depth_v2"
 story_policy: "rotating_primary_with_authenticated_account_v2"
-hadith_policy: "sahih_hasan_main"
-tashkeel_scope: "texts_only"
 primary_story_type: "islamic_heritage"
 primary_story_source_id: "bukhari-6452"
-primary_story_authenticated: true
+primary_story_authenticated: "true"
 authenticated_account_id: "bukhari-6452"
 activity_concept_id: "lesson.018.activity.share-before-self"
 bedtime_dua_id: "lesson.018.dua.dignity-not-wealth"
-title: "Los pobres, los débiles y el gran número de la nación de Muhammad ﷺ en el Paraíso"
 ---
 
-# Los pobres, los débiles y el gran número de la nación de Muhammad ﷺ en el Paraíso
+# Los pobres y los débiles de la comunidad ante Allah
 
-<!-- unit:start id="jannah.018.intro" kind="explanation" -->
-La medida de la cercanía al Jannah no es la riqueza, el estatus ni el poder mundano, sino la sinceridad del corazón con Allah, la gratitud, la paciencia y la humildad. El Profeta ﷺ dio la buena noticia a los pobres sinceros y a los débiles humildes de que muchos de ellos precederían a los ricos de este mundo al Jannah, y que formarían la mayoría de sus habitantes. Al mismo tiempo, el rico agradecido no queda excluido en absoluto de este favor: muchos Compañeros ricos recibieron la buena noticia del Jannah, como Uzman ibn Affán y Abdurrahmán ibn Awf, que Allah esté complacido con ellos. La verdadera lección no trata de cuánto dinero tiene una persona, sino de lo que el corazón hace con él: ¿agradece o se vuelve arrogante?
+## Objetivos y resultados de la lección
+
+Después de esta lección, el aprendiz será capaz de:
+
+- Citar tres hadices auténticos que muestran el rango inmenso que tienen ante Allah los débiles de la comunidad y sus pobres sinceros: el hadiz `كُلُّ ضَعِيفٍ مُتَضَعِّفٍ لَوْ أَقْسَمَ عَلَى اللَّهِ لَأَبَرَّهُ` ("todo débil, tenido en poco por los demás, que, si jurara por Allah, Allah haría verdad su juramento"), el hadiz de los pobres de los emigrantes que se adelantan a los ricos en la entrada al Paraíso, y el hadiz `قُمْتُ عَلَى بَابِ الْجَنَّةِ فَإِذَا عَامَّةُ مَنْ دَخَلَهَا الْمَسَاكِينُ` ("Me detuve a la puerta del Paraíso, y la mayoría de quienes entraban eran los necesitados").
+- Mostrar que esta preferencia no supone condenar la riqueza en sí misma, apoyándose en que "la gente de fortuna está retenida" significa que se la retiene para rendir cuentas, no que se le cierre el Paraíso, y en que varios de los grandes Compañeros acaudalados, como Uzman ibn Affan y Abd ar-Rahman ibn Awf, que Allah esté complacido con ellos, recibieron la buena nueva del Paraíso.
+- Narrar el relato auténtico, recogido en Sahih al-Bujari, de Abu Huraira, que Allah esté complacido con él, con la gente de la Suffa y el cuenco de leche, e identificar en él el momento de la elección: entre su propio deseo de beber primero, cuando el hambre más le apretaba, y su obediencia a la orden del Profeta, la paz y las bendiciones de Allah sean con él, de servir antes a sus hermanos pobres.
+- Explicar qué es el izar —dar preferencia al otro sobre uno mismo—, relacionarlo con lo que hizo Abu Huraira y mostrar que lo que eleva ante Allah es la paciencia en la pobreza unida a la conformidad, no la pobreza en sí.
+- Realizar la actividad "Servir antes de servirse", aplicando el izar a una situación real y concreta en la familia, la escuela o la comunidad, y anotando lo que se sintió al hacerlo.
+- Repetir una súplica antes de dormir en la que se pide a Allah humildad y gratitud, paciencia y contentamiento en la estrechez, y protección frente a la prueba de la riqueza, si Él la concede.
+
+<!-- reader:start audience="adults" estimated_minutes="7.0" -->
+
+## Sección académica para adultos
+
+<!-- unit:start id="adults.explanation" kind="explanation" -->
+
+La cercanía a Allah no se mide por el tamaño de la fortuna ni por la altura del puesto social, sino por la sinceridad del corazón, la paciencia en la necesidad, la gratitud en la abundancia y la humildad ante Allah y ante Sus siervos. El Profeta, la paz y las bendiciones de Allah sean con él, reservó a los débiles de su comunidad y a sus pobres sinceros buenas nuevas inmensas: unos se adelantarán a los ricos en la entrada al Paraíso por largos siglos; otros, aunque la gente los tenga en poco, verían cumplido por Allah su juramento si juraran por Él; y son ellos, como el propio Profeta, la paz y las bendiciones de Allah sean con él, nos informó, la mayoría de la gente del Paraíso.
+
+Y, sin embargo, la riqueza no es censurable en sí misma: varios de los grandes Compañeros acaudalados recibieron la buena nueva del Paraíso, como Uzman ibn Affan y Abd ar-Rahman ibn Awf, que Allah esté complacido con ellos. La verdadera vara de medir es lo que el corazón hace con su situación, sea pobre o rico: ¿es paciente, agradece y da preferencia a los demás, o se desespera cuando le falta y se vuelve altanero cuando le sobra? El testimonio más elocuente de ello es la historia de Abu Huraira, que Allah esté complacido con él, con la gente de la Suffa: una pobreza auténtica y, aun así, izar y obediencia; y eso fue lo que lo elevó, no lo que lo rebajó.
+
 <!-- unit:end -->
 
-<!-- reader:start audience="adults" estimated_minutes="14" -->
+<!-- unit:start id="adults.evidence" kind="evidence" -->
 
-## Para adultos
+## Las evidencias centrales
 
-<!-- unit:start id="jannah.018.adults.objectives" kind="explanation" -->
-**Objetivos de la lección:**
-- Comprender que el hecho de que los pobres precedan a los ricos al Jannah, y que los débiles y pobres formen la mayoría de sus habitantes, no significa que la riqueza sea un defecto ni que los ricos queden excluidos del Jannah.
-- Distinguir entre el "mérito de precedencia" (entrar primero al Jannah) y el "mérito de elevación" (un rango más alto dentro de él), reconociendo que pueden combinarse o presentarse por separado.
-- Recordar que se espera que la nación de Muhammad ﷺ sea la mitad o más de los habitantes del Jannah, como un favor de Allah para esta nación.
-- Vincular este favor a la gratitud, la paciencia y la humildad, no a la condición material externa de riqueza o pobreza.
-<!-- unit:end -->
+<!-- evidence:start id="bukhari-6071" kind="hadith" mode="canonical" -->
 
-<!-- unit:start id="jannah.018.adults.evidence" kind="evidence" -->
-## Las pruebas
+### «¿Queréis que os diga quiénes son la gente del Paraíso? Todo débil, tenido en poco»
 
-<!-- evidence:start id="jannah.018.ev.tirmidhi2353" kind="hadith" mode="canonical" -->
-عن أبي هريرة رضي الله عنه، عن النبي ﷺ قال: «فُقَرَاءُ الْمُهَاجِرِينَ يَسْبِقُونَ الْأَغْنِيَاءَ يَوْمَ الْقِيَامَةِ إِلَى الْجَنَّةِ بِخَمْسِمِائَةِ عَامٍ» [رواه الترمذي (٢٣٥٣)].
+> عَنْ حَارِثَةَ بْنِ وَهْبٍ الْخُزَاعِيِّ رضي الله عنه قَالَ: سَمِعْتُ النَّبِيَّ صلى الله عليه وسلم يَقُولُ: **«أَلَا أُخْبِرُكُمْ بِأَهْلِ الْجَنَّةِ؟ كُلُّ ضَعِيفٍ مُتَضَعِّفٍ، لَوْ أَقْسَمَ عَلَى اللَّهِ لَأَبَرَّهُ، أَلَا أُخْبِرُكُمْ بِأَهْلِ النَّارِ؟ كُلُّ عُتُلٍّ جَوَّاظٍ مُسْتَكْبِرٍ»**.[^1]
 
 <!-- evidence:translation -->
-> Abu Hurairah, que Allah esté complacido con él, relató que el Profeta ﷺ dijo: "Los pobres entre los emigrantes precederán a los ricos al Paraíso el Día de la Resurrección por quinientos años." [Narrado por al-Tirmidhi (2353), Ahmad e Ibn Hibbán; clasificado como *hasan sahih* por al-Tirmidhi, y como hasan por al-Albani.]
-<!-- evidence:end -->
 
-<!-- evidence:start id="jannah.018.ev.muslim2979" kind="hadith" mode="canonical" -->
-وعن عبد الله بن عمرو رضي الله عنهما، عن النبي ﷺ قال: «فُقَرَاءُ الْمُهَاجِرِينَ يَدْخُلُونَ الْجَنَّةَ قَبْلَ أَغْنِيَائِهِمْ بِأَرْبَعِينَ خَرِيفًا» [رواه مسلم (٢٩٧٩)].
+#### Traducción al español
 
-<!-- evidence:translation -->
-> Abdullah ibn Amr, que Allah esté complacido con ambos, relató que el Profeta ﷺ dijo: "Los pobres entre los emigrantes entrarán al Paraíso antes que sus ricos por cuarenta otoños [años]." [Sahih Muslim, no. 2979.]
-<!-- evidence:end -->
+> De Hariza ibn Wahb al-Juza'i, que Allah esté complacido con él, que dijo: Oí al Profeta, la paz y las bendiciones de Allah sean con él, decir: **«¿Queréis que os diga quiénes son la gente del Paraíso? Todo débil, tenido en poco por los demás, que, si jurara por Allah, Allah haría verdad su juramento. ¿Queréis que os diga quiénes son la gente del Fuego? Todo áspero y despiadado, acaparador y mezquino, lleno de soberbia»**.[^1]
 
-<!-- evidence:start id="jannah.018.ev.bukhari5196" kind="hadith" mode="canonical" -->
-عن أسامة بن زيد رضي الله عنهما قال: قال رسول الله ﷺ: «قُمْتُ عَلَى بَابِ الْجَنَّةِ، فَكَانَ عَامَّةُ مَنْ دَخَلَهَا الْمَسَاكِينُ، وَأَصْحَابُ الْجَدِّ مَحْبُوسُونَ» [رواه البخاري (٥١٩٦)].
+#### Interpretación académica
 
-<!-- evidence:translation -->
-> Usama ibn Zaid, que Allah esté complacido con ambos, relató que el Mensajero de Allah ﷺ dijo: "Me detuve en la puerta del Paraíso, y encontré que la mayoría de quienes entraban eran los pobres, mientras que los ricos estaban detenidos [para su rendición de cuentas], salvo que a la gente del Fuego ya se les había ordenado ir a él. Y me detuve en la puerta del Fuego, y encontré que la mayoría de quienes entraban eran mujeres." [Sahih al-Bujari, no. 5196.]
-<!-- evidence:end -->
+El hafiz Ibn Hayar, que Allah tenga misericordia de él, explica en *Fath al-Bari* que "el débil tenido en poco" (ad-da'if al-mutada''af) es aquel a quien la gente considera insignificante y cuyo valor desprecia en este mundo, por su pobreza o por lo apagado de su voz, cuando en realidad su rango ante Allah es tan grande que, si jurara por Allah, Él haría verdad su juramento. Frente a él, el Profeta, la paz y las bendiciones de Allah sean con él, describió a la gente del Fuego: el *'utull*, rudo y despiadado; el *yawwaz*, que acumula y niega a los demás; y el *mustakbir*, que se cree por encima de la verdad y de la gente. La causa que señala el hadiz no es, por tanto, el dinero en sí, sino la dureza y la soberbia que pueden acompañar a la riqueza cuando no se agradece.
 
-<!-- evidence:start id="jannah.018.ev.bukhari6071" kind="hadith" mode="canonical" -->
-عن حارثة بن وهب رضي الله عنه قال: سمعت النبي ﷺ يقول: «أَلَا أُخْبِرُكُمْ بِأَهْلِ الْجَنَّةِ؟ كُلُّ ضَعِيفٍ مُتَضَعِّفٍ، لَوْ أَقْسَمَ عَلَى اللهِ لَأَبَرَّهُ» [رواه البخاري (٦٠٧١) ومسلم (٢٨٥٣)].
-
-<!-- evidence:translation -->
-> Háriza ibn Wahb, que Allah esté complacido con él, relató haber oído al Profeta ﷺ decir: "¿No os informo sobre la gente del Paraíso? Toda persona considerada débil e insignificante [por los demás], que si jurara por Allah [que algo sucedería], Allah lo cumpliría por él." [Sahih al-Bujari, no. 6071; Sahih Muslim, no. 2853.]
-<!-- evidence:end -->
-
-<!-- evidence:start id="jannah.018.ev.tirmidhi2546" kind="hadith" mode="canonical" -->
-عن بريدة رضي الله عنه، عن النبي ﷺ قال: «أَهْلُ الْجَنَّةِ عِشْرُونَ وَمِائَةُ صَفٍّ، ثَمَانُونَ مِنْهَا مِنْ هَذِهِ الْأُمَّةِ، وَأَرْبَعُونَ مِنْ سَائِرِ الْأُمَمِ» [رواه الترمذي (٢٥٤٦)].
-
-<!-- evidence:translation -->
-> Buraidah, que Allah esté complacido con él, relató que el Profeta ﷺ dijo: "La gente del Paraíso son ciento veinte filas; ochenta de ellas son de esta nación [la nación de Muhammad], y cuarenta de todas las demás naciones juntas." [Yami' al-Tirmidhi, no. 2546; clasificado como hasan por al-Tirmidhi.]
-<!-- evidence:end -->
-
-<!-- evidence:start id="jannah.018.ev.bukhari6642" kind="hadith" mode="canonical" -->
-عن عبد الله بن مسعود رضي الله عنه، عن النبي ﷺ قال: «أَمَا تَرْضَوْنَ أَنْ تَكُونُوا رُبُعَ أَهْلِ الْجَنَّةِ؟» ... «إِنِّي لَأَرْجُو أَنْ تَكُونُوا شَطْرَ أَهْلِ الْجَنَّةِ» [رواه البخاري (٦٦٤٢) ومسلم (٢٢١)].
-
-<!-- evidence:translation -->
-> Abdullah ibn Masud, que Allah esté complacido con él, relató que el Profeta ﷺ dijo: "¿No os complace ser una cuarta parte de la gente del Paraíso?" Dijimos Allahu Akbar. Dijo: "¿No os complace ser un tercio de la gente del Paraíso?" Dijimos Allahu Akbar. Dijo: "Espero que seáis la mitad de la gente del Paraíso." [Sahih al-Bujari, no. 6642; Sahih Muslim, no. 221.]
-<!-- evidence:end -->
-
-<!-- evidence:start id="jannah.018.ev.bukhari6541" kind="hadith" mode="canonical" -->
-عن ابن عباس رضي الله عنهما، عن النبي ﷺ قال: «عُرِضَتْ عَلَيَّ الْأُمَمُ... هَذِهِ أُمَّتُكَ، وَمَعَهُمْ سَبْعُونَ أَلْفًا يَدْخُلُونَ الْجَنَّةَ بِغَيْرِ حِسَابٍ» [رواه البخاري (٦٥٤١)].
-
-<!-- evidence:translation -->
-> Ibn Abbás, que Allah esté complacido con ambos, relató que el Profeta ﷺ dijo: "Las naciones fueron desplegadas ante mí, y vi una gran multitud. Dije: '¿Qué es esto? ¿Es esta mi nación?' Se dijo: 'Este es Musa y su pueblo; pero mira hacia el horizonte.' Miré, y había una enorme multitud. Se dijo: 'Mira hacia el otro horizonte.' Había otra enorme multitud. Se dijo: 'Esta es tu nación, y con ellos hay setenta mil que entrarán al Paraíso sin rendición de cuentas.'" [Sahih al-Bujari, no. 6541.]
-<!-- evidence:end -->
-<!-- unit:end -->
-
-<!-- unit:start id="jannah.018.adults.interpretation" kind="explanation" -->
-#### Interpretación erudita
-
-El Hafiz Ibn Hayar al-Asqalaní, que Allah tenga misericordia de él, explica en su comentario sobre el hadiz de Háriza ibn Wahb que "el débil considerado insignificante" (*ad-da'if al-mutada'af*) se refiere a una persona a quien los demás consideran insignificante y menosprecian en este mundo -- por su pobreza o su voz discreta -- aunque su posición ante Allah es tan grande que si jurara por Allah, Él lo cumpliría. La verdadera balanza ante Allah es el temor reverencial (taqwa) y la sinceridad, no la apariencia social. El Imam an-Nawawi, que Allah tenga misericordia de él, dice algo similar en su comentario sobre Sahih Muslim, aclarando que esto no significa que el rico agradecido sea censurado, sino que Allah eleva a quienes el mundo ignora.
-
-En cuanto a conciliar la narración de "cuarenta otoños" con la de "quinientos años", el Imam al-Qurtubí e Ibn Kazir, que Allah tenga misericordia de ellos, explicaron que esta diferencia refleja las circunstancias distintas de cada persona: algunos creyentes pobres preceden a los ricos por un período más largo que otros, según su sinceridad y paciencia. Esto no es una contradicción entre las dos narraciones, sino una variación entre las diferentes personas que describe la promesa.
-
-El principio más preciso en todo este tema -- y es la clave esencial de esta lección -- es lo que estableció el Imam Ibn al-Qayyim, que Allah tenga misericordia de él, en *Hadi al-Arwah*, donde distinguió entre dos méritos separados: el "mérito de precedencia" (entrar primero) y el "mérito de elevación" (un rango y una posición más altos). Escribió: "*Así que hay dos méritos: un mérito de precedencia y un mérito de elevación, y ambos pueden combinarse o presentarse por separado.*" Una persona pobre sincera puede entrar antes que una rica, y sin embargo un rico agradecido y generoso puede tener un rango más alto en el Jannah que esa misma persona pobre, si sus buenas obras son numerosas y su gratitud sincera. La precedencia en el tiempo no implica necesariamente una posición más alta. Con esto se resuelve la aparente dificultad: todo el favor pertenece a Allah, quien lo concede a quien Él quiere según la sinceridad del corazón y sus obras, no según la apariencia externa de la persona en este mundo, ya sea rica o pobre.
-
-Varios de los más grandes Compañeros fueron ellos mismos ricos y recibieron la buena noticia del Jannah: Uzman ibn Affán, Abdurrahmán ibn Awf y az-Zubair ibn al-Awwam, que Allah esté complacido con ellos. Esto muestra que la riqueza en sí misma no es censurable; lo censurable es la riqueza que distrae a una persona de la gratitud, la caridad y la humildad ante Allah.
-<!-- unit:end -->
-
-<!-- unit:start id="jannah.018.adults.authenticated_story" kind="authenticated_story" -->
-### Relato auténtico: la paciencia de la gente de Suffa y la preferencia del Profeta ﷺ por ellos
-
-<!-- retelling:start source_id="bukhari-6452" audience="adults" -->
-El Imam al-Bujari registra en su Sahih, de Abu Hurairah, que Allah esté complacido con él, que en cierta ocasión lo asaltó un hambre tan severa que se ató una piedra al vientre por ello, y se sentó en el camino del Profeta ﷺ preguntando sobre un versículo del Corán, con la esperanza de que algún Compañero comprendiera su necesidad y lo alimentara. Abu Bakr y Umar, que Allah esté complacido con ellos, pasaron sin percibir su condición. Luego pasó el Profeta ﷺ, sonrió al verlo y reconoció su necesidad por la expresión de su rostro. Le dijo: "Oh Abu Hirr", y Abu Hurairah respondió: "A tu servicio, Mensajero de Allah." El Profeta ﷺ le pidió que lo siguiera, y entraron en su casa, donde encontraron un tazón de leche. El Profeta ﷺ preguntó: "¿De dónde viene esta leche?", y le dijeron que era un regalo. Dijo: "Oh Abu Hirr, ve con la gente de Suffa e invítalos a mí." La gente de Suffa eran los pobres huéspedes del Islam que no tenían familia, ni dinero, ni clan que los amparara, y vivían en la mezquita del Profeta ﷺ.
-
-Abu Hurairah fue a invitarlos, esperando en secreto que el Profeta ﷺ le diera algo de la leche antes que a ellos, pero no pudo hacer otra cosa que obedecer. Cuando se reunieron, el Profeta ﷺ ordenó a Abu Hurairah que diera el tazón a cada uno por turno para beber hasta saciarse, y luego se lo devolviera. Abu Hurairah lo hizo, hombre tras hombre, hasta que todos bebieron y quedaron saciados, y finalmente solo quedaron él y el Profeta ﷺ. El Profeta ﷺ tomó el tazón, lo puso en su mano, miró a Abu Hurairah, sonrió y dijo: "Quedamos tú y yo." Abu Hurairah dijo: "Dices la verdad, Mensajero de Allah." Dijo: "Siéntate y bebe", así que bebió, y el Profeta ﷺ seguía diciendo "Bebe" hasta que Abu Hurairah dijo: "No, por Quien te envió con la verdad, ya no encuentro lugar para más." Entonces el Profeta ﷺ tomó el tazón, alabó a Allah, mencionó Su nombre y bebió lo que quedaba.
-
-A pesar de esta pobreza y necesidad severa, la gente de Suffa no se quejaba con resentimiento ni envidiaba a los ricos; más bien eran pacientes y estaban conformes, buscando su recompensa en Allah. El Profeta ﷺ los honraba y los prefería siempre que recibía un regalo o una caridad, sentándose entre ellos y enseñándoles -- hasta que dijo de ellos y de otros semejantes entre los débiles, como se mencionó antes: "Toda persona considerada débil e insignificante, que si jurara por Allah, Allah lo cumpliría por él." Este es un ejemplo vivo de pobreza sincera unida a la paciencia y la conformidad: una causa de su elevación ante Allah, no de su deshonra.
-<!-- retelling:end -->
-<!-- unit:end -->
-
-<!-- unit:start id="jannah.018.adults.questions" kind="questions" -->
-## Preguntas para la reflexión
-1. ¿Cuál es la diferencia entre el "mérito de precedencia" y el "mérito de elevación", tal como lo explicó Ibn al-Qayyim? ¿Por qué importa esta distinción para no malinterpretar estos hadices?
-2. ¿Cómo podemos conciliar el hecho de que los pobres precedan a otros al Jannah con que algunos Compañeros ricos, como Uzman y Abdurrahmán ibn Awf, recibieran la buena noticia del Jannah?
-3. ¿Qué nos enseña la historia de la gente de Suffa sobre la relación entre pobreza, paciencia y conformidad?
-4. Si eres rico o tienes comodidad material, ¿qué convierte una bendición en una prueba, y qué convierte la riqueza en una causa de elevación ante Allah?
-<!-- unit:end -->
-
-<!-- unit:start id="jannah.018.adults.activity" kind="activity" -->
-<!-- activity:start audience="adults" concept_id="lesson.018.activity.share-before-self" -->
-### Actividad: "Da antes que a ti mismo"
-
-Elige un día esta semana para deliberadamente poner a otra persona antes que a ti mismo en algo pequeño: la mejor porción de comida, el primer turno en el servicio, o tu tiempo y atención hacia alguien necesitado. Escribe en tu diario: ¿a quién pusiste primero, y qué sentiste? Luego conecta esto con el propio ejemplo del Profeta ﷺ al preferir a la gente de Suffa y a Abu Hurairah sobre sí mismo con la leche. Cierra con una frase que describa cómo la humildad y preferir a otros pueden ser un camino hacia una posición más alta en el Jannah, sin importar tu condición material.
-<!-- activity:end -->
-<!-- unit:end -->
-
-<!-- unit:start id="jannah.018.adults.bedtime_dua" kind="bedtime-dua" -->
-<!-- bedtime-dua:start audience="adults" id="lesson.018.dua.dignity-not-wealth" provenance="lesson_authored" source_id="" attribution="not_prophetic" -->
-### Súplica antes de dormir
-
-اللَّهُمَّ اجْعَلْنَا مِنَ الْمُتَوَاضِعِينَ الشَّاكِرِينَ، وَإِنْ أَغْنَيْتَنَا فَلَا تَجْعَلِ الْغِنَى فِتْنَةً لَنَا، وَإِنِ ابْتَلَيْتَنَا بِالْفَقْرِ فَارْزُقْنَا الصَّبْرَ وَالْقَنَاعَةَ، وَأَدْخِلْنَا الْجَنَّةَ مَعَ عِبَادِكَ الْمُتَوَاضِعِينَ.
-
-> "Oh Allah, haznos de los humildes agradecidos; y si nos concedes riqueza, no dejes que esa riqueza sea una prueba para nosotros; y si nos pruebas con la pobreza, concédenos paciencia y conformidad; y admítenos en el Jannah entre Tus siervos humildes."
-
-*(Esta es una súplica compuesta para la lección, no un hadiz del Profeta ﷺ; se ofrece como un recordatorio antes de dormir, no se le atribuye a él.)*
-<!-- bedtime-dua:end -->
-<!-- unit:end -->
-
-<!-- lesson-plan:start audience="adults" minutes="45" -->
-### Plan de lección (para el maestro/padre) -- Adultos
-
-<!-- outcomes:start -->
-**Resultados deseados:** El alumno distingue entre el mérito de precedencia y el mérito de elevación, explica por qué la buena noticia dada a los pobres no contradice la dada a algunos ricos justos, y sale con un plan práctico para preferir a otros y practicar la humildad.
-<!-- outcomes:end -->
-
-<!-- materials:start -->
-**Materiales:** Copias de las pruebas anteriores, papel y lápiz para la actividad "Da antes que a ti mismo", una pizarra para anotar la distinción entre "precedencia" y "elevación".
-<!-- materials:end -->
-
-<!-- preparation:start -->
-**Preparación:** Revisar las palabras de Ibn al-Qayyim en *Hadi al-Arwah* y el comentario de Ibn Hayar en *Fath al-Bari* sobre los hadices mencionados antes de enseñar, asegurándose de que la discusión nunca se convierta en censura hacia los ricos ni en una alabanza incondicional de la pobreza.
-<!-- preparation:end -->
-
-<!-- opening:start -->
-**Apertura:** Pregunta: "¿Crees que la riqueza impide que alguien entre al Jannah? ¿Por qué entonces Uzman ibn Affán, uno de los Compañeros más ricos, recibió la buena noticia del Jannah?" Escucha las respuestas antes de presentar las pruebas.
-<!-- opening:end -->
-
-<!-- evidence:start -->
-**Presentación de las pruebas:** Lee los hadices sobre la precedencia (quinientos años / cuarenta otoños), el hadiz sobre los débiles del Jannah, y el hadiz sobre la gran cantidad de esta nación (120 filas, ochenta de esta nación), mencionando la numeración y clasificación (hasan sahih / sahih).
-<!-- evidence:end -->
-
-<!-- instruction:start -->
-**Instrucción:** Explica la distinción entre los méritos de precedencia y elevación citando las propias palabras de Ibn al-Qayyim, luego narra la historia de la gente de Suffa, mostrando cómo la pobreza se unió con la conformidad y la paciencia en su caso -- enfatizando que el objetivo nunca es menospreciar la riqueza, sino exaltar la gratitud y la humildad sin importar la condición de cada uno.
-<!-- instruction:end -->
-
-<!-- activity:start -->
-**Aplicación:** Realiza la actividad "Da antes que a ti mismo" como se describe arriba, reservando cinco minutos para que un participante comparta su experiencia después de llevarla a cabo realmente (puede posponerse a otro día y darle seguimiento entonces).
-<!-- activity:end -->
-
-<!-- assessment:start -->
-**Evaluación:** Pide al alumno que explique en dos frases la diferencia entre precedencia y elevación, y que nombre a un Compañero rico que recibió la buena noticia del Jannah como prueba de que la riqueza en sí misma no es censurable.
-<!-- assessment:end -->
-
-<!-- differentiation:start -->
-**Diferenciación:** Para quienes necesiten mayor simplicidad, limita el material al hadiz de la gente de Suffa y al hadiz de "toda persona débil considerada insignificante", sin entrar en los detalles de conciliar las múltiples narraciones sobre el número de años.
-<!-- differentiation:end -->
-
-<!-- safeguards:start -->
-**Salvaguardas de sensibilidad:** Ten mucho cuidado de que nadie salga de esta lección creyendo que la riqueza es censurable o que una familia con comodidad material está menos cerca de Allah; repite siempre que la verdadera medida es la gratitud, la humildad y la sinceridad, no el dinero en sí.
-<!-- safeguards:end -->
-<!-- lesson-plan:end -->
-
-<!-- unit:start id="jannah.018.adults.terminology" kind="terminology" -->
-### Terminología
-- **Mérito de precedencia:** Entrar al Jannah antes en el tiempo que otra persona.
-- **Mérito de elevación:** Un rango y posición más altos dentro del Jannah, que puede ser independiente de la precedencia.
-- **La gente de Suffa:** Emigrantes pobres que no tenían familia ni riqueza, y que vivían en la mezquita del Profeta ﷺ.
-- **El débil considerado insignificante:** Una persona a quien otros consideran insignificante en este mundo, a pesar de su gran posición ante Allah.
-<!-- unit:end -->
-
-<!-- reader:end -->
-
-<!-- reader:start audience="13+" estimated_minutes="10" -->
-
-## Para adolescentes (13+)
-
-<!-- unit:start id="jannah.018.teen.objectives" kind="explanation" -->
-**Objetivos de la lección:** Comprender que la pobreza sincera unida a la paciencia no es una deficiencia, sino que puede ser una razón para preceder a otros al Jannah -- y que la riqueza unida a la gratitud tampoco lo impide. Se espera que la nación del Profeta ﷺ sea una gran multitud en el Jannah.
-<!-- unit:end -->
-
-<!-- unit:start id="jannah.018.teen.evidence" kind="evidence" -->
-## Pruebas
-<!-- evidence:start id="jannah.018.teen.ev1" kind="hadith" mode="canonical" -->
-El Profeta ﷺ dijo: «فُقَرَاءُ الْمُهَاجِرِينَ يَسْبِقُونَ الْأَغْنِيَاءَ يَوْمَ الْقِيَامَةِ إِلَى الْجَنَّةِ بِخَمْسِمِائَةِ عَامٍ» [al-Tirmidhi 2353, hasan sahih].
-<!-- evidence:translation -->
-> "Los pobres entre los emigrantes precederán a los ricos al Paraíso el Día de la Resurrección por quinientos años."
-<!-- evidence:end -->
-<!-- evidence:start id="jannah.018.teen.ev2" kind="hadith" mode="canonical" -->
-El Profeta ﷺ dijo: «أَلَا أُخْبِرُكُمْ بِأَهْلِ الْجَنَّةِ؟ كُلُّ ضَعِيفٍ مُتَضَعِّفٍ، لَوْ أَقْسَمَ عَلَى اللهِ لَأَبَرَّهُ» [Bujari 6071].
-<!-- evidence:translation -->
-> "¿No os digo quién es la gente del Paraíso? Toda persona humilde a quien otros menospreciaban -- si jurara por Allah, Allah lo cumpliría por él."
-<!-- evidence:end -->
-<!-- evidence:start id="jannah.018.teen.ev3" kind="hadith" mode="canonical" -->
-El Profeta ﷺ dijo: «أَهْلُ الْجَنَّةِ عِشْرُونَ وَمِائَةُ صَفٍّ، ثَمَانُونَ مِنْهَا مِنْ هَذِهِ الْأُمَّةِ» [Tirmidhi 2546, hasan].
-<!-- evidence:translation -->
-> "La gente del Paraíso son ciento veinte filas; ochenta de ellas son de esta nación."
-<!-- evidence:end -->
-<!-- unit:end -->
-
-<!-- unit:start id="jannah.018.teen.interpretation" kind="explanation" -->
 #### Explicación de la lección
-Estos hadices no significan que la riqueza sea un defecto. Uzman ibn Affán y Abdurrahmán ibn Awf estuvieron entre los Compañeros más ricos y ambos recibieron la buena noticia del Jannah. La distinción -- como explicó Ibn al-Qayyim -- está entre "quién entra primero" y "cuyo rango es más alto". Un pobre sincero puede entrar antes en el tiempo, mientras que un rico agradecido puede ser elevado a un rango más alto mediante la generosidad y la gratitud sincera. La verdadera medida, entonces, es la sinceridad del corazón, no el tamaño de una cuenta bancaria.
-<!-- unit:end -->
 
-<!-- unit:start id="jannah.018.teen.authenticated_story" kind="authenticated_story" -->
-### Relato auténtico: la noche de la leche con la gente de Suffa
-<!-- retelling:start source_id="bukhari-6452" audience="13+" -->
-Un día, a Abu Hurairah lo asaltó un hambre tan severa que se ató una piedra al vientre, y se sentó en el camino del Profeta ﷺ preguntando sobre un versículo del Corán, esperando que algún Compañero notara su hambre y lo alimentara. Abu Bakr y Umar pasaron sin notarlo, hasta que el Profeta ﷺ pasó y reconoció su necesidad solo por la expresión de su rostro, y lo llevó a casa. Allí el Profeta ﷺ encontró un tazón de leche que le habían regalado, y le dijo a Abu Hurairah que fuera a llamar a toda la gente de Suffa -- los emigrantes pobres que no tenían más refugio que la mezquita del Profeta ﷺ.
+Este hadiz pone la balanza en su sitio: quien en este mundo es despreciado puede ser, ante Allah, de los de mayor valía. Lo que cuenta es el estado del corazón, no el del bolsillo.
 
-Abu Hurairah esperaba en secreto que le dieran la leche antes que a ellos, pero obedeció y los llamó a todos, sirviendo a cada uno por turno hasta que todos bebieron hasta saciarse. Solo quedaron él y el Profeta ﷺ. El Profeta ﷺ le dijo: "Siéntate y bebe", y Abu Hurairah bebió hasta decir: "¡Por Allah, ya no encuentro más espacio en mí!" El Profeta ﷺ sonrió y bebió lo que quedaba. La gente de Suffa nunca se quejó de su pobreza; eran pacientes y estaban conformes, y el Profeta ﷺ mismo los honraba.
-<!-- retelling:end -->
-<!-- unit:end -->
-
-<!-- unit:start id="jannah.018.teen.questions" kind="questions" -->
-### Preguntas
-1. ¿Por qué obedeció Abu Hurairah aunque personalmente quería beber primero?
-2. ¿Cómo equilibras el hadiz sobre los pobres precediendo a otros con el hadiz sobre Uzman y Abdurrahmán ibn Awf recibiendo la buena noticia del Jannah?
-<!-- unit:end -->
-
-<!-- unit:start id="jannah.018.teen.activity" kind="activity" -->
-<!-- activity:start audience="13+" concept_id="lesson.018.activity.share-before-self" -->
-### Actividad: "Da antes que a ti mismo"
-Durante una semana, registra cada día una situación en la que pusiste a otra persona antes que a ti mismo (tu turno, tu porción, tu tiempo), y escribe una línea conectándola con la historia de la gente de Suffa. Al final de la semana, escribe un párrafo corto: ¿cambiaron tus sentimientos sobre la humildad y preferir a otros?
-<!-- activity:end -->
-<!-- unit:end -->
-
-<!-- unit:start id="jannah.018.teen.bedtime_dua" kind="bedtime-dua" -->
-<!-- bedtime-dua:start audience="13+" id="lesson.018.dua.dignity-not-wealth" provenance="lesson_authored" source_id="" attribution="not_prophetic" -->
-### Súplica antes de dormir
-اللَّهُمَّ اجْعَلْنَا مِنَ الْمُتَوَاضِعِينَ الشَّاكِرِينَ، وَإِنْ أَغْنَيْتَنَا فَلَا تَجْعَلِ الْغِنَى فِتْنَةً لَنَا، وَإِنِ ابْتَلَيْتَنَا بِالْفَقْرِ فَارْزُقْنَا الصَّبْرَ وَالْقَنَاعَةَ، وَأَدْخِلْنَا الْجَنَّةَ مَعَ عِبَادِكَ الْمُتَوَاضِعِينَ.
-
-> "Oh Allah, haznos de los humildes agradecidos; y si nos concedes riqueza, no dejes que esa riqueza sea una prueba para nosotros; y si nos pruebas con la pobreza, concédenos paciencia y conformidad; y admítenos en el Jannah entre Tus siervos humildes."
-<!-- bedtime-dua:end -->
-<!-- unit:end -->
-
-<!-- lesson-plan:start audience="13+" minutes="30" -->
-### Plan de lección -- Adolescentes
-<!-- lesson-plan:outcomes -->
-**Resultados:** Comprender la diferencia entre precedencia y elevación, y conectar la historia de la gente de Suffa con la virtud de preferir a otros.
-<!-- lesson-plan:materials -->
-**Materiales:** Copia de las pruebas y la historia, un diario para la actividad semanal.
-<!-- lesson-plan:instruction -->
-**Instrucción:** Presenta las pruebas, narra la historia, luego abre el debate usando las preguntas de reflexión, enfatizando que la riqueza nunca es censurable en sí misma.
-<!-- lesson-plan:activity -->
-**Aplicación:** Comienza la actividad semanal "Da antes que a ti mismo" y fija un día de seguimiento.
-<!-- lesson-plan:end -->
-
-<!-- unit:start id="jannah.018.teen.terminology" kind="terminology" -->
-### Terminología
-- **Preferir a otros (iZar):** Poner a otros antes que a ti mismo cuando hay una necesidad.
-- **La gente de Suffa:** Emigrantes pobres que vivían en la mezquita del Profeta ﷺ.
-<!-- unit:end -->
-
-<!-- reader:end -->
-
-<!-- reader:start audience="8-12" estimated_minutes="8" -->
-
-## Para niños (8-12)
-
-<!-- unit:start id="jannah.018.812.objectives" kind="explanation" -->
-Aprenderemos que alguien pobre pero paciente y agradecido con Allah es amado por Él, ¡y puede incluso entrar al Jannah antes que muchas personas ricas! Pero esto no significa que la riqueza sea mala -- algunos de los Compañeros ricos del Profeta ﷺ también recibieron la buena noticia del Jannah.
-<!-- unit:end -->
-
-<!-- unit:start id="jannah.018.812.evidence" kind="evidence" -->
-## Un hadiz
-<!-- evidence:start id="jannah.018.812.ev1" kind="hadith" mode="canonical" -->
-El Profeta ﷺ dijo: «أَلَا أُخْبِرُكُمْ بِأَهْلِ الْجَنَّةِ؟ كُلُّ ضَعِيفٍ مُتَضَعِّفٍ، لَوْ أَقْسَمَ عَلَى اللهِ لَأَبَرَّهُ» [Bujari 6071].
-<!-- evidence:translation -->
-> "¿Os digo quién es la gente del Paraíso? Toda persona humilde a quien otros menospreciaban -- si le pidiera algo a Allah, Allah se lo daría."
 <!-- evidence:end -->
+
+<!-- evidence:start id="tirmidhi-2351" kind="hadith" mode="canonical" -->
+
+### Los pobres de los emigrantes entran en el Paraíso antes que sus ricos
+
+> عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ رضي الله عنه، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ: **«فُقَرَاءُ الْمُهَاجِرِينَ يَدْخُلُونَ الْجَنَّةَ قَبْلَ أَغْنِيَائِهِمْ بِخَمْسِمِائَةِ سَنَةٍ»**.[^2]
+
+<!-- evidence:translation -->
+
+#### Traducción al español
+
+> De Abu Sa'id al-Judri, que Allah esté complacido con él, que el Profeta, la paz y las bendiciones de Allah sean con él, dijo: **«Los pobres de los emigrantes entrarán en el Paraíso quinientos años antes que sus ricos»**.[^2]
+
+#### Interpretación académica
+
+Los pobres de los emigrantes (muhayirun) son quienes dejaron atrás sus bienes, su familia y su tierra al emigrar hacia Allah y Su Mensajero, la paz y las bendiciones de Allah sean con él, hasta no conservar nada de este mundo: unieron la emigración del corazón a la de unas manos que se quedaron vacías. Los sabios señalaron que esta precedencia es una honra a la sinceridad de su pobreza y de su paciencia, no un dictamen general que prive de este mérito a todo rico; pues algunos de los que fueron ricos, sinceros y agradecidos pueden alcanzar una precedencia semejante, o algo aún mayor, gracias a su caridad y a lo que gastaron por Allah.
+
+#### Explicación de la lección
+
+Se trata aquí de una precedencia en el tiempo, no de un veredicto sobre el rango definitivo: el pobre sincero puede entrar primero, y el rico agradecido y generoso puede, sin embargo, ocupar en el Paraíso un grado más alto que él si sus buenas obras son muchas y su gratitud sincera. No es, pues, una competición entre el pobre y el rico, sino una invitación a cada uno de ellos a ser veraz con Allah en la situación que le ha tocado.
+
+<!-- evidence:end -->
+
+<!-- evidence:start id="bukhari-5196" kind="hadith" mode="canonical" -->
+
+### «Me detuve a la puerta del Paraíso, y la mayoría de quienes entraban eran los necesitados»
+
+> عَنْ أُسَامَةَ بْنِ زَيْدٍ رضي الله عنهما قَالَ: قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم: **«قُمْتُ عَلَى بَابِ الْجَنَّةِ، فَإِذَا عَامَّةُ مَنْ دَخَلَهَا الْمَسَاكِينُ، وَأَصْحَابُ الْجَدِّ مَحْبُوسُونَ، غَيْرَ أَصْحَابِ النَّارِ فَقَدْ أُمِرَ بِهِمْ إِلَى النَّارِ، وَقُمْتُ عَلَى بَابِ النَّارِ، فَإِذَا عَامَّةُ مَنْ دَخَلَهَا النِّسَاءُ»**.[^3]
+
+<!-- evidence:translation -->
+
+#### Traducción al español
+
+> De Usama ibn Zaid, que Allah esté complacido con él y con su padre, que dijo: el Mensajero de Allah, la paz y las bendiciones de Allah sean con él, dijo: **«Me detuve a la puerta del Paraíso, y la mayoría de quienes entraban eran los necesitados, mientras que la gente de fortuna estaba retenida; salvo los destinados al Fuego, a quienes ya se había ordenado conducir al Fuego. Y me detuve a la puerta del Fuego, y la mayoría de quienes entraban eran mujeres»**.[^3]
+
+#### Interpretación académica
+
+El hafiz Ibn Hayar, que Allah tenga misericordia de él, aclaró que "la gente de fortuna" (ashab al-yadd) son quienes en este mundo gozaron de riqueza, buena suerte y prestigio, y que "retenidos" no significa que se les impida entrar en el Paraíso, sino que se los detiene para una larga rendición de cuentas por los bienes y las gracias que recibieron: cómo los ganaron y en qué los gastaron. Cuando concluye su cuenta, entra en el Paraíso aquel de ellos que haya de entrar; pero se retrasan por lo largo de ese examen, mientras se les adelantan los necesitados, a quienes no se pregunta por lo mismo que a los ricos.
+
+#### Explicación de la lección
+
+Este hadiz impide entender el mérito de los pobres como una sentencia contra los ricos: el retraso se debe aquí a lo largo de la cuenta, no a que se les niegue la entrada. Y es un recordatorio para todo aquel a quien Allah ha dado holgura de que la gracia recibida es un depósito por el que se le preguntará.
+
+<!-- evidence:end -->
+
+<!-- evidence:start id="bukhari-6452" kind="hadith" mode="canonical" -->
+
+### El hadiz de Abu Huraira, que Allah esté complacido con él, sobre su hambre y la gente de la Suffa
+
+> عَنْ أَبِي هُرَيْرَةَ رضي الله عنه قَالَ: أَصَابَنِي جَهْدٌ شَدِيدٌ، فَلَقِيتُ عُمَرَ بْنَ الْخَطَّابِ رضي الله عنه فَسَأَلْتُهُ عَنْ آيَةٍ مِنْ كِتَابِ اللَّهِ، مَا سَأَلْتُهُ إِلَّا لِيُشْبِعَنِي، فَمَرَّ وَلَمْ يَفْعَلْ، ثُمَّ لَقِيتُ أَبَا بَكْرٍ رضي الله عنه فَسَأَلْتُهُ عَنِ الْآيَةِ، مَا سَأَلْتُهُ إِلَّا لِيُشْبِعَنِي، فَمَرَّ وَلَمْ يَفْعَلْ، حَتَّى مَرَّ بِي أَبُو الْقَاسِمِ صلى الله عليه وسلم فَتَبَسَّمَ حِينَ رَآنِي، وَعَرَفَ مَا فِي نَفْسِي وَمَا فِي وَجْهِي، ثُمَّ قَالَ: **«يَا أَبَا هِرٍّ»**، قُلْتُ: لَبَّيْكَ يَا رَسُولَ اللَّهِ، قَالَ: **«الْحَقْ»**، وَمَضَى فَاتَّبَعْتُهُ، فَدَخَلَ فَاسْتَأْذَنَ فَأُذِنَ لِي فَدَخَلْتُ، فَوَجَدَ لَبَنًا فِي قَدَحٍ، فَقَالَ: **«مِنْ أَيْنَ هَذَا اللَّبَنُ؟»** قَالُوا: أَهْدَاهُ لَكَ فُلَانٌ، قَالَ: **«يَا أَبَا هِرٍّ»**، قُلْتُ: لَبَّيْكَ يَا رَسُولَ اللَّهِ، قَالَ: **«الْحَقْ إِلَى أَهْلِ الصُّفَّةِ فَادْعُهُمْ لِي»**.
+>
+> قَالَ أَبُو هُرَيْرَةَ: وَأَهْلُ الصُّفَّةِ أَضْيَافُ الْإِسْلَامِ، لَا يَأْوُونَ إِلَى أَهْلٍ وَلَا مَالٍ وَلَا عَلَى أَحَدٍ، إِذَا أَتَتْهُ صَدَقَةٌ بَعَثَ بِهَا إِلَيْهِمْ وَلَمْ يَتَنَاوَلْ مِنْهَا شَيْئًا، وَإِذَا أَتَتْهُ هَدِيَّةٌ أَرْسَلَ إِلَيْهِمْ وَأَصَابَ مِنْهَا وَأَشْرَكَهُمْ فِيهَا. فَسَاءَنِي ذَلِكَ، فَقُلْتُ: وَمَا هَذَا اللَّبَنُ فِي أَهْلِ الصُّفَّةِ؟ كُنْتُ أَحَقُّ أَنَا أَنْ أُصِيبَ مِنْ هَذَا اللَّبَنِ شَرْبَةً أَتَقَوَّى بِهَا، فَإِذَا جَاءُوا أَمَرَنِي فَكُنْتُ أَنَا أُعْطِيهِمْ، وَمَا عَسَى أَنْ يَبْلُغَنِي مِنْ هَذَا اللَّبَنِ؟ وَلَمْ يَكُنْ مِنْ طَاعَةِ اللَّهِ وَطَاعَةِ رَسُولِهِ صلى الله عليه وسلم بُدٌّ، فَأَتَيْتُهُمْ فَدَعَوْتُهُمْ فَأَقْبَلُوا، فَاسْتَأْذَنُوا فَأُذِنَ لَهُمْ وَأَخَذُوا مَجَالِسَهُمْ مِنَ الْبَيْتِ، قَالَ: **«يَا أَبَا هِرٍّ»**، قُلْتُ: لَبَّيْكَ يَا رَسُولَ اللَّهِ، قَالَ: **«خُذْ فَأَعْطِهِمْ»**.
+>
+> قَالَ: فَأَخَذْتُ الْقَدَحَ فَجَعَلْتُ أُعْطِيهِ الرَّجُلَ فَيَشْرَبُ حَتَّى يَرْوَى، ثُمَّ يَرُدُّ عَلَيَّ الْقَدَحَ فَأُعْطِيهِ الرَّجُلَ الْآخَرَ حَتَّى يَرْوَى، ثُمَّ يَرُدُّ عَلَيَّ الْقَدَحَ، حَتَّى انْتَهَيْتُ إِلَى النَّبِيِّ صلى الله عليه وسلم وَقَدْ رَوِيَ الْقَوْمُ كُلُّهُمْ، فَأَخَذَ الْقَدَحَ فَوَضَعَهُ عَلَى يَدِهِ، فَنَظَرَ إِلَيَّ فَتَبَسَّمَ، فَقَالَ: **«يَا أَبَا هِرٍّ»**، قُلْتُ: لَبَّيْكَ يَا رَسُولَ اللَّهِ، قَالَ: **«بَقِيتُ أَنَا وَأَنْتَ»**، قُلْتُ: صَدَقْتَ يَا رَسُولَ اللَّهِ، قَالَ: **«اقْعُدْ فَاشْرَبْ»**، فَقَعَدْتُ فَشَرِبْتُ، فَقَالَ: **«اشْرَبْ»**، فَشَرِبْتُ، فَمَا زَالَ يَقُولُ: **«اشْرَبْ»** حَتَّى قُلْتُ: لَا وَالَّذِي بَعَثَكَ بِالْحَقِّ، مَا أَجِدُ لَهُ مَسْلَكًا، قَالَ: **«فَأَرِنِي»**، فَأَعْطَيْتُهُ الْقَدَحَ فَحَمِدَ اللَّهَ وَسَمَّى وَشَرِبَ الْفَضْلَةَ.[^4]
+
+<!-- evidence:translation -->
+
+#### Traducción al español
+
+> De Abu Huraira, que Allah esté complacido con él, que dijo: Me sobrevino un agotamiento extremo. Me encontré con Umar ibn al-Jattab, que Allah esté complacido con él, y le pregunté por una aleya del Libro de Allah; y no se la pregunté sino para que me diera de comer. Pero siguió su camino y no lo hizo. Después me encontré con Abu Bakr, que Allah esté complacido con él, y le pregunté por la aleya; y no se la pregunté sino para que me diera de comer. Pero siguió su camino y no lo hizo. Hasta que pasó junto a mí Abu l-Qasim, la paz y las bendiciones de Allah sean con él, que sonrió al verme, pues comprendió lo que había en mi alma y lo que se leía en mi cara. Luego dijo: **«¡Abu Hirr!»**. Respondí: "¡Aquí me tienes, oh Mensajero de Allah!". Dijo: **«Sígueme»**, y echó a andar, y yo lo seguí. Entró, pidió permiso para mí, se me concedió y entré. Encontró leche en un cuenco y preguntó: **«¿De dónde ha salido esta leche?»**. Le dijeron: "Te la ha regalado Fulano". Dijo: **«¡Abu Hirr!»**. Respondí: "¡Aquí me tienes, oh Mensajero de Allah!". Dijo: **«Ve a la gente de la Suffa y llámalos para que vengan a mí»**.
+>
+> Dijo Abu Huraira: La gente de la Suffa eran los huéspedes del islam; no tenían familia ni bienes a los que acogerse, ni nadie en quien apoyarse. Cuando al Profeta le llegaba una limosna, se la enviaba a ellos sin tomar nada para sí; y cuando le llegaba un regalo, los mandaba llamar, tomaba parte de él y los hacía partícipes. Aquello me sentó mal, y me dije: "¿Qué es esta leche para toda la gente de la Suffa? Yo tenía más derecho a tomar de ella un trago que me devolviera las fuerzas. Cuando lleguen, me lo mandará a mí, y seré yo quien se la sirva; ¿y qué va a quedarme entonces de esta leche?". Pero no había manera de eludir la obediencia a Allah y a Su Mensajero, la paz y las bendiciones de Allah sean con él. Así que fui a buscarlos y los llamé, y vinieron. Pidieron permiso, se les concedió y ocuparon sus sitios en la casa. Dijo: **«¡Abu Hirr!»**. Respondí: "¡Aquí me tienes, oh Mensajero de Allah!". Dijo: **«Tómalo y sírveles»**.
+>
+> Dijo: Tomé el cuenco y empecé a dárselo a uno, que bebía hasta quedar saciado; luego me devolvía el cuenco y yo se lo daba al siguiente, que bebía hasta quedar saciado; luego me devolvía el cuenco... Así hasta que llegué al Profeta, la paz y las bendiciones de Allah sean con él, cuando ya todos se habían saciado. Él tomó el cuenco, lo puso sobre su mano, me miró, sonrió y dijo: **«¡Abu Hirr!»**. Respondí: "¡Aquí me tienes, oh Mensajero de Allah!". Dijo: **«Quedamos tú y yo»**. Le dije: "Dices verdad, oh Mensajero de Allah". Dijo: **«Siéntate y bebe»**. Me senté y bebí. Dijo: **«Bebe»**, y bebí. Y no dejaba de decirme **«Bebe»**, hasta que exclamé: "¡No, por Quien te envió con la Verdad, ya no le encuentro sitio!". Dijo: **«Entonces, dámelo»**. Le di el cuenco; alabó a Allah, pronunció Su nombre y bebió lo que quedaba.[^4]
+
+#### Interpretación académica
+
+El hadiz es prueba de la extrema pobreza de la gente de la Suffa y de cómo el Profeta, la paz y las bendiciones de Allah sean con él, les daba preferencia con lo que le llegaba, incluso con lo que era su propio sustento. Muestra también que Abu Huraira, que Allah esté complacido con él, no ocultó su deseo sincero de beber primero, y que no se le reprochó ese pensamiento tan natural; su mérito estuvo en no anteponer su apetencia a la orden del Profeta, la paz y las bendiciones de Allah sean con él: obedeció y sirvió primero a sus hermanos hasta que todos quedaron saciados, y después el Profeta, la paz y las bendiciones de Allah sean con él, lo honró haciéndole beber, al final, a su lado.
+
+#### Explicación de la lección
+
+Este hadiz es el relato auténtico que sostiene toda la lección: una pobreza real, que llegó a obligarle a atarse una piedra al vientre; un deseo humano y natural de adelantarse a los demás hambrientos; y, aun así, obediencia e izar cuando Abu Huraira puso en la balanza su apetito inmediato frente a la orden del Profeta, la paz y las bendiciones de Allah sean con él. El resultado fue que todos se saciaron, y él también, al final, junto al mismo Profeta, la paz y las bendiciones de Allah sean con él: no perdió nada, sino que fue honrado con su cercanía y su compañía. Este es precisamente el sentido de sus palabras `كُلُّ ضَعِيفٍ مُتَضَعِّفٍ` ("todo débil, tenido en poco"): un pobre en quien nadie repara, pero que ante Allah se cuenta entre la gente de la sinceridad y del izar.
+
+<!-- evidence:end -->
+
 <!-- unit:end -->
 
-<!-- unit:start id="jannah.018.812.primary_story" kind="primary_story" -->
-<!-- story:start audience="8-12" role="primary" type="islamic_heritage" source_id="bukhari-6452" authenticated="true" -->
-### Historia: La taza de leche
+<!-- unit:start id="adults.questions" kind="questions" -->
 
-Abu Hurairah, que Allah esté complacido con él, era uno de los Compañeros del Profeta ﷺ, y era muy pobre -- no tenía casa propia ni comida segura. Vivía con un grupo de gente pobre llamada "la gente de Suffa", que dormían en la mezquita del Profeta ﷺ porque no tenían otro refugio.
+## Preguntas para la comprensión y la reflexión
 
-Un día, Abu Hurairah sintió un hambre terrible. Se sentó junto al camino, esperando que alguien notara su condición. Abu Bakr y Umar, que Allah esté complacido con ellos, pasaron sin notarlo. Luego pasó el Profeta ﷺ, miró el rostro de Abu Hurairah y comprendió por sus ojos que tenía hambre. Le dijo: "Ven conmigo."
+1. ¿Qué diferencia hay entre que los pobres se adelanten en el tiempo al entrar en el Paraíso y que alcancen en él un grado más alto? ¿Y por qué eso no contradice la buena nueva del Paraíso dada a algunos ricos, como Uzman y Abd ar-Rahman ibn Awf, que Allah esté complacido con ellos?
+2. ¿De qué manera entender "la gente de fortuna está retenida" como una retención para rendir cuentas impide leer el hadiz como una condena de la riqueza en sí misma?
+3. ¿Por qué no se le reprochó a Abu Huraira, que Allah esté complacido con él, su deseo íntimo de beber primero? ¿Dónde estuvo el verdadero mérito de su actitud?
+4. Recuerda una situación real de tu vida en la que tu propio deseo chocara con la posibilidad de dar preferencia a otro. ¿Cómo terminó?
 
-Entraron en la casa del Profeta ﷺ y encontraron un regalo: una taza de leche. El Profeta ﷺ le dijo a Abu Hurairah: "Ve y llama a toda la gente de Suffa." Abu Hurairah deseaba en secreto beber primero, porque tenía mucha hambre -- pero obedeció al Profeta ﷺ y los llamó a todos.
-
-Abu Hurairah se puso de pie y dio a cada uno su turno para beber hasta saciarse, uno tras otro, ¡hasta que no quedó nadie más que él y el Profeta ﷺ! Entonces el Profeta ﷺ le dijo con una sonrisa: "Ahora bebe tú." Abu Hurairah bebió hasta decir: "¡Por Allah, ya no hay lugar ni para una gota más!" El Profeta ﷺ sonrió y bebió lo que quedaba.
-
-Abu Hurairah era pobre, pero no estaba triste ni enojado -- era paciente y feliz de estar cerca del Profeta ﷺ. Y el Profeta ﷺ lo honraba y nunca lo olvidaba, aunque no era rico ni famoso.
-<!-- story:end -->
 <!-- unit:end -->
 
-<!-- unit:start id="jannah.018.812.questions" kind="questions" -->
-### Preguntas
-1. ¿Qué hizo Abu Hurairah, aunque quería beber primero?
-2. ¿Por qué amaba el Profeta ﷺ a la gente de Suffa, aunque eran pobres?
-3. ¿Significa ser pobre que Allah no ama a una persona? ¿Por qué sí o por qué no?
-<!-- unit:end -->
+<!-- unit:start id="adults.activity" kind="activity" -->
 
-<!-- unit:start id="jannah.018.812.activity" kind="activity" -->
-<!-- activity:start audience="8-12" concept_id="lesson.018.activity.share-before-self" -->
-### Actividad: "Dalo primero"
-Elige un día para poner a un hermano o amigo antes que a ti mismo en algo pequeño (un dulce, tu turno en un juego, o tu asiento). Dibuja o escribe qué hiciste y cómo te sentiste, y conéctalo con la historia de Abu Hurairah, que dio la leche a otros antes que a sí mismo.
+### Actividad: "Servir antes de servirse"
+
+<!-- activity:start audience="adults" concept_id="lesson.018.activity.share-before-self" -->
+
+Elige un día concreto de esta semana en el que te propongas, a conciencia, poner a otra persona por delante de ti en algo pequeño y tangible: la mejor porción de la comida, tu turno en una fila o en un servicio, o tu tiempo y tu atención para alguien que de verdad los necesite. Escribe: ¿a quién pusiste por delante? ¿Qué sentiste al hacerlo? Después relaciona tu experiencia con la de Abu Huraira, que Allah esté complacido con él, cuando sirvió de beber a toda la gente de la Suffa antes de beber él, aunque en su interior deseaba ser el primero. Termina con una sola frase que describa cómo la humildad y el izar pueden ser un camino para ascender de grado ante Allah, sea cual sea tu situación económica, rico o pobre.
+
 <!-- activity:end -->
-<!-- unit:end -->
 
-<!-- unit:start id="jannah.018.812.bedtime_dua" kind="bedtime-dua" -->
-<!-- bedtime-dua:start audience="8-12" id="lesson.018.dua.dignity-not-wealth" provenance="lesson_authored" source_id="" attribution="not_prophetic" -->
-### Súplica antes de dormir
-اللَّهُمَّ اجْعَلْنِي مُتَوَاضِعًا شَاكِرًا، وَارْزُقْنِي الصَّبْرَ وَالْقَنَاعَةَ، وَأَدْخِلْنِي الْجَنَّةَ مَعَ عِبَادِكَ الصَّالِحِينَ.
-
-> "Oh Allah, hazme humilde y agradecido, concédeme paciencia y conformidad, y admíteme en el Jannah con Tus siervos justos."
-<!-- bedtime-dua:end -->
-<!-- unit:end -->
-
-<!-- lesson-plan:start audience="8-12" minutes="20" -->
-### Plan de lección -- 8-12
-<!-- lesson-plan:outcomes -->
-**Resultados:** El niño conecta la paciencia y la pobreza con la cercanía a Allah, sin pensar que la riqueza es mala.
-<!-- lesson-plan:materials -->
-**Materiales:** Papel y colores para dibujar la historia, la tarjeta de actividad.
-<!-- lesson-plan:instruction -->
-**Instrucción:** Lee la historia con expresión, pausando en el momento en que Abu Hurairah deseaba beber primero para preguntar a los niños: ¿qué habrían hecho ellos?
-<!-- lesson-plan:activity -->
-**Aplicación:** Realicen la actividad "Dalo primero" juntos el mismo día si es posible.
-<!-- lesson-plan:end -->
-
-<!-- unit:start id="jannah.018.812.terminology" kind="terminology" -->
-### Palabras nuevas
-- **La gente de Suffa:** Compañeros pobres del Profeta ﷺ que dormían en la mezquita.
-- **Preferir a otros:** Dar algo a otra persona antes que a ti mismo.
 <!-- unit:end -->
 
 <!-- reader:end -->
 
-<!-- reader:start audience="4-7" estimated_minutes="5" -->
+## Para niños de 4 a 7 años
 
-## Para los más pequeños (4-7)
+<!-- reader:start audience="4-7" estimated_minutes="5.0" -->
 
-<!-- unit:start id="jannah.018.47.objectives" kind="explanation" -->
-Allah ama a quienes son pacientes y agradecidos, tengan mucho o poco dinero.
+<!-- unit:start id="4-7.explanation" kind="explanation" -->
+
+Allah quiere a quien tiene paciencia cuando no tiene mucho, y quiere a quien comparte con sus amigos en vez de quedarse lo mejor para él. Nuestro Profeta Muhammad, la paz y las bendiciones de Allah sean con él, nos contó que Allah quiere muchísimo a sus amigos pobres y pacientes, y que uno de ellos hizo algo precioso aunque tenía mucha hambre.
+
 <!-- unit:end -->
 
-<!-- unit:start id="jannah.018.47.primary_story" kind="primary_story" -->
+<!-- unit:start id="4-7.primary-story" kind="primary_story" -->
+
+### Un hecho real: Abu Huraira y el vaso de leche
+
 <!-- story:start audience="4-7" role="primary" type="islamic_heritage" source_id="bukhari-6452" authenticated="true" -->
-### Historia: La pequeña taza de leche
 
-Abu Hurairah era amigo del Profeta ﷺ, y un día estaba pobre y hambriento. El Profeta ﷺ lo vio y supo que tenía hambre, así que lo llevó a casa. Allí solo había una pequeña taza de leche.
+**Esto pasó de verdad a un Compañero del Profeta que se llamaba Abu Huraira, que Allah esté complacido con él; no es un cuento inventado.**
 
-El Profeta ﷺ dijo: "Llama a nuestros amigos pobres para que beban primero." Abu Hurairah quería beber primero porque tenía mucha hambre, pero escuchó al Profeta ﷺ y llamó a sus amigos.
+Abu Huraira era amigo del Profeta, la paz y las bendiciones de Allah sean con él. Era muy pobre y no tenía casa. Un día tenía tanta, tanta hambre que se ató una piedra a la barriga para que le doliera menos. Se sentó en el camino por donde pasaba el Profeta, la paz y las bendiciones de Allah sean con él. Y el Profeta, la paz y las bendiciones de Allah sean con él, pasó, le miró la cara y entendió enseguida que tenía hambre. Entonces le dijo: «Ven conmigo». Y Abu Huraira se fue con él a su casa.[^4]
 
-¡Cada amigo bebió un poco de leche hasta que todos quedaron satisfechos! Al final, el Profeta ﷺ le dio la taza a Abu Hurairah y dijo: "Ahora bebe tú." Abu Hurairah bebió y estuvo feliz, y el Profeta ﷺ sonrió porque le encantó que Abu Hurairah compartiera primero con sus amigos.
+En la casa, el Profeta, la paz y las bendiciones de Allah sean con él, encontró un vaso de leche que alguien le había regalado. Y le dijo a Abu Huraira: «Ve a llamar a la gente de la Suffa». La gente de la Suffa eran sus amigos pobres, que no tenían casa y dormían en la mezquita del Profeta, la paz y las bendiciones de Allah sean con él. Abu Huraira, en su corazón, tenía muchas ganas de beber él primero, porque tenía muchísima hambre. Pero obedeció al Profeta, la paz y las bendiciones de Allah sean con él: fue y llamó a todos sus amigos.[^4]
+
+Abu Huraira se quedó de pie y le dio de beber a cada uno, hasta que se llenaba; y luego al siguiente, uno detrás de otro, hasta que todos bebieron. ¡Y solo quedaban él y el Profeta, la paz y las bendiciones de Allah sean con él! Entonces el Profeta, la paz y las bendiciones de Allah sean con él, le sonrió y le dijo: «Quedamos tú y yo». Y luego: «Siéntate y bebe». Abu Huraira bebió hasta quedar llenito, y el Profeta, la paz y las bendiciones de Allah sean con él, se bebió lo último que quedaba en el vaso.[^4]
+
+<!-- retelling:start source_id="bukhari-6452" audience="4-7" -->
+
+Todo esto quiere decir, de forma sencilla: Abu Huraira tenía mucha hambre y quería beber primero, pero les dio la leche a sus amigos antes que a él porque el Profeta, la paz y las bendiciones de Allah sean con él, se lo pidió. Y no perdió nada: al final también bebió, y se puso muy contento por haber compartido.[^4]
+
+<!-- retelling:end -->
+
 <!-- story:end -->
+
 <!-- unit:end -->
 
-<!-- unit:start id="jannah.018.47.questions" kind="questions" -->
-### Preguntas
-1. ¿A quién llamó Abu Hurairah para beber la leche?
-2. ¿Se la dio a sus amigos primero, o bebió él primero?
+<!-- unit:start id="4-7.questions" kind="questions" -->
+
+### Preguntas cortas
+
+1. ¿Por qué se sentó Abu Huraira en el camino por donde pasaba el Profeta, la paz y las bendiciones de Allah sean con él?
+2. ¿Quién bebió la leche primero: la gente de la Suffa o Abu Huraira?
+3. ¿Perdió algo Abu Huraira por dejar que sus amigos bebieran antes?
+
 <!-- unit:end -->
 
-<!-- unit:start id="jannah.018.47.activity" kind="activity" -->
+<!-- unit:start id="4-7.activity" kind="activity" -->
+
+### Actividad: ¡Comparte primero!
+
 <!-- activity:start audience="4-7" concept_id="lesson.018.activity.share-before-self" -->
-### Actividad: Comparte primero
-Hoy, dale a alguien algo bonito (un dulce, un juguete, tu turno) antes de tomarlo para ti mismo. ¡Dibuja tu cara mientras compartes!
+
+Hoy, dale a alguien algo que te guste mucho (un caramelo, un juguete o tu turno en un juego) antes de quedártelo tú. Después, con tu papá o tu mamá, dibuja tu cara mientras compartes y cuéntales: ¿cómo te sentiste al dejar pasar primero a otro, como hizo Abu Huraira?
+
 <!-- activity:end -->
+
 <!-- unit:end -->
 
-<!-- unit:start id="jannah.018.47.bedtime_dua" kind="bedtime-dua" -->
-<!-- bedtime-dua:start audience="4-7" id="lesson.018.dua.dignity-not-wealth" provenance="lesson_authored" source_id="" attribution="not_prophetic" -->
+<!-- unit:start id="4-7.bedtime-dua" kind="bedtime_dua" -->
+
 ### Súplica antes de dormir
-اللَّهُمَّ اجْعَلْنِي أُحِبُّ الْمُشَارَكَةَ، وَاجْعَلْنِي مِنْ أَهْلِ الْجَنَّةِ.
 
-> "Oh Allah, hazme amar el compartir, y hazme uno de la gente del Jannah."
+<!-- bedtime-dua:start audience="4-7" id="lesson.018.dua.dignity-not-wealth" provenance="lesson_authored" source_id="" attribution="not_prophetic" -->
+
+**Súplica temática compuesta para esta lección; no se atribuye al Profeta, la paz y las bendiciones de Allah sean con él.**
+
+> اللَّهُمَّ اجْعَلْنَا مِنَ الْمُتَوَاضِعِينَ الشَّاكِرِينَ، وَإِنْ أَغْنَيْتَنَا فَلَا تَجْعَلِ الْغِنَى فِتْنَةً لَنَا، وَإِنِ ابْتَلَيْتَنَا بِالْفَقْرِ فَارْزُقْنَا الصَّبْرَ وَالْقَنَاعَةَ، وَأَدْخِلْنَا الْجَنَّةَ مَعَ عِبَادِكَ الْمُتَوَاضِعِينَ.
+>
+> *"Oh Allah, haz que seamos humildes y agradecidos. Si nos das mucho, que la riqueza no nos aparte de Ti; si nos pruebas con la pobreza, danos paciencia y un corazón contento; y llévanos al Paraíso con Tus siervos humildes."*
+
 <!-- bedtime-dua:end -->
-<!-- unit:end -->
 
-<!-- lesson-plan:start audience="4-7" minutes="12" -->
-### Plan de lección -- 4-7
-<!-- lesson-plan:outcomes -->
-**Resultados:** El niño comprende el compartir antes de tomar para sí mismo de una manera simple y cariñosa.
-<!-- lesson-plan:materials -->
-**Materiales:** Papel y colores, una taza vacía para actuar la historia.
-<!-- lesson-plan:instruction -->
-**Instrucción:** Actúa la historia con una taza vacía, fingiendo servir "leche" a muñecos o amigos del niño antes de que el niño "beba".
-<!-- lesson-plan:activity -->
-**Aplicación:** Realicen la actividad "Comparte primero" de inmediato en casa.
-<!-- lesson-plan:end -->
-
-<!-- unit:start id="jannah.018.47.terminology" kind="terminology" -->
-### Palabra nueva
-- **Compartir:** Dar a otro antes que a ti mismo.
 <!-- unit:end -->
 
 <!-- reader:end -->
+
+## Para niños de 8 a 12 años
+
+<!-- reader:start audience="8-12" estimated_minutes="6.5" -->
+
+<!-- unit:start id="8-12.explanation" kind="explanation" -->
+
+El Profeta, la paz y las bendiciones de Allah sean con él, nos enseñó que los débiles de la comunidad y sus pobres sinceros tienen ante Allah un lugar inmenso: tanto, que si alguno de ellos jurara por Allah, Allah haría verdad su juramento; y que muchos de los que entran en el Paraíso son necesitados que supieron tener paciencia. Pero ojo: eso no quiere decir que ser rico sea malo. Algunos Compañeros ricos del Profeta, la paz y las bendiciones de Allah sean con él, como Uzman ibn Affan y Abd ar-Rahman ibn Awf, también recibieron la buena nueva del Paraíso. Lo importante, entonces, no es tener mucho o poco dinero, sino qué hace cada uno con lo que Allah le ha dado: ¿tiene paciencia, da las gracias y comparte con los demás?
+
+<!-- unit:end -->
+
+<!-- unit:start id="8-12.terms" kind="terms" -->
+
+<!-- terminology:start source_id="bukhari-6452" -->
+
+- **`La gente de la Suffa (ahl as-suffa)`** — emigrantes pobres que no tenían casa ni dinero; vivían en la mezquita del Profeta, la paz y las bendiciones de Allah sean con él, y los musulmanes los atendían con generosidad.
+- **`El izar (al-izar)`** — poner a otra persona por delante de ti en algo que tú también necesitas; no se trata solo de dar lo que te sobra.
+- **`El débil tenido en poco (ad-da'if al-mutada''af)`** — alguien a quien la gente no da importancia o ni siquiera ve, aunque ante Allah vale muchísimo.
+
+<!-- terminology:end -->
+
+<!-- unit:end -->
+
+<!-- unit:start id="8-12.primary-story" kind="primary_story" -->
+
+### Un relato auténtico: Abu Huraira y la noche de la leche con la gente de la Suffa
+
+<!-- story:start audience="8-12" role="primary" type="islamic_heritage" source_id="bukhari-6452" authenticated="true" -->
+
+**Esto es un hecho real que el propio Abu Huraira, que Allah esté complacido con él, contó y que recoge Sahih al-Bujari; no es una historia inventada.**
+
+Abu Huraira, que Allah esté complacido con él, era uno de los Compañeros del Profeta, la paz y las bendiciones de Allah sean con él. Era pobre: no tenía casa ni comida segura. Un día le entró un hambre tan fuerte que se ató una piedra al vientre para aguantarla. Se sentó en el camino del Profeta, la paz y las bendiciones de Allah sean con él, y a algunos de los que pasaban les preguntaba por una aleya del Corán, con la esperanza de que alguno se diera cuenta de lo que de verdad le pasaba y le diera de comer. Pasaron Abu Bakr y Umar, que Allah esté complacido con ellos, y no notaron su hambre. Hasta que pasó el Profeta, la paz y las bendiciones de Allah sean con él: sonrió al verlo, adivinó en su cara lo que necesitaba y lo llamó: «¡Abu Hirr!» (así lo llamaba con cariño: "el del gatito"). Él contestó: "¡Aquí me tienes, oh Mensajero de Allah!". Y el Profeta le dijo: «Sígueme». Abu Huraira lo siguió hasta que entraron en su casa.[^4]
+
+Allí el Profeta, la paz y las bendiciones de Allah sean con él, encontró un cuenco de leche que le habían regalado, y dijo: «Ve a la gente de la Suffa y llámalos para que vengan a mí». La gente de la Suffa eran los emigrantes pobres, sin familia y sin dinero, que vivían en la mezquita del Profeta, la paz y las bendiciones de Allah sean con él. Por dentro, Abu Huraira deseaba que le dieran la leche a él antes que a ellos, porque tenía muchísima hambre, y pensó: "Yo tengo más derecho a un trago que me devuelva las fuerzas". Pero no podía dejar de obedecer a Allah y a Su Mensajero, la paz y las bendiciones de Allah sean con él; así que fue y los llamó a todos.[^4]
+
+Abu Huraira tomó el cuenco y se lo fue dando a uno, que bebía hasta saciarse; luego se lo devolvía y él se lo daba al siguiente... hasta que llegó al Profeta, la paz y las bendiciones de Allah sean con él, ¡y todos se habían saciado! El Profeta tomó el cuenco, miró a Abu Huraira, sonrió y le dijo: «Quedamos tú y yo». Abu Huraira respondió: "Dices verdad, oh Mensajero de Allah". Y él le dijo: «Siéntate y bebe». Bebió y bebió, hasta que dijo: "¡Por Allah, ya no me cabe más!". Entonces el Profeta, la paz y las bendiciones de Allah sean con él, alabó a Allah y se bebió lo que quedaba.[^4]
+
+<!-- retelling:start source_id="bukhari-6452" audience="8-12" -->
+
+Dicho de otro modo: Abu Huraira tenía un hambre terrible y deseaba beber la leche el primero, pero obedeció al Profeta, la paz y las bendiciones de Allah sean con él, y dio de beber a cada hombre de la gente de la Suffa hasta que se saciaba, antes de beber él, el último, junto al Profeta. No perdió nada: Allah lo honró con la cercanía y la compañía del Profeta, la paz y las bendiciones de Allah sean con él.[^4]
+
+<!-- retelling:end -->
+
+<!-- story:end -->
+
+<!-- unit:end -->
+
+<!-- unit:start id="8-12.questions" kind="questions" -->
+
+### Preguntas de comprensión y reflexión
+
+1. ¿Qué deseaba Abu Huraira en su corazón cuando supo que la leche sería primero para la gente de la Suffa?
+2. ¿Qué hizo a pesar de ese deseo? ¿Y qué le pasó al final?
+3. ¿Ser pobre significa que Allah no quiere a esa persona? Da una prueba sacada de la lección.
+4. ¿Por qué estos hadices no quieren decir que la riqueza sea algo malo?
+
+<!-- unit:end -->
+
+<!-- unit:start id="8-12.activity" kind="activity" -->
+
+### Actividad: "Tú primero"
+
+<!-- activity:start audience="8-12" concept_id="lesson.018.activity.share-before-self" -->
+
+Elige un día de esta semana para poner a uno de tus hermanos o amigos por delante de ti en algo real que te guste (el mejor trozo de la comida, tu turno en un juego, o tu tiempo con alguien que necesita que le hagan caso). Dibuja o escribe: ¿a quién pusiste primero? ¿Cómo te sentiste? Después relaciónalo con lo que hizo Abu Huraira, que sirvió de beber a toda la gente de la Suffa antes de beber él.
+
+<!-- activity:end -->
+
+<!-- unit:end -->
+
+<!-- unit:start id="8-12.bedtime-dua" kind="bedtime_dua" -->
+
+### Súplica antes de dormir
+
+<!-- bedtime-dua:start audience="8-12" id="lesson.018.dua.dignity-not-wealth" provenance="lesson_authored" source_id="" attribution="not_prophetic" -->
+
+**Súplica temática compuesta para esta lección; no se atribuye al Profeta, la paz y las bendiciones de Allah sean con él.**
+
+> اللَّهُمَّ اجْعَلْنَا مِنَ الْمُتَوَاضِعِينَ الشَّاكِرِينَ، وَإِنْ أَغْنَيْتَنَا فَلَا تَجْعَلِ الْغِنَى فِتْنَةً لَنَا، وَإِنِ ابْتَلَيْتَنَا بِالْفَقْرِ فَارْزُقْنَا الصَّبْرَ وَالْقَنَاعَةَ، وَأَدْخِلْنَا الْجَنَّةَ مَعَ عِبَادِكَ الْمُتَوَاضِعِينَ.
+>
+> *"Oh Allah, haz que seamos de los humildes y agradecidos. Si nos enriqueces, que la riqueza no sea para nosotros una prueba que nos haga caer; si nos pruebas con la pobreza, concédenos paciencia y contentamiento; y haznos entrar en el Paraíso con Tus siervos humildes."*
+
+<!-- bedtime-dua:end -->
+
+<!-- unit:end -->
+
+<!-- reader:end -->
+
+## Para adolescentes de 13+
+
+<!-- reader:start audience="13+" estimated_minutes="7.0" -->
+
+<!-- unit:start id="13+.explanation" kind="explanation" -->
+
+Es fácil creer que vales lo que tienes: tu casa, tu ropa, lo que puedes comprarte comparado con tus amigos. Pero el Profeta, la paz y las bendiciones de Allah sean con él, dio la vuelta por completo a esa balanza cuando dijo: «Todo débil, tenido en poco por los demás, que, si jurara por Allah, Allah haría verdad su juramento». Quien es poca cosa a los ojos de la gente puede ser, ante Allah, el de mayor valía. Esto no es una invitación a despreciar los bienes que Allah concede ni a hacerse el pobre: grandes Compañeros acaudalados, como Uzman ibn Affan y Abd ar-Rahman ibn Awf, que Allah esté complacido con ellos, recibieron la buena nueva del Paraíso. La medida no es el dinero, sino lo que el corazón hace con él: paciencia cuando escasea, gratitud cuando abunda, e izar en ambos casos.
+
+<!-- unit:end -->
+
+<!-- unit:start id="13+.terms" kind="terms" -->
+
+<!-- terminology:start source_id="bukhari-6452" -->
+
+- **`El izar (al-izar)`** — preferir a los demás antes que a uno mismo cuando la necesidad es real, no simplemente renunciar a lo que te sobra.
+- **`La gente de fortuna (ashab al-yadd)`** — los que gozan en este mundo de riqueza y buena suerte; que en el hadiz estén "retenidos" significa que se los detiene para una larga rendición de cuentas por los bienes que recibieron, no que se les prive del Paraíso.
+- **`Los huéspedes del islam (adyaf al-islam)`** — así se describía a la gente de la Suffa, que no tenía techo ni bienes, y de la que se hacía cargo la comunidad musulmana bajo la guía del Profeta, la paz y las bendiciones de Allah sean con él.
+
+<!-- terminology:end -->
+
+<!-- unit:end -->
+
+<!-- unit:start id="13+.primary-story" kind="primary_story" -->
+
+### Un relato auténtico: la elección de Abu Huraira, que Allah esté complacido con él, entre su hambre y su obediencia
+
+<!-- story:start audience="13+" role="primary" type="islamic_heritage" source_id="bukhari-6452" authenticated="true" -->
+
+**Esto es un hecho real que el propio Abu Huraira, que Allah esté complacido con él, contó y que recoge Sahih al-Bujari; no es una escena inventada.**
+
+Abu Huraira, que Allah esté complacido con él, cuenta en primera persona uno de los momentos más duros de su pobreza. Agotado por el hambre, fue de un Compañero importante a otro preguntándoles por una aleya del Corán; no porque necesitara saberla, sino con la esperanza de que alguno se diera cuenta de su estado y le diera de comer. Pasaron junto a él Abu Bakr y Umar, que Allah esté complacido con ellos; les preguntó, pero siguieron su camino sin hacer nada. Hasta que pasó el Profeta, la paz y las bendiciones de Allah sean con él, que leyó en su cara lo que llevaba dentro, sonrió y le dijo: «¡Abu Hirr!», y se lo llevó con él a su casa.[^4]
+
+En casa, el Profeta, la paz y las bendiciones de Allah sean con él, encontró un cuenco de leche que le habían regalado, y mandó a Abu Huraira a llamar a la gente de la Suffa: los "huéspedes del islam", sin familia, sin bienes y sin clan, que vivían en la mezquita del Profeta, la paz y las bendiciones de Allah sean con él. Aquí Abu Huraira describe con total franqueza lo que se le pasó por la cabeza, sin esconderlo ni maquillarlo: «Aquello me sentó mal, y me dije: "¿Qué es esta leche para toda la gente de la Suffa? Yo tenía más derecho a tomar de ella un trago que me devolviera las fuerzas"». Tenía hambre de verdad, y su deseo de beber primero era un impulso humano y natural, sin nada de vergonzoso. Pero enseguida añade: «Pero no había manera de eludir la obediencia a Allah y a Su Mensajero, la paz y las bendiciones de Allah sean con él». Puso la obediencia por encima de su apetito inmediato, y fue a llamarlos a todos.[^4]
+
+Abu Huraira fue sirviendo a la gente de la Suffa, uno por uno: cada cual bebía hasta saciarse y le devolvía el cuenco para el siguiente. Y todo ese tiempo sabía que su parte podía ir menguando, o acabarse, antes de que le llegara el turno. Cuando llegó al Profeta, la paz y las bendiciones de Allah sean con él, y todos estaban ya saciados, el Profeta sonrió y le dijo: «Quedamos tú y yo». La leche no se había acabado, como temía Abu Huraira: el Profeta le pidió que bebiera él ahora, y bebió hasta decir: «¡No, por Quien te envió con la Verdad, ya no le encuentro sitio!». Y después bebió el Profeta, la paz y las bendiciones de Allah sean con él, lo que quedaba.[^4]
+
+<!-- retelling:start source_id="bukhari-6452" audience="13+" -->
+
+En otras palabras: en el momento de más hambre, Abu Huraira tuvo delante una elección real: beber primero, como le pedía el cuerpo, u obedecer la orden del Profeta, la paz y las bendiciones de Allah sean con él, de servir antes a sus hermanos pobres, sin saber de antemano si le quedaría algo. Eligió la obediencia y el izar, aunque su necesidad era auténtica; sirvió a todos primero, y luego Allah lo honró haciéndole beber también a él hasta saciarse, junto al mismísimo Profeta, la paz y las bendiciones de Allah sean con él.[^4]
+
+<!-- retelling:end -->
+
+<!-- story:end -->
+
+<!-- unit:end -->
+
+<!-- unit:start id="13+.questions" kind="questions" -->
+
+### Preguntas para debatir
+
+1. ¿Por qué no se le reprochó a Abu Huraira su deseo íntimo de beber primero? ¿Dónde estuvo la verdadera prueba en su actitud?
+2. ¿Qué responde el hadiz «Todo débil, tenido en poco» a la sensación de algunos adolescentes de que su valor se mide por lo que tienen en comparación con sus amigos?
+3. ¿Cómo evita la explicación de "la gente de fortuna está retenida" —una retención para rendir cuentas— la idea equivocada de que la riqueza es mala en sí misma?
+4. Piensa en una situación en la que a veces sientes presión social por lo que tienes o por lo que no tienes. ¿Cómo cambia esta lección tu forma de verla?
+5. ¿Qué diferencia hay entre el izar auténtico que mostró Abu Huraira y simplemente dar lo que te sobra?
+
+<!-- unit:end -->
+
+<!-- unit:start id="13+.activity" kind="activity" -->
+
+### Actividad: "Los demás, antes que yo"
+
+<!-- activity:start audience="13+" concept_id="lesson.018.activity.share-before-self" -->
+
+Identifica esta semana una situación real en la que sientas presión —tuya o de tus amigos— para que tu parte o tu protagonismo pasen por delante (en la comida, en un turno, en la atención que recibes, o incluso a la hora de lucir lo que tienes). Decide poner de verdad a otra persona por delante de ti en esa situación, y escribe: ¿a quién pusiste primero? ¿Qué sentiste? Luego escribe un párrafo breve que relacione tu experiencia con la de Abu Huraira, que antepuso la obediencia y a sus hermanos a su propia hambre, y explica cómo la humildad y el izar pueden ser un camino para ascender de grado ante Allah, sea cual sea tu situación económica.
+
+<!-- activity:end -->
+
+<!-- unit:end -->
+
+<!-- unit:start id="13+.bedtime-dua" kind="bedtime_dua" -->
+
+### Súplica antes de dormir
+
+<!-- bedtime-dua:start audience="13+" id="lesson.018.dua.dignity-not-wealth" provenance="lesson_authored" source_id="" attribution="not_prophetic" -->
+
+**Súplica temática compuesta para esta lección; no se atribuye al Profeta, la paz y las bendiciones de Allah sean con él.**
+
+> اللَّهُمَّ اجْعَلْنَا مِنَ الْمُتَوَاضِعِينَ الشَّاكِرِينَ، وَإِنْ أَغْنَيْتَنَا فَلَا تَجْعَلِ الْغِنَى فِتْنَةً لَنَا، وَإِنِ ابْتَلَيْتَنَا بِالْفَقْرِ فَارْزُقْنَا الصَّبْرَ وَالْقَنَاعَةَ، وَأَدْخِلْنَا الْجَنَّةَ مَعَ عِبَادِكَ الْمُتَوَاضِعِينَ.
+>
+> *"Oh Allah, haz que seamos de los humildes y agradecidos. Si nos enriqueces, que la riqueza no sea para nosotros una prueba que nos haga caer; si nos pruebas con la pobreza, concédenos paciencia y contentamiento; y haznos entrar en el Paraíso con Tus siervos humildes."*
+
+<!-- bedtime-dua:end -->
+
+<!-- unit:end -->
+
+<!-- reader:end -->
+
+## Planes de enseñanza detallados
+
+<!-- lesson-plan:start audience="adults" minutes="50" -->
+
+### Adultos — 50 minutos
+
+<!-- lesson-plan:outcomes -->
+**Resultados de aprendizaje:** el aprendiz distingue entre el "mérito de la precedencia" en el tiempo y el "mérito de la elevación" en el grado; explica correctamente "la gente de fortuna está retenida", sin convertirlo en una condena de la riqueza en sí; y aplica el izar a una situación real de su vida.
+
+<!-- lesson-plan:materials -->
+**Materiales:** una copia de la lección; una pizarra para anotar las diferencias entre precedencia y elevación; una hoja para la actividad "Servir antes de servirse".
+
+<!-- lesson-plan:preparation -->
+**Preparación:** el docente repasa antes de la sesión los cuatro hadices y sus grados de autenticidad, y prepara un ejemplo personal, sin protagonismo, de una ocasión en que puso a otro por delante de sí mismo, para compartirlo si hace falta.
+
+<!-- lesson-plan:opening -->
+**Apertura — 5 minutos:** se pregunta a los participantes: «¿Creen que la riqueza impide entrar en el Paraíso? ¿Y por qué recibió Uzman ibn Affan la buena nueva del Paraíso, siendo uno de los Compañeros más ricos?». Se escuchan las respuestas antes de presentar las evidencias.
+
+<!-- lesson-plan:evidence -->
+**Estudio de las evidencias — 15 minutos:** se leen los cuatro hadices por orden: el de Hariza ibn Wahb (el débil tenido en poco); después el de Abu Sa'id al-Judri (la precedencia de los pobres); luego el de Usama ibn Zaid (la puerta del Paraíso y la puerta del Fuego); y, por último, el de Abu Huraira completo, deteniéndose en el momento en que confiesa su deseo íntimo.
+
+<!-- lesson-plan:instruction -->
+**Instrucción guiada — 15 minutos:** el docente comenta con los participantes la diferencia entre el mérito de la precedencia y el de la elevación; aclara que "la gente de fortuna está retenida" significa una retención para rendir cuentas, no una exclusión; y relaciona la actitud interior de Abu Huraira (su deseo de beber primero) con su conducta (obediencia e izar), dejando claro que el mérito estuvo en el acto, no en suprimir el deseo humano.
+
+<!-- lesson-plan:activity -->
+**Actividad — 10 minutos:** se explica la actividad "Servir antes de servirse", se fija el día de la semana en que se llevará a cabo y se acuerda un momento para compartir después la experiencia.
+
+<!-- lesson-plan:assessment -->
+**Evaluación y cierre — 5 minutos:** se pide a cada participante que explique de palabra la diferencia entre precedencia y elevación, y que nombre a un Compañero rico que recibió la buena nueva del Paraíso, como prueba de que la riqueza no es censurable en sí misma.
+
+<!-- lesson-plan:differentiation -->
+**Diferenciación:** con los principiantes basta con el hadiz del "débil tenido en poco" y el relato de Abu Huraira; con los más avanzados se añade el debate sobre cómo conciliar el hadiz de la precedencia con el de la retención de la gente de fortuna.
+
+<!-- lesson-plan:safeguards -->
+**Advertencias pedagógicas:** se pone el máximo cuidado en que nadie salga con la idea de que la riqueza es reprobable o de que una familia acomodada está menos cerca de Allah; se repite siempre que la medida es la paciencia, la gratitud y el izar, no el dinero; y la actividad no se convierte nunca en una comparación económica pública entre los participantes.
+
+<!-- lesson-plan:end -->
+
+<!-- lesson-plan:start audience="4-7" minutes="18" -->
+
+### Niños de 4 a 7 — 18 minutos
+
+<!-- lesson-plan:outcomes -->
+**Resultados de aprendizaje:** el niño vuelve a contar la idea principal —que Abu Huraira dio la leche a sus amigos antes que a él aunque tenía hambre— y prueba él mismo, una vez, a compartir.
+
+<!-- lesson-plan:materials -->
+**Materiales:** un vaso vacío para representar la escena, papel y colores, y una tarjeta con la súplica en letra clara.
+
+<!-- lesson-plan:preparation -->
+**Preparación:** el educador prepara la versión sencilla del relato y ensaya cómo representarla con un vaso vacío del que "sirve leche" a unos muñecos o a los amigos del niño.
+
+<!-- lesson-plan:opening -->
+**Apertura — 3 minutos:** se pregunta al niño: «¿Alguna vez le has dado a un amigo algo que te gustaba antes de quedártelo tú?»
+
+<!-- lesson-plan:evidence -->
+**Lectura del relato — 6 minutos:** se cuenta la historia de Abu Huraira con voz animada, representando con el vaso vacío el momento en que reparte la leche entre los amigos.
+
+<!-- lesson-plan:instruction -->
+**Instrucción guiada — 3 minutos:** el educador explica con palabras sencillas que Allah quiere a quien da a sus amigos antes que a sí mismo, y que Abu Huraira no perdió nada al hacerlo.
+
+<!-- lesson-plan:activity -->
+**Actividad — 4 minutos:** se realiza la actividad "¡Comparte primero!" tal como se describe en la unidad de actividad.
+
+<!-- lesson-plan:assessment -->
+**Evaluación y cierre — 2 minutos:** se observa si el niño logra decir qué hizo Abu Huraira antes de beber él, y luego se lee la súplica.
+
+<!-- lesson-plan:differentiation -->
+**Diferenciación:** con los más pequeños basta con un solo ejemplo, representado con el vaso y con gestos, sin dibujo.
+
+<!-- lesson-plan:safeguards -->
+**Advertencias pedagógicas:** se evita describir el hambre de Abu Huraira con detalles que puedan asustar al niño; se pone el acento en la alegría de compartir y en la cercanía del Profeta, la paz y las bendiciones de Allah sean con él, al final del relato; y se cuida que ningún niño cuya familia tenga pocos recursos se sienta incómodo.
+
+<!-- lesson-plan:end -->
+
+<!-- lesson-plan:start audience="8-12" minutes="30" -->
+
+### Niños de 8 a 12 — 30 minutos
+
+<!-- lesson-plan:outcomes -->
+**Resultados de aprendizaje:** el estudiante explica qué son el izar y la gente de la Suffa, relaciona el relato de Abu Huraira con una situación real de su vida y comprende que la pobreza no es señal de estar lejos del amor de Allah.
+
+<!-- lesson-plan:materials -->
+**Materiales:** tarjetas con los tres términos, el texto del relato y la hoja de la actividad.
+
+<!-- lesson-plan:preparation -->
+**Preparación:** el docente repasa las tres definiciones de la unidad de términos para explicarlas con claridad antes del relato.
+
+<!-- lesson-plan:opening -->
+**Apertura — 4 minutos:** se pregunta a los estudiantes: «¿Ser pobre significa que Allah no quiere a esa persona? ¿Por qué?»
+
+<!-- lesson-plan:evidence -->
+**Estudio de la evidencia — 10 minutos:** se explican los tres términos; después se lee el hadiz «Todo débil, tenido en poco» y se cuenta el relato de Abu Huraira completo, con todos sus detalles.
+
+<!-- lesson-plan:instruction -->
+**Instrucción guiada — 8 minutos:** el docente comenta con los estudiantes: ¿qué deseaba Abu Huraira? ¿Qué hizo, a pesar de ello? ¿Y por qué esta lección no quiere decir que la riqueza sea algo malo?
+
+<!-- lesson-plan:activity -->
+**Actividad — 6 minutos:** se explica la actividad "Tú primero" y se fija el día en que se llevará a cabo.
+
+<!-- lesson-plan:assessment -->
+**Evaluación y cierre — 2 minutos:** se valoran las respuestas según la precisión con que los estudiantes explican la diferencia entre lo que Abu Huraira deseaba y lo que realmente hizo; luego se lee la súplica.
+
+<!-- lesson-plan:differentiation -->
+**Diferenciación:** a quienes tengan dificultades les basta con el hadiz del "débil tenido en poco" y el relato del cuenco de leche; a los más avanzados se les encarga comentar el significado de "la gente de fortuna está retenida".
+
+<!-- lesson-plan:safeguards -->
+**Advertencias pedagógicas:** cada niño decide qué detalles de la actividad comparte en voz alta; nadie está obligado a revelar la situación económica de su familia, y la lección no se usa para comparar a los estudiantes entre sí por su riqueza o su pobreza.
+
+<!-- lesson-plan:end -->
+
+<!-- lesson-plan:start audience="13+" minutes="40" -->
+
+### Adolescentes de 13+ — 40 minutos
+
+<!-- lesson-plan:outcomes -->
+**Resultados de aprendizaje:** el adolescente analiza la relación entre el deseo humano natural y la obediencia elegida en la actitud de Abu Huraira; relaciona el concepto del "débil tenido en poco" con una presión social actual ligada a la apariencia o a las posesiones; y asume un compromiso práctico de izar.
+
+<!-- lesson-plan:materials -->
+**Materiales:** el texto de los cuatro hadices, tarjetas con los términos y una hoja de compromiso individual.
+
+<!-- lesson-plan:preparation -->
+**Preparación:** el docente se prepara para un debate sobre la presión de grupo ligada a la apariencia económica, como imagen actual del sentido de "el débil tenido en poco" y de "la gente de fortuna".
+
+<!-- lesson-plan:opening -->
+**Apertura — 5 minutos:** se pregunta a los adolescentes: «¿Han sentido alguna vez que su valor se mide por lo que tienen en comparación con sus amigos?»
+
+<!-- lesson-plan:evidence -->
+**Estudio de las evidencias — 12 minutos:** se leen los cuatro hadices, con especial atención a la confesión franca que hace Abu Huraira de su deseo íntimo antes de obedecer.
+
+<!-- lesson-plan:instruction -->
+**Instrucción guiada — 10 minutos:** el docente comenta la diferencia entre el deseo humano natural (que no tiene nada de reprochable) y la elección moral (que es donde están la responsabilidad y el mérito), y cómo se aplica esto a una presión social actual relacionada con el dinero o la apariencia.
+
+<!-- lesson-plan:activity -->
+**Actividad — 10 minutos:** se realiza la actividad "Los demás, antes que yo" tal como se describe en la unidad de actividad, y se designa a una persona que haga el seguimiento del compromiso al cabo de una semana.
+
+<!-- lesson-plan:assessment -->
+**Evaluación y cierre — 3 minutos:** cada adolescente escribe dos frases que relacionen su propia situación con la de Abu Huraira.
+
+<!-- lesson-plan:differentiation -->
+**Diferenciación:** a quien le cueste compartir su situación en público se le permite escribirla en privado y entregársela solo al docente.
+
+<!-- lesson-plan:safeguards -->
+**Advertencias pedagógicas:** el docente se cuida de no presionar a ningún adolescente para que revele ante el grupo detalles económicos o sociales delicados, y evita cualquier insinuación de que la pobreza sea deseable en sí misma o de que la riqueza sea una vergüenza.
+
+<!-- lesson-plan:end -->
 
 <!-- references:start -->
+
 ## Referencias
 
-[^1]: Yami' al-Tirmidhi, no. 2353, narrado por Abu Hurairah, que Allah esté complacido con él; clasificado hasan sahih por al-Tirmidhi: [sunnah.com/tirmidhi:2353](https://sunnah.com/tirmidhi:2353)
-[^2]: Sahih Muslim, no. 2979, narrado por Abdullah ibn Amr, que Allah esté complacido con ambos: [sunnah.com/muslim:2979](https://sunnah.com/muslim:2979)
-[^3]: Sahih al-Bujari, no. 5196, narrado por Usama ibn Zaid, que Allah esté complacido con ambos: [sunnah.com/bukhari:5196](https://sunnah.com/bukhari:5196)
-[^4]: Sahih al-Bujari, no. 6071, y Sahih Muslim, no. 2853, narrado por Háriza ibn Wahb, que Allah esté complacido con él: [sunnah.com/bukhari:6071](https://sunnah.com/bukhari:6071)
-[^5]: Yami' al-Tirmidhi, no. 2546, narrado por Buraidah, que Allah esté complacido con él; clasificado hasan por al-Tirmidhi: [sunnah.com/tirmidhi:2546](https://sunnah.com/tirmidhi:2546)
-[^6]: Sahih al-Bujari, no. 6642, y Sahih Muslim, no. 221, narrado por Abdullah ibn Masud, que Allah esté complacido con él: [sunnah.com/bukhari:6642](https://sunnah.com/bukhari:6642)
-[^7]: Sahih al-Bujari, no. 6541, narrado por Ibn Abbás, que Allah esté complacido con ambos: [sunnah.com/bukhari:6541](https://sunnah.com/bukhari:6541)
-[^8]: Sahih al-Bujari, no. 6452, narrado por Abu Hurairah, que Allah esté complacido con él (la historia de la gente de Suffa y la taza de leche): [sunnah.com/bukhari:6452](https://sunnah.com/bukhari:6452)
-[^9]: Ibn al-Qayyim al-Yawziyya, *Hadi al-Arwah ila Bilad al-Afrah*, Capítulo 28: sobre los pobres precediendo a los ricos al Jannah (discusión de Ibn al-Qayyim sobre los méritos de precedencia y elevación).
-[^10]: Ibn Hayar al-Asqalaní, *Fath al-Bari bi-Sharh Sahih al-Bujari*, comentario sobre el hadiz de Háriza ibn Wahb (6071).
-[^11]: An-Nawawi, *Sharh Sahih Muslim*, comentario sobre el hadiz de la persona débil considerada insignificante.
-[^12]: Umar Sulayman al-Ashqar, *al-Yanna wa-n-Nar*, secciones cinco y siete del capítulo cuarto (Parte Dos).
+[^1]: Sahih al-Bujari, hadiz 6071, y Sahih Muslim, hadiz 2853, narrado por Hariza ibn Wahb al-Juza'i, que Allah esté complacido con él: [Sunnah.com, narración bukhari:6071](https://sunnah.com/bukhari:6071).
+[^2]: Yami' at-Tirmidhi, hadiz 2351, narrado por Abu Sa'id al-Judri, que Allah esté complacido con él; at-Tirmidhi dijo: "Hadiz hasan garib por esta vía": [Sunnah.com, narración tirmidhi:2351](https://sunnah.com/tirmidhi:2351).
+[^3]: Sahih al-Bujari, hadiz 5196, narrado por Usama ibn Zaid, que Allah esté complacido con él y con su padre: [Sunnah.com, narración bukhari:5196](https://sunnah.com/bukhari:5196).
+[^4]: Sahih al-Bujari, hadiz 6452 (Libro de lo que ablanda los corazones, Kitab ar-Riqaq), narrado por Abu Huraira, que Allah esté complacido con él, sobre su hambre, la gente de la Suffa y el cuenco de leche: [Sunnah.com, narración bukhari:6452](https://sunnah.com/bukhari:6452).
+
 <!-- references:end -->

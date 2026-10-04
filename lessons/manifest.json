@@ -220,32 +220,16 @@
       "slug": "032_security_death_slaughter",
       "order": 32,
       "langs": [
-        "ar",
-        "en",
-        "ur",
-        "fr",
-        "es"
+        "ar"
       ],
       "titles": {
-        "ar": "الْأَمْنُ وَالْخُلُودُ وَذَبْحُ الْمَوْتِ",
-        "en": "Security, Everlasting Life, and the Slaughter of Death",
-        "ur": "امن، ہمیشہ کی زندگی اور موت کا خاتمہ",
-        "fr": "La sécurité, la vie éternelle et l'immolation de la mort",
-        "es": "Seguridad, vida eterna y el sacrificio de la muerte"
+        "ar": "الْأَمْنُ وَالْخُلُودُ وَذَبْحُ الْمَوْتِ"
       },
       "hooks": {
-        "ar": "أن يبيّن المتعلم أن أمن أهل الجنة كامل: لا موت، ولا مرض، ولا هرم، ولا انقطاع للنعيم.",
-        "en": "Explain that the security enjoyed by the people of Jannah is complete: no death, sickness, old age, or end to its delight.",
-        "ur": "اس بات کی وضاحت کریں کہ جنت والوں کو جو تحفظ حاصل ہے وہ مکمل ہے: کوئی موت، بیماری، بڑھاپا یا اس کی لذت کا خاتمہ نہیں۔",
-        "fr": "Expliquer que la sécurité des habitants du Paradis est complète : ni mort, ni maladie, ni vieillesse, ni fin des délices.",
-        "es": "Explicar que la seguridad de la gente del Paraíso es completa: no habrá muerte, enfermedad, vejez ni final de sus delicias."
+        "ar": "بعد هذا الدرس، يكون المتعلم قادرًا على:"
       },
       "status": {
-        "ar": "arabic_draft",
-        "en": "translation_draft",
-        "ur": "translation_draft",
-        "fr": "translation_draft",
-        "es": "translation_draft"
+        "ar": "arabic_draft"
       },
       "under_review": true,
       "has_illustration": false,
@@ -256,32 +240,16 @@
       "slug": "031_calls_glad_tidings",
       "order": 31,
       "langs": [
-        "ar",
-        "en",
-        "ur",
-        "fr",
-        "es"
+        "ar"
       ],
       "titles": {
-        "ar": "نِدَاءَاتُ الْجَنَّةِ وَالْبِشَارَاتُ عِنْدَ الدُّخُولِ",
-        "en": "The Calls and Glad Tidings at Entry",
-        "ur": "داخلے کے وقت نداءیں اور بشارتیں",
-        "fr": "Les appels et bonnes nouvelles à l'entrée",
-        "es": "Los llamados y buenas nuevas al entrar"
+        "ar": "نِدَاءَاتُ الْجَنَّةِ وَالْبِشَارَاتُ عِنْدَ الدُّخُولِ"
       },
       "hooks": {
-        "ar": "أن يعرف المتعلم أن أهل الجنة يسمعون نداءات وبشارات عظيمة تثبت لهم الأمن والخلود.",
-        "en": "Understand the main belief of this lesson.",
-        "ur": "اس درس کے بنیادی عقیدے کو سمجھنا۔",
-        "fr": "Comprendre la croyance principale de cette leçon.",
-        "es": "Comprender la creencia principal de esta lección."
+        "ar": "بعد هذا الدرس، يكون المتعلم قادرًا على:"
       },
       "status": {
-        "ar": "arabic_draft",
-        "en": "translation_draft",
-        "ur": "translation_draft",
-        "fr": "translation_draft",
-        "es": "translation_draft"
+        "ar": "arabic_draft"
       },
       "under_review": true,
       "has_illustration": false,
@@ -292,32 +260,16 @@
       "slug": "030_angels_welcome",
       "order": 30,
       "langs": [
-        "ar",
-        "en",
-        "ur",
-        "fr",
-        "es"
+        "ar"
       ],
       "titles": {
-        "ar": "اسْتِقْبَالُ الْمَلَائِكَةِ وَتَحِيَّتُهُمْ",
-        "en": "The Angels' Welcome and Greeting",
-        "ur": "فرشتوں کا استقبال اور سلام",
-        "fr": "L'accueil des anges et leur salutation",
-        "es": "La bienvenida y el saludo de los ángeles"
+        "ar": "اسْتِقْبَالُ الْمَلَائِكَةِ وَتَحِيَّتُهُمْ"
       },
       "hooks": {
-        "ar": "أن يعرف المتعلم أن من كرامات أهل الجنة استقبال الملائكة لهم بالسلام والبشارة.",
-        "en": "Understand the main belief of this lesson.",
-        "ur": "اس درس کے بنیادی عقیدے کو سمجھنا۔",
-        "fr": "Comprendre la croyance principale de cette leçon.",
-        "es": "Comprender la creencia principal de esta lección."
+        "ar": "بعد هذا الدرس، يكون المتعلم قادرًا على:"
       },
       "status": {
-        "ar": "arabic_draft",
-        "en": "translation_draft",
-        "ur": "translation_draft",
-        "fr": "translation_draft",
-        "es": "translation_draft"
+        "ar": "arabic_draft"
       },
       "under_review": true,
       "has_illustration": false,
@@ -328,32 +280,16 @@
       "slug": "029_entering_jannah",
       "order": 29,
       "langs": [
-        "ar",
-        "en",
-        "ur",
-        "fr",
-        "es"
+        "ar"
       ],
       "titles": {
-        "ar": "كَيْفِيَّةُ دُخُولِ الْجَنَّةِ",
-        "en": "How the People Enter Jannah",
-        "ur": "اہل جنّت کا جنّت میں داخل ہونا",
-        "fr": "Comment les gens entreront dans la Jannah",
-        "es": "Cómo entrará la gente en la Jannah"
+        "ar": "كَيْفِيَّةُ دُخُولِ الْجَنَّةِ"
       },
       "hooks": {
-        "ar": "أن يعرف المتعلم أن دخول الجنة له مشاهد إيمانية عظيمة: فتح الأبواب، الشفاعة، التهذيب، والدخول زمرا.",
-        "en": "Understand the main belief of this lesson.",
-        "ur": "اس درس کے بنیادی عقیدے کو سمجھنا۔",
-        "fr": "Comprendre la croyance principale de cette leçon.",
-        "es": "Comprender la creencia principal de esta lección."
+        "ar": "بعد هذا الدرس، يكون المتعلم قادرًا على:"
       },
       "status": {
-        "ar": "arabic_draft",
-        "en": "translation_draft",
-        "ur": "translation_draft",
-        "fr": "translation_draft",
-        "es": "translation_draft"
+        "ar": "arabic_draft"
       },
       "under_review": true,
       "has_illustration": false,
@@ -364,16 +300,32 @@
       "slug": "028_homes_rooms",
       "order": 28,
       "langs": [
-        "ar"
+        "ar",
+        "en",
+        "ur",
+        "fr",
+        "es"
       ],
       "titles": {
-        "ar": "مَعْرِفَةُ الْمَنَازِلِ وَالْغُرَفِ"
+        "ar": "مَعْرِفَةُ الْمَنَازِلِ وَالْغُرَفِ",
+        "en": "Knowing Our Homes and Chambers in Jannah",
+        "ur": "جنت کے گھروں اور بالاخانوں کی پہچان",
+        "fr": "Connaître Les Demeures Et Les Chambres De La Jannah",
+        "es": "Reconocer las moradas y las estancias del Paraíso"
       },
       "hooks": {
-        "ar": "بعد هذا الدرس، يكون المتعلم قادرًا على:"
+        "ar": "بعد هذا الدرس، يكون المتعلم قادرًا على:",
+        "en": "By the end of this lesson, the learner will be able to:",
+        "ur": "اس سبق کے بعد سیکھنے والا یہ کر سکے گا:",
+        "fr": "Au terme de cette leçon, l'apprenant sera capable de :",
+        "es": "Al terminar esta lección, el aprendiz será capaz de:"
       },
       "status": {
-        "ar": "arabic_draft"
+        "ar": "arabic_draft",
+        "en": "translation_draft",
+        "ur": "translation_draft",
+        "fr": "translation_draft",
+        "es": "translation_draft"
       },
       "under_review": true,
       "has_illustration": true,
@@ -384,16 +336,32 @@
       "slug": "027_raised_ranks_descendants",
       "order": 27,
       "langs": [
-        "ar"
+        "ar",
+        "en",
+        "ur",
+        "fr",
+        "es"
       ],
       "titles": {
-        "ar": "رَفْعُ الدَّرَجَاتِ وَإِلْحَاقُ الذُّرِّيَّةِ"
+        "ar": "رَفْعُ الدَّرَجَاتِ وَإِلْحَاقُ الذُّرِّيَّةِ",
+        "en": "Raised Ranks and Descendants Reunited",
+        "ur": "درجات کی بلندی اور اولاد کا ساتھ",
+        "fr": "Rangs Élevés et Descendance Réunie",
+        "es": "Grados que se elevan, descendencia que se reúne"
       },
       "hooks": {
-        "ar": "بعد هذا الدرس، يكون المتعلم قادرًا على:"
+        "ar": "بعد هذا الدرس، يكون المتعلم قادرًا على:",
+        "en": "After this lesson, the learner will be able to:",
+        "ur": "اس سبق کے بعد سیکھنے والا یہ کر سکے گا:",
+        "fr": "Au terme de cette leçon, l'apprenant sera capable de :",
+        "es": "Después de esta lección, el aprendiz será capaz de:"
       },
       "status": {
-        "ar": "arabic_draft"
+        "ar": "arabic_draft",
+        "en": "translation_draft",
+        "ur": "translation_draft",
+        "fr": "translation_draft",
+        "es": "translation_draft"
       },
       "under_review": true,
       "has_illustration": true,
@@ -404,16 +372,32 @@
       "slug": "026_jannat_adn",
       "order": 26,
       "langs": [
-        "ar"
+        "ar",
+        "en",
+        "ur",
+        "fr",
+        "es"
       ],
       "titles": {
-        "ar": "جَنَّاتُ عَدْنٍ وَمَا خَلَقَهُ اللَّهُ بِيَدِهِ"
+        "ar": "جَنَّاتُ عَدْنٍ وَمَا خَلَقَهُ اللَّهُ بِيَدِهِ",
+        "en": "Jannat 'Adn and What Allah Created with His Hand",
+        "ur": "جناتِ عدن، اور وہ جو اللہ نے اپنے ہاتھ سے بنایا",
+        "fr": "Les Jardins de 'Adn et ce qu'Allah a créé de Sa Main",
+        "es": "Los jardines de 'Adn y lo que Allah creó con Su mano"
       },
       "hooks": {
-        "ar": "بعد هذا الدرس، يكون المتعلم قادرًا على:"
+        "ar": "بعد هذا الدرس، يكون المتعلم قادرًا على:",
+        "en": "After this lesson, the learner will be able to:",
+        "ur": "اس سبق کے بعد سیکھنے والا یہ کر سکے گا:",
+        "fr": "Au terme de cette leçon, l'apprenant sera capable de :",
+        "es": "Después de esta lección, el aprendiz será capaz de:"
       },
       "status": {
-        "ar": "arabic_draft"
+        "ar": "arabic_draft",
+        "en": "translation_draft",
+        "ur": "translation_draft",
+        "fr": "translation_draft",
+        "es": "translation_draft"
       },
       "under_review": true,
       "has_illustration": true,
@@ -424,16 +408,32 @@
       "slug": "025_wasilah",
       "order": 25,
       "langs": [
-        "ar"
+        "ar",
+        "en",
+        "ur",
+        "fr",
+        "es"
       ],
       "titles": {
-        "ar": "الْوَسِيلَةُ وَمَقَامُ النَّبِيِّ ﷺ"
+        "ar": "الْوَسِيلَةُ وَمَقَامُ النَّبِيِّ ﷺ",
+        "en": "Al-Wasilah and the Station of the Prophet, Peace and Blessings Be upon Him",
+        "ur": "وسیلہ اور نبی کریم صلی اللہ علیہ وسلم کا مقام",
+        "fr": "Al-Wasilah Et Le Rang Du Prophète, Paix Et Bénédictions Sur Lui",
+        "es": "La wasila y el rango del Profeta, la paz y las bendiciones de Allah sean con él"
       },
       "hooks": {
-        "ar": "بعد هذا الدرس، يكون المتعلم قادرًا على:"
+        "ar": "بعد هذا الدرس، يكون المتعلم قادرًا على:",
+        "en": "By the end of this lesson, the learner will be able to:",
+        "ur": "اس سبق کے بعد سیکھنے والا یہ کر سکے گا:",
+        "fr": "Au terme de cette leçon, l'apprenant sera capable de :",
+        "es": "Después de esta lección, el aprendiz será capaz de:"
       },
       "status": {
-        "ar": "arabic_draft"
+        "ar": "arabic_draft",
+        "en": "translation_draft",
+        "ur": "translation_draft",
+        "fr": "translation_draft",
+        "es": "translation_draft"
       },
       "under_review": true,
       "has_illustration": true,
@@ -444,16 +444,32 @@
       "slug": "024_firdaws",
       "order": 24,
       "langs": [
-        "ar"
+        "ar",
+        "en",
+        "ur",
+        "fr",
+        "es"
       ],
       "titles": {
-        "ar": "الْفِرْدَوْسُ الْأَعْلَى"
+        "ar": "الْفِرْدَوْسُ الْأَعْلَى",
+        "en": "Al-Firdaws al-A'la: The Highest Garden",
+        "ur": "فردوسِ اعلیٰ",
+        "fr": "Al-Firdaws al-A'la, le Plus Haut des Jardins",
+        "es": "Al-Firdaus, la cumbre del Paraíso"
       },
       "hooks": {
-        "ar": "بعد هذا الدرس، يكون المتعلم قادرًا على:"
+        "ar": "بعد هذا الدرس، يكون المتعلم قادرًا على:",
+        "en": "After this lesson, the learner will be able to:",
+        "ur": "اس سبق کے بعد سیکھنے والا یہ کر سکے گا:",
+        "fr": "Au terme de cette leçon, l'apprenant sera capable de :",
+        "es": "Después de esta lección, el aprendiz será capaz de:"
       },
       "status": {
-        "ar": "arabic_draft"
+        "ar": "arabic_draft",
+        "en": "translation_draft",
+        "ur": "translation_draft",
+        "fr": "translation_draft",
+        "es": "translation_draft"
       },
       "under_review": true,
       "has_illustration": true,
@@ -464,16 +480,32 @@
       "slug": "023_highest_lowest",
       "order": 23,
       "langs": [
-        "ar"
+        "ar",
+        "en",
+        "ur",
+        "fr",
+        "es"
       ],
       "titles": {
-        "ar": "أَعْلَى أَهْلِ الْجَنَّةِ وَأَدْنَاهُمْ مَنْزِلَةً"
+        "ar": "أَعْلَى أَهْلِ الْجَنَّةِ وَأَدْنَاهُمْ مَنْزِلَةً",
+        "en": "The Highest and the Lowest in Rank Among the People of Jannah",
+        "ur": "جنت والوں میں سب سے بلند اور سب سے کم درجے والے",
+        "fr": "Le rang le plus élevé et le plus humble parmi les gens de la Jannah",
+        "es": "El rango más alto y el más humilde en el Paraíso"
       },
       "hooks": {
-        "ar": "بعد هذا الدرس، يكون المتعلم قادرًا على:"
+        "ar": "بعد هذا الدرس، يكون المتعلم قادرًا على:",
+        "en": "By the end of this lesson, the learner will be able to:",
+        "ur": "اس سبق کے بعد سیکھنے والا یہ کر سکے گا:",
+        "fr": "Au terme de cette leçon, l'apprenant sera capable de :",
+        "es": "Después de esta lección, el aprendiz será capaz de:"
       },
       "status": {
-        "ar": "arabic_draft"
+        "ar": "arabic_draft",
+        "en": "translation_draft",
+        "ur": "translation_draft",
+        "fr": "translation_draft",
+        "es": "translation_draft"
       },
       "under_review": true,
       "has_illustration": true,
@@ -484,16 +516,32 @@
       "slug": "022_degrees",
       "order": 22,
       "langs": [
-        "ar"
+        "ar",
+        "en",
+        "ur",
+        "fr",
+        "es"
       ],
       "titles": {
-        "ar": "دَرَجَاتُ الْجَنَّةِ وَتَفَاضُلُ أَهْلِهَا"
+        "ar": "دَرَجَاتُ الْجَنَّةِ وَتَفَاضُلُ أَهْلِهَا",
+        "en": "The Degrees of Jannah and the Ranks of Its People",
+        "ur": "جنت کے درجے اور اہلِ جنت کے مراتب",
+        "fr": "Les degrés de la Jannah et les rangs de ses habitants",
+        "es": "Los grados del Paraíso y la preeminencia entre sus habitantes"
       },
       "hooks": {
-        "ar": "بعد هذا الدرس، يكون المتعلم قادرًا على:"
+        "ar": "بعد هذا الدرس، يكون المتعلم قادرًا على:",
+        "en": "By the end of this lesson, the learner will be able to:",
+        "ur": "اس سبق کے بعد سیکھنے والا یہ کر سکے گا:",
+        "fr": "Au terme de cette leçon, l'apprenant sera capable de :",
+        "es": "Después de esta lección, el aprendiz será capaz de:"
       },
       "status": {
-        "ar": "arabic_draft"
+        "ar": "arabic_draft",
+        "en": "translation_draft",
+        "ur": "translation_draft",
+        "fr": "translation_draft",
+        "es": "translation_draft"
       },
       "under_review": true,
       "has_illustration": true,
@@ -504,16 +552,32 @@
       "slug": "021_named_glad_tidings",
       "order": 21,
       "langs": [
-        "ar"
+        "ar",
+        "en",
+        "ur",
+        "fr",
+        "es"
       ],
       "titles": {
-        "ar": "سَادَةُ أَهْلِ الْجَنَّةِ وَالْمُبَشَّرُونَ بِهَا"
+        "ar": "سَادَةُ أَهْلِ الْجَنَّةِ وَالْمُبَشَّرُونَ بِهَا",
+        "en": "The Leaders of Jannah and Those Promised It by Name",
+        "ur": "اہلِ جنت کے سردار اور جنت کی خوشخبری پانے والے",
+        "fr": "Les Seigneurs de la Jannah et Ceux à Qui Elle Fut Annoncée",
+        "es": "Los señores del Paraíso y quienes recibieron su buena nueva"
       },
       "hooks": {
-        "ar": "بعد هذا الدرس، يكون المتعلم قادرًا على:"
+        "ar": "بعد هذا الدرس، يكون المتعلم قادرًا على:",
+        "en": "After this lesson, the learner will be able to:",
+        "ur": "اس سبق کے بعد سیکھنے والا یہ کر سکے گا:",
+        "fr": "Au terme de cette leçon, l'apprenant sera capable de :",
+        "es": "Después de esta lección, el aprendiz será capaz de:"
       },
       "status": {
-        "ar": "arabic_draft"
+        "ar": "arabic_draft",
+        "en": "translation_draft",
+        "ur": "translation_draft",
+        "fr": "translation_draft",
+        "es": "translation_draft"
       },
       "under_review": true,
       "has_illustration": true,
@@ -604,24 +668,24 @@
       ],
       "titles": {
         "ar": "فُقَرَاءُ الْأُمَّةِ وَضُعَفَاؤُهَا عِنْدَ اللَّهِ",
-        "en": "The Poor, the Weak, and the Great Numbers of Muhammad's ﷺ Nation in Paradise",
-        "ur": "غریب، کمزور لوگ، اور جنت میں امتِ محمد ﷺ کی کثرت",
-        "fr": "Les pauvres, les faibles, et le grand nombre de la nation de Muhammad ﷺ au Paradis",
-        "es": "Los pobres, los débiles y el gran número de la nación de Muhammad ﷺ en el Paraíso"
+        "en": "The Poor and the Weak of the Ummah in the Sight of Allah",
+        "ur": "اللہ کی نگاہ میں امت کے غریب اور کمزور",
+        "fr": "Les Pauvres Et Les Faibles De La Communauté, Grands Auprès D'Allah",
+        "es": "Los pobres y los débiles de la comunidad ante Allah"
       },
       "hooks": {
         "ar": "بعد هذا الدرس، يكون المتعلم قادرًا على:",
-        "en": "<!-- unit:start id=\"jannah.018.intro\" kind=\"explanation\" -->",
-        "ur": "<!-- unit:start id=\"jannah.018.intro\" kind=\"explanation\" -->",
-        "fr": "<!-- unit:start id=\"jannah.018.intro\" kind=\"explanation\" -->",
-        "es": "<!-- unit:start id=\"jannah.018.intro\" kind=\"explanation\" -->"
+        "en": "After this lesson, the learner will be able to:",
+        "ur": "اس سبق کے بعد سیکھنے والا یہ کر سکے گا:",
+        "fr": "Au terme de cette leçon, l'apprenant sera capable de :",
+        "es": "Después de esta lección, el aprendiz será capaz de:"
       },
       "status": {
         "ar": "arabic_draft",
-        "en": "draft",
-        "ur": "draft",
-        "fr": "draft",
-        "es": "draft"
+        "en": "translation_draft",
+        "ur": "translation_draft",
+        "fr": "translation_draft",
+        "es": "translation_draft"
       },
       "under_review": true,
       "has_illustration": true,
