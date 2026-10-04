@@ -1,175 +1,620 @@
 ---
+title: "L'Édifice de la Jannah, ses Briques et ses Murs"
 lesson_id: "lesson.037"
 topic_id: "jannah.037"
 translation_key: "jannah.construction"
 lang: "fr"
 status: "translation_draft"
-source_lang: "ar"
-translation_note: "French draft translated from the Arabic source lesson."
-title: "Bâtir pour Allah : les demeures du Jannah et la sincérité"
-audiences: ["adult", "ages_4_7", "ages_8_12", "teen_13_plus"]
-hadith_policy: "sahih_hasan_main"
-story_policy: "original_parable_plus_authenticated_islamic_history"
+authoring_standard: "full_text_depth_v2"
+story_policy: "rotating_primary_with_authenticated_account_v2"
+primary_story_type: "hadith"
+primary_story_source_id: "bukhari-450"
+primary_story_authenticated: "true"
+authenticated_account_id: "bukhari-450"
+activity_concept_id: "lesson.037.activity.intention-before-the-first-stone"
+bedtime_dua_id: "lesson.037.dua.sincere-work-built-chambers"
 ---
 
-# Bâtir pour Allah : les demeures du Jannah et la sincérité
+# L'Édifice de la Jannah, ses Briques et ses Murs
 
-## Objectifs de la lecon
+## Objectifs Et Résultats De La Leçon
 
-- Comprendre que la construction du Jannah releve de l'invisible: on croit ce qui est authentiquement rapporte et on evite de fonder la lecon sur des details instables.
-- Relier l'idee de construire au Jannah a un sens plus profond: le croyant construit par la foi, la sincerite et le service des maisons d'Allah.
-- Distinguer le hadith sahih sur la construction d'une mosquee des recits sur les materiaux de construction qui demandent une verification.
-- Donner a chaque age une question pratique: quelle brique sincere de bien puis-je poser aujourd'hui?
+Au terme de cette leçon, l'apprenant sera capable de :
 
-## Section academique pour adultes
+- raconter dans l'ordre le hadith de 'Uthman ibn 'Affan, qu'Allah soit satisfait de lui (al-Bukhari 450 et Muslim 533) : la réticence des gens à voir modifier la construction de la Mosquée du Prophète, et l'abondance de leurs critiques, puis la réponse de 'Uthman par ce hadith : « Celui qui bâtit une mosquée en recherchant par là la Face d'Allah, Allah lui bâtit son pareil dans la Jannah » ;
+- décrire la construction de la Mosquée du Prophète du vivant du Prophète, paix et bénédictions sur lui, et après lui, d'après le hadith d'Ibn 'Umar (al-Bukhari 446) : les briques crues, les palmes et les troncs de palmier, puis les pierres sculptées, le plâtre et le teck ;
+- affirmer de l'édifice de la Jannah ce qu'établissent le Coran et le hadith authentique : « des chambres hautes, surmontées d'autres chambres hautes, bâties » (az-Zumar 39:20), et deux jardins d'argent et deux jardins d'or, « leurs vaisselles et tout ce qu'ils contiennent » (al-Bukhari 4878) ;
+- situer le récit « une brique d'argent et une brique d'or, et son mortier est le musc au parfum intense » (at-Tirmidhi 2526) comme un récit dont l'authenticité est discutée, que l'on ne prend donc pas pour preuve principale ;
+- expliquer les deux interprétations d'an-Nawawi sur le sens de « son pareil », et comprendre que l'édifice véritable, dans la Jannah, c'est Allah qui le bâtit, et que son fondement, ici-bas, est l'intention sincère ;
+- réaliser l'activité « L'intention avant la première pierre » : écrire son intention avant de rendre un service concret à un lieu de prière, puis examiner ses motivations une fois le travail accompli ;
+- se rappeler le du'a de la leçon, qui demande à Allah la sincérité dans les œuvres et les chambres bâties de la Jannah.
 
-### Introduction
+## Section Académique Pour Adultes
 
-Quand on entend le mot `construction`, on imagine des murs, des portes, de la hauteur, de la decoration, et les maisons ou projets avec lesquels les gens rivalisent. Les descriptions du Jannah enseignent au coeur une autre attitude. L'invisible n'est pas un terrain pour l'imagination sans limite, et il ne se mesure pas a l'architecture de ce monde. C'est une revelation vraie, recue selon ce qui est solidement transmis d'Allah et de Son Messager, paix et benedictions sur lui.
+<!-- reader:start audience="adults" estimated_minutes="6.5" -->
 
-Cette lecon rassemble donc deux portes: la description et l'action. Dans la description, on affirme ce qui est solide et on parle avec prudence de ce qui ne l'est pas. Dans l'action, nous avons un texte sahih clair. Lorsque les gens parlerent beaucoup de la reconstruction de la Mosquee du Prophete par `Uthman ibn `Affan, il leur rappela qu'il avait entendu le Prophete, paix et benedictions sur lui, mentionner la recompense de celui qui construit une mosquee pour Allah: Allah lui construit quelque chose de semblable au Jannah.[^2]
+<!-- unit:start id="adults.explanation" kind="explanation" -->
 
-Le sens coranique soutient cela. Entretenir les mosquees d'Allah n'est pas seulement un travail physique; c'est lie a la foi en Allah et au Jour dernier, a la priere, a la zakat et a la crainte d'Allah.[^1] La lecon n'apprend donc pas aux enfants a etre fascines par les pierres. Elle leur apprend que la plus grande construction porte une intention sincere, un bien durable et le service de l'adoration d'Allah.
+Ce qu'est un édifice, nous le savons d'expérience : des fondations, des briques, des murs, un toit, puis les ornements. Nous savons aussi que tout bâtiment d'ici-bas finit par s'user, que ceux qui en ont la charge peuvent se diviser sur sa forme, et que les gens ne manquent pas d'en parler. Cette leçon, qui fait suite à celle consacrée à la terre et au sol de la Jannah, pose donc trois questions : que savons-nous avec certitude de l'édifice de la Jannah ? Qu'est-ce que nous ne pouvons pas affirmer ? Et comment le serviteur peut-il obtenir qu'une demeure lui y soit bâtie ?
 
-### Sens centraux
+La leçon s'appuie sur un hadith authentique qui réunit ces deux faces : un homme bâtit ici-bas une maison pour Allah, les gens critiquent son ouvrage, et il leur répond par une promesse prophétique : à celui qui bâtit pour Lui, Allah bâtit son pareil dans la Jannah. Celui qui bâtit dans la Jannah, c'est donc Allah ; le matériau que le serviteur fournit ici-bas, c'est l'œuvre sincère. Nous lirons ensuite ce qui est établi sur l'édifice lui-même, et nous remettrons à sa juste place le récit dont l'authenticité est discutée.
 
-Premierement: le Jannah est plus grand que notre imagination. Certains livres de description mentionnent des recits sur des briques d'or et d'argent et un mortier de musc; mais un enseignant honnete nomme le degre du recit et ne fait pas d'une narration faible la base emotionnelle d'une lecon pour enfants. Il suffit au croyant de savoir que ce qu'Allah a prepare depasse tout ce que nous avons vu, entendu ou imagine.
+<!-- unit:end -->
 
-Deuxiemement: construire en Islam n'est pas une simple apparence. Une personne peut construire pour que son nom reste; une autre peut construire sans etre connue de personne sauf d'Allah. La difference n'est pas la beaute du mur, mais l'orientation du coeur. C'est pourquoi le recit de Boukhari porte le sens de construire pour Allah et de rechercher Son Visage.[^2]
+<!-- unit:start id="adults.evidence" kind="evidence" -->
 
-Troisiemement: servir les maisons d'Allah est large. Celui qui n'a pas beaucoup d'argent peut offrir une brique de temps, d'adab, de nettoyage, d'enseignement, d'organisation ou de petite aumone. L'enfant qui protege un mushaf, l'adolescent qui sert une halaqah, et la famille qui aide la mosquee apprennent tous que la construction commence dans le coeur avant d'arriver a la main.
+## Les Preuves Centrales
 
-### Textes centraux
+<!-- evidence:start id="bukhari-450" kind="hadith" mode="canonical" -->
 
-- Le Coran relie l'entretien des mosquees a la foi, au Jour dernier, a la priere, a la zakat et a la crainte d'Allah.[^1]
-- Le hadith de `Uthman dans Sahih al-Bukhari relie la construction d'une mosquee pour Allah a la promesse d'une demeure au Jannah.[^2]
-- Le recit sur les materiaux de construction du Jannah dans Jami` at-Tirmidhi est mentionne dans les livres de description, mais Tirmidhi signale une faiblesse dans sa chaine et Darussalam le classe da`if. Il est donc utilise ici pour la conscience methodologique, non comme base des histoires pour enfants.[^3]
-- Al-Ashqar et Ibn al-Qayyim rassemblent des narrations sur ce sujet dans leurs chapitres sur la description du Jannah; leurs ouvrages aident a organiser le theme, tout en gardant la necessite de verifier chaque narration.[^4][^5]
+### Celui Qui Bâtit Une Mosquée En Recherchant Par Là La Face D'Allah
 
-## Pour les jeunes enfants, 4-7 ans
+> عَنْ عُبَيْدِ اللَّهِ الْخَوْلَانِيِّ أَنَّهُ سَمِعَ عُثْمَانَ بْنَ عَفَّانَ رضي الله عنه يَقُولُ عِنْدَ قَوْلِ النَّاسِ فِيهِ حِينَ بَنَى مَسْجِدَ الرَّسُولِ ﷺ: **«إِنَّكُمْ أَكْثَرْتُمْ، وَإِنِّي سَمِعْتُ النَّبِيَّ ﷺ يَقُولُ: مَنْ بَنَى مَسْجِدًا -قَالَ بُكَيْرٌ: حَسِبْتُ أَنَّهُ قَالَ:- يَبْتَغِي بِهِ وَجْهَ اللَّهِ، بَنَى اللَّهُ لَهُ مِثْلَهُ فِي الْجَنَّةِ»**.[^1]
+>
+> وَفِي رِوَايَةٍ عِنْدَ مُسْلِمٍ عَنْ مَحْمُودِ بْنِ لَبِيدٍ: **أَنَّ عُثْمَانَ بْنَ عَفَّانَ أَرَادَ بِنَاءَ الْمَسْجِدِ، فَكَرِهَ النَّاسُ ذَلِكَ، فَأَحَبُّوا أَنْ يَدَعَهُ عَلَى هَيْئَتِهِ، فَقَالَ: سَمِعْتُ رَسُولَ اللَّهِ ﷺ يَقُولُ: «مَنْ بَنَى مَسْجِدًا لِلَّهِ بَنَى اللَّهُ لَهُ فِي الْجَنَّةِ مِثْلَهُ»**.[^1]
 
-### Explication simple
+<!-- evidence:translation -->
 
-Le Jannah est la maison de joie qu'Allah a preparee pour Ses serviteurs croyants. Nous ne connaissons pas tous les details de son apparence, mais nous savons qu'Allah est tres genereux. Celui qui aime Allah aime aussi les maisons d'Allah dans ce monde: les mosquees, les lieux de priere et les cercles de Coran. Une action peut etre tres petite, mais Allah voit le coeur sincere.
+#### Traduction Française
 
-### Petite histoire
+> D'après 'Ubayd Allah al-Khawlani : il entendit 'Uthman ibn 'Affan, qu'Allah soit satisfait de lui, dire, alors que les gens parlaient de lui au moment où il rebâtissait la mosquée du Messager, paix et bénédictions sur lui : **« Vous en avez trop dit. Or j'ai entendu le Prophète, paix et bénédictions sur lui, dire : “Celui qui bâtit une mosquée — Bukayr a dit : je crois qu'il a dit : — en recherchant par là la Face d'Allah, Allah lui bâtit son pareil dans la Jannah.” »**[^1]
+>
+> Et dans une version de Muslim, d'après Mahmud ibn Labid : **'Uthman ibn 'Affan voulut rebâtir la mosquée ; les gens n'aimèrent pas cela et auraient préféré qu'il la laisse dans son état. Il dit alors : « J'ai entendu le Messager d'Allah, paix et bénédictions sur lui, dire : “Celui qui bâtit une mosquée pour Allah, Allah lui bâtit dans la Jannah son pareil.” »**[^1]
 
-Ceci est une histoire educative originale.
+#### Interprétation Savante
 
-Salim aimait les blocs colores. Il construisit une grande tour, recula et dit: "Regardez! C'est la plus grande tour de la piece." Peu apres, sa petite soeur entra et tendit la main pour l'aider. Quelques blocs tomberent. Salim allait presque crier, puis il vit sa mere tenir son tapis de priere, prete a partir a la mosquee.
+Les mots de Bukayr, « je crois qu'il a dit », expriment le doute de l'un des rapporteurs sur la formulation « en recherchant par là la Face d'Allah » ; mais le même sens nous est parvenu sous la forme « pour Allah » dans la version de Mahmud ibn Labid, si bien que la condition de sincérité est établie.[^1] An-Nawawi, qu'Allah lui fasse miséricorde, a envisagé deux sens pour « son pareil » (*mithlahu*) : soit la ressemblance porte sur le seul fait d'être une maison, tandis que son étendue et sa qualité relèvent de ce « qu'aucun œil n'a vu ni aucune oreille entendu » ; soit la supériorité de cette maison sur les autres maisons de la Jannah est comparable à celle de la mosquée sur les maisons de ce monde.[^8]
 
-Sa mere demanda doucement: "Veux-tu construire quelque chose qu'Allah aime?" Salim repondit: "Je suis petit. Je ne sais pas construire une mosquee." Elle dit: "Construire, ce n'est pas toujours avec des pierres. Aujourd'hui, tu peux remettre les mushafs a leur place, garder le passage propre et entrer avec un coeur calme."
+#### Explication De La Leçon
 
-A la mosquee, Salim vit une petite chaussure au milieu du passage et la posa pres de l'etagere. Puis il trouva un papier sur le tapis et le ramassa. Personne n'applaudit, personne ne lui dessina d'etoile, mais il sentit une joie calme dans son coeur. A la porte, il dit a sa mere: "Aujourd'hui, j'ai pose deux blocs pour Allah." Elle sourit: "Tu as pose une belle intention, et Allah la connait."
+Dans la promesse, celui qui agit, c'est Allah : « Allah lui bâtit ». L'édifice de la Jannah n'est donc pas un ouvrage humain auquel on pourrait le mesurer, mais le don d'un Seigneur généreux. Et la réponse de 'Uthman, qu'Allah soit satisfait de lui, est un modèle pour quiconque est critiqué à propos d'une bonne œuvre : il n'a pas plaidé sa propre cause, il a ramené la question au texte et à l'intention.
 
-### Histoire vraie de l'histoire islamique
+<!-- evidence:end -->
 
-Quand `Uthman ibn `Affan, qu'Allah l'agree, voulut reconstruire et agrandir la Mosquee du Prophete, certaines personnes en parlerent. `Uthman leur rappela ce qu'il avait entendu du Prophete, paix et benedictions sur lui: celui qui construit une mosquee pour Allah, Allah lui construit une demeure au Jannah. C'etait une vraie mosquee, un homme sincere et une grande promesse d'Allah.[^2]
+<!-- evidence:start id="bukhari-446" kind="hadith" mode="canonical" -->
 
-### Questions courtes
+### De La Brique Crue Et Des Palmes À La Pierre Sculptée
 
-- Pourquoi aimons-nous les maisons d'Allah?
-- Allah voit-Il les petites actions?
-- Quelle petite action peux-tu faire dans la mosquee ou le lieu de priere?
+> عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ رضي الله عنهما: **أَنَّ الْمَسْجِدَ كَانَ عَلَى عَهْدِ رَسُولِ اللَّهِ ﷺ مَبْنِيًّا بِاللَّبِنِ، وَسَقْفُهُ الْجَرِيدُ، وَعُمُدُهُ خَشَبُ النَّخْلِ، فَلَمْ يَزِدْ فِيهِ أَبُو بَكْرٍ شَيْئًا، وَزَادَ فِيهِ عُمَرُ وَبَنَاهُ عَلَى بُنْيَانِهِ فِي عَهْدِ رَسُولِ اللَّهِ ﷺ بِاللَّبِنِ وَالْجَرِيدِ، وَأَعَادَ عُمُدَهُ خَشَبًا، ثُمَّ غَيَّرَهُ عُثْمَانُ، فَزَادَ فِيهِ زِيَادَةً كَثِيرَةً، وَبَنَى جِدَارَهُ بِالْحِجَارَةِ الْمَنْقُوشَةِ وَالْقَصَّةِ، وَجَعَلَ عُمُدَهُ مِنْ حِجَارَةٍ مَنْقُوشَةٍ، وَسَقَفَهُ بِالسَّاجِ**.[^2]
 
-### Activite a la maison ou en halaqah
+<!-- evidence:translation -->
 
-Construisez une petite maison avec des blocs, puis placez dedans une carte: `Je construis pour Allah avec mon coeur et mes actions.` L'enfant choisit ensuite une maniere de servir le lieu de priere cette semaine.
+#### Traduction Française
 
-### Version avant de dormir
+> D'après 'Abd Allah ibn 'Umar, qu'Allah soit satisfait d'eux deux : **du temps du Messager d'Allah, paix et bénédictions sur lui, la mosquée était bâtie en briques crues ; son toit était fait de palmes, et ses piliers de troncs de palmier. Abu Bakr n'y ajouta rien. 'Umar l'agrandit et la rebâtit sur le plan qu'elle avait du temps du Messager d'Allah, paix et bénédictions sur lui, avec des briques crues et des palmes, et il en refit les piliers en bois. Puis 'Uthman la transforma : il l'agrandit considérablement, en bâtit le mur de pierres sculptées et de plâtre, en fit les piliers de pierres sculptées, et la couvrit d'un toit de teck.**[^2]
 
-O Allah, accorde-nous une demeure au Jannah, fais aimer a nos coeurs Tes maisons, et rends nos actions sinceres pour Toi.
+#### Interprétation Savante
 
-## Pour les enfants moyens, 8-12 ans
+*Al-labin* désigne la brique crue, faite d'argile séchée ; *al-jarid*, les palmes du palmier dattier ; *al-qassah*, le plâtre ; et *as-saj*, le teck, un bois réputé que l'on faisait venir de contrées lointaines.[^9]
 
-### Explication adaptee a l'age
+#### Explication De La Leçon
 
-Les gens admirent les grands batiments parce qu'ils se voient. L'Islam nous enseigne que la valeur d'un batiment ne vient pas seulement de sa taille, mais de son intention et de son utilite. Une mosquee simple ou l'on mentionne Allah est plus grande aupres d'Allah qu'un batiment impressionnant construit pour l'orgueil et la reputation.
+Ce hadith montre de quoi parlaient les gens : d'une mosquée qu'ils avaient connue faite de briques crues et de palmes du temps du Prophète, paix et bénédictions sur lui, et de ses deux compagnons, Abu Bakr et 'Umar, et dont la construction venait de changer et de s'agrandir. Leur réticence se comprend donc ; et 'Uthman leur répondit par le texte, non par la force.
 
-Quand nous apprenons la construction du Jannah, nous ne la dessinons pas comme nous voulons. Nous croyons ce qui est authentique et nous gardons l'adab envers ce que nous ne connaissons pas. Puis nous demandons: comment puis-je aider a construire le bien? Cela peut etre garder la mosquee propre, aider une halaqah de Coran, donner une petite aumone avec l'accord des parents, ou organiser l'espace de priere a la maison.
+<!-- evidence:end -->
 
-### Petite histoire
+<!-- evidence:start id="quran-39-20" kind="quran" mode="canonical" -->
 
-Ceci est une histoire educative originale.
+### Des Chambres Hautes, Surmontées D'autres Chambres Hautes, Bâties
 
-A l'ecole, l'enseignant annonca que la salle de priere allait etre reorganisee. Certains eleves porterent des boites de livres. D'autres donnerent de petits tapis de priere. Noura resta pres de la porte. Elle n'etait pas assez forte pour porter les boites et n'avait pas d'argent avec elle. Elle murmura a son amie: "Je crois que je ne peux pas aider."
+> **{لَٰكِنِ الَّذِينَ اتَّقَوْا رَبَّهُمْ لَهُمْ غُرَفٌ مِنْ فَوْقِهَا غُرَفٌ مَبْنِيَّةٌ تَجْرِي مِنْ تَحْتِهَا الْأَنْهَارُ ۖ وَعْدَ اللَّهِ ۖ لَا يُخْلِفُ اللَّهُ الْمِيعَادَ}** [الزمر: ٢٠][^3]
 
-Apres la priere, Noura remarqua que les mushafs etaient melanges et que les plus jeunes ne trouvaient pas Juz `Amma. Elle s'assit calmement et commenca a ranger les etageres: les grands mushafs d'un cote, les petits fascicules d'un autre, les livres d'adhkar dans une corbeille proche. Puis elle ecrivit une petite carte: `Apres la lecture, remets le livre doucement.`
+<!-- evidence:translation -->
 
-Le lendemain, l'enseignant demanda: "Qui a range les etageres? La salle de priere est plus calme." Noura ne leva pas la main. Sa joie etait differente. Ce n'etait pas la joie d'entendre son nom, mais la joie d'avoir facilite le lieu de priere pour les autres. Dans son cahier, elle ecrivit: `Une brique n'est pas toujours de l'argent. Parfois, c'est de l'ordre, de la douceur et du temps pour Allah.`
+#### Traduction Française
 
-### Histoire vraie de l'histoire islamique
+> **« Mais ceux qui ont craint leur Seigneur auront des chambres hautes, surmontées d'autres chambres hautes, bâties, sous lesquelles coulent les rivières. C'est la promesse d'Allah : Allah ne manque jamais à Sa promesse. »** (az-Zumar 39:20)[^3]
 
-Sahih al-Bukhari rapporte que les gens parlerent beaucoup lorsque `Uthman ibn `Affan, qu'Allah l'agree, reconstruisit la Mosquee du Messager d'Allah, paix et benedictions sur lui. `Uthman ne transforma pas l'affaire en defense de son statut. Il la ramena a la revelation et a l'intention, rappelant qu'il avait entendu le Prophete enseigner que celui qui construit une mosquee en recherchant le Visage d'Allah aura quelque chose de semblable construit pour lui au Jannah. Cela nous apprend que la construction qu'Allah aime n'est pas celle de la celebrite, mais celle de la sincerite et du bien.[^2]
+#### Interprétation Savante
 
-### Vocabulaire important
+Ibn Kathir, qu'Allah lui fasse miséricorde, a dit : « des étages au-dessus d'autres étages, bâtis, solides, ornés, élevés ».[^5] Et as-Sa'di, qu'Allah lui fasse miséricorde, y voit des demeures élevées et ornées, les unes au-dessus des autres, « bâties d'or et d'argent, et dont le mortier est le musc au parfum intense » ; il conclut qu'Allah a promis cette récompense aux pieux : « qu'ils s'acquittent donc pleinement des qualités de la piété, afin qu'Il s'acquitte pleinement envers eux de leurs récompenses ».[^4]
 
-- `Entretenir les mosquees`: les construire, les servir, les proteger et les remplir de priere, de rappel et d'apprentissage.
-- `Rechercher le Visage d'Allah`: faire une action pour la satisfaction d'Allah, non pour les eloges.
-- `L'invisible`: ce qu'Allah et Son Messager nous ont annonce, meme si nous ne l'avons pas vu dans cette vie.
+#### Explication De La Leçon
 
-### Questions de comprehension et de reflexion
+Le mot « bâties » (*mabniyyah*) est un texte coranique explicite : il y a dans la Jannah un véritable édifice, et non un simple sens symbolique. Le verset rattache cet édifice à la piété (*taqwa*) et se referme sur la promesse divine.
 
-- Pourquoi les recits faibles ne doivent-ils pas devenir la base des descriptions detaillees du Jannah pour les enfants?
-- Quelle difference y a-t-il entre construire pour que son nom soit connu et construire pour Allah?
-- Comment un enfant de ton age peut-il aider a entretenir une mosquee ou un lieu de priere?
-- Que feras-tu cette semaine comme "brique de bien"?
+<!-- evidence:end -->
 
-### Activite a la maison ou en halaqah
+<!-- evidence:start id="bukhari-4878" kind="hadith" mode="canonical" -->
 
-Dessine un petit plan du lieu de priere a la maison ou en classe. Ecris trois facons de le rendre plus propre, plus calme et plus favorable au khushu`. Choisis-en une et fais-la avec la permission d'un parent ou d'un enseignant.
+### Deux Jardins D'argent Et Deux Jardins D'or
 
-## Pour les adolescents, 13+
+> عَنْ أَبِي مُوسَى الْأَشْعَرِيِّ رضي الله عنه أَنَّ رَسُولَ اللَّهِ ﷺ قَالَ: **«جَنَّتَانِ مِنْ فِضَّةٍ آنِيَتُهُمَا وَمَا فِيهِمَا، وَجَنَّتَانِ مِنْ ذَهَبٍ آنِيَتُهُمَا وَمَا فِيهِمَا، وَمَا بَيْنَ الْقَوْمِ وَبَيْنَ أَنْ يَنْظُرُوا إِلَى رَبِّهِمْ إِلَّا رِدَاءُ الْكِبْرِ عَلَى وَجْهِهِ فِي جَنَّةِ عَدْنٍ»**.[^6]
 
-### Explication plus profonde
+<!-- evidence:translation -->
 
-Pour les adolescents, construire peut devenir un symbole d'identite: Qu'est-ce que je possede? Ou vais-je vivre? Comment les gens me verront-ils? Ces questions ne sont pas toutes mauvaises, mais elles deviennent dangereuses lorsque le coeur mesure la valeur par l'espace, le prix et l'admiration. La lecon sur la construction du Jannah remet l'imagination et l'ambition dans le bon ordre. L'architecture qui demeure n'est pas seulement ce qui apparait sur les photos; c'est ce dont Allah temoigne la sincerite.
+#### Traduction Française
 
-C'est ici que la methode compte. Un recit connu decrit les materiaux de construction du Jannah, et les livres de description le rassemblent, mais il n'a pas la meme force chez les savants du hadith. Jami` at-Tirmidhi signale une faiblesse dans sa chaine, et Darussalam le classe da`if.[^3] Nous ne construisons donc pas le coeur de l'eleve sur un detail instable, et nous n'abandonnons pas le sujet non plus. Nous affirmons la base: le Jannah est vrai, son bienfait depasse l'imagination, et celui qui construit pour Allah recoit une immense promesse.
+> D'après Abu Musa al-Ash'ari, qu'Allah soit satisfait de lui, le Messager d'Allah, paix et bénédictions sur lui, a dit : **« Deux jardins d'argent, leurs vaisselles et tout ce qu'ils contiennent ; et deux jardins d'or, leurs vaisselles et tout ce qu'ils contiennent. Et rien ne sépare les gens de la vision de leur Seigneur, sinon le manteau de la Grandeur sur Sa Face, dans le Jardin d'Éden. »**[^6]
 
-### Petite histoire
+#### Explication De La Leçon
 
-Ceci est une histoire educative originale.
+« Et tout ce qu'ils contiennent » englobe tout ce qui se trouve dans ces deux jardins, édifices compris : l'or et l'argent font donc partie de la matière de la Jannah, en vertu d'un texte authentique. Quant à la fin du hadith, qui touche à un attribut d'Allah le Très-Haut, on l'affirme tel qu'il est rapporté, sans assimilation (*tashbih*) et sans chercher à en définir les modalités (*takyif*).
 
-Yasir aimait l'architecture. Il suivait des images de maisons modernes, apprenait les noms des materiaux et dessinait des facades de verre dans son cahier. Mais son interet, beau au depart, commenca a devenir une comparaison dure: la maison de celui-ci est plus belle, la chambre de celui-la est plus grande, ce bureau est plus impressionnant. Le design devenait un langage de statut, non de sens.
+<!-- evidence:end -->
 
-Dans un cours du vendredi, Yasir entendit le recit de `Uthman, qu'Allah l'agree, sur la construction d'une mosquee pour Allah. Une expression resta avec lui: rechercher le Visage d'Allah. Sur le chemin du retour, il pensa: le design peut-il devenir une adoration? Je ne peux peut-etre pas construire tout un batiment. Mais je peux aider la petite mosquee ou les enfants se pressent devant un tableau d'annonces confus.
+<!-- evidence:start id="tirmidhi-2526" kind="hadith" mode="canonical" -->
 
-La semaine suivante, Yasir dessina un tableau clair pour la mosquee: horaires des cours de Coran, direction des chaussures, noms des enseignants et petit rappel de garder le calme. Il l'imprima a peu de frais et l'accrocha avec permission. Il ne signa pas son nom en bas. Quand il vit un enfant trouver facilement son cours, il sentit que le design etait revenu a sa juste place: non pas une maniere de grandir dans les yeux des gens, mais une maniere de faciliter le bien.
+### Le Récit Des Briques : Une Authenticité Discutée
 
-### Histoire vraie de l'histoire islamique
+> عَنْ أَبِي هُرَيْرَةَ رضي الله عنه قَالَ: [...] قُلْنَا: الْجَنَّةُ مَا بِنَاؤُهَا؟ قَالَ: **«لَبِنَةٌ مِنْ فِضَّةٍ وَلَبِنَةٌ مِنْ ذَهَبٍ، وَمِلَاطُهَا الْمِسْكُ الْأَذْفَرُ، وَحَصْبَاؤُهَا اللُّؤْلُؤُ وَالْيَاقُوتُ، وَتُرْبَتُهَا الزَّعْفَرَانُ، مَنْ يَدْخُلْهَا يَنْعَمْ وَلَا يَبْأَسْ، وَيُخَلَّدْ وَلَا يَمُوتْ، لَا تَبْلَى ثِيَابُهُمْ، وَلَا يَفْنَى شَبَابُهُمْ»**.[^7]
 
-L'histoire de `Uthman ibn `Affan dans Sahih al-Bukhari est forte parce qu'elle rassemble construction, intention et pression sociale. Les gens parlaient lorsqu'il reconstruisit la Mosquee du Prophete; `Uthman ramena donc l'affaire a ce qu'il avait entendu du Messager d'Allah, paix et benedictions sur lui: la promesse d'une demeure au Jannah pour celui qui construit une mosquee pour Allah. Une formulation porte un sens important: l'action se fait en recherchant le Visage d'Allah. L'histoire enseigne donc plus que la vertu du don. Elle enseigne que les projets publics demandent une intention pure, de la fiabilite, de la patience face aux paroles des gens et un retour constant a la revelation plutot qu'a la celebrite.[^2]
+<!-- evidence:translation -->
 
-### Questions de discussion
+#### Traduction Française
 
-- Pourquoi les descriptions detaillees des "materiaux de construction du Jannah" peuvent-elles attirer tout en demandant une prudence savante?
-- Comment l'expression `rechercher le Visage d'Allah` change-t-elle le sens d'une action caritative?
-- Quelles formes de construction non materielle un adolescent peut-il rejoindre: enseignement, organisation, technologie, traduction, nettoyage, medias utiles?
-- Quand l'ambition professionnelle ou architecturale devient-elle ostentation? Quand peut-elle devenir adoration?
+> D'après Abu Hurayrah, qu'Allah soit satisfait de lui, qui dit : [...] Nous demandâmes : « Et la Jannah, de quoi est-elle bâtie ? » Il répondit : **« Une brique d'argent et une brique d'or ; son mortier est le musc au parfum intense, ses graviers sont les perles et les rubis, et sa terre est le safran. Qui y entre connaît la félicité et ignore le malheur ; il y demeure éternellement et ne meurt pas ; leurs vêtements ne s'usent pas, et leur jeunesse ne se flétrit pas. »**[^7]
 
-### Applications pratiques
+#### Interprétation Savante
 
-- Aide un projet de mosquee ou de centre islamique apres avoir recu la permission, meme avec une petite competence.
-- Quand tu partages une action caritative, demande-toi: est-ce une documentation utile ou une recherche d'admiration?
-- Verifie le degre des narrations qui decrivent l'invisible, surtout lorsque les details sont spectaculaires ou tres partages.
-- Garde une "brique" hebdomadaire: un petit service regulier que les gens n'ont pas besoin de connaitre.
+At-Tirmidhi a dit : « Sa chaîne n'est pas très solide, et elle n'est pas, selon moi, ininterrompue. » Ahmad Shakir et al-Albani l'ont jugé authentique par l'ensemble de ses voies, et d'autres l'ont jugé faible.[^7] *Al-milat* désigne le mortier, ce que l'on met entre les briques pour les lier.
 
-### Activite de reflexion ou d'ecriture
+#### Explication De La Leçon
 
-Ecris une page intitulee: `Que suis-je en train de construire quand personne ne me voit?` Relie une intention, une competence que tu possedes et un service qui peut profiter aux gens.
+Voilà pourquoi ce récit n'est cité ici que pour faire connaître ce que rapportent les ouvrages consacrés à la description de la Jannah, et non comme preuve principale ; et l'on ne s'en sert pas pour bâtir les histoires destinées aux enfants. Ce qui est établi suffit : un édifice réel, des chambres au-dessus d'autres chambres, de l'or et de l'argent. Quant aux descriptions détaillées des murs de la Jannah que l'on trouve dans ces ouvrages, cette leçon ne s'y est pas appuyée.
 
-## Plan court d'enseignement
+<!-- evidence:end -->
 
-- Adultes: commencer par le verset sur l'entretien des mosquees, puis le hadith de `Uthman, puis discuter la difference entre un texte sahih et un recit faible.
-- 4-7 ans: insister sur l'amour des maisons d'Allah et les petites actions sinceres.
-- 8-12 ans: relier la construction au service pratique, a l'ordre et au bien.
-- Adolescents: discuter l'intention, la reputation, l'ambition et la maniere dont les competences modernes peuvent devenir adoration.
+<!-- unit:end -->
 
-## References
+<!-- unit:start id="adults.questions" kind="questions" -->
 
-[^1]: Coran 9:18, sur l'entretien des mosquees d'Allah et son lien avec la foi et l'action droite, https://quran.com/9/18
-[^2]: Sahih al-Bukhari 450, recit de `Ubaidullah al-Khawlani d'apres `Uthman ibn `Affan sur la reconstruction de la Mosquee du Prophete et le merite de construire une mosquee pour Allah, https://sunnah.com/bukhari:450
-[^3]: Jami` at-Tirmidhi 2526, recit decrivant les materiaux de construction du Jannah; Tirmidhi signale une faiblesse dans la chaine et Darussalam le classe da`if, https://sunnah.com/tirmidhi:2526
-[^4]: Umar Sulayman al-Ashqar, `al-Jannah wa'n-Nar`, section "Le Jannah n'a pas d'egal", rassemblant certaines narrations sur la description du Jannah avec mention de problemes de chaines dans certains recits, https://shamela.ws/book/12714/129
-[^5]: Ibn al-Qayyim, `Hadi al-Arwah ila Bilad al-Afrah`, chapitre trente-quatre sur la terre, l'argile, les cailloux et la construction du Jannah, https://shamela.ws/book/13652/333
+## Questions Pour Comprendre Et Méditer
+
+1. D'après la version de Muslim et le hadith d'Ibn 'Umar, pourquoi les gens étaient-ils réticents à ce que l'on modifie la construction de la mosquée ? Et que leur répondit 'Uthman ?
+2. Quelle différence y a-t-il entre ce que la leçon affirme de l'édifice de la Jannah et ce qu'elle ne mentionne qu'avec prudence ? Pourquoi cette différence ?
+3. Exposez les deux interprétations d'an-Nawawi sur le sens de « son pareil ».
+4. Que signifie le fait que, dans la promesse, ce soit Allah qui agit : « Allah lui bâtit » ?
+5. À quel moment une œuvre publique cesse-t-elle de « rechercher la Face d'Allah » pour rechercher la renommée ? À quels signes le reconnaît-on ?
+6. Comment répondre à une critique visant une bonne œuvre que vous accomplissez, sans vous mettre à plaider votre propre cause ?
+
+<!-- unit:end -->
+
+<!-- unit:start id="adults.activity" kind="activity" -->
+
+### Activité : L'intention Avant La Première Pierre
+
+<!-- activity:start audience="adults" concept_id="lesson.037.activity.intention-before-the-first-stone" -->
+
+Choisissez un service concret pour un lieu de prière : une réparation dans le coin prière de la maison, ou une participation à la restauration, au nettoyage ou à l'aménagement d'une mosquée. Avant de commencer, écrivez votre intention en une seule ligne, pour vous seul. Une fois la tâche accomplie, répondez par écrit à trois questions : Ai-je souhaité que mon travail soit vu ? Les propos des gens ont-ils changé quelque chose à mon travail ou à mon intention ? L'aurais-je fait si personne n'en avait rien su ? Écrivez ensuite une correction à apporter à votre intention pour votre prochaine œuvre.
+
+<!-- activity:end -->
+
+<!-- unit:end -->
+
+<!-- reader:end -->
+
+## Pour Les Enfants De 4 À 7 Ans
+
+<!-- reader:start audience="4-7" estimated_minutes="5.0" -->
+
+<!-- unit:start id="4-7.explanation" kind="explanation" -->
+
+As-tu déjà construit une maison avec des cubes ? Tu poses un cube, puis un autre par-dessus, puis encore un autre… et voilà un mur, puis une maison ! Dans la Jannah, il y a de vraies maisons, construites par Allah, avec des chambres au-dessus d'autres chambres, et des rivières qui coulent en dessous.[^3] Il y a aussi de l'or et de l'argent qui brillent.[^6] Nous ne savons pas exactement à quoi elles ressemblent, parce qu'elles sont plus belles que tout ce que nous avons jamais vu. Mais notre Prophète, paix et bénédictions sur lui, nous a appris ce qu'il faut faire pour qu'Allah nous y construise une maison.
+
+<!-- unit:end -->
+
+<!-- unit:start id="4-7.primary-story" kind="primary_story" -->
+
+### Un Hadith Authentique : 'Uthman Et La Nouvelle Mosquée
+
+<!-- story:start audience="4-7" role="primary" type="hadith" source_id="bukhari-450" authenticated="true" -->
+
+**Ceci est une histoire vraie, rapportée dans le Sahih d'al-Bukhari et le Sahih de Muslim. Ce n'est pas une histoire inventée.**
+
+À Médine, la mosquée du Prophète, paix et bénédictions sur lui, était construite en briques de terre. Son toit était fait de feuilles de palmier, et ses piliers de troncs de palmier.[^2]
+
+<!-- retelling:start source_id="bukhari-450" audience="4-7" -->
+
+Bien longtemps après, 'Uthman ibn 'Affan, qu'Allah soit satisfait de lui, est devenu le calife des musulmans. Il a voulu reconstruire la mosquée, plus grande et plus solide.
+
+Mais certaines personnes n'aimaient pas cette idée. Elles aimaient la mosquée comme elle était, et voulaient qu'elle reste ainsi. Et elles en ont beaucoup parlé.
+
+Alors, qu'a fait 'Uthman ? Il leur a rappelé les paroles du Prophète, paix et bénédictions sur lui. Il leur a dit : « Vous avez beaucoup parlé. Moi, j'ai entendu le Prophète, paix et bénédictions sur lui, dire : “Celui qui construit une mosquée pour Allah, Allah lui construit la même dans la Jannah.” »[^1]
+
+Ensuite, 'Uthman a construit la mosquée en pierres, et il l'a rendue plus grande.[^2]
+
+Regarde bien : 'Uthman construit sur la terre une maison pour Allah, et c'est Allah qui construit dans la Jannah. Et le plus important, quand on construit, c'est de le faire pour Allah, et pas pour que les gens disent : « Oh, comme c'est beau ! »[^1]
+
+<!-- retelling:end -->
+
+<!-- story:end -->
+
+<!-- unit:end -->
+
+<!-- unit:start id="4-7.questions" kind="questions" -->
+
+### Questions Courtes
+
+1. Avec quoi la mosquée du Prophète, paix et bénédictions sur lui, était-elle construite ?
+2. Qu'est-ce que 'Uthman voulait faire de la mosquée ?
+3. Qu'a dit le Prophète, paix et bénédictions sur lui, de celui qui construit une mosquée pour Allah ?
+4. Qui construit les maisons dans la Jannah ?
+5. Quelle petite chose peux-tu faire pour l'endroit où l'on prie ?
+
+<!-- unit:end -->
+
+<!-- unit:start id="4-7.activity" kind="activity" -->
+
+### Activité : L'intention Avant La Première Pierre
+
+<!-- activity:start audience="4-7" concept_id="lesson.037.activity.intention-before-the-first-stone" -->
+
+Avec ton papa ou ta maman, choisis une petite tâche pour le coin prière de la maison : ranger les tapis de prière, essuyer l'étagère, ou remettre le Coran à sa place. Avant de commencer, pose ta main sur ton cœur et dis : « Je fais cela pour Allah. » Quand tu as fini, dessine le coin prière tout bien rangé, et dis à ton papa ou à ta maman : l'as-tu fait pour Allah, ou pour que quelqu'un te félicite ?
+
+<!-- activity:end -->
+
+<!-- unit:end -->
+
+<!-- unit:start id="4-7.bedtime-dua" kind="bedtime_dua" -->
+
+### Du'a Avant De Dormir
+
+<!-- bedtime-dua:start audience="4-7" id="lesson.037.dua.sincere-work-built-chambers" provenance="lesson_authored" source_id="" attribution="not_prophetic" -->
+
+**Du'a thématique composée pour cette leçon ; non attribuée au Prophète, paix et bénédictions sur lui.**
+
+> اللَّهُمَّ اجْعَلْ عَمَلَنَا خَالِصًا لِوَجْهِكَ، وَاجْعَلْ لَنَا فِي جَنَّتِكَ غُرَفًا مَبْنِيَّةً تَجْرِي مِنْ تَحْتِهَا الْأَنْهَارُ.
+
+Ce qui veut dire : Ô Allah, fais que tout ce que nous faisons soit pour Toi seul, et donne-nous dans la Jannah de belles maisons, bien hautes, avec des rivières qui coulent en dessous.
+
+<!-- bedtime-dua:end -->
+
+<!-- unit:end -->
+
+<!-- reader:end -->
+
+## Pour Les Enfants De 8 À 12 Ans
+
+<!-- reader:start audience="8-12" estimated_minutes="6.0" -->
+
+<!-- unit:start id="8-12.explanation" kind="explanation" -->
+
+Quand tu vois un immeuble gigantesque, tu te demandes : qui l'a construit ? Avec quoi ? Combien de temps tiendra-t-il ? Tout bâtiment de ce monde a un constructeur, des matériaux, et une durée de vie qui finira un jour. La Jannah, elle, Allah nous a appris qu'il s'y trouve « des chambres hautes, surmontées d'autres chambres hautes, bâties, sous lesquelles coulent les rivières ».[^3] Et le Prophète, paix et bénédictions sur lui, nous a appris qu'il y a là deux jardins d'argent et deux jardins d'or, avec leurs vaisselles et tout ce qu'ils contiennent.[^6] Certains livres rapportent aussi un récit qui parle de briques d'or et d'argent, mais les savants ne sont pas d'accord sur son authenticité ; alors nous n'en faisons pas la base de ce que nous disons.[^7] La vraie question est donc celle-ci : comment obtenir qu'une demeure te soit bâtie là-bas ?
+
+<!-- unit:end -->
+
+<!-- unit:start id="8-12.terms" kind="terms" -->
+
+<!-- terminology:start source_id="bukhari-446" -->
+
+- **`La brique crue (al-labin)`** — une brique faite de terre argileuse séchée ; c'est avec elle qu'était bâtie la mosquée du Prophète, paix et bénédictions sur lui.[^9]
+- **`Le plâtre (al-qassah)`** — une matière blanche qui sert à lier les pierres et à recouvrir les murs.[^9]
+- **`Le teck (as-saj)`** — un bois très solide, dont on fit le toit de la mosquée à l'époque de 'Uthman.[^9]
+
+<!-- terminology:end -->
+
+<!-- terminology:start source_id="bukhari-450" -->
+
+- **`Rechercher par là la Face d'Allah (yabtaghi bihi wajh Allah)`** — vouloir, par ce qu'on fait, la satisfaction d'Allah seul, et non les compliments des gens.[^1]
+
+<!-- terminology:end -->
+
+<!-- unit:end -->
+
+<!-- unit:start id="8-12.primary-story" kind="primary_story" -->
+
+### Un Hadith Authentique : « Vous En Avez Trop Dit »
+
+<!-- story:start audience="8-12" role="primary" type="hadith" source_id="bukhari-450" authenticated="true" -->
+
+**Ceci est une histoire vraie, rapportée par al-Bukhari et Muslim d'après 'Uthman ibn 'Affan, qu'Allah soit satisfait de lui. Ce n'est pas une histoire inventée.**
+
+'Abd Allah ibn 'Umar, qu'Allah soit satisfait de lui et de son père, raconte qu'à Médine la mosquée du Prophète, paix et bénédictions sur lui, était bâtie en briques crues, que son toit était fait de palmes et ses piliers de troncs de palmier. Abu Bakr n'y ajouta rien. 'Umar l'agrandit, mais il la rebâtit exactement de la même manière : briques crues, palmes et piliers de bois.[^2]
+
+<!-- retelling:start source_id="bukhari-450" audience="8-12" -->
+
+Puis vint l'époque de 'Uthman ibn 'Affan, qu'Allah soit satisfait de lui. Il voulut reconstruire la mosquée. C'est là que le problème surgit : les gens n'aimaient pas cette idée, et ils auraient préféré qu'il la laisse telle qu'ils l'avaient toujours connue. Et l'on en parla beaucoup.[^1]
+
+Face aux critiques, certains abandonnent par peur du qu'en-dira-t-on ; d'autres s'entêtent, rien que pour avoir le dernier mot. 'Uthman, lui, s'en remit aux paroles du Prophète, paix et bénédictions sur lui. Il dit : « Vous en avez trop dit. Or j'ai entendu le Prophète, paix et bénédictions sur lui, dire : “Celui qui bâtit une mosquée en recherchant par là la Face d'Allah, Allah lui bâtit son pareil dans la Jannah.” »[^1]
+
+Et 'Uthman mena le chantier jusqu'au bout : il agrandit considérablement la mosquée, en bâtit le mur de pierres sculptées et de plâtre, en fit les piliers de pierres sculptées, et le toit de teck.[^2]
+
+Remarque deux choses. D'abord, la promesse dit : « Allah lui bâtit » ; c'est donc Allah qui bâtit dans la Jannah. Ensuite, la condition est : « en recherchant par là la Face d'Allah » ; la valeur d'une œuvre se trouve dans son intention, avant de se trouver dans ses pierres. Et celui qui ne peut pas bâtir une mosquée peut toujours servir les maisons d'Allah avec une intention sincère.[^1]
+
+<!-- retelling:end -->
+
+<!-- story:end -->
+
+<!-- unit:end -->
+
+<!-- unit:start id="8-12.questions" kind="questions" -->
+
+### Questions De Compréhension Et De Réflexion
+
+1. Décris la mosquée à l'époque du Prophète, paix et bénédictions sur lui, puis après 'Uthman.
+2. Pourquoi certaines personnes n'aimaient-elles pas que l'on change la mosquée ?
+3. Quel chemin 'Uthman a-t-il choisi quand les critiques se sont multipliées ?
+4. Qu'est-ce que nous affirmons de l'édifice de la Jannah, et quel récit ne prenons-nous pas comme base ? Pourquoi ?
+5. Raconte une fois où tu as fait quelque chose de bien et où les autres en ont parlé. Comment as-tu réagi ?
+
+<!-- unit:end -->
+
+<!-- unit:start id="8-12.activity" kind="activity" -->
+
+### Activité : L'intention Avant La Première Pierre
+
+<!-- activity:start audience="8-12" concept_id="lesson.037.activity.intention-before-the-first-stone" -->
+
+Avec ta famille ou ta classe, choisis un service pour un lieu de prière : nettoyer les étagères des Corans, ranger les chaussures, ou préparer un coin prière à l'école. Avant de commencer, écris sur une carte : « Mon intention : … », puis plie-la. Après le travail, dessine l'endroit avant et après, puis ouvre ta carte et réponds : mon intention est-elle restée la même pendant que je travaillais ? Et qu'ai-je fait quand quelqu'un a fait une remarque sur mon travail ?
+
+<!-- activity:end -->
+
+<!-- unit:end -->
+
+<!-- unit:start id="8-12.bedtime-dua" kind="bedtime_dua" -->
+
+### Du'a Avant De Dormir
+
+<!-- bedtime-dua:start audience="8-12" id="lesson.037.dua.sincere-work-built-chambers" provenance="lesson_authored" source_id="" attribution="not_prophetic" -->
+
+**Du'a thématique composée pour cette leçon ; non attribuée au Prophète, paix et bénédictions sur lui.**
+
+> اللَّهُمَّ اجْعَلْ عَمَلَنَا خَالِصًا لِوَجْهِكَ، وَاجْعَلْ لَنَا فِي جَنَّتِكَ غُرَفًا مَبْنِيَّةً تَجْرِي مِنْ تَحْتِهَا الْأَنْهَارُ.
+
+Sens : Ô Allah, fais que nos actions soient pour Toi seul, et non pour les compliments des gens, et accorde-nous dans Ta Jannah les chambres bâties que Tu as promises aux pieux, sous lesquelles coulent les rivières.
+
+<!-- bedtime-dua:end -->
+
+<!-- unit:end -->
+
+<!-- reader:end -->
+
+## Pour Les Adolescents, 13 Ans Et Plus
+
+<!-- reader:start audience="13+" estimated_minutes="6.5" -->
+
+<!-- unit:start id="13+.explanation" kind="explanation" -->
+
+Tout projet public — une collecte de dons, une initiative bénévole, une page utile sur Internet — finira par faire parler. Certains critiquent à juste titre, d'autres restent attachés à ce qui existait avant, d'autres encore parlent pour parler. Sous cette pression, deux questions se posent : vais-je tout arrêter par peur du qu'en-dira-t-on ? Ou vais-je continuer juste pour prouver que j'ai raison ? Dans un hadith authentique, 'Uthman ibn 'Affan, qu'Allah soit satisfait de lui, a affronté exactement cette situation lorsqu'il a rebâti la mosquée du Prophète, paix et bénédictions sur lui, et sa réponse est une leçon sur la construction qui demeure. Le Coran nous apprend que les pieux auront dans la Jannah « des chambres hautes, surmontées d'autres chambres hautes, bâties » ;[^3] alors, comment faire pour être, toi aussi, de ceux pour qui Allah bâtit ?
+
+<!-- unit:end -->
+
+<!-- unit:start id="13+.terms" kind="terms" -->
+
+<!-- terminology:start source_id="bukhari-450" -->
+
+- **`Rechercher par là la Face d'Allah (yabtaghi bihi wajh Allah)`** — faire en sorte que le vrai moteur de l'action soit la satisfaction d'Allah, et non la célébrité ni le besoin de s'affirmer ; c'est la condition de la promesse dans le hadith.[^1]
+- **`Son pareil (mithlahu)`** — an-Nawawi a dit : pareil en ce qu'il est une maison, mais d'une qualité qui dépasse toute imagination ; ou bien sa supériorité sur les maisons de la Jannah est comme celle de la mosquée sur les maisons de ce monde.[^8]
+
+<!-- terminology:end -->
+
+<!-- terminology:start source_id="quran-39-20" -->
+
+- **`Des chambres bâties (ghurafun mabniyyah)`** — des demeures élevées, les unes au-dessus des autres, solidement bâties ; c'est la récompense des pieux dans le verset.[^5]
+
+<!-- terminology:end -->
+
+<!-- unit:end -->
+
+<!-- unit:start id="13+.primary-story" kind="primary_story" -->
+
+### Un Hadith Authentique : Le Bâtisseur Qui Ramena Les Critiques Au Texte
+
+<!-- story:start audience="13+" role="primary" type="hadith" source_id="bukhari-450" authenticated="true" -->
+
+**Ceci est un récit véridique, rapporté par al-Bukhari et Muslim. Ce n'est pas une scène imaginée.**
+
+Commence par le lieu. La mosquée du Prophète, paix et bénédictions sur lui, à Médine : le Prophète et ses Compagnons l'avaient bâtie en briques crues, avec un toit de palmes et des piliers en troncs de palmier. Abu Bakr n'y changea rien. 'Umar l'agrandit, mais en gardant les mêmes matériaux. Ce bâtiment tout simple était devenu une part de la mémoire des gens.[^2]
+
+<!-- retelling:start source_id="bukhari-450" audience="13+" -->
+
+Puis 'Uthman ibn 'Affan, qu'Allah soit satisfait de lui, alors calife, voulut la rebâtir. Mahmud ibn Labid raconte que les gens n'aimèrent pas cela et auraient préféré qu'il la laisse dans son état. Et 'Ubayd Allah al-Khawlani rapporte qu'ils en parlèrent beaucoup.[^1]
+
+Note bien : l'opposition ne venait pas d'ennemis, mais de musulmans qui aimaient la mosquée telle qu'ils l'avaient connue. C'est la pression la plus difficile qui soit : être critiqué par des gens sincères.
+
+Qu'a fait 'Uthman ? Le hadith ne dit pas qu'il a fait valoir son rang, ni qu'il a défendu ses goûts en matière d'architecture. Il a dit : « Vous en avez trop dit. Or j'ai entendu le Prophète, paix et bénédictions sur lui, dire : “Celui qui bâtit une mosquée en recherchant par là la Face d'Allah, Allah lui bâtit son pareil dans la Jannah.” »[^1] Il a déplacé le débat : la question n'était plus « Que veut 'Uthman ? », mais « Qu'a dit le Messager d'Allah, paix et bénédictions sur lui ? Et quelle est l'intention ? »
+
+Puis il a mené l'ouvrage à son terme : il a considérablement agrandi la mosquée, en a fait le mur de pierres sculptées et de plâtre, les piliers de pierre, et le toit de bois de teck.[^2]
+
+Et la leçon pour toi : la promesse dépend de l'intention, pas des applaudissements. Les gens voient les pierres ; Allah voit pourquoi tu les as posées. Celui qui bâtit pour Allah ici-bas, c'est Allah qui bâtit pour lui dans la Jannah, et Son ouvrage ne se mesure pas à celui des hommes. Quant à des détails comme « une brique d'or et une brique d'argent », ils viennent d'un récit dont l'authenticité est discutée ; nous n'en faisons donc pas une base,[^7] et ce qui est établi nous suffit : des chambres bâties, de l'or et de l'argent.[^3][^6]
+
+<!-- retelling:end -->
+
+<!-- story:end -->
+
+<!-- unit:end -->
+
+<!-- unit:start id="13+.questions" kind="questions" -->
+
+### Questions De Discussion
+
+1. Pourquoi l'opposition des gens à 'Uthman était-elle plus difficile à affronter que celle d'adversaires ?
+2. Qu'est-ce que 'Uthman a gagné en ramenant le débat au texte plutôt qu'à son rang ou à ses goûts ?
+3. Comment distinguer une critique dont tu dois tirer profit de paroles qui ne doivent pas t'arrêter ?
+4. Sur quel projet travailles-tu en ce moment, et pour qui le fais-tu vraiment ?
+5. Pourquoi la leçon tient-elle à distinguer, dans la description de la Jannah, ce qui est établi de ce qui est discuté ?
+
+<!-- unit:end -->
+
+<!-- unit:start id="13+.activity" kind="activity" -->
+
+### Activité : L'intention Avant La Première Pierre
+
+<!-- activity:start audience="13+" concept_id="lesson.037.activity.intention-before-the-first-stone" -->
+
+Choisis un vrai service pour un lieu de prière, à accomplir dans la semaine : aider à nettoyer la mosquée, préparer la salle de prière de ton école, ou ranger sa bibliothèque. Avant de commencer, écris ta ligne d'intention dans une note privée. Une fois le travail fait, réponds : as-tu pensé à photographier ton travail ou à le publier ? Pourquoi ? Quelqu'un a-t-il fait une remarque sur ce que tu as fait, et quel effet cela a-t-il eu sur toi ? L'aurais-tu fait si personne ne l'avait su ? Puis complète cette phrase : « La prochaine fois, je corrigerai mon intention en… »
+
+<!-- activity:end -->
+
+<!-- unit:end -->
+
+<!-- unit:start id="13+.bedtime-dua" kind="bedtime_dua" -->
+
+### Du'a Avant De Dormir
+
+<!-- bedtime-dua:start audience="13+" id="lesson.037.dua.sincere-work-built-chambers" provenance="lesson_authored" source_id="" attribution="not_prophetic" -->
+
+**Du'a thématique composée pour cette leçon ; non attribuée au Prophète, paix et bénédictions sur lui.**
+
+> اللَّهُمَّ اجْعَلْ عَمَلَنَا خَالِصًا لِوَجْهِكَ، وَاجْعَلْ لَنَا فِي جَنَّتِكَ غُرَفًا مَبْنِيَّةً تَجْرِي مِنْ تَحْتِهَا الْأَنْهَارُ.
+
+Sens : Ô Allah, purifie nos intentions, afin que nos œuvres soient pour Toi seul, et non pour le regard des gens ni pour leurs paroles, et accorde-nous les chambres bâties que Tu as promises aux pieux dans Ta Jannah.
+
+<!-- bedtime-dua:end -->
+
+<!-- unit:end -->
+
+<!-- reader:end -->
+
+## Plans D'enseignement Détaillés
+
+<!-- lesson-plan:start audience="adults" minutes="60" -->
+
+### Les Adultes — 60 Minutes
+
+<!-- lesson-plan:outcomes -->
+**Résultats d'apprentissage :** l'apprenant raconte le hadith de 'Uthman dans ses deux versions et en dégage la condition de sincérité ; décrit l'évolution de la construction de la mosquée d'après le hadith d'Ibn 'Umar ; affirme de l'édifice de la Jannah ce qu'indiquent az-Zumar 39:20 et al-Bukhari 4878 ; explique pourquoi le récit d'at-Tirmidhi 2526 n'est pas retenu comme preuve principale ; expose les deux interprétations d'an-Nawawi sur « son pareil » ; et choisit un service concret pour un lieu de prière, avec une ligne d'intention écrite.
+
+<!-- lesson-plan:materials -->
+**Matériel :** des copies de la leçon ; un Coran ; un tableau à deux colonnes : « Établi par le texte » et « Authenticité discutée » ; une fiche d'activité comportant la ligne d'intention et les trois questions ; une carte de sortie.
+
+<!-- lesson-plan:preparation -->
+**Préparation :** l'enseignant lit al-Bukhari 450 et 446, Muslim 533 dans ses deux versions, al-Bukhari 4878, et at-Tirmidhi 2526 avec le jugement d'at-Tirmidhi sur sa chaîne ; le tafsir d'Ibn Kathir et celui d'as-Sa'di sur az-Zumar 39:20 ; et le commentaire d'an-Nawawi sur le hadith 533 de Muslim. Il remarque qu'as-Sa'di reprend dans son tafsir la description de l'or, de l'argent et du musc, et précise qu'il s'est appuyé sur ce récit à titre d'appoint, ce qui ne tranche pas pour autant la question de son degré d'authenticité. Il garde aussi à l'esprit que la leçon précédente, sur la terre de la Jannah, a cité ce même récit comme témoignage secondaire.
+
+<!-- lesson-plan:opening -->
+**Ouverture — 5 minutes :** l'enseignant demande : « Pensez à une œuvre publique que vous avez accomplie, ou à laquelle vous avez participé, et dont les gens ont parlé. Qu'avez-vous ressenti ? Qu'avez-vous fait ? » Puis il pose la question de la leçon : qui bâtit dans la Jannah ? Et sur quel fondement ?
+
+<!-- lesson-plan:evidence -->
+**Étude des preuves — 20 minutes :** lire d'abord le hadith d'Ibn 'Umar pour planter le décor (4 minutes), puis le hadith de 'Uthman dans ses deux versions, en discutant le doute de Bukayr et la version « pour Allah » (6 minutes). Lire ensuite le verset d'az-Zumar avec les deux tafsirs, puis le hadith d'Abu Musa, et remplir la colonne « Établi par le texte » (6 minutes). Lire enfin le récit d'at-Tirmidhi et son jugement sur la chaîne, et le placer dans la seconde colonne (4 minutes).
+
+<!-- lesson-plan:instruction -->
+**Enseignement guidé — 10 minutes :** expliquer les deux interprétations d'an-Nawawi sur « son pareil », puis demander : « Pourquoi l'édifice de la Jannah est-il attribué à Allah ? » et « Comment 'Uthman a-t-il répondu à la critique ? » Orienter la discussion vers l'idée que répondre par le texte et l'intention préserve l'œuvre de l'amour-propre, sans rien retirer au droit des gens de prodiguer un conseil.
+
+<!-- lesson-plan:activity -->
+**Activité — 15 minutes :** chaque apprenant choisit son service pour un lieu de prière et en fixe la date (5 minutes), puis écrit seul sa ligne d'intention, sans la partager (3 minutes) ; ensuite, deux par deux, on discute : qu'est-ce qui pourrait corrompre l'intention dans ce service précis ? Et comment s'en prémunir ? (7 minutes).
+
+<!-- lesson-plan:assessment -->
+**Évaluation et clôture — 10 minutes :** carte de sortie : « Citez deux preuves établies de l'existence d'un édifice dans la Jannah, et un récit que l'on ne retient pas comme fondement, en expliquant pourquoi. » Puis relire une dernière fois le hadith de 'Uthman, et convenir de reprendre les trois questions après le service.
+
+<!-- lesson-plan:differentiation -->
+**Différenciation :** pour les débutants, s'en tenir au hadith de 'Uthman et à az-Zumar 39:20. Demander aux apprenants avancés de rassembler les versions de « Celui qui bâtit pour Allah une mosquée » et d'en comparer les formulations, puis de consulter le chapitre consacré à l'édifice de la Jannah dans *Hadi al-Arwah*, avec les notes de son éditeur.
+
+<!-- lesson-plan:safeguards -->
+**Précautions pédagogiques :** ne pas faire de ce hadith un prétexte pour se vanter de ses dons ou pour inscrire des noms sur des bâtiments, ni pour rabaisser ceux qui ont critiqué 'Uthman avec une bonne intention, ni pour s'en prendre aux Compagnons. Ne pas affirmer avec certitude d'une personne déterminée qu'elle a une maison dans la Jannah, et ne pas mesurer l'édifice de la Jannah à l'architecture d'ici-bas. L'attribut d'Allah mentionné dans le hadith d'Abu Musa est affirmé tel qu'il est rapporté, sans assimilation et sans en définir les modalités.
+
+<!-- lesson-plan:end -->
+
+<!-- lesson-plan:start audience="4-7" minutes="25" -->
+
+### Les Enfants De 4 À 7 Ans — 25 Minutes
+
+<!-- lesson-plan:outcomes -->
+**Résultats d'apprentissage :** l'enfant dit qu'Allah construit dans la Jannah des maisons où il y a des chambres au-dessus d'autres chambres ; il dit que 'Uthman a construit la mosquée et que le Prophète, paix et bénédictions sur lui, a dit : « Celui qui construit une mosquée pour Allah, Allah lui construit la même dans la Jannah » ; et il rend un petit service au coin prière après avoir dit : « Je fais cela pour Allah. »
+
+<!-- lesson-plan:materials -->
+**Matériel :** des cubes de construction ; si possible, une image de palmes, d'un tronc de palmier et de briques de terre ; un chiffon pour essuyer l'étagère ; du papier et des crayons de couleur ; la carte du du'a.
+
+<!-- lesson-plan:preparation -->
+**Préparation :** l'éducateur laisse volontairement le coin prière un peu en désordre (un tapis plié, un Coran hors de sa place) pour que l'enfant le remette en ordre. Il s'exerce à raconter le récit sans prêter à 'Uthman des paroles ou des sentiments qui ne sont pas rapportés.
+
+<!-- lesson-plan:opening -->
+**Ouverture — 4 minutes :** l'enfant construit une petite tour avec des cubes, et l'éducateur demande : « Qui a construit ça ? Et qui construit les maisons dans la Jannah ? »
+
+<!-- lesson-plan:evidence -->
+**Lecture de la preuve — 7 minutes :** l'éducateur lit l'explication, puis le récit ; il montre à l'enfant les images de palmier et de briques quand il parle de la première mosquée, et répète avec lui : « Allah lui construit la même dans la Jannah. »
+
+<!-- lesson-plan:instruction -->
+**Enseignement guidé — 4 minutes :** demander : « Qu'a dit 'Uthman quand les gens ont parlé ? » et « Pourquoi construisons-nous pour Allah, et pas pour que quelqu'un nous félicite ? » Accepter les réponses simples.
+
+<!-- lesson-plan:activity -->
+**Activité — 7 minutes :** l'enfant pose la main sur son cœur et dit : « Je fais cela pour Allah » ; puis il range le coin prière et le dessine tout bien rangé, et on lui pose avec douceur la question de l'intention.
+
+<!-- lesson-plan:assessment -->
+**Évaluation et clôture — 3 minutes :** observer si l'enfant sait dire qui construit dans la Jannah et ce qu'a dit le Prophète, paix et bénédictions sur lui. Puis lire ensemble le du'a.
+
+<!-- lesson-plan:differentiation -->
+**Différenciation :** pour les plus jeunes, s'en tenir à la phrase « Allah construit dans la Jannah pour celui qui travaille pour Lui » et à une seule tâche. Demander aux plus grands de raconter l'histoire à leur frère ou à leur sœur en trois phrases.
+
+<!-- lesson-plan:safeguards -->
+**Précautions pédagogiques :** ne pas présenter à l'enfant les détails des « briques d'or et d'argent » comme s'ils étaient certains. Ne pas dessiner les Compagnons ni les faire incarner. Ne pas mettre l'enfant dans l'embarras s'il dit qu'il voulait être félicité : le remercier plutôt de sa franchise et l'instruire avec douceur.
+
+<!-- lesson-plan:end -->
+
+<!-- lesson-plan:start audience="8-12" minutes="40" -->
+
+### Les Enfants De 8 À 12 Ans — 40 Minutes
+
+<!-- lesson-plan:outcomes -->
+**Résultats d'apprentissage :** l'élève raconte le hadith dans l'ordre en décrivant la mosquée avant et après 'Uthman ; explique les quatre termes ; distingue, dans la description de l'édifice de la Jannah, ce qui est établi de ce qui est discuté ; et accomplit un service pour un lieu de prière, avec une carte d'intention et un dessin avant/après.
+
+<!-- lesson-plan:materials -->
+**Matériel :** des cartes de vocabulaire ; un tableau à deux colonnes, « Avant 'Uthman » et « Après 'Uthman » ; de petites cartes d'intention ; du papier à dessin ; du matériel de nettoyage simple ; un Coran.
+
+<!-- lesson-plan:preparation -->
+**Préparation :** l'enseignant convient à l'avance avec les responsables de la mosquée ou de l'école du lieu du service et de ses limites, et écrit au tableau le verset d'az-Zumar 39:20.
+
+<!-- lesson-plan:opening -->
+**Ouverture — 5 minutes :** montrer la photo d'un immense bâtiment, sans légende, et demander : « Qui l'a construit ? Avec quoi ? Combien de temps tiendra-t-il ? » Puis lire le verset.
+
+<!-- lesson-plan:evidence -->
+**Étude de la preuve — 12 minutes :** lire le récit pendant que les élèves remplissent le tableau « Avant 'Uthman / Après 'Uthman » (8 minutes), puis expliquer les termes (4 minutes).
+
+<!-- lesson-plan:instruction -->
+**Enseignement guidé — 8 minutes :** poser les questions 2, 3 et 4, et montrer que 'Uthman n'a ni abandonné l'ouvrage ni cherché à se donner raison, mais s'en est remis au texte ; expliquer aussi pourquoi l'on mentionne avec prudence le récit des briques.
+
+<!-- lesson-plan:activity -->
+**Activité — 10 minutes :** chaque élève écrit sa carte d'intention et la plie, puis dessine le lieu avant le service ; le service est ensuite accompli au moment convenu (pendant la séance ou après), et l'élève complète alors son dessin et ses réponses.
+
+<!-- lesson-plan:assessment -->
+**Évaluation et clôture — 5 minutes :** chaque élève écrit : « Qui bâtit dans la Jannah ? Et quelle est la condition de la promesse dans le hadith ? » Puis lire le du'a.
+
+<!-- lesson-plan:differentiation -->
+**Différenciation :** pour les élèves en difficulté, proposer des cartes d'intention toutes prêtes, parmi lesquelles ils choisissent. Demander aux plus avancés d'apprendre par cœur le verset d'az-Zumar 39:20 et de comparer les versions d'al-Bukhari et de Muslim.
+
+<!-- lesson-plan:safeguards -->
+**Précautions pédagogiques :** ne pas lire les cartes d'intention à voix haute et ne pas les comparer. Veiller à la sécurité pendant le nettoyage, sous la surveillance d'un adulte. Ne rien dire des Compagnons qui ne soit pas convenable, et expliquer que les gens n'aimaient pas le changement par amour pour la mosquée.
+
+<!-- lesson-plan:end -->
+
+<!-- lesson-plan:start audience="13+" minutes="50" -->
+
+### Les Adolescents, 13 Ans Et Plus — 50 Minutes
+
+<!-- lesson-plan:outcomes -->
+**Résultats d'apprentissage :** l'adolescent analyse l'attitude de 'Uthman face à une critique sincère ; distingue la critique utile des paroles qui ne doivent pas arrêter l'action ; explique la condition « en recherchant par là la Face d'Allah » et les deux sens de « son pareil » ; justifie la prudence avec laquelle on traite le récit des briques ; et accomplit un service pour un lieu de prière, accompagné d'un examen personnel de ses motivations.
+
+<!-- lesson-plan:materials -->
+**Matériel :** des copies de la leçon ; une feuille personnelle qui ne sera pas ramassée ; des cartes pour des questions anonymes ; un Coran.
+
+<!-- lesson-plan:preparation -->
+**Préparation :** l'enseignant prépare des exemples neutres de projets publics qui ont été critiqués (une campagne de bénévolat, une page utile en ligne), relit le commentaire d'an-Nawawi sur le hadith, et se prépare à la question : « Veiller à la sincérité, est-ce que cela veut dire ne jamais faire connaître une bonne action ? »
+
+<!-- lesson-plan:opening -->
+**Ouverture — 5 minutes :** demander : « Tu as un bon projet, et des personnes que tu respectes le critiquent. Que fais-tu ? » L'enseignant écoute sans trancher.
+
+<!-- lesson-plan:evidence -->
+**Étude des preuves — 12 minutes :** lire le récit en marquant une pause à trois moments : l'image de la première mosquée, l'opposition des gens, et la réponse de 'Uthman. Lire ensuite les termes et le verset d'az-Zumar.
+
+<!-- lesson-plan:instruction -->
+**Enseignement guidé — 13 minutes :** discussion en groupes sur les questions 2 et 3, puis bref compte rendu. L'enseignant souligne que la sincérité n'interdit pas de faire connaître le bien quand c'est nécessaire, mais qu'elle change la raison pour laquelle on le fait connaître, et que le texte est la référence en cas de désaccord.
+
+<!-- lesson-plan:activity -->
+**Activité — 12 minutes :** chaque élève choisit son service et en fixe la date, écrit sa ligne d'intention sur sa feuille personnelle, anticipe une situation qui pourrait mettre son intention à l'épreuve (une photo, un commentaire, une comparaison) et écrit comment il y fera face.
+
+<!-- lesson-plan:assessment -->
+**Évaluation et clôture — 8 minutes :** chaque élève écrit un paragraphe : « Quelle différence y a-t-il entre un édifice que les gens voient et un édifice qu'Allah bâtit ? » Puis lire le du'a ; une semaine plus tard, l'enseignant pose une question générale sur l'expérience, sans demander de détails sur l'intention.
+
+<!-- lesson-plan:differentiation -->
+**Différenciation :** pour ceux qui ont du mal à écrire, autoriser un enregistrement audio privé. Demander aux plus avancés une courte recherche sur les jugements d'at-Tirmidhi et d'al-Albani concernant le hadith 2526, et sur la raison de leur divergence.
+
+<!-- lesson-plan:safeguards -->
+**Précautions pédagogiques :** ne demander à personne de dévoiler son intention. Ne pas transformer la leçon en procès d'intention, ni en doute permanent qui empêcherait d'agir. Ne pas se servir de l'attitude de 'Uthman pour dénigrer ceux qui s'y opposaient, et ne pas dessiner les Compagnons ni faire jouer leurs rôles.
+
+<!-- lesson-plan:end -->
+
+<!-- references:start -->
+
+## Références
+
+[^1]: Sahih al-Bukhari, Livre de la prière (*Kitab as-Salat*), chapitre de celui qui bâtit une mosquée, hadith 450, rapporté par 'Ubayd Allah al-Khawlani d'après 'Uthman ibn 'Affan, qu'Allah soit satisfait de lui ; authentique : [sunnah.com/bukhari:450](https://sunnah.com/bukhari:450). Rapporté aussi par Muslim, Livre des mosquées et des lieux de prière (*Kitab al-Masajid wa Mawadi' as-Salat*), chapitre du mérite de la construction des mosquées et de l'incitation à en bâtir, hadith 533, par la même voie, avec la formulation « مَنْ بَنَى مَسْجِدًا لِلَّهِ تَعَالَى » (« Celui qui bâtit une mosquée pour Allah le Très-Haut ») : [sunnah.com/muslim:533a](https://sunnah.com/muslim:533a), et d'après Mahmud ibn Labid, avec la formulation « فَكَرِهَ النَّاسُ ذَلِكَ، فَأَحَبُّوا أَنْ يَدَعَهُ عَلَى هَيْئَتِهِ » (« les gens n'aimèrent pas cela et auraient préféré qu'il la laisse dans son état ») : [sunnah.com/muslim:533b](https://sunnah.com/muslim:533b). Le texte reproduit est celui d'al-Bukhari et celui de Muslim dans la version de Mahmud ibn Labid, sans la chaîne de transmission. Les traductions françaises des hadiths de cette leçon sont des traductions du sens propres au projet.
+[^2]: Sahih al-Bukhari, Livre de la prière (*Kitab as-Salat*), chapitre de la construction de la mosquée, hadith 446, rapporté par Nafi' d'après 'Abd Allah ibn 'Umar, qu'Allah soit satisfait d'eux deux ; authentique : [sunnah.com/bukhari:446](https://sunnah.com/bukhari:446).
+[^3]: Le Noble Coran, sourate az-Zumar, verset 20 : [quran.com/39/20](https://quran.com/39/20). La traduction française proposée dans cette leçon est une traduction du sens propre au projet.
+[^4]: As-Sa'di, *Taysir al-Karim ar-Rahman fi Tafsir Kalam al-Mannan*, tafsir de la sourate az-Zumar, verset 20 : [quran.ksu.edu.sa/tafseer/saadi/sura39-aya20.html](https://quran.ksu.edu.sa/tafseer/saadi/sura39-aya20.html).
+[^5]: Ibn Kathir, *Tafsir al-Qur'an al-'Azim*, tafsir de la sourate az-Zumar, verset 20 : [quran.ksu.edu.sa/tafseer/katheer/sura39-aya20.html](https://quran.ksu.edu.sa/tafseer/katheer/sura39-aya20.html).
+[^6]: Sahih al-Bukhari, Livre de l'exégèse (*Kitab at-Tafsir*), chapitre « Et en deçà de ces deux-là, deux autres jardins », hadith 4878, rapporté par Abu Bakr ibn 'Abd Allah ibn Qays d'après son père, Abu Musa al-Ash'ari, qu'Allah soit satisfait de lui ; authentique : [sunnah.com/bukhari:4878](https://sunnah.com/bukhari:4878). Rapporté aussi par Muslim, Livre de la foi (*Kitab al-Iman*), hadith 180 : [sunnah.com/muslim:180](https://sunnah.com/muslim:180).
+[^7]: Jami' at-Tirmidhi, Livre de la description de la Jannah (*Abwab Sifat al-Jannah*), chapitre de ce qui est rapporté sur la description de la Jannah et de ses délices, hadith 2526, d'après Abu Hurayrah, qu'Allah soit satisfait de lui : [sunnah.com/tirmidhi:2526](https://sunnah.com/tirmidhi:2526). On n'en a reproduit que le passage pertinent, en omettant, à l'endroit marqué, son début (la question des Compagnons au Prophète, paix et bénédictions sur lui, sur l'attendrissement de leurs cœurs en sa présence, et sur la matière dont la création est faite) et sa fin (les trois personnes dont l'invocation n'est pas repoussée) ; cette omission ne change pas le sens du passage reproduit. At-Tirmidhi a dit : « Ce hadith n'a pas une chaîne très solide, et elle n'est pas, selon moi, ininterrompue ; ce hadith a aussi été rapporté d'Abu Hurayrah par une autre chaîne. » Ahmad Shakir et al-Albani l'ont jugé authentique par l'ensemble de ses voies, tandis que Zubayr 'Ali Za'i l'a jugé faible. Les notes de l'éditeur de *Hadi al-Arwah* d'Ibn al-Qayyim (éd. 'Ata'at al-'Ilm, chapitre trente-quatre) indiquent que la voie d'Ahmad repose sur Abu al-Mudillah, qu'Ibn al-Madini a déclaré inconnu : [shamela.ws/book/13652/333](https://shamela.ws/book/13652/333). C'est pourquoi ce récit n'est pas retenu dans cette leçon comme preuve principale. De même, on ne s'est pas appuyé sur les récits détaillant les murs de la Jannah que rapportent Abu Nu'aym dans *Sifat al-Jannah* (chapitre de la description des murs de la Jannah) et Ibn Abi ad-Dunya.
+[^8]: An-Nawawi, *al-Minhaj Sharh Sahih Muslim ibn al-Hajjaj*, Livre des mosquées et des lieux de prière, chapitre du mérite de la construction des mosquées et de l'incitation à en bâtir, commentaire du hadith 533, sur les deux sens possibles de « son pareil » (*mithlahu*).
+[^9]: Ibn Hajar al-'Asqalani, *Fath al-Bari Sharh Sahih al-Bukhari*, Livre de la prière, chapitre de la construction de la mosquée, commentaire du hadith 446, sur le sens d'*al-qassah* (le plâtre) et d'*as-saj* (le teck) ; et Ibn al-Athir, *an-Nihayah fi Gharib al-Hadith wa al-Athar*, entrées « labin » et « sawj ».
+
+<!-- references:end -->

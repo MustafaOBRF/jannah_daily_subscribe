@@ -11,18 +11,18 @@
         "es"
       ],
       "titles": {
-        "ar": "مَسَاكِنُ الْجَنَّةِ وَبَيْتُ السَّلَامِ",
-        "en": "Homes of Peace in Jannah: Palaces Built by Sincerity",
-        "ur": "جنت کے امن والے گھر: اخلاص سے بنے محل",
-        "fr": "Les demeures de paix au Jannah : des palais bâtis par la sincérité",
-        "es": "Moradas de paz en el Jannah: palacios construidos con sinceridad"
+        "ar": "قُصُورُ الْجَنَّةِ وَمَسَاكِنُهَا",
+        "en": "The Palaces and Dwellings of Jannah",
+        "ur": "جنت کے محل اور مسکن",
+        "fr": "Les Palais De La Jannah Et Ses Demeures",
+        "es": "Los palacios y las moradas del Paraíso"
       },
       "hooks": {
-        "ar": "أن يعرف المتعلم أن مساكن الجنة حق ثابت في القرآن والسنة، وأن وصفها من الغيب الذي نؤمن به بتعظيم وأدب.",
-        "en": "Know that the homes of Jannah are a true part of the Qur'an and Sunnah, and that their reality belongs to the unseen.",
-        "ur": "یہ جاننا کہ جنت کے گھر قرآن و سنت سے ثابت حق ہیں، اور ان کی حقیقت غیب میں سے ہے۔",
-        "fr": "Savoir que les demeures du Jannah sont une vérité établie dans le Coran et la Sunnah, et que leur réalité appartient à l'invisible.",
-        "es": "Saber que las moradas del Jannah son una verdad establecida en el Corán y la Sunnah, y que su realidad pertenece a lo invisible."
+        "ar": "بعد هذا الدرس، يكون المتعلم قادرًا على:",
+        "en": "After this lesson, the learner will be able to:",
+        "ur": "اس سبق کے بعد سیکھنے والا یہ کر سکے گا:",
+        "fr": "Au terme de cette leçon, l'apprenant sera capable de :",
+        "es": "Después de esta lección, el aprendiz será capaz de:"
       },
       "status": {
         "ar": "arabic_draft",
@@ -32,7 +32,7 @@
         "es": "translation_draft"
       },
       "under_review": true,
-      "has_illustration": false,
+      "has_illustration": true,
       "has_audio": false,
       "has_summary_audio": false
     },
@@ -47,18 +47,18 @@
         "es"
       ],
       "titles": {
-        "ar": "نَسِيمُ الْجَنَّةِ وَرِيحُهَا الطَّيِّبَةُ",
-        "en": "The Breeze of Jannah: Comfort, Fragrance, and True Longing",
-        "ur": "جنت کی نسیم: راحت، خوشبو اور سچی طلب",
-        "fr": "La brise du Jannah : repos, parfum et désir sincère",
-        "es": "La brisa del Jannah: descanso, perfume y anhelo sincero"
+        "ar": "رِيحُ الْجَنَّةِ وَنَسِيمُهَا وَاعْتِدَالُ هَوَائِهَا",
+        "en": "The Fragrance of Jannah, Its Breeze, and Its Gentle Air",
+        "ur": "جنت کی خوشبو، اس کی بادِ نسیم اور اس کی معتدل فضا",
+        "fr": "Le Parfum de la Jannah, sa Brise et la Douceur de son Air",
+        "es": "La fragancia del Paraíso, su brisa y la templanza de su aire"
       },
       "hooks": {
-        "ar": "أن يعرف المتعلم أن راحة الجنة تشمل المكان والهواء والطيب، مع تنزيهها عن أذى الحر والبرد.",
-        "en": "Understand that Jannah's comfort includes place, air, and fragrance, with no harmful heat or bitter cold.",
-        "ur": "طالب علم یہ سمجھے کہ جنت کی راحت جگہ، ہوا اور خوشبو کو بھی شامل ہے، وہاں نقصان دینے والی گرمی یا سخت سردی نہیں۔",
-        "fr": "Comprendre que le repos du Jannah inclut le lieu, l'air et le parfum, sans chaleur nuisible ni froid mordant.",
-        "es": "Comprender que el descanso del Jannah incluye lugar, aire y perfume, sin calor dañino ni frío amargo."
+        "ar": "بعد هذا الدرس، يكون المتعلم قادرًا على:",
+        "en": "After this lesson, the learner will be able to:",
+        "ur": "اس سبق کے بعد سیکھنے والا یہ کر سکے گا:",
+        "fr": "Au terme de cette leçon, l'apprenant sera capable de :",
+        "es": "Después de esta lección, el aprendiz será capaz de:"
       },
       "status": {
         "ar": "arabic_draft",
@@ -68,7 +68,7 @@
         "es": "translation_draft"
       },
       "under_review": true,
-      "has_illustration": false,
+      "has_illustration": true,
       "has_audio": false,
       "has_summary_audio": false
     },
@@ -83,18 +83,18 @@
         "es"
       ],
       "titles": {
-        "ar": "بُكْرَةُ الْجَنَّةِ وَعَشِيُّهَا: وَقْتٌ بِلَا تَعَبٍ",
-        "en": "Morning and Evening in Jannah: Time Without Weariness",
-        "ur": "جنت کی صبح و شام: تھکن کے بغیر وقت",
-        "fr": "Matin et soir au Jannah : le temps sans fatigue",
-        "es": "Mañana y tarde en el Jannah: tiempo sin cansancio"
+        "ar": "نَهَارُ الْجَنَّةِ وَبُكْرَتُهَا وَعَشِيُّهَا",
+        "en": "Daylight in Jannah: Its Mornings and Its Evenings",
+        "ur": "جنت کا دن، اس کی صبح اور اس کی شام",
+        "fr": "Le Jour De La Jannah, Ses Matins Et Ses Soirs",
+        "es": "El día del Paraíso: su mañana y su tarde"
       },
       "hooks": {
-        "ar": "أن يعرف المتعلم أن ذكر البكرة والعشي في الجنة ثابت في القرآن والسنة، لكن كيفية الزمن هناك من الغيب.",
-        "en": "Understand that morning and evening in Jannah are mentioned in the Qur'an and Sunnah, while the exact reality of time there belongs to the unseen.",
-        "ur": "طالب علم یہ سمجھے کہ جنت میں صبح و شام کا ذکر قرآن و سنت میں ثابت ہے، مگر وہاں وقت کی حقیقت غیب سے ہے۔",
-        "fr": "Comprendre que le matin et le soir au Jannah sont mentionnés dans le Coran et la Sunnah, tandis que la réalité exacte du temps là-bas relève de l'invisible.",
-        "es": "Comprender que la mañana y la tarde en el Jannah se mencionan en el Corán y la Sunnah, mientras que la realidad exacta del tiempo allí pertenece a lo oculto."
+        "ar": "بعد هذا الدرس، يكون المتعلم قادرًا على:",
+        "en": "After this lesson, the learner will be able to:",
+        "ur": "اس سبق کے بعد سیکھنے والا یہ کر سکے گا:",
+        "fr": "Au terme de cette leçon, l'apprenant sera capable de :",
+        "es": "Después de esta lección, el aprendiz será capaz de:"
       },
       "status": {
         "ar": "arabic_draft",
@@ -104,7 +104,7 @@
         "es": "translation_draft"
       },
       "under_review": true,
-      "has_illustration": false,
+      "has_illustration": true,
       "has_audio": false,
       "has_summary_audio": false
     },
@@ -119,18 +119,18 @@
         "es"
       ],
       "titles": {
-        "ar": "نُورُ الْجَنَّةِ وَبَهَاءُ أَهْلِهَا",
-        "en": "The Light of Jannah: Beauty That Begins in the Heart",
-        "ur": "جنت کا نور: وہ حسن جو دل سے شروع ہوتا ہے",
-        "fr": "La lumière du Jannah : une beauté qui commence dans le cœur",
-        "es": "La luz del Jannah: belleza que empieza en el corazón"
+        "ar": "نُورُ الْجَنَّةِ وَلَوْنُهَا وَبَيَاضُهَا",
+        "en": "The Light of Jannah, Its Color and Its Radiant Whiteness",
+        "ur": "جنت کا نور، اس کا رنگ اور اس کا اُجلا پن",
+        "fr": "La Lumière De La Jannah, Sa Couleur Et Sa Blancheur",
+        "es": "La luz del Paraíso, su color y su blancura"
       },
       "hooks": {
-        "ar": "أن يعرف المتعلم أن نور الجنة من الغيب الذي لا يشبه أنوار الدنيا ولا يختصر في صورة أو لون.",
-        "en": "Understand that Jannah's light belongs to the unseen and is not like worldly lights, colors, or images.",
-        "ur": "طالب علم یہ سمجھے کہ جنت کا نور غیب سے ہے، دنیا کی روشنیوں، رنگوں یا تصویروں جیسا نہیں۔",
-        "fr": "Comprendre que la lumière du Jannah relève de l'invisible et ne ressemble pas aux lumières, couleurs ou images de ce monde.",
-        "es": "Comprender que la luz del Jannah pertenece a lo oculto y no se parece a las luces, colores o imágenes de este mundo."
+        "ar": "بعد هذا الدرس، يكون المتعلم قادرًا على:",
+        "en": "After this lesson, the learner will be able to:",
+        "ur": "اس سبق کے بعد سیکھنے والا یہ کر سکے گا:",
+        "fr": "Au terme de cette leçon, l'apprenant sera capable de :",
+        "es": "Después de esta lección, el aprendiz será capaz de:"
       },
       "status": {
         "ar": "arabic_draft",
@@ -140,7 +140,7 @@
         "es": "translation_draft"
       },
       "under_review": true,
-      "has_illustration": false,
+      "has_illustration": true,
       "has_audio": false,
       "has_summary_audio": false
     },
@@ -155,18 +155,18 @@
         "es"
       ],
       "titles": {
-        "ar": "بِنَاءُ الْجَنَّةِ وَبَيْتُ الْإِخْلَاصِ",
-        "en": "Building for Allah: Jannah's Homes and the Architecture of Sincerity",
-        "ur": "اللہ کے لیے تعمیر: جنت کے گھر اور اخلاص",
-        "fr": "Bâtir pour Allah : les demeures du Jannah et la sincérité",
-        "es": "Construir para Allah: hogares del Jannah y sinceridad"
+        "ar": "بِنَاءُ الْجَنَّةِ وَلَبِنُهَا وَحِيطَانُهَا",
+        "en": "The Buildings of Jannah: Its Bricks and Its Walls",
+        "ur": "جنت کی تعمیر، اس کی اینٹیں اور اس کی دیواریں",
+        "fr": "L'Édifice de la Jannah, ses Briques et ses Murs",
+        "es": "La construcción del Paraíso: sus ladrillos y sus muros"
       },
       "hooks": {
-        "ar": "أن يعرف المتعلم أن بناء الجنة من الغيب الذي نؤمن به كما ورد، مع ترك التوسع في تفاصيل لا تثبت.",
-        "en": "Understand that Jannah's construction belongs to the unseen, so we believe what is authentically reported and avoid building lessons on unstable details.",
-        "ur": "طالب علم یہ سمجھے کہ جنت کی تعمیر غیب کا معاملہ ہے؛ ہم اسی بات پر ایمان رکھتے ہیں جو معتبر طور پر ثابت ہو، اور کمزور تفصیلات پر سبق کی بنیاد نہیں رکھتے۔",
-        "fr": "Comprendre que la construction du Jannah releve de l'invisible: on croit ce qui est authentiquement rapporte et on evite de fonder la lecon sur des details instables.",
-        "es": "Comprender que la construccion del Jannah pertenece a lo oculto: creemos lo que esta autenticamente transmitido y evitamos basar la leccion en detalles inestables."
+        "ar": "بعد هذا الدرس، يكون المتعلم قادرًا على:",
+        "en": "After this lesson, the learner will be able to:",
+        "ur": "اس سبق کے بعد سیکھنے والا یہ کر سکے گا:",
+        "fr": "Au terme de cette leçon, l'apprenant sera capable de :",
+        "es": "Después de esta lección, el aprendiz será capaz de:"
       },
       "status": {
         "ar": "arabic_draft",
@@ -176,7 +176,7 @@
         "es": "translation_draft"
       },
       "under_review": true,
-      "has_illustration": false,
+      "has_illustration": true,
       "has_audio": false,
       "has_summary_audio": false
     },
@@ -191,18 +191,18 @@
         "es"
       ],
       "titles": {
-        "ar": "أَرْضُ الْجَنَّةِ وَتُرْبَتُهَا وَحَصْبَاؤُهَا",
-        "en": "Jannah Beneath Our Feet: Pure Ground and Musk-Scented Soil",
-        "ur": "جنت کی طرف ہمارے قدم: پاک زمین اور مشک والی مٹی",
-        "fr": "Sous nos pas vers le Jannah : une terre pure au parfum de musc",
-        "es": "Bajo nuestros pasos hacia el Jannah: tierra pura con perfume de almizcle"
+        "ar": "أَرْضُ الْجَنَّةِ وَتُرْبَتُهَا وَحَصْبَاؤُهَا",
+        "en": "The Ground of Jannah: Its Soil and Its Pebbles",
+        "ur": "جنت کی زمین، اس کی مٹی اور اس کی کنکریاں",
+        "fr": "La Terre de la Jannah, Son Sol et Ses Graviers",
+        "es": "La tierra del Paraíso, su suelo y sus guijarros"
       },
       "hooks": {
-        "ar": "أن يعرف المتعلم أن أرض الجنة وتربتها من الغيب الحق، نؤمن بها كما جاءت في النصوص، ولا نقيسها على تراب الدنيا.",
-        "en": "Understand that the ground and soil of Jannah are part of the true unseen: we believe what the texts say without measuring them by worldly soil.",
-        "ur": "یہ سمجھنا کہ جنت کی زمین اور مٹی غیب کی سچی باتوں میں سے ہیں: ہم نصوص پر ایمان رکھتے ہیں، انہیں دنیا کی مٹی پر قیاس نہیں کرتے۔",
-        "fr": "Comprendre que le sol et la terre du Jannah relèvent de l'invisible vrai : nous croyons ce que les textes disent sans les mesurer à la terre d'ici-bas.",
-        "es": "Comprender que el suelo y la tierra del Jannah pertenecen al verdadero mundo oculto: creemos lo que dicen los textos sin medirlo con la tierra de este mundo."
+        "ar": "بعد هذا الدرس، يكون المتعلم قادرًا على:",
+        "en": "After this lesson, the learner will be able to:",
+        "ur": "اس سبق کے بعد سیکھنے والا یہ کر سکے گا:",
+        "fr": "Au terme de cette leçon, l'apprenant sera capable de :",
+        "es": "Después de esta lección, el aprendiz será capaz de:"
       },
       "status": {
         "ar": "arabic_draft",
@@ -212,7 +212,115 @@
         "es": "translation_draft"
       },
       "under_review": true,
-      "has_illustration": false,
+      "has_illustration": true,
+      "has_audio": false,
+      "has_summary_audio": false
+    },
+    {
+      "slug": "035_final_supplication",
+      "order": 35,
+      "langs": [
+        "ar",
+        "en",
+        "ur",
+        "fr",
+        "es"
+      ],
+      "titles": {
+        "ar": "آخِرُ دَعْوَى أَهْلِ الْجَنَّةِ",
+        "en": "The Final Call of the People of Jannah",
+        "ur": "اہلِ جنت کا آخری کلمہ",
+        "fr": "La Dernière Invocation Des Gens De La Jannah",
+        "es": "La última invocación de la gente del Paraíso"
+      },
+      "hooks": {
+        "ar": "بعد هذا الدرس، يكون المتعلم قادرًا على:",
+        "en": "After this lesson, the learner will be able to:",
+        "ur": "اس سبق کے بعد سیکھنے والا یہ کر سکے گا:",
+        "fr": "Au terme de cette leçon, l'apprenant sera capable de :",
+        "es": "Después de esta lección, el aprendiz será capaz de:"
+      },
+      "status": {
+        "ar": "arabic_draft",
+        "en": "translation_draft",
+        "ur": "translation_draft",
+        "fr": "translation_draft",
+        "es": "translation_draft"
+      },
+      "under_review": true,
+      "has_illustration": true,
+      "has_audio": false,
+      "has_summary_audio": false
+    },
+    {
+      "slug": "034_first_hospitality",
+      "order": 34,
+      "langs": [
+        "ar",
+        "en",
+        "ur",
+        "fr",
+        "es"
+      ],
+      "titles": {
+        "ar": "تُحْفَةُ الدَّاخِلِينَ وَأَوَّلُ طَعَامِهِمْ",
+        "en": "The Welcome Gift and First Meal of Those Who Enter Jannah",
+        "ur": "جنت میں داخل ہونے والوں کا تحفہ اور ان کا پہلا کھانا",
+        "fr": "Le Présent des Arrivants et Leur Premier Repas",
+        "es": "El obsequio de bienvenida de quienes entran en el Paraíso y su primer alimento"
+      },
+      "hooks": {
+        "ar": "بعد هذا الدرس، يكون المتعلم قادرًا على:",
+        "en": "After this lesson, the learner will be able to:",
+        "ur": "اس سبق کے بعد سیکھنے والا یہ کر سکے گا:",
+        "fr": "Au terme de cette leçon, l'apprenant sera capable de :",
+        "es": "Después de esta lección, el aprendiz será capaz de:"
+      },
+      "status": {
+        "ar": "arabic_draft",
+        "en": "translation_draft",
+        "ur": "translation_draft",
+        "fr": "translation_draft",
+        "es": "translation_draft"
+      },
+      "under_review": true,
+      "has_illustration": true,
+      "has_audio": false,
+      "has_summary_audio": false
+    },
+    {
+      "slug": "033_purified_hearts",
+      "order": 33,
+      "langs": [
+        "ar",
+        "en",
+        "ur",
+        "fr",
+        "es"
+      ],
+      "titles": {
+        "ar": "نَزْعُ الْغِلِّ وَتَطْهِيرُ الْقُلُوبِ",
+        "en": "Rancor Removed, Hearts Made Pure",
+        "ur": "کینے کا نکالا جانا اور دلوں کی پاکیزگی",
+        "fr": "La Rancœur Extirpée, Les Cœurs Purifiés",
+        "es": "Arrancar el rencor y purificar los corazones"
+      },
+      "hooks": {
+        "ar": "بعد هذا الدرس، يكون المتعلم قادرًا على:",
+        "en": "After this lesson, the learner will be able to:",
+        "ur": "اس سبق کے بعد سیکھنے والا یہ کر سکے گا:",
+        "fr": "Au terme de cette leçon, l'apprenant sera capable de :",
+        "es": "Después de esta lección, el aprendiz será capaz de:"
+      },
+      "status": {
+        "ar": "arabic_draft",
+        "en": "translation_draft",
+        "ur": "translation_draft",
+        "fr": "translation_draft",
+        "es": "translation_draft"
+      },
+      "under_review": true,
+      "has_illustration": true,
       "has_audio": false,
       "has_summary_audio": false
     },
@@ -220,16 +328,32 @@
       "slug": "032_security_death_slaughter",
       "order": 32,
       "langs": [
-        "ar"
+        "ar",
+        "en",
+        "ur",
+        "fr",
+        "es"
       ],
       "titles": {
-        "ar": "الْأَمْنُ وَالْخُلُودُ وَذَبْحُ الْمَوْتِ"
+        "ar": "الْأَمْنُ وَالْخُلُودُ وَذَبْحُ الْمَوْتِ",
+        "en": "Security, Eternity, and the Slaughter of Death",
+        "ur": "امن، ہمیشگی اور موت کا ذبح",
+        "fr": "La Sécurité, l'Éternité et l'Immolation de la Mort",
+        "es": "La seguridad, la eternidad y el sacrificio de la muerte"
       },
       "hooks": {
-        "ar": "بعد هذا الدرس، يكون المتعلم قادرًا على:"
+        "ar": "بعد هذا الدرس، يكون المتعلم قادرًا على:",
+        "en": "After this lesson, the learner will be able to:",
+        "ur": "اس سبق کے بعد سیکھنے والا یہ کر سکے گا:",
+        "fr": "Au terme de cette leçon, l'apprenant sera capable de :",
+        "es": "Después de esta lección, el aprendiz será capaz de:"
       },
       "status": {
-        "ar": "arabic_draft"
+        "ar": "arabic_draft",
+        "en": "translation_draft",
+        "ur": "translation_draft",
+        "fr": "translation_draft",
+        "es": "translation_draft"
       },
       "under_review": true,
       "has_illustration": true,
@@ -240,16 +364,32 @@
       "slug": "031_calls_glad_tidings",
       "order": 31,
       "langs": [
-        "ar"
+        "ar",
+        "en",
+        "ur",
+        "fr",
+        "es"
       ],
       "titles": {
-        "ar": "نِدَاءَاتُ الْجَنَّةِ وَالْبِشَارَاتُ عِنْدَ الدُّخُولِ"
+        "ar": "نِدَاءَاتُ الْجَنَّةِ وَالْبِشَارَاتُ عِنْدَ الدُّخُولِ",
+        "en": "The Calls of Jannah and the Glad Tidings on Entering",
+        "ur": "جنت کی صدائیں اور داخلے کے وقت کی خوشخبریاں",
+        "fr": "Les Appels de la Jannah et les Bonnes Nouvelles de l'Entrée",
+        "es": "Las proclamas del Paraíso y las buenas nuevas al entrar en él"
       },
       "hooks": {
-        "ar": "بعد هذا الدرس، يكون المتعلم قادرًا على:"
+        "ar": "بعد هذا الدرس، يكون المتعلم قادرًا على:",
+        "en": "After this lesson, the learner will be able to:",
+        "ur": "اس سبق کے بعد سیکھنے والا یہ کر سکے گا:",
+        "fr": "Au terme de cette leçon, l'apprenant sera capable de :",
+        "es": "Después de esta lección, el aprendiz será capaz de:"
       },
       "status": {
-        "ar": "arabic_draft"
+        "ar": "arabic_draft",
+        "en": "translation_draft",
+        "ur": "translation_draft",
+        "fr": "translation_draft",
+        "es": "translation_draft"
       },
       "under_review": true,
       "has_illustration": true,
@@ -260,16 +400,32 @@
       "slug": "030_angels_welcome",
       "order": 30,
       "langs": [
-        "ar"
+        "ar",
+        "en",
+        "ur",
+        "fr",
+        "es"
       ],
       "titles": {
-        "ar": "اسْتِقْبَالُ الْمَلَائِكَةِ وَتَحِيَّتُهُمْ"
+        "ar": "اسْتِقْبَالُ الْمَلَائِكَةِ وَتَحِيَّتُهُمْ",
+        "en": "The Angels' Welcome and Their Greeting of Peace",
+        "ur": "فرشتوں کا استقبال اور ان کا سلام",
+        "fr": "L'Accueil des Anges et Leur Salutation",
+        "es": "Los ángeles salen a recibirnos con su saludo de paz"
       },
       "hooks": {
-        "ar": "بعد هذا الدرس، يكون المتعلم قادرًا على:"
+        "ar": "بعد هذا الدرس، يكون المتعلم قادرًا على:",
+        "en": "After this lesson, the learner will be able to:",
+        "ur": "اس سبق کے بعد سیکھنے والا یہ کر سکے گا:",
+        "fr": "Au terme de cette leçon, l'apprenant sera capable de :",
+        "es": "Después de esta lección, el aprendiz será capaz de:"
       },
       "status": {
-        "ar": "arabic_draft"
+        "ar": "arabic_draft",
+        "en": "translation_draft",
+        "ur": "translation_draft",
+        "fr": "translation_draft",
+        "es": "translation_draft"
       },
       "under_review": true,
       "has_illustration": true,
@@ -280,16 +436,32 @@
       "slug": "029_entering_jannah",
       "order": 29,
       "langs": [
-        "ar"
+        "ar",
+        "en",
+        "ur",
+        "fr",
+        "es"
       ],
       "titles": {
-        "ar": "كَيْفِيَّةُ دُخُولِ الْجَنَّةِ"
+        "ar": "كَيْفِيَّةُ دُخُولِ الْجَنَّةِ",
+        "en": "How the Believers Enter Jannah",
+        "ur": "جنت میں داخلہ کیسے ہوگا",
+        "fr": "Comment On Entre Dans La Jannah",
+        "es": "Cómo se entra en el Paraíso"
       },
       "hooks": {
-        "ar": "بعد هذا الدرس، يكون المتعلم قادرًا على:"
+        "ar": "بعد هذا الدرس، يكون المتعلم قادرًا على:",
+        "en": "After this lesson, the learner will be able to:",
+        "ur": "اس سبق کے بعد سیکھنے والا یہ کر سکے گا:",
+        "fr": "Au terme de cette leçon, l'apprenant sera capable de :",
+        "es": "Después de esta lección, el aprendiz será capaz de:"
       },
       "status": {
-        "ar": "arabic_draft"
+        "ar": "arabic_draft",
+        "en": "translation_draft",
+        "ur": "translation_draft",
+        "fr": "translation_draft",
+        "es": "translation_draft"
       },
       "under_review": true,
       "has_illustration": true,

@@ -1,231 +1,711 @@
 ---
+title: "La Terre de la Jannah, Son Sol et Ses Graviers"
 lesson_id: "lesson.036"
 topic_id: "jannah.036"
 translation_key: "jannah.soil"
 lang: "fr"
 status: "translation_draft"
-source_lang: "ar"
-translation_note: "Brouillon français traduit depuis la leçon arabe source retravaillée."
-title: "Sous nos pas vers le Jannah : une terre pure au parfum de musc"
-audiences: ["adult", "ages_4_7", "ages_8_12", "teen_13_plus"]
-hadith_policy: "sahih_hasan_main"
-story_policy: "original_parable_plus_authenticated_islamic_history"
+authoring_standard: "full_text_depth_v2"
+story_policy: "rotating_primary_with_authenticated_account_v2"
+primary_story_type: "creative"
+primary_story_source_id: "lesson-authored:lesson.036.primary"
+primary_story_authenticated: "false"
+authenticated_account_id: "bukhari-349"
+activity_concept_id: "lesson.036.activity.clear-the-path-sense-the-soil"
+bedtime_dua_id: "lesson.036.dua.steps-on-earth-inherit-musk-land"
 ---
 
-# Sous nos pas vers le Jannah : une terre pure au parfum de musc
+# La Terre de la Jannah, Son Sol et Ses Graviers
 
-## Objectifs de la leçon
+## Objectifs Et Résultats De La Leçon
 
-- Comprendre que le sol et la terre du Jannah relèvent de l'invisible vrai : nous croyons ce que les textes disent sans les mesurer à la terre d'ici-bas.
-- Méditer la pureté du Jannah : la demeure du délice est pure dans son sol, son air, ses demeures et ses habitants.
-- Distinguer entre une description établie dans un hadith sahih et des détails rassemblés dans des ouvrages savants qui demandent vérification.
-- Donner à chaque âge une application : celui qui espère une demeure pure commence par purifier son coeur, sa langue et son lieu d'adoration.
+Au terme de cette leçon, l'apprenant sera capable de :
 
-## Section académique pour adultes
+- réciter la parole d'Allah, exalté soit-Il : « … et nous a fait hériter la terre ; nous nous installons dans la Jannah où bon nous semble » (az-Zumar 39:74), et d'expliquer que cette terre est celle de la Jannah, comme l'ont dit as-Sa'di et Ibn Kathir ;
+- raconter le récit du Voyage nocturne et de l'Ascension (*al-Isra' wal-Mi'raj*) d'après le Sahih d'al-Bukhari (349), dans ses grandes étapes : la poitrine ouverte et lavée, l'élévation à travers les cieux, la prière prescrite d'abord au nombre de cinquante puis allégée à cinq, le Lotus de la Limite, puis l'entrée dans la Jannah, où le Prophète vit des perles et constata que « sa terre était de musc » ;
+- citer les descriptions établies du sol de la Jannah — le musc, et « une fine farine blanche, un musc pur » (Muslim 2928) —, expliquer comment Ibn al-Qayyim les concilie avec la mention du safran, et connaître le statut du hadith des graviers de perles et de rubis (at-Tirmidhi 2526) ainsi que la raison pour laquelle il n'est pas retenu comme preuve principale ;
+- relier la terre sur laquelle nous marchons et nous prosternons aujourd'hui à la terre de la Jannah, à travers le hadith de l'homme que le Prophète, paix et bénédictions sur lui, vit jouir des délices de la Jannah grâce à un arbre qu'il avait coupé en plein chemin (Muslim 1914) ;
+- réaliser l'activité « De la poussière du chemin à la terre de musc » : observer avec ses sens un échantillon de terre d'ici-bas, le comparer aux descriptions établies, puis débarrasser d'une nuisance réelle un chemin ou un espace partagé, et en garder une trace ;
+- retenir l'invocation de cette leçon, qui demande à Allah que nos pas sur la terre soient dans Son obéissance, et qu'Il nous fasse hériter la terre de la Jannah dont la poussière est de musc.
 
-### Introduction
+## Section Académique Pour Adultes
 
-Le sol du Jannah n'est pas un détail secondaire. Dans cette vie, le sol évoque souvent poussière, fatigue, boue, chute, marche et limites. Au Jannah, même ce qui paraît ordinaire ou pénible ici-bas devient une part d'honneur et de délice. La terre et les cailloux rappellent que la récompense d'Allah ne se limite pas aux palais et aux fruits : tout le monde du Jannah est pur, du plus haut au plus bas.
+<!-- reader:start audience="adults" estimated_minutes="6.5" -->
 
-Le Coran mentionne le grand voyage d'al-Isra' par les mots : `Gloire à Celui qui fit voyager de nuit Son serviteur`.[^1] Dans un récit sahih, le Prophète, paix et bénédictions sur lui, dit qu'il entra au Jannah cette nuit-là, vit des coupoles de perles, et mentionna que sa terre était du musc.[^2] Cette part établie suffit à éveiller le désir et enseigne aussi l'adab : nous affirmons ce qui est établi et nous nous arrêtons là où le texte s'arrête.
+<!-- unit:start id="adults.explanation" kind="explanation" -->
 
-### Sens principaux
+La terre d'ici-bas nous donne beaucoup : nous y marchons, nous mangeons ce qu'elle fait pousser, et c'est sur elle que nous nous prosternons. Mais c'est aussi une terre de poussière, de boue et d'épines, dont les hommes se disputent le moindre empan, qu'ils se transmettent de génération en génération avant de la quitter tous. La Révélation a décrit une autre terre : les croyants en héritent pour ne jamais la quitter, et sa poussière est de musc.
 
-Premier sens : le sol du Jannah appartient à l'invisible et ne se laisse pas gouverner par notre imagination. Nous employons des mots familiers : sol, terre, cailloux, musc. Mais la réalité qu'Allah a préparée dépasse ce que nous connaissons. Les mots rapprochent le sens; ils ne font pas du Jannah une copie améliorée de ce monde.
+Cette leçon rassemble les textes établis au sujet de la terre de la Jannah et de son sol, et en dégage trois vérités :
 
-Deuxième sens : la pureté au Jannah est complète. Lorsque nous entendons que sa terre est du musc, la leçon ne doit pas rester une simple image sensorielle. Elle devient un sens du coeur : tout ce qui est proche d'Allah est pur, et ce qu'Allah a préparé pour Ses serviteurs rapprochés est pur. Celui qui veut la demeure de la pureté travaille un coeur pur, un gain pur et une parole pure.
+1. **La terre de la Jannah est l'héritage des croyants :** les gens de la Jannah louent leur Seigneur de leur avoir fait hériter sa terre, où ils s'installent là où ils le veulent.
+2. **Son sol est d'un parfum exquis, d'une blancheur pure :** le Prophète, paix et bénédictions sur lui, l'a vu la nuit de l'Ascension, et sa terre était de musc ; il l'a décrit comme une fine farine blanche, un musc pur.
+3. **Le chemin qui y mène passe par la terre d'ici-bas :** un petit geste accompli sur un chemin peut devenir la cause d'un délice dans la Jannah.
 
-Troisième sens : les ouvrages de description du Jannah rassemblent des récits et ouvrent des chemins d'étude, mais ils ne retirent pas au professeur le devoir de vérifier. Al-Ashqar et Ibn al-Qayyim ont réuni des passages sur la terre, l'argile et les cailloux du Jannah. Ces chapitres sont utiles pour organiser le sujet, tout en distinguant ce qui est établi de ce qui demande étude.[^3][^4]
+Quant à la construction de la Jannah, à ses briques et à ses murs, ils feront l'objet de la leçon suivante ; sa lumière et ses couleurs, celui de la leçon d'après.
 
-### Textes essentiels
+<!-- unit:end -->
 
-- Coran, sourate al-Isra' 17:1.[^1]
-  Ce verset établit la grandeur d'al-Isra' et apprend au croyant à recevoir l'invisible avec respect.
+<!-- unit:start id="adults.evidence" kind="evidence" -->
 
-- Sahih al-Bukhari 349.[^2]
-  C'est le texte principal de l'histoire vraie : le Prophète entra au Jannah, vit des coupoles de perles et mentionna sa terre.
+## Les Preuves Centrales
 
-### Notes pédagogiques
+<!-- evidence:start id="quran-39-74" kind="quran" mode="canonical" -->
 
-- Ne demandez pas aux enfants de dessiner une image fixe du sol du Jannah comme si nous l'avions vu.
-- Ne faites pas des récits non vérifiés la base de la certitude des enfants. Ce qui est établi est enseigné fermement; ce qui apparaît dans les recueils est traité avec prudence.
-- Relier la pureté à la propreté est utile, mais la relier à l'iman est plus profond : un lieu propre est beau, un coeur pur est plus grand.
-- Les jeunes enfants ont besoin de sécurité : le Jannah est beau et pur. Les enfants plus grands ont besoin de méthode : l'invisible se connaît par la preuve. Les adolescents ont besoin d'identité : la révélation guide l'imagination; l'imagination ne guide pas la révélation.
+### Et Il Nous A Fait Hériter La Terre
 
-## Pour les jeunes enfants, 4 à 7 ans
+> **{وَقَالُوا الْحَمْدُ لِلَّهِ الَّذِي صَدَقَنَا وَعْدَهُ وَأَوْرَثَنَا الْأَرْضَ نَتَبَوَّأُ مِنَ الْجَنَّةِ حَيْثُ نَشَاءُ ۖ فَنِعْمَ أَجْرُ الْعَامِلِينَ}** [الزمر: ٧٤][^1]
 
-### Explication simple
+<!-- evidence:translation -->
 
-Le Jannah est une vraie demeure qu'Allah a préparée pour les croyants. Nous ne l'avons pas vue dans cette vie, mais le Prophète, paix et bénédictions sur lui, nous en a parlé. Il nous a appris une chose belle : la terre du Jannah est pure et n'est pas comme la terre de ce monde. Nous disons donc : ô Allah, donne-nous le Jannah et rends nos coeurs purs.
+#### Traduction Française
 
-### Petite histoire
+> **« Et ils diront : “Louange à Allah, qui a tenu Sa promesse envers nous et nous a fait hériter la terre ; nous nous installons dans la Jannah où bon nous semble.” Quelle belle récompense que celle de ceux qui œuvrent ! »** (az-Zumar 39:74)[^1]
 
-Ceci est une histoire pédagogique imaginée.
+#### Interprétation Savante
 
-Yasir entra dans la maison en courant après la pluie. Il aimait le bruit de l'eau sous ses chaussures et il aimait sauter par-dessus les petites flaques du chemin. Mais il ne remarqua pas que ses chaussures portaient de la boue. De la porte jusqu'au salon, de petites traces brunes apparurent derrière lui.
+As-Sa'di explique que « Il nous a fait hériter la terre » signifie « c'est-à-dire la terre de la Jannah », et que « nous nous installons dans la Jannah où bon nous semble » veut dire : « nous descendons à l'endroit que nous voulons, et nous y prenons le délice que nous désirons ».[^2] Ibn Kathir rapporte l'avis selon lequel il s'agit de la terre de la Jannah d'après Abu al-'Aliyah, Abu Salih, Qatadah, as-Suddi et Ibn Zayd, puis il cite sous ce verset les deux hadiths d'al-Bukhari et de Muslim, présentés ci-dessous, au sujet de la terre de la Jannah.[^3]
 
-Sa mère l'appela doucement : "Arrête-toi, Yasir. Regarde derrière toi." Il se retourna et vit un petit chemin de boue sur le sol. Ses joues chauffèrent. "Je ne l'ai pas fait exprès", dit-il.
+#### Explication De La Leçon
 
-"Je le sais", répondit sa mère. "Viens, apprenons quelque chose de beau."
+Les gens de la Jannah prononcent ces mots en y entrant, pleins de louange envers leur Seigneur. Ici-bas, un héritage passe d'une main à l'autre ; celui-ci, en revanche, ne leur sera jamais retiré. Et la fin du verset, « Quelle belle récompense que celle de ceux qui œuvrent ! », rattache cette terre aux œuvres.
 
-Elle apporta un petit chiffon, et ils essuyèrent les traces ensemble. Elle ne cria pas, et elle ne dit pas que la pluie était mauvaise. Elle dit : "La pluie est un bienfait, et jouer est agréable, mais une maison demande du soin. Dans ce monde il y a de la boue et de la poussière. Le Jannah est différent. C'est une demeure pure qu'Allah a préparée pour les croyants."
+<!-- evidence:end -->
 
-Yasir demanda : "Le Jannah a-t-il un sol ?" Sa mère dit : "Oui. Le Prophète, paix et bénédictions sur lui, nous a parlé du Jannah, et il a mentionné que sa terre est pure. Nous ne savons pas exactement comment elle est, mais nous croyons ce qu'il a enseigné et nous demandons à Allah de nous faire entrer au Jannah."
+<!-- evidence:start id="bukhari-349" kind="hadith" mode="canonical" -->
 
-Quand ils eurent fini, Yasir posa ses chaussures près de la porte. Puis il lava ses mains et apporta son petit tapis de prière. "Je veux que mon endroit soit propre", dit-il, "et je veux que mon coeur soit propre aussi."
+### Et Voici Que Sa Terre Était De Musc
 
-Sa mère sourit : "C'est la plus belle chose que tu as apprise aujourd'hui."
+> عَنْ أَنَسِ بْنِ مَالِكٍ قَالَ: كَانَ أَبُو ذَرٍّ يُحَدِّثُ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ: **«فُرِجَ عَنْ سَقْفِ بَيْتِي وَأَنَا بِمَكَّةَ، فَنَزَلَ جِبْرِيلُ فَفَرَجَ صَدْرِي، ثُمَّ غَسَلَهُ بِمَاءِ زَمْزَمَ، ثُمَّ جَاءَ بِطَسْتٍ مِنْ ذَهَبٍ مُمْتَلِئٍ حِكْمَةً وَإِيمَانًا، فَأَفْرَغَهُ فِي صَدْرِي ثُمَّ أَطْبَقَهُ، ثُمَّ أَخَذَ بِيَدِي فَعَرَجَ بِي إِلَى السَّمَاءِ الدُّنْيَا، فَلَمَّا جِئْتُ إِلَى السَّمَاءِ الدُّنْيَا قَالَ جِبْرِيلُ لِخَازِنِ السَّمَاءِ: افْتَحْ. قَالَ: مَنْ هَذَا؟ قَالَ: هَذَا جِبْرِيلُ. قَالَ: هَلْ مَعَكَ أَحَدٌ؟ قَالَ: نَعَمْ، مَعِي مُحَمَّدٌ صلى الله عليه وسلم. فَقَالَ: أُرْسِلَ إِلَيْهِ؟ قَالَ: نَعَمْ»**. [ثم ذكر عروجه في السماوات ولقاءه آدم وإدريس وموسى وعيسى وإبراهيم عليهم السلام وترحيبهم به، ثم قال:] **«فَفَرَضَ اللَّهُ عَلَى أُمَّتِي خَمْسِينَ صَلَاةً، فَرَجَعْتُ بِذَلِكَ حَتَّى مَرَرْتُ عَلَى مُوسَى، فَقَالَ: مَا فَرَضَ اللَّهُ لَكَ عَلَى أُمَّتِكَ؟ قُلْتُ: فَرَضَ خَمْسِينَ صَلَاةً. قَالَ: فَارْجِعْ إِلَى رَبِّكَ، فَإِنَّ أُمَّتَكَ لَا تُطِيقُ ذَلِكَ. فَرَاجَعْتُ فَوَضَعَ شَطْرَهَا، فَرَجَعْتُ إِلَى مُوسَى قُلْتُ: وَضَعَ شَطْرَهَا. فَقَالَ: رَاجِعْ رَبَّكَ، فَإِنَّ أُمَّتَكَ لَا تُطِيقُ، فَرَاجَعْتُ فَوَضَعَ شَطْرَهَا، فَرَجَعْتُ إِلَيْهِ فَقَالَ: ارْجِعْ إِلَى رَبِّكَ، فَإِنَّ أُمَّتَكَ لَا تُطِيقُ ذَلِكَ، فَرَاجَعْتُهُ فَقَالَ: هِيَ خَمْسٌ وَهِيَ خَمْسُونَ، لَا يُبَدَّلُ الْقَوْلُ لَدَيَّ. فَرَجَعْتُ إِلَى مُوسَى فَقَالَ: رَاجِعْ رَبَّكَ. فَقُلْتُ: اسْتَحْيَيْتُ مِنْ رَبِّي. ثُمَّ انْطَلَقَ بِي حَتَّى انْتَهَى بِي إِلَى سِدْرَةِ الْمُنْتَهَى، وَغَشِيَهَا أَلْوَانٌ لَا أَدْرِي مَا هِيَ، ثُمَّ أُدْخِلْتُ الْجَنَّةَ، فَإِذَا فِيهَا حَبَايِلُ اللُّؤْلُؤِ، وَإِذَا تُرَابُهَا الْمِسْكُ»**.[^4]
 
-Avant de dormir, Yasir fit doucement cette invocation : "Ô Allah, accorde-nous le Jannah et rends nos coeurs purs." Le lendemain, lorsqu'il vit encore la pluie, il n'eut pas peur de la boue. Il se rappela seulement que celui qui aime le Jannah apprend à être doux, propre et bon.
+<!-- evidence:translation -->
 
-### Histoire vraie de l'histoire islamique
+#### Traduction Française
 
-Pendant la nuit d'al-Isra' wal-Mi'raj, Allah honora le Prophète Muhammad, paix et bénédictions sur lui, et lui montra de grands signes. Dans un récit authentique, le Prophète entra au Jannah, vit des coupoles de perles, et mentionna que sa terre était du musc. Nous n'inventons pas une image du Jannah, mais nous nous réjouissons de ce que le Prophète a enseigné : le Jannah est beau, pur, et plus généreux que notre imagination.[^1][^2]
+> D'après Anas ibn Malik, qui dit : Abu Dharr racontait que le Messager d'Allah, paix et bénédictions sur lui, a dit : **« Le toit de ma maison s'ouvrit alors que j'étais à La Mecque. Jibril descendit, m'ouvrit la poitrine, puis la lava avec l'eau de Zamzam. Ensuite, il apporta une bassine d'or remplie de sagesse et de foi, la vida dans ma poitrine, puis la referma. Puis il me prit par la main et m'éleva jusqu'au ciel le plus proche. Lorsque j'arrivai au ciel le plus proche, Jibril dit au gardien de ce ciel : “Ouvre.” Il demanda : “Qui est là ?” Il répondit : “C'est Jibril.” — “Quelqu'un est-il avec toi ?” — “Oui, Muhammad, paix et bénédictions sur lui, est avec moi.” — “L'a-t-on envoyé chercher ?” — “Oui.” »** [Puis il relata son élévation à travers les cieux, sa rencontre avec Adam, Idris, Musa, 'Isa et Ibrahim, sur eux la paix, et l'accueil qu'ils lui réservèrent ; puis il dit :] **« Allah prescrivit alors à ma communauté cinquante prières. Je redescendis avec cela, et lorsque je passai auprès de Musa, il me demanda : “Qu'Allah t'a-t-Il prescrit pour ta communauté ?” Je répondis : “Il a prescrit cinquante prières.” Il dit : “Retourne auprès de ton Seigneur, car ta communauté n'en sera pas capable.” J'y retournai donc, et Il en retira une partie. Je revins auprès de Musa et lui dis : “Il en a retiré une partie.” Il dit : “Retourne auprès de ton Seigneur, car ta communauté n'en sera pas capable.” J'y retournai, et Il en retira une autre partie. Je revins auprès de lui, et il dit : “Retourne auprès de ton Seigneur, car ta communauté n'en sera pas capable.” J'y retournai alors, et Il dit : “Elles sont cinq, et elles sont cinquante ; la Parole ne se modifie pas auprès de Moi.” Je revins auprès de Musa, qui me dit : “Retourne auprès de ton Seigneur.” Je répondis : “J'éprouve désormais de la pudeur devant mon Seigneur.” Puis il m'emmena jusqu'à ce qu'il me conduise au Lotus de la Limite, que recouvraient des couleurs dont je ne sais ce qu'elles sont. Puis on me fit entrer dans la Jannah : il s'y trouvait des rangs de perles, et voici que sa terre était de musc. »**[^4]
 
-### Questions courtes
+#### Interprétation Savante
 
-- Qu'a fait Yasir quand il a vu la boue sur le sol ?
-- Savons-nous exactement à quoi ressemble le sol du Jannah ?
-- Que demandons-nous à Allah lorsque nous entendons parler du Jannah ?
+Une autre version, chez al-Bukhari et chez Muslim, porte : « il s'y trouvait des coupoles (*janabidh*) de perles » ; le mot *janabidh* désigne des coupoles.[^4][^9] Quant à la parole « Elles sont cinq, et elles sont cinquante », elle est expliquée par le hadith de Muslim : « Ce sont cinq prières chaque jour et chaque nuit ; chaque prière en vaut dix : cela fait donc cinquante prières. »[^4]
 
-### Activité à la maison ou en halaqah
+#### Explication De La Leçon
 
-Donnez à l'enfant une petite carte en forme de pied. Écrivez ou répétez : `Je marche vers ce qui plaît à Allah.` Puis choisissez une action : ranger les chaussures, nettoyer l'espace de prière ou dire une parole douce.
+Ce n'est pas la description d'une chose aperçue de loin, mais le témoignage de celui qui l'a vue : « On me fit entrer dans la Jannah… et voici que sa terre était de musc. » Et le plus saisissant, c'est que la nuit où le Prophète, paix et bénédictions sur lui, vit la terre de la Jannah fut aussi celle où la prière fut prescrite : la prosternation, dans laquelle nous posons le front sur la terre d'ici-bas, est le cadeau de cette nuit-là.
 
-### Version du soir
+<!-- evidence:end -->
 
-Le Jannah est une demeure pure. Allah l'a préparé pour les croyants. Ô Allah, rends nos coeurs purs, nos paroles pures, et nos pas dirigés vers le bien.
+<!-- evidence:start id="muslim-2928b" kind="hadith" mode="canonical" -->
 
-## Pour les enfants, 8 à 12 ans
+### Une Fine Farine Blanche, Un Musc Pur
 
-### Explication adaptée à l'âge
+> عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ أَنَّ ابْنَ صَيَّادٍ سَأَلَ النَّبِيَّ صلى الله عليه وسلم عَنْ تُرْبَةِ الْجَنَّةِ، فَقَالَ: **«دَرْمَكَةٌ بَيْضَاءُ مِسْكٌ خَالِصٌ»**.[^5]
 
-Lorsque le hadith mentionne la terre du Jannah, cela ne veut pas dire que nous pouvons l'imaginer exactement. Nous savons par le texte qu'elle est pure et que le Prophète, paix et bénédictions sur lui, nous en a parlé. La différence entre l'iman et l'imagination sans limite est importante : l'iman s'appuie sur la preuve, tandis que l'imagination peut ajouter des choses qui ne sont pas établies. Le musulman apprend à aimer le Jannah et à respecter les limites du texte en même temps.
+<!-- evidence:translation -->
 
-### Petite histoire
+#### Traduction Française
 
-Ceci est une histoire pédagogique imaginée.
+> D'après Abu Sa'id al-Khudri, Ibn Sayyad interrogea le Prophète, paix et bénédictions sur lui, au sujet du sol de la Jannah, et il répondit : **« Une fine farine blanche, un musc pur. »**[^5]
 
-Hamza était responsable du coin des mushafs dans la halaqah du samedi. Au début, il pensa que la responsabilité serait facile : arriver un peu tôt, poser les mushafs sur la table et s'asseoir. Mais dès la première semaine, il remarqua de la poussière sur certaines couvertures, des traces de chaussures près de la porte, et des enfants plus jeunes qui entraient parfois avec les pieds mouillés après le wudu.
+#### Interprétation Savante
 
-Hamza s'irrita. "Pourquoi est-ce moi qui nettoie ?" pensa-t-il. "Je suis venu pour apprendre, pas pour essuyer le sol." Son enseignant le vit dépoussiérer l'étagère avec colère et lui dit : "Hamza, savais-tu que servir le lieu du Coran peut être une leçon avant la leçon ?"
+Le *darmak* est la farine blanche, fine et parfaitement pure.[^9] Selon une autre version rapportée par Muslim, c'est le Prophète, paix et bénédictions sur lui, qui interrogea Ibn Sayyad sur le sol de la Jannah ; celui-ci répondit par cette même description, et le Prophète, paix et bénédictions sur lui, lui dit : « Tu as dit vrai. »[^5] Ibn al-Qayyim a rassemblé les différentes descriptions du sol — le musc, le *darmak* et le safran — et a déclaré : « Il n'y a pas de contradiction entre elles » ; parmi les manières de les concilier, il propose que le sol soit « safran par la couleur, musc par le parfum », et *darmak* par sa blancheur, sa douceur et sa finesse.[^7]
 
-Hamza s'assit à côté de lui. L'enseignant dit : "Nous ne disons pas que cette pièce ressemble au Jannah, et nous ne comparons pas ce monde à l'au-delà. Mais les descriptions du Jannah nous enseignent le sens de la pureté. Si la demeure du délice est pure jusque dans sa terre, comment devrait être le coeur de celui qui la cherche ? Et comment devraient être ses manières dans un lieu d'adoration ?"
+#### Explication De La Leçon
 
-Ce jour-là, Hamza n'essuya pas l'étagère comme s'il subissait une punition. Il l'essuya en disant doucement : "Ô Allah, fais de moi quelqu'un du Jannah." Puis il plaça une petite serviette à l'entrée et écrivit un message poli : "Parce que nous aimons le Coran, nous quittons ce lieu meilleur que nous l'avons trouvé."
+Cette description réunit la couleur (blanche), le toucher (fin comme la farine) et le parfum (un musc pur). La terre de la Jannah n'est donc pas une poussière que l'on secoue de ses vêtements : elle fait partie de ses délices.
 
-La semaine suivante, un petit entra avec un bonbon à la main. Il faillit tomber sur un mushaf. Hamza sentit la colère monter, puis il se rappela que la pureté n'est pas seulement sur le sol; elle est aussi sur la langue. Il dit calmement : "Viens, nous mangerons cela après la halaqah, et nous garderons le mushaf propre." L'enfant sourit et rangea le bonbon.
+<!-- evidence:end -->
 
-À la fin du mois, le coin n'était pas toujours parfait. La poussière revenait, les enfants oubliaient, et Hamza se fatiguait parfois. Mais quelque chose avait changé en lui. Il voyait le nettoyage comme un service, non comme une humiliation; le calme comme une force, non comme une faiblesse. Dans son cahier, il écrivit : "Celui qui espère une terre pure au Jannah ne doit pas être trop orgueilleux pour laisser une trace pure sur terre."
+<!-- evidence:start id="tirmidhi-2526" kind="hadith" mode="canonical" -->
 
-### Histoire vraie de l'histoire islamique
+### Et Ses Graviers Sont Les Perles Et Les Rubis
 
-Al-Bukhari rapporte, dans le récit du Mi'raj, que le Prophète, paix et bénédictions sur lui, entra au Jannah, vit des coupoles de perles, et mentionna une terre de musc. C'est un récit vrai et établi. Il enseigne deux choses à la fois : le Jannah est plus grand et plus pur que tout ce que nous connaissons ici-bas, et le musulman n'ajoute pas à l'invisible de lui-même. Chaque fois que nous entendons une description du Jannah, nous disons : que ce qu'Allah et Son Messager nous ont annoncé est beau, et que ce qu'Allah a caché à Ses serviteurs doit être immense.[^1][^2]
+> عَنْ أَبِي هُرَيْرَةَ قَالَ: [...] قُلْنَا: الْجَنَّةُ مَا بِنَاؤُهَا؟ قَالَ: **«لَبِنَةٌ مِنْ فِضَّةٍ وَلَبِنَةٌ مِنْ ذَهَبٍ، وَمِلَاطُهَا الْمِسْكُ الْأَذْفَرُ، وَحَصْبَاؤُهَا اللُّؤْلُؤُ وَالْيَاقُوتُ، وَتُرْبَتُهَا الزَّعْفَرَانُ، مَنْ يَدْخُلْهَا يَنْعَمْ وَلَا يَبْأَسْ، وَيُخَلَّدْ وَلَا يَمُوتْ، لَا تَبْلَى ثِيَابُهُمْ، وَلَا يَفْنَى شَبَابُهُمْ»**.[^6]
 
-### Vocabulaire important
+<!-- evidence:translation -->
 
-- `Invisible`: ce qu'Allah et Son Messager nous ont annoncé, bien que nous ne l'ayons pas vu dans cette vie.
-- `Terre du Jannah`: description établie dans un hadith sahih; nous y croyons sans la comparer à la terre d'ici-bas.
-- `Pureté`: bonne odeur, gain halal, belles paroles et coeur pur.
-- `Vérification`: demander la preuve avant d'être certain d'un détail religieux.
+#### Traduction Française
 
-### Questions de compréhension et de réflexion
+> D'après Abu Hurayrah, qui dit : […] Nous demandâmes : « La Jannah, de quoi est-elle bâtie ? » Il répondit : **« D'une brique d'argent et d'une brique d'or ; son mortier est le musc le plus capiteux, ses graviers sont les perles et les rubis, et son sol est le safran. Quiconque y entre vit dans la félicité et ne connaît plus la misère ; il y demeure éternellement et ne meurt pas ; leurs vêtements ne s'usent pas, et leur jeunesse ne se fane pas. »**[^6]
 
-- Pourquoi ne devons-nous pas imaginer le sol du Jannah comme un jardin de ce monde ?
-- Quelle différence y a-t-il entre "établi dans le hadith" et "mentionné par certains savants" ?
-- Comment l'amour du Jannah peut-il apparaître dans ta manière de traiter un tapis de prière ou un mushaf ?
-- Quelle trace pure peux-tu laisser dans ton espace cette semaine ?
+#### Interprétation Savante
 
-### Activité à la maison ou en halaqah
+*Al-hasba'* désigne les petits cailloux, le gravier. La chaîne de transmission de ce hadith fait l'objet d'une divergence : at-Tirmidhi a dit : « Sa chaîne n'est pas si solide, et elle n'est pas, à mon sens, continue » ; Ahmad Shakir et al-Albani l'ont jugé authentique par l'ensemble de ses voies ; et l'éditeur critique de *Hadi al-Arwah* a montré que la voie d'Ahmad repose entièrement sur Abu al-Mudillah, qu'Ibn al-Madini a déclaré inconnu.[^6][^7]
 
-Choisis un lieu lié à l'adoration ou à l'apprentissage : étagère de mushafs, tapis de prière, bureau d'étude ou entrée. Nettoie-le et range-le, puis écris une intention : "Ô Allah, j'aime ce qui est pur car Tu es pur, et je Te demande le Jannah."
+#### Explication De La Leçon
 
-## Pour les adolescents, 13+
+C'est pourquoi ce hadith est cité ici comme témoignage d'appui et non comme preuve principale : pour le sol, on s'appuie sur les deux hadiths d'al-Bukhari et de Muslim. Quant aux briques de la construction, elles seront étudiées dans la leçon suivante.
 
-### Explication plus profonde
+<!-- evidence:end -->
 
-La description du sol du Jannah place une question sérieuse devant l'adolescent : qu'est-ce qui guide mon imagination au sujet de l'au-delà ? La publicité, les jeux, les images de luxe et de confort mis en scène, ou la révélation ? Le texte sahih ne donne pas chaque détail, mais il donne assez pour former un désir discipliné. Il y a une beauté particulière dans cette discipline, car un coeur qui fait confiance à la révélation n'a pas besoin d'inventer pour désirer.
+<!-- evidence:start id="muslim-1914c" kind="hadith" mode="canonical" -->
 
-Dans ce monde, le sol est lié aux limites : propriété, espace, adresse, classe sociale, voyage, exil. Au Jannah, le sol lui-même fait partie du délice. Cela déplace la question de l'adolescent : de "Quel lieu me fera paraître important ?" vers "Quelle demeure me rendra honoré auprès d'Allah ?" et de "Comment posséder davantage ?" vers "Comment marcher vers Allah avec des pas plus vrais ?"
+### Un Arbre En Plein Chemin
 
-### Petite histoire
+> عَنْ أَبِي هُرَيْرَةَ عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ: **«لَقَدْ رَأَيْتُ رَجُلًا يَتَقَلَّبُ فِي الْجَنَّةِ فِي شَجَرَةٍ قَطَعَهَا مِنْ ظَهْرِ الطَّرِيقِ، كَانَتْ تُؤْذِي النَّاسَ»**.[^8]
 
-Ceci est une histoire pédagogique imaginée.
+<!-- evidence:translation -->
 
-Layla aimait la décoration intérieure. Elle connaissait les noms des couleurs, suivait des comptes de maisons calmes, et gardait des images de chambres où personne ne semblait jamais se mettre en colère, être inquiet, malade ou fatigué. Elle se disait : "Si j'avais un endroit comme cela, je me reposerais enfin." Mais dans les moments de vérité, elle savait qu'une partie de l'inquiétude ne quitte pas le coeur simplement parce que les meubles changent.
+#### Traduction Française
 
-Un soir, elle rentra de l'école épuisée. Elle ouvrit son téléphone et vit une grande pièce, un sol brillant, des plantes parfaitement placées, et une tasse de café qui semblait ne jamais refroidir. Elle ressentit de l'envie, puis du vide. Elle ferma le téléphone et alla à la halaqah de la mosquée sans beaucoup d'énergie.
+> D'après Abu Hurayrah, le Prophète, paix et bénédictions sur lui, a dit : **« J'ai vu un homme aller et venir à son aise dans la Jannah, grâce à un arbre qu'il avait coupé en plein chemin et qui faisait du tort aux gens. »**[^8]
 
-La leçon portait sur le sol et la terre du Jannah. L'enseignant dit : "Par Sa miséricorde, Allah a décrit le Jannah avec des mots dont nous comprenons une partie du sens, tout en laissant sa réalité complète plus grande que notre imagination. Dans le récit sahih, le Prophète, paix et bénédictions sur lui, entra au Jannah et mentionna que sa terre était du musc. Remarquez : nous n'avons pas une image complète, mais nous avons une promesse véridique."
+#### Interprétation Savante
 
-L'expression resta dans le coeur de Layla : "une promesse véridique." Après le cours, elle demanda : "Est-ce donc mauvais d'imaginer le Jannah ?" L'enseignant répondit : "Il n'est pas mauvais que le coeur désire. Ce qui est mauvais, c'est de faire de l'imagination une source, ou de penser que le Jannah est seulement une version luxueuse de ce monde. La révélation ouvre la porte; l'adab nous empêche d'inventer ce qui est derrière."
+« Aller et venir à son aise dans la Jannah » (*yataqallabu fil-jannah*) signifie : y jouir de ses délices, en raison d'un arbre qu'il avait ôté du milieu du chemin et qui gênait les passants. Selon une autre version rapportée par Muslim, l'homme avait dit : « Par Allah, je vais écarter ceci du chemin des musulmans, afin qu'il ne leur nuise pas. »[^8]
 
-La semaine suivante, Layla commença à ranger sa chambre différemment. Elle ne l'arrangeait plus seulement pour la photographier; elle l'arrangeait pour y prier avec calme. Elle plaça une petite carte près de son bureau : `Ô Allah, je Te demande le Jannah.` Lorsque la comparaison revenait, elle se disait : "Le problème n'est pas que j'aime la beauté. Le problème est d'oublier la beauté qu'Allah a promise."
+#### Explication De La Leçon
 
-Puis vint une petite épreuve. Son amie visita une nouvelle maison et publia beaucoup de photos. Layla sentit l'ancien serrement revenir. Elle faillit écrire un commentaire froid, puis s'arrêta. Elle se rappela que celui qui espère une demeure pure ne laisse pas une trace amère dans le coeur des gens. Elle écrivit plutôt : "Masha Allah, qu'Allah en fasse une maison de bénédiction." Tout ce qui était en elle ne disparut pas, mais elle sentit qu'elle avait fait un petit pas sur un sol plus solide que la comparaison : le sol du contentement.
+La terre d'ici-bas n'est pas un simple couloir vers la terre de la Jannah : c'est le terrain où l'on œuvre pour elle. Celui qui débarrasse le chemin des gens de ce qui leur nuit a accompli, sur cette terre, une œuvre par laquelle on espère les délices de l'autre.
 
-Après un mois, elle écrivit dans son journal : "Penser au Jannah, ce n'est pas fuir le monde. C'est apprendre à voir le monde à sa vraie taille. Chaque sol sur lequel je marche maintenant peut témoigner pour moi ou contre moi. Ô Allah, fais de mes pas des pas vers Toi."
+<!-- evidence:end -->
 
-### Histoire vraie de l'histoire islamique
+### Comment Ces Textes Se Complètent-Ils ?
 
-Le hadith du Mi'raj enseigne aux adolescents une méthode complète pour l'invisible. L'événement est magnifique : al-Isra', al-Mi'raj, de grands signes, et un récit sahih où le Prophète, paix et bénédictions sur lui, entra au Jannah, vit des coupoles de perles et mentionna que sa terre était du musc. Pourtant, le croyant reste discipliné : il ne transforme pas ces mots en scène inventée, et il ne considère pas le nombre limité de détails comme une faiblesse de la foi. Il dit : voilà ce qui est établi, et cela suffit à mon coeur pour croire, désirer et agir.[^1][^2]
+Le verset d'az-Zumar établit que la terre de la Jannah est l'héritage de ceux qui œuvrent ; le hadith de l'Ascension atteste que le Prophète, paix et bénédictions sur lui, a vu que sa terre était de musc ; le hadith de Muslim décrit son sol par sa blancheur, sa finesse et son parfum ; le hadith d'at-Tirmidhi y ajoute les graviers, malgré la divergence sur sa chaîne ; et le hadith de l'arbre nous ramène à la terre sur laquelle nous marchons aujourd'hui.
 
-Cela compte à l'âge des images. Beaucoup de choses autour de nous disent : tu ne désireras pas une chose tant que tu ne la verras pas; tu ne croiras pas en la beauté tant qu'elle ne sera pas exposée devant toi. Le récit du Jannah éduque une capacité plus haute : croire Allah et Son Messager, et avoir confiance que le délice qu'Allah nous a caché est plus grand que ce qui apparaît dans notre imagination. Celui qui apprend cela devient plus fort face à la comparaison, la consommation et le vide intérieur.
+<!-- unit:end -->
 
-### Questions de discussion
+<!-- unit:start id="adults.questions" kind="questions" -->
 
-- Comment les images modernes du luxe peuvent-elles déformer notre imagination du délice ?
-- Pourquoi ce que la révélation établit suffit-il pour l'invisible, même si nous ne connaissons pas chaque détail ?
-- Quelle différence y a-t-il entre l'amour permis de la beauté et l'esclavage de la comparaison ?
-- Comment la croyance au sol du Jannah peut-elle influencer tes pas quotidiens : vers la prière, l'école, le téléphone ou les relations ?
+## Questions Pour Comprendre Et Méditer
 
-### Applications pratiques
+1. Que faut-il entendre par « la terre » dans la parole « et nous a fait hériter la terre » ? Quels exégètes ont soutenu cette interprétation ?
+2. Quelles sont les trois qualités du sol de la Jannah dans le hadith de Muslim ? Et comment Ibn al-Qayyim concilie-t-il le musc et le safran ?
+3. Pourquoi le hadith d'at-Tirmidhi sur les graviers n'est-il pas retenu comme preuve principale dans cette leçon ?
+4. Que signifie le fait que la prière ait été prescrite la nuit même où le Prophète, paix et bénédictions sur lui, vit la terre de la Jannah ?
+5. Quelle nuisance se trouve sur un chemin que vous empruntez chaque jour ? Et à qui fait-elle du tort ?
 
-- Avant de publier une photo de ta chambre ou de ton espace, demande-toi : est-ce que je cherche un bien, ou est-ce que je cherche la comparaison ?
-- Crée un petit espace pour la prière ou la lecture, même simple, et fais-en un témoin de ta demande du Jannah.
-- Si tu marches vers un péché, une dispute ou un mal, arrête-toi et demande : est-ce un pas vers la demeure de la pureté ?
-- Lis le récit du Mi'raj dans sa source et remarque comment le texte donne peu de vérité établie plutôt que beaucoup d'invention.
+<!-- unit:end -->
 
-### Activité de réflexion ou d'écriture
+<!-- unit:start id="adults.activity" kind="activity" -->
 
-Écris une page intitulée : "Le sol sur lequel je marche." Divise-la en trois parties : des pas qui me rapprochent d'Allah, des pas qui volent mon coeur, et un pas que je changerai cette semaine en recherchant le Jannah.
+### Activité : De La Poussière Du Chemin À La Terre De Musc
 
-## Plan d'enseignement court
+<!-- activity:start audience="adults" concept_id="lesson.036.activity.clear-the-path-sense-the-soil" -->
 
-### Adultes
+Prenez une poignée de terre d'un jardin ou d'un chemin dans un petit récipient, et notez trois observations : sa couleur, sa texture et son odeur. En face de chacune, écrivez la description établie du sol de la Jannah : « blanche », « fine farine » (*darmakah*), « musc pur ». Puis, dans les trois jours, choisissez un chemin ou un espace partagé (l'entrée d'un immeuble, un trottoir, la cour d'une mosquée, l'allée d'un parc), et retirez-en, en toute sécurité, une nuisance précise : du verre, des branches, des pierres ou des déchets. Écrivez deux lignes : qu'avez-vous retiré ? Et à qui cela aurait-il fait du tort ?
 
-- Durée suggérée : 45-60 minutes.
-- Question d'ouverture : pourquoi la révélation mentionne-t-elle des détails qui peuvent sembler petits, comme la terre et le sol ?
-- Lecture guidée : sourate al-Isra' 17:1 et Sahih al-Bukhari 349.
-- Discussion académique : texte établi, collecte savante et imagination non disciplinée.
-- Conclusion pratique : comment purifier le coeur, la maison et le lieu d'adoration ?
+<!-- activity:end -->
 
-### 4-7 ans
+<!-- unit:end -->
 
-- Durée suggérée : 12-15 minutes.
-- Utiliser l'histoire des traces de boue, puis la relier doucement au sens d'un Jannah pur.
-- Ne pas demander à l'enfant d'imaginer la forme exacte du Jannah.
-- Activité : carte du pied et une bonne action.
+<!-- reader:end -->
 
-### 8-12 ans
+---
 
-- Durée suggérée : 25-35 minutes.
-- Ouvrir avec : pourquoi aimons-nous un endroit propre ?
-- Lire l'histoire du coin des mushafs et discuter du service d'un lieu d'adoration ou d'apprentissage.
-- Enseigner les termes : invisible, vérification, pureté.
-- Activité : organiser un lieu d'adoration ou d'étude avec une intention pieuse.
+## Pour Les Enfants De 4 À 7 Ans
 
-### Adolescents
+<!-- reader:start audience="4-7" estimated_minutes="5.0" -->
 
-- Durée suggérée : 35-45 minutes.
-- Ouvrir par une discussion sur les images de luxe et la comparaison.
-- Relier la révélation à l'imagination disciplinée.
-- Discuter l'histoire de Layla comme lutte contre la comparaison, non contre la beauté elle-même.
-- Activité d'écriture : "Le sol sur lequel je marche."
+<!-- unit:start id="4-7.explanation" kind="explanation" -->
+
+Chaque jour, nous marchons sur la terre : il y a de la poussière, de la boue, et parfois des cailloux et des épines. Mais notre Prophète, paix et bénédictions sur lui, nous a raconté qu'il avait vu la terre de la Jannah, et que sa terre est de musc. Le musc, c'est un parfum très doux.[^4] Et dans la Jannah, les gens disent : « Louange à Allah, qui a tenu Sa promesse envers nous ! »[^1]
+
+<!-- unit:end -->
+
+<!-- unit:start id="4-7.primary-story" kind="primary_story" -->
+
+### Histoire Pédagogique Imaginaire : Yahya Et Le Chemin Après La Pluie
+
+<!-- story:start audience="4-7" role="primary" type="creative" source_id="lesson-authored:lesson.036.primary" authenticated="false" -->
+
+**Ceci est une histoire pédagogique imaginaire, et non un hadith ni un récit historique.**
+
+Ce matin-là, il avait plu, puis le soleil était revenu. Yahya partit avec Papa au jardin public, tout près. Il avait cinq ans, et des chaussures neuves d'un bleu tout brillant.
+
+Deux pas, et ses chaussures s'enfoncèrent dans la boue. « Beurk ! C'est sale, et ça sent bizarre ! »
+
+Puis, près du toboggan, quelque chose brilla entre les cailloux : des morceaux de verre cassé ! Et là-bas, les tout-petits couraient pieds nus.
+
+Yahya se demanda : « Je vais jouer et je laisse ça ? » Puis il cria : « Papa ! Papa ! Il y a du verre ! »
+
+Papa arriva vite : « Bravo, Yahya. N'y touche pas avec ta main : le verre, ça coupe. » Il mit un gant et ramassa les morceaux dans un sac, pendant que Yahya montrait chaque éclat brillant : « Et là ! Et là ! » Puis ils jetèrent le sac à la poubelle.
+
+Les tout-petits coururent près du toboggan en riant, et personne ne se blessa.
+
+Assis sur le banc avec Yahya, Papa dit : « Tu sais quoi ? Notre Prophète, paix et bénédictions sur lui, a vu un homme heureux dans la Jannah, parce qu'il avait enlevé du chemin un arbre qui faisait du mal aux gens. »[^8]
+
+« Comme le verre ? » — « Oui, un peu comme ça. Et le Prophète nous a dit aussi que la terre de la Jannah, c'est du musc. »
+
+Yahya renifla ses chaussures sales et éclata de rire : « Ça, ce n'est pas du musc ! » Papa rit aussi : « La terre d'ici, on marche dessus et on y fait le bien ; et on demande à Allah une terre de musc. »
+
+À la maison, Yahya lava ses chaussures tout seul. Puis Papa lui mit un peu de musc sur la main ; Yahya la sentit longtemps et dit : « Chaque fois que je sentirai du musc, je penserai à la Jannah. »
+
+<!-- story:end -->
+
+<!-- unit:end -->
+
+<!-- unit:start id="4-7.authenticated-story" kind="authenticated_story" -->
+
+### Un Hadith Authentique : La Nuit Où Le Prophète, Paix Et Bénédictions Sur Lui, Vit La Terre De La Jannah
+
+<!-- story:start audience="4-7" role="authenticated" type="hadith" source_id="bukhari-349" authenticated="true" -->
+
+<!-- retelling:start source_id="bukhari-349" audience="4-7" -->
+
+**Ceci est une histoire vraie racontée par le Prophète, paix et bénédictions sur lui, et rapportée par Abu Dharr, qu'Allah soit satisfait de lui, dans le Sahih d'al-Bukhari ; ce n'est pas une histoire inventée.**
+
+C'était la nuit. Le Prophète, paix et bénédictions sur lui, était chez lui, à La Mecque. L'ange Jibril, paix sur lui, vint, lava son cœur avec l'eau de Zamzam et le remplit de foi et de sagesse. Puis il le prit par la main et monta avec lui vers le ciel.
+
+À chaque porte du ciel, le gardien demandait : « Qui est là ? » Jibril répondait : « Jibril, et Muhammad est avec moi. » Et la porte s'ouvrait.
+
+Cette nuit-là, Allah offrit un cadeau à la communauté de Muhammad : la prière. Au début, il y en avait cinquante. Le Prophète demanda encore et encore à son Seigneur de les alléger, jusqu'à ce qu'il en reste cinq, qui valent autant que cinquante.
+
+Puis le Prophète entra dans la Jannah. Il y vit des perles, et il vit que sa terre était de musc.[^4]
+
+Réfléchis : la prière que nous faisons chaque jour nous a été donnée la nuit où le Prophète a vu la terre de la Jannah. Quand nous nous prosternons, nous posons le front sur la terre, et nous demandons à Allah la Jannah.
+
+<!-- retelling:end -->
+
+<!-- story:end -->
+
+<!-- unit:end -->
+
+<!-- unit:start id="4-7.questions" kind="questions" -->
+
+### Questions Courtes
+
+1. Qu'est-ce que Yahya a vu près du toboggan ?
+2. Pourquoi Yahya n'a-t-il pas touché le verre ? Qui l'a ramassé ?
+3. Qu'a vu le Prophète, paix et bénédictions sur lui, dans la Jannah ? De quoi est faite sa terre ?
+4. Quel cadeau Allah nous a-t-Il fait cette nuit-là ?
+
+<!-- unit:end -->
+
+<!-- unit:start id="4-7.activity" kind="activity" -->
+
+### Activité : De La Poussière Du Chemin À La Terre De Musc
+
+<!-- activity:start audience="4-7" concept_id="lesson.036.activity.clear-the-path-sense-the-soil" -->
+
+Avec Papa ou Maman, mets un peu de terre du jardin dans une assiette. Touche-la du doigt, sens-la : est-elle douce ? Sent-elle bon ? Puis Papa ou Maman met une goutte de musc, ou d'un bon parfum, sur un papier pour que tu la sentes, et te dit : « La terre de la Jannah, c'est du musc. » Ensuite, sortez devant la maison ou au jardin, et montre du doigt ce qui peut faire du mal aux gens : une pierre sur le chemin, un papier, une branche. Papa ou Maman l'enlève, ou toi-même si ce n'est pas dangereux. Puis dessine le chemin tout propre.
+
+<!-- activity:end -->
+
+<!-- unit:end -->
+
+<!-- unit:start id="4-7.bedtime-dua" kind="bedtime_dua" -->
+
+### Du'a Avant De Dormir
+
+<!-- bedtime-dua:start audience="4-7" id="lesson.036.dua.steps-on-earth-inherit-musk-land" provenance="lesson_authored" source_id="" attribution="not_prophetic" -->
+
+**Du'a thématique composée pour cette leçon ; non attribuée au Prophète, paix et bénédictions sur lui.**
+
+> اللَّهُمَّ اجْعَلْ خُطَانَا عَلَى الْأَرْضِ فِي طَاعَتِكَ، وَأَوْرِثْنَا أَرْضَ الْجَنَّةِ الَّتِي تُرَابُهَا الْمِسْكُ، بِرَحْمَتِكَ يَا أَرْحَمَ الرَّاحِمِينَ.
+
+Ce qui veut dire, tout simplement : *« Ô Allah, aide-nous à marcher sur la terre en faisant le bien, et fais-nous entrer dans la Jannah, où la terre a le doux parfum du musc. »*
+
+<!-- bedtime-dua:end -->
+
+<!-- unit:end -->
+
+<!-- reader:end -->
+
+---
+
+## Pour Les Enfants De 8 À 12 Ans
+
+<!-- reader:start audience="8-12" estimated_minutes="6.0" -->
+
+<!-- unit:start id="8-12.explanation" kind="explanation" -->
+
+Ici-bas, la terre change d'un endroit à l'autre : rouge, noire, sableuse, argileuse, parfois jonchée de déchets. La terre de la Jannah, le Coran nous dit que les croyants en hériteront : « Louange à Allah, qui a tenu Sa promesse envers nous et nous a fait hériter la terre ; nous nous installons dans la Jannah où bon nous semble. »[^1] L'exégète as-Sa'di précise : « c'est-à-dire la terre de la Jannah ».[^2] Et quand Ibn Sayyad interrogea le Prophète, paix et bénédictions sur lui, sur le sol de la Jannah, il répondit : « Une fine farine blanche, un musc pur. »[^5]
+
+<!-- unit:end -->
+
+<!-- unit:start id="8-12.primary-story" kind="primary_story" -->
+
+### Histoire Pédagogique Imaginaire : Salma Et Le Coin Oublié
+
+<!-- story:start audience="8-12" role="primary" type="creative" source_id="lesson-authored:lesson.036.primary" authenticated="false" -->
+
+**Ceci est une histoire pédagogique imaginaire, et non un hadith ni un récit historique.**
+
+Concours à l'école : « le plus beau carré potager » ! La photo du gagnant paraîtrait dans le journal. Salma, en CM2, faisait partie du club jardinage avec trois camarades.
+
+« Plantons dans le carré de devant, près du portail, proposa Lina. La terre est prête, et tout le monde verra notre photo ! »
+
+Mais Salma pensait au coin du fond de la cour, près de l'allée des cars : emballages, canettes, pierres coupantes… La semaine d'avant, un petit y avait trébuché et s'était écorché le genou.
+
+« Et si on nettoyait le coin du fond pour y planter ? » Lina éclata de rire : « Personne ne le verra ! Et on ne gagnera pas. »
+
+Le soir, Salma lisait avec sa mère le hadith de l'Ascension, dans le Sahih d'al-Bukhari. Elle s'arrêta sur la fin : « Puis on me fit entrer dans la Jannah : il s'y trouvait des rangs de perles, et voici que sa terre était de musc. »[^4] Sa mère lui lut un autre hadith : le Prophète, paix et bénédictions sur lui, vit un homme jouir de la Jannah grâce à un arbre qui gênait les gens et qu'il avait coupé en plein chemin.[^8]
+
+« Alors nettoyer un chemin, ça peut mener à la Jannah ? » — « C'est ce que montre le hadith, répondit sa mère. Et l'essentiel, c'est l'intention pour Allah. »
+
+Le lendemain, Salma convainquit deux camarades ; Lina garda le carré de devant. Gantées, sous l'œil de la maîtresse, les filles remplirent des sacs de déchets et de pierres coupantes. La terre, grise et dure, puait les vieilles canettes. « Imagine si c'était du musc ! » lança l'une d'elles. Elles éclatèrent de rire.
+
+Elles ajoutèrent du compost et plantèrent menthe et basilic.
+
+Le jour des résultats, le carré de devant gagna. Salma fut un peu déçue. Mais Monsieur Sa'id, l'agent d'entretien, vint la trouver : « Depuis deux ans, je nettoie ce coin tout seul. Merci. » Et le petit passa en courant dans l'allée, sans trébucher.
+
+Dans son carnet, Salma écrivit : « Le coin que personne ne voit, Allah le voit. »
+
+<!-- story:end -->
+
+<!-- unit:end -->
+
+<!-- unit:start id="8-12.authenticated-story" kind="authenticated_story" -->
+
+### Un Hadith Authentique : De La Mecque À La Jannah En Une Nuit
+
+<!-- story:start audience="8-12" role="authenticated" type="hadith" source_id="bukhari-349" authenticated="true" -->
+
+<!-- retelling:start source_id="bukhari-349" audience="8-12" -->
+
+**Histoire vraie rapportée par Abu Dharr, qu'Allah soit satisfait de lui, d'après le Prophète, paix et bénédictions sur lui, dans le Sahih d'al-Bukhari ; ce n'est pas une histoire inventée.**
+
+Le Prophète, paix et bénédictions sur lui, raconte qu'il était chez lui, à La Mecque, quand le toit s'ouvrit. Jibril, paix sur lui, descendit, lui ouvrit la poitrine, la lava avec l'eau de Zamzam, la remplit de sagesse et de foi versées d'une bassine d'or, puis la referma. Puis il le prit par la main et l'éleva au ciel le plus proche.
+
+Jibril dit au gardien du ciel : « Ouvre. » — « Qui est là ? » — « Jibril. » — « Quelqu'un est avec toi ? » — « Oui, Muhammad. » — « L'a-t-on envoyé chercher ? » — « Oui. » Il s'éleva ensuite à travers les cieux, où Adam, Idris, Musa, 'Isa et Ibrahim, sur eux la paix, lui souhaitèrent la bienvenue.
+
+Allah prescrivit à sa communauté cinquante prières. Quand il passa auprès de Musa, celui-ci lui dit : « Retourne auprès de ton Seigneur : ta communauté n'en sera pas capable. » Il y retourna, encore et encore, jusqu'à ce qu'Allah dise : « Elles sont cinq, et elles sont cinquante » — cinq prières, chacune valant dix. Le Prophète dit alors : « J'éprouve désormais de la pudeur devant mon Seigneur. »
+
+Puis il parvint au Lotus de la Limite, couvert de couleurs qu'il ne savait nommer. Enfin, on le fit entrer dans la Jannah : il s'y trouvait des perles, et voici que sa terre était de musc.[^4]
+
+Remarque : tout est grandiose dans ce voyage, et à la fin, on apprend que la terre de la Jannah n'est pas une poussière qui salit, mais un parfum qui réjouit.
+
+<!-- retelling:end -->
+
+<!-- story:end -->
+
+<!-- unit:end -->
+
+<!-- unit:start id="8-12.terms" kind="terms" -->
+
+<!-- terminology:start source_id="bukhari-349" -->
+
+- **`Le Lotus de la Limite (Sidrat al-Muntaha)`** — un arbre immense du ciel, où parvint le Prophète, paix et bénédictions sur lui, la nuit de l'Ascension.
+- **`Le darmak (ad-darmak)`** — la farine blanche, fine et pure ; le sol de la Jannah lui est comparé pour sa blancheur et sa douceur.[^9]
+- **`Les graviers (al-hasba')`** — les petits cailloux ; selon un hadith à la chaîne discutée, ceux de la Jannah sont perles et rubis.[^6]
+
+<!-- terminology:end -->
+
+<!-- unit:end -->
+
+<!-- unit:start id="8-12.questions" kind="questions" -->
+
+### Questions De Compréhension Et De Réflexion
+
+1. Pourquoi Salma a-t-elle choisi le coin du fond, sachant qu'il ne gagnerait pas ?
+2. Qu'a dit Monsieur Sa'id ? Qu'est-ce qui a changé dans l'allée ?
+3. Remets dans l'ordre les étapes de l'Ascension : la prière, l'entrée dans la Jannah, la poitrine lavée, les portes du ciel.
+4. Quelles sont les trois qualités du sol de la Jannah dans « Une fine farine blanche, un musc pur » ?
+5. Quel est le coin oublié de ton école ou de ton quartier ?
+
+<!-- unit:end -->
+
+<!-- unit:start id="8-12.activity" kind="activity" -->
+
+### Activité : De La Poussière Du Chemin À La Terre De Musc
+
+<!-- activity:start audience="8-12" concept_id="lesson.036.activity.clear-the-path-sense-the-soil" -->
+
+Trace un tableau de trois lignes : couleur, texture, odeur. Prélève un peu de terre d'un jardin ou d'une cour et note tes observations dans la colonne « Terre d'ici-bas » ; dans la colonne « Terre de la Jannah », écris le mot du hadith : « blanche », « fine farine » (*darmakah*), « musc pur ». Puis choisis avec un parent ou ton enseignant un espace partagé où se trouve une nuisance (allée, cour, entrée d'immeuble) ; photographie-le ou dessine-le avant et après l'avoir débarrassé, avec des gants et sous la surveillance d'un adulte. Écris deux phrases : qu'as-tu retiré ? Qui peut désormais passer en sécurité ?
+
+<!-- activity:end -->
+
+<!-- unit:end -->
+
+<!-- unit:start id="8-12.bedtime-dua" kind="bedtime_dua" -->
+
+### Du'a Avant De Dormir
+
+<!-- bedtime-dua:start audience="8-12" id="lesson.036.dua.steps-on-earth-inherit-musk-land" provenance="lesson_authored" source_id="" attribution="not_prophetic" -->
+
+**Du'a thématique composée pour cette leçon ; non attribuée au Prophète, paix et bénédictions sur lui.**
+
+> اللَّهُمَّ اجْعَلْ خُطَانَا عَلَى الْأَرْضِ فِي طَاعَتِكَ، وَأَوْرِثْنَا أَرْضَ الْجَنَّةِ الَّتِي تُرَابُهَا الْمِسْكُ، بِرَحْمَتِكَ يَا أَرْحَمَ الرَّاحِمِينَ.
+
+Ce qui veut dire : *« Ô Allah, que chacun de nos pas sur la terre soit dans Ton obéissance ; compte-nous parmi les héritiers de la terre de la Jannah, dont la poussière est de musc, par Ta miséricorde et non par nos seules œuvres. »*
+
+<!-- bedtime-dua:end -->
+
+<!-- unit:end -->
+
+<!-- reader:end -->
+
+---
+
+## Pour Les Adolescents, 13 Ans Et Plus
+
+<!-- reader:start audience="13+" estimated_minutes="6.5" -->
+
+<!-- unit:start id="13+.explanation" kind="explanation" -->
+
+Ici-bas, la terre est l'un des premiers sujets de discorde : bornes, mètres carrés, héritages qui brisent les liens du sang. Et quiconque « possède » un terrain finira un jour par le laisser derrière lui. Les croyants, eux, louent leur Seigneur dans la Jannah parce qu'Il les a fait « hériter la terre ; nous nous installons dans la Jannah où bon nous semble » :[^1] une terre sans bornes à se disputer, où l'on s'établit là où l'on veut, comme l'explique as-Sa'di.[^2] Et le Prophète, paix et bénédictions sur lui, a décrit son sol : « Une fine farine blanche, un musc pur. »[^5]
+
+<!-- unit:end -->
+
+<!-- unit:start id="13+.primary-story" kind="primary_story" -->
+
+### Histoire Pédagogique Imaginaire : Khalid Et Le Mètre De Terre
+
+<!-- story:start audience="13+" role="primary" type="creative" source_id="lesson-authored:lesson.036.primary" authenticated="false" -->
+
+**Ceci est une histoire pédagogique imaginaire, et non un hadith ni un récit historique.**
+
+Le grand-père de Khalid avait laissé un petit terrain agricole, partagé entre son père et son oncle. Des années plus tard, l'oncle bâtit un mur qui, selon le père de Khalid, empiétait d'un mètre entier sur sa part. Depuis ce jour, un mètre de terre pesait plus lourd que vingt ans de fraternité.
+
+Khalid a quinze ans. Dans le groupe familial, sur le téléphone, son cousin Yusuf posta un message furieux, avec un mot blessant contre le père de Khalid. Les messages privés affluèrent : « Réponds-lui ! Ton père a raison ! » Et son ami écrivit : « Si tu te tais, t'es un faible. »
+
+Khalid tapa une réponse cinglante, le pouce au-dessus de « Envoyer ». Puis il s'arrêta. Il se souvint que sa grand-mère lisait le groupe tous les soirs, et qu'elle avait pleuré la dernière fois que ses deux fils s'étaient disputés.
+
+Khalid effaça sa réponse, sans savoir quoi faire d'autre que se taire.
+
+Ce soir-là, au cours de la mosquée, l'imam récita : « Et ils diront : “Louange à Allah, qui a tenu Sa promesse envers nous et nous a fait hériter la terre…” », puis il dit : « C'est la terre de la Jannah, et c'est le seul héritage que ses héritiers ne se disputent pas. » Ensuite, il cita le hadith de l'homme que le Prophète, paix et bénédictions sur lui, avait vu jouir des délices de la Jannah grâce à un arbre qu'il avait coupé en plein chemin et qui faisait du tort aux gens.[^8]
+
+Khalid pensa au canal d'irrigation commun aux deux terrains : les deux familles s'en servaient, mais personne ne l'entretenait plus depuis la dispute. Il était envahi d'épines et de déchets, et l'eau débordait sur le chemin de terre que sa grand-mère empruntait pour rentrer chez elle.
+
+Le vendredi, Khalid prit une pelle et un sac, et y alla seul. Au bout d'une heure, Yusuf arriva et resta à l'écart. « Qu'est-ce que tu fais ? Ce n'est pas ta terre. » Khalid répondit : « Ni la tienne. C'est le chemin de notre grand-mère. » Yusuf se tut, puis prit le sac et se mit à ramasser.
+
+La dispute n'était pas finie : l'affaire du mur était toujours devant le tribunal, et le père de Khalid était toujours en colère. Mais Yusuf supprima son message du groupe et écrivit : « Désolé pour le mot. » Et le soir, la grand-mère envoya une photo du canal tout propre, avec, en dessous : « Al-hamdu lillah. »
+
+Dans son journal, Khalid écrivit : « Réparer le mur, ce n'est pas en mon pouvoir. Nettoyer le chemin, si. Et refuser de vendre ma langue pour un mètre de terre. »
+
+<!-- story:end -->
+
+<!-- unit:end -->
+
+<!-- unit:start id="13+.authenticated-story" kind="authenticated_story" -->
+
+### Un Hadith Authentique : Le Voyage Qui S'acheva Sur Une Terre De Musc
+
+<!-- story:start audience="13+" role="authenticated" type="hadith" source_id="bukhari-349" authenticated="true" -->
+
+<!-- retelling:start source_id="bukhari-349" audience="13+" -->
+
+**Ceci est un récit véridique, rapporté par Abu Dharr, qu'Allah soit satisfait de lui, d'après le Prophète, paix et bénédictions sur lui, dans le Sahih d'al-Bukhari. Ce n'est pas une scène imaginée.**
+
+Le Prophète, paix et bénédictions sur lui, raconte que le toit de sa maison, à La Mecque, s'ouvrit ; Jibril descendit, lui ouvrit la poitrine, la lava avec l'eau de Zamzam et y versa sagesse et foi, puis l'éleva vers le ciel. Chaque porte ne s'ouvrait qu'après une question : « Qui est avec toi ? L'a-t-on envoyé chercher ? » Dans les cieux, il rencontra Adam, Idris, Musa, 'Isa et Ibrahim, sur eux la paix. Puis cinquante prières furent prescrites ; sur le conseil de Musa, il retourna demander à son Seigneur de les alléger, jusqu'à ce qu'elles soient cinq, et Allah dit : « Elles sont cinq, et elles sont cinquante ; la Parole ne se modifie pas auprès de Moi. » Le Prophète dit alors : « J'éprouve désormais de la pudeur devant mon Seigneur. » Puis il parvint au Lotus de la Limite, recouvert de couleurs qu'il ne sut nommer, et on le fit entrer dans la Jannah : « il s'y trouvait des rangs de perles, et voici que sa terre était de musc ».[^4]
+
+Médite : au cours d'un seul voyage, le Prophète a vu la terre de la Jannah et nous a rapporté la prière. La terre de la Jannah, on la voit à travers l'information véridique, et on la recherche par la prosternation sur la terre d'ici-bas. Et quand, ici-bas, la terre devient une cause de rupture, souviens-toi que la seule terre qui mérite qu'on la désire est la terre de musc.
+
+<!-- retelling:end -->
+
+<!-- story:end -->
+
+<!-- unit:end -->
+
+<!-- unit:start id="13+.terms" kind="terms" -->
+
+<!-- terminology:start source_id="bukhari-349" -->
+
+- **`Les rangs de perles (habayil al-lu'lu')`** — c'est la leçon de cette version ; une autre version porte *janabidh al-lu'lu'*, c'est-à-dire des coupoles de perles.[^9]
+- **`Nous nous installons (natabawwa')`** — nous descendons et demeurons là où nous le voulons, selon l'explication d'as-Sa'di.[^2]
+
+<!-- terminology:end -->
+
+<!-- unit:end -->
+
+<!-- unit:start id="13+.questions" kind="questions" -->
+
+### Questions De Discussion
+
+1. Pourquoi la pression sur Khalid pour qu'il réponde était-elle si forte ? Son silence était-il une faiblesse ?
+2. Quelle différence y a-t-il entre « réparer le mur » et « nettoyer le chemin » ? Lequel des deux était au pouvoir de Khalid ?
+3. Qu'est-ce qui a poussé Yusuf à s'excuser à la fin, alors que la dispute n'était pas terminée ?
+4. Comment le verset « et nous a fait hériter la terre » change-t-il ton regard sur les disputes autour de la terre d'ici-bas ?
+5. Quel est, dans ta vie, le chemin commun dont personne ne prend soin ?
+
+<!-- unit:end -->
+
+<!-- unit:start id="13+.activity" kind="activity" -->
+
+### Activité : De La Poussière Du Chemin À La Terre De Musc
+
+<!-- activity:start audience="13+" concept_id="lesson.036.activity.clear-the-path-sense-the-soil" -->
+
+Prends un échantillon de terre d'un endroit que tu connais, et note avec précision sa couleur, sa texture et son odeur ; en face de chaque observation, écris la description établie du sol de la Jannah, puis une phrase sur ce que révèle cet écart. Ensuite, choisis un « chemin commun » qui n'appartient à personne et dont personne ne prend soin : une allée du quartier, la cour de la mosquée, ou un espace que deux familles partagent. Retires-en une nuisance réelle dans la semaine, sans le publier sur les réseaux sociaux. Enfin, écris un paragraphe personnel : qui en profite ? Et qu'as-tu appris sur la seule terre qui vaille qu'on rivalise pour elle ?
+
+<!-- activity:end -->
+
+<!-- unit:end -->
+
+<!-- unit:start id="13+.bedtime-dua" kind="bedtime_dua" -->
+
+### Du'a Avant De Dormir
+
+<!-- bedtime-dua:start audience="13+" id="lesson.036.dua.steps-on-earth-inherit-musk-land" provenance="lesson_authored" source_id="" attribution="not_prophetic" -->
+
+**Du'a thématique composée pour cette leçon ; non attribuée au Prophète, paix et bénédictions sur lui.**
+
+> اللَّهُمَّ اجْعَلْ خُطَانَا عَلَى الْأَرْضِ فِي طَاعَتِكَ، وَأَوْرِثْنَا أَرْضَ الْجَنَّةِ الَّتِي تُرَابُهَا الْمِسْكُ، بِرَحْمَتِكَ يَا أَرْحَمَ الرَّاحِمِينَ.
+>
+> *« Ô Allah, fais que nos pas sur la terre soient dans Ton obéissance, et fais-nous hériter la terre de la Jannah dont la poussière est de musc, par Ta miséricorde, ô le plus Miséricordieux des miséricordieux. »*
+
+Cette invocation réunit les deux terres : celle sur laquelle nous marchons aujourd'hui, où nous demandons à Allah que nos pas soient d'obéissance et non de querelle, et celle que nous espérons recevoir en héritage. Et sa conclusion par la miséricorde rappelle que cet héritage est une grâce d'Allah, même si les œuvres en sont la cause.
+
+<!-- bedtime-dua:end -->
+
+<!-- unit:end -->
+
+<!-- reader:end -->
+
+---
+
+## Plans D'enseignement Détaillés
+
+<!-- lesson-plan:start audience="adults" minutes="60" -->
+
+### Les Adultes — 60 Minutes
+
+<!-- lesson-plan:outcomes -->
+**Résultats d'apprentissage :** l'apprenant récite le verset d'az-Zumar (39:74) et cite l'interprétation de « la terre » comme étant la terre de la Jannah, ainsi que ceux qui l'ont soutenue ; il raconte le hadith d'al-Bukhari 349 dans ses grandes étapes jusqu'à « sa terre était de musc » ; il explique les qualités décrites dans le hadith de Muslim 2928 et la manière dont Ibn al-Qayyim concilie le musc et le safran ; il expose pourquoi le hadith d'at-Tirmidhi 2526 est un témoignage d'appui et non une preuve principale ; et il débarrasse réellement un espace partagé d'une nuisance.
+
+<!-- lesson-plan:materials -->
+**Matériel :** une copie de la leçon ; un Coran ; pour chaque groupe, un récipient contenant de la terre de jardin ; un petit morceau de musc ou un bon parfum ; un tableau à deux colonnes : « Terre d'ici-bas » et « Terre de la Jannah » ; des gants et des sacs pour l'activité de terrain.
+
+<!-- lesson-plan:preparation -->
+**Préparation :** l'enseignant révise le tafsir d'as-Sa'di et celui d'Ibn Kathir sur az-Zumar (39:74), le chapitre XXXIV de *Hadi al-Arwah* avec les notes de l'éditeur critique, les deux versions de Muslim 2928, et le hadith de Muslim 162 qui explique « Elles sont cinq, et elles sont cinquante ». Il repère à l'avance un lieu sûr et proche pour l'activité.
+
+<!-- lesson-plan:opening -->
+**Ouverture — 5 minutes :** l'enseignant fait circuler le récipient de terre, puis le musc, et demande : « Si l'on vous disait que la terre d'un certain pays est du musc, qu'en concluriez-vous sur ce pays tout entier ? »
+
+<!-- lesson-plan:evidence -->
+**Étude des preuves — 20 minutes :** réciter le verset d'az-Zumar et lire les propos d'as-Sa'di et d'Ibn Kathir. Lire ensuite le hadith d'al-Bukhari 349 en entier, tel qu'il figure dans la leçon, en signalant l'endroit de la coupure indiquée entre crochets et ce qui y est résumé, ainsi que la version « coupoles (*janabidh*) ». Puis le hadith de Muslim 2928 dans ses deux versions, le hadith d'at-Tirmidhi avec l'explication de la divergence sur sa chaîne, et enfin le hadith de Muslim 1914. Les apprenants remplissent le tableau.
+
+<!-- lesson-plan:instruction -->
+**Enseignement guidé — 10 minutes :** l'enseignant ouvre la discussion sur deux questions : pourquoi la vision de la terre de la Jannah est-elle survenue la nuit même où la prière fut prescrite ? Et comment distinguer, dans une même leçon, la preuve principale du témoignage dont l'authenticité est discutée, sans écarter l'un ni surévaluer l'autre ?
+
+<!-- lesson-plan:activity -->
+**Activité — 15 minutes :** les apprenants réalisent la partie « observation » de l'activité « De la poussière du chemin à la terre de musc », telle que décrite dans l'unité d'activité, et chacun fixe le lieu, la nuisance et le moment de son intervention dans les trois jours.
+
+<!-- lesson-plan:assessment -->
+**Évaluation et clôture — 10 minutes :** chaque apprenant écrit les descriptions établies du sol de la Jannah avec la source de chacune, et une phrase sur le statut du hadith des graviers. On conclut en invitant chacun à partager ses deux lignes au bout de trois jours.
+
+<!-- lesson-plan:differentiation -->
+**Différenciation :** pour les débutants, s'en tenir au verset d'az-Zumar et aux deux hadiths d'al-Bukhari et de Muslim ; demander aux apprenants avancés de lire les trois manières de concilier les descriptions chez Ibn al-Qayyim, et de comparer le jugement d'at-Tirmidhi à ceux d'al-Albani et d'Ahmad Shakir.
+
+<!-- lesson-plan:safeguards -->
+**Précautions pédagogiques :** l'information sur l'Invisible se reçoit avec soumission, sans chercher à en définir la modalité ni à la mesurer à la terre d'ici-bas. Le hadith d'at-Tirmidhi n'est pas présenté comme preuve principale. *Hadi al-Arwah* contient d'autres récits sur lesquels la leçon ne s'appuie pas : le hadith « La terre de la Jannah est blanche, son esplanade est faite de rochers de camphre » a une chaîne très faible, et l'éditeur critique a jugé forgé le hadith « sa terre est d'or pur (*'iqyan*) ».[^7] On ne s'attarde pas sur Ibn Sayyad au point de s'éloigner du sujet de la leçon. Pendant l'activité de terrain, on ne touche jamais à main nue le verre ou les objets coupants, et l'on n'entre pas sur la propriété d'autrui sans permission.
+
+<!-- lesson-plan:end -->
+
+<!-- lesson-plan:start audience="4-7" minutes="25" -->
+
+### Les Enfants De 4 À 7 Ans — 25 Minutes
+
+<!-- lesson-plan:outcomes -->
+**Résultats d'apprentissage :** l'enfant dit que la terre de la Jannah est du musc, que le Prophète, paix et bénédictions sur lui, l'a vue la nuit de l'Ascension, et que la prière nous a été donnée cette nuit-là ; il montre une nuisance sur un chemin et demande de l'aide pour l'enlever sans danger ; il répète l'invocation de la leçon.
+
+<!-- lesson-plan:materials -->
+**Matériel :** une assiette contenant de la terre ; un coton imprégné de musc ou d'un bon parfum ; une feuille de dessin et des crayons de couleur ; une vieille chaussure tachée de boue, à montrer ; la carte du du'a.
+
+<!-- lesson-plan:preparation -->
+**Préparation :** l'éducateur s'exerce à raconter l'histoire de Yahya, vérifie que l'assiette ne contient rien de coupant, et prépare une image simple d'un chemin où se trouvent une pierre et une branche.
+
+<!-- lesson-plan:opening -->
+**Ouverture — 3 minutes :** l'éducateur montre à l'enfant la chaussure pleine de boue et demande : « D'où vient cette boue ? Est-ce qu'elle sent bon ? »
+
+<!-- lesson-plan:evidence -->
+**Lecture du récit — 7 minutes :** raconter l'histoire de Yahya, puis dire : « Et maintenant, voici une histoire vraie, racontée par le Prophète, paix et bénédictions sur lui » ; raconter l'Ascension telle qu'elle figure dans la leçon, d'une voix calme, en s'arrêtant sur « sa terre était de musc » pour faire sentir le coton.
+
+<!-- lesson-plan:instruction -->
+**Enseignement guidé — 4 minutes :** l'éducateur répète avec l'enfant : « La terre de la Jannah, c'est du musc », « La prière, c'est le cadeau de cette nuit-là », « Si je vois quelque chose de dangereux sur le chemin, je préviens un grand ».
+
+<!-- lesson-plan:activity -->
+**Activité — 8 minutes :** l'enfant réalise l'activité de l'assiette et du musc, puis fait un petit tour devant la maison, comme indiqué dans l'unité d'activité, et dessine le chemin tout propre.
+
+<!-- lesson-plan:assessment -->
+**Évaluation et clôture — 3 minutes :** demander à l'enfant : « De quoi est faite la terre de la Jannah ? » et « Que fais-tu si tu vois du verre ? », puis lire l'invocation et son sens.
+
+<!-- lesson-plan:differentiation -->
+**Différenciation :** pour les plus jeunes, se contenter de sentir, de toucher et de dessiner ; les plus grands remettent dans l'ordre trois images : la maison à La Mecque, le ciel, la Jannah.
+
+<!-- lesson-plan:safeguards -->
+**Précautions pédagogiques :** l'enfant ne touche jamais le verre ni les objets coupants : il prévient un adulte. On ne dessine ni le Prophète, paix et bénédictions sur lui, ni Jibril, ni les prophètes. On n'entre pas dans les détails de la poitrine ouverte, pour ne pas effrayer l'enfant : « il lava son cœur avec l'eau de Zamzam » suffit. On tient compte des enfants allergiques aux parfums.
+
+<!-- lesson-plan:end -->
+
+<!-- lesson-plan:start audience="8-12" minutes="40" -->
+
+### Les Enfants De 8 À 12 Ans — 40 Minutes
+
+<!-- lesson-plan:outcomes -->
+**Résultats d'apprentissage :** l'élève remet dans l'ordre les grandes étapes de l'Ascension et dit que la terre de la Jannah est du musc ; il explique les qualités contenues dans « Une fine farine blanche, un musc pur » ; il cite le hadith de l'arbre coupé en plein chemin ; et il débarrasse un lieu d'une nuisance, sous la surveillance d'un adulte, en gardant une trace de son action.
+
+<!-- lesson-plan:materials -->
+**Matériel :** le texte des deux hadiths, écrit ; des cartes des étapes de l'Ascension à remettre dans l'ordre ; des échantillons de terre dans des sachets transparents ; le tableau d'observation ; des gants.
+
+<!-- lesson-plan:preparation -->
+**Préparation :** l'enseignant écrit les étapes de l'Ascension sur six cartes, et choisit avec la direction de l'école un coin sûr à nettoyer.
+
+<!-- lesson-plan:opening -->
+**Ouverture — 5 minutes :** l'enseignant demande : « Quel est l'endroit le plus négligé de notre école ? Pourquoi personne n'en prend-il soin ? »
+
+<!-- lesson-plan:evidence -->
+**Étude des preuves — 10 minutes :** réciter le verset d'az-Zumar et lire l'explication d'as-Sa'di ; raconter ensuite l'Ascension pendant que les élèves remettent les cartes dans l'ordre ; puis lire le hadith de Muslim sur le sol de la Jannah et expliquer les termes.
+
+<!-- lesson-plan:instruction -->
+**Enseignement guidé — 10 minutes :** lire l'histoire de Salma ; l'enseignant s'arrête sur la phrase de Lina, « Personne ne le verra ! », et demande : « Qui voit le travail que les gens ne voient pas ? » ; puis il fait le lien avec le hadith de l'arbre.
+
+<!-- lesson-plan:activity -->
+**Activité — 10 minutes :** les élèves remplissent le tableau d'observation comme indiqué dans l'unité d'activité, et planifient, sous la surveillance de l'enseignant, le nettoyage du coin choisi.
+
+<!-- lesson-plan:assessment -->
+**Évaluation et clôture — 5 minutes :** l'élève cite trois étapes de l'Ascension dans l'ordre et les trois qualités du sol ; on lit ensuite l'invocation. Au bout d'une semaine, on présente les photos « avant / après ».
+
+<!-- lesson-plan:differentiation -->
+**Différenciation :** pour les élèves en difficulté, donner moins de cartes et un tableau où les mots sont déjà écrits ; les plus avancés rédigent un paragraphe sur la différence entre une preuve établie et un hadith dont la chaîne est discutée.
+
+<!-- lesson-plan:safeguards -->
+**Précautions pédagogiques :** on ne demande pas aux élèves de ramasser du verre ou des matières dangereuses : ils préviennent les adultes. On ne dessine ni le Prophète, paix et bénédictions sur lui, ni Jibril, ni les prophètes. On ne se moque pas de celles qui ont choisi le carré de devant : le but est la sincérité, non le dénigrement de la victoire.
+
+<!-- lesson-plan:end -->
+
+<!-- lesson-plan:start audience="13+" minutes="45" -->
+
+### Les Adolescents, 13 Ans Et Plus — 45 Minutes
+
+<!-- lesson-plan:outcomes -->
+**Résultats d'apprentissage :** l'adolescent analyse les disputes autour de la terre d'ici-bas à la lumière du verset d'az-Zumar ; il raconte l'Ascension jusqu'à « sa terre était de musc » ; il distingue, dans un conflit, ce qui est en son pouvoir de ce qui ne l'est pas ; et il débarrasse un espace partagé d'une nuisance, sans chercher à se mettre en avant.
+
+<!-- lesson-plan:materials -->
+**Matériel :** une copie de la leçon ; des cartes présentant de courts scénarios de conflits (une limite de terrain, une place de parking, un passage commun), sans noms ; des échantillons de terre ; un carnet personnel pour chaque élève.
+
+<!-- lesson-plan:preparation -->
+**Préparation :** l'enseignant révise le tafsir d'as-Sa'di et celui d'Ibn Kathir sur le verset, prépare les scénarios, et s'assure qu'aucun ne ressemble à un conflit réel connu au sein du groupe.
+
+<!-- lesson-plan:opening -->
+**Ouverture — 5 minutes :** demander aux élèves : « Avez-vous déjà vu une dispute autour d'un terrain ou d'un lieu détruire une relation ? », sans citer de noms.
+
+<!-- lesson-plan:evidence -->
+**Étude des preuves — 12 minutes :** réciter le verset d'az-Zumar et lire les propos d'as-Sa'di et d'Ibn Kathir ; lire ensuite le récit de l'Ascension, puis le hadith de Muslim sur le sol, puis le hadith de l'arbre, et expliquer les termes.
+
+<!-- lesson-plan:instruction -->
+**Enseignement guidé — 10 minutes :** lire l'histoire de Khalid ; les groupes discutent : « Qu'est-ce qui était au pouvoir de Khalid ? Et qu'est-ce qui ne l'était pas ? » Puis ils appliquent la même question aux scénarios.
+
+<!-- lesson-plan:activity -->
+**Activité — 12 minutes :** les élèves notent leurs observations sur la terre comme indiqué dans l'unité d'activité, et chacun inscrit dans son carnet personnel son « chemin commun », la nuisance qu'il va retirer et le moment où il le fera.
+
+<!-- lesson-plan:assessment -->
+**Évaluation et clôture — 6 minutes :** l'élève complète, sur une carte anonyme : « La terre qui mérite qu'on rivalise pour elle, c'est… parce que… », puis on lit l'invocation. Une semaine plus tard, ceux qui le souhaitent partagent leur paragraphe.
+
+<!-- lesson-plan:differentiation -->
+**Différenciation :** ceux que l'écrit met mal à l'aise peuvent faire un enregistrement audio personnel ; les plus avancés comparent le jugement d'at-Tirmidhi et celui d'al-Albani sur le hadith des graviers.
+
+<!-- lesson-plan:safeguards -->
+**Précautions pédagogiques :** on ne demande à aucun élève de révéler un conflit familial réel. L'histoire ne signifie pas que réclamer un droit légitime soit une faute : ce qu'il faut abandonner, c'est l'offense et la rupture des liens. Un élève dont il apparaît qu'il vit un conflit familial douloureux est orienté avec tact vers un entretien individuel. Les élèves n'entrent pas sur un terrain privé sans l'autorisation de ses propriétaires.
+
+<!-- lesson-plan:end -->
+
+---
+
+<!-- references:start -->
 
 ## Références
 
-[^1]: Coran, sourate al-Isra' 17:1, https://quran.com/17/1
-[^2]: Sahih al-Bukhari 349, comprenant le récit où le Prophète, paix et bénédictions sur lui, entra au Jannah pendant al-Isra' wal-Mi'raj, vit des coupoles de perles et mentionna la terre du Jannah, https://sunnah.com/bukhari:349
-[^3]: Umar Sulayman al-Ashqar, `al-Jannah wa an-Nar`, section sur la terre du Jannah, https://shamela.ws/book/12714/146
-[^4]: Ibn al-Qayyim, `Hadi al-Arwah ila Bilad al-Afrah`, chapitre sur la terre, l'argile, les cailloux et la construction du Jannah, https://shamela.ws/book/13652/333
+[^1]: Le Noble Coran, sourate az-Zumar, verset 74 : [quran.com/39/74](https://quran.com/39/74). La traduction française proposée dans cette leçon est une traduction du sens propre au projet.
+[^2]: As-Sa'di, *Taysir al-Karim ar-Rahman fi Tafsir Kalam al-Mannan*, tafsir de la sourate az-Zumar, verset 74 : [quran.ksu.edu.sa/tafseer/saadi/sura39-aya74.html](https://quran.ksu.edu.sa/tafseer/saadi/sura39-aya74.html).
+[^3]: Ibn Kathir, *Tafsir al-Qur'an al-'Azim*, tafsir de la sourate az-Zumar, verset 74, où l'interprétation de « la terre » comme terre de la Jannah est attribuée à Abu al-'Aliyah, Abu Salih, Qatadah, as-Suddi et Ibn Zayd, et où sont cités le hadith de l'Ascension et le hadith du sol de la Jannah : [quran.ksu.edu.sa/tafseer/katheer/sura39-aya74.html](https://quran.ksu.edu.sa/tafseer/katheer/sura39-aya74.html).
+[^4]: Sahih al-Bukhari, Livre de la prière, chapitre « Comment la prière fut prescrite lors du Voyage nocturne », hadith 349, rapporté par Anas ibn Malik d'après Abu Dharr, qu'Allah soit satisfait d'eux ; le récit de la prescription de la prière y figure d'après Ibn Hazm et Anas ibn Malik ; hadith authentique : [sunnah.com/bukhari:349](https://sunnah.com/bukhari:349). Le texte (*matn*) est donné sans la chaîne de transmission ; un passage, signalé entre crochets, en a été retranché (l'élévation à travers les cieux et l'accueil des prophètes, ainsi que la phrase « Puis il m'éleva jusqu'à ce que je parvienne à un niveau où j'entendais le grincement des calames », rapportée d'après Ibn 'Abbas et Abu Habbah) ; cette coupure ne modifie en rien le sens de ce qui concerne la leçon. La version « coupoles (*janabidh*) de perles » se trouve dans Sahih al-Bukhari, hadith 3342 : [sunnah.com/bukhari:3342](https://sunnah.com/bukhari:3342), et dans Sahih Muslim, hadith 163 : [sunnah.com/muslim:163](https://sunnah.com/muslim:163). L'explication de « Elles sont cinq, et elles sont cinquante » provient de Sahih Muslim, hadith 162 (d'après Thabit, d'après Anas) : [sunnah.com/muslim:162a](https://sunnah.com/muslim:162a).
+[^5]: Sahih Muslim, Livre des troubles et des signes de l'Heure, chapitre de la mention d'Ibn Sayyad, hadith 2928 (seconde version, par la voie d'Abu Usamah, d'après al-Jurayri, d'après Abu Nadrah, d'après Abu Sa'id al-Khudri) ; hadith authentique : [sunnah.com/muslim:2928b](https://sunnah.com/muslim:2928b). La première version (par la voie d'Abu Maslamah, d'après Abu Nadrah) rapporte que c'est le Prophète, paix et bénédictions sur lui, qui interrogea Ibn Sa'id (Ibn Sayyad) ; celui-ci répondit, et le Prophète lui dit : « Tu as dit vrai » : [sunnah.com/muslim:2928a](https://sunnah.com/muslim:2928a).
+[^6]: Jami' at-Tirmidhi, Livre de la description de la Jannah, chapitre de la description de la Jannah et de ses délices, hadith 2526, d'après Abu Hurayrah, qu'Allah soit satisfait de lui : [sunnah.com/tirmidhi:2526](https://sunnah.com/tirmidhi:2526). Seul le passage pertinent est donné ; le début, signalé par un retranchement, a été omis (la question des Compagnons au sujet de la tendresse de leurs cœurs en présence du Prophète, paix et bénédictions sur lui, et au sujet de la matière dont la création est faite). At-Tirmidhi a dit : « La chaîne de ce hadith n'est pas si solide, et elle n'est pas, à mon sens, continue ; ce hadith a été rapporté d'Abu Hurayrah par une autre chaîne. » Ahmad Shakir et al-Albani l'ont jugé authentique par l'ensemble de ses voies, et Zubayr 'Ali Za'i l'a jugé faible. C'est pourquoi il n'a pas été retenu comme preuve principale dans cette leçon.
+[^7]: Ibn Qayyim al-Jawziyyah, *Hadi al-Arwah ila Bilad al-Afrah* (éd. 'Ata'at al-'Ilm), chapitre XXXIV : « De la mention du sol de la Jannah, de son argile, de ses graviers et de sa construction », p. 280-288, où il dit : « Voilà donc trois qualités de son sol, sans contradiction entre elles », ainsi que les manières de les concilier ; avec les notes de l'éditeur critique : le hadith d'Ahmad repose entièrement sur Abu al-Mudillah, qu'Ibn al-Madini a qualifié d'« inconnu » ; le hadith « La terre de la Jannah est blanche, son esplanade est faite de rochers de camphre » (Ibn Abi ad-Dunya) a une chaîne très faible ; et le hadith d'Ubayy ibn Ka'b « et sa terre est d'or pur (*'iqyan*) » est forgé : [shamela.ws/book/13652/333](https://shamela.ws/book/13652/333).
+[^8]: Sahih Muslim, Livre de la piété filiale, du lien de parenté et des bonnes manières, chapitre du mérite de celui qui ôte du chemin ce qui nuit, hadith 1914 (troisième version dans le Livre de la piété filiale, par la voie d'al-A'mash, d'après Abu Salih, d'après Abu Hurayrah) ; hadith authentique : [sunnah.com/muslim:1914c](https://sunnah.com/muslim:1914c). La version « Par Allah, je vais écarter ceci du chemin des musulmans, afin qu'il ne leur nuise pas ; et il fut admis dans la Jannah » est rapportée par la voie de Suhayl, d'après son père : [sunnah.com/muslim:1914b](https://sunnah.com/muslim:1914b).
+[^9]: Sur le sens de *darmak* : 'Umar Sulayman al-Ashqar, *al-Jannah wan-Nar*, quatrième section : « Le sol de la Jannah », p. 164, en note : « *Ad-darmakah* est le singulier de *ad-darmak* : c'est la farine blutée, d'une blancheur parfaite » : [shamela.ws/book/12714/146](https://shamela.ws/book/12714/146). Sur le sens de *janabidh* (pluriel de *junbudhah*, la coupole) : Ibn al-Athir, *an-Nihayah fi Gharib al-Hadith wal-Athar*, racine « j-n-b-dh ».
+
+<!-- references:end -->
