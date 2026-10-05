@@ -237,8 +237,6 @@ Dibuja una cadena de eslabones. En los eslabones de arriba, escribe símbolos de
 
 <!-- reader:end -->
 
----
-
 ## Para niños de 4 a 7 años
 
 <!-- reader:start audience="4-7" estimated_minutes="5.5" -->
@@ -338,8 +336,6 @@ Oh Allah, perdóname a mí, a mi papá y a mi mamá; guía a mi familia, y por T
 <!-- unit:end -->
 
 <!-- reader:end -->
-
----
 
 ## Para niños de 8 a 12 años
 
@@ -453,8 +449,6 @@ Significado: Oh Allah, perdóname a mí y a mis padres, guía a mi familia hacia
 
 <!-- reader:end -->
 
----
-
 ## Para adolescentes de 13+
 
 <!-- reader:start audience="13+" estimated_minutes="7.0" -->
@@ -566,8 +560,6 @@ Significado: Oh Allah, perdóname a mí y a mis padres, guía a mi familia hacia
 <!-- unit:end -->
 
 <!-- reader:end -->
-
----
 
 ## Planes de enseñanza detallados
 
@@ -714,8 +706,6 @@ Significado: Oh Allah, perdóname a mí y a mis padres, guía a mi familia hacia
 **Advertencias pedagógicas:** los cuadernos son personales y no se recogen. Si un estudiante revela maltrato o abandono en casa, no se le pide que "solo suplique", sino que se sigue el protocolo de protección aprobado por la institución. No se emite juicio sobre el destino de ningún familiar concreto, y las preguntas jurídicas particulares sobre familiares que murieron sin ser musulmanes se remiten a un sabio de confianza en una conversación individual. Y se aclara que suplicar por los padres no significa aceptar la injusticia ni renunciar a límites sanos en la relación.
 
 <!-- lesson-plan:end -->
-
----
 
 <!-- references:start -->
 

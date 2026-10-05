@@ -255,8 +255,6 @@ Dessinez un chemin à trois étapes qui aboutit à une porte portant l'inscripti
 
 <!-- reader:end -->
 
----
-
 ## Pour Les Enfants De 4 À 7 Ans
 
 <!-- reader:start audience="4-7" estimated_minutes="5.0" -->
@@ -332,8 +330,6 @@ Ce qu'elle veut dire : « Ô Allah, accepte notre retour vers Toi comme Tu as 
 <!-- unit:end -->
 
 <!-- reader:end -->
-
----
 
 ## Pour Les Enfants De 8 À 12 Ans
 
@@ -422,8 +418,6 @@ Son sens : « Ô Allah, accepte notre repentir comme Tu as accepté le repenti
 
 <!-- reader:end -->
 
----
-
 ## Pour Les Adolescents, 13 Ans Et Plus
 
 <!-- reader:start audience="13+" estimated_minutes="7.0" -->
@@ -511,8 +505,6 @@ Son sens : « Ô Allah, de même que Tu as élu Adam après son faux pas, que 
 <!-- unit:end -->
 
 <!-- reader:end -->
-
----
 
 ## Plans D'enseignement Détaillés
 
@@ -659,8 +651,6 @@ Son sens : « Ô Allah, de même que Tu as élu Adam après son faux pas, que 
 **Précautions pédagogiques :** éviter, devant des débutants, les controverses théologiques ouvertes sur les attributs, et renvoyer toute question approfondie à un entretien particulier. Ne pas demander de révéler ses péchés. Rappeler à celui qui souffre d'un sentiment de culpabilité excessif que le verset 20:122 de Ta-Ha est une porte d'espérance, et assurer un suivi individuel si nécessaire.
 
 <!-- lesson-plan:end -->
-
----
 
 <!-- references:start -->
 

@@ -239,8 +239,6 @@ bedtime_dua_id: "lesson.026.dua.repent-like-adam-dwell-in-adn"
 
 <!-- reader:end -->
 
----
-
 ## ٤ سے ٧ سال کے بچوں کے لیے
 
 <!-- reader:start audience="4-7" estimated_minutes="5.0" -->
@@ -316,8 +314,6 @@ bedtime_dua_id: "lesson.026.dua.repent-like-adam-dwell-in-adn"
 <!-- unit:end -->
 
 <!-- reader:end -->
-
----
 
 ## ٨ سے ١٢ سال کے بچوں کے لیے
 
@@ -406,8 +402,6 @@ bedtime_dua_id: "lesson.026.dua.repent-like-adam-dwell-in-adn"
 
 <!-- reader:end -->
 
----
-
 ## نوجوانوں کے لیے، ١٣+
 
 <!-- reader:start audience="13+" estimated_minutes="7.0" -->
@@ -495,8 +489,6 @@ bedtime_dua_id: "lesson.026.dua.repent-like-adam-dwell-in-adn"
 <!-- unit:end -->
 
 <!-- reader:end -->
-
----
 
 ## تفصیلی تدریسی منصوبے
 
@@ -643,8 +635,6 @@ bedtime_dua_id: "lesson.026.dua.repent-like-adam-dwell-in-adn"
 **تدریسی احتیاطیں:** ابتدائی سطح کے طلبہ کے سامنے صفات کے بارے میں کھلی کلامی بحث سے بچا جائے، اور گہرے سوال کو کسی الگ نشست کے لیے رکھا جائے۔ گناہ بتانے کو نہ کہا جائے۔ جو طالب علم گناہ کے حد سے بڑھے ہوئے احساس میں مبتلا ہو، اسے یاد دلایا جائے کہ سورۂ طٰہٰ کی آیت ١٢٢ امید کا دروازہ ہے، اور ضرورت ہو تو اس کے ساتھ الگ سے رابطہ رکھا جائے۔
 
 <!-- lesson-plan:end -->
-
----
 
 <!-- references:start -->
 

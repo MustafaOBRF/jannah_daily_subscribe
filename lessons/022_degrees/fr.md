@@ -158,8 +158,6 @@ Notez une porte du bien où quelqu'un vous devance grâce à des moyens que vous
 
 <!-- reader:end -->
 
----
-
 ## Pour les enfants de 4 à 7 ans
 
 <!-- reader:start audience="4-7" estimated_minutes="5.0" -->
@@ -235,8 +233,6 @@ Avec ton papa ou ta maman, trace le contour de tes deux mains sur une feuille. D
 <!-- unit:end -->
 
 <!-- reader:end -->
-
----
 
 ## Pour les enfants de 8 à 12 ans
 
@@ -329,8 +325,6 @@ Dessine un tableau de trois colonnes. Dans la première, écris un bien que fait
 
 <!-- reader:end -->
 
----
-
 ## Pour les adolescents, 13 ans et plus
 
 <!-- reader:start audience="13+" estimated_minutes="6.5" -->
@@ -422,8 +416,6 @@ Réserve une page pendant une semaine. Chaque fois que tu te compares à quelqu'
 <!-- unit:end -->
 
 <!-- reader:end -->
-
----
 
 ## Plans d'enseignement détaillés
 
@@ -570,8 +562,6 @@ Réserve une page pendant une semaine. Chaque fois que tu te compares à quelqu'
 **Précautions pédagogiques :** le carnet d'activité reste personnel à l'élève. On évite que l'évocation des degrés ne tourne à l'angoisse ou au sentiment d'infériorité : le but est l'effort uni au contentement. On rappelle que l'envie est une pensée passagère, qui se soigne par les du'as et par l'action, et non en s'accablant soi-même ; et l'on oriente l'élève qui montre une détresse marquée face aux comparaisons vers un entretien individuel bienveillant.
 
 <!-- lesson-plan:end -->
-
----
 
 <!-- references:start -->
 

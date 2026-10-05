@@ -162,8 +162,6 @@ bedtime_dua_id: "lesson.024.dua.inheritors-of-firdaws"
 
 <!-- reader:end -->
 
----
-
 ## للأطفال من ٤ إلى ٧ سنوات
 
 <!-- reader:start audience="4-7" estimated_minutes="6.0" -->
@@ -256,8 +254,6 @@ bedtime_dua_id: "lesson.024.dua.inheritors-of-firdaws"
 <!-- unit:end -->
 
 <!-- reader:end -->
-
----
 
 ## للأطفال من ٨ إلى ١٢ سنة
 
@@ -365,8 +361,6 @@ bedtime_dua_id: "lesson.024.dua.inheritors-of-firdaws"
 
 <!-- reader:end -->
 
----
-
 ## للمراهقين ١٣+
 
 <!-- reader:start audience="13+" estimated_minutes="6.5" -->
@@ -472,8 +466,6 @@ bedtime_dua_id: "lesson.024.dua.inheritors-of-firdaws"
 <!-- unit:end -->
 
 <!-- reader:end -->
-
----
 
 ## خطط التدريس المفصّلة
 
@@ -620,8 +612,6 @@ bedtime_dua_id: "lesson.024.dua.inheritors-of-firdaws"
 **تنبيهات التعليم:** لا يُطلب من أحد كشف مواقف تنمّر حقيقية أمام المجموعة؛ ومن أشار إلى تعرّضه لتنمّر يُحال إلى حوار فردي وإلى الجهة المسؤولة عن الحماية في المؤسسة. ويُنبَّه إلى أن الإعراض عن اللغو لا يعني احتقار الأصدقاء أو قطع العلاقات بلا حكمة.
 
 <!-- lesson-plan:end -->
-
----
 
 <!-- references:start -->
 

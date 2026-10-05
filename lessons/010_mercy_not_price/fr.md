@@ -19,12 +19,12 @@ bedtime_dua_id: "lesson.010.dua.mercy-deeds-jannah"
 
 ## Objectifs et Résultats de la Leçon
 
-Après cette leçon, l'apprenant sera capable de :
+Après cette leçon, l'apprenant sera capable de :
 
 - Distinguer l'œuvre en tant que cause prescrite de l'œuvre conçue comme un prix équivalant à la Jannah ou comme un droit que le serviteur imposerait à son Seigneur.
-- Concilier les versets `fadlan min Rabbik` (Ad-Dukhan) et `bima kuntum ta'maloun` (Al-A'raf) sans contradiction, en montrant que le `bi` de `bima kuntum ta'maloun` est un `bi` de causalité, que le `bi` nié dans le hadith (`bi-'amalihi`, « par son œuvre ») est un `bi` de contrepartie, et que tout le triomphe est une grâce d'Allah.
-- Rapporter le hadith « Appliquez-vous et visez juste » et expliquer qu'il montre que nul n'est sauvé par sa seule œuvre, pas même le Prophète, paix et bénédictions sur lui, sans la miséricorde et la grâce d'Allah.
-- Reconnaître les trois dérives du cœur contre lesquelles cette compréhension protège : l'orgueil spirituel, la fausse confiance qui délaisse l'effort (tawakul) et le désespoir, et identifier chacune dans une phrase ou une situation donnée.
+- Concilier les versets `fadlan min Rabbik` (Ad-Dukhan) et `bima kuntum ta'maloun` (Al-A'raf) sans contradiction, en montrant que le `bi` de `bima kuntum ta'maloun` est un `bi` de causalité, que le `bi` nié dans le hadith (`bi-'amalihi`, « par son œuvre ») est un `bi` de contrepartie, et que tout le triomphe est une grâce d'Allah.
+- Rapporter le hadith « Appliquez-vous et visez juste » et expliquer qu'il montre que nul n'est sauvé par sa seule œuvre, pas même le Prophète, paix et bénédictions sur lui, sans la miséricorde et la grâce d'Allah.
+- Reconnaître les trois dérives du cœur contre lesquelles cette compréhension protège : l'orgueil spirituel, la fausse confiance qui délaisse l'effort (tawakul) et le désespoir, et identifier chacune dans une phrase ou une situation donnée.
 - Classer une affirmation liée à l'œuvre et à la Jannah en correcte, incomplète ou erronée, et corriger celle qui est incomplète ou erronée en s'appuyant sur une preuve tirée des trois textes.
 
 ## Section académique pour les adultes
@@ -33,15 +33,15 @@ Après cette leçon, l'apprenant sera capable de :
 
 <!-- unit:start id="adults.explanation" kind="explanation" -->
 
-La Révélation réunit deux vérités qui ne se contredisent pas : Allah lie la récompense aux bonnes œuvres, et le Prophète, paix et bénédictions sur lui, enseigne que nul ne se sauve par ses œuvres seules, indépendamment de la miséricorde d'Allah. L'œuvre est **une cause prescrite**, non un prix équivalant à la Jannah ni un droit que le serviteur imposerait à son Seigneur. Le salut, l'entrée au Paradis et le bonheur qui l'accompagne relèvent, à la base, de la grâce et de la miséricorde d'Allah.
+La Révélation réunit deux vérités qui ne se contredisent pas : Allah lie la récompense aux bonnes œuvres, et le Prophète, paix et bénédictions sur lui, enseigne que nul ne se sauve par ses œuvres seules, indépendamment de la miséricorde d'Allah. L'œuvre est **une cause prescrite**, non un prix équivalant à la Jannah ni un droit que le serviteur imposerait à son Seigneur. Le salut, l'entrée au Paradis et le bonheur qui l'accompagne relèvent, à la base, de la grâce et de la miséricorde d'Allah.
 
-Cette compréhension protège le cœur de trois dérives :
+Cette compréhension protège le cœur de trois dérives :
 
-1. **L'orgueil spirituel ('ujb) :** que celui qui agit ne dise pas : « J'ai mérité la Jannah par ma force et l'abondance de mes œuvres. »
-2. **La fausse confiance (tawakul) :** que le négligent ne dise pas : « Puisque l'entrée au Paradis relève de la miséricorde d'Allah, l'obéissance est inutile » ; le hadith lui-même commence par l'ordre de viser juste et de s'appliquer.
-3. **Le désespoir :** que le pécheur repentant ne croie pas que ses manquements ont fermé la porte de l'espoir ; qu'il corrige plutôt ce qu'il peut, se repente et ait une bonne opinion de la miséricorde d'Allah, sans se croire à l'abri ni se bercer d'illusions.
+1. **L'orgueil spirituel ('ujb) :** que celui qui agit ne dise pas : « J'ai mérité la Jannah par ma force et l'abondance de mes œuvres. »
+2. **La fausse confiance (tawakul) :** que le négligent ne dise pas : « Puisque l'entrée au Paradis relève de la miséricorde d'Allah, l'obéissance est inutile » ; le hadith lui-même commence par l'ordre de viser juste et de s'appliquer.
+3. **Le désespoir :** que le pécheur repentant ne croie pas que ses manquements ont fermé la porte de l'espoir ; qu'il corrige plutôt ce qu'il peut, se repente et ait une bonne opinion de la miséricorde d'Allah, sans se croire à l'abri ni se bercer d'illusions.
 
-Le `sadad`, c'est viser la justesse et la droiture ; la `muqaraba`, c'est faire de son mieux quand la perfection est hors de portée. L'islam ne demande donc pas une œuvre infaillible, et n'admet pas non plus qu'on abandonne l'action au nom de l'espérance ; il demande une orientation sincère, un effort constant et la conscience de son besoin d'Allah.
+Le `sadad`, c'est viser la justesse et la droiture ; la `muqaraba`, c'est faire de son mieux quand la perfection est hors de portée. L'islam ne demande donc pas une œuvre infaillible, et n'admet pas non plus qu'on abandonne l'action au nom de l'espérance ; il demande une orientation sincère, un effort constant et la conscience de son besoin d'Allah.
 
 <!-- unit:end -->
 
@@ -57,11 +57,11 @@ Le `sadad`, c'est viser la justesse et la droiture ; la `muqaraba`, c'est faire 
 
 <!-- evidence:translation -->
 
-> **Certes, les pieux seront en un lieu sûr, dans des jardins et parmi des sources, vêtus de soie fine et de brocart, se faisant face. Ainsi en sera-t-il, et Nous leur donnerons pour épouses des houris aux grands yeux. Ils y demanderont toutes sortes de fruits, en toute sécurité. Ils n'y goûteront pas la mort, hormis la première mort, et Il les aura protégés du châtiment de la Fournaise : c'est là une grâce de ton Seigneur. Voilà l'immense triomphe.** [Ad-Dukhan : 51-57][^1]
+> **Certes, les pieux seront en un lieu sûr, dans des jardins et parmi des sources, vêtus de soie fine et de brocart, se faisant face. Ainsi en sera-t-il, et Nous leur donnerons pour épouses des houris aux grands yeux. Ils y demanderont toutes sortes de fruits, en toute sécurité. Ils n'y goûteront pas la mort, hormis la première mort, et Il les aura protégés du châtiment de la Fournaise : c'est là une grâce de ton Seigneur. Voilà l'immense triomphe.** [Ad-Dukhan : 51-57][^1]
 
 #### Tafsir savant
 
-Après avoir décrit la sécurité, le bonheur et la protection, les versets se concluent par la parole d'Allah : `fadlan min Rabbik` — ce triomphe est un don et une bienfaisance d'Allah, non une contrepartie où l'œuvre limitée du serviteur égalerait un bonheur éternel.[^2]
+Après avoir décrit la sécurité, le bonheur et la protection, les versets se concluent par la parole d'Allah : `fadlan min Rabbik` — ce triomphe est un don et une bienfaisance d'Allah, non une contrepartie où l'œuvre limitée du serviteur égalerait un bonheur éternel.[^2]
 
 #### Explication de la leçon
 
@@ -77,15 +77,15 @@ Les versets mentionnent d'abord la piété, puis attribuent la plénitude du tri
 
 <!-- evidence:translation -->
 
-> **Nous aurons arraché de leurs poitrines toute rancune ; sous eux couleront les rivières, et ils diront : « Louange à Allah qui nous a guidés vers ceci ! Nous n'aurions pas été guidés si Allah ne nous avait pas guidés. Les messagers de notre Seigneur sont bien venus avec la vérité. » Et on leur proclamera : « Voici le Paradis qui vous a été donné en héritage pour ce que vous faisiez. »** [Al-A'raf : 43][^3]
+> **Nous aurons arraché de leurs poitrines toute rancune ; sous eux couleront les rivières, et ils diront : « Louange à Allah qui nous a guidés vers ceci ! Nous n'aurions pas été guidés si Allah ne nous avait pas guidés. Les messagers de notre Seigneur sont bien venus avec la vérité. » Et on leur proclamera : « Voici le Paradis qui vous a été donné en héritage pour ce que vous faisiez. »** [Al-A'raf : 43][^3]
 
 #### Tafsir savant
 
-Le verset établit l'effet de l'œuvre, mais il s'ouvre sur l'aveu des gens du Paradis : la guidance vient d'Allah. Les savants ont expliqué que le `bi` de `bima kuntum ta'maloun` est un `bi` de causalité : ils sont entrés à cause d'œuvres qu'Allah leur a permis d'accomplir et qu'Il a acceptées d'eux, non parce que l'œuvre serait un prix indépendant équivalant à la Jannah.[^4]
+Le verset établit l'effet de l'œuvre, mais il s'ouvre sur l'aveu des gens du Paradis : la guidance vient d'Allah. Les savants ont expliqué que le `bi` de `bima kuntum ta'maloun` est un `bi` de causalité : ils sont entrés à cause d'œuvres qu'Allah leur a permis d'accomplir et qu'Il a acceptées d'eux, non parce que l'œuvre serait un prix indépendant équivalant à la Jannah.[^4]
 
 #### Explication de la leçon
 
-Le serviteur agit réellement, il rendra compte de ses choix, et il espère la récompense ; mais il sait que la guidance vers l'œuvre, la constance dans l'œuvre, son acceptation et le salut qu'elle procure relèvent tous de la grâce d'Allah.
+Le serviteur agit réellement, il rendra compte de ses choix, et il espère la récompense ; mais il sait que la guidance vers l'œuvre, la constance dans l'œuvre, son acceptation et le salut qu'elle procure relèvent tous de la grâce d'Allah.
 
 <!-- evidence:end -->
 
@@ -97,7 +97,7 @@ Le serviteur agit réellement, il rendra compte de ses choix, et il espère la r
 
 <!-- evidence:translation -->
 
-> D'après Abu Hurayrah, qu'Allah l'agrée : le Messager d'Allah, paix et bénédictions sur lui, a dit : **« Appliquez-vous et visez juste ; et sachez que nul d'entre vous ne sera sauvé par sa seule œuvre. »** Ils dirent : « Ô Messager d'Allah, pas même toi ? » Il dit : **« Pas même moi, à moins qu'Allah ne m'enveloppe de Sa miséricorde et de Sa grâce. »**[^5]
+> D'après Abu Hurayrah, qu'Allah l'agrée : le Messager d'Allah, paix et bénédictions sur lui, a dit : **« Appliquez-vous et visez juste ; et sachez que nul d'entre vous ne sera sauvé par sa seule œuvre. »** Ils dirent : « Ô Messager d'Allah, pas même toi ? » Il dit : **« Pas même moi, à moins qu'Allah ne m'enveloppe de Sa miséricorde et de Sa grâce. »**[^5]
 
 #### Explication savante
 
@@ -105,7 +105,7 @@ Le hadith réunit l'ordre d'agir et de garder la mesure, tout en niant que l'œu
 
 #### Explication de la leçon
 
-La question des Compagnons — « Pas même toi ? » — coupe court à toute vanité : si le Messager d'Allah, paix et bénédictions sur lui, le plus parfait des hommes dans l'adoration, a besoin de la miséricorde d'Allah, les autres en ont à plus forte raison besoin. Pourtant, il ne leur a pas dit d'abandonner l'action ; il a dit : `Appliquez-vous et visez juste`.
+La question des Compagnons — « Pas même toi ? » — coupe court à toute vanité : si le Messager d'Allah, paix et bénédictions sur lui, le plus parfait des hommes dans l'adoration, a besoin de la miséricorde d'Allah, les autres en ont à plus forte raison besoin. Pourtant, il ne leur a pas dit d'abandonner l'action ; il a dit : `Appliquez-vous et visez juste`.
 
 <!-- evidence:end -->
 
@@ -115,20 +115,20 @@ La question des Compagnons — « Pas même toi ? » — coupe court à toute va
 
 ## Questions de compréhension et de réflexion
 
-1. Comment les textes concilient-ils `bima kuntum ta'maloun` et `fadlan min Rabbik` ?
-2. Quelle est la différence entre l'œuvre comme cause et l'œuvre comme prix ?
-3. Comment le hadith répond-il à la fois à l'orgueil, à la fausse confiance et au désespoir ?
-4. Quelle œuvre exige de vous davantage de justesse, avec une conscience plus vive de votre besoin d'Allah ?
+1. Comment les textes concilient-ils `bima kuntum ta'maloun` et `fadlan min Rabbik` ?
+2. Quelle est la différence entre l'œuvre comme cause et l'œuvre comme prix ?
+3. Comment le hadith répond-il à la fois à l'orgueil, à la fausse confiance et au désespoir ?
+4. Quelle œuvre exige de vous davantage de justesse, avec une conscience plus vive de votre besoin d'Allah ?
 
 <!-- unit:end -->
 
 <!-- unit:start id="adults.activity" kind="activity" -->
 
-### Activité : Classez l'affirmation, puis corrigez-la
+### Activité : Classez l'affirmation, puis corrigez-la
 
 <!-- activity:start audience="adults" concept_id="lesson.010.activity.claim-classify-repair" -->
 
-Classez les six affirmations suivantes en **correcte**, **incomplète** ou **erronée** : (1) « L'œuvre n'a aucune valeur puisque l'entrée au Paradis relève de la miséricorde d'Allah » ; (2) « Mes nombreux actes d'adoration me donnent sur Allah un droit à la Jannah » ; (3) « J'agis parce qu'Allah me l'a ordonné, et j'espère qu'Il l'acceptera et me fera miséricorde » ; (4) « Les œuvres sont une cause d'entrée au Paradis » ; (5) « Allah est miséricordieux, donc rien ne presse pour me repentir » ; (6) « Avoir été guidé vers l'œuvre est un bienfait ; je suis responsable de mon choix et tenu de persévérer ». Reliez chaque jugement à une preuve tirée des trois textes, puis reformulez chaque affirmation incomplète ou erronée en une phrase qui réunit la cause et la grâce.
+Classez les six affirmations suivantes en **correcte**, **incomplète** ou **erronée** : (1) « L'œuvre n'a aucune valeur puisque l'entrée au Paradis relève de la miséricorde d'Allah » ; (2) « Mes nombreux actes d'adoration me donnent sur Allah un droit à la Jannah » ; (3) « J'agis parce qu'Allah me l'a ordonné, et j'espère qu'Il l'acceptera et me fera miséricorde » ; (4) « Les œuvres sont une cause d'entrée au Paradis » ; (5) « Allah est miséricordieux, donc rien ne presse pour me repentir » ; (6) « Avoir été guidé vers l'œuvre est un bienfait ; je suis responsable de mon choix et tenu de persévérer ». Reliez chaque jugement à une preuve tirée des trois textes, puis reformulez chaque affirmation incomplète ou erronée en une phrase qui réunit la cause et la grâce.
 
 <!-- activity:end -->
 
@@ -142,23 +142,23 @@ Classez les six affirmations suivantes en **correcte**, **incomplète** ou **err
 
 ## Pour les enfants de 4 à 7 ans
 
-Nous prions, nous disons la vérité et nous sommes gentils avec les gens parce qu'Allah aime les bonnes actions. Mais nos actions n'achètent pas la Jannah comme on achète un jouet. La Jannah est plus grande que tout ce que nous pouvons faire, et Allah y fait entrer Ses serviteurs par Sa miséricorde et Sa grâce. Alors disons : **Je fais le bien, je demande la miséricorde d'Allah, et je ne me vante pas.**
+Nous prions, nous disons la vérité et nous sommes gentils avec les gens parce qu'Allah aime les bonnes actions. Mais nos actions n'achètent pas la Jannah comme on achète un jouet. La Jannah est plus grande que tout ce que nous pouvons faire, et Allah y fait entrer Ses serviteurs par Sa miséricorde et Sa grâce. Alors disons : **Je fais le bien, je demande la miséricorde d'Allah, et je ne me vante pas.**
 
 <!-- unit:end -->
 
 <!-- unit:start id="4-7.primary-story" kind="primary_story" -->
 
-### Histoire pédagogique imaginaire : le carton d'Adam
+### Histoire pédagogique imaginaire : le carton d'Adam
 
 <!-- story:start audience="4-7" role="primary" type="creative" source_id="lesson-authored:lesson.010.primary" authenticated="false" -->
 
 **Ceci est une histoire pédagogique imaginaire, ni un hadith ni un fait historique.**
 
-Un vendredi matin, Adam alla avec sa famille au centre du quartier pour mettre de la nourriture dans des cartons destinés aux personnes dans le besoin. Il voulait remplir beaucoup de cartons : il porta les boîtes de conserve et les rangea, jusqu'à remplir trois cartons.
+Un vendredi matin, Adam alla avec sa famille au centre du quartier pour mettre de la nourriture dans des cartons destinés aux personnes dans le besoin. Il voulait remplir beaucoup de cartons : il porta les boîtes de conserve et les rangea, jusqu'à remplir trois cartons.
 
-Il regarda le petit carton de sa sœur et dit : « Moi, j'en ai fait plus, alors je suis meilleur ! » Son père lui demanda gentiment : « Et qui nous a donné cette nourriture ? Qui t'a donné la force ? Qui nous a appris à être miséricordieux ? » Adam se tut un instant, puis il vit un enfant plus petit qui n'arrivait pas à soulever une boîte, et il l'aida au lieu de compter ses propres actions.
+Il regarda le petit carton de sa sœur et dit : « Moi, j'en ai fait plus, alors je suis meilleur ! » Son père lui demanda gentiment : « Et qui nous a donné cette nourriture ? Qui t'a donné la force ? Qui nous a appris à être miséricordieux ? » Adam se tut un instant, puis il vit un enfant plus petit qui n'arrivait pas à soulever une boîte, et il l'aida au lieu de compter ses propres actions.
 
-En rentrant, Adam dit : « Je suis content qu'Allah nous ait aidés à faire le bien. Je vais continuer, et je vais Lui demander d'accepter ce que nous avons fait et de nous faire miséricorde. » Il apprit que la bonne action est importante, mais qu'elle est un bienfait d'Allah, et non un prix pour acheter la Jannah.
+En rentrant, Adam dit : « Je suis content qu'Allah nous ait aidés à faire le bien. Je vais continuer, et je vais Lui demander d'accepter ce que nous avons fait et de nous faire miséricorde. » Il apprit que la bonne action est importante, mais qu'elle est un bienfait d'Allah, et non un prix pour acheter la Jannah.
 
 <!-- story:end -->
 
@@ -166,15 +166,15 @@ En rentrant, Adam dit : « Je suis content qu'Allah nous ait aidés à faire le 
 
 <!-- unit:start id="4-7.authenticated-story" kind="authenticated_story" -->
 
-### Histoire authentique : même le Messager d'Allah espère Sa miséricorde
+### Histoire authentique : même le Messager d'Allah espère Sa miséricorde
 
 <!-- story:start audience="4-7" role="authenticated" type="hadith" source_id="muslim-2816g" authenticated="true" -->
 
 <!-- retelling:start source_id="muslim-2816g" audience="4-7" -->
 
-Le Prophète, paix et bénédictions sur lui, dit à ses Compagnons : essayez de bien faire et rapprochez-vous-en. Puis il leur apprit que l'œuvre seule ne sauve personne sans la miséricorde d'Allah. Ils lui demandèrent : « Pas même toi, ô Messager d'Allah ? » Il répondit que lui non plus ne serait sauvé que si Allah l'enveloppait de Sa miséricorde et de Sa grâce.[^5]
+Le Prophète, paix et bénédictions sur lui, dit à ses Compagnons : essayez de bien faire et rapprochez-vous-en. Puis il leur apprit que l'œuvre seule ne sauve personne sans la miséricorde d'Allah. Ils lui demandèrent : « Pas même toi, ô Messager d'Allah ? » Il répondit que lui non plus ne serait sauvé que si Allah l'enveloppait de Sa miséricorde et de Sa grâce.[^5]
 
-Cela ne veut pas dire qu'il faut abandonner la prière et le bien : le Prophète, paix et bénédictions sur lui, a commencé par ordonner de bien agir. Alors nous agissons, et si nous nous trompons, nous nous repentons et nous recommençons, en sachant dans nos cœurs que la grâce vient d'Allah.
+Cela ne veut pas dire qu'il faut abandonner la prière et le bien : le Prophète, paix et bénédictions sur lui, a commencé par ordonner de bien agir. Alors nous agissons, et si nous nous trompons, nous nous repentons et nous recommençons, en sachant dans nos cœurs que la grâce vient d'Allah.
 
 <!-- retelling:end -->
 
@@ -186,19 +186,19 @@ Cela ne veut pas dire qu'il faut abandonner la prière et le bien : le Prophète
 
 ### Petites questions
 
-1. Achetons-nous la Jannah avec nos actions ?
-2. Que faisons-nous quand nous nous trompons en faisant une bonne action ?
-3. À qui demandons-nous la miséricorde et l'acceptation ?
+1. Achetons-nous la Jannah avec nos actions ?
+2. Que faisons-nous quand nous nous trompons en faisant une bonne action ?
+3. À qui demandons-nous la miséricorde et l'acceptation ?
 
 <!-- unit:end -->
 
 <!-- unit:start id="4-7.activity" kind="activity" -->
 
-### Activité : La bonne phrase
+### Activité : La bonne phrase
 
 <!-- activity:start audience="4-7" concept_id="lesson.010.activity.claim-classify-repair" -->
 
-L'adulte montre deux cartes illustrées : « Je fais le bien et je demande la miséricorde d'Allah » et « J'achète la Jannah avec mes actions ». L'enfant choisit la phrase correcte, puis dessine une bonne action qu'il veut faire et complète à voix haute : « Je ferai ceci pour Allah, et je Lui demanderai de me faire miséricorde et d'accepter. »
+L'adulte montre deux cartes illustrées : « Je fais le bien et je demande la miséricorde d'Allah » et « J'achète la Jannah avec mes actions ». L'enfant choisit la phrase correcte, puis dessine une bonne action qu'il veut faire et complète à voix haute : « Je ferai ceci pour Allah, et je Lui demanderai de me faire miséricorde et d'accepter. »
 
 <!-- activity:end -->
 
@@ -230,23 +230,23 @@ L'adulte montre deux cartes illustrées : « Je fais le bien et je demande la mi
 
 Certains pensent que leurs nombreuses bonnes actions leur donnent un droit garanti à la Jannah, et d'autres pensent que la miséricorde d'Allah signifie qu'ils peuvent délaisser la prière et l'honnêteté. Ces deux idées sont fausses. Les œuvres sont des causes qu'Allah nous a ordonnées, mais la guidance qui y mène, la capacité de les accomplir et leur acceptation sont toutes une grâce de Sa part, et l'entrée au Paradis relève de Sa miséricorde.
 
-Imagine un élève qui réussit parce que son professeur l'a instruit, que sa famille l'a aidé et qu'il a lui-même fourni un vrai effort. Il ne serait pas juste qu'il nie son effort, ni qu'il oublie tout ce qu'on lui a donné. Mais l'exemple reste limité : la miséricorde et la grâce d'Allah sont bien plus grandes, et rien de ce que donnent les hommes ne leur ressemble.
+Imagine un élève qui réussit parce que son professeur l'a instruit, que sa famille l'a aidé et qu'il a lui-même fourni un vrai effort. Il ne serait pas juste qu'il nie son effort, ni qu'il oublie tout ce qu'on lui a donné. Mais l'exemple reste limité : la miséricorde et la grâce d'Allah sont bien plus grandes, et rien de ce que donnent les hommes ne leur ressemble.
 
 <!-- unit:end -->
 
 <!-- unit:start id="8-12.primary-story" kind="primary_story" -->
 
-### Histoire pédagogique imaginaire : le tableau des scores
+### Histoire pédagogique imaginaire : le tableau des scores
 
 <!-- story:start audience="8-12" role="primary" type="creative" source_id="lesson-authored:lesson.010.primary" authenticated="false" -->
 
 **Ceci est une histoire pédagogique imaginaire, ni un hadith ni un fait historique.**
 
-Yasser participa à la campagne de l'école pour préparer des paniers alimentaires. Son but était de servir les familles et d'encourager ses camarades, mais il commença à écrire, à côté de chaque nom, le nombre de boîtes que chacun avait collectées. Quand il se retrouva en tête de la liste, il dit à son ami : « C'est moi qui ai fait le plus de bien ici. » Puis il vit un camarade qui n'avait collecté que deux boîtes, et pensa que celui-ci ne s'était guère soucié de la campagne.
+Yasser participa à la campagne de l'école pour préparer des paniers alimentaires. Son but était de servir les familles et d'encourager ses camarades, mais il commença à écrire, à côté de chaque nom, le nombre de boîtes que chacun avait collectées. Quand il se retrouva en tête de la liste, il dit à son ami : « C'est moi qui ai fait le plus de bien ici. » Puis il vit un camarade qui n'avait collecté que deux boîtes, et pensa que celui-ci ne s'était guère soucié de la campagne.
 
-L'enseignante demanda au groupe : « Qui vous a donné l'argent, la santé et le temps ? Qui vous a guidés vers cette action ? Et savons-nous seulement quelle œuvre Allah a acceptée ? » Yasser se souvint alors que son camarade était resté après la fin des cours pour aider à porter les cartons, sans jamais inscrire son nom.
+L'enseignante demanda au groupe : « Qui vous a donné l'argent, la santé et le temps ? Qui vous a guidés vers cette action ? Et savons-nous seulement quelle œuvre Allah a acceptée ? » Yasser se souvint alors que son camarade était resté après la fin des cours pour aider à porter les cartons, sans jamais inscrire son nom.
 
-Yasser s'excusa auprès de lui, effaça le classement des noms et fit en sorte que le tableau montre les besoins du projet au lieu de mettre les personnes en compétition. Il continua son travail avec entrain, mais il se mit à dire : « Louange à Allah qui nous a aidés ; nous Lui demandons l'acceptation et la miséricorde. » Il apprit que la bonne action est une responsabilité et une cause de bien, et non une facture qui donnerait un droit sur Allah, ni un moyen de mépriser les autres.
+Yasser s'excusa auprès de lui, effaça le classement des noms et fit en sorte que le tableau montre les besoins du projet au lieu de mettre les personnes en compétition. Il continua son travail avec entrain, mais il se mit à dire : « Louange à Allah qui nous a aidés ; nous Lui demandons l'acceptation et la miséricorde. » Il apprit que la bonne action est une responsabilité et une cause de bien, et non une facture qui donnerait un droit sur Allah, ni un moyen de mépriser les autres.
 
 <!-- story:end -->
 
@@ -254,15 +254,15 @@ Yasser s'excusa auprès de lui, effaça le classement des noms et fit en sorte q
 
 <!-- unit:start id="8-12.authenticated-story" kind="authenticated_story" -->
 
-### Histoire du hadith : une question directe, une réponse qui enseigne l'humilité
+### Histoire du hadith : une question directe, une réponse qui enseigne l'humilité
 
 <!-- story:start audience="8-12" role="authenticated" type="hadith" source_id="muslim-2816g" authenticated="true" -->
 
 <!-- retelling:start source_id="muslim-2816g" audience="8-12" -->
 
-Le Prophète, paix et bénédictions sur lui, orienta ses Compagnons vers deux choses : viser le juste, et faire de leur mieux pour s'en rapprocher. Puis il leur apprit que nul ne se sauve par sa seule œuvre. La question qui suivit était importante : « Pas même toi, ô Messager d'Allah ? » Il répondit que lui non plus ne serait sauvé que si Allah l'enveloppait de Sa miséricorde et de Sa grâce.[^5]
+Le Prophète, paix et bénédictions sur lui, orienta ses Compagnons vers deux choses : viser le juste, et faire de leur mieux pour s'en rapprocher. Puis il leur apprit que nul ne se sauve par sa seule œuvre. La question qui suivit était importante : « Pas même toi, ô Messager d'Allah ? » Il répondit que lui non plus ne serait sauvé que si Allah l'enveloppait de Sa miséricorde et de Sa grâce.[^5]
 
-L'enchaînement du hadith montre que la miséricorde d'Allah n'est pas une excuse pour la paresse : l'ordre de viser juste accompagne l'annonce de cette miséricorde. Et la réponse du Prophète, paix et bénédictions sur lui, montre que beaucoup d'adoration ne doit mener à aucun orgueil. La bonne conclusion est : **je fais des efforts, je me repens de mes manquements, et j'espère la miséricorde d'Allah.**
+L'enchaînement du hadith montre que la miséricorde d'Allah n'est pas une excuse pour la paresse : l'ordre de viser juste accompagne l'annonce de cette miséricorde. Et la réponse du Prophète, paix et bénédictions sur lui, montre que beaucoup d'adoration ne doit mener à aucun orgueil. La bonne conclusion est : **je fais des efforts, je me repens de mes manquements, et j'espère la miséricorde d'Allah.**
 
 <!-- retelling:end -->
 
@@ -286,20 +286,20 @@ L'enchaînement du hadith montre que la miséricorde d'Allah n'est pas une excus
 
 ### Questions de compréhension et de réflexion
 
-1. Pourquoi les Compagnons ont-ils demandé : « Pas même toi ? »
-2. Quelle phrase du hadith empêche de compter sur la miséricorde sans agir ?
-3. Quelle est la différence entre la cause et le prix ?
-4. Que fais-tu si une bonne action que tu as accomplie te rend fier de toi ?
+1. Pourquoi les Compagnons ont-ils demandé : « Pas même toi ? »
+2. Quelle phrase du hadith empêche de compter sur la miséricorde sans agir ?
+3. Quelle est la différence entre la cause et le prix ?
+4. Que fais-tu si une bonne action que tu as accomplie te rend fier de toi ?
 
 <!-- unit:end -->
 
 <!-- unit:start id="8-12.activity" kind="activity" -->
 
-### Activité : Correct, incomplet ou erroné ?
+### Activité : Correct, incomplet ou erroné ?
 
 <!-- activity:start audience="8-12" concept_id="lesson.010.activity.claim-classify-repair" -->
 
-Classe cinq cartes : « L'œuvre ne sert à rien » ; « J'entre au Paradis parce que mes bonnes actions en égalent le prix » ; « J'agis parce qu'Allah me l'a ordonné et j'espère Sa miséricorde » ; « Les œuvres sont une cause d'entrée au Paradis » ; « Il me suffit de souhaiter le bien ». Place chaque carte sous **correct**, **incomplet** ou **erroné** ; la quatrième affirmation est juste sur le fond, mais il faut préciser que la cause ne se suffit pas à elle-même sans la grâce d'Allah. Corrige les affirmations fausses, complète l'affirmation incomplète, et écris sous l'une d'elles une courte preuve tirée du hadith.
+Classe cinq cartes : « L'œuvre ne sert à rien » ; « J'entre au Paradis parce que mes bonnes actions en égalent le prix » ; « J'agis parce qu'Allah me l'a ordonné et j'espère Sa miséricorde » ; « Les œuvres sont une cause d'entrée au Paradis » ; « Il me suffit de souhaiter le bien ». Place chaque carte sous **correct**, **incomplet** ou **erroné** ; la quatrième affirmation est juste sur le fond, mais il faut préciser que la cause ne se suffit pas à elle-même sans la grâce d'Allah. Corrige les affirmations fausses, complète l'affirmation incomplète, et écris sous l'une d'elles une courte preuve tirée du hadith.
 
 <!-- activity:end -->
 
@@ -329,25 +329,25 @@ Classe cinq cartes : « L'œuvre ne sert à rien » ; « J'entre au Paradis parc
 
 ## Pour les adolescents 13+
 
-La question « œuvre et prix » se manifeste aujourd'hui sous plusieurs formes. On peut comparer son adoration à celle des autres et s'en croire plus digne d'être accepté, délaisser l'effort en arguant qu'Allah est miséricordieux, ou désespérer parce que son passé est rempli de manquements. La Révélation corrige ces trois postures : ni prétention orgueilleuse, ni espérance paresseuse, ni repentir désespéré.
+La question « œuvre et prix » se manifeste aujourd'hui sous plusieurs formes. On peut comparer son adoration à celle des autres et s'en croire plus digne d'être accepté, délaisser l'effort en arguant qu'Allah est miséricordieux, ou désespérer parce que son passé est rempli de manquements. La Révélation corrige ces trois postures : ni prétention orgueilleuse, ni espérance paresseuse, ni repentir désespéré.
 
-Le verset d'Al-A'raf rapporte que les gens du Paradis ont loué Allah pour Sa guidance avant même d'entendre : `il vous a été donné en héritage pour ce que vous faisiez`. Les versets d'Ad-Dukhan disent que l'immense triomphe est `fadlan min Rabbik` (une grâce de ton Seigneur). L'action humaine est donc réelle et engage la responsabilité, mais elle est enveloppée d'une grâce qui la précède : la guidance, la capacité, le voile jeté sur les fautes, le repentir accordé et l'acceptation.
+Le verset d'Al-A'raf rapporte que les gens du Paradis ont loué Allah pour Sa guidance avant même d'entendre : `il vous a été donné en héritage pour ce que vous faisiez`. Les versets d'Ad-Dukhan disent que l'immense triomphe est `fadlan min Rabbik` (une grâce de ton Seigneur). L'action humaine est donc réelle et engage la responsabilité, mais elle est enveloppée d'une grâce qui la précède : la guidance, la capacité, le voile jeté sur les fautes, le repentir accordé et l'acceptation.
 
 <!-- unit:end -->
 
 <!-- unit:start id="13+.primary-story" kind="primary_story" -->
 
-### Histoire pédagogique imaginaire : la publication qui a changé
+### Histoire pédagogique imaginaire : la publication qui a changé
 
 <!-- story:start audience="13+" role="primary" type="creative" source_id="lesson-authored:lesson.010.primary" authenticated="false" -->
 
 **Ceci est une histoire pédagogique imaginaire, ni un hadith ni un fait historique.**
 
-Zayd dirigea une équipe de jeunes dans une campagne alimentaire qui dura deux semaines. Il organisa les horaires, contacta les donateurs et resta après le départ des autres pour ranger les cartons. À la fin de la campagne, il rédigea une publication présentant les chiffres, puis la conclut par une phrase laissant entendre que cet accomplissement prouvait son rang auprès d'Allah. Il se mit à suivre les mentions « j'aime » et à comparer ses heures de travail à celles de ses camarades.
+Zayd dirigea une équipe de jeunes dans une campagne alimentaire qui dura deux semaines. Il organisa les horaires, contacta les donateurs et resta après le départ des autres pour ranger les cartons. À la fin de la campagne, il rédigea une publication présentant les chiffres, puis la conclut par une phrase laissant entendre que cet accomplissement prouvait son rang auprès d'Allah. Il se mit à suivre les mentions « j'aime » et à comparer ses heures de travail à celles de ses camarades.
 
-L'encadrant lut le brouillon et lui demanda : « Peux-tu garantir que ton œuvre sera acceptée ? Qui t'a donné l'idée, la santé, le temps et l'équipe ? Deux semaines de service valent-elles un bonheur éternel ? » Zayd sentit que ces questions n'annulaient pas son effort, mais qu'elles révélaient ce qui s'était glissé dans son cœur : un sentiment de mérite et un esprit de comparaison.
+L'encadrant lut le brouillon et lui demanda : « Peux-tu garantir que ton œuvre sera acceptée ? Qui t'a donné l'idée, la santé, le temps et l'équipe ? Deux semaines de service valent-elles un bonheur éternel ? » Zayd sentit que ces questions n'annulaient pas son effort, mais qu'elles révélaient ce qui s'était glissé dans son cœur : un sentiment de mérite et un esprit de comparaison.
 
-Il modifia la publication pour remercier l'équipe et rappeler les besoins des familles, et supprima les éloges qu'il s'adressait. Puis il revint le lendemain achever la distribution, dans une tâche qui n'apparaîtrait sur aucune photo. Il n'abandonna pas l'action par peur de l'ostentation, et ne s'en glorifia pas non plus ; il continua de servir, demanda pardon pour son orgueil et implora d'Allah l'acceptation et la miséricorde.
+Il modifia la publication pour remercier l'équipe et rappeler les besoins des familles, et supprima les éloges qu'il s'adressait. Puis il revint le lendemain achever la distribution, dans une tâche qui n'apparaîtrait sur aucune photo. Il n'abandonna pas l'action par peur de l'ostentation, et ne s'en glorifia pas non plus ; il continua de servir, demanda pardon pour son orgueil et implora d'Allah l'acceptation et la miséricorde.
 
 <!-- story:end -->
 
@@ -361,7 +361,7 @@ Il modifia la publication pour remercier l'équipe et rappeler les besoins des f
 
 <!-- retelling:start source_id="muslim-2816g" audience="13+" -->
 
-Dans le hadith d'Abu Hurayrah, qu'Allah l'agrée, le Prophète, paix et bénédictions sur lui, n'offrit de formule confortable à aucun des deux extrêmes. Il dit : `Appliquez-vous et visez juste`, affirmant ainsi la responsabilité et l'effort. Puis il annonça que nul ne serait sauvé par sa seule œuvre, et les Compagnons passèrent aussitôt au cas le plus fort qu'on puisse imaginer : le Messager d'Allah lui-même. Ils demandèrent : « Pas même toi ? » La réponse fut claire : « Pas même moi, à moins qu'Allah ne m'enveloppe de Sa miséricorde et de Sa grâce. »[^5]
+Dans le hadith d'Abu Hurayrah, qu'Allah l'agrée, le Prophète, paix et bénédictions sur lui, n'offrit de formule confortable à aucun des deux extrêmes. Il dit : `Appliquez-vous et visez juste`, affirmant ainsi la responsabilité et l'effort. Puis il annonça que nul ne serait sauvé par sa seule œuvre, et les Compagnons passèrent aussitôt au cas le plus fort qu'on puisse imaginer : le Messager d'Allah lui-même. Ils demandèrent : « Pas même toi ? » La réponse fut claire : « Pas même moi, à moins qu'Allah ne m'enveloppe de Sa miséricorde et de Sa grâce. »[^5]
 
 Cette question et cette réponse interdisent de bâtir une identité religieuse sur la supériorité envers autrui. La bonne action n'accorde pas à son auteur le droit de mépriser un pécheur, tout comme l'immensité de la miséricorde n'accorde pas au pécheur le droit de persister. Le croyant voit sa bonne action comme une faveur d'Allah (tawfiq) qui a encore besoin d'être acceptée, et son péché comme une porte vers un repentir sincère, non comme un argument pour le désespoir.
 
@@ -376,7 +376,7 @@ Cette question et cette réponse interdisent de bâtir une identité religieuse 
 <!-- terminology:start source_id="muslim-2816g" -->
 
 - **le `bi` de causalité** — indique que l'œuvre est une voie et une cause à laquelle Allah a attaché la rétribution.
-- **le `bi` de contrepartie** — indique l'échange d'une chose contre une autre, comme le prix d'une marchandise ; c'est ce sens précis qui est nié entre l'œuvre et la Jannah.
+- **le `bi` de contrepartie** — indique l'échange d'une chose contre une autre, comme le prix d'une marchandise ; c'est ce sens précis qui est nié entre l'œuvre et la Jannah.
 - **l'orgueil spirituel ('ujb)** — le fait de regarder sa propre œuvre avec admiration, en oubliant que c'est Allah qui l'a rendue possible et en oubliant ses propres manquements.
 
 <!-- terminology:end -->
@@ -387,21 +387,21 @@ Cette question et cette réponse interdisent de bâtir une identité religieuse 
 
 ### Questions de discussion
 
-1. Comment peut-on concilier la croyance en la responsabilité avec la négation d'un mérite indépendant ?
-2. Pourquoi est-il incorrect d'utiliser ce hadith pour minimiser la valeur de l'œuvre ?
-3. Quelle est la différence entre espérer la miséricorde et se croire à l'abri du plan d'Allah (al-amn min makr Allah) ?
-4. Comment traiter la comparaison religieuse avec autrui à la lumière de la réponse du Prophète, paix et bénédictions sur lui ?
-5. Quelle phrase équilibrée te dirais-tu après une bonne action, et après un péché dont tu t'es repenti ?
+1. Comment peut-on concilier la croyance en la responsabilité avec la négation d'un mérite indépendant ?
+2. Pourquoi est-il incorrect d'utiliser ce hadith pour minimiser la valeur de l'œuvre ?
+3. Quelle est la différence entre espérer la miséricorde et se croire à l'abri du plan d'Allah (al-amn min makr Allah) ?
+4. Comment traiter la comparaison religieuse avec autrui à la lumière de la réponse du Prophète, paix et bénédictions sur lui ?
+5. Quelle phrase équilibrée te dirais-tu après une bonne action, et après un péché dont tu t'es repenti ?
 
 <!-- unit:end -->
 
 <!-- unit:start id="13+.activity" kind="activity" -->
 
-### Activité : La clinique des affirmations
+### Activité : La clinique des affirmations
 
 <!-- activity:start audience="13+" concept_id="lesson.010.activity.claim-classify-repair" -->
 
-Analyse trois cas : une personne qui méprise les autres à cause de son adoration, une personne qui repousse son repentir en comptant sur la miséricorde, et une personne désespérée parce que son œuvre est imparfaite. Dégage la croyance erronée dans chaque cas, classe-la comme orgueil, fausse confiance ou désespoir, puis rédige une réponse de deux lignes qui s'appuie sur une preuve et réunit l'action et le besoin de miséricorde.
+Analyse trois cas : une personne qui méprise les autres à cause de son adoration, une personne qui repousse son repentir en comptant sur la miséricorde, et une personne désespérée parce que son œuvre est imparfaite. Dégage la croyance erronée dans chaque cas, classe-la comme orgueil, fausse confiance ou désespoir, puis rédige une réponse de deux lignes qui s'appuie sur une preuve et réunit l'action et le besoin de miséricorde.
 
 <!-- activity:end -->
 
@@ -432,34 +432,34 @@ Analyse trois cas : une personne qui méprise les autres à cause de son adorati
 ### Adultes — 60 minutes
 
 <!-- lesson-plan:outcomes -->
-**Résultats d'apprentissage :** l'apprenant explique la différence entre la cause et le prix, concilie les trois preuves sans contradiction, identifie l'orgueil, la fausse confiance et le désespoir, et reformule une affirmation confuse de manière doctrinalement correcte.
+**Résultats d'apprentissage :** l'apprenant explique la différence entre la cause et le prix, concilie les trois preuves sans contradiction, identifie l'orgueil, la fausse confiance et le désespoir, et reformule une affirmation confuse de manière doctrinalement correcte.
 
 <!-- lesson-plan:materials -->
-**Matériel :** copies des trois preuves ; cartes des six affirmations ; trois grands intitulés : « Correct », « Incomplet », « Erroné » ; papier et stylos ; carte de sortie.
+**Matériel :** copies des trois preuves ; cartes des six affirmations ; trois grands intitulés : « Correct », « Incomplet », « Erroné » ; papier et stylos ; carte de sortie.
 
 <!-- lesson-plan:preparation -->
-**Préparation :** l'enseignant imprime les textes et les six affirmations de l'activité des adultes. Corrigé proposé : (1) erronée, car le hadith ordonne de viser juste ; (2) erronée, car elle fait de l'œuvre une contrepartie et un droit indépendant ; (3) correcte ; (4) incomplète tant qu'on n'ajoute pas que la cause ne se suffit pas sans la grâce et l'acceptation d'Allah ; (5) erronée, car elle fait de la miséricorde un prétexte pour remettre le repentir à plus tard ; (6) correcte. Il revoit la différence entre le `bi` de causalité et le `bi` de contrepartie, et accepte toute autre reformulation si l'apprenant l'appuie sur une preuve valable.
+**Préparation :** l'enseignant imprime les textes et les six affirmations de l'activité des adultes. Corrigé proposé : (1) erronée, car le hadith ordonne de viser juste ; (2) erronée, car elle fait de l'œuvre une contrepartie et un droit indépendant ; (3) correcte ; (4) incomplète tant qu'on n'ajoute pas que la cause ne se suffit pas sans la grâce et l'acceptation d'Allah ; (5) erronée, car elle fait de la miséricorde un prétexte pour remettre le repentir à plus tard ; (6) correcte. Il revoit la différence entre le `bi` de causalité et le `bi` de contrepartie, et accepte toute autre reformulation si l'apprenant l'appuie sur une preuve valable.
 
 <!-- lesson-plan:opening -->
-**Ouverture — 5 minutes :** il pose la question : « Dire que la Jannah relève de la miséricorde d'Allah signifie-t-il que l'œuvre n'a pas d'importance ? » Il recueille les réponses sans les corriger immédiatement, puis annonce que les textes construiront la réponse.
+**Ouverture — 5 minutes :** il pose la question : « Dire que la Jannah relève de la miséricorde d'Allah signifie-t-il que l'œuvre n'a pas d'importance ? » Il recueille les réponses sans les corriger immédiatement, puis annonce que les textes construiront la réponse.
 
 <!-- lesson-plan:evidence -->
-**Étude des preuves — 15 minutes :** les groupes lisent Ad-Dukhan 51-57, Al-A'raf 43 et le hadith de Muslim 2816. Ils soulignent les mots liés à l'œuvre et entourent ceux qui se rapportent à la guidance, à la grâce et à la miséricorde.
+**Étude des preuves — 15 minutes :** les groupes lisent Ad-Dukhan 51-57, Al-A'raf 43 et le hadith de Muslim 2816. Ils soulignent les mots liés à l'œuvre et entourent ceux qui se rapportent à la guidance, à la grâce et à la miséricorde.
 
 <!-- lesson-plan:instruction -->
-**Enseignement dirigé — 15 minutes :** l'enseignant trace deux colonnes : « cause » et « prix ». Il explique le `bi` de causalité et le `bi` de contrepartie, puis demande aux apprenants d'expliquer pourquoi « Appliquez-vous et visez juste » vient avant la négation du salut par l'œuvre seule.
+**Enseignement dirigé — 15 minutes :** l'enseignant trace deux colonnes : « cause » et « prix ». Il explique le `bi` de causalité et le `bi` de contrepartie, puis demande aux apprenants d'expliquer pourquoi « Appliquez-vous et visez juste » vient avant la négation du salut par l'œuvre seule.
 
 <!-- lesson-plan:activity -->
-**Activité — 15 minutes :** les groupes réalisent l'activité de classement et de correction. Aucune reformulation n'est acceptée tant qu'elle n'inclut pas à la fois la responsabilité de l'œuvre et le besoin de la miséricorde d'Allah, avec une preuve adaptée.
+**Activité — 15 minutes :** les groupes réalisent l'activité de classement et de correction. Aucune reformulation n'est acceptée tant qu'elle n'inclut pas à la fois la responsabilité de l'œuvre et le besoin de la miséricorde d'Allah, avec une preuve adaptée.
 
 <!-- lesson-plan:assessment -->
-**Évaluation et conclusion — 10 minutes :** carte de sortie : « Définissez la cause et le prix, conciliez les versets d'Al-A'raf et d'Ad-Dukhan, et écrivez une application concrète qui vous protège de l'orgueil, de la fausse confiance ou du désespoir. » L'enseignant conclut par la du'a de la leçon, en précisant qu'il s'agit d'une formulation pédagogique propre à la leçon.
+**Évaluation et conclusion — 10 minutes :** carte de sortie : « Définissez la cause et le prix, conciliez les versets d'Al-A'raf et d'Ad-Dukhan, et écrivez une application concrète qui vous protège de l'orgueil, de la fausse confiance ou du désespoir. » L'enseignant conclut par la du'a de la leçon, en précisant qu'il s'agit d'une formulation pédagogique propre à la leçon.
 
 <!-- lesson-plan:differentiation -->
-**Différenciation :** le débutant reçoit des phrases incomplètes dont il choisit la fin, et l'apprenant avancé est chargé d'expliquer comment le hadith réunit la crainte et l'espérance. Les apprenants peuvent discuter d'un cas général plutôt que de dévoiler une expérience personnelle.
+**Différenciation :** le débutant reçoit des phrases incomplètes dont il choisit la fin, et l'apprenant avancé est chargé d'expliquer comment le hadith réunit la crainte et l'espérance. Les apprenants peuvent discuter d'un cas général plutôt que de dévoiler une expérience personnelle.
 
 <!-- lesson-plan:safeguards -->
-**Mises en garde pédagogiques :** la miséricorde ne doit pas justifier l'abandon des obligations, ni les œuvres servir à décréter qu'une personne ira au Paradis ou à mépriser un pécheur ; on ne pousse pas la personne sujette aux scrupules vers davantage d'auto-examen compulsif, mais on l'oriente vers une adoration équilibrée et une aide appropriée.
+**Mises en garde pédagogiques :** la miséricorde ne doit pas justifier l'abandon des obligations, ni les œuvres servir à décréter qu'une personne ira au Paradis ou à mépriser un pécheur ; on ne pousse pas la personne sujette aux scrupules vers davantage d'auto-examen compulsif, mais on l'oriente vers une adoration équilibrée et une aide appropriée.
 
 <!-- lesson-plan:end -->
 
@@ -468,34 +468,34 @@ Analyse trois cas : une personne qui méprise les autres à cause de son adorati
 ### Enfants 4-7 ans — 30 minutes
 
 <!-- lesson-plan:outcomes -->
-**Résultats d'apprentissage :** l'enfant dit que nous faisons le bien et demandons la miséricorde d'Allah, distingue la phrase correcte de « J'achète la Jannah avec mes actions », et cite une bonne action.
+**Résultats d'apprentissage :** l'enfant dit que nous faisons le bien et demandons la miséricorde d'Allah, distingue la phrase correcte de « J'achète la Jannah avec mes actions », et cite une bonne action.
 
 <!-- lesson-plan:materials -->
-**Matériel :** les deux cartes illustrées de l'activité ; papier à dessin ; crayons de couleur sans danger ; un autocollant cœur et un autocollant main en action ; la carte de la du'a, écrite lisiblement.
+**Matériel :** les deux cartes illustrées de l'activité ; papier à dessin ; crayons de couleur sans danger ; un autocollant cœur et un autocollant main en action ; la carte de la du'a, écrite lisiblement.
 
 <!-- lesson-plan:preparation -->
-**Préparation :** l'enseignant prépare des images sans argent ni balance, afin de ne pas ancrer l'idée d'échange dans l'esprit de l'enfant, et s'entraîne à expliquer le mot « miséricorde » en phrases courtes.
+**Préparation :** l'enseignant prépare des images sans argent ni balance, afin de ne pas ancrer l'idée d'échange dans l'esprit de l'enfant, et s'entraîne à expliquer le mot « miséricorde » en phrases courtes.
 
 <!-- lesson-plan:opening -->
-**Ouverture — 4 minutes :** il demande : « Que faisons-nous quand Allah nous donne un grand bienfait ? » Il accepte les réponses de louange, de remerciement et de bonne action, puis les relie à la Jannah.
+**Ouverture — 4 minutes :** il demande : « Que faisons-nous quand Allah nous donne un grand bienfait ? » Il accepte les réponses de louange, de remerciement et de bonne action, puis les relie à la Jannah.
 
 <!-- lesson-plan:evidence -->
-**Lecture de la preuve — 6 minutes :** l'enseignant raconte, après l'histoire imaginaire, l'histoire authentique du hadith présentée dans la leçon, et les enfants répètent avec lui : « Je fais le bien et je demande à Allah Sa miséricorde. »
+**Lecture de la preuve — 6 minutes :** l'enseignant raconte, après l'histoire imaginaire, l'histoire authentique du hadith présentée dans la leçon, et les enfants répètent avec lui : « Je fais le bien et je demande à Allah Sa miséricorde. »
 
 <!-- lesson-plan:instruction -->
-**Enseignement dirigé — 6 minutes :** il explique que la bonne action est importante, mais qu'elle n'achète pas la Jannah. Il lève l'autocollant main à « nous agissons » et l'autocollant cœur à « nous espérons la miséricorde d'Allah », puis demande comment Adam a changé dans l'histoire.
+**Enseignement dirigé — 6 minutes :** il explique que la bonne action est importante, mais qu'elle n'achète pas la Jannah. Il lève l'autocollant main à « nous agissons » et l'autocollant cœur à « nous espérons la miséricorde d'Allah », puis demande comment Adam a changé dans l'histoire.
 
 <!-- lesson-plan:activity -->
-**Activité — 9 minutes :** les enfants choisissent la bonne carte, puis chacun dessine une bonne action et dit la phrase complétée. L'adulte aide l'enfant qui ne sait pas encore écrire, et accorde une minute pour montrer deux dessins, sans comparer les enfants entre eux.
+**Activité — 9 minutes :** les enfants choisissent la bonne carte, puis chacun dessine une bonne action et dit la phrase complétée. L'adulte aide l'enfant qui ne sait pas encore écrire, et accorde une minute pour montrer deux dessins, sans comparer les enfants entre eux.
 
 <!-- lesson-plan:assessment -->
-**Évaluation et conclusion — 5 minutes :** il demande : « Est-ce qu'on arrête de faire le bien ? Est-ce qu'on se vante devant les autres ? À qui demandons-nous la miséricorde ? » Puis il demande à un enfant de compléter la phrase « Je fais le bien et… », et lit lentement la du'a une fois.
+**Évaluation et conclusion — 5 minutes :** il demande : « Est-ce qu'on arrête de faire le bien ? Est-ce qu'on se vante devant les autres ? À qui demandons-nous la miséricorde ? » Puis il demande à un enfant de compléter la phrase « Je fais le bien et… », et lit lentement la du'a une fois.
 
 <!-- lesson-plan:differentiation -->
-**Différenciation :** on autorise une réponse par geste ou par répétition, et l'enfant avancé reçoit une situation simple, comme dire la vérité après une erreur, pour évoquer ensemble l'action et l'espérance.
+**Différenciation :** on autorise une réponse par geste ou par répétition, et l'enfant avancé reçoit une situation simple, comme dire la vérité après une erreur, pour évoquer ensemble l'action et l'espérance.
 
 <!-- lesson-plan:safeguards -->
-**Mises en garde pédagogiques :** on ne dit pas à l'enfant qu'une petite erreur lui a fait perdre la Jannah, ni qu'une bonne action la lui garantit. La leçon est présentée dans un climat de sécurité et d'espérance, sans faire naître de scrupules quant à l'acceptation de chaque action.
+**Mises en garde pédagogiques :** on ne dit pas à l'enfant qu'une petite erreur lui a fait perdre la Jannah, ni qu'une bonne action la lui garantit. La leçon est présentée dans un climat de sécurité et d'espérance, sans faire naître de scrupules quant à l'acceptation de chaque action.
 
 <!-- lesson-plan:end -->
 
@@ -504,34 +504,34 @@ Analyse trois cas : une personne qui méprise les autres à cause de son adorati
 ### Enfants 8-12 ans — 45 minutes
 
 <!-- lesson-plan:outcomes -->
-**Résultats d'apprentissage :** l'élève définit le `sadad` et la `muqaraba`, distingue la cause du prix, restitue dans l'ordre le message du hadith, et corrige deux affirmations erronées à l'aide d'une preuve.
+**Résultats d'apprentissage :** l'élève définit le `sadad` et la `muqaraba`, distingue la cause du prix, restitue dans l'ordre le message du hadith, et corrige deux affirmations erronées à l'aide d'une preuve.
 
 <!-- lesson-plan:materials -->
-**Matériel :** le texte du hadith ; les cartes de vocabulaire ; les cartes « correct/incomplet/erroné » ; feuilles d'activité ; stylos de trois couleurs.
+**Matériel :** le texte du hadith ; les cartes de vocabulaire ; les cartes « correct/incomplet/erroné » ; feuilles d'activité ; stylos de trois couleurs.
 
 <!-- lesson-plan:preparation -->
-**Préparation :** l'enseignant écrit les cinq affirmations et prépare un exemple de correction sur un autre sujet pour que les élèves comprennent la démarche. Corrigé rapide : la troisième est correcte, la quatrième incomplète, les autres erronées.
+**Préparation :** l'enseignant écrit les cinq affirmations et prépare un exemple de correction sur un autre sujet pour que les élèves comprennent la démarche. Corrigé rapide : la troisième est correcte, la quatrième incomplète, les autres erronées.
 
 <!-- lesson-plan:opening -->
-**Ouverture — 5 minutes :** il présente deux affirmations : « Mon effort n'a pas d'importance » et « Ma réussite vient entièrement de moi-même ». Il demande : « Existe-t-il une réponse plus juste que ces deux extrêmes ? » puis transpose la question à l'œuvre accomplie pour l'au-delà.
+**Ouverture — 5 minutes :** il présente deux affirmations : « Mon effort n'a pas d'importance » et « Ma réussite vient entièrement de moi-même ». Il demande : « Existe-t-il une réponse plus juste que ces deux extrêmes ? » puis transpose la question à l'œuvre accomplie pour l'au-delà.
 
 <!-- lesson-plan:evidence -->
-**Étude de la preuve — 10 minutes :** les élèves lisent le hadith de Muslim en entier et le verset 43 d'Al-A'raf. Ils surlignent d'une couleur les ordres d'agir, et d'une autre les mots de miséricorde et de guidance.
+**Étude de la preuve — 10 minutes :** les élèves lisent le hadith de Muslim en entier et le verset 43 d'Al-A'raf. Ils surlignent d'une couleur les ordres d'agir, et d'une autre les mots de miséricorde et de guidance.
 
 <!-- lesson-plan:instruction -->
-**Enseignement dirigé — 10 minutes :** l'enseignant explique les trois termes, puis construit avec la classe la phrase-résumé : « L'œuvre est une cause, et la guidance, l'acceptation et le salut relèvent de la grâce d'Allah. » Il revient à l'histoire du tableau des scores et demande comment le but est passé de la comparaison entre personnes au service des personnes dans le besoin.
+**Enseignement dirigé — 10 minutes :** l'enseignant explique les trois termes, puis construit avec la classe la phrase-résumé : « L'œuvre est une cause, et la guidance, l'acceptation et le salut relèvent de la grâce d'Allah. » Il revient à l'histoire du tableau des scores et demande comment le but est passé de la comparaison entre personnes au service des personnes dans le besoin.
 
 <!-- lesson-plan:activity -->
-**Activité — 14 minutes :** les groupes classent les cartes et les corrigent. Chaque groupe présente une carte et explique pourquoi elle était correcte, incomplète ou erronée ; les groupes disposent ensuite de deux minutes pour revoir leurs corrections à la lumière du hadith.
+**Activité — 14 minutes :** les groupes classent les cartes et les corrigent. Chaque groupe présente une carte et explique pourquoi elle était correcte, incomplète ou erronée ; les groupes disposent ensuite de deux minutes pour revoir leurs corrections à la lumière du hadith.
 
 <!-- lesson-plan:assessment -->
-**Évaluation et conclusion — 6 minutes :** chaque élève écrit : « Après une bonne action, je… » et « Après une erreur, je me repentirai puis… ». L'enseignant vérifie que la première réponse est exempte d'orgueil et la seconde de désespoir, et lit un modèle équilibré avant de conclure.
+**Évaluation et conclusion — 6 minutes :** chaque élève écrit : « Après une bonne action, je… » et « Après une erreur, je me repentirai puis… ». L'enseignant vérifie que la première réponse est exempte d'orgueil et la seconde de désespoir, et lit un modèle équilibré avant de conclure.
 
 <!-- lesson-plan:differentiation -->
-**Différenciation :** des débuts de phrases sont fournis aux élèves en difficulté, et les élèves avancés doivent concilier le verset d'Al-A'raf et les versets d'Ad-Dukhan dans une explication de trois lignes.
+**Différenciation :** des débuts de phrases sont fournis aux élèves en difficulté, et les élèves avancés doivent concilier le verset d'Al-A'raf et les versets d'Ad-Dukhan dans une explication de trois lignes.
 
 <!-- lesson-plan:safeguards -->
-**Mises en garde pédagogiques :** la discussion ne doit pas devenir une comparaison de la piété des élèves, et on ne leur demande pas de révéler leurs péchés ou leurs actes d'adoration personnels. On corrige avec douceur l'affirmation « l'œuvre n'a aucune valeur » et l'affirmation « je suis sûr d'aller au Paradis ».
+**Mises en garde pédagogiques :** la discussion ne doit pas devenir une comparaison de la piété des élèves, et on ne leur demande pas de révéler leurs péchés ou leurs actes d'adoration personnels. On corrige avec douceur l'affirmation « l'œuvre n'a aucune valeur » et l'affirmation « je suis sûr d'aller au Paradis ».
 
 <!-- lesson-plan:end -->
 
@@ -540,34 +540,34 @@ Analyse trois cas : une personne qui méprise les autres à cause de son adorati
 ### Adolescents 13+ — 55 minutes
 
 <!-- lesson-plan:outcomes -->
-**Résultats d'apprentissage :** l'élève construit une réponse fondée sur les textes à l'objection d'une contradiction, explique le `bi` de causalité et le `bi` de contrepartie, analyse l'orgueil, la fausse confiance et le désespoir, et rédige une réponse équilibrée à un cas réel.
+**Résultats d'apprentissage :** l'élève construit une réponse fondée sur les textes à l'objection d'une contradiction, explique le `bi` de causalité et le `bi` de contrepartie, analyse l'orgueil, la fausse confiance et le désespoir, et rédige une réponse équilibrée à un cas réel.
 
 <!-- lesson-plan:materials -->
-**Matériel :** dossier des preuves ; bref extrait de l'explication d'Ibn al-Qayyim ; cartes des trois cas ; modèle « affirmation/erreur/preuve/correction » ; fiches de sortie.
+**Matériel :** dossier des preuves ; bref extrait de l'explication d'Ibn al-Qayyim ; cartes des trois cas ; modèle « affirmation/erreur/preuve/correction » ; fiches de sortie.
 
 <!-- lesson-plan:preparation -->
-**Préparation :** l'enseignant revoit la formulation du hadith et écarte toute formulation qui lui serait attribuée sans être établie, choisit des cas qui ne visent aucun élève en particulier, et prévoit une orientation vers un accompagnement adapté pour tout élève qui montrerait des signes de scrupules obsessionnels ou de profond désespoir.
+**Préparation :** l'enseignant revoit la formulation du hadith et écarte toute formulation qui lui serait attribuée sans être établie, choisit des cas qui ne visent aucun élève en particulier, et prévoit une orientation vers un accompagnement adapté pour tout élève qui montrerait des signes de scrupules obsessionnels ou de profond désespoir.
 
 <!-- lesson-plan:opening -->
-**Ouverture — 5 minutes :** il écrit au tableau : « pour ce que vous faisiez » et « nul d'entre vous ne sera sauvé par son œuvre ». Il demande aux élèves de proposer une manière de concilier les deux sans annuler aucun des deux textes.
+**Ouverture — 5 minutes :** il écrit au tableau : « pour ce que vous faisiez » et « nul d'entre vous ne sera sauvé par son œuvre ». Il demande aux élèves de proposer une manière de concilier les deux sans annuler aucun des deux textes.
 
 <!-- lesson-plan:evidence -->
-**Étude des preuves — 12 minutes :** trois groupes lisent les trois preuves et relèvent dans chaque texte l'action demandée, la grâce mentionnée et l'erreur que le texte corrige.
+**Étude des preuves — 12 minutes :** trois groupes lisent les trois preuves et relèvent dans chaque texte l'action demandée, la grâce mentionnée et l'erreur que le texte corrige.
 
 <!-- lesson-plan:instruction -->
-**Enseignement dirigé — 13 minutes :** l'enseignant explique la différence linguistique et doctrinale entre causalité et contrepartie, puis discute de la manière dont la question des Compagnons empêche de bâtir une identité fondée sur le mérite et la supériorité.
+**Enseignement dirigé — 13 minutes :** l'enseignant explique la différence linguistique et doctrinale entre causalité et contrepartie, puis discute de la manière dont la question des Compagnons empêche de bâtir une identité fondée sur le mérite et la supériorité.
 
 <!-- lesson-plan:activity -->
-**Activité — 15 minutes :** les groupes réalisent « la clinique des affirmations » à l'aide du modèle. La réponse doit contenir un diagnostic, une preuve et une correction pratique qui n'ouvre la porte ni à la paresse ni au désespoir.
+**Activité — 15 minutes :** les groupes réalisent « la clinique des affirmations » à l'aide du modèle. La réponse doit contenir un diagnostic, une preuve et une correction pratique qui n'ouvre la porte ni à la paresse ni au désespoir.
 
 <!-- lesson-plan:assessment -->
-**Évaluation et conclusion — 10 minutes :** l'élève écrit une réponse de quatre lignes à la question d'ouverture, puis une résolution personnelle qu'il n'a pas besoin de dévoiler : un acte d'adoration à parfaire, un péché dont se repentir, ou un orgueil contre lequel demander la protection d'Allah.
+**Évaluation et conclusion — 10 minutes :** l'élève écrit une réponse de quatre lignes à la question d'ouverture, puis une résolution personnelle qu'il n'a pas besoin de dévoiler : un acte d'adoration à parfaire, un péché dont se repentir, ou un orgueil contre lequel demander la protection d'Allah.
 
 <!-- lesson-plan:differentiation -->
-**Différenciation :** l'élève en difficulté reçoit un schéma fléché reliant « guidance d'Allah — œuvre du serviteur — acceptation d'Allah — Sa miséricorde », et l'élève avancé est chargé de critiquer une affirmation philosophique sur le mérite, sans s'étendre sur les controverses entre écoles théologiques.
+**Différenciation :** l'élève en difficulté reçoit un schéma fléché reliant « guidance d'Allah — œuvre du serviteur — acceptation d'Allah — Sa miséricorde », et l'élève avancé est chargé de critiquer une affirmation philosophique sur le mérite, sans s'étendre sur les controverses entre écoles théologiques.
 
 <!-- lesson-plan:safeguards -->
-**Mises en garde pédagogiques :** la leçon ne sert ni à nier la responsabilité, ni à taxer de mécréance celui qui s'exprime autrement, ni à nourrir les scrupules religieux. Si un élève exprime du désespoir ou des idées de se faire du mal, on arrête la discussion et on suit le protocole de protection et de soutien en vigueur.
+**Mises en garde pédagogiques :** la leçon ne sert ni à nier la responsabilité, ni à taxer de mécréance celui qui s'exprime autrement, ni à nourrir les scrupules religieux. Si un élève exprime du désespoir ou des idées de se faire du mal, on arrête la discussion et on suit le protocole de protection et de soutien en vigueur.
 
 <!-- lesson-plan:end -->
 
@@ -575,10 +575,10 @@ Analyse trois cas : une personne qui méprise les autres à cause de son adorati
 
 ## Références
 
-[^1]: Le Saint Coran, sourate Ad-Dukhan, versets 51-57 : [Texte coranique](https://quran.com/44/51-57). La traduction française des versets est une traduction du sens propre au projet.
-[^2]: 'Abd al-Rahman ibn Nasir al-Sa'di, *Taysir al-Karim al-Rahman*, commentaire de la sourate Ad-Dukhan, verset 57, où il explique que le salut et le bonheur sont une grâce et une bienfaisance d'Allah : [Le Coran électronique, Université King Saud](https://quran.ksu.edu.sa/tafseer/saadi/sura44-aya57.html).
-[^3]: Le Saint Coran, sourate Al-A'raf, verset 43 : [Texte coranique](https://quran.com/7/43). La traduction française du verset est une traduction du sens propre au projet.
-[^4]: Ibn Qayyim al-Jawziyya, *Hadi al-Arwah ila Bilad al-Afrah*, dix-neuvième chapitre (« De l'offre que le Seigneur fait à Ses serviteurs de Sa marchandise, la Jannah, et de son prix… »), dans la section où il concilie l'entrée au Paradis par l'œuvre et l'entrée par la miséricorde d'Allah, et distingue le `bi` de contrepartie, qui est nié, du `bi` de causalité, qui est affirmé (éd. Ata'at al-Ilm, 1/176-177) : [Al-Maktaba al-Shamila](https://shamela.ws/book/13652/230).
-[^5]: Sahih Muslim, Livre de la description du Jour de la Résurrection, du Paradis et du Feu, hadith 2816, rapporté par Abu Hurayrah, qu'Allah l'agrée ; hadith authentique : [Sunnah.com, rapport 2816g](https://sunnah.com/muslim:2816g). La traduction française du hadith est une traduction du sens propre au projet.
+[^1]: Le Saint Coran, sourate Ad-Dukhan, versets 51-57 : [Texte coranique](https://quran.com/44/51-57). La traduction française des versets est une traduction du sens propre au projet.
+[^2]: 'Abd al-Rahman ibn Nasir al-Sa'di, *Taysir al-Karim al-Rahman*, commentaire de la sourate Ad-Dukhan, verset 57, où il explique que le salut et le bonheur sont une grâce et une bienfaisance d'Allah : [Le Coran électronique, Université King Saud](https://quran.ksu.edu.sa/tafseer/saadi/sura44-aya57.html).
+[^3]: Le Saint Coran, sourate Al-A'raf, verset 43 : [Texte coranique](https://quran.com/7/43). La traduction française du verset est une traduction du sens propre au projet.
+[^4]: Ibn Qayyim al-Jawziyya, *Hadi al-Arwah ila Bilad al-Afrah*, dix-neuvième chapitre (« De l'offre que le Seigneur fait à Ses serviteurs de Sa marchandise, la Jannah, et de son prix… »), dans la section où il concilie l'entrée au Paradis par l'œuvre et l'entrée par la miséricorde d'Allah, et distingue le `bi` de contrepartie, qui est nié, du `bi` de causalité, qui est affirmé (éd. Ata'at al-Ilm, 1/176-177) : [Al-Maktaba al-Shamila](https://shamela.ws/book/13652/230).
+[^5]: Sahih Muslim, Livre de la description du Jour de la Résurrection, du Paradis et du Feu, hadith 2816, rapporté par Abu Hurayrah, qu'Allah l'agrée ; hadith authentique : [Sunnah.com, rapport 2816g](https://sunnah.com/muslim:2816g). La traduction française du hadith est une traduction du sens propre au projet.
 
 <!-- references:end -->

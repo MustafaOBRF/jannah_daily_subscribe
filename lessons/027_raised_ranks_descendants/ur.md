@@ -223,8 +223,6 @@ bedtime_dua_id: "lesson.027.dua.forgive-parents-gather-family"
 
 <!-- reader:end -->
 
----
-
 ## ٤ سے ٧ سال کے بچوں کے لیے
 
 <!-- reader:start audience="4-7" estimated_minutes="5.5" -->
@@ -324,8 +322,6 @@ bedtime_dua_id: "lesson.027.dua.forgive-parents-gather-family"
 <!-- unit:end -->
 
 <!-- reader:end -->
-
----
 
 ## ٨ سے ١٢ سال کے بچوں کے لیے
 
@@ -439,8 +435,6 @@ bedtime_dua_id: "lesson.027.dua.forgive-parents-gather-family"
 
 <!-- reader:end -->
 
----
-
 ## نوجوانوں کے لیے، ١٣+
 
 <!-- reader:start audience="13+" estimated_minutes="7.0" -->
@@ -552,8 +546,6 @@ bedtime_dua_id: "lesson.027.dua.forgive-parents-gather-family"
 <!-- unit:end -->
 
 <!-- reader:end -->
-
----
 
 ## تفصیلی تدریسی منصوبے
 
@@ -700,8 +692,6 @@ bedtime_dua_id: "lesson.027.dua.forgive-parents-gather-family"
 **تدریسی احتیاطیں:** کاپیاں ذاتی ہیں اور جمع نہیں کی جائیں گی۔ اگر کوئی طالب علم گھر میں کسی زیادتی یا لاپروائی کا انکشاف کرے، تو اس سے "بس دعا کرو" نہ کہا جائے، بلکہ ادارے کا منظور شدہ تحفظ کا طریقۂ کار اختیار کیا جائے۔ کسی متعین رشتہ دار کے انجام کے بارے میں فیصلہ نہ سنایا جائے؛ اور غیر اسلام پر فوت ہونے والے رشتہ داروں سے متعلق خاص فقہی سوالات کسی معتبر عالم کے پاس انفرادی گفتگو کے لیے بھیج دیے جائیں۔ اور یہ بات واضح کی جائے کہ ماں باپ کے لیے دعا کا مطلب ظلم کو قبول کر لینا یا رشتے میں صحت مند حدود کو ختم کر دینا نہیں۔
 
 <!-- lesson-plan:end -->
-
----
 
 <!-- references:start -->
 

@@ -193,8 +193,6 @@ bedtime_dua_id: "lesson.029.dua.saved-cleared-entered"
 
 <!-- reader:end -->
 
----
-
 ## ٤ سے ٧ سال کے بچوں کے لیے
 
 <!-- reader:start audience="4-7" estimated_minutes="5.0" -->
@@ -270,8 +268,6 @@ bedtime_dua_id: "lesson.029.dua.saved-cleared-entered"
 <!-- unit:end -->
 
 <!-- reader:end -->
-
----
 
 ## ٨ سے ١٢ سال کے بچوں کے لیے
 
@@ -369,8 +365,6 @@ bedtime_dua_id: "lesson.029.dua.saved-cleared-entered"
 
 <!-- reader:end -->
 
----
-
 ## نوجوانوں کے لیے، ١٣+
 
 <!-- reader:start audience="13+" estimated_minutes="7.0" -->
@@ -460,8 +454,6 @@ bedtime_dua_id: "lesson.029.dua.saved-cleared-entered"
 <!-- unit:end -->
 
 <!-- reader:end -->
-
----
 
 ## تفصیلی تدریسی منصوبے
 
@@ -608,8 +600,6 @@ bedtime_dua_id: "lesson.029.dua.saved-cleared-entered"
 **تدریسی احتیاطیں:** صفحات ذاتی رہیں اور استاد انہیں جمع نہ کرے۔ یہ تنبیہ کی جائے کہ کسی اذیت دینے والے یا غیر محفوظ شخص سے رابطہ نہ کیا جائے، اور ضرورت ہو تو امی ابو میں سے کسی کو یا کسی قابلِ اعتماد استاد کو شامل کیا جائے۔ اور پلِ صراط کے خوف کو بڑھا چڑھا کر بیان نہ کیا جائے؛ کیونکہ وہی آیت متقین کی نجات کی خوشخبری بھی دیتی ہے۔
 
 <!-- lesson-plan:end -->
-
----
 
 <!-- references:start -->
 

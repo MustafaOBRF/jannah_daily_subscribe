@@ -150,8 +150,6 @@ Describe tu casa con cinco señas distintivas, sin el nombre de la calle ni el n
 
 <!-- reader:end -->
 
----
-
 ## Para niños de 4 a 7 años
 
 <!-- reader:start audience="4-7" estimated_minutes="6.5" -->
@@ -248,8 +246,6 @@ Dicho de forma sencilla: Ya Allah, igual que conocemos el camino a nuestra casa 
 <!-- unit:end -->
 
 <!-- reader:end -->
-
----
 
 ## Para niños de 8 a 12 años
 
@@ -365,8 +361,6 @@ Su significado: Oh Allah, así como hoy nos has guiado hasta nuestras casas, haz
 
 <!-- reader:end -->
 
----
-
 ## Para adolescentes de 13+
 
 <!-- reader:start audience="13+" estimated_minutes="7.0" -->
@@ -474,8 +468,6 @@ Esta súplica une una gracia que vivimos cada noche, la de volver a casa, con la
 <!-- unit:end -->
 
 <!-- reader:end -->
-
----
 
 ## Planes de enseñanza detallados
 
@@ -622,8 +614,6 @@ Esta súplica une una gracia que vivimos cada noche, la de volver a casa, con la
 **Advertencias pedagógicas:** no se pide a ningún estudiante que revele ante el grupo las circunstancias de su migración, de su vivienda o de su familia. La lección no debe entenderse como un menosprecio del amor a la patria o a la familia, ni como una invitación a aislarse de los amigos. Si algún estudiante muestra señales de acoso o de un aislamiento grave, se le ofrece una conversación individual y se le deriva al responsable de protección del centro.
 
 <!-- lesson-plan:end -->
-
----
 
 <!-- references:start -->
 

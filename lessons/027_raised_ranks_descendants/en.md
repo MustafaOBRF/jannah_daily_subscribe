@@ -223,8 +223,6 @@ Draw a chain of links. In the upper links, write symbols for people who came bef
 
 <!-- reader:end -->
 
----
-
 ## For Children Ages 4 to 7
 
 <!-- reader:start audience="4-7" estimated_minutes="5.5" -->
@@ -324,8 +322,6 @@ O Allah, forgive me and my dad and my mom, guide my family, and by Your mercy br
 <!-- unit:end -->
 
 <!-- reader:end -->
-
----
 
 ## For Children Ages 8 to 12
 
@@ -439,8 +435,6 @@ Meaning: O Allah, forgive me and my parents, guide my family to what You love, a
 
 <!-- reader:end -->
 
----
-
 ## For Teens, Ages 13+
 
 <!-- reader:start audience="13+" estimated_minutes="7.0" -->
@@ -552,8 +546,6 @@ Meaning: O Allah, forgive me and my parents, guide my family to You, and by Your
 <!-- unit:end -->
 
 <!-- reader:end -->
-
----
 
 ## Detailed Teaching Plans
 
@@ -700,8 +692,6 @@ Meaning: O Allah, forgive me and my parents, guide my family to You, and by Your
 **Teaching Cautions:** The notebooks are private and are not collected. If a student discloses abuse or neglect at home, do not tell them to "just make du'a"; follow the institution's approved safeguarding procedure. Do not pronounce on the fate of any specific relative, and refer legal questions about relatives who died outside Islam to a trusted scholar in a one-to-one conversation. Make clear that praying for one's parents does not mean accepting mistreatment or giving up healthy boundaries in the relationship.
 
 <!-- lesson-plan:end -->
-
----
 
 <!-- references:start -->
 

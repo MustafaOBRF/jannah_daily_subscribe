@@ -237,8 +237,6 @@ On a private sheet of paper, write the line of reproach that keeps replaying in 
 
 <!-- reader:end -->
 
----
-
 ## For Children Ages 4 to 7
 
 <!-- reader:start audience="4-7" estimated_minutes="5.5" -->
@@ -321,8 +319,6 @@ What it means: O Allah, make my heart clean, so it doesn't dislike anyone. Forgi
 <!-- unit:end -->
 
 <!-- reader:end -->
-
----
 
 ## For Children Ages 8 to 12
 
@@ -422,8 +418,6 @@ What it means: O Allah, don't leave any resentment in my heart toward any believ
 
 <!-- reader:end -->
 
----
-
 ## For Teens, Ages 13+
 
 <!-- reader:start audience="13+" estimated_minutes="6.5" -->
@@ -519,8 +513,6 @@ What it means: O Allah, purify my heart of all resentment toward any believer. F
 <!-- unit:end -->
 
 <!-- reader:end -->
-
----
 
 ## Detailed Teaching Plans
 
@@ -667,8 +659,6 @@ What it means: O Allah, purify my heart of all resentment toward any believer. F
 **Teaching Cautions:** No one is asked to disclose people or conflicts. Any sign of bullying or abuse is referred on according to the safeguarding policy. Forgiveness is not presented as an immediate duty for someone who has suffered serious harm, and no one is blamed for needing time.
 
 <!-- lesson-plan:end -->
-
----
 
 <!-- references:start -->
 

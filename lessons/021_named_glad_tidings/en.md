@@ -206,8 +206,6 @@ Abu Musa was a doorkeeper who carried glad tidings; he did not invent them. Choo
 
 <!-- reader:end -->
 
----
-
 ## For Children Ages 4 to 7
 
 <!-- reader:start audience="4-7" estimated_minutes="5.0" -->
@@ -284,8 +282,6 @@ With your mom or dad, pick someone in your family you saw doing something kind t
 <!-- unit:end -->
 
 <!-- reader:end -->
-
----
 
 ## For Children Ages 8 to 12
 
@@ -378,8 +374,6 @@ Be a "doorkeeper of good" this week. Pay attention to a classmate, a brother, or
 
 <!-- reader:end -->
 
----
-
 ## For Teens, Ages 13+
 
 <!-- reader:start audience="13+" estimated_minutes="6.5" -->
@@ -469,8 +463,6 @@ Choose someone who rarely gets praised: a quiet classmate, a younger brother or 
 <!-- unit:end -->
 
 <!-- reader:end -->
-
----
 
 ## Detailed Teaching Plans
 
@@ -617,8 +609,6 @@ Choose someone who rarely gets praised: a quiet classmate, a younger brother or 
 **Teaching Cautions:** Do not let the discussion turn into sectarian argument or the reviling of any Companion or any member of the Prophet's family. Be mindful of anyone who has lost a relative: hoping for the deceased is legitimate, and this lesson does not ask anyone to doubt Allah's mercy toward them. Messages stay private and are not posted publicly.
 
 <!-- lesson-plan:end -->
-
----
 
 <!-- references:start -->
 

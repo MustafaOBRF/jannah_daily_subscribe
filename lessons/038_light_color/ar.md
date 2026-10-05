@@ -166,8 +166,6 @@ bedtime_dua_id: "lesson.038.dua.light-in-heart-and-all-sides"
 
 <!-- reader:end -->
 
----
-
 ## للأطفال من ٤ إلى ٧ سنوات
 
 <!-- reader:start audience="4-7" estimated_minutes="5.5" -->
@@ -268,8 +266,6 @@ bedtime_dua_id: "lesson.038.dua.light-in-heart-and-all-sides"
 <!-- unit:end -->
 
 <!-- reader:end -->
-
----
 
 ## للأطفال من ٨ إلى ١٢ سنة
 
@@ -384,8 +380,6 @@ bedtime_dua_id: "lesson.038.dua.light-in-heart-and-all-sides"
 
 <!-- reader:end -->
 
----
-
 ## للمراهقين ١٣+
 
 <!-- reader:start audience="13+" estimated_minutes="6.5" -->
@@ -497,8 +491,6 @@ bedtime_dua_id: "lesson.038.dua.light-in-heart-and-all-sides"
 <!-- unit:end -->
 
 <!-- reader:end -->
-
----
 
 ## خطط التدريس المفصّلة
 
@@ -645,8 +637,6 @@ bedtime_dua_id: "lesson.038.dua.light-in-heart-and-all-sides"
 **تنبيهات التعليم:** لا تُعرض صور الطلاب ولا يُعلَّق على ملامح أحد أو لون بشرته. ومن ظهرت عليه علامات أذى نفسي من التنمر أو صورة الجسد يُحال بلطف إلى حوار فردي وإلى المختص. ويُرفض صراحة أي فهم يجعل البياض في النصوص ميزة عرقية. ولا يُحكم على أحد بعينه بالنفاق.
 
 <!-- lesson-plan:end -->
-
----
 
 <!-- references:start -->
 

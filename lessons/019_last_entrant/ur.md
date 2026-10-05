@@ -156,8 +156,6 @@ bedtime_dua_id: "lesson.019.dua.never-despair-of-mercy"
 
 <!-- reader:end -->
 
----
-
 ## ٤ سے ٧ سال کے بچوں کے لیے
 
 <!-- reader:start audience="4-7" estimated_minutes="4.5" -->
@@ -227,8 +225,6 @@ bedtime_dua_id: "lesson.019.dua.never-despair-of-mercy"
 <!-- unit:end -->
 
 <!-- reader:end -->
-
----
 
 ## ٨ سے ١٢ سال کے بچوں کے لیے
 
@@ -314,8 +310,6 @@ bedtime_dua_id: "lesson.019.dua.never-despair-of-mercy"
 <!-- unit:end -->
 
 <!-- reader:end -->
-
----
 
 ## نوجوانوں کے لیے، ١٣+
 
@@ -404,8 +398,6 @@ bedtime_dua_id: "lesson.019.dua.never-despair-of-mercy"
 <!-- unit:end -->
 
 <!-- reader:end -->
-
----
 
 ## تفصیلی تدریسی منصوبے
 
@@ -552,8 +544,6 @@ bedtime_dua_id: "lesson.019.dua.never-despair-of-mercy"
 **تدریسی احتیاطیں:** استاد کو متنبہ کیا جائے کہ حدیث کو گناہوں کو ہلکا سمجھنے یا توبہ کو ٹالنے کا جواز نہ بنایا جائے، اور عذاب کی تکلیف دہ تفصیلات میں جانے یا شدید احساسِ گناہ رکھنے والوں میں بے جا پریشانی پیدا کرنے سے بچا جائے؛ جس پر حد سے زیادہ پریشانی کے آثار نظر آئیں، اس سے الگ میں حوصلہ افزا بات چیت کی جائے۔
 
 <!-- lesson-plan:end -->
-
----
 
 <!-- references:start -->
 

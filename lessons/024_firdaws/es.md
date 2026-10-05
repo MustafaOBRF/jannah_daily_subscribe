@@ -192,8 +192,6 @@ Escribe en lo alto de la hoja: "Oh Allah, Te pido el Firdaus". Luego elige, entr
 
 <!-- reader:end -->
 
----
-
 ## Para niños de 4 a 7 años
 
 <!-- reader:start audience="4-7" estimated_minutes="7.0" -->
@@ -288,8 +286,6 @@ Dicho de forma sencilla: Allah, Te pedimos el lugar más alto del Paraíso; hazn
 <!-- unit:end -->
 
 <!-- reader:end -->
-
----
 
 ## Para niños de 8 a 12 años
 
@@ -399,8 +395,6 @@ Su sentido: Oh Allah, Te pedimos lo más alto del Paraíso, como nuestro Profeta
 
 <!-- reader:end -->
 
----
-
 ## Para adolescentes de 13+
 
 <!-- reader:start audience="13+" estimated_minutes="7.0" -->
@@ -508,8 +502,6 @@ Esta súplica une la obediencia a la orden del Profeta, la paz y las bendiciones
 <!-- unit:end -->
 
 <!-- reader:end -->
-
----
 
 ## Planes de enseñanza detallados
 
@@ -656,8 +648,6 @@ Esta súplica une la obediencia a la orden del Profeta, la paz y las bendiciones
 **Advertencias pedagógicas:** no se pide a nadie que revele ante el grupo situaciones reales de acoso; si alguien da a entender que lo sufre, se le ofrece una conversación individual y se le remite a la persona responsable de la protección en el centro. Se aclara que apartarse de la vanidad no significa despreciar a los amigos ni cortar relaciones sin sabiduría.
 
 <!-- lesson-plan:end -->
-
----
 
 <!-- references:start -->
 

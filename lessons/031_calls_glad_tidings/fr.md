@@ -148,8 +148,6 @@ Préparez quatre enveloppes et inscrivez sur chacune une formule de l'appel : �
 
 <!-- reader:end -->
 
----
-
 ## Pour Les Enfants De 4 À 7 Ans
 
 <!-- reader:start audience="4-7" estimated_minutes="6.0" -->
@@ -253,8 +251,6 @@ Ce qu'elle veut dire, tout simplement : Ô Allah, protège-nous de la maladie i
 <!-- unit:end -->
 
 <!-- reader:end -->
-
----
 
 ## Pour Les Enfants De 8 À 12 Ans
 
@@ -367,8 +363,6 @@ Son sens : Ô Allah, accorde-nous la bonne santé ici-bas, place-nous parmi les
 
 <!-- reader:end -->
 
----
-
 ## Pour Les Adolescents, 13 Ans Et Plus
 
 <!-- reader:start audience="13+" estimated_minutes="7.0" -->
@@ -478,8 +472,6 @@ Cette invocation réunit la demande de bonne santé ici-bas, qui est légitime, 
 <!-- unit:end -->
 
 <!-- reader:end -->
-
----
 
 ## Plans D'enseignement Détaillés
 
@@ -626,8 +618,6 @@ Cette invocation réunit la demande de bonne santé ici-bas, qui est légitime, 
 **Précautions pédagogiques :** ne jamais commenter l'apparence ou le corps d'un élève. Si un élève montre des signes d'anxiété intense liée à l'image de son corps ou de troubles alimentaires, l'orienter avec délicatesse vers un entretien individuel et vers les professionnels compétents. Ne jamais dénigrer les personnes âgées ni la vieillesse : le propos porte sur la disparition de la faiblesse, non sur un défaut des aînés.
 
 <!-- lesson-plan:end -->
-
----
 
 <!-- references:start -->
 

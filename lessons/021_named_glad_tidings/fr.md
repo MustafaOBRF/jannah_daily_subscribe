@@ -218,8 +218,6 @@ Abu Musa était un portier qui transmettait la bonne nouvelle, non qui la fabriq
 
 <!-- reader:end -->
 
----
-
 ## Pour les enfants de 4 à 7 ans
 
 <!-- reader:start audience="4-7" estimated_minutes="5.0" -->
@@ -296,8 +294,6 @@ Avec ton papa ou ta maman, choisis quelqu'un de ta famille que tu as vu faire qu
 <!-- unit:end -->
 
 <!-- reader:end -->
-
----
 
 ## Pour les enfants de 8 à 12 ans
 
@@ -390,8 +386,6 @@ Cette semaine, deviens le « portier du bien ». Observe un camarade, un frèr
 
 <!-- reader:end -->
 
----
-
 ## Pour les adolescents, 13 ans et plus
 
 <!-- reader:start audience="13+" estimated_minutes="6.5" -->
@@ -481,8 +475,6 @@ Choisis quelqu'un que l'on félicite rarement : un camarade discret, un petit f
 <!-- unit:end -->
 
 <!-- reader:end -->
-
----
 
 ## Plans d'enseignement détaillés
 
@@ -629,8 +621,6 @@ Choisis quelqu'un que l'on félicite rarement : un camarade discret, un petit f
 **Précautions pédagogiques :** ne pas laisser la discussion dériver vers une polémique confessionnelle ou vers l'injure envers un Compagnon ou un membre de la famille du Prophète. Avoir égard à celui qui a perdu un proche : espérer pour le défunt est légitime, et cette leçon ne demande à personne de douter de la miséricorde d'Allah envers lui. Les messages restent privés et ne sont pas publiés.
 
 <!-- lesson-plan:end -->
-
----
 
 <!-- references:start -->
 

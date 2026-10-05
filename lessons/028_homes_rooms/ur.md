@@ -144,8 +144,6 @@ bedtime_dua_id: "lesson.028.dua.guide-us-to-our-homes"
 
 <!-- reader:end -->
 
----
-
 ## ٤ سے ٧ سال کے بچوں کے لیے
 
 <!-- reader:start audience="4-7" estimated_minutes="6.0" -->
@@ -242,8 +240,6 @@ bedtime_dua_id: "lesson.028.dua.guide-us-to-our-homes"
 <!-- unit:end -->
 
 <!-- reader:end -->
-
----
 
 ## ٨ سے ١٢ سال کے بچوں کے لیے
 
@@ -359,8 +355,6 @@ bedtime_dua_id: "lesson.028.dua.guide-us-to-our-homes"
 
 <!-- reader:end -->
 
----
-
 ## نوجوانوں کے لیے، ١٣+
 
 <!-- reader:start audience="13+" estimated_minutes="7.0" -->
@@ -468,8 +462,6 @@ bedtime_dua_id: "lesson.028.dua.guide-us-to-our-homes"
 <!-- unit:end -->
 
 <!-- reader:end -->
-
----
 
 ## تفصیلی تدریسی منصوبے
 
@@ -616,8 +608,6 @@ bedtime_dua_id: "lesson.028.dua.guide-us-to-our-homes"
 **تدریسی احتیاطیں:** کسی طالب علم سے یہ تقاضا نہ کیا جائے کہ وہ گروپ کے سامنے اپنی ہجرت، رہائش یا گھرانے کے حالات کھولے۔ سبق کو نہ وطن یا گھر والوں کی محبت کو ہلکا سمجھنے کے معنی میں لیا جائے، نہ دوستوں سے الگ تھلگ ہو جانے کی دعوت سمجھا جائے۔ اور جس پر کسی کے ستانے (بُلِنگ) یا شدید تنہائی کے آثار نظر آئیں، اس سے الگ سے بات کی جائے اور اسے ادارے میں تحفظ کے ذمہ دار شعبے کے حوالے کیا جائے۔
 
 <!-- lesson-plan:end -->
-
----
 
 <!-- references:start -->
 

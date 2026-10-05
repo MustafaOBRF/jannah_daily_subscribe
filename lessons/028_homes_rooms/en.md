@@ -144,8 +144,6 @@ Write a description of your home using five distinctive landmarks, without the s
 
 <!-- reader:end -->
 
----
-
 ## For Children Ages 4 to 7
 
 <!-- reader:start audience="4-7" estimated_minutes="6.0" -->
@@ -244,8 +242,6 @@ What it means, simply: O Allah, just as we know the way to our home here, let us
 <!-- unit:end -->
 
 <!-- reader:end -->
-
----
 
 ## For Children Ages 8 to 12
 
@@ -363,8 +359,6 @@ What it means: O Allah, as You guided us home today, bring us into the Jannah Yo
 
 <!-- reader:end -->
 
----
-
 ## For Teens, Ages 13+
 
 <!-- reader:start audience="13+" estimated_minutes="7.0" -->
@@ -472,8 +466,6 @@ This du'a links a blessing we live every night, coming home, with the hope of a 
 <!-- unit:end -->
 
 <!-- reader:end -->
-
----
 
 ## Detailed Teaching Plans
 
@@ -620,8 +612,6 @@ This du'a links a blessing we live every night, coming home, with the hope of a 
 **Teaching Cautions:** No student should be asked to reveal anything about their migration, housing, or family circumstances in front of the group. The lesson must not be taken as belittling love of one's homeland or family, nor as a call to withdraw from friends. Any student who shows signs of bullying or severe isolation should be referred for a one-on-one conversation and to the person responsible for child protection in the institution.
 
 <!-- lesson-plan:end -->
-
----
 
 <!-- references:start -->
 

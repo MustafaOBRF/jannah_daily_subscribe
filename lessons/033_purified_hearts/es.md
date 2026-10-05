@@ -253,8 +253,6 @@ En una hoja privada, escribe la frase de reproche que se te repite por dentro ha
 
 <!-- reader:end -->
 
----
-
 ## Para niños de 4 a 7 años
 
 <!-- reader:start audience="4-7" estimated_minutes="5.0" -->
@@ -335,8 +333,6 @@ Qué quiere decir: "Oh Allah, deja mi corazón limpito, que no le tenga rabia a 
 <!-- unit:end -->
 
 <!-- reader:end -->
-
----
 
 ## Para niños de 8 a 12 años
 
@@ -434,8 +430,6 @@ Su significado: "Oh Allah, no dejes en mi corazón rencor hacia ningún creyente
 
 <!-- reader:end -->
 
----
-
 ## Para adolescentes de 13+
 
 <!-- reader:start audience="13+" estimated_minutes="6.5" -->
@@ -529,8 +523,6 @@ Su significado: "Oh Allah, limpia mi corazón de todo rencor hacia cualquier cre
 <!-- unit:end -->
 
 <!-- reader:end -->
-
----
 
 ## Planes de enseñanza detallados
 
@@ -677,8 +669,6 @@ Su significado: "Oh Allah, limpia mi corazón de todo rencor hacia cualquier cre
 **Advertencias pedagógicas:** no se pide revelar personas ni conflictos. Cualquier indicio de acoso o maltrato se deriva conforme a la política de protección. No se presenta el perdón como una obligación inmediata para quien ha sufrido un daño grave, y no se reprocha nada a quien necesita tiempo.
 
 <!-- lesson-plan:end -->
-
----
 
 <!-- references:start -->
 

@@ -164,8 +164,6 @@ Dressez la liste des cinq choses qui comptent le plus pour vous ou que vous dés
 
 <!-- reader:end -->
 
----
-
 ## Pour Les Enfants De 4 À 7 Ans
 
 <!-- reader:start audience="4-7" estimated_minutes="4.0" -->
@@ -235,8 +233,6 @@ Avec ton papa ou ta maman, dessine trois choses que tu aimes très fort (un joue
 <!-- unit:end -->
 
 <!-- reader:end -->
-
----
 
 ## Pour Les Enfants De 8 À 12 Ans
 
@@ -322,8 +318,6 @@ Fais la liste de cinq choses que tu aimes en ce monde (des amis, des jeux, des l
 <!-- unit:end -->
 
 <!-- reader:end -->
-
----
 
 ## Pour Les Adolescents, 13 Ans Et Plus
 
@@ -412,8 +406,6 @@ Dresse la liste des cinq éléments les plus importants de « ton monde » : 
 <!-- unit:end -->
 
 <!-- reader:end -->
-
----
 
 ## Plans D'enseignement Détaillés
 
@@ -560,8 +552,6 @@ Dresse la liste des cinq éléments les plus importants de « ton monde » : 
 **Précautions pédagogiques :** l'enseignant veille à ce que le hadith ne serve pas à justifier le mépris des péchés ou le report du repentir, et évite d'entrer dans des détails douloureux sur le châtiment ou de susciter une anxiété excessive chez qui éprouve une forte culpabilité ; un élève qui manifeste une inquiétude excessive est orienté vers un échange individuel bienveillant.
 
 <!-- lesson-plan:end -->
-
----
 
 <!-- references:start -->
 

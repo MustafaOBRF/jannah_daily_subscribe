@@ -205,8 +205,6 @@ Dans un carnet personnel, passez en revue quatre catégories de droits : une de
 
 <!-- reader:end -->
 
----
-
 ## Pour Les Enfants De 4 À 7 Ans
 
 <!-- reader:start audience="4-7" estimated_minutes="5.0" -->
@@ -282,8 +280,6 @@ Ce qui veut dire : « Ô Allah, sauve-nous avec ceux qui T'obéissent, aide-no
 <!-- unit:end -->
 
 <!-- reader:end -->
-
----
 
 ## Pour Les Enfants De 8 À 12 Ans
 
@@ -381,8 +377,6 @@ Ce qui veut dire : « Ô Allah, mets-nous au nombre de ceux qui sont sauvés a
 
 <!-- reader:end -->
 
----
-
 ## Pour Les Adolescents, 13 Ans Et Plus
 
 <!-- reader:start audience="13+" estimated_minutes="6.5" -->
@@ -472,8 +466,6 @@ Ce qui veut dire : « Ô Allah, compte-nous parmi ceux que Tu sauves avec ceux
 <!-- unit:end -->
 
 <!-- reader:end -->
-
----
 
 ## Plans D'enseignement Détaillés
 
@@ -620,8 +612,6 @@ Ce qui veut dire : « Ô Allah, compte-nous parmi ceux que Tu sauves avec ceux
 **Précautions pédagogiques :** les pages restent personnelles, et l'enseignant ne les ramasse pas. Rappeler qu'il ne faut pas prendre contact avec une personne malveillante ou avec qui l'on n'est pas en sécurité, et qu'il faut, au besoin, associer un parent ou un enseignant de confiance. Ne pas amplifier la peur du Sirat : le verset lui-même annonce le salut de ceux qui ont craint Allah.
 
 <!-- lesson-plan:end -->
-
----
 
 <!-- references:start -->
 

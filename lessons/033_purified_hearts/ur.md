@@ -237,8 +237,6 @@ bedtime_dua_id: "lesson.033.dua.no-rancour-brothers-facing"
 
 <!-- reader:end -->
 
----
-
 ## ٤ سے ٧ سال کے بچوں کے لیے
 
 <!-- reader:start audience="4-7" estimated_minutes="6.0" -->
@@ -319,8 +317,6 @@ bedtime_dua_id: "lesson.033.dua.no-rancour-brothers-facing"
 <!-- unit:end -->
 
 <!-- reader:end -->
-
----
 
 ## ٨ سے ١٢ سال کے بچوں کے لیے
 
@@ -418,8 +414,6 @@ bedtime_dua_id: "lesson.033.dua.no-rancour-brothers-facing"
 
 <!-- reader:end -->
 
----
-
 ## نوجوانوں کے لیے، ١٣+
 
 <!-- reader:start audience="13+" estimated_minutes="7.0" -->
@@ -513,8 +507,6 @@ bedtime_dua_id: "lesson.033.dua.no-rancour-brothers-facing"
 <!-- unit:end -->
 
 <!-- reader:end -->
-
----
 
 ## تفصیلی تدریسی منصوبے
 
@@ -661,8 +653,6 @@ bedtime_dua_id: "lesson.033.dua.no-rancour-brothers-facing"
 **تدریسی احتیاطیں:** افراد یا اختلافات ظاہر کرنے کو نہ کہا جائے۔ بُلنگ یا ایذا کی طرف کوئی بھی اشارہ ہو تو تحفظ کی پالیسی کے مطابق معاملہ آگے بڑھایا جائے۔ سنگین ایذا سہنے والے پر معافی کو فوری فرض کے طور پر پیش نہ کیا جائے، اور جسے وقت درکار ہو اسے ملامت نہ کی جائے۔
 
 <!-- lesson-plan:end -->
-
----
 
 <!-- references:start -->
 

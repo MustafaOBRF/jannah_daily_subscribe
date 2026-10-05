@@ -205,8 +205,6 @@ Repasa en un cuaderno personal cuatro tipos de derechos: una deuda o un depósit
 
 <!-- reader:end -->
 
----
-
 ## Para niños de 4 a 7 años
 
 <!-- reader:start audience="4-7" estimated_minutes="5.0" -->
@@ -282,8 +280,6 @@ Con tu papá o tu mamá, dibuja un puentecito con tres piedras. Piensa con ellos
 <!-- unit:end -->
 
 <!-- reader:end -->
-
----
 
 ## Para niños de 8 a 12 años
 
@@ -381,8 +377,6 @@ Haz una "tarjeta del puente" con tres tablones: (1) **¿Qué debo?** Un derecho 
 
 <!-- reader:end -->
 
----
-
 ## Para adolescentes de 13+
 
 <!-- reader:start audience="13+" estimated_minutes="6.0" -->
@@ -472,8 +466,6 @@ Abre una página personal con tres columnas: "El derecho que debo", "Cómo voy a
 <!-- unit:end -->
 
 <!-- reader:end -->
-
----
 
 ## Planes de enseñanza detallados
 
@@ -620,8 +612,6 @@ Abre una página personal con tres columnas: "El derecho que debo", "Cómo voy a
 **Advertencias pedagógicas:** las páginas son personales y el docente no las recoge. Se advierte que no hay que comunicarse con una persona dañina ni con alguien con quien uno no se siente seguro, y que conviene implicar a un padre, una madre o un profesor de confianza cuando haga falta. Y no se exagera el miedo al Sirat: la propia aleya anuncia la salvación de los temerosos de Allah.
 
 <!-- lesson-plan:end -->
-
----
 
 <!-- references:start -->
 

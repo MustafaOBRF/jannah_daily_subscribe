@@ -182,8 +182,6 @@ bedtime_dua_id: "lesson.036.dua.steps-on-earth-inherit-musk-land"
 
 <!-- reader:end -->
 
----
-
 ## ٤ سے ٧ سال کے بچوں کے لیے
 
 <!-- reader:start audience="4-7" estimated_minutes="6.0" -->
@@ -292,8 +290,6 @@ bedtime_dua_id: "lesson.036.dua.steps-on-earth-inherit-musk-land"
 <!-- unit:end -->
 
 <!-- reader:end -->
-
----
 
 ## ٨ سے ١٢ سال کے بچوں کے لیے
 
@@ -417,8 +413,6 @@ bedtime_dua_id: "lesson.036.dua.steps-on-earth-inherit-musk-land"
 
 <!-- reader:end -->
 
----
-
 ## نوجوانوں کے لیے، ١٣+
 
 <!-- reader:start audience="13+" estimated_minutes="7.0" -->
@@ -531,8 +525,6 @@ bedtime_dua_id: "lesson.036.dua.steps-on-earth-inherit-musk-land"
 <!-- unit:end -->
 
 <!-- reader:end -->
-
----
 
 ## تفصیلی تدریسی منصوبے
 
@@ -679,8 +671,6 @@ bedtime_dua_id: "lesson.036.dua.steps-on-earth-inherit-musk-land"
 **تدریسی احتیاطیں:** کسی طالب علم سے کسی حقیقی خاندانی جھگڑے کو ظاہر کرنے کا مطالبہ نہ کیا جائے۔ کہانی سے یہ نہ سمجھا جائے کہ جائز حق کا مطالبہ کرنا غلط ہے؛ مقصد بدزبانی اور قطع تعلق کو چھوڑنا ہے۔ جس طالب علم کے بارے میں معلوم ہو کہ وہ کسی تکلیف دہ خاندانی جھگڑے سے گزر رہا ہے، اسے نرمی سے انفرادی گفتگو کی طرف لے جایا جائے۔ اور طلبہ کسی کی ذاتی زمین میں اس کے مالکوں کی اجازت کے بغیر داخل نہ ہوں۔
 
 <!-- lesson-plan:end -->
-
----
 
 <!-- references:start -->
 

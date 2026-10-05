@@ -196,8 +196,6 @@ Tracez deux colonnes : « Lumière empruntée » et « Lumière portée ».
 
 <!-- reader:end -->
 
----
-
 ## Pour Les Enfants De 4 À 7 Ans
 
 <!-- reader:start audience="4-7" estimated_minutes="6.5" -->
@@ -298,8 +296,6 @@ Le Prophète, paix et bénédictions sur lui, faisait cette invocation, et nous 
 <!-- unit:end -->
 
 <!-- reader:end -->
-
----
 
 ## Pour Les Enfants De 8 À 12 Ans
 
@@ -414,8 +410,6 @@ Voici une invocation que le Prophète, paix et bénédictions sur lui, faisait l
 
 <!-- reader:end -->
 
----
-
 ## Pour Les Adolescents, 13 Ans Et Plus
 
 <!-- reader:start audience="13+" estimated_minutes="7.0" -->
@@ -527,8 +521,6 @@ Remarque que l'invocation commence par le cœur avant les yeux : la lumière qu
 <!-- unit:end -->
 
 <!-- reader:end -->
-
----
 
 ## Plans D'enseignement Détaillés
 
@@ -675,8 +667,6 @@ Remarque que l'invocation commence par le cœur avant les yeux : la lumière qu
 **Précautions pédagogiques :** ne montrer aucune photo d'élève, et ne commenter ni les traits ni la couleur de peau de quiconque. Tout élève qui présente des signes de souffrance psychologique liée au harcèlement ou à l'image du corps est orienté avec délicatesse vers un entretien individuel et vers un professionnel. Rejeter explicitement toute lecture qui ferait de la blancheur mentionnée dans les textes un privilège racial. Ne déclarer personne nommément hypocrite.
 
 <!-- lesson-plan:end -->
-
----
 
 <!-- references:start -->
 

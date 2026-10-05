@@ -193,8 +193,6 @@ In a private notebook, review four kinds of rights: a debt or a trust you have n
 
 <!-- reader:end -->
 
----
-
 ## For Children Ages 4 to 7
 
 <!-- reader:start audience="4-7" estimated_minutes="5.0" -->
@@ -272,8 +270,6 @@ What it means: O Allah, keep us safe with the people who obey You, help us give 
 <!-- unit:end -->
 
 <!-- reader:end -->
-
----
 
 ## For Children Ages 8 to 12
 
@@ -373,8 +369,6 @@ What it means: O Allah, make us among those You rescue along with the mindful, h
 
 <!-- reader:end -->
 
----
-
 ## For Teens, Ages 13+
 
 <!-- reader:start audience="13+" estimated_minutes="6.0" -->
@@ -466,8 +460,6 @@ What it means: O Allah, make us among those You rescue along with the mindful, h
 <!-- unit:end -->
 
 <!-- reader:end -->
-
----
 
 ## Detailed Teaching Plans
 
@@ -614,8 +606,6 @@ What it means: O Allah, make us among those You rescue along with the mindful, h
 **Teaching Cautions:** The pages remain private, and the teacher does not collect them. Remind students not to contact anyone who is abusive or unsafe, and to involve a parent or a teacher they trust when needed. Do not inflate fear of the Sirat: the very same ayah gives the glad tidings that the mindful will be rescued.
 
 <!-- lesson-plan:end -->
-
----
 
 <!-- references:start -->
 

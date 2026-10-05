@@ -237,8 +237,6 @@ Dessinez une chaîne de maillons. Dans les maillons du haut, inscrivez des symbo
 
 <!-- reader:end -->
 
----
-
 ## Pour Les Enfants De 4 À 7 Ans
 
 <!-- reader:start audience="4-7" estimated_minutes="5.5" -->
@@ -338,8 +336,6 @@ Avec ton papa, ta maman ou la personne qui prend soin de toi, découpez des band
 <!-- unit:end -->
 
 <!-- reader:end -->
-
----
 
 ## Pour Les Enfants De 8 À 12 Ans
 
@@ -453,8 +449,6 @@ Sens : Ô Allah, pardonne-moi et pardonne à mes parents, guide ma famille vers
 
 <!-- reader:end -->
 
----
-
 ## Pour Les Adolescents, 13 Ans Et Plus
 
 <!-- reader:start audience="13+" estimated_minutes="7.0" -->
@@ -566,8 +560,6 @@ Sens : Ô Allah, pardonne-moi et pardonne à mes parents, guide ma famille vers
 <!-- unit:end -->
 
 <!-- reader:end -->
-
----
 
 ## Plans D'enseignement Détaillés
 
@@ -714,8 +706,6 @@ Sens : Ô Allah, pardonne-moi et pardonne à mes parents, guide ma famille vers
 **Précautions pédagogiques :** les carnets sont personnels et ne sont pas ramassés. Si un élève révèle une maltraitance ou une négligence à la maison, on ne lui demande pas de « seulement invoquer » : on suit la procédure de protection de l'enfance en vigueur dans l'établissement. On ne se prononce jamais sur le sort d'un proche en particulier, et les questions juridiques concernant des proches décédés hors de l'islam sont renvoyées à un savant de confiance, dans un échange individuel. On précise enfin qu'invoquer pour ses parents ne signifie ni accepter l'injustice ni renoncer à des limites saines dans la relation.
 
 <!-- lesson-plan:end -->
-
----
 
 <!-- references:start -->
 

@@ -156,8 +156,6 @@ List the five things you most love or long for in this world (wealth, health, st
 
 <!-- reader:end -->
 
----
-
 ## For Children Ages 4 to 7
 
 <!-- reader:start audience="4-7" estimated_minutes="4.0" -->
@@ -227,8 +225,6 @@ With your mom or dad, draw three things you love very much (a toy, a yummy food,
 <!-- unit:end -->
 
 <!-- reader:end -->
-
----
 
 ## For Children Ages 8 to 12
 
@@ -314,8 +310,6 @@ Make a list of five things you love in this world (friends, games, places, food,
 <!-- unit:end -->
 
 <!-- reader:end -->
-
----
 
 ## For Teens, Ages 13+
 
@@ -404,8 +398,6 @@ List the five most important things in "your world": something you own, a relati
 <!-- unit:end -->
 
 <!-- reader:end -->
-
----
 
 ## Detailed Teaching Plans
 
@@ -552,8 +544,6 @@ List the five most important things in "your world": something you own, a relati
 **Teaching Cautions:** The teacher should take care that the hadith is not used to justify treating sins lightly or postponing repentance, and should avoid dwelling on painful details of punishment or stirring up excessive anxiety in anyone who already carries a heavy sense of guilt; a student who shows signs of excessive anxiety should be gently guided into a supportive one-on-one conversation.
 
 <!-- lesson-plan:end -->
-
----
 
 <!-- references:start -->
 

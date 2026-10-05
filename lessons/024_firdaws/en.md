@@ -182,8 +182,6 @@ At the top of a sheet of paper, write: "O Allah, I ask You for al-Firdaws." Then
 
 <!-- reader:end -->
 
----
-
 ## For Children Ages 4 to 7
 
 <!-- reader:start audience="4-7" estimated_minutes="6.0" -->
@@ -276,8 +274,6 @@ What it means, in simple words: O Allah, we ask You for the very highest place i
 <!-- unit:end -->
 
 <!-- reader:end -->
-
----
 
 ## For Children Ages 8 to 12
 
@@ -384,8 +380,6 @@ What it means: O Allah, we ask You for the highest part of Jannah, just as our P
 <!-- unit:end -->
 
 <!-- reader:end -->
-
----
 
 ## For Teens, Ages 13+
 
@@ -494,8 +488,6 @@ This du'a brings together obedience to the Prophet's command, peace and blessing
 <!-- unit:end -->
 
 <!-- reader:end -->
-
----
 
 ## Detailed Teaching Plans
 
@@ -642,8 +634,6 @@ This du'a brings together obedience to the Prophet's command, peace and blessing
 **Teaching Cautions:** Do not ask anyone to disclose real bullying incidents in front of the group. If a student indicates that they have been bullied, follow up in a one-on-one conversation and refer the matter to the person responsible for safeguarding in the institution. Point out that turning away from idle talk does not mean despising one's friends or cutting off relationships without wisdom.
 
 <!-- lesson-plan:end -->
-
----
 
 <!-- references:start -->
 

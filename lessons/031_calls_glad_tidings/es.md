@@ -148,8 +148,6 @@ Prepara cuatro sobres y escribe en cada uno unas palabras de la proclama: «Esta
 
 <!-- reader:end -->
 
----
-
 ## Para niños de 4 a 7 años
 
 <!-- reader:start audience="4-7" estimated_minutes="6.5" -->
@@ -253,8 +251,6 @@ En palabras sencillas: Oh Allah, protégenos de la enfermedad aquí, llévanos a
 <!-- unit:end -->
 
 <!-- reader:end -->
-
----
 
 ## Para niños de 8 a 12 años
 
@@ -365,8 +361,6 @@ Su sentido: Oh Allah, concédenos bienestar en este mundo, cuéntanos entre la g
 
 <!-- reader:end -->
 
----
-
 ## Para adolescentes de 13+
 
 <!-- reader:start audience="13+" estimated_minutes="7.0" -->
@@ -476,8 +470,6 @@ Esta súplica une la petición de bienestar en este mundo, que es legítima, con
 <!-- unit:end -->
 
 <!-- reader:end -->
-
----
 
 ## Planes de enseñanza detallados
 
@@ -624,8 +616,6 @@ Esta súplica une la petición de bienestar en este mundo, que es legítima, con
 **Advertencias pedagógicas:** no se comenta el aspecto físico ni el cuerpo de ningún estudiante. Si alguien muestra señales de ansiedad intensa por su imagen corporal o de un trastorno de la conducta alimentaria, se le deriva con delicadeza a una conversación individual y al servicio especializado correspondiente. Y no se desprecia a los mayores ni a la vejez: se habla de que la debilidad desaparecerá, no de un defecto de las personas mayores.
 
 <!-- lesson-plan:end -->
-
----
 
 <!-- references:start -->
 

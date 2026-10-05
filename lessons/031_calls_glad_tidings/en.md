@@ -142,8 +142,6 @@ Prepare four envelopes, and write on each one a phrase from the call: «تَصِ
 
 <!-- reader:end -->
 
----
-
 ## For Children Ages 4 to 7
 
 <!-- reader:start audience="4-7" estimated_minutes="6.5" -->
@@ -247,8 +245,6 @@ What it means, in simple words: O Allah, keep us safe from being sick here, brin
 <!-- unit:end -->
 
 <!-- reader:end -->
-
----
 
 ## For Children Ages 8 to 12
 
@@ -361,8 +357,6 @@ What it means: O Allah, give us well-being in this world, make us among the peop
 
 <!-- reader:end -->
 
----
-
 ## For Teens, Ages 13+
 
 <!-- reader:start audience="13+" estimated_minutes="7.0" -->
@@ -472,8 +466,6 @@ This du'a brings together two requests: well-being in this world, which is a leg
 <!-- unit:end -->
 
 <!-- reader:end -->
-
----
 
 ## Detailed Teaching Plans
 
@@ -620,8 +612,6 @@ This du'a brings together two requests: well-being in this world, which is a leg
 **Teaching Cautions:** Never discuss any student's appearance or body. A student who shows signs of serious anxiety about body image or of disordered eating should be gently invited to a one-on-one conversation and referred to the appropriate professional support. Never disparage the elderly or old age; the point is that frailty will disappear, not that older people are flawed.
 
 <!-- lesson-plan:end -->
-
----
 
 <!-- references:start -->
 

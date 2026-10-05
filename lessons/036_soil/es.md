@@ -192,8 +192,6 @@ Pon en un recipiente pequeño un puñado de tierra de un jardín o de un camino,
 
 <!-- reader:end -->
 
----
-
 ## Para niños de 4 a 7 años
 
 <!-- reader:start audience="4-7" estimated_minutes="7.0" -->
@@ -302,8 +300,6 @@ Su sentido, en palabras sencillas: Oh Allah, haz que caminemos por la tierra hac
 <!-- unit:end -->
 
 <!-- reader:end -->
-
----
 
 ## Para niños de 8 a 12 años
 
@@ -433,8 +429,6 @@ Su sentido: Oh Allah, que cada paso que demos sobre la tierra sea en obediencia 
 
 <!-- reader:end -->
 
----
-
 ## Para adolescentes de 13+
 
 <!-- reader:start audience="13+" estimated_minutes="7.0" -->
@@ -555,8 +549,6 @@ Esta súplica une las dos tierras: la que pisamos hoy, en la que pedimos a Allah
 <!-- unit:end -->
 
 <!-- reader:end -->
-
----
 
 ## Planes de enseñanza detallados
 
@@ -703,8 +695,6 @@ Esta súplica une las dos tierras: la que pisamos hoy, en la que pedimos a Allah
 **Advertencias pedagógicas:** no se pide a ningún estudiante que revele un conflicto familiar real. Del relato no debe deducirse que reclamar un derecho legítimo esté mal: lo que se busca es dejar la ofensa y la ruptura de los lazos. Si se ve que un estudiante vive un conflicto familiar doloroso, se le invita con delicadeza a una conversación a solas. Y los estudiantes no entran en un terreno privado sin permiso de sus dueños.
 
 <!-- lesson-plan:end -->
-
----
 
 <!-- references:start -->
 

@@ -253,8 +253,6 @@ Sur une feuille que vous garderez pour vous, écrivez la phrase de reproche qui 
 
 <!-- reader:end -->
 
----
-
 ## Pour Les Enfants De 4 À 7 Ans
 
 <!-- reader:start audience="4-7" estimated_minutes="5.0" -->
@@ -335,8 +333,6 @@ Ce que cela veut dire : Ô Allah, garde mon cœur tout propre, sans en vouloir 
 <!-- unit:end -->
 
 <!-- reader:end -->
-
----
 
 ## Pour Les Enfants De 8 À 12 Ans
 
@@ -434,8 +430,6 @@ Son sens : Ô Allah, ne laisse dans mon cœur aucune rancœur envers aucun croy
 
 <!-- reader:end -->
 
----
-
 ## Pour Les Adolescents, 13 Ans Et Plus
 
 <!-- reader:start audience="13+" estimated_minutes="6.5" -->
@@ -529,8 +523,6 @@ Son sens : Ô Allah, purifie mon cœur de toute rancœur envers un croyant ; p
 <!-- unit:end -->
 
 <!-- reader:end -->
-
----
 
 ## Plans D'enseignement Détaillés
 
@@ -677,8 +669,6 @@ Son sens : Ô Allah, purifie mon cœur de toute rancœur envers un croyant ; p
 **Précautions pédagogiques :** ne demander de révéler ni les personnes ni les conflits. Toute allusion à un harcèlement ou à une maltraitance est orientée conformément à la politique de protection. Ne pas présenter le pardon comme un devoir immédiat pour qui a subi un mal grave, et ne pas blâmer celui qui a besoin de temps.
 
 <!-- lesson-plan:end -->
-
----
 
 <!-- references:start -->
 

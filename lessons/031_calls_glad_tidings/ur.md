@@ -142,8 +142,6 @@ bedtime_dua_id: "lesson.031.dua.wellbeing-and-heirs-of-jannah"
 
 <!-- reader:end -->
 
----
-
 ## ٤ سے ٧ سال کے بچوں کے لیے
 
 <!-- reader:start audience="4-7" estimated_minutes="6.0" -->
@@ -245,8 +243,6 @@ bedtime_dua_id: "lesson.031.dua.wellbeing-and-heirs-of-jannah"
 <!-- unit:end -->
 
 <!-- reader:end -->
-
----
 
 ## ٨ سے ١٢ سال کے بچوں کے لیے
 
@@ -357,8 +353,6 @@ bedtime_dua_id: "lesson.031.dua.wellbeing-and-heirs-of-jannah"
 
 <!-- reader:end -->
 
----
-
 ## نوجوانوں کے لیے، ١٣+
 
 <!-- reader:start audience="13+" estimated_minutes="7.0" -->
@@ -466,8 +460,6 @@ bedtime_dua_id: "lesson.031.dua.wellbeing-and-heirs-of-jannah"
 <!-- unit:end -->
 
 <!-- reader:end -->
-
----
 
 ## تفصیلی تدریسی منصوبے
 
@@ -614,8 +606,6 @@ bedtime_dua_id: "lesson.031.dua.wellbeing-and-heirs-of-jannah"
 **تدریسی احتیاطیں:** کسی طالب علم کی شکل یا جسم پر بات نہ کی جائے۔ جس میں جسمانی تصور کے بارے میں شدید فکر یا کھانے سے متعلق کسی عارضے (ایٹنگ ڈس آرڈر) کی علامات نظر آئیں، اسے نرمی سے انفرادی گفتگو کے لیے اور متعلقہ ماہر کے پاس بھیجا جائے۔ بزرگوں یا بڑھاپے کی برائی نہ کی جائے؛ بات کمزوری کے ختم ہو جانے کی ہے، بڑوں میں کسی عیب کی نہیں۔
 
 <!-- lesson-plan:end -->
-
----
 
 <!-- references:start -->
 

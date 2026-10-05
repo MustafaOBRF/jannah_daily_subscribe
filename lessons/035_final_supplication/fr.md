@@ -168,8 +168,6 @@ Pendant sept jours, repérez cinq « fins » qui reviennent dans vos journées
 
 <!-- reader:end -->
 
----
-
 ## Pour Les Enfants De 4 À 7 Ans
 
 <!-- reader:start audience="4-7" estimated_minutes="5.0" -->
@@ -254,8 +252,6 @@ Quand le Prophète, paix et bénédictions sur lui, allait se coucher, il disait
 <!-- unit:end -->
 
 <!-- reader:end -->
-
----
 
 ## Pour Les Enfants De 8 À 12 Ans
 
@@ -351,8 +347,6 @@ Quand le Prophète, paix et bénédictions sur lui, se mettait au lit, il disait
 
 <!-- reader:end -->
 
----
-
 ## Pour Les Adolescents, 13 Ans Et Plus
 
 <!-- reader:start audience="13+" estimated_minutes="6.5" -->
@@ -445,8 +439,6 @@ Il est établi que le Prophète, paix et bénédictions sur lui, disait en se me
 <!-- unit:end -->
 
 <!-- reader:end -->
-
----
 
 ## Plans D'enseignement Détaillés
 
@@ -593,8 +585,6 @@ Il est établi que le Prophète, paix et bénédictions sur lui, disait en se me
 **Précautions pédagogiques :** ne demander à personne de dévoiler ses soucis. Rappeler que celui qui traverse une grande détresse psychologique a besoin de personnes qui le soutiennent, et que la louange ne dispense pas de demander de l'aide. N'affirmer la Jannah pour aucune personne déterminée, et ne rien bâtir sur des récits sans chaîne de transmission pour décrire ses délices.
 
 <!-- lesson-plan:end -->
-
----
 
 <!-- references:start -->
 

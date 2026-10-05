@@ -186,8 +186,6 @@ Draw two columns: "Borrowed light" and "Carried light." In the first, write what
 
 <!-- reader:end -->
 
----
-
 ## For Children Ages 4 to 7
 
 <!-- reader:start audience="4-7" estimated_minutes="6.5" -->
@@ -288,8 +286,6 @@ The Prophet, peace and blessings be upon him, used to make this du'a, and we mak
 <!-- unit:end -->
 
 <!-- reader:end -->
-
----
 
 ## For Children Ages 8 to 12
 
@@ -404,8 +400,6 @@ The Prophet, peace and blessings be upon him, used to make this du'a when he got
 
 <!-- reader:end -->
 
----
-
 ## For Teens, Ages 13+
 
 <!-- reader:start audience="13+" estimated_minutes="7.0" -->
@@ -517,8 +511,6 @@ Notice that the du'a begins with the heart before the eyes: the light you are as
 <!-- unit:end -->
 
 <!-- reader:end -->
-
----
 
 ## Detailed Teaching Plans
 
@@ -665,8 +657,6 @@ Notice that the du'a begins with the heart before the eyes: the light you are as
 **Teaching Cautions:** Do not display students' photos, and do not comment on anyone's features or skin color. Anyone showing signs of emotional harm from bullying or body-image struggles should be gently drawn into a one-on-one conversation and referred to a qualified professional. Explicitly reject any reading that turns the whiteness in the texts into a racial privilege. Do not judge any specific person to be a hypocrite.
 
 <!-- lesson-plan:end -->
-
----
 
 <!-- references:start -->
 

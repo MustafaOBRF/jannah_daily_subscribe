@@ -196,8 +196,6 @@ Traza dos columnas: "Luz prestada" y "Luz propia". En la primera escribe lo que,
 
 <!-- reader:end -->
 
----
-
 ## Para niños de 4 a 7 años
 
 <!-- reader:start audience="4-7" estimated_minutes="6.5" -->
@@ -300,8 +298,6 @@ El Profeta, la paz y las bendiciones de Allah sean con él, pedía a Allah con e
 <!-- unit:end -->
 
 <!-- reader:end -->
-
----
 
 ## Para niños de 8 a 12 años
 
@@ -416,8 +412,6 @@ El Profeta, la paz y las bendiciones de Allah sean con él, decía esta súplica
 
 <!-- reader:end -->
 
----
-
 ## Para adolescentes de 13+
 
 <!-- reader:start audience="13+" estimated_minutes="7.0" -->
@@ -529,8 +523,6 @@ Fíjate: la súplica empieza por el corazón antes que por los ojos: la luz que 
 <!-- unit:end -->
 
 <!-- reader:end -->
-
----
 
 ## Planes de enseñanza detallados
 
@@ -677,8 +669,6 @@ Fíjate: la súplica empieza por el corazón antes que por los ojos: la luz que 
 **Advertencias pedagógicas:** no se muestran fotos de los estudiantes ni se comentan los rasgos o el color de piel de nadie. Si alguien muestra señales de daño emocional por acoso o por su imagen corporal, se le invita con delicadeza a una conversación individual y se le deriva a un profesional. Se rechaza de forma explícita cualquier lectura que convierta la blancura de los textos en un privilegio racial. Y no se acusa de hipocresía a ninguna persona concreta.
 
 <!-- lesson-plan:end -->
-
----
 
 <!-- references:start -->
 

@@ -132,8 +132,6 @@ bedtime_dua_id: "lesson.028.dua.guide-us-to-our-homes"
 
 <!-- reader:end -->
 
----
-
 ## للأطفال من ٤ إلى ٧ سنوات
 
 <!-- reader:start audience="4-7" estimated_minutes="5.5" -->
@@ -230,8 +228,6 @@ bedtime_dua_id: "lesson.028.dua.guide-us-to-our-homes"
 <!-- unit:end -->
 
 <!-- reader:end -->
-
----
 
 ## للأطفال من ٨ إلى ١٢ سنة
 
@@ -347,8 +343,6 @@ bedtime_dua_id: "lesson.028.dua.guide-us-to-our-homes"
 
 <!-- reader:end -->
 
----
-
 ## للمراهقين ١٣+
 
 <!-- reader:start audience="13+" estimated_minutes="6.0" -->
@@ -454,8 +448,6 @@ bedtime_dua_id: "lesson.028.dua.guide-us-to-our-homes"
 <!-- unit:end -->
 
 <!-- reader:end -->
-
----
 
 ## خطط التدريس المفصّلة
 
@@ -602,8 +594,6 @@ bedtime_dua_id: "lesson.028.dua.guide-us-to-our-homes"
 **تنبيهات التعليم:** لا يُطلب من أي طالب كشف ظروف هجرته أو سكنه أو أسرته أمام المجموعة. ولا يُفهم الدرس على أنه تهوين من حب الوطن أو الأهل، ولا على أنه دعوة إلى الانعزال عن الأصدقاء. ومن ظهر عليه أثر تنمّر أو عزلة حادة يُحال إلى حوار فردي وإلى الجهة المسؤولة عن الحماية في المؤسسة.
 
 <!-- lesson-plan:end -->
-
----
 
 <!-- references:start -->
 

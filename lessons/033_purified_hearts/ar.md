@@ -205,8 +205,6 @@ bedtime_dua_id: "lesson.033.dua.no-rancour-brothers-facing"
 
 <!-- reader:end -->
 
----
-
 ## للأطفال من ٤ إلى ٧ سنوات
 
 <!-- reader:start audience="4-7" estimated_minutes="4.5" -->
@@ -287,8 +285,6 @@ bedtime_dua_id: "lesson.033.dua.no-rancour-brothers-facing"
 <!-- unit:end -->
 
 <!-- reader:end -->
-
----
 
 ## للأطفال من ٨ إلى ١٢ سنة
 
@@ -386,8 +382,6 @@ bedtime_dua_id: "lesson.033.dua.no-rancour-brothers-facing"
 
 <!-- reader:end -->
 
----
-
 ## للمراهقين ١٣+
 
 <!-- reader:start audience="13+" estimated_minutes="5.5" -->
@@ -481,8 +475,6 @@ bedtime_dua_id: "lesson.033.dua.no-rancour-brothers-facing"
 <!-- unit:end -->
 
 <!-- reader:end -->
-
----
 
 ## خطط التدريس المفصّلة
 
@@ -629,8 +621,6 @@ bedtime_dua_id: "lesson.033.dua.no-rancour-brothers-facing"
 **تنبيهات التعليم:** لا يُطلب الإفصاح عن الأشخاص أو الخلافات. أي إشارة إلى تنمر أو إيذاء تُحال وفق سياسة الحماية. لا يُقدَّم العفو على أنه واجب فوري على من تعرض لأذى خطير، ولا يُلام من يحتاج وقتًا.
 
 <!-- lesson-plan:end -->
-
----
 
 <!-- references:start -->
 

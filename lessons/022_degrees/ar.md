@@ -134,8 +134,6 @@ bedtime_dua_id: "lesson.022.dua.clean-heart-high-degrees"
 
 <!-- reader:end -->
 
----
-
 ## للأطفال من ٤ إلى ٧ سنوات
 
 <!-- reader:start audience="4-7" estimated_minutes="4.5" -->
@@ -209,8 +207,6 @@ bedtime_dua_id: "lesson.022.dua.clean-heart-high-degrees"
 <!-- unit:end -->
 
 <!-- reader:end -->
-
----
 
 ## للأطفال من ٨ إلى ١٢ سنة
 
@@ -301,8 +297,6 @@ bedtime_dua_id: "lesson.022.dua.clean-heart-high-degrees"
 
 <!-- reader:end -->
 
----
-
 ## للمراهقين ١٣+
 
 <!-- reader:start audience="13+" estimated_minutes="5.0" -->
@@ -392,8 +386,6 @@ bedtime_dua_id: "lesson.022.dua.clean-heart-high-degrees"
 <!-- unit:end -->
 
 <!-- reader:end -->
-
----
 
 ## خطط التدريس المفصّلة
 
@@ -540,8 +532,6 @@ bedtime_dua_id: "lesson.022.dua.clean-heart-high-degrees"
 **تنبيهات التعليم:** يبقى دفتر النشاط خاصًّا بالطالب. ويُتجنب أن يتحول الحديث عن الدرجات إلى قلق أو شعور بالدونية؛ فالمقصود السعي مع الرضا. ويُنبّه إلى أن الحسد خاطر يُعالج بالدعاء والعمل لا بجلد الذات، ويُوجَّه من يظهر عليه ضيق شديد من المقارنة إلى حوار فردي داعم.
 
 <!-- lesson-plan:end -->
-
----
 
 <!-- references:start -->
 

@@ -182,8 +182,6 @@ bedtime_dua_id: "lesson.024.dua.inheritors-of-firdaws"
 
 <!-- reader:end -->
 
----
-
 ## ٤ سے ٧ سال کے بچوں کے لیے
 
 <!-- reader:start audience="4-7" estimated_minutes="6.0" -->
@@ -276,8 +274,6 @@ bedtime_dua_id: "lesson.024.dua.inheritors-of-firdaws"
 <!-- unit:end -->
 
 <!-- reader:end -->
-
----
 
 ## ٨ سے ١٢ سال کے بچوں کے لیے
 
@@ -385,8 +381,6 @@ bedtime_dua_id: "lesson.024.dua.inheritors-of-firdaws"
 
 <!-- reader:end -->
 
----
-
 ## نوجوانوں کے لیے، ١٣+
 
 <!-- reader:start audience="13+" estimated_minutes="7.0" -->
@@ -492,8 +486,6 @@ bedtime_dua_id: "lesson.024.dua.inheritors-of-firdaws"
 <!-- unit:end -->
 
 <!-- reader:end -->
-
----
 
 ## تفصیلی تدریسی منصوبے
 
@@ -640,8 +632,6 @@ bedtime_dua_id: "lesson.024.dua.inheritors-of-firdaws"
 **تدریسی احتیاطیں:** کسی سے یہ نہ کہا جائے کہ وہ گروپ کے سامنے دھونس یا بدسلوکی (بُلیئنگ) کے حقیقی واقعات بتائے؛ جو اشارہ دے کہ اس کے ساتھ ایسا ہوا ہے، اس سے الگ سے بات کی جائے اور اسے ادارے میں تحفظ کی ذمہ دار شخصیت یا شعبے تک پہنچایا جائے۔ اور واضح کیا جائے کہ لغو سے منہ موڑنے کا مطلب دوستوں کو حقیر سمجھنا یا بغیر حکمت کے تعلقات توڑ لینا نہیں۔
 
 <!-- lesson-plan:end -->
-
----
 
 <!-- references:start -->
 

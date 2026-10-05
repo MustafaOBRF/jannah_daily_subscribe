@@ -182,8 +182,6 @@ Put a handful of soil from a garden or roadside into a small container, and writ
 
 <!-- reader:end -->
 
----
-
 ## For Children Ages 4 to 7
 
 <!-- reader:start audience="4-7" estimated_minutes="6.5" -->
@@ -292,8 +290,6 @@ What it means, in simple words: O Allah, help us do good as we walk on the groun
 <!-- unit:end -->
 
 <!-- reader:end -->
-
----
 
 ## For Children Ages 8 to 12
 
@@ -417,8 +413,6 @@ What it means: O Allah, make every step we take on this earth a step of obeying 
 
 <!-- reader:end -->
 
----
-
 ## For Teens, Ages 13+
 
 <!-- reader:start audience="13+" estimated_minutes="7.0" -->
@@ -533,8 +527,6 @@ This du'a holds two lands together: the land we walk on today, where we ask Alla
 <!-- unit:end -->
 
 <!-- reader:end -->
-
----
 
 ## Detailed Teaching Plans
 
@@ -681,8 +673,6 @@ This du'a holds two lands together: the land we walk on today, where we ask Alla
 **Teaching Cautions:** Do not ask any student to reveal a real family dispute. The story must not be taken to mean that claiming a legitimate right is wrong; the point is to give up insult and the cutting of family ties. Any student who appears to be living through a painful family conflict should be gently referred to a one-on-one conversation. Students must not enter private land without the owners' permission.
 
 <!-- lesson-plan:end -->
-
----
 
 <!-- references:start -->
 

@@ -207,8 +207,6 @@ bedtime_dua_id: "lesson.026.dua.repent-like-adam-dwell-in-adn"
 
 <!-- reader:end -->
 
----
-
 ## للأطفال من ٤ إلى ٧ سنوات
 
 <!-- reader:start audience="4-7" estimated_minutes="4.5" -->
@@ -284,8 +282,6 @@ bedtime_dua_id: "lesson.026.dua.repent-like-adam-dwell-in-adn"
 <!-- unit:end -->
 
 <!-- reader:end -->
-
----
 
 ## للأطفال من ٨ إلى ١٢ سنة
 
@@ -374,8 +370,6 @@ bedtime_dua_id: "lesson.026.dua.repent-like-adam-dwell-in-adn"
 
 <!-- reader:end -->
 
----
-
 ## للمراهقين ١٣+
 
 <!-- reader:start audience="13+" estimated_minutes="5.5" -->
@@ -463,8 +457,6 @@ bedtime_dua_id: "lesson.026.dua.repent-like-adam-dwell-in-adn"
 <!-- unit:end -->
 
 <!-- reader:end -->
-
----
 
 ## خطط التدريس المفصّلة
 
@@ -611,8 +603,6 @@ bedtime_dua_id: "lesson.026.dua.repent-like-adam-dwell-in-adn"
 **تنبيهات التعليم:** يُتجنّب الجدل الكلامي المفتوح في الصفات أمام المبتدئين، ويُحال السؤال المعمّق إلى جلسة خاصة. لا يُطلب الإفصاح عن الذنوب. يُنبَّه من يعاني شعورًا مفرطًا بالذنب إلى أن آية طه ١٢٢ باب رجاء، ويُتابَع فرديًا عند الحاجة.
 
 <!-- lesson-plan:end -->
-
----
 
 <!-- references:start -->
 

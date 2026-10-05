@@ -130,8 +130,6 @@ bedtime_dua_id: "lesson.031.dua.wellbeing-and-heirs-of-jannah"
 
 <!-- reader:end -->
 
----
-
 ## للأطفال من ٤ إلى ٧ سنوات
 
 <!-- reader:start audience="4-7" estimated_minutes="5.5" -->
@@ -233,8 +231,6 @@ bedtime_dua_id: "lesson.031.dua.wellbeing-and-heirs-of-jannah"
 <!-- unit:end -->
 
 <!-- reader:end -->
-
----
 
 ## للأطفال من ٨ إلى ١٢ سنة
 
@@ -345,8 +341,6 @@ bedtime_dua_id: "lesson.031.dua.wellbeing-and-heirs-of-jannah"
 
 <!-- reader:end -->
 
----
-
 ## للمراهقين ١٣+
 
 <!-- reader:start audience="13+" estimated_minutes="6.0" -->
@@ -454,8 +448,6 @@ bedtime_dua_id: "lesson.031.dua.wellbeing-and-heirs-of-jannah"
 <!-- unit:end -->
 
 <!-- reader:end -->
-
----
 
 ## خطط التدريس المفصّلة
 
@@ -602,8 +594,6 @@ bedtime_dua_id: "lesson.031.dua.wellbeing-and-heirs-of-jannah"
 **تنبيهات التعليم:** لا يُناقش شكل أي طالب أو جسده. ومن ظهرت عليه علامات قلق شديد من صورة الجسد أو اضطراب في الأكل يُحال بلطف إلى حوار فردي وإلى الجهة المختصة. ولا يُذم المسنون ولا الكِبَر؛ فالكلام عن زوال الضعف لا عن عيب الكبار.
 
 <!-- lesson-plan:end -->
-
----
 
 <!-- references:start -->
 

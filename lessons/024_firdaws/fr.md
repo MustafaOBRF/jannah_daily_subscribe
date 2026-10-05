@@ -192,8 +192,6 @@ En haut de la feuille, écrivez : « Ô Allah, je Te demande le Firdaws. » C
 
 <!-- reader:end -->
 
----
-
 ## Pour Les Enfants De 4 À 7 Ans
 
 <!-- reader:start audience="4-7" estimated_minutes="6.5" -->
@@ -288,8 +286,6 @@ Ce qui veut dire, tout simplement : Ô Allah, nous Te demandons l'endroit le pl
 <!-- unit:end -->
 
 <!-- reader:end -->
-
----
 
 ## Pour Les Enfants De 8 À 12 Ans
 
@@ -399,8 +395,6 @@ Son sens : Ô Allah, nous Te demandons le sommet de la Jannah, comme notre Prop
 
 <!-- reader:end -->
 
----
-
 ## Pour Les Adolescents, 13 Ans Et Plus
 
 <!-- reader:start audience="13+" estimated_minutes="7.0" -->
@@ -508,8 +502,6 @@ Cette invocation réunit l'obéissance à l'ordre du Prophète, paix et bénédi
 <!-- unit:end -->
 
 <!-- reader:end -->
-
----
 
 ## Plans D'enseignement Détaillés
 
@@ -656,8 +648,6 @@ Cette invocation réunit l'obéissance à l'ordre du Prophète, paix et bénédi
 **Précautions pédagogiques :** ne demander à personne de révéler devant le groupe des situations réelles de harcèlement ; tout élève qui laisse entendre qu'il en est victime est orienté vers un entretien individuel et vers la personne responsable de la protection de l'enfance dans l'établissement. Préciser que se détourner des futilités ne signifie ni mépriser ses amis, ni rompre ses relations sans discernement.
 
 <!-- lesson-plan:end -->
-
----
 
 <!-- references:start -->
 

@@ -218,8 +218,6 @@ Abu Musa fue un portero que llevaba la buena nueva, no alguien que la fabricaba.
 
 <!-- reader:end -->
 
----
-
 ## Para niños de 4 a 7 años
 
 <!-- reader:start audience="4-7" estimated_minutes="5.0" -->
@@ -296,8 +294,6 @@ Con tu papá o tu mamá, elige a alguien de tu familia al que hoy hayas visto ha
 <!-- unit:end -->
 
 <!-- reader:end -->
-
----
 
 ## Para niños de 8 a 12 años
 
@@ -390,8 +386,6 @@ Esta semana, sé el "portero del bien". Fíjate en un compañero, en tu hermano 
 
 <!-- reader:end -->
 
----
-
 ## Para adolescentes de 13+
 
 <!-- reader:start audience="13+" estimated_minutes="6.5" -->
@@ -481,8 +475,6 @@ Elige a alguien a quien rara vez se elogia: un compañero callado, un hermano me
 <!-- unit:end -->
 
 <!-- reader:end -->
-
----
 
 ## Planes de enseñanza detallados
 
@@ -629,8 +621,6 @@ Elige a alguien a quien rara vez se elogia: un compañero callado, un hermano me
 **Advertencias pedagógicas:** no se permite que el debate derive en polémica sectaria ni en insultos contra ningún Compañero ni contra nadie de la familia del Profeta. Se tiene en cuenta a quien haya perdido a un ser querido: esperar el Paraíso para el difunto es legítimo, y la lección no pide dudar de la misericordia de Allah con él. Los mensajes siguen siendo privados y no se publican.
 
 <!-- lesson-plan:end -->
-
----
 
 <!-- references:start -->
 

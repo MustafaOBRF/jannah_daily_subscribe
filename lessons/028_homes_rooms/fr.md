@@ -150,8 +150,6 @@ Décrivez votre maison à l'aide de cinq signes distinctifs, sans le nom de la r
 
 <!-- reader:end -->
 
----
-
 ## Pour Les Enfants De 4 À 7 Ans
 
 <!-- reader:start audience="4-7" estimated_minutes="6.0" -->
@@ -248,8 +246,6 @@ Ce que cela veut dire, tout simplement : « Ô Allah, comme nous savons trouve
 <!-- unit:end -->
 
 <!-- reader:end -->
-
----
 
 ## Pour Les Enfants De 8 À 12 Ans
 
@@ -365,8 +361,6 @@ Son sens : « Ô Allah, de même que Tu nous as guidés aujourd'hui jusqu'à n
 
 <!-- reader:end -->
 
----
-
 ## Pour Les Adolescents, 13 Ans Et Plus
 
 <!-- reader:start audience="13+" estimated_minutes="7.0" -->
@@ -474,8 +468,6 @@ Cette invocation relie un bienfait que nous vivons chaque soir — rentrer chez 
 <!-- unit:end -->
 
 <!-- reader:end -->
-
----
 
 ## Plans D'enseignement Détaillés
 
@@ -622,8 +614,6 @@ Cette invocation relie un bienfait que nous vivons chaque soir — rentrer chez 
 **Précautions pédagogiques :** on ne demande à aucun élève de révéler devant le groupe les circonstances de sa migration, de son logement ou de sa famille. La leçon ne doit être comprise ni comme une manière de rabaisser l'amour de la patrie ou des siens, ni comme une invitation à s'isoler de ses amis. Tout élève qui montre des signes de harcèlement ou d'isolement profond est orienté vers un entretien individuel et vers le service chargé de la protection au sein de l'établissement.
 
 <!-- lesson-plan:end -->
-
----
 
 <!-- references:start -->
 

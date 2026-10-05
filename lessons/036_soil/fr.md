@@ -192,8 +192,6 @@ Prenez une poignée de terre d'un jardin ou d'un chemin dans un petit récipient
 
 <!-- reader:end -->
 
----
-
 ## Pour Les Enfants De 4 À 7 Ans
 
 <!-- reader:start audience="4-7" estimated_minutes="6.5" -->
@@ -302,8 +300,6 @@ Ce qui veut dire, tout simplement : *« Ô Allah, aide-nous à marcher sur la 
 <!-- unit:end -->
 
 <!-- reader:end -->
-
----
 
 ## Pour Les Enfants De 8 À 12 Ans
 
@@ -427,8 +423,6 @@ Ce qui veut dire : *« Ô Allah, que chacun de nos pas sur la terre soit dans 
 
 <!-- reader:end -->
 
----
-
 ## Pour Les Adolescents, 13 Ans Et Plus
 
 <!-- reader:start audience="13+" estimated_minutes="7.0" -->
@@ -543,8 +537,6 @@ Cette invocation réunit les deux terres : celle sur laquelle nous marchons auj
 <!-- unit:end -->
 
 <!-- reader:end -->
-
----
 
 ## Plans D'enseignement Détaillés
 
@@ -691,8 +683,6 @@ Cette invocation réunit les deux terres : celle sur laquelle nous marchons auj
 **Précautions pédagogiques :** on ne demande à aucun élève de révéler un conflit familial réel. L'histoire ne signifie pas que réclamer un droit légitime soit une faute : ce qu'il faut abandonner, c'est l'offense et la rupture des liens. Un élève dont il apparaît qu'il vit un conflit familial douloureux est orienté avec tact vers un entretien individuel. Les élèves n'entrent pas sur un terrain privé sans l'autorisation de ses propriétaires.
 
 <!-- lesson-plan:end -->
-
----
 
 <!-- references:start -->
 

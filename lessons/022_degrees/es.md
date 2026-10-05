@@ -158,8 +158,6 @@ Anota un campo del bien en el que otra persona te aventaja gracias a medios que 
 
 <!-- reader:end -->
 
----
-
 ## Para niños de 4 a 7 años
 
 <!-- reader:start audience="4-7" estimated_minutes="5.5" -->
@@ -235,8 +233,6 @@ Junto con tu papá o tu mamá, dibuja el contorno de tus dos manos en una hoja. 
 <!-- unit:end -->
 
 <!-- reader:end -->
-
----
 
 ## Para niños de 8 a 12 años
 
@@ -329,8 +325,6 @@ Dibuja una tabla con tres columnas. En la primera, escribe un bien que hace algu
 
 <!-- reader:end -->
 
----
-
 ## Para adolescentes de 13+
 
 <!-- reader:start audience="13+" estimated_minutes="6.5" -->
@@ -422,8 +416,6 @@ Reserva una página durante una semana. Cada vez que te compares con alguien en 
 <!-- unit:end -->
 
 <!-- reader:end -->
-
----
 
 ## Planes de enseñanza detallados
 
@@ -570,8 +562,6 @@ Reserva una página durante una semana. Cada vez que te compares con alguien en 
 **Advertencias pedagógicas:** el cuaderno de la actividad es privado del estudiante. Se evita que hablar de los grados derive en ansiedad o en un sentimiento de inferioridad: lo que se busca es esforzarse con contento. Se aclara que la envidia es un pensamiento pasajero que se trata con la súplica y la acción, no castigándose a uno mismo, y a quien muestre un malestar intenso por las comparaciones se le orienta hacia una conversación individual de apoyo.
 
 <!-- lesson-plan:end -->
-
----
 
 <!-- references:start -->
 

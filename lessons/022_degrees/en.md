@@ -150,8 +150,6 @@ Write down one door of goodness in which someone else is ahead of you because of
 
 <!-- reader:end -->
 
----
-
 ## For Children Ages 4 to 7
 
 <!-- reader:start audience="4-7" estimated_minutes="5.5" -->
@@ -227,8 +225,6 @@ With your mom or dad, trace around both your hands on a sheet of paper. Inside t
 <!-- unit:end -->
 
 <!-- reader:end -->
-
----
 
 ## For Children Ages 8 to 12
 
@@ -321,8 +317,6 @@ Draw a chart with three columns. In the first column, write a good deed that som
 
 <!-- reader:end -->
 
----
-
 ## For Teens, Ages 13+
 
 <!-- reader:start audience="13+" estimated_minutes="7.0" -->
@@ -414,8 +408,6 @@ Set aside one page for a week. Every time you catch yourself comparing yourself 
 <!-- unit:end -->
 
 <!-- reader:end -->
-
----
 
 ## Detailed Teaching Plans
 
@@ -562,8 +554,6 @@ Set aside one page for a week. Every time you catch yourself comparing yourself 
 **Teaching Cautions:** The activity journal stays private to the student. Take care that talk of the degrees does not turn into anxiety or a sense of inferiority; the aim is striving together with contentment. Point out that envy is a passing thought to be treated through du'a and action, not through self-punishment, and direct any student who shows serious distress over comparison toward a supportive one-to-one conversation.
 
 <!-- lesson-plan:end -->
-
----
 
 <!-- references:start -->
 

@@ -206,8 +206,6 @@ bedtime_dua_id: "lesson.021.dua.love-and-gather-with-companions"
 
 <!-- reader:end -->
 
----
-
 ## ٤ سے ٧ سال کے بچوں کے لیے
 
 <!-- reader:start audience="4-7" estimated_minutes="4.5" -->
@@ -284,8 +282,6 @@ bedtime_dua_id: "lesson.021.dua.love-and-gather-with-companions"
 <!-- unit:end -->
 
 <!-- reader:end -->
-
----
 
 ## ٨ سے ١٢ سال کے بچوں کے لیے
 
@@ -378,8 +374,6 @@ bedtime_dua_id: "lesson.021.dua.love-and-gather-with-companions"
 
 <!-- reader:end -->
 
----
-
 ## نوجوانوں کے لیے، ١٣+
 
 <!-- reader:start audience="13+" estimated_minutes="7.0" -->
@@ -469,8 +463,6 @@ bedtime_dua_id: "lesson.021.dua.love-and-gather-with-companions"
 <!-- unit:end -->
 
 <!-- reader:end -->
-
----
 
 ## تفصیلی تدریسی منصوبے
 
@@ -617,8 +609,6 @@ bedtime_dua_id: "lesson.021.dua.love-and-gather-with-companions"
 **تدریسی احتیاطیں:** گفتگو کو فرقہ وارانہ بحث یا کسی بھی صحابی یا اہلِ بیت میں سے کسی کو برا بھلا کہنے کی طرف جانے سے روکا جائے۔ جس نے کوئی عزیز کھویا ہو، اس کا خیال رکھا جائے: فوت شدہ کے لیے امید رکھنا جائز ہے، اور یہ سبق اس پر اللہ کی رحمت کے بارے میں شک کرنے کو نہیں کہتا۔ اور پیغامات ذاتی رہیں، عوامی طور پر شائع نہ کیے جائیں۔
 
 <!-- lesson-plan:end -->
-
----
 
 <!-- references:start -->
 

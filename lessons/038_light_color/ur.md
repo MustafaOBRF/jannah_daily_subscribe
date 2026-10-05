@@ -186,8 +186,6 @@ bedtime_dua_id: "lesson.038.dua.light-in-heart-and-all-sides"
 
 <!-- reader:end -->
 
----
-
 ## ٤ سے ٧ سال کے بچوں کے لیے
 
 <!-- reader:start audience="4-7" estimated_minutes="6.5" -->
@@ -288,8 +286,6 @@ bedtime_dua_id: "lesson.038.dua.light-in-heart-and-all-sides"
 <!-- unit:end -->
 
 <!-- reader:end -->
-
----
 
 ## ٨ سے ١٢ سال کے بچوں کے لیے
 
@@ -404,8 +400,6 @@ bedtime_dua_id: "lesson.038.dua.light-in-heart-and-all-sides"
 
 <!-- reader:end -->
 
----
-
 ## نوجوانوں کے لیے، ١٣+
 
 <!-- reader:start audience="13+" estimated_minutes="7.0" -->
@@ -517,8 +511,6 @@ bedtime_dua_id: "lesson.038.dua.light-in-heart-and-all-sides"
 <!-- unit:end -->
 
 <!-- reader:end -->
-
----
 
 ## تفصیلی تدریسی منصوبے
 
@@ -665,8 +657,6 @@ bedtime_dua_id: "lesson.038.dua.light-in-heart-and-all-sides"
 **تدریسی احتیاطیں:** طلبہ کی تصویریں نہ دکھائی جائیں، اور کسی کے نقوش یا جلد کے رنگ پر کوئی تبصرہ نہ کیا جائے۔ جس میں ہراسانی یا اپنے جسم کے بارے میں منفی سوچ سے پہنچنے والے ذہنی دکھ کی علامات نظر آئیں، اسے نرمی سے الگ بات چیت کے لیے اور ماہر کے پاس بھیجا جائے۔ ہر اس سمجھ کو کھل کر رد کیا جائے جو نصوص میں آئی ہوئی سفیدی کو کسی نسل کی خوبی بنا دے۔ اور کسی متعین شخص پر نفاق کا حکم نہ لگایا جائے۔
 
 <!-- lesson-plan:end -->
-
----
 
 <!-- references:start -->
 

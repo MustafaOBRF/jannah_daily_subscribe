@@ -176,8 +176,6 @@ bedtime_dua_id: "lesson.021.dua.love-and-gather-with-companions"
 
 <!-- reader:end -->
 
----
-
 ## للأطفال من ٤ إلى ٧ سنوات
 
 <!-- reader:start audience="4-7" estimated_minutes="4.0" -->
@@ -252,8 +250,6 @@ bedtime_dua_id: "lesson.021.dua.love-and-gather-with-companions"
 <!-- unit:end -->
 
 <!-- reader:end -->
-
----
 
 ## للأطفال من ٨ إلى ١٢ سنة
 
@@ -344,8 +340,6 @@ bedtime_dua_id: "lesson.021.dua.love-and-gather-with-companions"
 
 <!-- reader:end -->
 
----
-
 ## للمراهقين ١٣+
 
 <!-- reader:start audience="13+" estimated_minutes="5.0" -->
@@ -433,8 +427,6 @@ bedtime_dua_id: "lesson.021.dua.love-and-gather-with-companions"
 <!-- unit:end -->
 
 <!-- reader:end -->
-
----
 
 ## خطط التدريس المفصّلة
 
@@ -581,8 +573,6 @@ bedtime_dua_id: "lesson.021.dua.love-and-gather-with-companions"
 **تنبيهات التعليم:** يُمنع تحويل النقاش إلى جدل طائفي أو سبّ لأي صحابي أو لأحد من آل البيت. ويُراعى من فقد قريبًا: الرجاء للميت مشروع، والدرس لا يطلب الشك في رحمة الله به. وتبقى الرسائل خاصة ولا تُنشر علنًا.
 
 <!-- lesson-plan:end -->
-
----
 
 <!-- references:start -->
 

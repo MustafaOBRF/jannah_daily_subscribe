@@ -162,8 +162,6 @@ bedtime_dua_id: "lesson.036.dua.steps-on-earth-inherit-musk-land"
 
 <!-- reader:end -->
 
----
-
 ## للأطفال من ٤ إلى ٧ سنوات
 
 <!-- reader:start audience="4-7" estimated_minutes="6.0" -->
@@ -272,8 +270,6 @@ bedtime_dua_id: "lesson.036.dua.steps-on-earth-inherit-musk-land"
 <!-- unit:end -->
 
 <!-- reader:end -->
-
----
 
 ## للأطفال من ٨ إلى ١٢ سنة
 
@@ -397,8 +393,6 @@ bedtime_dua_id: "lesson.036.dua.steps-on-earth-inherit-musk-land"
 
 <!-- reader:end -->
 
----
-
 ## للمراهقين ١٣+
 
 <!-- reader:start audience="13+" estimated_minutes="6.5" -->
@@ -511,8 +505,6 @@ bedtime_dua_id: "lesson.036.dua.steps-on-earth-inherit-musk-land"
 <!-- unit:end -->
 
 <!-- reader:end -->
-
----
 
 ## خطط التدريس المفصّلة
 
@@ -659,8 +651,6 @@ bedtime_dua_id: "lesson.036.dua.steps-on-earth-inherit-musk-land"
 **تنبيهات التعليم:** لا يُطلب من أي طالب كشف خلاف عائلي حقيقي. ولا يُفهم من القصة أن المطالبة بالحق المشروع خطأ؛ المقصود ترك الإساءة والقطيعة. ومن ظهر أنه يعيش نزاعًا عائليًّا مؤلمًا يُحال بلطف إلى حوار فردي. ولا يدخل الطلاب أرضًا خاصة دون إذن أصحابها.
 
 <!-- lesson-plan:end -->
-
----
 
 <!-- references:start -->
 

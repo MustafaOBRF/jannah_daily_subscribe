@@ -255,8 +255,6 @@ Dibuja un camino de tres estaciones que termine en una puerta con el letrero "La
 
 <!-- reader:end -->
 
----
-
 ## Para niños de 4 a 7 años
 
 <!-- reader:start audience="4-7" estimated_minutes="5.0" -->
@@ -332,8 +330,6 @@ Quiere decir: "Oh Allah, acepta que volvamos a Ti, como aceptaste el regreso de 
 <!-- unit:end -->
 
 <!-- reader:end -->
-
----
 
 ## Para niños de 8 a 12 años
 
@@ -422,8 +418,6 @@ Su significado: "Oh Allah, acepta nuestro arrepentimiento como aceptaste el arre
 
 <!-- reader:end -->
 
----
-
 ## Para adolescentes de 13+
 
 <!-- reader:start audience="13+" estimated_minutes="7.0" -->
@@ -511,8 +505,6 @@ Su significado: "Oh Allah, así como escogiste a Adán después de su desliz, ac
 <!-- unit:end -->
 
 <!-- reader:end -->
-
----
 
 ## Planes de enseñanza detallados
 
@@ -659,8 +651,6 @@ Su significado: "Oh Allah, así como escogiste a Adán después de su desliz, ac
 **Advertencias pedagógicas:** se evita la polémica teológica abierta sobre los atributos delante de principiantes, y las preguntas que requieran profundizar se remiten a una sesión aparte. No se pide a nadie que revele sus pecados. A quien sufra un sentimiento de culpa excesivo se le recuerda que la aleya Ta Ha 20:122 es una puerta de esperanza, y se le acompaña individualmente si hace falta.
 
 <!-- lesson-plan:end -->
-
----
 
 <!-- references:start -->
 

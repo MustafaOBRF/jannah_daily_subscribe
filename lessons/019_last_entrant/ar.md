@@ -140,8 +140,6 @@ bedtime_dua_id: "lesson.019.dua.never-despair-of-mercy"
 
 <!-- reader:end -->
 
----
-
 ## للأطفال من ٤ إلى ٧ سنوات
 
 <!-- reader:start audience="4-7" estimated_minutes="4.0" -->
@@ -209,8 +207,6 @@ bedtime_dua_id: "lesson.019.dua.never-despair-of-mercy"
 <!-- unit:end -->
 
 <!-- reader:end -->
-
----
 
 ## للأطفال من ٨ إلى ١٢ سنة
 
@@ -294,8 +290,6 @@ bedtime_dua_id: "lesson.019.dua.never-despair-of-mercy"
 <!-- unit:end -->
 
 <!-- reader:end -->
-
----
 
 ## للمراهقين ١٣+
 
@@ -382,8 +376,6 @@ bedtime_dua_id: "lesson.019.dua.never-despair-of-mercy"
 <!-- unit:end -->
 
 <!-- reader:end -->
-
----
 
 ## خطط التدريس المفصّلة
 
@@ -530,8 +522,6 @@ bedtime_dua_id: "lesson.019.dua.never-despair-of-mercy"
 **تنبيهات التعليم:** يُنبَّه المعلم إلى عدم استخدام الحديث لتبرير الاستهانة بالذنوب أو تأجيل التوبة، وإلى تجنّب الخوض في تفاصيل مؤلمة عن العذاب أو إثارة القلق الزائد لدى من يشعر بالذنب الشديد؛ يُوجَّه من يظهر عليه قلق مفرط إلى حوار داعم فردي.
 
 <!-- lesson-plan:end -->
-
----
 
 <!-- references:start -->
 

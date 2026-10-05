@@ -164,8 +164,6 @@ Haz una lista de las cinco cosas que más amas o anhelas en este mundo (bienes, 
 
 <!-- reader:end -->
 
----
-
 ## Para niños de 4 a 7 años
 
 <!-- reader:start audience="4-7" estimated_minutes="4.5" -->
@@ -235,8 +233,6 @@ Con tu papá o tu mamá, dibuja tres cosas que te gusten mucho (un juguete, una 
 <!-- unit:end -->
 
 <!-- reader:end -->
-
----
 
 ## Para niños de 8 a 12 años
 
@@ -322,8 +318,6 @@ Haz una lista de cinco cosas que te gustan de este mundo (amigos, juegos, lugare
 <!-- unit:end -->
 
 <!-- reader:end -->
-
----
 
 ## Para adolescentes de 13+
 
@@ -412,8 +406,6 @@ Haz una lista con las cinco cosas más importantes de "tu mundo": algo que posee
 <!-- unit:end -->
 
 <!-- reader:end -->
-
----
 
 ## Planes de enseñanza detallados
 
@@ -560,8 +552,6 @@ Haz una lista con las cinco cosas más importantes de "tu mundo": algo que posee
 **Advertencias pedagógicas:** el docente debe cuidar que el hadiz no se use para justificar el desdén hacia los pecados o el aplazamiento del arrepentimiento, y evitar entrar en detalles dolorosos sobre el castigo o generar una ansiedad excesiva en quien siente una culpa intensa; a quien muestre una preocupación desmedida se le ofrece una conversación individual de apoyo.
 
 <!-- lesson-plan:end -->
-
----
 
 <!-- references:start -->
 

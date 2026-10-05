@@ -239,8 +239,6 @@ Draw a road with three stations, ending at a door labeled "The Home of Residence
 
 <!-- reader:end -->
 
----
-
 ## For Children Ages 4 to 7
 
 <!-- reader:start audience="4-7" estimated_minutes="5.0" -->
@@ -316,8 +314,6 @@ What it means: O Allah, accept us when we come back to You, the way You accepted
 <!-- unit:end -->
 
 <!-- reader:end -->
-
----
 
 ## For Children Ages 8 to 12
 
@@ -406,8 +402,6 @@ What it means: O Allah, accept our repentance as You accepted the repentance of 
 
 <!-- reader:end -->
 
----
-
 ## For Teens, Ages 13+
 
 <!-- reader:start audience="13+" estimated_minutes="6.5" -->
@@ -495,8 +489,6 @@ What it means: O Allah, just as You chose Adam after his slip, turned to him in 
 <!-- unit:end -->
 
 <!-- reader:end -->
-
----
 
 ## Detailed Teaching Plans
 
@@ -643,8 +635,6 @@ What it means: O Allah, just as You chose Adam after his slip, turned to him in 
 **Teaching Cautions:** Avoid open-ended theological debate about the divine attributes in front of beginners, and refer in-depth questions to a private session. Do not ask anyone to disclose their sins. Gently remind anyone struggling with an excessive sense of guilt that Ta Ha 20:122 is a door of hope, and follow up individually when needed.
 
 <!-- lesson-plan:end -->
-
----
 
 <!-- references:start -->
 

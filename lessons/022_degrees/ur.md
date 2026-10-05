@@ -150,8 +150,6 @@ bedtime_dua_id: "lesson.022.dua.clean-heart-high-degrees"
 
 <!-- reader:end -->
 
----
-
 ## ٤ سے ٧ سال کے بچوں کے لیے
 
 <!-- reader:start audience="4-7" estimated_minutes="6.0" -->
@@ -227,8 +225,6 @@ bedtime_dua_id: "lesson.022.dua.clean-heart-high-degrees"
 <!-- unit:end -->
 
 <!-- reader:end -->
-
----
 
 ## ٨ سے ١٢ سال کے بچوں کے لیے
 
@@ -321,8 +317,6 @@ bedtime_dua_id: "lesson.022.dua.clean-heart-high-degrees"
 
 <!-- reader:end -->
 
----
-
 ## نوجوانوں کے لیے، ١٣+
 
 <!-- reader:start audience="13+" estimated_minutes="7.0" -->
@@ -414,8 +408,6 @@ bedtime_dua_id: "lesson.022.dua.clean-heart-high-degrees"
 <!-- unit:end -->
 
 <!-- reader:end -->
-
----
 
 ## تفصیلی تدریسی منصوبے
 
@@ -562,8 +554,6 @@ bedtime_dua_id: "lesson.022.dua.clean-heart-high-degrees"
 **تدریسی احتیاطیں:** سرگرمی کی ڈائری طالب علم کی ذاتی چیز رہے۔ دھیان رکھا جائے کہ درجوں کی بات بےچینی یا احساسِ کمتری میں نہ بدل جائے؛ مقصد رضا کے ساتھ کوشش ہے۔ یہ بھی بتایا جائے کہ حسد دل میں آنے والا ایک خیال ہے جس کا علاج دعا اور عمل سے کیا جاتا ہے، خود کو کوسنے سے نہیں؛ اور جس طالب علم پر موازنے سے شدید گھٹن کے آثار دکھائی دیں، اس سے الگ سے ہمدردانہ بات چیت کی جائے۔
 
 <!-- lesson-plan:end -->
-
----
 
 <!-- references:start -->
 

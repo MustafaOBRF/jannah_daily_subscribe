@@ -193,8 +193,6 @@ bedtime_dua_id: "lesson.027.dua.forgive-parents-gather-family"
 
 <!-- reader:end -->
 
----
-
 ## للأطفال من ٤ إلى ٧ سنوات
 
 <!-- reader:start audience="4-7" estimated_minutes="5.5" -->
@@ -294,8 +292,6 @@ bedtime_dua_id: "lesson.027.dua.forgive-parents-gather-family"
 <!-- unit:end -->
 
 <!-- reader:end -->
-
----
 
 ## للأطفال من ٨ إلى ١٢ سنة
 
@@ -409,8 +405,6 @@ bedtime_dua_id: "lesson.027.dua.forgive-parents-gather-family"
 
 <!-- reader:end -->
 
----
-
 ## للمراهقين ١٣+
 
 <!-- reader:start audience="13+" estimated_minutes="6.0" -->
@@ -522,8 +516,6 @@ bedtime_dua_id: "lesson.027.dua.forgive-parents-gather-family"
 <!-- unit:end -->
 
 <!-- reader:end -->
-
----
 
 ## خطط التدريس المفصّلة
 
@@ -670,8 +662,6 @@ bedtime_dua_id: "lesson.027.dua.forgive-parents-gather-family"
 **تنبيهات التعليم:** الدفاتر خاصة ولا تُجمع. إن كشف طالب عن أذى أو إهمال في البيت، فلا يُطلب منه "الدعاء فقط"، بل يُتبع إجراء الحماية المعتمد في المؤسسة. لا يُحكم على مصير قريب بعينه، وتُحال الأسئلة الفقهية الخاصة بالأقارب المتوفين على غير الإسلام إلى عالم موثوق في حوار فردي. ويُنبَّه إلى أن الدعاء للوالدين لا يعني القبول بالظلم أو إسقاط الحدود الصحية في العلاقة.
 
 <!-- lesson-plan:end -->
-
----
 
 <!-- references:start -->
 
