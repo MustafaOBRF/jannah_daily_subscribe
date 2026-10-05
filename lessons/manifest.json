@@ -1,6 +1,366 @@
 {
   "lessons": [
     {
+      "slug": "060_birds_meat",
+      "order": 60,
+      "langs": [
+        "ar",
+        "en",
+        "ur",
+        "fr",
+        "es"
+      ],
+      "titles": {
+        "ar": "الطَّيْرُ وَاللُّحُومُ فِي الْجَنَّةِ",
+        "en": "Birds and Meat in Jannah",
+        "ur": "جنت کے پرندے اور گوشت",
+        "fr": "Les oiseaux et la viande dans la Jannah",
+        "es": "Las aves y la carne en el Paraíso"
+      },
+      "hooks": {
+        "ar": "بعد هذا الدرس، يكون المتعلم قادرًا على:",
+        "en": "After this lesson, the learner will be able to:",
+        "ur": "اس سبق کے بعد سیکھنے والا یہ کر سکے گا:",
+        "fr": "Au terme de cette leçon, l'apprenant sera capable de :",
+        "es": "Después de esta lección, el aprendiz será capaz de:"
+      },
+      "status": {
+        "ar": "arabic_draft",
+        "en": "translation_draft",
+        "ur": "translation_draft",
+        "fr": "translation_draft",
+        "es": "translation_draft"
+      },
+      "under_review": true,
+      "has_illustration": true,
+      "has_audio": false,
+      "has_summary_audio": false
+    },
+    {
+      "slug": "059_wine_drinks",
+      "order": 59,
+      "langs": [
+        "ar",
+        "en",
+        "ur",
+        "fr",
+        "es"
+      ],
+      "titles": {
+        "ar": "خَمْرُ الْجَنَّةِ وَأَشْرِبَتُهَا",
+        "en": "The Wine and Drinks of Jannah",
+        "ur": "جنت کی شراب اور اس کے مشروبات",
+        "fr": "Le vin de la Jannah et ses breuvages",
+        "es": "El vino del Paraíso y sus bebidas"
+      },
+      "hooks": {
+        "ar": "بعد هذا الدرس، يكون المتعلم قادرًا على:",
+        "en": "After this lesson, the learner will be able to:",
+        "ur": "اس سبق کے بعد سیکھنے والا یہ کر سکے گا:",
+        "fr": "Au terme de cette leçon, l'apprenant sera capable de :",
+        "es": "Después de esta lección, el aprendiz será capaz de:"
+      },
+      "status": {
+        "ar": "arabic_draft",
+        "en": "translation_draft",
+        "ur": "translation_draft",
+        "fr": "translation_draft",
+        "es": "translation_draft"
+      },
+      "under_review": true,
+      "has_illustration": true,
+      "has_audio": false,
+      "has_summary_audio": false
+    },
+    {
+      "slug": "058_food_drink",
+      "order": 58,
+      "langs": [
+        "ar",
+        "en",
+        "ur",
+        "fr",
+        "es"
+      ],
+      "titles": {
+        "ar": "طَعَامُ أَهْلِ الْجَنَّةِ وَشَرَابُهُمْ",
+        "en": "The Food and Drink of the People of Jannah",
+        "ur": "اہلِ جنت کا کھانا پینا",
+        "fr": "Ce que mangent et boivent les gens de la Jannah",
+        "es": "La comida y la bebida de la gente del Paraíso"
+      },
+      "hooks": {
+        "ar": "بعد هذا الدرس، يكون المتعلم قادرًا على:",
+        "en": "After this lesson, the learner will be able to:",
+        "ur": "اس سبق کے بعد سیکھنے والا یہ کر سکے گا:",
+        "fr": "Au terme de cette leçon, l'apprenant sera capable de :",
+        "es": "Después de esta lección, el aprendiz será capaz de:"
+      },
+      "status": {
+        "ar": "arabic_draft",
+        "en": "translation_draft",
+        "ur": "translation_draft",
+        "fr": "translation_draft",
+        "es": "translation_draft"
+      },
+      "under_review": true,
+      "has_illustration": true,
+      "has_audio": false,
+      "has_summary_audio": false
+    },
+    {
+      "slug": "057_farming_planting",
+      "order": 57,
+      "langs": [
+        "ar",
+        "en",
+        "ur",
+        "fr",
+        "es"
+      ],
+      "titles": {
+        "ar": "زَرْعُ الْجَنَّةِ وَغِرَاسُهَا",
+        "en": "Sowing and Planting in Jannah",
+        "ur": "جنت کی کھیتی اور شجرکاری",
+        "fr": "Les cultures et les plantations de la Jannah",
+        "es": "Los sembrados y los plantíos del Paraíso"
+      },
+      "hooks": {
+        "ar": "بعد هذا الدرس، يكون المتعلم قادرًا على:",
+        "en": "After this lesson, the learner will be able to:",
+        "ur": "اس سبق کے بعد سیکھنے والا یہ کر سکے گا:",
+        "fr": "Au terme de cette leçon, l'apprenant sera capable de :",
+        "es": "Después de esta lección, el aprendiz será capaz de:"
+      },
+      "status": {
+        "ar": "arabic_draft",
+        "en": "translation_draft",
+        "ur": "translation_draft",
+        "fr": "translation_draft",
+        "es": "translation_draft"
+      },
+      "under_review": true,
+      "has_illustration": true,
+      "has_audio": false,
+      "has_summary_audio": false
+    },
+    {
+      "slug": "056_fruits_basil",
+      "order": 56,
+      "langs": [
+        "ar",
+        "en",
+        "ur",
+        "fr",
+        "es"
+      ],
+      "titles": {
+        "ar": "ثِمَارُ الْجَنَّةِ وَرَيْحَانُهَا",
+        "en": "The Fruits of Jannah and Its Fragrant Rayhan",
+        "ur": "جنت کے پھل اور اس کا ریحان",
+        "fr": "Les fruits de la Jannah et son rayhan",
+        "es": "Los frutos del Paraíso y su rayhán"
+      },
+      "hooks": {
+        "ar": "بعد هذا الدرس، يكون المتعلم قادرًا على:",
+        "en": "After this lesson, the learner will be able to:",
+        "ur": "اس سبق کے بعد سیکھنے والا یہ کر سکے گا:",
+        "fr": "Au terme de cette leçon, l'apprenant sera capable de :",
+        "es": "Después de esta lección, el aprendiz será capaz de:"
+      },
+      "status": {
+        "ar": "arabic_draft",
+        "en": "translation_draft",
+        "ur": "translation_draft",
+        "fr": "translation_draft",
+        "es": "translation_draft"
+      },
+      "under_review": true,
+      "has_illustration": true,
+      "has_audio": false,
+      "has_summary_audio": false
+    },
+    {
+      "slug": "055_sidrat_muntaha",
+      "order": 55,
+      "langs": [
+        "ar",
+        "en",
+        "ur",
+        "fr",
+        "es"
+      ],
+      "titles": {
+        "ar": "سِدْرَةُ الْمُنْتَهَى",
+        "en": "The Lote Tree of the Utmost Boundary",
+        "ur": "سدرۃ المنتہیٰ",
+        "fr": "Sidrat al-Muntaha, le Lotus de la Limite",
+        "es": "El Azufaifo del Límite (Sidrat al-Muntaha)"
+      },
+      "hooks": {
+        "ar": "بعد هذا الدرس، يكون المتعلم قادرًا على:",
+        "en": "After this lesson, the learner will be able to:",
+        "ur": "اس سبق کے بعد سیکھنے والا یہ کر سکے گا:",
+        "fr": "Au terme de cette leçon, l'apprenant sera capable de :",
+        "es": "Después de esta lección, el aprendiz será capaz de:"
+      },
+      "status": {
+        "ar": "arabic_draft",
+        "en": "translation_draft",
+        "ur": "translation_draft",
+        "fr": "translation_draft",
+        "es": "translation_draft"
+      },
+      "under_review": true,
+      "has_illustration": true,
+      "has_audio": false,
+      "has_summary_audio": false
+    },
+    {
+      "slug": "054_tuba",
+      "order": 54,
+      "langs": [
+        "ar",
+        "en",
+        "ur",
+        "fr",
+        "es"
+      ],
+      "titles": {
+        "ar": "شَجَرَةُ طُوبَى",
+        "en": "The Tree of Tuba",
+        "ur": "طوبیٰ کا درخت",
+        "fr": "L'arbre Tuba",
+        "es": "El árbol de Tuba"
+      },
+      "hooks": {
+        "ar": "بعد هذا الدرس، يكون المتعلم قادرًا على:",
+        "en": "After this lesson, the learner will be able to:",
+        "ur": "اس سبق کے بعد سیکھنے والا یہ کر سکے گا:",
+        "fr": "Au terme de cette leçon, l'apprenant sera capable de :",
+        "es": "Después de esta lección, el aprendiz será capaz de:"
+      },
+      "status": {
+        "ar": "arabic_draft",
+        "en": "translation_draft",
+        "ur": "translation_draft",
+        "fr": "translation_draft",
+        "es": "translation_draft"
+      },
+      "under_review": true,
+      "has_illustration": true,
+      "has_audio": false,
+      "has_summary_audio": false
+    },
+    {
+      "slug": "053_trees_gardens",
+      "order": 53,
+      "langs": [
+        "ar",
+        "en",
+        "ur",
+        "fr",
+        "es"
+      ],
+      "titles": {
+        "ar": "أَشْجَارُ الْجَنَّةِ وَبَسَاتِينُهَا وَظِلَالُهَا",
+        "en": "The Trees, Gardens and Shade of Jannah",
+        "ur": "جنت کے درخت، اس کے باغ اور اس کے سائے",
+        "fr": "Les arbres de la Jannah, ses jardins et ses ombrages",
+        "es": "Los árboles del Paraíso, sus jardines y sus sombras"
+      },
+      "hooks": {
+        "ar": "بعد هذا الدرس، يكون المتعلم قادرًا على:",
+        "en": "After this lesson, the learner will be able to:",
+        "ur": "اس سبق کے بعد سیکھنے والا یہ کر سکے گا:",
+        "fr": "Au terme de cette leçon, l'apprenant sera capable de :",
+        "es": "Después de esta lección, el aprendiz será capaz de:"
+      },
+      "status": {
+        "ar": "arabic_draft",
+        "en": "translation_draft",
+        "ur": "translation_draft",
+        "fr": "translation_draft",
+        "es": "translation_draft"
+      },
+      "under_review": true,
+      "has_illustration": true,
+      "has_audio": false,
+      "has_summary_audio": false
+    },
+    {
+      "slug": "052_rivers_without_channels",
+      "order": 52,
+      "langs": [
+        "ar",
+        "en",
+        "ur",
+        "fr",
+        "es"
+      ],
+      "titles": {
+        "ar": "جَرَيَانُ أَنْهَارِ الْجَنَّةِ بِغَيْرِ أُخْدُودٍ",
+        "en": "The Rivers of Jannah Flow Without Channels",
+        "ur": "بغیر کھائی کے بہتی جنت کی نہریں",
+        "fr": "Les rivières de la Jannah coulent sans lit creusé",
+        "es": "Los ríos del Paraíso corren sin cauce"
+      },
+      "hooks": {
+        "ar": "بعد هذا الدرس، يكون المتعلم قادرًا على:",
+        "en": "After this lesson, the learner will be able to:",
+        "ur": "اس سبق کے بعد سیکھنے والا یہ کر سکے گا:",
+        "fr": "Au terme de cette leçon, l'apprenant sera capable de :",
+        "es": "Después de esta lección, el aprendiz será capaz de:"
+      },
+      "status": {
+        "ar": "arabic_draft",
+        "en": "translation_draft",
+        "ur": "translation_draft",
+        "fr": "translation_draft",
+        "es": "translation_draft"
+      },
+      "under_review": true,
+      "has_illustration": true,
+      "has_audio": false,
+      "has_summary_audio": false
+    },
+    {
+      "slug": "051_tasnim_salsabil",
+      "order": 51,
+      "langs": [
+        "ar",
+        "en",
+        "ur",
+        "fr",
+        "es"
+      ],
+      "titles": {
+        "ar": "تَسْنِيمٌ وَسَلْسَبِيلٌ وَالرَّحِيقُ الْمَخْتُومُ",
+        "en": "Tasnim, Salsabil, and the Sealed Nectar",
+        "ur": "تسنیم، سلسبیل اور رحیقِ مختوم",
+        "fr": "Tasnim, Salsabil et le nectar scellé",
+        "es": "Tasnim, Salsabil y el néctar sellado"
+      },
+      "hooks": {
+        "ar": "بعد هذا الدرس، يكون المتعلم قادرًا على:",
+        "en": "After this lesson, the learner will be able to:",
+        "ur": "اس سبق کے بعد سیکھنے والا یہ کر سکے گا:",
+        "fr": "Au terme de cette leçon, l'apprenant sera capable de :",
+        "es": "Después de esta lección, el aprendiz será capaz de:"
+      },
+      "status": {
+        "ar": "arabic_draft",
+        "en": "translation_draft",
+        "ur": "translation_draft",
+        "fr": "translation_draft",
+        "es": "translation_draft"
+      },
+      "under_review": true,
+      "has_illustration": true,
+      "has_audio": false,
+      "has_summary_audio": false
+    },
+    {
       "slug": "050_four_rivers",
       "order": 50,
       "langs": [
