@@ -128,7 +128,21 @@ The Companions' question, "Not even you?", closes the road to self-delusion: if 
 
 <!-- activity:start audience="adults" concept_id="lesson.010.activity.claim-classify-repair" -->
 
-Classify the six statements below as **sound**, **incomplete**, or **false**: (1) "Deeds have no value since entry is by Allah's mercy," (2) "My abundant worship gives me a right over Allah to enter Jannah," (3) "I act because Allah commanded me, hoping for His acceptance and mercy," (4) "Deeds are a cause for entering Jannah," (5) "Allah is merciful, so there's no need to rush repentance," (6) "Being guided to do good is a blessing, and I am still responsible for my choices and must keep going." Link each judgment to evidence from the three texts, then rephrase every incomplete or false statement into one sentence joining cause and grace.
+Classify the six statements below as **sound**, **incomplete**, or **false**:
+
+(1) "Deeds have no value since entry is by Allah's mercy,"
+
+(2) "My abundant worship gives me a right over Allah to enter Jannah,"
+
+(3) "I act because Allah commanded me, hoping for His acceptance and mercy,"
+
+(4) "Deeds are a cause for entering Jannah,"
+
+(5) "Allah is merciful, so there's no need to rush repentance,"
+
+(6) "Being guided to do good is a blessing, and I am still responsible for my choices and must keep going."
+
+Link each judgment to evidence from the three texts, then rephrase every incomplete or false statement into one sentence joining cause and grace.
 
 <!-- activity:end -->
 
@@ -438,7 +452,21 @@ Analyze three cases: someone who looks down on others because of his worship, so
 **Materials:** Copies of the three pieces of evidence; the six statement cards; three large headings: "sound," "incomplete," "false"; paper and pens; an exit card.
 
 <!-- lesson-plan:preparation -->
-**Preparation:** The teacher prints the texts and the six statements from the adults' activity. Suggested classification key: (1) false, because the hadith commands aiming aright; (2) false, because it makes the deed an exchange and an independent right; (3) sound; (4) incomplete until it is added that the cause never stands apart from Allah's grace and acceptance; (5) false, because it makes mercy an excuse for delay; (6) sound. The teacher reviews the difference between the ba' of causation and the ba' of exchange, and accepts alternate phrasing if the learner supports it with sound evidence.
+**Preparation:** The teacher prints the texts and the six statements from the adults' activity. Suggested classification key:
+
+(1) false, because the hadith commands aiming aright;
+
+(2) false, because it makes the deed an exchange and an independent right;
+
+(3) sound;
+
+(4) incomplete until it is added that the cause never stands apart from Allah's grace and acceptance;
+
+(5) false, because it makes mercy an excuse for delay;
+
+(6) sound.
+
+The teacher reviews the difference between the ba' of causation and the ba' of exchange, and accepts alternate phrasing if the learner supports it with sound evidence.
 
 <!-- lesson-plan:opening -->
 **Opening — 5 minutes:** Pose the question: "Does the phrase 'Jannah is by Allah's mercy' mean deeds don't matter?" Gather answers without immediate correction, then announce that the texts will build the answer.

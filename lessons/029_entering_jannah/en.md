@@ -343,7 +343,15 @@ Imam an-Nawawi said that Hafsah wanted to understand and to be guided, not to re
 
 <!-- activity:start audience="8-12" concept_id="lesson.029.activity.settle-it-before-the-bridge" -->
 
-Make a "Bridge Card" with three planks: (1) **What do I owe?** One thing you haven't made right yet: a pencil you borrowed, a mean joke, a turn you didn't give your brother, a promise you didn't keep. (2) **How will I fix it?** Give the thing back, apologize with one honest sentence, or ask to be forgiven. (3) **When?** A date within the next three days. Once you've fixed it, put a check mark on the third plank and write only the date. Don't write the person's name, and don't tell the details to anyone except your parents, if you need their help.
+Make a "Bridge Card" with three planks:
+
+(1) **What do I owe?** One thing you haven't made right yet: a pencil you borrowed, a mean joke, a turn you didn't give your brother, a promise you didn't keep.
+
+(2) **How will I fix it?** Give the thing back, apologize with one honest sentence, or ask to be forgiven.
+
+(3) **When?** A date within the next three days.
+
+Once you've fixed it, put a check mark on the third plank and write only the date. Don't write the person's name, and don't tell the details to anyone except your parents, if you need their help.
 
 <!-- activity:end -->
 
@@ -489,7 +497,15 @@ What it means: O Allah, make us among those You rescue along with the mindful, h
 **Activity — 15 minutes:** Carry out the "Settle It Before the Bridge" activity as described in the activity unit: reviewing the four kinds of rights, choosing one right, and deciding how and by when it will be settled. Each person works in a private notebook, and no one is asked to share details.
 
 <!-- lesson-plan:assessment -->
-**Assessment and Closing — 10 minutes:** Exit card: (1) Set out the four stations in order, with one piece of evidence for each. (2) What does the coming-to mean, according to the view an-Nawawi held to be strongest? (3) Write down the date you set for settling the right. Close with a question for the next session: "Was it settled?"
+**Assessment and Closing — 10 minutes:** Exit card:
+
+(1) Set out the four stations in order, with one piece of evidence for each.
+
+(2) What does the coming-to mean, according to the view an-Nawawi held to be strongest?
+
+(3) Write down the date you set for settling the right.
+
+Close with a question for the next session: "Was it settled?"
 
 <!-- lesson-plan:differentiation -->
 **Differentiation:** For beginners, cover only the hadith of Umm Mubashshir, the hadith of the qantarah, and the hadith of clearing oneself. Ask advanced learners to read al-Bukhari's narration of the same hadith at number 6535 and compare its wording with narration 2440, and to review Chapter 38 of Ibn al-Qayyim's *Hadi al-Arwah*, "On How They Enter Jannah and What Meets Them as They Enter It."

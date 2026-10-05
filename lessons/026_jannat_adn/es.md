@@ -247,7 +247,15 @@ Los textos sobre 'Adn dan a conocer la morada; los textos sobre la mano muestran
 
 <!-- activity:start audience="adults" concept_id="lesson.026.activity.adam-return-route" -->
 
-Dibuja un camino de tres estaciones que termine en una puerta con el letrero "La morada de la permanencia". Elige un desliz real de este mes, que no compartirás con nadie, y escribe en cada estación: (1) un reconocimiento claro, sin escudarte en el decreto ni en las circunstancias; (2) una petición de perdón a Allah, con arrepentimiento y propósito firme; (3) una buena obra concreta que lo compense en el plazo de una semana. Luego, debajo del camino, escribe el nombre de una persona que te pidió perdón por un error antiguo, junto con el compromiso de no volver a reprochárselo. Revisa la hoja al cabo de una semana y marca cada estación que hayas completado.
+Dibuja un camino de tres estaciones que termine en una puerta con el letrero "La morada de la permanencia". Elige un desliz real de este mes, que no compartirás con nadie, y escribe en cada estación:
+
+(1) un reconocimiento claro, sin escudarte en el decreto ni en las circunstancias;
+
+(2) una petición de perdón a Allah, con arrepentimiento y propósito firme;
+
+(3) una buena obra concreta que lo compense en el plazo de una semana.
+
+Luego, debajo del camino, escribe el nombre de una persona que te pidió perdón por un error antiguo, junto con el compromiso de no volver a reprochárselo. Revisa la hoja al cabo de una semana y marca cada estación que hayas completado.
 
 <!-- activity:end -->
 
@@ -482,7 +490,15 @@ Fíjate en el diálogo: dos profetas, y cada uno empieza reconociendo los mérit
 
 <!-- activity:start audience="13+" concept_id="lesson.026.activity.adam-return-route" -->
 
-En una hoja privada que nadie más verá, dibuja un camino de tres estaciones que termine en el portón de "La morada de la permanencia". Elige un desliz real que se repita (con el móvil, con la lengua, en la oración o con tu familia) y escribe: (1) un reconocimiento sin frases como "Era mi destino" o "Todo el mundo lo hace"; (2) lo que le dirás a Allah al pedirle perdón, y a quién necesitas pedir disculpas; (3) una buena obra alternativa que empieces hoy y mantengas durante siete días. Y al pie del camino, escribe el nombre de alguien que te pidió perdón, junto con el compromiso de no volver a sacar su error delante de otros. Al cabo de una semana, sombrea las estaciones que hayas completado.
+En una hoja privada que nadie más verá, dibuja un camino de tres estaciones que termine en el portón de "La morada de la permanencia". Elige un desliz real que se repita (con el móvil, con la lengua, en la oración o con tu familia) y escribe:
+
+(1) un reconocimiento sin frases como "Era mi destino" o "Todo el mundo lo hace";
+
+(2) lo que le dirás a Allah al pedirle perdón, y a quién necesitas pedir disculpas;
+
+(3) una buena obra alternativa que empieces hoy y mantengas durante siete días.
+
+Y al pie del camino, escribe el nombre de alguien que te pidió perdón, junto con el compromiso de no volver a sacar su error delante de otros. Al cabo de una semana, sombrea las estaciones que hayas completado.
 
 <!-- activity:end -->
 

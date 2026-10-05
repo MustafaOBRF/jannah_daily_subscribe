@@ -128,7 +128,21 @@ La pregunta de los compañeros, «¿Ni siquiera tú?», cierra el paso al engrei
 
 <!-- activity:start audience="adults" concept_id="lesson.010.activity.claim-classify-repair" -->
 
-Clasifica las siguientes seis afirmaciones como **correcta**, **incompleta** o **errónea**: (1) «La obra no vale nada, ya que la entrada es por la misericordia de Allah»; (2) «Lo mucho que adoro me da ante Allah un derecho a la Jannah»; (3) «Obro porque Allah me lo ordenó, y espero Su aceptación y misericordia»; (4) «Las obras son causa para entrar en la Jannah»; (5) «Allah es misericordioso, así que no hay prisa por arrepentirse»; (6) «Mi guía hacia la obra es una bendición, y soy responsable de mi elección y debo perseverar». Vincula cada juicio con una prueba de los tres textos, y reformula cada afirmación incompleta o errónea en una frase que una la causa y la gracia.
+Clasifica las siguientes seis afirmaciones como **correcta**, **incompleta** o **errónea**:
+
+(1) «La obra no vale nada, ya que la entrada es por la misericordia de Allah»;
+
+(2) «Lo mucho que adoro me da ante Allah un derecho a la Jannah»;
+
+(3) «Obro porque Allah me lo ordenó, y espero Su aceptación y misericordia»;
+
+(4) «Las obras son causa para entrar en la Jannah»;
+
+(5) «Allah es misericordioso, así que no hay prisa por arrepentirse»;
+
+(6) «Mi guía hacia la obra es una bendición, y soy responsable de mi elección y debo perseverar».
+
+Vincula cada juicio con una prueba de los tres textos, y reformula cada afirmación incompleta o errónea en una frase que una la causa y la gracia.
 
 <!-- activity:end -->
 
@@ -438,7 +452,21 @@ Analiza tres casos: alguien que desprecia a otro por su adoración, alguien que 
 **Materiales:** copias de las tres pruebas; tarjetas con las seis afirmaciones; tres letreros grandes: «Correcta», «Incompleta», «Errónea»; hojas y bolígrafos; tarjeta de salida.
 
 <!-- lesson-plan:preparation -->
-**Preparación:** el maestro imprime los textos y las seis afirmaciones de la actividad de adultos. Clave de clasificación sugerida: (1) errónea, porque el hadiz ordena la rectitud; (2) errónea, porque convierte la obra en compraventa y en un derecho independiente; (3) correcta; (4) incompleta hasta añadir que la causa no es independiente de la gracia y la aceptación de Allah; (5) errónea, porque convierte la misericordia en pretexto para posponer; (6) correcta. Repasa la diferencia entre la causalidad y la compraventa, y acepta una redacción alternativa si el estudiante la sustenta con una prueba correcta.
+**Preparación:** el maestro imprime los textos y las seis afirmaciones de la actividad de adultos. Clave de clasificación sugerida:
+
+(1) errónea, porque el hadiz ordena la rectitud;
+
+(2) errónea, porque convierte la obra en compraventa y en un derecho independiente;
+
+(3) correcta;
+
+(4) incompleta hasta añadir que la causa no es independiente de la gracia y la aceptación de Allah;
+
+(5) errónea, porque convierte la misericordia en pretexto para posponer;
+
+(6) correcta.
+
+Repasa la diferencia entre la causalidad y la compraventa, y acepta una redacción alternativa si el estudiante la sustenta con una prueba correcta.
 
 <!-- lesson-plan:opening -->
 **Apertura — 5 minutos:** plantea la pregunta: «¿Significa que la Jannah es por la misericordia de Allah que la obra no importa?» Recoge respuestas sin corregir de inmediato, y anuncia que los textos construirán la respuesta.

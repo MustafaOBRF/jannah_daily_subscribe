@@ -350,7 +350,15 @@ Abu Musa didn't hand out glad tidings based on his own opinion. He passed on the
 
 <!-- activity:start audience="8-12" concept_id="lesson.021.activity.doorkeeper-glad-tidings-card" -->
 
-Be a "doorkeeper of good" this week. Pay attention to a classmate, a brother, or a sister, and write three lines on a card: (1) one specific, real good deed you saw them do, for example, "I saw you helping our new classmate at recess"; (2) why Allah loves that deed; (3) a du'a: "I ask Allah to make you one of the people of Jannah." The rule: don't exaggerate, and don't write "You're going to Jannah." Write what you saw, and pray for what you hope. Give them the card, and write in your notebook how it went.
+Be a "doorkeeper of good" this week. Pay attention to a classmate, a brother, or a sister, and write three lines on a card:
+
+(1) one specific, real good deed you saw them do, for example, "I saw you helping our new classmate at recess";
+
+(2) why Allah loves that deed;
+
+(3) a du'a: "I ask Allah to make you one of the people of Jannah."
+
+The rule: don't exaggerate, and don't write "You're going to Jannah." Write what you saw, and pray for what you hope. Give them the card, and write in your notebook how it went.
 
 <!-- activity:end -->
 
@@ -492,7 +500,15 @@ Choose someone who rarely gets praised: a quiet classmate, a younger brother or 
 **Activity — 15 minutes:** Participants carry out the "Honest Glad-Tidings Card" activity as described in the activity unit: each writes their message, then the two lines "What I witnessed" and "What I only hope for" in their private notebook. Two volunteers read their messages aloud without naming the recipient.
 
 <!-- lesson-plan:assessment -->
-**Assessment and Closing — 10 minutes:** Exit card: (1) Name five of the Ten. (2) Write one sentence distinguishing bearing witness from hoping. (3) What is the lesson of Uthman's glad tidings? Close with the question: "How can I be one of those who followed them in excellence this week?"
+**Assessment and Closing — 10 minutes:** Exit card:
+
+(1) Name five of the Ten.
+
+(2) Write one sentence distinguishing bearing witness from hoping.
+
+(3) What is the lesson of Uthman's glad tidings?
+
+Close with the question: "How can I be one of those who followed them in excellence this week?"
 
 <!-- lesson-plan:differentiation -->
 **Differentiation:** For beginners, cover only the hadith of the well of Aris, the hadith of the Ten, and the ayah of at-Tawbah. Ask advanced learners to compare the narration in al-Bukhari 3674 with the narration of Abu Uthman al-Nahdi from Abu Musa in the same book, and to prepare a short profile of one of the Ten from the books of sirah.

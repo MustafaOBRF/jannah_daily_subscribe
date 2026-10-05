@@ -128,7 +128,21 @@ La question des Compagnons — « Pas même toi ? » — coupe court à toute
 
 <!-- activity:start audience="adults" concept_id="lesson.010.activity.claim-classify-repair" -->
 
-Classez les six affirmations suivantes en **correcte**, **incomplète** ou **erronée** : (1) « L'œuvre n'a aucune valeur puisque l'entrée au Paradis relève de la miséricorde d'Allah » ; (2) « Mes nombreux actes d'adoration me donnent sur Allah un droit à la Jannah » ; (3) « J'agis parce qu'Allah me l'a ordonné, et j'espère qu'Il l'acceptera et me fera miséricorde » ; (4) « Les œuvres sont une cause d'entrée au Paradis » ; (5) « Allah est miséricordieux, donc rien ne presse pour me repentir » ; (6) « Avoir été guidé vers l'œuvre est un bienfait ; je suis responsable de mon choix et tenu de persévérer ». Reliez chaque jugement à une preuve tirée des trois textes, puis reformulez chaque affirmation incomplète ou erronée en une phrase qui réunit la cause et la grâce.
+Classez les six affirmations suivantes en **correcte**, **incomplète** ou **erronée** :
+
+(1) « L'œuvre n'a aucune valeur puisque l'entrée au Paradis relève de la miséricorde d'Allah » ;
+
+(2) « Mes nombreux actes d'adoration me donnent sur Allah un droit à la Jannah » ;
+
+(3) « J'agis parce qu'Allah me l'a ordonné, et j'espère qu'Il l'acceptera et me fera miséricorde » ;
+
+(4) « Les œuvres sont une cause d'entrée au Paradis » ;
+
+(5) « Allah est miséricordieux, donc rien ne presse pour me repentir » ;
+
+(6) « Avoir été guidé vers l'œuvre est un bienfait ; je suis responsable de mon choix et tenu de persévérer ».
+
+Reliez chaque jugement à une preuve tirée des trois textes, puis reformulez chaque affirmation incomplète ou erronée en une phrase qui réunit la cause et la grâce.
 
 <!-- activity:end -->
 
@@ -438,7 +452,21 @@ Analyse trois cas : une personne qui méprise les autres à cause de son adorat
 **Matériel :** copies des trois preuves ; cartes des six affirmations ; trois grands intitulés : « Correct », « Incomplet », « Erroné » ; papier et stylos ; carte de sortie.
 
 <!-- lesson-plan:preparation -->
-**Préparation :** l'enseignant imprime les textes et les six affirmations de l'activité des adultes. Corrigé proposé : (1) erronée, car le hadith ordonne de viser juste ; (2) erronée, car elle fait de l'œuvre une contrepartie et un droit indépendant ; (3) correcte ; (4) incomplète tant qu'on n'ajoute pas que la cause ne se suffit pas sans la grâce et l'acceptation d'Allah ; (5) erronée, car elle fait de la miséricorde un prétexte pour remettre le repentir à plus tard ; (6) correcte. Il revoit la différence entre le `bi` de causalité et le `bi` de contrepartie, et accepte toute autre reformulation si l'apprenant l'appuie sur une preuve valable.
+**Préparation :** l'enseignant imprime les textes et les six affirmations de l'activité des adultes. Corrigé proposé :
+
+(1) erronée, car le hadith ordonne de viser juste ;
+
+(2) erronée, car elle fait de l'œuvre une contrepartie et un droit indépendant ;
+
+(3) correcte ;
+
+(4) incomplète tant qu'on n'ajoute pas que la cause ne se suffit pas sans la grâce et l'acceptation d'Allah ;
+
+(5) erronée, car elle fait de la miséricorde un prétexte pour remettre le repentir à plus tard ;
+
+(6) correcte.
+
+Il revoit la différence entre le `bi` de causalité et le `bi` de contrepartie, et accepte toute autre reformulation si l'apprenant l'appuie sur une preuve valable.
 
 <!-- lesson-plan:opening -->
 **Ouverture — 5 minutes :** il pose la question : « Dire que la Jannah relève de la miséricorde d'Allah signifie-t-il que l'œuvre n'a pas d'importance ? » Il recueille les réponses sans les corriger immédiatement, puis annonce que les textes construiront la réponse.

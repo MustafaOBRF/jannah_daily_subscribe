@@ -362,7 +362,15 @@ Abu Musa n'a annoncé la Jannah à personne selon son propre avis : il a transm
 
 <!-- activity:start audience="8-12" concept_id="lesson.021.activity.doorkeeper-glad-tidings-card" -->
 
-Cette semaine, deviens le « portier du bien ». Observe un camarade, un frère ou une sœur, et écris trois lignes sur une carte : (1) une bonne action réelle et précise que tu l'as vu faire, par exemple : « Je t'ai vu aider le nouvel élève pendant la récréation » ; (2) pourquoi Allah aime cette action ; (3) une invocation : « Je demande à Allah de te compter parmi les gens de la Jannah. » La règle : n'exagère pas, et n'écris pas « Tu iras dans la Jannah » ; écris ce que tu as vu, et demande à Allah ce que tu espères. Donne la carte, puis note dans ton cahier l'effet qu'elle a eu.
+Cette semaine, deviens le « portier du bien ». Observe un camarade, un frère ou une sœur, et écris trois lignes sur une carte :
+
+(1) une bonne action réelle et précise que tu l'as vu faire, par exemple : « Je t'ai vu aider le nouvel élève pendant la récréation » ;
+
+(2) pourquoi Allah aime cette action ;
+
+(3) une invocation : « Je demande à Allah de te compter parmi les gens de la Jannah. »
+
+La règle : n'exagère pas, et n'écris pas « Tu iras dans la Jannah » ; écris ce que tu as vu, et demande à Allah ce que tu espères. Donne la carte, puis note dans ton cahier l'effet qu'elle a eu.
 
 <!-- activity:end -->
 
@@ -504,7 +512,15 @@ Choisis quelqu'un que l'on félicite rarement : un camarade discret, un petit f
 **Activité — 15 minutes :** les participants réalisent l'activité « La carte de la bonne nouvelle sincère » telle que décrite dans l'unité d'activité : chacun rédige son message, puis les deux lignes « Ce dont j'ai été témoin » et « Ce que je ne fais qu'espérer » dans son carnet personnel. Deux volontaires lisent leur message à voix haute sans nommer le destinataire.
 
 <!-- lesson-plan:assessment -->
-**Évaluation et clôture — 10 minutes :** carte de sortie : (1) citez cinq des Dix ; (2) écrivez une phrase qui distingue le témoignage de l'espérance ; (3) quelle leçon tirer de la bonne nouvelle de 'Uthman ? Conclure par la question : « Comment serai-je, cette semaine, de ceux qui les ont suivis dans l'excellence ? »
+**Évaluation et clôture — 10 minutes :** carte de sortie :
+
+(1) citez cinq des Dix ;
+
+(2) écrivez une phrase qui distingue le témoignage de l'espérance ;
+
+(3) quelle leçon tirer de la bonne nouvelle de 'Uthman ?
+
+Conclure par la question : « Comment serai-je, cette semaine, de ceux qui les ont suivis dans l'excellence ? »
 
 <!-- lesson-plan:differentiation -->
 **Différenciation :** pour les débutants, se limiter au hadith du puits d'Aris, au hadith des Dix et au verset d'at-Tawbah. Demander aux apprenants avancés de comparer la version d'al-Bukhari 3674 avec celle d'Abu 'Uthman an-Nahdi d'après Abu Musa, dans le même livre, et de préparer une notice sur l'un des Dix à partir des ouvrages de *sirah*.

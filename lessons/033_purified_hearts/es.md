@@ -245,7 +245,15 @@ Las aleyas de Al-A'raf y Al-Hiyr anuncian la gracia; los dos hadices de al-Bujar
 
 <!-- activity:start audience="adults" concept_id="lesson.033.activity.no-reproach-today" -->
 
-En una hoja privada, escribe la frase de reproche que se te repite por dentro hacia un creyente que te ofendió en algo corriente que ya terminó. Táchala y escribe debajo una respuesta de tres líneas al estilo de Yusuf: (1) una gracia de Allah que viste a pesar de lo ocurrido; (2) "sin reproche": un solo recordatorio que dejarás de repetir; (3) una súplica concreta para que Allah lo perdone y le conceda el bien. Después dibuja tres casillas, suplica por esa persona en secreto durante tres noches seguidas y marca una casilla cada noche. No elijas un daño grave o que siga ocurriendo: eso requiere protección y asesoramiento, no esta actividad.
+En una hoja privada, escribe la frase de reproche que se te repite por dentro hacia un creyente que te ofendió en algo corriente que ya terminó. Táchala y escribe debajo una respuesta de tres líneas al estilo de Yusuf:
+
+(1) una gracia de Allah que viste a pesar de lo ocurrido;
+
+(2) "sin reproche": un solo recordatorio que dejarás de repetir;
+
+(3) una súplica concreta para que Allah lo perdone y le conceda el bien.
+
+Después dibuja tres casillas, suplica por esa persona en secreto durante tres noches seguidas y marca una casilla cada noche. No elijas un daño grave o que siga ocurriendo: eso requiere protección y asesoramiento, no esta actividad.
 
 <!-- activity:end -->
 
@@ -406,7 +414,15 @@ Fíjate en los tres pasos del perdón de Yusuf: recordar el favor de Allah, no r
 
 <!-- activity:start audience="8-12" concept_id="lesson.033.activity.no-reproach-today" -->
 
-Escribe en una tarjeta una frase de reproche que se te repite por dentro hacia un hermano o un amigo por algo corriente que ya pasó. Táchala y escribe debajo tres líneas al estilo de Yusuf: (1) una gracia de Allah que notaste; (2) "No se lo volveré a recordar"; (3) una súplica por esa persona. Después dibuja tres casillas, suplica por ella en secreto durante tres noches y marca una casilla cada noche. Cuéntaselo a tu papá o a tu mamá si se trata de algo más que un desacuerdo normal.
+Escribe en una tarjeta una frase de reproche que se te repite por dentro hacia un hermano o un amigo por algo corriente que ya pasó. Táchala y escribe debajo tres líneas al estilo de Yusuf:
+
+(1) una gracia de Allah que notaste;
+
+(2) "No se lo volveré a recordar";
+
+(3) una súplica por esa persona.
+
+Después dibuja tres casillas, suplica por ella en secreto durante tres noches y marca una casilla cada noche. Cuéntaselo a tu papá o a tu mamá si se trata de algo más que un desacuerdo normal.
 
 <!-- activity:end -->
 
@@ -500,7 +516,15 @@ Piensa en la diferencia. Mucha gente dice "te perdono" y luego guarda la captura
 
 <!-- activity:start audience="13+" concept_id="lesson.033.activity.no-reproach-today" -->
 
-En una hoja privada o en una nota bloqueada, escribe la respuesta que tienes guardada para alguien que te ofendió en un desacuerdo corriente que ya terminó. Táchala y escribe en su lugar tres líneas al estilo de Yusuf: (1) una gracia de Allah que te llevaste a pesar de lo ocurrido; (2) un hábito de reproche concreto que vas a cortar, como las indirectas o volver a compartir una captura antigua; (3) una súplica concreta por esa persona. Después suplica por ella en secreto durante tres noches seguidas y deja una marca cada noche. Si se trata de acoso o de algo peligroso, en lugar de esta actividad cuéntaselo a un adulto de confianza.
+En una hoja privada o en una nota bloqueada, escribe la respuesta que tienes guardada para alguien que te ofendió en un desacuerdo corriente que ya terminó. Táchala y escribe en su lugar tres líneas al estilo de Yusuf:
+
+(1) una gracia de Allah que te llevaste a pesar de lo ocurrido;
+
+(2) un hábito de reproche concreto que vas a cortar, como las indirectas o volver a compartir una captura antigua;
+
+(3) una súplica concreta por esa persona.
+
+Después suplica por ella en secreto durante tres noches seguidas y deja una marca cada noche. Si se trata de acoso o de algo peligroso, en lugar de esta actividad cuéntaselo a un adulto de confianza.
 
 <!-- activity:end -->
 

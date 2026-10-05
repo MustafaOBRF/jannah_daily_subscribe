@@ -353,7 +353,15 @@ El imam an-Nawawi explicó que Hafsa quería entender y recibir orientación, no
 
 <!-- activity:start audience="8-12" concept_id="lesson.029.activity.settle-it-before-the-bridge" -->
 
-Haz una "tarjeta del puente" con tres tablones: (1) **¿Qué debo?** Un derecho que todavía no he devuelto: un lápiz prestado, una burla, un turno que no le di a mi hermano, una promesa que no cumplí. (2) **¿Cómo lo arreglo?** Devuelvo lo que no es mío, me disculpo con una frase sincera o pido perdón. (3) **¿Cuándo?** Una fecha dentro de los próximos tres días. Cuando lo hayas arreglado, marca el tercer tablón y escribe solo la fecha. No escribas el nombre de la persona ni cuentes los detalles a nadie, salvo a tus padres si necesitas su ayuda.
+Haz una "tarjeta del puente" con tres tablones:
+
+(1) **¿Qué debo?** Un derecho que todavía no he devuelto: un lápiz prestado, una burla, un turno que no le di a mi hermano, una promesa que no cumplí.
+
+(2) **¿Cómo lo arreglo?** Devuelvo lo que no es mío, me disculpo con una frase sincera o pido perdón.
+
+(3) **¿Cuándo?** Una fecha dentro de los próximos tres días.
+
+Cuando lo hayas arreglado, marca el tercer tablón y escribe solo la fecha. No escribas el nombre de la persona ni cuentes los detalles a nadie, salvo a tus padres si necesitas su ayuda.
 
 <!-- activity:end -->
 
@@ -495,7 +503,15 @@ Abre una página personal con tres columnas: "El derecho que debo", "Cómo voy a
 **Actividad — 15 minutos:** se realiza la actividad "Ponte en paz antes del puente" tal como se describe en la unidad de actividad: repasar los cuatro tipos de derechos, elegir uno y fijar la manera de saldarlo y la fecha. Cada uno trabaja en su cuaderno personal, y a nadie se le pide que comparta los detalles.
 
 <!-- lesson-plan:assessment -->
-**Evaluación y cierre — 10 minutos:** tarjeta de salida: (1) ordena las cuatro etapas con una evidencia para cada una; (2) ¿qué significa al-wurud según lo que an-Nawawi consideró más acertado?; (3) escribe la fecha que fijaste para saldar el derecho. Se cierra con una pregunta para el siguiente encuentro: «¿Quedó saldado?».
+**Evaluación y cierre — 10 minutos:** tarjeta de salida:
+
+(1) ordena las cuatro etapas con una evidencia para cada una;
+
+(2) ¿qué significa al-wurud según lo que an-Nawawi consideró más acertado?;
+
+(3) escribe la fecha que fijaste para saldar el derecho.
+
+Se cierra con una pregunta para el siguiente encuentro: «¿Quedó saldado?».
 
 <!-- lesson-plan:differentiation -->
 **Diferenciación:** para los principiantes basta con el hadiz de Umm Mubashshir, el hadiz del puente y el hadiz de obtener el perdón. A los más avanzados se les pide leer la versión de al-Bujari 6535 del mismo hadiz y comparar sus palabras con las de la versión 2440, y revisar el capítulo 38 de *Hadi al-Arwah* de Ibn al-Qayyim: «Sobre cómo entran en el Paraíso y lo que encuentran al entrar».

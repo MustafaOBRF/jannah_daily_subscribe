@@ -245,7 +245,15 @@ Les versets d'al-A'raf et d'al-Hijr annoncent le bienfait ; les deux hadiths d'
 
 <!-- activity:start audience="adults" concept_id="lesson.033.activity.no-reproach-today" -->
 
-Sur une feuille que vous garderez pour vous, écrivez la phrase de reproche qui revient sans cesse dans votre esprit à l'égard d'un croyant qui vous a blessé — une offense ordinaire, aujourd'hui terminée. Barrez-la, puis écrivez en dessous une réponse de trois lignes, à la manière de Yusuf : (1) un bienfait d'Allah que vous avez perçu malgré ce qui s'est passé ; (2) « nul reproche » : un seul rappel que vous cesserez de ressasser ; (3) une invocation précise pour lui, demandant le pardon et le bien. Tracez ensuite trois cases, invoquez Allah pour lui en secret trois nuits de suite, et cochez une case chaque soir. Ne choisissez pas un mal grave ou qui se poursuit : celui-là appelle protection et conseil, non cet exercice.
+Sur une feuille que vous garderez pour vous, écrivez la phrase de reproche qui revient sans cesse dans votre esprit à l'égard d'un croyant qui vous a blessé — une offense ordinaire, aujourd'hui terminée. Barrez-la, puis écrivez en dessous une réponse de trois lignes, à la manière de Yusuf :
+
+(1) un bienfait d'Allah que vous avez perçu malgré ce qui s'est passé ;
+
+(2) « nul reproche » : un seul rappel que vous cesserez de ressasser ;
+
+(3) une invocation précise pour lui, demandant le pardon et le bien.
+
+Tracez ensuite trois cases, invoquez Allah pour lui en secret trois nuits de suite, et cochez une case chaque soir. Ne choisissez pas un mal grave ou qui se poursuit : celui-là appelle protection et conseil, non cet exercice.
 
 <!-- activity:end -->
 
@@ -406,7 +414,15 @@ Remarque les trois gestes du pardon de Yusuf : rappeler la grâce d'Allah, reno
 
 <!-- activity:start audience="8-12" concept_id="lesson.033.activity.no-reproach-today" -->
 
-Sur une carte, écris une phrase de reproche qui te revient souvent en tête à propos d'un frère, d'une sœur ou d'un ami, à cause d'une dispute ordinaire aujourd'hui terminée. Barre-la, et écris en dessous trois lignes à la manière de Yusuf : (1) un bienfait d'Allah que tu as remarqué ; (2) « Je ne lui en reparlerai plus jamais » ; (3) une invocation pour lui. Dessine ensuite trois cases, invoque Allah pour lui en secret pendant trois soirs, et coche une case chaque soir. Si l'histoire est plus grave qu'une simple dispute, parles-en à ton papa ou à ta maman.
+Sur une carte, écris une phrase de reproche qui te revient souvent en tête à propos d'un frère, d'une sœur ou d'un ami, à cause d'une dispute ordinaire aujourd'hui terminée. Barre-la, et écris en dessous trois lignes à la manière de Yusuf :
+
+(1) un bienfait d'Allah que tu as remarqué ;
+
+(2) « Je ne lui en reparlerai plus jamais » ;
+
+(3) une invocation pour lui.
+
+Dessine ensuite trois cases, invoque Allah pour lui en secret pendant trois soirs, et coche une case chaque soir. Si l'histoire est plus grave qu'une simple dispute, parles-en à ton papa ou à ta maman.
 
 <!-- activity:end -->
 
@@ -500,7 +516,15 @@ Mesure la différence. Beaucoup disent « Je t'ai pardonné »… puis gardent
 
 <!-- activity:start audience="13+" concept_id="lesson.033.activity.no-reproach-today" -->
 
-Sur une feuille personnelle ou dans une note verrouillée, écris la réplique que tu gardes en réserve pour quelqu'un qui t'a blessé lors d'un conflit ordinaire, aujourd'hui terminé. Barre-la, et écris à la place trois lignes à la manière de Yusuf : (1) un bienfait d'Allah que tu as reçu malgré ce qui s'est passé ; (2) une habitude de reproche que tu vas arrêter, comme les allusions ou le fait de republier une vieille capture d'écran ; (3) une invocation précise pour lui. Invoque ensuite Allah pour lui en secret trois nuits de suite, et coche chaque soir. S'il s'agit de harcèlement ou d'un danger, parles-en plutôt à un adulte de confiance, au lieu de faire cette activité.
+Sur une feuille personnelle ou dans une note verrouillée, écris la réplique que tu gardes en réserve pour quelqu'un qui t'a blessé lors d'un conflit ordinaire, aujourd'hui terminé. Barre-la, et écris à la place trois lignes à la manière de Yusuf :
+
+(1) un bienfait d'Allah que tu as reçu malgré ce qui s'est passé ;
+
+(2) une habitude de reproche que tu vas arrêter, comme les allusions ou le fait de republier une vieille capture d'écran ;
+
+(3) une invocation précise pour lui.
+
+Invoque ensuite Allah pour lui en secret trois nuits de suite, et coche chaque soir. S'il s'agit de harcèlement ou d'un danger, parles-en plutôt à un adulte de confiance, au lieu de faire cette activité.
 
 <!-- activity:end -->
 

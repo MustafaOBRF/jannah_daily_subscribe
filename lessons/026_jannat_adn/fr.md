@@ -247,7 +247,15 @@ Les textes sur 'Adn font connaître la demeure ; les textes sur la Main montren
 
 <!-- activity:start audience="adults" concept_id="lesson.026.activity.adam-return-route" -->
 
-Dessinez un chemin à trois étapes qui aboutit à une porte portant l'inscription « La Demeure permanente ». Choisissez un faux pas réel commis ce mois-ci, que vous ne confierez à personne, et notez à chaque étape : (1) un aveu franc, sans vous abriter derrière le décret ni derrière les circonstances ; (2) une demande de pardon, accompagnée de regret et de résolution ; (3) une bonne action précise, à accomplir dans la semaine, pour la compenser. Sous le chemin, inscrivez ensuite le nom d'une personne qui s'est excusée auprès de vous d'une faute ancienne, avec l'engagement de ne plus la lui reprocher. Relisez la feuille au bout d'une semaine et cochez chaque étape accomplie.
+Dessinez un chemin à trois étapes qui aboutit à une porte portant l'inscription « La Demeure permanente ». Choisissez un faux pas réel commis ce mois-ci, que vous ne confierez à personne, et notez à chaque étape :
+
+(1) un aveu franc, sans vous abriter derrière le décret ni derrière les circonstances ;
+
+(2) une demande de pardon, accompagnée de regret et de résolution ;
+
+(3) une bonne action précise, à accomplir dans la semaine, pour la compenser.
+
+Sous le chemin, inscrivez ensuite le nom d'une personne qui s'est excusée auprès de vous d'une faute ancienne, avec l'engagement de ne plus la lui reprocher. Relisez la feuille au bout d'une semaine et cochez chaque étape accomplie.
 
 <!-- activity:end -->
 
@@ -482,7 +490,15 @@ Observe bien ce dialogue : deux prophètes, et chacun commence par rappeler les
 
 <!-- activity:start audience="13+" concept_id="lesson.026.activity.adam-return-route" -->
 
-Sur une feuille personnelle que personne d'autre ne lira, dessine un chemin à trois étapes qui aboutit au portail de « la Demeure permanente ». Choisis un faux pas réel qui revient souvent (avec ton téléphone, dans tes paroles, dans ta prière ou avec ta famille), et écris : (1) un aveu, sans les formules « C'est mon destin » ou « Tout le monde le fait » ; (2) ce que tu diras à Allah en Lui demandant pardon, et la personne à qui tu dois des excuses ; (3) une bonne action de remplacement, que tu commences aujourd'hui et que tu poursuis pendant sept jours. En bas du chemin, écris le nom d'une personne qui s'est excusée auprès de toi, avec l'engagement de ne plus ressortir sa faute devant les autres. Au bout d'une semaine, colorie les étapes que tu as menées à bien.
+Sur une feuille personnelle que personne d'autre ne lira, dessine un chemin à trois étapes qui aboutit au portail de « la Demeure permanente ». Choisis un faux pas réel qui revient souvent (avec ton téléphone, dans tes paroles, dans ta prière ou avec ta famille), et écris :
+
+(1) un aveu, sans les formules « C'est mon destin » ou « Tout le monde le fait » ;
+
+(2) ce que tu diras à Allah en Lui demandant pardon, et la personne à qui tu dois des excuses ;
+
+(3) une bonne action de remplacement, que tu commences aujourd'hui et que tu poursuis pendant sept jours.
+
+En bas du chemin, écris le nom d'une personne qui s'est excusée auprès de toi, avec l'engagement de ne plus ressortir sa faute devant les autres. Au bout d'une semaine, colorie les étapes que tu as menées à bien.
 
 <!-- activity:end -->
 

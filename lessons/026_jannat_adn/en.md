@@ -231,7 +231,15 @@ The texts about 'Adn introduce the Home itself. The texts about the Hand show ho
 
 <!-- activity:start audience="adults" concept_id="lesson.026.activity.adam-return-route" -->
 
-Draw a road with three stations, ending at a door labeled "The Home of Residence." Choose one real slip from this month that you will not share with anyone, and at each station write: (1) a frank admission, with no excuses drawn from divine decree or circumstances; (2) a plea for forgiveness, with remorse and resolve; (3) a specific good deed to set against it within a week. Then, beneath the road, write the name of someone who apologized to you for an old mistake, and a commitment never to blame them for it again. Review the sheet after a week and check off every station you have completed.
+Draw a road with three stations, ending at a door labeled "The Home of Residence." Choose one real slip from this month that you will not share with anyone, and at each station write:
+
+(1) a frank admission, with no excuses drawn from divine decree or circumstances;
+
+(2) a plea for forgiveness, with remorse and resolve;
+
+(3) a specific good deed to set against it within a week.
+
+Then, beneath the road, write the name of someone who apologized to you for an old mistake, and a commitment never to blame them for it again. Review the sheet after a week and check off every station you have completed.
 
 <!-- activity:end -->
 
@@ -466,7 +474,15 @@ Look closely at the dialogue. Two prophets, and each one opens by naming the oth
 
 <!-- activity:start audience="13+" concept_id="lesson.026.activity.adam-return-route" -->
 
-On a private sheet that no one else will see, draw a road with three stations ending at a gate marked "The Home of Residence." Choose a real slip that keeps coming back (with your phone, your tongue, your prayer, or your family), and write: (1) an admission, without the words "it's my destiny" or "everyone does it"; (2) what you will say to Allah when you ask His forgiveness, and whom you need to apologize to; (3) a good deed to replace it, which you start today and keep up for seven days. At the bottom of the road, write the name of someone who apologized to you, and a commitment not to reopen their mistake in front of others. After a week, shade in the stations you have completed.
+On a private sheet that no one else will see, draw a road with three stations ending at a gate marked "The Home of Residence." Choose a real slip that keeps coming back (with your phone, your tongue, your prayer, or your family), and write:
+
+(1) an admission, without the words "it's my destiny" or "everyone does it";
+
+(2) what you will say to Allah when you ask His forgiveness, and whom you need to apologize to;
+
+(3) a good deed to replace it, which you start today and keep up for seven days.
+
+At the bottom of the road, write the name of someone who apologized to you, and a commitment not to reopen their mistake in front of others. After a week, shade in the stations you have completed.
 
 <!-- activity:end -->
 

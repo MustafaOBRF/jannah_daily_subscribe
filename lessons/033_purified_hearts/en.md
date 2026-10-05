@@ -229,7 +229,15 @@ The ayat of al-A'raf and al-Hijr announce the blessing; the two hadiths in al-Bu
 
 <!-- activity:start audience="adults" concept_id="lesson.033.activity.no-reproach-today" -->
 
-On a private sheet of paper, write the line of reproach that keeps replaying in your head about a believer who wronged you in an ordinary way, in a matter that is now over. Cross it out, and beneath it write a three-line response in the way of Yusuf: (1) a blessing from Allah you have seen despite what happened; (2) "No reproach": one reminder you will stop repeating; (3) a specific du'a for that person's forgiveness and good. Then draw three boxes, pray for them in private for three nights in a row, and check off a box each night. Do not choose serious or ongoing harm; that calls for protection and counsel, not for this activity.
+On a private sheet of paper, write the line of reproach that keeps replaying in your head about a believer who wronged you in an ordinary way, in a matter that is now over. Cross it out, and beneath it write a three-line response in the way of Yusuf:
+
+(1) a blessing from Allah you have seen despite what happened;
+
+(2) "No reproach": one reminder you will stop repeating;
+
+(3) a specific du'a for that person's forgiveness and good.
+
+Then draw three boxes, pray for them in private for three nights in a row, and check off a box each night. Do not choose serious or ongoing harm; that calls for protection and counsel, not for this activity.
 
 <!-- activity:end -->
 
@@ -392,7 +400,15 @@ Notice the three steps in Yusuf's forgiveness: he spoke of Allah's blessing, he 
 
 <!-- activity:start audience="8-12" concept_id="lesson.033.activity.no-reproach-today" -->
 
-On a card, write a line of blame that keeps going around in your head about a brother, sister, or friend, over an ordinary thing that is already over. Cross it out, and underneath write three lines in the way of Yusuf: (1) a blessing from Allah you noticed; (2) "I won't remind them of this again"; (3) a du'a for them. Then draw three boxes, pray for them privately for three nights, and check off a box each night. Tell your mom or dad if the problem is bigger than an ordinary disagreement.
+On a card, write a line of blame that keeps going around in your head about a brother, sister, or friend, over an ordinary thing that is already over. Cross it out, and underneath write three lines in the way of Yusuf:
+
+(1) a blessing from Allah you noticed;
+
+(2) "I won't remind them of this again";
+
+(3) a du'a for them.
+
+Then draw three boxes, pray for them privately for three nights, and check off a box each night. Tell your mom or dad if the problem is bigger than an ordinary disagreement.
 
 <!-- activity:end -->
 
@@ -488,7 +504,15 @@ Think about the difference. Plenty of people say "I forgive you," then keep a sc
 
 <!-- activity:start audience="13+" concept_id="lesson.033.activity.no-reproach-today" -->
 
-On a private sheet of paper or in a locked note, write down the comeback you've been saving for someone who wronged you in an ordinary conflict that is now over. Cross it out, and in its place write three lines in the way of Yusuf: (1) a blessing from Allah you came away with despite what happened; (2) one blaming habit you will stop, like dropping hints or reposting an old screenshot; (3) a specific du'a for them. Then pray for them privately for three nights in a row, and check off each night. If the harm is bullying or something dangerous, tell a trusted adult instead of doing this activity.
+On a private sheet of paper or in a locked note, write down the comeback you've been saving for someone who wronged you in an ordinary conflict that is now over. Cross it out, and in its place write three lines in the way of Yusuf:
+
+(1) a blessing from Allah you came away with despite what happened;
+
+(2) one blaming habit you will stop, like dropping hints or reposting an old screenshot;
+
+(3) a specific du'a for them.
+
+Then pray for them privately for three nights in a row, and check off each night. If the harm is bullying or something dangerous, tell a trusted adult instead of doing this activity.
 
 <!-- activity:end -->
 

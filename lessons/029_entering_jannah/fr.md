@@ -353,7 +353,15 @@ L'imam an-Nawawi explique que Hafsah voulait comprendre et être guidée, et non
 
 <!-- activity:start audience="8-12" concept_id="lesson.029.activity.settle-it-before-the-bridge" -->
 
-Fabrique une « carte-passerelle » faite de trois planches : (1) **Qu'est-ce que je dois ?** Un seul droit que je n'ai pas encore rendu : un crayon emprunté, une moquerie, un tour que je n'ai pas laissé à mon frère, une promesse que je n'ai pas tenue. (2) **Comment le réparer ?** Rendre l'objet, m'excuser avec une phrase sincère, ou demander pardon. (3) **Quand ?** Une date dans les trois jours qui viennent. Une fois la chose réparée, coche la troisième planche et écris seulement la date. N'écris pas le nom de la personne, et ne raconte les détails à personne d'autre que tes parents, si tu as besoin de leur aide.
+Fabrique une « carte-passerelle » faite de trois planches :
+
+(1) **Qu'est-ce que je dois ?** Un seul droit que je n'ai pas encore rendu : un crayon emprunté, une moquerie, un tour que je n'ai pas laissé à mon frère, une promesse que je n'ai pas tenue.
+
+(2) **Comment le réparer ?** Rendre l'objet, m'excuser avec une phrase sincère, ou demander pardon.
+
+(3) **Quand ?** Une date dans les trois jours qui viennent.
+
+Une fois la chose réparée, coche la troisième planche et écris seulement la date. N'écris pas le nom de la personne, et ne raconte les détails à personne d'autre que tes parents, si tu as besoin de leur aide.
 
 <!-- activity:end -->
 
@@ -495,7 +503,15 @@ Ce qui veut dire : « Ô Allah, compte-nous parmi ceux que Tu sauves avec ceux
 **Activité — 15 minutes :** réaliser l'activité « Règle-le avant la passerelle » telle que décrite dans l'unité d'activité : passer en revue les quatre catégories, choisir un seul droit, et fixer la manière de le régler ainsi que l'échéance. Chacun travaille dans son carnet personnel, et l'on ne demande à personne d'en partager les détails.
 
 <!-- lesson-plan:assessment -->
-**Évaluation et clôture — 10 minutes :** carte de sortie : (1) remettez dans l'ordre les quatre étapes, avec une preuve pour chacune ; (2) quel est le sens de la « venue » selon l'avis jugé le plus fort par an-Nawawi ? (3) écrivez l'échéance que vous vous êtes fixée pour le règlement. Conclure par une question pour la séance suivante : « Le droit a-t-il été réglé ? »
+**Évaluation et clôture — 10 minutes :** carte de sortie :
+
+(1) remettez dans l'ordre les quatre étapes, avec une preuve pour chacune ;
+
+(2) quel est le sens de la « venue » selon l'avis jugé le plus fort par an-Nawawi ?
+
+(3) écrivez l'échéance que vous vous êtes fixée pour le règlement.
+
+Conclure par une question pour la séance suivante : « Le droit a-t-il été réglé ? »
 
 <!-- lesson-plan:differentiation -->
 **Différenciation :** pour les débutants, se limiter au hadith d'Umm Mubashshir, au hadith de la passerelle et à celui de la demande d'être tenu quitte. Demander aux apprenants avancés de lire la version d'al-Bukhari 6535 du même hadith et d'en comparer les termes avec ceux de la version 2440, et de consulter le chapitre 38 de *Hadi al-Arwah* d'Ibn al-Qayyim, « Sur la manière dont ils entrent dans la Jannah et sur ce qui les accueille à leur entrée ».

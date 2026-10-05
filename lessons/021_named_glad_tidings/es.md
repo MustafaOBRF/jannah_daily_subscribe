@@ -362,7 +362,15 @@ Abu Musa no le anunció el Paraíso a nadie por su propia opinión: transmitió 
 
 <!-- activity:start audience="8-12" concept_id="lesson.021.activity.doorkeeper-glad-tidings-card" -->
 
-Esta semana, sé el "portero del bien". Fíjate en un compañero, en tu hermano o en tu hermana, y escribe en una tarjeta tres líneas: (1) una buena acción concreta y real que le hayas visto hacer, por ejemplo: "Te vi ayudar al compañero nuevo en el recreo"; (2) por qué Allah ama esa acción; (3) una súplica: "Le pido a Allah que te cuente entre la gente del Paraíso". La regla: no exageres y no escribas "tú vas al Paraíso"; escribe lo que viste y pide lo que esperas. Entrega la tarjeta y anota en tu cuaderno qué efecto tuvo.
+Esta semana, sé el "portero del bien". Fíjate en un compañero, en tu hermano o en tu hermana, y escribe en una tarjeta tres líneas:
+
+(1) una buena acción concreta y real que le hayas visto hacer, por ejemplo: "Te vi ayudar al compañero nuevo en el recreo";
+
+(2) por qué Allah ama esa acción;
+
+(3) una súplica: "Le pido a Allah que te cuente entre la gente del Paraíso".
+
+La regla: no exageres y no escribas "tú vas al Paraíso"; escribe lo que viste y pide lo que esperas. Entrega la tarjeta y anota en tu cuaderno qué efecto tuvo.
 
 <!-- activity:end -->
 
@@ -504,7 +512,15 @@ Elige a alguien a quien rara vez se elogia: un compañero callado, un hermano me
 **Actividad — 15 minutos:** los participantes realizan la actividad "La tarjeta de la buena nueva sincera" tal como se describe en la unidad de actividad: cada uno escribe su mensaje y, después, las dos líneas "Lo que vi" y "Lo que solo espero" en su cuaderno personal. Dos voluntarios leen su mensaje sin decir el nombre del destinatario.
 
 <!-- lesson-plan:assessment -->
-**Evaluación y cierre — 10 minutos:** tarjeta de salida: (1) nombra a cinco de los diez; (2) escribe una frase que distinga entre el testimonio y la esperanza; (3) ¿qué enseñanza deja la buena nueva de Uzmán? Se cierra con la pregunta: «¿Cómo puedo ser esta semana de quienes los siguieron en el bien?».
+**Evaluación y cierre — 10 minutos:** tarjeta de salida:
+
+(1) nombra a cinco de los diez;
+
+(2) escribe una frase que distinga entre el testimonio y la esperanza;
+
+(3) ¿qué enseñanza deja la buena nueva de Uzmán?
+
+Se cierra con la pregunta: «¿Cómo puedo ser esta semana de quienes los siguieron en el bien?».
 
 <!-- lesson-plan:differentiation -->
 **Diferenciación:** para los principiantes basta con el hadiz del pozo de Aris, el hadiz de los diez y la aleya de At-Tawba. A los más avanzados se les pide comparar la versión de al-Bujari 3674 con la que transmite Abu Uzmán an-Nahdi de Abu Musa en el mismo libro, y preparar una semblanza de uno de los diez a partir de los libros de biografía.
