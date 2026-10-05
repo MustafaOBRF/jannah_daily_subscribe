@@ -47,7 +47,7 @@ Cette compréhension corrige deux idées fausses : réduire la Jannah à un symb
 
 <!-- evidence:start id="quran-3-133" kind="quran" mode="canonical" -->
 
-#### Un paradis dont la largeur est celle des cieux et de la terre, préparé pour les pieux
+### Un paradis dont la largeur est celle des cieux et de la terre, préparé pour les pieux
 
 > **وَسَارِعُوا إِلَىٰ مَغْفِرَةٍ مِنْ رَبِّكُمْ وَجَنَّةٍ عَرْضُهَا السَّمَاوَاتُ وَالْأَرْضُ أُعِدَّتْ لِلْمُتَّقِينَ.** [آل عمران: ١٣٣][^1]
 
@@ -67,7 +67,7 @@ Le seul mot `u'iddat` suffit à corriger une idée répandue : que la Jannah ser
 
 <!-- evidence:start id="bukhari-3244" kind="hadith" mode="canonical" -->
 
-#### J'ai préparé pour Mes serviteurs vertueux ce qu'aucun œil n'a vu
+### J'ai préparé pour Mes serviteurs vertueux ce qu'aucun œil n'a vu
 
 > عَنْ أَبِي هُرَيْرَةَ رضي الله عنه، عَنِ النَّبِيِّ صلى الله عليه وسلم، قَالَ: **«قَالَ اللَّهُ: أَعْدَدْتُ لِعِبَادِيَ الصَّالِحِينَ مَا لَا عَيْنٌ رَأَتْ، وَلَا أُذُنٌ سَمِعَتْ، وَلَا خَطَرَ عَلَى قَلْبِ بَشَرٍ، فَاقْرَءُوا إِنْ شِئْتُمْ:»** `فَلَا تَعْلَمُ نَفْسٌ مَا أُخْفِيَ لَهُمْ مِنْ قُرَّةِ أَعْيُنٍ جَزَاءً بِمَا كَانُوا يَعْمَلُونَ.` [السجدة: ١٧][^3][^4]
 
@@ -77,7 +77,7 @@ Le seul mot `u'iddat` suffit à corriger une idée répandue : que la Jannah ser
 
 #### Explication savante
 
-Dans ce hadith qudsi, Allah parle de Lui-même en disant `a'dadtu` (j'ai préparé), le même verbe au passé que dans le verset d'Al 'Imran, ce qui confirme que la préparation est un fait accompli, et non une simple promesse future. Le Prophète, paix et bénédictions sur lui, renvoie au verset d'As-Sajdah pour montrer qu'une part des détails de ce qui a été préparé reste cachée à toute âme, alors que son existence même est établie.
+Dans ce hadith qudsi, Allah parle de Lui-même en disant `a'dadtu` (j'ai préparé), le même verbe au passé que dans le verset d'Al 'Imran, ce qui confirme que la préparation est un fait accompli, et non une simple promesse future. La narration renvoie ensuite au verset d'As-Sajdah pour montrer qu'une part des détails de ce qui a été préparé reste cachée à toute âme, alors que son existence même est établie.
 
 #### Explication de la leçon
 
@@ -87,15 +87,15 @@ Ce hadith réunit l'affirmation de la préparation et la reconnaissance que sa p
 
 <!-- evidence:start id="bukhari-1052" kind="hadith" mode="canonical" -->
 
-#### J'ai vu la Jannah et j'ai tendu la main vers une grappe
+### J'ai vu la Jannah et j'ai tendu la main vers une grappe
 
 Lorsque le soleil s'éclipsa du vivant du Prophète, paix et bénédictions sur lui, il dirigea une prière d'une longueur inhabituelle. Les Compagnons, qu'Allah les agrée, le virent alors avancer la main comme pour saisir quelque chose, puis reculer comme pour éviter quelque chose. Quand il eut terminé la prière, ils l'interrogèrent sur ce qu'ils avaient vu, et il leur fit cette réponse, rapportée de façon authentique :
 
-> عَنِ ابْنِ عَبَّاسٍ رضي الله عنهما، فِي قِصَّةِ صَلَاةِ الْكُسُوفِ، أَنَّ أَصْحَابَ رَسُولِ اللَّهِ صلى الله عليه وسلم قَالُوا لَهُ: يَا رَسُولَ اللَّهِ، رَأَيْنَاكَ تَنَاوَلْتَ شَيْئًا فِي مَقَامِكَ، ثُمَّ رَأَيْنَاكَ كَعْكَعْتَ؟ **فَقَالَ: «إِنِّي رَأَيْتُ الْجَنَّةَ، فَتَنَاوَلْتُ عُنْقُودًا، وَلَوْ أَصَبْتُهُ لَأَكَلْتُمْ مِنْهُ مَا بَقِيَتِ الدُّنْيَا، وَرَأَيْتُ النَّارَ، فَلَمْ أَرَ مَنْظَرًا كَالْيَوْمِ قَطُّ أَفْظَعَ، وَرَأَيْتُ أَكْثَرَ أَهْلِهَا النِّسَاءَ».** قَالُوا: بِمَ يَا رَسُولَ اللَّهِ؟ قَالَ: **«بِكُفْرِهِنَّ».** قِيلَ: يَكْفُرْنَ بِاللَّهِ؟ قَالَ: **«يَكْفُرْنَ الْعَشِيرَ، وَيَكْفُرْنَ الْإِحْسَانَ، لَوْ أَحْسَنْتَ إِلَى إِحْدَاهُنَّ الدَّهْرَ كُلَّهُ، ثُمَّ رَأَتْ مِنْكَ شَيْئًا، قَالَتْ: مَا رَأَيْتُ مِنْكَ خَيْرًا قَطُّ».**[^5]
+> عَنِ ابْنِ عَبَّاسٍ رضي الله عنهما، فِي قِصَّةِ صَلَاةِ الْكُسُوفِ، أَنَّ أَصْحَابَ رَسُولِ اللَّهِ صلى الله عليه وسلم قَالُوا لَهُ: يَا رَسُولَ اللَّهِ، رَأَيْنَاكَ تَنَاوَلْتَ شَيْئًا فِي مَقَامِكَ، ثُمَّ رَأَيْنَاكَ كَعْكَعْتَ؟ **فَقَالَ: «إِنِّي رَأَيْتُ الْجَنَّةَ، فَتَنَاوَلْتُ عُنْقُودًا، وَلَوْ أَصَبْتُهُ لَأَكَلْتُمْ مِنْهُ مَا بَقِيَتِ الدُّنْيَا، وَأُرِيتُ النَّارَ، فَلَمْ أَرَ مَنْظَرًا كَالْيَوْمِ قَطُّ أَفْظَعَ، وَرَأَيْتُ أَكْثَرَ أَهْلِهَا النِّسَاءَ».** قَالُوا: بِمَ يَا رَسُولَ اللَّهِ؟ قَالَ: **«بِكُفْرِهِنَّ».** قِيلَ: يَكْفُرْنَ بِاللَّهِ؟ قَالَ: **«يَكْفُرْنَ الْعَشِيرَ، وَيَكْفُرْنَ الْإِحْسَانَ، لَوْ أَحْسَنْتَ إِلَى إِحْدَاهُنَّ الدَّهْرَ كُلَّهُ، ثُمَّ رَأَتْ مِنْكَ شَيْئًا، قَالَتْ: مَا رَأَيْتُ مِنْكَ خَيْرًا قَطُّ».**[^5]
 
 <!-- evidence:translation -->
 
-> D'après Ibn 'Abbas, qu'Allah les agrée, lui et son père, au sujet de la prière de l'éclipse : les Compagnons du Messager d'Allah, paix et bénédictions sur lui, lui dirent : « Ô Messager d'Allah, nous t'avons vu saisir quelque chose là où tu te tenais, puis nous t'avons vu reculer ? » **Il répondit : « J'ai vu la Jannah, et j'ai tendu la main vers une grappe ; si je l'avais atteinte, vous en auriez mangé tant que durerait ce bas monde. Et j'ai vu le Feu ; je n'ai jamais vu spectacle aussi épouvantable qu'aujourd'hui, et j'ai vu que la plupart de ses habitants étaient des femmes. »** Ils dirent : « Pourquoi, ô Messager d'Allah ? » Il dit : **« À cause de leur ingratitude. »** On demanda : « Sont-elles ingrates envers Allah ? » Il dit : **« Elles sont ingrates envers le compagnon de vie et envers la bienfaisance : si tu fais du bien à l'une d'elles toute une vie, puis qu'elle voit de toi quelque chose qui lui déplaît, elle dira : je n'ai jamais vu de bien de ta part. »**[^5]
+> D'après Ibn 'Abbas, qu'Allah les agrée, lui et son père, au sujet de la prière de l'éclipse : les Compagnons du Messager d'Allah, paix et bénédictions sur lui, lui dirent : « Ô Messager d'Allah, nous t'avons vu saisir quelque chose là où tu te tenais, puis nous t'avons vu reculer ? » **Il répondit : « J'ai vu la Jannah, et j'ai tendu la main vers une grappe ; si je l'avais atteinte, vous en auriez mangé tant que durerait ce bas monde. Et le Feu m'a été montré ; je n'ai jamais vu spectacle aussi épouvantable qu'aujourd'hui, et j'ai vu que la plupart de ses habitants étaient des femmes. »** Ils dirent : « Pourquoi, ô Messager d'Allah ? » Il dit : **« À cause de leur ingratitude. »** On demanda : « Sont-elles ingrates envers Allah ? » Il dit : **« Elles sont ingrates envers le compagnon de vie [l'époux] et envers la bienfaisance : si tu fais du bien à l'une d'elles toute une vie, puis qu'elle voit de toi quelque chose qui lui déplaît, elle dira : je n'ai jamais vu de bien de ta part. »**[^5]
 
 #### Explication savante
 
@@ -153,7 +153,7 @@ La Jannah existe déjà ! Allah l'a créée et préparée pour ceux qu'Il aime p
 
 <!-- retelling:start source_id="bukhari-1052" audience="4-7" -->
 
-Un jour, il se passa une chose extraordinaire : la lumière du soleil disparut en plein jour ! Le Prophète, paix et bénédictions sur lui, se leva alors pour faire une longue prière. Pendant qu'il priait, les Compagnons virent sa main s'avancer comme pour attraper quelque chose, puis reculer tout à coup. Après la prière, ils lui demandèrent : « Qu'as-tu vu, ô Messager d'Allah ? » Il répondit : « J'ai vu la Jannah, et j'ai tendu la main pour prendre une grappe de son raisin ; si je l'avais prise, tous les gens en auraient mangé jusqu'à la fin du monde. » Puis il dit : « Et j'ai vu aussi le Feu, alors je m'en suis éloigné. »[^5]
+Un jour, il se passa une chose extraordinaire : la lumière du soleil disparut en plein jour ! Le Prophète, paix et bénédictions sur lui, se leva alors pour faire une longue prière. Pendant qu'il priait, les Compagnons virent sa main s'avancer comme pour attraper quelque chose, puis reculer tout à coup. Après la prière, ils lui demandèrent : « Qu'as-tu vu, ô Messager d'Allah ? » Il répondit : « J'ai vu la Jannah, et j'ai tendu la main pour prendre une grappe de ses fruits ; si je l'avais prise, tous les gens en auraient mangé jusqu'à la fin du monde. » Il leur dit aussi qu'il avait vu le Feu, et que c'est pour cela qu'il avait reculé.[^5]
 
 Cela nous apprend que la Jannah existe vraiment maintenant : le Prophète, paix et bénédictions sur lui, l'a vue de ses propres yeux, et son fruit était si proche de lui qu'il a failli le prendre dans sa main !
 
@@ -221,7 +221,7 @@ Certains d'entre nous pensent que la Jannah n'est qu'une idée qui se réalisera
 
 <!-- retelling:start source_id="bukhari-1052" audience="8-12" -->
 
-Lorsque le soleil s'éclipsa du vivant du Prophète, paix et bénédictions sur lui, il dirigea une prière d'une longueur inhabituelle. Les Compagnons, qu'Allah les agrée, remarquèrent que, pendant la prière, il avançait la main comme pour saisir quelque chose, puis reculait soudain comme pour éviter autre chose. Après la prière, ils l'interrogèrent sur ce qu'ils avaient vu, et il leur dit : « J'ai vu la Jannah, et j'ai tendu la main vers une grappe ; si je l'avais atteinte, vous en auriez mangé tant que durerait ce bas monde. Et j'ai vu le Feu ; je n'ai jamais vu spectacle aussi épouvantable qu'aujourd'hui. »[^5] Puis il leur expliqua qu'il avait vu dans le Feu beaucoup de gens qui niaient le bien qu'on leur avait fait : ils ne remerciaient pas ceux qui avaient été bons envers eux, même après tant de temps.
+Lorsque le soleil s'éclipsa du vivant du Prophète, paix et bénédictions sur lui, il dirigea une prière d'une longueur inhabituelle. Les Compagnons, qu'Allah les agrée, remarquèrent que, pendant la prière, il avançait la main comme pour saisir quelque chose, puis reculait soudain comme pour éviter autre chose. Après la prière, ils l'interrogèrent sur ce qu'ils avaient vu, et il leur dit : « J'ai vu la Jannah, et j'ai tendu la main vers une grappe ; si je l'avais atteinte, vous en auriez mangé tant que durerait ce bas monde. Et le Feu m'a été montré ; je n'ai jamais vu spectacle aussi épouvantable qu'aujourd'hui. »[^5] Puis il leur expliqua qu'il avait vu dans le Feu beaucoup de gens qui niaient le bien qu'on leur avait fait : ils ne remerciaient pas ceux qui avaient été bons envers eux, même après tant de temps.
 
 Cet événement s'est réellement produit : le Prophète, paix et bénédictions sur lui, n'a pas parlé de la Jannah et du Feu de loin ; il les a vus de ses propres yeux, là où il se tenait, au point que le fruit de la Jannah est venu à portée de sa main. La Jannah est donc une réalité qui existe dès maintenant, et non un simple récit ou un souhait.
 
@@ -304,7 +304,7 @@ Cela ne signifie pas que nous connaissons tous les détails de la Jannah, ni que
 
 <!-- retelling:start source_id="bukhari-1052" audience="13+" -->
 
-Ibn 'Abbas, qu'Allah les agrée, lui et son père, rapporte que lorsque le soleil s'éclipsa du vivant du Prophète, paix et bénédictions sur lui, celui-ci dirigea une prière d'une longueur inhabituelle ; les Compagnons virent sa main s'avancer, puis reculer soudain. Après la prière, ils l'interrogèrent, et il répondit : « J'ai vu la Jannah, et j'ai tendu la main vers une grappe ; si je l'avais atteinte, vous en auriez mangé tant que durerait ce bas monde. Et j'ai vu le Feu ; je n'ai jamais vu spectacle aussi épouvantable qu'aujourd'hui, et j'ai vu que la plupart de ses habitants étaient des femmes. » Ils dirent : « Pourquoi, ô Messager d'Allah ? » Il dit : « À cause de leur ingratitude. » On demanda : « Sont-elles ingrates envers Allah ? » Il dit : « Elles sont ingrates envers le compagnon de vie et envers la bienfaisance : si tu fais du bien à l'une d'elles toute une vie, puis qu'elle voit de toi quelque chose qui lui déplaît, elle dira : je n'ai jamais vu de bien de ta part. »[^5]
+Ibn 'Abbas, qu'Allah les agrée, lui et son père, rapporte que lorsque le soleil s'éclipsa du vivant du Prophète, paix et bénédictions sur lui, celui-ci dirigea une prière d'une longueur inhabituelle ; les Compagnons virent sa main s'avancer, puis reculer soudain. Après la prière, ils l'interrogèrent, et il répondit : « J'ai vu la Jannah, et j'ai tendu la main vers une grappe ; si je l'avais atteinte, vous en auriez mangé tant que durerait ce bas monde. Et le Feu m'a été montré ; je n'ai jamais vu spectacle aussi épouvantable qu'aujourd'hui, et j'ai vu que la plupart de ses habitants étaient des femmes. » Ils dirent : « Pourquoi, ô Messager d'Allah ? » Il dit : « À cause de leur ingratitude. » On demanda : « Sont-elles ingrates envers Allah ? » Il dit : « Elles sont ingrates envers le compagnon de vie [l'époux] et envers la bienfaisance : si tu fais du bien à l'une d'elles toute une vie, puis qu'elle voit de toi quelque chose qui lui déplaît, elle dira : je n'ai jamais vu de bien de ta part. »[^5]
 
 Observe la précision du détail : le Prophète, paix et bénédictions sur lui, n'a pas dit « la Jannah aura des fruits », mais « j'ai tendu la main vers une grappe », au passé, pour un fait réellement accompli. Il y a là une différence fondamentale entre parler d'un avenir espéré et rapporter un présent observé. Quant à la mention de l'ingratitude de certaines femmes envers la bienfaisance de leurs époux, ce n'est pas un jugement général sur toutes les femmes, mais un avertissement contre l'ingratitude et le reniement, où qu'ils se trouvent, chez tout être humain, homme ou femme. Si les femmes sont nommées ici, c'est parce que le Prophète, paix et bénédictions sur lui, décrivait une réalité qu'il avait vue, et non parce que l'ingratitude serait propre à un sexe plutôt qu'à l'autre.
 
@@ -488,7 +488,7 @@ Pendant deux semaines, choisis une personne qui a besoin d'un soutien discret (u
 **Matériel :** le dossier des trois preuves ; des cartes de vocabulaire ; un modèle de carnet personnel pour deux semaines ; des billets de sortie.
 
 <!-- lesson-plan:preparation -->
-**Préparation :** l'enseignant vérifie le degré d'authenticité des trois hadiths, et prépare un exemple neutre de la tendance à traiter comme irréel ce qui ne se voit pas immédiatement, sans viser un élève en particulier.
+**Préparation :** l'enseignant vérifie le degré d'authenticité des deux hadiths, et prépare un exemple neutre de la tendance à traiter comme irréel ce qui ne se voit pas immédiatement, sans viser un élève en particulier.
 
 <!-- lesson-plan:opening -->
 **Ouverture — 5 minutes :** l'enseignant pose la question : « Une chose peut-elle être tout à fait réelle alors que tu ne peux ni la voir ni la mesurer maintenant ? » Il ouvre une brève discussion avant de lire le hadith de l'éclipse.
@@ -519,9 +519,9 @@ Pendant deux semaines, choisis une personne qui a besoin d'un soutien discret (u
 
 [^1]: Le Saint Coran, sourate Al 'Imran, verset 133 : [Texte coranique](https://quran.com/3/133).
 [^2]: Muhammad ibn Ahmad al-Qurtubi, *Al-Jami' li-Ahkam al-Qur'an*, commentaire de la sourate Al 'Imran, verset 133, où il affirme que la généralité des savants tient la Jannah pour créée et existante en raison des mots `u'iddat lil-muttaqin` (« préparée pour les pieux »), contrairement aux mu'tazilites, qui disaient qu'elle serait créée au moment de la rétribution : [Le Coran électronique, Université King Saud](https://quran.ksu.edu.sa/tafseer/qortobi/sura3-aya133.html).
-[^3]: Sahih al-Bukhari, hadith 3244, et Sahih Muslim, hadith 2824a, rapporté par Abu Hurayrah, qu'Allah l'agrée : [Sunnah.com, rapport 3244](https://sunnah.com/bukhari:3244).
+[^3]: Sahih al-Bukhari, hadith 3244, et Sahih Muslim, hadith 2824a, rapporté par Abu Hurayrah, qu'Allah l'agrée : [Sunnah.com, rapport 3244](https://sunnah.com/bukhari:3244). Les mots « lisez, si vous le voulez » figurent dans le propos du Prophète chez al-Bukhari 3244, tandis qu'en al-Bukhari 4779 ils sont rapportés comme une parole d'Abu Hurayrah lui-même : « Abu Hurayrah dit : lisez, si vous le voulez. »
 [^4]: Le Saint Coran, sourate As-Sajdah, verset 17 : [Texte coranique](https://quran.com/32/17).
-[^5]: Sahih al-Bukhari, hadith 1052 (rapporté également sous le numéro 5197), et Sahih Muslim, hadith 907, rapporté par Abdullah ibn 'Abbas, qu'Allah les agrée, lui et son père, dans le récit de la prière de l'éclipse : [Sunnah.com, rapport 1052](https://sunnah.com/bukhari:1052).
+[^5]: Sahih al-Bukhari, hadith 1052 (rapporté également sous le numéro 5197), et Sahih Muslim, hadith 907, rapporté par Abdullah ibn 'Abbas, qu'Allah les agrée, lui et son père, dans le récit de la prière de l'éclipse : [Sunnah.com, rapport 1052](https://sunnah.com/bukhari:1052). La formule « et le Feu m'a été montré » (wa-urītu an-nār) est celle de la transmission d'Abu Dharr ; les autres transmissions portent « et j'ai vu le Feu », comme l'indique Ibn Hajar. Qu'il ait reculé en voyant le Feu est établi par le hadith de 'A'icha, qu'Allah l'agrée : « J'ai vu la Géhenne, dont les parties se broyaient les unes les autres, lorsque vous m'avez vu reculer » (Sahih al-Bukhari, hadith 1212).
 [^6]: Ahmad ibn 'Ali ibn Hajar al-'Asqalani, *Fath al-Bari bi-Sharh Sahih al-Bukhari*, Livre de l'éclipse, chapitre de la prière de l'éclipse en assemblée, commentaire du hadith 1052 (volume 2) : [IslamWeb](https://www.islamweb.net/ar/library/content/52/1950/).
 [^7]: Muhammad ibn Abi Bakr Ibn Qayyim al-Jawziyya, *Hadi al-Arwah ila Bilad al-Afrah*, deuxième chapitre, sur la divergence des gens au sujet du jardin où Adam, paix sur lui, fut installé : [Al-Maktaba al-Shamila](https://shamela.ws/book/13652/100).
 

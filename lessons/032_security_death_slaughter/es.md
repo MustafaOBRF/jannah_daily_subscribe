@@ -59,7 +59,7 @@ La lección completa la anterior de la serie, dedicada a la eternidad del Paraí
 
 #### Interpretación académica
 
-En la versión de Muslim se dice: «Y será colocada entre el Paraíso y el Fuego», y «se ordenará sacrificarla, y será sacrificada»; y al final: «y señaló con la mano hacia este mundo».[^1] *Amlah* es el carnero cuyo blanco está mezclado con negro, y *yashra'ibbun* significa que estiran el cuello y alzan la cabeza para ver lo que ocurre.[^6] Ibn al-Qayyim, Allah tenga misericordia de él, dejó establecido que esta escena es una realidad y no una alegoría, y que Allah tiene poder para dar a la muerte la forma de un carnero que se ve y se sacrifica, del mismo modo que informó que las suras de la Vaca (Al-Baqara) y de la Familia de Imrán (Al Imrán) llegarán el Día de la Resurrección como dos nubes.[^6] Ibn Kazir, Allah tenga misericordia de él, explicó {cuando el asunto quede decidido} así: cuando se haya separado a la gente del Paraíso de la gente del Fuego, y cada uno haya entrado en aquello que le corresponde para permanecer en ello eternamente.[^4]
+En la versión de Muslim se dice: «Y será colocada entre el Paraíso y el Fuego», y «se ordenará sacrificarla, y será sacrificada»; y al final: «y señaló con la mano hacia este mundo».[^1] *Amlah* es el carnero cuyo blanco está mezclado con negro, y *yashra'ibbun* significa que estiran el cuello y alzan la cabeza para ver lo que ocurre.[^6] Ibn al-Qayyim, Allah tenga misericordia de él, dejó establecido que esta escena es una realidad y no una alegoría, y que Allah tiene poder para dar a la muerte la forma de un carnero que se ve y se sacrifica, del mismo modo que el Profeta, la paz y las bendiciones de Allah sean con él, informó que las suras de la Vaca (Al-Baqara) y de la Familia de Imrán (Al Imrán) llegarán el Día de la Resurrección como dos nubes.[^6] Ibn Kazir, Allah tenga misericordia de él, explicó {cuando el asunto quede decidido} así: cuando se haya separado a la gente del Paraíso de la gente del Fuego, y cada uno haya entrado en aquello que le corresponde para permanecer en ello eternamente.[^4]
 
 #### Explicación de la lección
 
@@ -182,7 +182,7 @@ Entonces se oye una llamada: "¡Oh gente del Paraíso!". Y ellos levantan la cab
 
 Traen a la muerte con la forma de un carnero blanco con manchas negras. Y les preguntan: "¿Saben qué es esto?". Y ellos dicen: "Sí, es la muerte". Todos la conocen. También llaman a la gente del Fuego, y ellos también la conocen.
 
-Después Allah lo ordena, y la muerte es sacrificada. Eso quiere decir que la muerte misma se acaba, y no vuelve nunca más.
+Después se da la orden, y la muerte es sacrificada. Eso quiere decir que la muerte misma se acaba, y no vuelve nunca más.
 
 Y entonces se oye: "¡Oh gente del Paraíso: eternidad, y ya no hay muerte!". Quiere decir: se quedarán aquí siempre, siempre, y nunca van a morir. Y la gente del Paraíso se pone todavía más contenta: alegría encima de su alegría.[^2]
 
@@ -245,7 +245,7 @@ Quiere decir: Oh Allah, haznos entrar en el Paraíso sin ningún miedo, danos al
 
 <!-- unit:start id="8-12.explanation" kind="explanation" -->
 
-El último día de las vacaciones, a muchos nos pasa algo raro: todavía lo estamos pasando bien, pero la idea de que "mañana se acaba" nos estropea parte de la diversión. Es porque todo en este mundo tiene un final, y lo sabemos. El Paraíso, en cambio, Allah lo describió así: su gente entra en él {en paz, segura}, allí no la alcanza ninguna fatiga, {ni será jamás sacada de allí}.[^3] Y el Profeta, la paz y las bendiciones de Allah sean con él, nos contó una escena en la que esa seguridad se anuncia de una vez y para siempre.
+El último día de las vacaciones, a muchos nos pasa algo raro: todavía lo estamos pasando bien, pero la idea de que "mañana se acaba" nos estropea parte de la diversión. Es porque todo en este mundo tiene un final, y lo sabemos. El Paraíso, en cambio, Allah lo describió así: su gente entra en él {en paz, seguros}, allí no los alcanza ninguna fatiga, {ni serán jamás sacados de allí}.[^3] Y el Profeta, la paz y las bendiciones de Allah sean con él, nos contó una escena en la que esa seguridad se anuncia de una vez y para siempre.
 
 <!-- unit:end -->
 
@@ -580,7 +580,7 @@ Su sentido: Oh Allah, haznos entrar en el Paraíso en completa seguridad, añád
 [^3]: El Noble Corán, sura Al-Hiyr, aleyas 45-48: [quran.com/15/45-48](https://quran.com/15/45-48). La traducción al español de las aleyas es una traducción de sentido elaborada para este proyecto.
 [^4]: Ibn Kazir, *Tafsir al-Qur'an al-'Azim*, tafsir de la sura Maryam, aleya 39: [quran.ksu.edu.sa/tafseer/katheer/sura19-aya39.html](https://quran.ksu.edu.sa/tafseer/katheer/sura19-aya39.html).
 [^5]: As-Sa'di, *Taysir al-Karim ar-Rahman*, tafsir de la sura Al-Hiyr, aleyas 46 y 48: [quran.ksu.edu.sa/tafseer/saadi/sura15-aya46.html](https://quran.ksu.edu.sa/tafseer/saadi/sura15-aya46.html) y [quran.ksu.edu.sa/tafseer/saadi/sura15-aya48.html](https://quran.ksu.edu.sa/tafseer/saadi/sura15-aya48.html).
-[^6]: Ibn Qayyim al-Yawziyya, *Hadi al-Arwah ila Bilad al-Afrah*, capítulo sexagésimo noveno, sección sobre el sacrificio de la muerte entre el Paraíso y el Fuego (ed. 'Ata'at al-'Ilm, págs. 813-816), con la nota del editor sobre el sentido de "yashra'ibbun": [shamela.ws/book/13652/865](https://shamela.ws/book/13652/865); sobre el sentido de "amlah" (lo que tiene blanco y negro), véase an-Nawawi, *Al-Minhaj sharh Sahih Muslim*, comentario del hadiz 2849.
+[^6]: Ibn Qayyim al-Yawziyya, *Hadi al-Arwah ila Bilad al-Afrah*, capítulo sexagésimo noveno, sección sobre el sacrificio de la muerte entre el Paraíso y el Fuego (ed. 'Ata'at al-'Ilm, págs. 813-816), con la nota del editor, que cita al copista del manuscrito «A» tomándolo de *al-Matali'*, sobre el sentido de "yashra'ibbun": [shamela.ws/book/13652/865](https://shamela.ws/book/13652/865); sobre el sentido de "amlah" (lo que tiene blanco y negro), véase an-Nawawi, *Al-Minhaj sharh Sahih Muslim*, comentario del hadiz 2849.
 [^7]: As-Sa'di, *Taysir al-Karim ar-Rahman*, tafsir de la sura Maryam, aleyas 39-40: [quran.ksu.edu.sa/tafseer/saadi/sura19-aya39.html](https://quran.ksu.edu.sa/tafseer/saadi/sura19-aya39.html).
 [^8]: El Noble Corán, sura Maryam, aleyas 39-40: [quran.com/19/39-40](https://quran.com/19/39-40). La traducción al español de las aleyas es una traducción de sentido elaborada para este proyecto.
 

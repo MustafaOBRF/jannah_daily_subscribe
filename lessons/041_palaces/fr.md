@@ -1,5 +1,5 @@
 ---
-title: "Les Palais De La Jannah Et Ses Demeures"
+title: "Les palais de la Jannah et ses demeures"
 lesson_id: "lesson.041"
 topic_id: "jannah.041"
 translation_key: "jannah.palaces"
@@ -15,20 +15,20 @@ activity_concept_id: "lesson.041.activity.remember-the-owner-before-entering"
 bedtime_dua_id: "lesson.041.dua.pleasant-dwellings-without-noise-or-toil"
 ---
 
-# Les Palais De La Jannah Et Ses Demeures
+# Les palais de la Jannah et ses demeures
 
-## Objectifs Et Résultats De La Leçon
+## Objectifs et résultats de la leçon
 
 Au terme de cette leçon, l'apprenant sera capable de :
 
 - raconter dans l'ordre le hadith du palais de 'Umar ibn al-Khattab, qu'Allah soit satisfait de lui, dans la Jannah (al-Bukhari 3242 et Muslim 2395) : le songe du Prophète, paix et bénédictions sur lui, sa question « À qui est ce palais ? », le souvenir de la jalousie protectrice de 'Umar qui le fit rebrousser chemin, puis les larmes de 'Umar et sa parole : « Est-ce de toi que je serais jaloux, ô Messager d'Allah ? » ;
-- établir, au sujet des palais de la Jannah, ce que les textes authentiques affirment, et cela seulement : un palais d'or (at-Tirmidhi 3688) ; la maison de Khadijah, qu'Allah soit satisfait d'elle, faite de tiges de perles creuses, où il n'y a ni tumulte ni fatigue (al-Bukhari 3820) ; et « des demeures excellentes dans les Jardins de 'Adn » (at-Tawbah 9:72) ;
+- établir, au sujet des palais de la Jannah, ce que les textes authentiques affirment, et cela seulement : un palais d'or (at-Tirmidhi 3688) ; la maison de Khadijah, qu'Allah soit satisfait d'elle, faite de *qasab*, où il n'y a ni tumulte ni fatigue (al-Bukhari 3820), le *qasab* désignant ici, selon Ibn al-Qayyim, des tiges de perles creuses ; et « des demeures excellentes dans les Jardins de 'Adn » (at-Tawbah 9:72) ;
 - montrer que ces palais sont réels, qu'ils sont dès à présent préparés, qu'ils sont attribués nommément à leurs propriétaires, et que l'agrément d'Allah est plus grand qu'eux ;
 - tirer du hadith deux règles de conduite : avoir égard aux sentiments du maître des lieux avant d'y entrer, et rester humble lorsqu'on est honoré ;
 - réaliser l'activité « Pense au maître des lieux avant d'entrer » : demander à un membre de son foyer ce qu'il aimerait que l'on respecte de son espace ou de son intimité, s'y tenir pendant une durée fixée, puis recueillir son avis ;
 - retenir l'invocation de cette leçon, qui demande à Allah des demeures excellentes dans la Jannah, et, ici-bas, des maisons où règne la sérénité.
 
-## Section Académique Pour Adultes
+## Section académique pour adultes
 
 <!-- reader:start audience="adults" estimated_minutes="7.0" -->
 
@@ -44,11 +44,11 @@ Pour la description, nous nous en tenons à ce qui est authentique : un palais 
 
 <!-- unit:start id="adults.evidence" kind="evidence" -->
 
-## Les Preuves Centrales
+## Les preuves centrales
 
 <!-- evidence:start id="bukhari-3242" kind="hadith" mode="canonical" -->
 
-### « À Qui Est Ce Palais ? »
+### « À qui est ce palais ? »
 
 > عَنْ أَبِي هُرَيْرَةَ رضي الله عنه قَالَ: بَيْنَا نَحْنُ عِنْدَ رَسُولِ اللَّهِ ﷺ إِذْ قَالَ: **«بَيْنَا أَنَا نَائِمٌ رَأَيْتُنِي فِي الْجَنَّةِ، فَإِذَا امْرَأَةٌ تَتَوَضَّأُ إِلَى جَانِبِ قَصْرٍ، فَقُلْتُ: لِمَنْ هَذَا الْقَصْرُ؟ فَقَالُوا: لِعُمَرَ بْنِ الْخَطَّابِ، فَذَكَرْتُ غَيْرَتَهُ، فَوَلَّيْتُ مُدْبِرًا»**. فَبَكَى عُمَرُ وَقَالَ: **أَعَلَيْكَ أَغَارُ يَا رَسُولَ اللَّهِ؟**[^1]
 >
@@ -58,7 +58,7 @@ Pour la description, nous nous en tenons à ce qui est authentique : un palais 
 
 <!-- evidence:translation -->
 
-#### Traduction Française
+#### Traduction française
 
 > D'après Abu Hurayrah, qu'Allah soit satisfait de lui, qui dit : Nous étions auprès du Messager d'Allah, paix et bénédictions sur lui, lorsqu'il dit : **« Pendant que je dormais, je me suis vu dans la Jannah. Et voici qu'une femme faisait ses ablutions à côté d'un palais. Je demandai : “À qui est ce palais ?” On me répondit : “À 'Umar ibn al-Khattab.” Je me souvins alors de sa jalousie, et je rebroussai chemin. »** 'Umar se mit à pleurer et dit : **« Est-ce de toi que je serais jaloux, ô Messager d'Allah ? »**[^1]
 >
@@ -66,11 +66,11 @@ Pour la description, nous nous en tenons à ce qui est authentique : un palais 
 >
 > Et d'après Jabir ibn 'Abd Allah, qu'Allah soit satisfait de lui et de son père, le Prophète, paix et bénédictions sur lui, a dit : **« Je me suis vu entrer dans la Jannah, et voici que j'y trouvai ar-Rumaysa', l'épouse d'Abu Talhah. J'entendis aussi un léger bruit de pas, et je demandai : “Qui est-ce ?” On me répondit : “C'est Bilal.” Puis je vis un palais, dans la cour duquel se tenait une jeune femme. Je demandai : “À qui est-il ?” On me répondit : “À 'Umar.” Je voulus y entrer pour le regarder, mais je me souvins de ta jalousie. »** 'Umar dit alors : **« Que ma mère et mon père te servent de rançon, ô Messager d'Allah ! Est-ce de toi que je serais jaloux ? »**[^2]
 
-#### Interprétation Savante
+#### Interprétation savante
 
 La *ghayrah*, que l'on rend faute de mieux par « jalousie », est la fierté ombrageuse d'un homme et son souci de préserver sa famille et ses proches des regards d'autrui et de toute intrusion chez eux.[^9] Il s'agissait d'un songe ; or les songes des prophètes sont vérité, et at-Tirmidhi rapporte cette parole d'Ibn 'Abbas : « Les songes des prophètes sont une révélation. » C'est pourquoi les Compagnons ont transmis ce récit comme une information sur la Jannah et comme un mérite de 'Umar.[^3] La version de Jabir explique pourquoi le Prophète, paix et bénédictions sur lui, s'en retourna : il voulait entrer dans le palais et le regarder, mais il se souvint de la jalousie de 'Umar, et n'entra pas.[^2]
 
-#### Explication De La Leçon
+#### Explication de la leçon
 
 Ce hadith établit trois vérités au sujet des palais de la Jannah : ils existent dès à présent ; ils appartiennent nommément à leurs propriétaires ; ils ont des cours et des habitants. Il enseigne aussi deux règles de bienséance. D'un côté, un Prophète d'une grande noblesse, qui ménage les sentiments de son Compagnon avant d'entrer dans son palais. De l'autre, un Compagnon qui apprend devant tous la bonne nouvelle et se met à pleurer : loin de s'en prévaloir, il affirme que la jalousie n'a pas sa place face au Messager d'Allah, paix et bénédictions sur lui.
 
@@ -78,17 +78,17 @@ Ce hadith établit trois vérités au sujet des palais de la Jannah : ils exist
 
 <!-- evidence:start id="tirmidhi-3688" kind="hadith" mode="canonical" -->
 
-### Un Palais D'or
+### Un palais d'or
 
 > عَنْ أَنَسٍ رضي الله عنه أَنَّ النَّبِيَّ ﷺ قَالَ: **«دَخَلْتُ الْجَنَّةَ فَإِذَا أَنَا بِقَصْرٍ مِنْ ذَهَبٍ، فَقُلْتُ: لِمَنْ هَذَا الْقَصْرُ؟ قَالُوا: لِشَابٍّ مِنْ قُرَيْشٍ، فَظَنَنْتُ أَنِّي أَنَا هُوَ، فَقُلْتُ: وَمَنْ هُوَ؟ فَقَالُوا: عُمَرُ بْنُ الْخَطَّابِ»**.[^3]
 
 <!-- evidence:translation -->
 
-#### Traduction Française
+#### Traduction française
 
 > D'après Anas, qu'Allah soit satisfait de lui, le Prophète, paix et bénédictions sur lui, a dit : **« J'entrai dans la Jannah, et voici que je me trouvai devant un palais d'or. Je demandai : “À qui est ce palais ?” On me répondit : “À un jeune homme de Quraych.” Je pensai que c'était moi, et je demandai : “Et qui est-il ?” On me répondit : “'Umar ibn al-Khattab.” »**[^3]
 
-#### Explication De La Leçon
+#### Explication de la leçon
 
 Cette version précise la matière du palais, l'or, et montre que le Prophète, paix et bénédictions sur lui, crut d'abord que le palais était le sien, avant d'apprendre qu'il appartenait à 'Umar. Nous n'ajoutons rien à ce qui est rapporté, ni forme ni dimensions : ce qui est auprès d'Allah est trop grand pour que notre imagination le meuble de ses propres détails.
 
@@ -96,21 +96,21 @@ Cette version précise la matière du palais, l'or, et montre que le Prophète, 
 
 <!-- evidence:start id="bukhari-3820" kind="hadith" mode="canonical" -->
 
-### Une Maison De *Qasab*, Sans Tumulte Ni Fatigue
+### Une maison de *qasab*, sans tumulte ni fatigue
 
 > عَنْ أَبِي هُرَيْرَةَ رضي الله عنه قَالَ: أَتَى جِبْرِيلُ النَّبِيَّ ﷺ فَقَالَ: **يَا رَسُولَ اللَّهِ، هَذِهِ خَدِيجَةُ قَدْ أَتَتْ مَعَهَا إِنَاءٌ فِيهِ إِدَامٌ أَوْ طَعَامٌ أَوْ شَرَابٌ، فَإِذَا هِيَ أَتَتْكَ فَاقْرَأْ عَلَيْهَا السَّلَامَ مِنْ رَبِّهَا وَمِنِّي، وَبَشِّرْهَا بِبَيْتٍ فِي الْجَنَّةِ مِنْ قَصَبٍ، لَا صَخَبَ فِيهِ وَلَا نَصَبَ**.[^4]
 
 <!-- evidence:translation -->
 
-#### Traduction Française
+#### Traduction française
 
 > D'après Abu Hurayrah, qu'Allah soit satisfait de lui, qui dit : Jibril vint trouver le Prophète, paix et bénédictions sur lui, et lui dit : **« Ô Messager d'Allah, voici Khadijah qui arrive ; elle porte un récipient contenant un accompagnement, ou de la nourriture, ou une boisson. Lorsqu'elle sera auprès de toi, transmets-lui le salut de son Seigneur et le mien, et annonce-lui une maison dans la Jannah, faite de *qasab*, où il n'y aura ni tumulte ni fatigue. »**[^4]
 
-#### Interprétation Savante
+#### Interprétation savante
 
 Ibn al-Qayyim, qu'Allah lui fasse miséricorde, a dit : « Le *qasab* désigne ici les tiges de perles creuses. »[^5] Le *sakhab*, c'est le tumulte, le brouhaha des voix qui se mêlent ; le *nasab*, c'est la fatigue.[^9]
 
-#### Explication De La Leçon
+#### Explication de la leçon
 
 Le hadith écarte de la maison de Khadijah ce qui trouble le plus les foyers : le bruit et la fatigue. Et la bonne nouvelle lui parvint alors qu'elle était en chemin, apportant à manger au Prophète, paix et bénédictions sur lui. Peut-être y a-t-il là une harmonie avec son œuvre : une maison sans fatigue pour celle qui s'est dépensée pour le repos d'autrui. Et Allah sait mieux.
 
@@ -118,21 +118,21 @@ Le hadith écarte de la maison de Khadijah ce qui trouble le plus les foyers : 
 
 <!-- evidence:start id="quran-9-72" kind="quran" mode="canonical" -->
 
-### Et Des Demeures Excellentes Dans Les Jardins De 'Adn
+### Et des demeures excellentes dans les Jardins de 'Adn
 
 > **{وَعَدَ اللَّهُ الْمُؤْمِنِينَ وَالْمُؤْمِنَاتِ جَنَّاتٍ تَجْرِي مِنْ تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا وَمَسَاكِنَ طَيِّبَةً فِي جَنَّاتِ عَدْنٍ ۚ وَرِضْوَانٌ مِنَ اللَّهِ أَكْبَرُ ۚ ذَٰلِكَ هُوَ الْفَوْزُ الْعَظِيمُ}** [التوبة: ٧٢][^6]
 
 <!-- evidence:translation -->
 
-#### Traduction Française
+#### Traduction française
 
 > **« Allah a promis aux croyants et aux croyantes des Jardins sous lesquels coulent les rivières, pour y demeurer éternellement, et des demeures excellentes dans les Jardins de 'Adn. Mais l'agrément d'Allah est plus grand encore : voilà le succès immense. »** (at-Tawbah 9:72)[^6]
 
-#### Interprétation Savante
+#### Interprétation savante
 
 Ibn Kathir, qu'Allah lui fasse miséricorde, explique « des demeures excellentes » ainsi : « c'est-à-dire de belle construction, et où il fait bon s'établir ».[^7] As-Sa'di, qu'Allah lui fasse miséricorde, dit qu'elles « ont été ornées, embellies et préparées pour les serviteurs pieux d'Allah », que les rivières coulent « sous leurs palais, leurs demeures et leurs arbres », et que l'agrément d'Allah est « plus grand que les délices des Jardins ».[^8]
 
-#### Explication De La Leçon
+#### Explication de la leçon
 
 Le verset clôt la description des demeures en affirmant que l'agrément d'Allah est plus grand. Le palais n'est donc pas le terme de la quête : il n'est qu'une des marques de l'agrément d'Allah envers Son serviteur.
 
@@ -142,7 +142,7 @@ Le verset clôt la description des demeures en affirmant que l'agrément d'Allah
 
 <!-- unit:start id="adults.questions" kind="questions" -->
 
-## Questions Pour Comprendre Et Méditer
+## Questions pour comprendre et méditer
 
 1. Quelles sont les trois vérités sur les palais de la Jannah qu'établit le hadith du palais de 'Umar ?
 2. Qu'apporte la version de Jabir par rapport à celle d'Abu Hurayrah ?
@@ -155,11 +155,11 @@ Le verset clôt la description des demeures en affirmant que l'agrément d'Allah
 
 <!-- unit:start id="adults.activity" kind="activity" -->
 
-### Activité : Pense Au Maître Des Lieux Avant D'entrer
+### Activité : Pense au maître des lieux avant d'entrer
 
 <!-- activity:start audience="adults" concept_id="lesson.041.activity.remember-the-owner-before-entering" -->
 
-Posez une seule question à chaque membre de votre foyer, ou à un collègue avec qui vous partagez un lieu de travail : « Pour quoi aimerais-tu qu'on te demande d'abord la permission : ta chambre, tes affaires, ton téléphone ou ton temps de repos ? » Notez pour chacun une règle de respect, une seule et bien précise, et tenez-vous-y pendant sept jours. Le septième jour, demandez à chacun : « As-tu senti une différence ? » Écrivez ensuite deux lignes : quelle règle vous a coûté le plus ? Et en quoi cela vous rappelle-t-il le Prophète, paix et bénédictions sur lui, qui se souvint de la jalousie de 'Umar avant d'entrer dans son palais ?
+Posez une seule question à chaque membre de votre foyer, ou à un collègue avec qui vous partagez un lieu de travail : « Pour quoi aimerais-tu qu'on te demande d'abord la permission : ta chambre, tes affaires, ton téléphone ou ton temps de repos ? » Notez pour chacun une règle de respect, une seule et bien précise, et tenez-vous-y pendant sept jours. Le septième jour, demandez à chacun : « As-tu senti une différence ? » Écrivez ensuite deux lignes : quelle règle vous a coûté le plus ? Et en quoi cela vous rappelle-t-il le Prophète, paix et bénédictions sur lui, qui se souvint de la jalousie de 'Umar et n'entra pas dans son palais ?
 
 <!-- activity:end -->
 
@@ -167,7 +167,7 @@ Posez une seule question à chaque membre de votre foyer, ou à un collègue ave
 
 <!-- reader:end -->
 
-## Pour Les Enfants De 4 À 7 Ans
+## Pour les enfants de 4 à 7 ans
 
 <!-- reader:start audience="4-7" estimated_minutes="5.0" -->
 
@@ -189,7 +189,7 @@ As-tu déjà vu un grand château dans un livre ou sur une image ? Dans la Jann
 
 <!-- unit:start id="4-7.primary-story" kind="primary_story" -->
 
-### Un Hadith Authentique : Le Palais De 'Umar Dans La Jannah
+### Un hadith authentique : le palais de 'Umar dans la Jannah
 
 <!-- story:start audience="4-7" role="primary" type="hadith" source_id="bukhari-3242" authenticated="true" -->
 
@@ -201,7 +201,7 @@ Les Compagnons étaient assis avec le Prophète, paix et bénédictions sur lui.
 
 Le Prophète, paix et bénédictions sur lui, vit un beau palais, et, juste à côté, une femme qui faisait ses ablutions. Il demanda : « À qui est ce palais ? » On lui répondit : « À 'Umar ibn al-Khattab. »[^1]
 
-Le Prophète, paix et bénédictions sur lui, voulait entrer dans le palais pour le regarder.[^2] Mais il se souvint d'une chose : 'Umar tenait très fort à protéger sa famille et sa maison. Alors, qu'a fait le Prophète, paix et bénédictions sur lui ? Il n'est pas entré. Il a fait demi-tour.[^1]
+Selon une autre version, le Prophète, paix et bénédictions sur lui, voulait entrer dans le palais pour le regarder.[^2] Mais il se souvint d'une chose : 'Umar tenait très fort à protéger sa famille et sa maison. Alors, qu'a fait le Prophète, paix et bénédictions sur lui ? Il n'est pas entré. Il a fait demi-tour.[^1]
 
 'Umar était assis là, et il écoutait. Il se mit à pleurer, et il dit : « Est-ce de toi que je serais jaloux, ô Messager d'Allah ? »[^1] Cela veut dire : « Avec toi, ô Messager d'Allah, je ne pourrais jamais être jaloux ! »
 
@@ -215,7 +215,7 @@ Tu vois ? Le Prophète, paix et bénédictions sur lui, n'est pas entré chez s
 
 <!-- unit:start id="4-7.questions" kind="questions" -->
 
-### Questions Courtes
+### Questions courtes
 
 1. Qu'est-ce que le Prophète, paix et bénédictions sur lui, a vu dans la Jannah ?
 2. À qui était le palais ?
@@ -227,7 +227,7 @@ Tu vois ? Le Prophète, paix et bénédictions sur lui, n'est pas entré chez s
 
 <!-- unit:start id="4-7.activity" kind="activity" -->
 
-### Activité : Pense Au Maître Des Lieux Avant D'entrer
+### Activité : Pense au maître des lieux avant d'entrer
 
 <!-- activity:start audience="4-7" concept_id="lesson.041.activity.remember-the-owner-before-entering" -->
 
@@ -239,7 +239,7 @@ Demande à ton papa, à ta maman ou à ton frère : « Qu'est-ce que tu aimera
 
 <!-- unit:start id="4-7.bedtime-dua" kind="bedtime_dua" -->
 
-### Du'a Avant De Dormir
+### Du'a avant de dormir
 
 <!-- bedtime-dua:start audience="4-7" id="lesson.041.dua.pleasant-dwellings-without-noise-or-toil" provenance="lesson_authored" source_id="" attribution="not_prophetic" -->
 
@@ -255,7 +255,7 @@ Ce que cela veut dire : « Ô Allah, donne-nous dans la Jannah de belles maiso
 
 <!-- reader:end -->
 
-## Pour Les Enfants De 8 À 12 Ans
+## Pour les enfants de 8 à 12 ans
 
 <!-- reader:start audience="8-12" estimated_minutes="6.0" -->
 
@@ -283,7 +283,7 @@ Si je te demandais de décrire la maison de tes rêves, tu parlerais sûrement d
 
 <!-- unit:start id="8-12.primary-story" kind="primary_story" -->
 
-### Un Hadith Authentique : « À Qui Est Ce Palais ? »
+### Un hadith authentique : « À qui est ce palais ? »
 
 <!-- story:start audience="8-12" role="primary" type="hadith" source_id="bukhari-3242" authenticated="true" -->
 
@@ -309,7 +309,7 @@ Ce hadith nous apprend trois choses. Les palais de la Jannah sont réels, et ils
 
 <!-- unit:start id="8-12.questions" kind="questions" -->
 
-### Questions De Compréhension Et De Réflexion
+### Questions de compréhension et de réflexion
 
 1. Qu'avons-nous appris sur les palais de la Jannah grâce à ce hadith et au hadith d'Anas ?
 2. Que voulait faire le Prophète, paix et bénédictions sur lui, et pourquoi a-t-il fait demi-tour ?
@@ -321,7 +321,7 @@ Ce hadith nous apprend trois choses. Les palais de la Jannah sont réels, et ils
 
 <!-- unit:start id="8-12.activity" kind="activity" -->
 
-### Activité : Pense Au Maître Des Lieux Avant D'entrer
+### Activité : Pense au maître des lieux avant d'entrer
 
 <!-- activity:start audience="8-12" concept_id="lesson.041.activity.remember-the-owner-before-entering" -->
 
@@ -333,7 +333,7 @@ Choisis un frère, une sœur ou l'un de tes parents, et pose-lui deux questions�
 
 <!-- unit:start id="8-12.bedtime-dua" kind="bedtime_dua" -->
 
-### Du'a Avant De Dormir
+### Du'a avant de dormir
 
 <!-- bedtime-dua:start audience="8-12" id="lesson.041.dua.pleasant-dwellings-without-noise-or-toil" provenance="lesson_authored" source_id="" attribution="not_prophetic" -->
 
@@ -349,7 +349,7 @@ Son sens : « Ô Allah, accorde-nous dans Ta Jannah les demeures excellentes q
 
 <!-- reader:end -->
 
-## Pour Les Adolescents, 13 Ans Et Plus
+## Pour les adolescents, 13 ans et plus
 
 <!-- reader:start audience="13+" estimated_minutes="6.5" -->
 
@@ -378,7 +378,7 @@ Nous vivons à une époque où il n'a jamais été aussi facile d'entrer dans l'
 
 <!-- unit:start id="13+.primary-story" kind="primary_story" -->
 
-### Un Hadith Authentique : Un Prophète À La Porte D'un Palais, Un Compagnon Qui Pleure
+### Un hadith authentique : un Prophète à la porte d'un palais, un Compagnon qui pleure
 
 <!-- story:start audience="13+" role="primary" type="hadith" source_id="bukhari-3242" authenticated="true" -->
 
@@ -390,7 +390,7 @@ La scène se passe à Médine. Abu Hurayrah et plusieurs Compagnons sont assis a
 
 Il voit un palais, et à côté, une femme qui fait ses ablutions. Il demande : « À qui est ce palais ? » On lui répond : « À 'Umar ibn al-Khattab. »[^1] Dans la version d'Anas, le palais est en or, et on lui dit d'abord : « À un jeune homme de Quraych » ; le Prophète, paix et bénédictions sur lui, pense que c'est lui, puis on nomme 'Umar.[^3]
 
-Vient alors le moment autour duquel tout le hadith tourne. Jabir rapporte dans sa version que le Prophète, paix et bénédictions sur lui, voulut entrer dans le palais et le regarder.[^2] Personne ne l'en empêche ; il est le seigneur des enfants d'Adam, et le lieu, c'est la Jannah. Mais il « se souvint de la jalousie de 'Umar », et rebroussa chemin.[^1] Il n'a pas fait de sa proximité avec 'Umar un passe-droit pour entrer : il a ménagé les sentiments du maître des lieux, puis il le lui a raconté devant tout le monde.
+Vient alors le moment autour duquel tout le hadith tourne. Jabir rapporte dans sa version que le Prophète, paix et bénédictions sur lui, voulait entrer dans le palais et le regarder.[^2] Personne ne l'en empêche ; il est le seigneur des enfants d'Adam, et le lieu, c'est la Jannah. Mais il « se souvint de la jalousie de 'Umar », dit le hadith, et il rebrousse chemin.[^1] Il n'a pas fait de sa proximité avec 'Umar un passe-droit pour entrer : il a ménagé les sentiments du maître des lieux, puis il le lui a raconté devant tout le monde.
 
 Et regarde 'Umar, cet homme fort que tout le monde redoutait. Il apprend devant tous qu'un palais l'attend dans la Jannah, et le hadith ne rapporte de lui pas un seul mot d'orgueil. Abu Hurayrah dit : « 'Umar pleura, alors que nous étions tous réunis dans cette assemblée » ; puis 'Umar dit : « Que mon père te serve de rançon, ô Messager d'Allah ! Est-ce de toi que je serais jaloux ? »[^1]
 
@@ -404,7 +404,7 @@ La leçon te concerne dans deux situations. La première : l'intimité des autr
 
 <!-- unit:start id="13+.questions" kind="questions" -->
 
-### Questions De Discussion
+### Questions de discussion
 
 1. Qu'est-ce qui rend si frappant le fait que le Prophète, paix et bénédictions sur lui, se soit détourné du palais, alors que personne ne l'en empêchait ?
 2. En quoi la *ghayrah* louable se distingue-t-elle du contrôle et de la domination ?
@@ -416,7 +416,7 @@ La leçon te concerne dans deux situations. La première : l'intimité des autr
 
 <!-- unit:start id="13+.activity" kind="activity" -->
 
-### Activité : Pense Au Maître Des Lieux Avant D'entrer
+### Activité : Pense au maître des lieux avant d'entrer
 
 <!-- activity:start audience="13+" concept_id="lesson.041.activity.remember-the-owner-before-entering" -->
 
@@ -428,7 +428,7 @@ Demande à un membre de ta famille ou à un ami proche, en tête à tête : «�
 
 <!-- unit:start id="13+.bedtime-dua" kind="bedtime_dua" -->
 
-### Du'a Avant De Dormir
+### Du'a avant de dormir
 
 <!-- bedtime-dua:start audience="13+" id="lesson.041.dua.pleasant-dwellings-without-noise-or-toil" provenance="lesson_authored" source_id="" attribution="not_prophetic" -->
 
@@ -444,11 +444,11 @@ Son sens : « Ô Allah, accorde-nous les demeures excellentes que Tu as promis
 
 <!-- reader:end -->
 
-## Plans D'enseignement Détaillés
+## Plans d'enseignement détaillés
 
 <!-- lesson-plan:start audience="adults" minutes="60" -->
 
-### Les Adultes — 60 Minutes
+### Les adultes — 60 minutes
 
 <!-- lesson-plan:outcomes -->
 **Résultats d'apprentissage :** l'apprenant raconte le hadith du palais de 'Umar dans ses trois versions (Abu Hurayrah, Jabir et Anas) et en tire trois vérités sur les palais de la Jannah et deux règles de conduite ; il explique le sens de la *ghayrah*, de « ni tumulte ni fatigue » et des « tiges de perles creuses » ; il relie la description des demeures excellentes en at-Tawbah 9:72 à l'agrément d'Allah, plus grand encore ; et il établit par écrit, avec les membres de son foyer ou ses collègues, des règles de respect qu'il réexamine au bout d'une semaine.
@@ -484,7 +484,7 @@ Son sens : « Ô Allah, accorde-nous les demeures excellentes que Tu as promis
 
 <!-- lesson-plan:start audience="4-7" minutes="25" -->
 
-### Les Enfants De 4 À 7 Ans — 25 Minutes
+### Les enfants de 4 à 7 ans — 25 minutes
 
 <!-- lesson-plan:outcomes -->
 **Résultats d'apprentissage :** l'enfant dit que la Jannah contient de vrais palais, dont un palais d'or et une maison de perle ; il raconte que le Prophète, paix et bénédictions sur lui, a vu le palais de 'Umar et n'y est pas entré parce qu'il a pensé à ce que ressentirait 'Umar ; et il frappe à la porte et attend la permission avant d'entrer dans la chambre de quelqu'un.
@@ -520,7 +520,7 @@ Son sens : « Ô Allah, accorde-nous les demeures excellentes que Tu as promis
 
 <!-- lesson-plan:start audience="8-12" minutes="40" -->
 
-### Les Enfants De 8 À 12 Ans — 40 Minutes
+### Les enfants de 8 à 12 ans — 40 minutes
 
 <!-- lesson-plan:outcomes -->
 **Résultats d'apprentissage :** l'élève raconte le hadith dans l'ordre, avec les ajouts de Jabir et d'Anas ; il explique les termes *ghayrah* et « ni tumulte ni fatigue » ; il cite trois descriptions établies des demeures de la Jannah ; et il fixe avec un membre de sa famille une règle de permission qu'il respecte pendant cinq jours.
@@ -556,7 +556,7 @@ Son sens : « Ô Allah, accorde-nous les demeures excellentes que Tu as promis
 
 <!-- lesson-plan:start audience="13+" minutes="50" -->
 
-### Les Adolescents, 13 Ans Et Plus — 50 Minutes
+### Les adolescents, 13 ans et plus — 50 minutes
 
 <!-- lesson-plan:outcomes -->
 **Résultats d'apprentissage :** l'adolescent analyse l'attitude du Prophète, paix et bénédictions sur lui, et celle de 'Umar dans le hadith ; il distingue la *ghayrah* louable du contrôle ; il repère les formes que prend l'atteinte à la vie privée dans le monde numérique ; il explique pourquoi l'agrément d'Allah est plus grand que les demeures ; et il s'engage pendant une semaine à respecter une règle convenue, en notant pour lui-même les moments difficiles.
@@ -598,7 +598,7 @@ Son sens : « Ô Allah, accorde-nous les demeures excellentes que Tu as promis
 [^2]: Sahih al-Bukhari, Livre des mérites des Compagnons du Prophète, paix et bénédictions sur lui, chapitre des vertus de 'Umar ibn al-Khattab, hadith 3679, rapporté par Muhammad ibn al-Munkadir d'après Jabir ibn 'Abd Allah, qu'Allah soit satisfait de lui et de son père ; authentique : [sunnah.com/bukhari:3679](https://sunnah.com/bukhari:3679) ; dans le même sens chez al-Bukhari, 5226 (« فَلَمْ يَمْنَعْنِي إِلَّا عِلْمِي بِغَيْرَتِكَ », « Rien ne m'en a empêché, sinon ce que je savais de ta jalousie »), et chez Muslim, 2394 : [sunnah.com/muslim:2394a](https://sunnah.com/muslim:2394a).
 [^3]: Jami' at-Tirmidhi, Livre des mérites (*al-Manaqib*), chapitre des mérites de 'Umar ibn al-Khattab, hadith 3688, rapporté par Humayd d'après Anas ibn Malik, qu'Allah soit satisfait de lui ; at-Tirmidhi a dit : *hasan sahih*, et Ahmad Shakir et al-Albani l'ont jugé authentique : [sunnah.com/tirmidhi:3688](https://sunnah.com/tirmidhi:3688). At-Tirmidhi dit, à la suite du hadith 3689 : « On rapporte d'Ibn 'Abbas qu'il a dit : Les songes des prophètes sont une révélation » : [sunnah.com/tirmidhi:3689](https://sunnah.com/tirmidhi:3689).
 [^4]: Sahih al-Bukhari, Livre des mérites des Ansar (*Manaqib al-Ansar*), chapitre du mariage du Prophète, paix et bénédictions sur lui, avec Khadijah, et de son mérite, qu'Allah soit satisfait d'elle, hadith 3820, rapporté par Abu Zur'ah d'après Abu Hurayrah, qu'Allah soit satisfait de lui ; authentique : [sunnah.com/bukhari:3820](https://sunnah.com/bukhari:3820) ; Muslim le rapporte dans le Livre des mérites des Compagnons, chapitre des mérites de Khadijah, Mère des croyants, qu'Allah soit satisfait d'elle, hadith 2432 : [sunnah.com/muslim:2432](https://sunnah.com/muslim:2432).
-[^5]: Ibn Qayyim al-Jawziyyah, *Hadi al-Arwah ila Bilad al-Afrah* (éd. 'Ata'at al-'Ilm), trente-sixième chapitre : de ses chambres hautes, de ses palais, de ses pavillons et de ses tentes : [shamela.ws/book/13652/345](https://shamela.ws/book/13652/345). Le même chapitre contient des récits sur d'autres palais, comme le palais de perle attribué à Ibrahim, paix sur lui ; Abu Hatim et ad-Daraqutni ont jugé plus probable qu'il s'arrête à un Compagnon (*mawquf*), comme l'indiquent les notes de l'éditeur ; cette leçon ne s'y appuie donc pas.
+[^5]: Ibn Qayyim al-Jawziyyah, *Hadi al-Arwah ila Bilad al-Afrah* (éd. 'Ata'at al-'Ilm), trente-sixième chapitre : de ses chambres hautes, de ses palais, de ses pavillons et de ses tentes : [shamela.ws/book/13652/345](https://shamela.ws/book/13652/345) ; l'explication du *qasab* et la note de l'éditeur sur le récit du palais d'Ibrahim se trouvent à la page [shamela.ws/book/13652/350](https://shamela.ws/book/13652/350). Le même chapitre contient des récits sur d'autres palais, comme le palais de perle attribué à Ibrahim, paix sur lui ; Abu Hatim et ad-Daraqutni ont jugé plus probable qu'il s'arrête à un Compagnon (*mawquf*), comme l'indiquent les notes de l'éditeur ; cette leçon ne s'y appuie donc pas.
 [^6]: Le Noble Coran, sourate at-Tawbah, verset 72 : [quran.com/9/72](https://quran.com/9/72). La traduction française proposée dans cette leçon est une traduction du sens propre au projet.
 [^7]: Ibn Kathir, *Tafsir al-Qur'an al-'Azim*, commentaire de la sourate at-Tawbah, verset 72 : [quran.ksu.edu.sa/tafseer/katheer/sura9-aya72.html](https://quran.ksu.edu.sa/tafseer/katheer/sura9-aya72.html).
 [^8]: As-Sa'di, *Taysir al-Karim ar-Rahman fi Tafsir Kalam al-Mannan*, commentaire de la sourate at-Tawbah, verset 72 : [quran.ksu.edu.sa/tafseer/saadi/sura9-aya72.html](https://quran.ksu.edu.sa/tafseer/saadi/sura9-aya72.html).

@@ -76,7 +76,7 @@ Notice the two descriptions together: `la maqtu'ah` negates the thing itself eve
 
 #### Scholarly Tafsir
 
-These ayat, in the same surah and immediately after the description of the People of the Right, describe the opposite group's fate: a scorching wind, boiling water that does not quench thirst, and a shade that neither cools nor pleases those beneath it.
+These ayat, in the same surah and immediately after the description of the People of the Right, describe the opposite group's fate: a scorching wind, boiling water that does not quench thirst, and a shade that neither cools nor pleases those beneath it. Ibn 'Abbas, Mujahid, Qatada, and others explained `al-yahmum` as the shade of smoke, that is, a shade of intensely black smoke.[^10]
 
 #### Lesson Explanation
 
@@ -96,7 +96,7 @@ The Qur'an did not describe the bliss of the People of the Right alone; it paire
 
 #### Scholarly Tafsir
 
-Scholars explain that the first death is the one that precedes entry into Jannah, and that the exception here is a disconnected one (istithna' munqati'): it does not admit some death inside Jannah, but reminds us that the only death its people taste already happened before they entered it, so there will never be death after it.[^6]
+Scholars explain that the first death is the one that precedes entry into Jannah, and that the exception here is a disconnected one (istithna' munqati'): it does not admit some death inside Jannah, but reminds us that the only death its people taste already happened before they entered it, so there will never be death after it.[^11]
 
 #### Lesson Explanation
 
@@ -108,11 +108,11 @@ This ayah speaks to the deepest human fear: the fear of death and separation. Af
 
 ### "You Will Be Healthy and Never Fall Sick Again"
 
-> عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ وَأَبِي هُرَيْرَةَ رضي الله عنهما، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ: **«يُنَادِي مُنَادٍ: إِنَّ لَكُمْ أَنْ تَصِحُّوا فَلَا تَسْقَمُوا أَبَدًا، وَإِنَّ لَكُمْ أَنْ تَحْيَوْا فَلَا تَمُوتُوا أَبَدًا، وَإِنَّ لَكُمْ أَنْ تَشِبُّوا فَلَا تَهْرَمُوا أَبَدًا، وَإِنَّ لَكُمْ أَنْ تَنْعَمُوا فَلَا تَبْأَسُوا أَبَدًا».**[^5]
+> عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ وَأَبِي هُرَيْرَةَ رضي الله عنهما، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ: **«يُنَادِي مُنَادٍ: إِنَّ لَكُمْ أَنْ تَصِحُّوا فَلَا تَسْقَمُوا أَبَدًا، وَإِنَّ لَكُمْ أَنْ تَحْيَوْا فَلَا تَمُوتُوا أَبَدًا، وَإِنَّ لَكُمْ أَنْ تَشِبُّوا فَلَا تَهْرَمُوا أَبَدًا، وَإِنَّ لَكُمْ أَنْ تَنْعَمُوا فَلَا تَبْأَسُوا أَبَدًا».** فَذَلِكَ قَوْلُهُ عَزَّ وَجَلَّ: ﴿وَنُودُوا أَنْ تِلْكُمُ الْجَنَّةُ أُورِثْتُمُوهَا بِمَا كُنْتُمْ تَعْمَلُونَ﴾ [الأعراف: ٤٣].[^5]
 
 <!-- evidence:translation -->
 
-> On the authority of Abu Sa'id al-Khudri and Abu Hurayrah, may Allah be pleased with both of them, from the Prophet, peace and blessings be upon him, who said: **"A caller will call out: You will be healthy and never fall sick again, you will live and never die again, you will be young and never grow old again, and you will be in bliss and never be miserable again."**[^5]
+> On the authority of Abu Sa'id al-Khudri and Abu Hurayrah, may Allah be pleased with both of them, from the Prophet, peace and blessings be upon him, who said: **"A caller will call out: You will be healthy and never fall sick again, you will live and never die again, you will be young and never grow old again, and you will be in bliss and never be miserable again."** That is the saying of Allah, Mighty and Majestic: "And it will be called out to them: This is Jannah, which you have been made to inherit for what you used to do" (al-A'raf 7:43).[^5]
 
 #### Scholarly Explanation
 
@@ -162,7 +162,7 @@ Choose a limited resource you genuinely depend on in your life — your free tim
 
 <!-- unit:start id="4-7.explanation" kind="explanation" -->
 
-In this world, many things end: the tasty piece of candy runs out, the fun game comes to an end, and when a child falls asleep, the lovely day is over. But Allah told us in the Qur'an that the bliss of Jannah is never like that: its fruit never ends, and its joy never stops.
+In this world, many things end: the tasty piece of candy runs out, the fun game comes to an end, and when a child falls asleep, the lovely day is over. But Allah told us in the Qur'an that the bliss of Jannah is never like that: its fruit never ends, and its joy never stops. The Prophet, peace and blessings be upon him, told us that a caller will call out to the people of Jannah: you will be healthy and never get sick, you will live and never die, you will stay young and never grow old, and you will be in bliss and never have any hardship or misery.[^5]
 
 <!-- unit:end -->
 
@@ -193,7 +193,7 @@ In simple words: Allah told us in the Qur'an that the people of Jannah have so m
 ### Short Questions
 
 1. What does `la maqtu'atin wa la mamnu'ah` mean?
-2. What did the caller say to the people of Jannah about sickness and sadness?
+2. What did the caller say to the people of Jannah about sickness and death?
 3. Is the bliss of Jannah like worldly fruit that ends?
 
 <!-- unit:end -->
@@ -234,7 +234,7 @@ A grown-up prepares a small cup with a few pieces of candy and asks the child to
 
 <!-- unit:start id="8-12.explanation" kind="explanation" -->
 
-Every worldly pleasure is limited in one of two ways: either it ends, or it is withheld from you by illness, distance, or lack of money. But Allah described the bliss of Jannah as governed by neither limit: `la maqtu'atin wa la mamnu'ah`. This lesson explains a full Qur'anic scene about this bliss and sets it against a completely different fate; then an authentic hadith confirms it.
+Every worldly pleasure is limited in one of two ways: either it ends, or it is withheld from you by illness, distance, or lack of money. But Allah described the bliss of Jannah as governed by neither limit: `la maqtu'atin wa la mamnu'ah`. This lesson explains a full Qur'anic scene about this bliss and sets it against a completely different fate; then an authentic hadith narrated by Muslim confirms it, in which the Prophet, peace and blessings be upon him, told us that a caller will call out to the people of Jannah: "You will be healthy and never fall sick again, you will live and never die again, you will be young and never grow old again, and you will be in bliss and never be miserable again."[^5]
 
 <!-- unit:end -->
 
@@ -264,9 +264,9 @@ In other words: Allah describes the People of the Right as enjoying a bliss whos
 
 <!-- terminology:start source_id="quran-56-27-34" -->
 
-- **`As-hab al-Yamin`** ("the People of the Right") — the group given the record of their deeds in their right hand on the Day of Judgment because of their righteous deeds, whose fate is everlasting bliss.
+- **`As-hab al-Yamin`** ("the People of the Right") — the group given the record of their deeds in their right hand on the Day of Judgment because of their righteous deeds, and taken to the right toward Jannah, whose fate is everlasting bliss.[^13]
 - **`la maqtu'atin wa la mamnu'ah`** ("neither ending nor forbidden") — the description of Jannah's fruit: it does not end at a set time like worldly fruit, and no one among the people of Jannah is ever kept from attaining it.
-- **`al-mawtah al-ula`** ("the first death") — the death preceding entry into Jannah, the only death its people ever taste, after which there is never death again.
+- **`al-mawtah al-ula`** ("the first death") — from Allah's words about the people of Jannah: "They will not taste death therein, except the first death, and He will have protected them from the punishment of Hellfire" (ad-Dukhan 44:56); it is the death preceding entry into Jannah, the only death its people ever taste, after which there is never death again.[^4]
 
 <!-- terminology:end -->
 
@@ -319,7 +319,7 @@ Make two columns in your notebook. In the first column, write five worldly thing
 
 <!-- unit:start id="13+.explanation" kind="explanation" -->
 
-Much of what we chase today is designed from the start to end quickly: a new notification minutes after the last one, a trend that changes daily, a like whose effect fades within hours. This design is no accident; anything built on "just now" needs constant renewal to keep you attached to it. Here the Qur'an offers a completely different standard: a full scene from Surah al-Waqi'ah portraying a bliss described as `la maqtu'atin wa la mamnu'ah`, then setting it directly beside another fate that is unlike it in every way. This pairing is not merely a distant doctrinal fact; it is an invitation to rethink everything you build your sense of contentment on today.
+Much of what we chase today is designed from the start to end quickly: a new notification minutes after the last one, a trend that changes daily, a like whose effect fades within hours. This design is no accident; anything built on "just now" needs constant renewal to keep you attached to it. Here the Qur'an offers a completely different standard: a full scene from Surah al-Waqi'ah portraying a bliss described as `la maqtu'atin wa la mamnu'ah`, then setting it directly beside another fate that is unlike it in every way. This pairing is not merely a distant doctrinal fact; it is an invitation to rethink everything you build your sense of contentment on today. An authentic hadith narrated by Muslim confirms this meaning: the Prophet, peace and blessings be upon him, told us that a caller will call out to the people of Jannah that they will be healthy and never fall sick again, live and never die again, be young and never grow old again, and be in bliss and never be miserable again.[^5]
 
 <!-- unit:end -->
 
@@ -351,9 +351,9 @@ Put differently: Allah described the bliss of the People of the Right with a dua
 
 <!-- terminology:start source_id="quran-56-27-34" -->
 
-- **`As-hab al-Yamin` / `As-hab ash-Shimal`** ("the People of the Right" / "the People of the Left") — the two groups into which people are divided on the Day of Judgment according to their deeds, each receiving the record of their deeds according to what they deserve.
+- **`As-hab al-Yamin` / `As-hab ash-Shimal`** ("the People of the Right" / "the People of the Left") — the two groups into which people are divided on the Day of Judgment according to their deeds, each receiving the record of their deeds according to what they deserve; the commentators mention that the People of the Right are given their records in their right hands and taken to the right, and the People of the Left are given their records in their left hands and taken to the left.[^13]
 - **`la maqtu'atin wa la mamnu'ah`** ("neither ending nor forbidden") — a dual description: negating any end in time, and negating any obstacle preventing access — together the full meaning of eternity.
-- **The exception in `illa ma sha'a rabbuk`** ("except what your Lord wills," Hud 11:108) — cited by scholars to clarify that all matters persist by Allah's will, not as a negation of Jannah's eternity, a point Ibn al-Qayyim, may Allah have mercy on him, detailed.[^6]
+- **The exception in Allah's words `wa amma alladhina su'idu fa-fi al-jannati khalidina fiha ma damat as-samawatu wal-ardu illa ma sha'a rabbuk, 'ata'an ghayra majdhudh`** ("And as for those who are made happy, they will be in Jannah, abiding therein as long as the heavens and the earth endure, except what your Lord wills — a gift never cut off," Hud 11:108) — scholars have given several explanations of `illa ma sha'a rabbuk` ("except what your Lord wills"), among them that the continuance of their bliss rests on Allah's will and grace rather than being necessary in itself; none of them negates the eternity of Jannah, for the ayah itself ends with `'ata'an ghayra majdhudh` ("a gift never cut off"). Ibn al-Qayyim, may Allah have mercy on him, set out these explanations in detail.[^9][^12][^6]
 
 <!-- terminology:end -->
 
@@ -559,5 +559,10 @@ Choose one habit in your life built on a quickly fading pleasure, such as endles
 [^6]: Muhammad ibn Abi Bakr Ibn Qayyim al-Jawziyyah, *Hadi al-Arwah ila Bilad al-Afrah*, chapter sixty-seven: on the eternity of Jannah and that it never perishes or ceases: [al-Maktaba ash-Shamila](https://shamela.ws/book/13652/770).
 [^7]: 'Umar Sulayman al-Ashqar, *al-Jannah wa-n-Nar*, chapter two: Jannah Is Eternal and Its People Are Eternal, first section: the texts proving this: [al-Maktaba ash-Shamila](https://shamela.ws/book/12714/124).
 [^8]: 'Umar Sulayman al-Ashqar, *al-Jannah wa-n-Nar*, second section: those who claimed Jannah will perish: [al-Maktaba ash-Shamila](https://shamela.ws/book/12714/126).
+[^9]: The Noble Qur'an, Surah Hud, ayah 108: [Qur'anic text](https://quran.com/11/108).
+[^10]: Abu al-Fida' Isma'il ibn Kathir, *Tafsir al-Qur'an al-'Azim*, commentary on Surah al-Waqi'ah, ayat 41-44, on the meaning of `wa zillin min yahmum` (the shade of smoke, from Ibn 'Abbas, Mujahid, 'Ikrimah, Qatada, and as-Suddi): [King Saud University Digital Mushaf](https://quran.ksu.edu.sa/tafseer/katheer/sura56-aya43.html); and Muhammad ibn Jarir at-Tabari, *Jami' al-Bayan*, commentary on Surah al-Waqi'ah, ayah 43 (a shade of intensely black smoke): [King Saud University Digital Mushaf](https://quran.ksu.edu.sa/tafseer/tabary/sura56-aya43.html).
+[^11]: Abu al-Fida' Isma'il ibn Kathir, *Tafsir al-Qur'an al-'Azim*, commentary on Surah ad-Dukhan, ayah 56 ("This exception reinforces the negation, for it is a disconnected exception"): [King Saud University Digital Mushaf](https://quran.ksu.edu.sa/tafseer/katheer/sura44-aya56.html); and Muhammad ibn Jarir at-Tabari, *Jami' al-Bayan*, commentary on Surah ad-Dukhan, ayah 56: [King Saud University Digital Mushaf](https://quran.ksu.edu.sa/tafseer/tabary/sura44-aya56.html).
+[^12]: Abu al-Fida' Isma'il ibn Kathir, *Tafsir al-Qur'an al-'Azim*, commentary on Surah Hud, ayah 108, on the meaning of the exception and of `'ata'an ghayra majdhudh` ("not cut off"): [King Saud University Digital Mushaf](https://quran.ksu.edu.sa/tafseer/katheer/sura11-aya108.html).
+[^13]: Abu al-Fida' Isma'il ibn Kathir, *Tafsir al-Qur'an al-'Azim*, commentary on Surah al-Waqi'ah, ayat 7-10: [King Saud University Digital Mushaf](https://quran.ksu.edu.sa/tafseer/katheer/sura56-aya7.html); and Muhammad ibn Jarir at-Tabari, *Jami' al-Bayan*, commentary on Surah al-Waqi'ah, ayah 8: [King Saud University Digital Mushaf](https://quran.ksu.edu.sa/tafseer/tabary/sura56-aya8.html).
 
 <!-- references:end -->

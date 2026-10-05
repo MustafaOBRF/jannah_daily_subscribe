@@ -152,7 +152,7 @@ La première salutation qu'Adam entendit lui vint des anges, et ce fut une répo
 
 #### Interprétation Savante
 
-An-Nawawi, qu'Allah lui fasse miséricorde, explique que « vous n'aurez pas la foi tant que vous ne vous aimerez pas » signifie : votre foi ne sera complète que par l'amour mutuel. Le hadith exhorte vivement à répandre le salam et à l'offrir à tous les musulmans, à ceux que l'on connaît comme à ceux que l'on ne connaît pas ; le salam est la première cause de l'entente et la clé qui attire l'affection, et il met fin aux ruptures et aux brouilles.[^9]
+An-Nawawi, qu'Allah lui fasse miséricorde, explique que « vous n'aurez pas la foi tant que vous ne vous aimerez pas » signifie : votre foi ne sera complète que par l'amour mutuel. Le hadith exhorte vivement à répandre le salam et à l'offrir à tous les musulmans, à ceux que l'on connaît comme à ceux que l'on ne connaît pas ; le salam est la première cause de l'entente et la clé qui attire l'affection. Le répandre affermit l'entente des musulmans entre eux et rend visible leur emblème distinctif, qui les distingue des adeptes des autres religions, et il met fin aux ruptures et aux brouilles.[^9]
 
 #### Explication De La Leçon
 
@@ -216,13 +216,13 @@ Aujourd'hui, nous allons écouter une histoire du Coran : l'histoire de personn
 
 Il y a très, très longtemps, à La Mecque, le Prophète, paix et bénédictions sur lui, récitait aux gens le Coran qu'Allah avait fait descendre.
 
-Certaines personnes demandaient : « Qu'a fait descendre votre Seigneur ? »
+On demandait aux gens, au sujet du Coran : « Qu'a fait descendre votre Seigneur ? »
 
-Elles ont posé la question à des gens qui n'aimaient pas la vérité, et ceux-là ont répondu quelque chose de faux : « Ce sont des histoires de l'ancien temps ! »[^2]
+Quand on a posé la question à des gens qui n'aimaient pas la vérité, ils ont répondu quelque chose de faux : « Ce sont des histoires de l'ancien temps ! »[^2]
 
-Puis elles ont posé la même question aux croyants, ceux qui craignent Allah et Lui obéissent : « Qu'a fait descendre votre Seigneur ? » Et les croyants ont répondu par un seul mot, tout beau : « Du bien ! » Cela voulait dire : Allah a fait descendre du bien, de la miséricorde et de la bénédiction.[^1]
+Puis, quand on a posé la même question aux croyants, ceux qui craignent Allah et Lui obéissent : « Qu'a fait descendre votre Seigneur ? », les croyants ont répondu par un seul mot, tout beau : « Du bien ! » Cela voulait dire : Allah a fait descendre du bien, de la miséricorde et de la bénédiction.[^1]
 
-Allah a gardé leur réponse dans le Coran, et Il leur a promis de très belles choses : du bien dans cette vie, et des jardins où coulent des rivières, où ils auront tout ce qu'ils aiment.
+Allah a gardé leur réponse dans le Coran, et Il leur a promis de très belles choses : du bien dans cette vie, et des jardins sous lesquels coulent des rivières, où ils auront tout ce qu'ils aiment.
 
 Et Allah nous a appris que, lorsque la vie de ces gens bons et purs se termine sur terre, les anges viennent les trouver et leur disent : « Paix sur vous ! Entrez dans la Jannah pour ce que vous faisiez. »[^1]
 

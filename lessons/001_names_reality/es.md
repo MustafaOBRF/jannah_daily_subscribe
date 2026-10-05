@@ -62,7 +62,7 @@ Los nombres de la Jannah señalan atributos reales que esperamos, y que sobrepas
 
 #### Explicación Académica
 
-Los exégetas explican que `Dar as-Salam` es la Jannah, llamada así porque su gente está a salvo de todo mal, preocupación, tristeza y muerte, y porque as-Salam es un nombre de Allah, y atribuírsela es honrarla. La invitación es general para toda la gente; la guía al camino recto, específica para quien Allah quiere guiar.[^2]
+Los exégetas explican que `Dar as-Salam` es la Jannah, llamada así porque su gente está a salvo allí de males, preocupaciones y tristezas, y de que su dicha se acabe. La invitación es general para toda la gente; la guía al camino recto, específica para quien Allah quiere guiar.[^2]
 
 #### Explicación de la Lección
 
@@ -114,7 +114,7 @@ Este hadiz es la regla que enmarca lo que aprendemos sobre los nombres y descrip
 
 <!-- evidence:translation -->
 
-> عَنْ رَبِيعَةَ بْنِ كَعْبٍ الْأَسْلَمِيِّ رضي الله عنه قَالَ: كُنْتُ أَبِيتُ مَعَ رَسُولِ اللَّهِ صلى الله عليه وسلم فَأَتَيْتُهُ بِوَضُوئِهِ وَحَاجَتِهِ، فَقَالَ لِي: «سَلْ». فَقُلْتُ: أَسْأَلُكَ مُرَافَقَتَكَ فِي الْجَنَّةِ. قَالَ: «أَوْ غَيْرَ ذَٰلِكَ؟». قُلْتُ: هُوَ ذَاكَ. قَالَ: «فَأَعِنِّي عَلَىٰ نَفْسِكَ بِكَثْرَةِ السُّجُودِ».
+> عَنْ رَبِيعَةَ بْنِ كَعْبٍ الْأَسْلَمِيِّ رضي الله عنه قَالَ: كُنْتُ أَبِيتُ مَعَ رَسُولِ اللَّهِ صلى الله عليه وسلم فَأَتَيْتُهُ بِوَضُوئِهِ وَحَاجَتِهِ، فَقَالَ لِي: «سَلْ». فَقُلْتُ: أَسْأَلُكَ مُرَافَقَتَكَ فِي الْجَنَّةِ. قَالَ: «أَوَغَيْرَ ذَٰلِكَ؟». قُلْتُ: هُوَ ذَاكَ. قَالَ: «فَأَعِنِّي عَلَىٰ نَفْسِكَ بِكَثْرَةِ السُّجُودِ».
 > Narró Rabi'ah ibn Ka'b al-Aslami, que Allah esté complacido con él: **«Yo pasaba la noche con el Mensajero de Allah, que la paz y las bendiciones de Allah sean con él, y le llevaba su agua para el wudú y lo que necesitara. Me dijo: “Pide”. Le dije: “Te pido acompañarte en la Jannah”. Dijo: “¿O alguna otra cosa?”. Dije: “Es eso”. Dijo: “Entonces ayúdame a ayudarte, prosternándote mucho”».**[^5]
 
 #### Explicación Académica
@@ -133,7 +133,7 @@ Esta situación vincula la esperanza más grande con la obra visible más sencil
 
 ## Preguntas para la Comprensión y la Reflexión
 
-1. ¿Cuál es la diferencia entre que los nombres de la Jannah sean sinónimos en lo nombrado y diversos en el atributo?
+1. ¿Cómo pueden los nombres de la Jannah ser sinónimos en lo nombrado y, a la vez, diversos en el atributo?
 2. ¿Cómo impide el hadiz qudsi «lo que ningún ojo ha visto» que reduzcamos la Jannah a una imagen terrenal ampliada?
 3. ¿Por qué el Profeta, que la paz y las bendiciones de Allah sean con él, no se conformó con la respuesta de Rabi'ah ibn Ka'b, sino que le pidió aclarar su petición?
 4. ¿Cómo vincula la respuesta del Profeta, que la paz y las bendiciones de Allah sean con él, «ayúdame a ayudarte, prosternándote mucho», la gran esperanza con la obra diaria sencilla?
@@ -193,7 +193,7 @@ Esa noche, Hanaa dibujó una casita junto a un corazón grande, y le dijo a su m
 
 <!-- retelling:start source_id="muslim-489" audience="4-7" -->
 
-Había un hombre bueno llamado Rabi'ah que servía al Profeta, que la paz y las bendiciones de Allah sean con él. Un día el Profeta, que la paz y las bendiciones de Allah sean con él, le dijo: «Pide lo que quieras.» Rabi'ah no pidió un juguete ni dinero, sino que dijo: «Quiero estar contigo en la Jannah.» El Profeta, que la paz y las bendiciones de Allah sean con él, le preguntó: «¿Quieres alguna otra cosa?» Rabi'ah dijo: «No, quiero solo esto.» Entonces el Profeta, que la paz y las bendiciones de Allah sean con él, le dijo: «Entonces ayúdame en eso prosternándote mucho ante Allah.»[^5] Es decir: cuanto más se prosternara Rabi'ah ante Allah, más se acercaría a su gran petición.
+Había un hombre bueno llamado Rabi'ah que servía al Profeta, que la paz y las bendiciones de Allah sean con él. Una noche, el Profeta, que la paz y las bendiciones de Allah sean con él, le dijo: «Pide lo que quieras.» Rabi'ah no pidió un juguete ni dinero, sino que dijo: «Quiero estar contigo en la Jannah.» El Profeta, que la paz y las bendiciones de Allah sean con él, le preguntó: «¿Quieres alguna otra cosa?» Rabi'ah dijo: «No, quiero solo esto.» Entonces el Profeta, que la paz y las bendiciones de Allah sean con él, le dijo: «Entonces ayúdame en eso haciendo mucho suyud ante Allah.»[^5] Es decir: cuanto más suyud hiciera Rabi'ah ante Allah, poniendo la frente en el suelo, más se acercaría a su gran petición.
 
 <!-- retelling:end -->
 
@@ -294,7 +294,7 @@ La petición de Rabi'ah era mucho más grande que cualquier petición mundana, y
 
 - **`Dar as-Salam`** — un nombre de la Jannah que significa la morada de la seguridad completa, libre del miedo, la tristeza, la enfermedad y la muerte.
 - **`al-Firdaws`** — un nombre de la Jannah que designa su parte más alta y central; no se alcanza solo deseándola, sino con obras concretas.
-- **`Murafaqatuka` (acompañarte)** — que la persona esté con el Profeta, que la paz y las bendiciones de Allah sean con él, en un mismo lugar cercano a él en la Jannah.
+- **`Murafaqataka` (acompañarte)** — que la persona esté con el Profeta, que la paz y las bendiciones de Allah sean con él, en un mismo lugar cercano a él en la Jannah.
 
 <!-- terminology:end -->
 
@@ -364,7 +364,7 @@ Esa noche, Layla se topó sin querer con una lección que había escuchado antes
 
 Layla decidió no borrar su tablero mundano, pues aspirar a estudiar y a tener éxito es legítimo, pero añadió en un rincón privado de su cuaderno, que no enseñaría a nadie, la frase: «Mi primera meta: ser de la gente de `al-Firdaws`.» Y no escribió nada debajo para mostrar, sino que anotó un solo paso práctico, solo para ella misma: rezar el Fayr a su hora durante esta semana.
 
-Layla publicó su tablero mundano tal cual, sin exageración ni falsedad, pero entendió que la mayor esperanza de su vida no es la que se muestra en la pantalla, sino la que lleva en su prosternación privada, como Rabi'ah ibn Ka'b cuando pidió algo que nadie más había pedido.
+Layla publicó su tablero mundano tal cual, sin exageración ni falsedad, pero entendió que la mayor esperanza de su vida no es la que se muestra en la pantalla, sino la que lleva en su prosternación privada, como Rabi'ah ibn Ka'b cuando pidió lo más grande que se puede pedir.
 
 <!-- story:end -->
 
@@ -392,7 +392,7 @@ Fíjate en que el Profeta, que la paz y las bendiciones de Allah sean con él, p
 
 <!-- terminology:start source_id="muslim-489" -->
 
-- **`Murafaqatuka` (acompañarte)** — que la persona pida estar cerca del Profeta, que la paz y las bendiciones de Allah sean con él, en la Jannah, siendo una de las peticiones más grandes que se pueden hacer.
+- **`Murafaqataka` (acompañarte)** — que la persona pida estar cerca del Profeta, que la paz y las bendiciones de Allah sean con él, en la Jannah, siendo una de las peticiones más grandes que se pueden hacer.
 - **`al-Firdaws`** — la morada más alta y central de la Jannah, mencionada en el Corán vinculada a atributos prácticos, no solo al deseo.
 - **`Qurratu A'yun` (deleite de los ojos)** — una dicha que llena de alegría completa al corazón y a los ojos, mencionada en el Corán en el contexto de lo que se ha ocultado a la gente como recompensa por sus obras.
 
@@ -571,7 +571,7 @@ Escribe un párrafo privado (que no mostrarás a nadie) donde describas el mejor
 **Estudio de las pruebas — 12 minutos:** dos grupos leen la aleya de `Dar as-Salam` y el hadiz qudsi «lo que ningún ojo ha visto», y otros dos grupos leen la aleya de `al-Firdaws` y el hadiz de Rabi'ah ibn Ka'b. Cada grupo extrae: el atributo que revela su texto, y su relación con la exhibición pública o la ambición privada.
 
 <!-- lesson-plan:instruction -->
-**Enseñanza guiada — 13 minutos:** el maestro explica los términos `Murafaqatuka`, `al-Firdaws` y `Qurratu A'yun`, y discute cómo estos textos enfrentan la tentación de medir el valor por el número de vistas y de «me gusta».
+**Enseñanza guiada — 13 minutos:** el maestro explica los términos `Murafaqataka`, `al-Firdaws` y `Qurratu A'yun`, y discute cómo estos textos enfrentan la tentación de medir el valor por el número de vistas y de «me gusta».
 
 <!-- lesson-plan:activity -->
 **Actividad — 15 minutos:** los estudiantes escriben su párrafo privado sobre el mejor futuro que imaginan, luego el párrafo de reflexión y el paso privado, con la confirmación de que estas hojas son personales y no se recogerán ni se mostrarán.
@@ -592,7 +592,7 @@ Escribe un párrafo privado (que no mostrarás a nadie) donde describas el mejor
 ## Referencias
 
 [^1]: El Sagrado Corán, sura Yunus, aleya 25: [Texto coránico](https://quran.com/10/25).
-[^2]: Abu al-Fida Isma'il ibn Kazir, *Tafsir al-Qur'an al-'Azim*, comentario de la sura Yunus, aleya 25, sobre que `Dar as-Salam` es la Jannah, llamada así por estar a salvo de todo mal, carencia y desgracia: [El Corán electrónico de la Universidad Rey Saud](https://quran.ksu.edu.sa/tafseer/katheer/sura10-aya25.html); y Abu 'Abdallah al-Qurtubi, *Al-Yami' li-Ahkam al-Qur'an*, comentario de la sura Yunus, aleya 25, que transmite de Qatada y al-Hasan que as-Salam es Allah y Su morada es la Jannah, y afirma: «Generalizó la invitación para manifestar Su prueba y particularizó la guía, pues no tiene necesidad de Su creación»: [El Corán electrónico de la Universidad Rey Saud](https://quran.ksu.edu.sa/tafseer/qortobi/sura10-aya25.html).
+[^2]: Abu al-Fida Isma'il ibn Kazir, *Tafsir al-Qur'an al-'Azim*, comentario de la sura Yunus, aleya 25, sobre que `Dar as-Salam` es la Jannah, llamada así por estar a salvo de todo mal, carencia y desgracia: [El Corán electrónico de la Universidad Rey Saud](https://quran.ksu.edu.sa/tafseer/katheer/sura10-aya25.html); y Abu 'Abdallah al-Qurtubi, *Al-Yami' li-Ahkam al-Qur'an*, comentario de la sura Yunus, aleya 25, que transmite de Qatada y al-Hasan que as-Salam es Allah y Su morada es la Jannah, y afirma: «Generalizó la invitación para manifestar Su prueba y particularizó la guía, pues no tiene necesidad de Su creación»: [El Corán electrónico de la Universidad Rey Saud](https://quran.ksu.edu.sa/tafseer/qortobi/sura10-aya25.html); y Abu Ya'far Muhammad ibn Yarir at-Tabari, *Yami' al-Bayan 'an Ta'wil Ay al-Qur'an*, comentario de la sura Yunus, aleya 25, sobre que su gente está a salvo allí de las preocupaciones y las tristezas y a resguardo de que su dicha se acabe, y que transmite de Qatada: «Allah es as-Salam, y Su morada es la Jannah»: [El Corán electrónico de la Universidad Rey Saud](https://quran.ksu.edu.sa/tafseer/tabary/sura10-aya25.html).
 [^3]: El Sagrado Corán, sura al-Mu'minun, aleyas 10-11: [Texto coránico](https://quran.com/23/10-11); véase también Sahih al-Bujari, hadiz 2790, sobre que `al-Firdaws` es la parte más alta y central de la Jannah: [Sunnah.com, narración 2790](https://sunnah.com/bukhari:2790).
 [^4]: Sahih al-Bujari, hadiz 3244, y Sahih Muslim, hadiz 2824a, narrado por Abu Huraira, que Allah esté complacido con él; hadiz qudsi recogido por ambos (muttafaq 'alayh): [Sunnah.com, narración 3244](https://sunnah.com/bukhari:3244), [Sunnah.com, narración 2824a](https://sunnah.com/muslim:2824a). Incluye la cita de la sura as-Sayda, aleya 17: [Texto coránico](https://quran.com/32/17).
 [^5]: Sahih Muslim, hadiz 489, narrado por Rabi'ah ibn Ka'b al-Aslami, que Allah esté complacido con él, sobre su petición de acompañar al Profeta, que la paz y las bendiciones de Allah sean con él, en la Jannah, y su guía hacia la abundancia de prosternaciones: [Sunnah.com, narración 489](https://sunnah.com/muslim:489).

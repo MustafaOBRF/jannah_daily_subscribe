@@ -81,7 +81,7 @@ In this promise, the one who builds is Allah: "Allah will build for him." The bu
 
 #### Scholarly Explanation
 
-*Al-labin* is brick made of sun-dried mud; *al-jarid* is the stripped fronds of the date palm; *al-qassah* is plaster (gypsum); and *as-saj* (teak) is a well-known wood brought from distant lands.[^9]
+*Al-labin* is brick made of sun-dried mud; *al-jarid* is the stripped fronds of the date palm; *al-qassah* is plaster (gypsum); and *as-saj* (teak) is a well-known wood brought from India.[^9]
 
 #### Lesson Explanation
 
@@ -117,7 +117,7 @@ The word `built` (*mabniyyah*) is a Qur'anic statement that Jannah holds real bu
 
 <!-- evidence:translation -->
 
-> On the authority of Abu Musa al-Ash'ari, may Allah be pleased with him, the Messenger of Allah, peace and blessings be upon him, said: **"Two gardens of silver, their vessels and all that is in them; and two gardens of gold, their vessels and all that is in them. And nothing stands between the people and their looking upon their Lord except the cloak of Grandeur over His Face, in the Garden of Eden ('Adn)."**[^6]
+> On the authority of Abu Musa al-Ash'ari, may Allah be pleased with him, the Messenger of Allah, peace and blessings be upon him, said: **"Two gardens of silver, their vessels and all that is in them; and two gardens of gold, their vessels and all that is in them. And nothing stands between the people and their looking upon their Lord except the cloak of Grandeur over His Face, in Jannat 'Adn."**[^6]
 
 #### Lesson Explanation
 
@@ -137,7 +137,7 @@ The word `built` (*mabniyyah*) is a Qur'anic statement that Jannah holds real bu
 
 #### Scholarly Explanation
 
-At-Tirmidhi said: "Its chain is not that strong, and in my view it is not connected." Ahmad Shakir and al-Albani graded it authentic on the strength of its combined chains, while others graded it weak.[^7] *Al-milat* (mortar) is what is laid between bricks to hold them together.
+At-Tirmidhi said: "Its chain is not that strong, and in my view it is not connected." Ahmad Shakir and al-Albani graded it authentic, while others graded it weak.[^7] *Al-milat* (mortar) is what is laid between bricks to hold them together.
 
 #### Lesson Explanation
 
@@ -603,7 +603,7 @@ Meaning: O Allah, purify our intentions so that our work is for You alone, not f
 [^4]: As-Sa'di, *Taysir al-Karim al-Rahman fi Tafsir Kalam al-Mannan*, tafsir of Surah az-Zumar, ayah 20: [quran.ksu.edu.sa/tafseer/saadi/sura39-aya20.html](https://quran.ksu.edu.sa/tafseer/saadi/sura39-aya20.html).
 [^5]: Ibn Kathir, *Tafsir al-Qur'an al-'Azim*, tafsir of Surah az-Zumar, ayah 20: [quran.ksu.edu.sa/tafseer/katheer/sura39-aya20.html](https://quran.ksu.edu.sa/tafseer/katheer/sura39-aya20.html).
 [^6]: Sahih al-Bukhari, Book of Tafsir, Chapter on `And besides these two, there are two other gardens`, hadith 4878, narrated by Abu Bakr ibn Abdullah ibn Qays from his father, Abu Musa al-Ash'ari, may Allah be pleased with him; authentic: [sunnah.com/bukhari:4878](https://sunnah.com/bukhari:4878). Muslim also narrated it in the Book of Faith (*al-Iman*), hadith 180: [sunnah.com/muslim:180](https://sunnah.com/muslim:180).
-[^7]: Jami' at-Tirmidhi, Chapters on the Description of Jannah, Chapter on What Has Come Regarding the Description of Jannah and Its Bliss, hadith 2526, from Abu Hurayrah, may Allah be pleased with him: [sunnah.com/tirmidhi:2526](https://sunnah.com/tirmidhi:2526). Only the relevant portion is given here; the marked omission covers its beginning (the Companions' question to the Prophet, peace and blessings be upon him, about how tender their hearts were in his presence, and about what creation was made from), and its end (the three whose supplication is not turned back) has also been left out. These omissions do not change the meaning of the portion quoted. At-Tirmidhi said: "This is a hadith whose chain is not that strong, and in my view it is not connected; this hadith has also been narrated through another chain from Abu Hurayrah." Ahmad Shakir and al-Albani graded it authentic on the strength of its combined chains, while Zubayr Ali Za'i graded it weak. The editor's footnotes to *Hadi al-Arwah* (Ata'at al-'Ilm edition, Chapter 34) note that the route in Ahmad's collection turns on Abu al-Mudillah, whom Ibn al-Madini considered an unknown narrator: [shamela.ws/book/13652/333](https://shamela.ws/book/13652/333). For this reason, it has not been relied on in this lesson as primary evidence. Likewise, the reports detailing the walls of Jannah that Abu Nu'aym cites in *Sifat al-Jannah* (Chapter on the Description of the Walls of Jannah), and that Ibn Abi al-Dunya cites, have not been relied on.
+[^7]: Jami' at-Tirmidhi, Chapters on the Description of Jannah, Chapter on What Has Come Regarding the Description of Jannah and Its Bliss, hadith 2526, from Abu Hurayrah, may Allah be pleased with him: [sunnah.com/tirmidhi:2526](https://sunnah.com/tirmidhi:2526). Only the relevant portion is given here; the marked omission covers its beginning (the Companions' question to the Prophet, peace and blessings be upon him, about how tender their hearts were in his presence, and about what creation was made from), and its end (the three whose supplication is not turned back) has also been left out. These omissions do not change the meaning of the portion quoted. At-Tirmidhi said: "This is a hadith whose chain is not that strong, and in my view it is not connected; this hadith has also been narrated through another chain from Abu Hurayrah." Ahmad Shakir and al-Albani graded it authentic, while Zubayr Ali Za'i graded it weak. The editor's footnotes to *Hadi al-Arwah* (Ata'at al-'Ilm edition, Chapter 34) note that the route in Ahmad's collection turns on Abu al-Mudillah, whom Ibn al-Madini considered an unknown narrator: [shamela.ws/book/13652/333](https://shamela.ws/book/13652/333). For this reason, it has not been relied on in this lesson as primary evidence. Likewise, the reports detailing the walls of Jannah that Abu Nu'aym cites in *Sifat al-Jannah* (Chapter on the Description of the Walls of Jannah), and that Ibn Abi al-Dunya cites, have not been relied on.
 [^8]: An-Nawawi, *al-Minhaj Sharh Sahih Muslim ibn al-Hajjaj*, Book of Mosques and Places of Prayer, Chapter on the Virtue of Building Mosques and Encouragement to Do So, commentary on hadith 533, on the two possible meanings of "the like of it."
 [^9]: Ibn Hajar al-'Asqalani, *Fath al-Bari Sharh Sahih al-Bukhari*, Book of Prayer, Chapter on Building the Mosque, commentary on hadith 446, on the meaning of *al-qassah* (plaster) and *as-saj* (teak); and Ibn al-Athir, *al-Nihayah fi Gharib al-Hadith wa al-Athar*, entries "l-b-n" and "s-w-j."
 

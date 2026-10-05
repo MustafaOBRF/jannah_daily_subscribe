@@ -10,7 +10,7 @@ story_policy: "rotating_primary_with_authenticated_account_v2"
 primary_story_type: "creative"
 primary_story_source_id: "lesson-authored:lesson.010.primary"
 primary_story_authenticated: "false"
-authenticated_account_id: "muslim-2816c"
+authenticated_account_id: "muslim-2816g"
 activity_concept_id: "lesson.010.activity.claim-classify-repair"
 bedtime_dua_id: "lesson.010.dua.mercy-deeds-jannah"
 ---
@@ -22,7 +22,7 @@ bedtime_dua_id: "lesson.010.dua.mercy-deeds-jannah"
 After this lesson, the learner will be able to:
 
 - Distinguish between deeds as a commanded cause and deeds imagined as a price equal to Jannah, or a right the servant imposes on his Lord.
-- Reconcile `fadlan min rabbik` ("a grace from your Lord," ad-Dukhan) and `bima kuntum ta'maloon` ("for what you used to do," al-A'raf) without contradiction, showing that the ba' in each is a ba' of causation, not exchange.
+- Reconcile `fadlan min rabbik` ("a grace from your Lord," ad-Dukhan) and `bima kuntum ta'maloon` ("for what you used to do," al-A'raf) without contradiction, showing that the ba' in `bima kuntum ta'maloon` is a ba' of causation, that the ba' negated in the hadith's `bi-'amalihi` ("by his deeds") is a ba' of exchange, and that the whole triumph is grace from Allah.
 - Narrate the hadith "Draw near and aim aright," and explain how it shows no one is saved by his deeds alone — not even the Prophet, peace and blessings be upon him — except by Allah's mercy and grace.
 - Identify the three conditions of the heart this understanding guards against: self-admiration, complacency, and despair, and recognize each in a given statement or scenario.
 - Classify a statement about deeds and Jannah as sound, incomplete, or false, and repair the incomplete or false one by anchoring it to evidence from the three texts.
@@ -89,7 +89,7 @@ The servant truly acts, is held accountable for his choice, and hopes for reward
 
 <!-- evidence:end -->
 
-<!-- evidence:start id="muslim-2816c" kind="hadith" mode="canonical" -->
+<!-- evidence:start id="muslim-2816g" kind="hadith" mode="canonical" -->
 
 ### Aiming Aright While Depending on Mercy
 
@@ -168,9 +168,9 @@ On the way home, Adam said, "I'm happy Allah helped us do good. I'll keep workin
 
 ### A True Story: Even the Messenger of Allah Hopes for Mercy
 
-<!-- story:start audience="4-7" role="authenticated" type="hadith" source_id="muslim-2816c" authenticated="true" -->
+<!-- story:start audience="4-7" role="authenticated" type="hadith" source_id="muslim-2816g" authenticated="true" -->
 
-<!-- retelling:start source_id="muslim-2816c" audience="4-7" -->
+<!-- retelling:start source_id="muslim-2816g" audience="4-7" -->
 
 The Prophet, peace and blessings be upon him, told his Companions: try to do what's right, and get as close to it as you can. Then he taught them that deeds alone cannot save a person without Allah's mercy. So they asked him, "Not even you, O Messenger of Allah?" He said that even he would not be saved unless Allah surrounded him with His mercy and grace.[^5]
 
@@ -256,9 +256,9 @@ Yasir apologized to him, erased the rankings, and made the board show what the p
 
 ### The Hadith Story: A Bold Question, an Answer That Teaches Humility
 
-<!-- story:start audience="8-12" role="authenticated" type="hadith" source_id="muslim-2816c" authenticated="true" -->
+<!-- story:start audience="8-12" role="authenticated" type="hadith" source_id="muslim-2816g" authenticated="true" -->
 
-<!-- retelling:start source_id="muslim-2816c" audience="8-12" -->
+<!-- retelling:start source_id="muslim-2816g" audience="8-12" -->
 
 The Prophet, peace and blessings be upon him, directed his Companions to two things: aim for what is right, and give your utmost to get close to it. Then he told them that no one is saved by his deeds alone. The question that followed was an important one: "Not even you, O Messenger of Allah?" He answered that even he would not be saved unless Allah enveloped him in mercy and grace.[^5]
 
@@ -272,7 +272,7 @@ The order of the hadith shows that Allah's mercy is not an excuse for laziness �
 
 <!-- unit:start id="8-12.terms" kind="terms" -->
 
-<!-- terminology:start source_id="muslim-2816c" -->
+<!-- terminology:start source_id="muslim-2816g" -->
 
 - **`saddidu`** ("aim aright") — intend correctness and uprightness in your deeds.
 - **`qaribu`** ("draw near") — if you cannot reach perfection, get close to it sincerely and never give up.
@@ -357,9 +357,9 @@ He rewrote the post to thank the team and mention the families' need, deleting h
 
 ### A Prophetic Moment That Dismantles the Illusion of Entitlement
 
-<!-- story:start audience="13+" role="authenticated" type="hadith" source_id="muslim-2816c" authenticated="true" -->
+<!-- story:start audience="13+" role="authenticated" type="hadith" source_id="muslim-2816g" authenticated="true" -->
 
-<!-- retelling:start source_id="muslim-2816c" audience="13+" -->
+<!-- retelling:start source_id="muslim-2816g" audience="13+" -->
 
 In Abu Hurayrah's hadith, may Allah be pleased with him, the Prophet, peace and blessings be upon him, offered no comfortable formula for either extreme. He said, `qaribu wa saddidu` ("draw near and aim aright"), affirming responsibility and striving together. Then he said no one would be saved by deeds alone, and the Companions immediately moved to the strongest case imaginable: the Messenger of Allah himself. They asked, "Not even you?" The answer was clear: "Not even me, unless Allah envelops me in mercy and grace from Himself."[^5]
 
@@ -373,7 +373,7 @@ The question and answer prevent building a religious identity on superiority ove
 
 <!-- unit:start id="13+.terms" kind="terms" -->
 
-<!-- terminology:start source_id="muslim-2816c" -->
+<!-- terminology:start source_id="muslim-2816g" -->
 
 - **Ba' of causation** — indicates the deed is a path and cause upon which Allah based His reward.
 - **Ba' of exchange** — indicates matching one thing for another, like a price for goods; this is the meaning denied in the relationship between deeds and Jannah.
@@ -389,7 +389,7 @@ The question and answer prevent building a religious identity on superiority ove
 
 1. How can belief in accountability coexist with denying independent entitlement?
 2. Why is it wrong to use this hadith to diminish the value of deeds?
-3. What is the difference between hoping for mercy and feeling secure from Allah's plan?
+3. What is the difference between hoping for mercy and feeling safe from Allah's plan (al-amn min makr Allah)?
 4. How does the Prophet's answer, peace and blessings be upon him, address religious comparison with others?
 5. What balanced sentence can you say to yourself after a good deed, and after a sin you repented from?
 
@@ -575,10 +575,10 @@ Analyze three cases: someone who looks down on others because of his worship, so
 
 ## References
 
-[^1]: The Noble Qur'an, Surah ad-Dukhan, ayahs 51-57: [Qur'anic text](https://quran.com/44/51-57).
+[^1]: The Noble Qur'an, Surah ad-Dukhan, ayahs 51-57: [Qur'anic text](https://quran.com/44/51-57). The English rendering of the ayahs is a meaning-based project translation.
 [^2]: 'Abd ar-Rahman ibn Nasir as-Sa'di, *Taysir al-Karim ar-Rahman*, commentary on Surah ad-Dukhan, ayah 57, explaining that salvation and bliss are grace and favor from Allah: [King Saud University Digital Mushaf](https://quran.ksu.edu.sa/tafseer/saadi/sura44-aya57.html).
-[^3]: The Noble Qur'an, Surah al-A'raf, ayah 43: [Qur'anic text](https://quran.com/7/43).
-[^4]: Ibn Qayyim al-Jawziyyah, *Hadi al-Arwah ila Bilad al-Afrah*, chapter nineteen, on reconciling entry into Jannah by deeds with entry by Allah's mercy, distinguishing the ba' of exchange from the ba' of causation: [al-Maktaba ash-Shamila](https://shamela.ws/book/13652/229).
-[^5]: Sahih Muslim, Book of the Description of the Day of Resurrection, Paradise, and Hell, hadith 2816, narrated by Abu Hurayrah, may Allah be pleased with him, and it is an authentic hadith: [Sunnah.com, narration 2816g](https://sunnah.com/muslim:2816g).
+[^3]: The Noble Qur'an, Surah al-A'raf, ayah 43: [Qur'anic text](https://quran.com/7/43). The English rendering of the ayah is a meaning-based project translation.
+[^4]: Ibn Qayyim al-Jawziyyah, *Hadi al-Arwah ila Bilad al-Afrah*, Chapter Nineteen ("On the Lord's offering of His merchandise, Jannah, to His servants, and its price..."), in the section where he reconciles entry into Jannah by deeds with entry by Allah's mercy, distinguishing the negated ba' of exchange from the affirmed ba' of causation (Ata'at al-Ilm edition, 1:176-177): [al-Maktaba ash-Shamila](https://shamela.ws/book/13652/230).
+[^5]: Sahih Muslim, Book of the Description of the Day of Resurrection, Paradise, and Hell, hadith 2816, narrated by Abu Hurayrah, may Allah be pleased with him, and it is an authentic hadith: [Sunnah.com, narration 2816g](https://sunnah.com/muslim:2816g). The English is a meaning-based project translation.
 
 <!-- references:end -->

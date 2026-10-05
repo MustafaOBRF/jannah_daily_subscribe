@@ -66,7 +66,7 @@ Ibn Kazir citó también, al comentar esta aleya, un hadiz que dice: "No hay ma�
 
 #### Explicación de la lección
 
-Los exégetas coinciden en que en el Paraíso no hay oscuridad, y difieren en la forma que allí toma el tiempo; el "cómo" pertenece a lo oculto, a aquello que {el Misericordioso prometió a Sus siervos sin que lo hayan visto}. Lo llamativo es que el pasaje, que empieza con unos que echaron a perder la oración —una adoración sujeta a horas—, termina con una delicia que también tiene sus horas: a quien guarda su tiempo para Allah aquí, se le promete allí un tiempo sin cansancio y sin noche. Esta conexión es una reflexión pedagógica propia de la lección, no una interpretación transmitida.
+Los exégetas coinciden en que en el Paraíso no hay oscuridad, y difieren en la forma que allí toma el tiempo; el "cómo" pertenece a lo oculto, a los Jardines {que el Misericordioso prometió a Sus siervos sin que los hayan visto}. Lo llamativo es que el pasaje, que empieza con unos que echaron a perder la oración —una adoración sujeta a horas—, termina con una delicia que también tiene sus horas: a quien guarda su tiempo para Allah aquí, se le promete allí un tiempo sin cansancio y sin noche. Esta conexión es una reflexión pedagógica propia de la lección, no una interpretación transmitida.
 
 <!-- evidence:end -->
 
@@ -106,7 +106,7 @@ Que glorifiquen a Allah mañana y tarde no es una carga pesada, sino una delicia
 
 #### Interpretación académica
 
-`Al-bardan` ("las dos frescas") son la oración del alba (al-fayr) y la oración de la tarde (al-'asr). Se llaman así porque se rezan en los dos frescores del día, es decir, en sus dos extremos, cuando el aire se vuelve agradable.[^5]
+`Al-bardan` (en el hadiz, en la forma al-bardain; "las dos frescas") son la oración del alba (al-fayr) y la oración de la tarde (al-'asr). Se llaman así porque se rezan en los dos frescores del día, es decir, en sus dos extremos, cuando el aire se vuelve agradable.[^5]
 
 #### Explicación de la lección
 
@@ -168,7 +168,7 @@ Y el Profeta, la paz y las bendiciones de Allah sean con él, nos contó que la 
 
 **Esta es una historia verdadera del Noble Corán; no es una historia inventada.**
 
-En la sura Maryam, Allah nos habla de unos profetas buenísimos que lo amaban muchísimo. Cuando oían las palabras de Allah, se prosternaban, con la frente en el suelo, y lloraban de tanto amor a Allah y de tanto respeto por Él.[^1]
+En la sura Maryam, Allah nos habla de unos profetas buenísimos que lo amaban muchísimo. Cuando oían las palabras de Allah, se prosternaban, con la frente en el suelo, y lloraban de tanto amor a Allah y de tanto respeto por Él.[^1][^2]
 
 <!-- retelling:start source_id="quran-19-58-63" audience="4-7" -->
 
@@ -262,7 +262,7 @@ En esta lección aprendemos que el tiempo en este mundo es algo que Allah nos ha
 
 **Esta es una historia verdadera del Noble Corán; las explicaciones que contiene son palabras de los exégetas.**
 
-La sura Maryam se reveló en Meca y habla de muchos profetas: Zakariya, Yahya, Ibrahim, Musa, Harun, Isma'il e Idris, la paz sea con todos ellos. Y luego los reúne a todos en una sola aleya: cuando se les recitaban las aleyas del Misericordioso, caían prosternados, llorando.[^1]
+La sura Maryam se reveló en Meca y habla de muchos profetas, entre ellos Zakariya, Yahya, Isa, Ibrahim, Ishaq, Ya'qub, Musa, Harun, Isma'il e Idris, la paz sea con todos ellos. Y luego los describe en una sola aleya que, como explicó Ibn Kazir, se refiere a todos los profetas y no solo a los nombrados en la sura: cuando se les recitaban las aleyas del Misericordioso, caían prosternados, llorando.[^1]
 
 <!-- retelling:start source_id="quran-19-58-63" audience="8-12" -->
 
@@ -566,9 +566,9 @@ Está confirmado que el Profeta, la paz y las bendiciones de Allah sean con él,
 ## Referencias
 
 [^1]: El Noble Corán, sura Maryam, aleyas 58-63: [quran.com/19/58-63](https://quran.com/19/58-63). La traducción al español de las aleyas es una traducción de sentido elaborada para este proyecto. Tafsir de Ibn Kazir sobre las aleyas 58 y 59 (incluye el dicho de Ibn Mas'ud "En sus horas", las palabras de Umar ibn Abd al-Aziz y la explicación de "la perdición" (gayy) según Ibn Abbas y Qatada), 60, 61, 62 (incluye las palabras de Qatada, Zuhair ibn Muhammad, Muyahid y al-Hasan, la cita del hadiz "El primer grupo" y el hadiz "No hay mañana de entre las mañanas del Paraíso", del que Ibn Abi Hatim dijo: "Es un hadiz munkar") y 63: [quran.ksu.edu.sa/tafseer/katheer/sura19-aya58.html](https://quran.ksu.edu.sa/tafseer/katheer/sura19-aya58.html), [quran.ksu.edu.sa/tafseer/katheer/sura19-aya59.html](https://quran.ksu.edu.sa/tafseer/katheer/sura19-aya59.html), [quran.ksu.edu.sa/tafseer/katheer/sura19-aya60.html](https://quran.ksu.edu.sa/tafseer/katheer/sura19-aya60.html), [quran.ksu.edu.sa/tafseer/katheer/sura19-aya61.html](https://quran.ksu.edu.sa/tafseer/katheer/sura19-aya61.html), [quran.ksu.edu.sa/tafseer/katheer/sura19-aya62.html](https://quran.ksu.edu.sa/tafseer/katheer/sura19-aya62.html) y [quran.ksu.edu.sa/tafseer/katheer/sura19-aya63.html](https://quran.ksu.edu.sa/tafseer/katheer/sura19-aya63.html).
-[^2]: As-Sa'di, *Taysir al-Karim ar-Rahman fi Tafsir Kalam al-Mannan*, tafsir de la sura Maryam, aleyas 59 y 62: [quran.ksu.edu.sa/tafseer/saadi/sura19-aya59.html](https://quran.ksu.edu.sa/tafseer/saadi/sura19-aya59.html) y [quran.ksu.edu.sa/tafseer/saadi/sura19-aya62.html](https://quran.ksu.edu.sa/tafseer/saadi/sura19-aya62.html).
+[^2]: As-Sa'di, *Taysir al-Karim ar-Rahman fi Tafsir Kalam al-Mannan*, tafsir de la sura Maryam, aleyas 58 (incluye que las aleyas despertaron en sus corazones tal fe, anhelo y temor que los movieron al llanto), 59 y 62: [quran.ksu.edu.sa/tafseer/saadi/sura19-aya58.html](https://quran.ksu.edu.sa/tafseer/saadi/sura19-aya58.html), [quran.ksu.edu.sa/tafseer/saadi/sura19-aya59.html](https://quran.ksu.edu.sa/tafseer/saadi/sura19-aya59.html) y [quran.ksu.edu.sa/tafseer/saadi/sura19-aya62.html](https://quran.ksu.edu.sa/tafseer/saadi/sura19-aya62.html).
 [^3]: Al-Bagawi, *Ma'alim at-Tanzil*, tafsir de la sura Maryam, aleya 62 (el sentido de "lagw", lo que dijeron los exégetas sobre la mañana y la tarde, y la opinión de que se refiere a una vida holgada): [quran.ksu.edu.sa/tafseer/baghawy/sura19-aya62.html](https://quran.ksu.edu.sa/tafseer/baghawy/sura19-aya62.html).
-[^4]: Sahih al-Bujari, Libro del comienzo de la creación (Kitab Bad' al-Jalq), hadiz 3245, transmitido por Hammam ibn Munabbih de Abu Huraira, que Allah esté complacido con él; auténtico (sahih): [sunnah.com/bukhari:3245](https://sunnah.com/bukhari:3245). En el hadiz siguiente (3246), por la vía de al-A'ray de Abu Huraira, con un texto similar, seguido de las palabras de Muyahid sobre al-ibkar y al-'ashiyy: [sunnah.com/bukhari:3246](https://sunnah.com/bukhari:3246). También lo recoge Muslim, con un texto similar, en el Libro del Paraíso, la descripción de sus delicias y de su gente (hadiz 2834 según la numeración de Muhammad Fu'ad Abd al-Baqi): [sunnah.com/muslim:2834a](https://sunnah.com/muslim:2834a). La traducción al español es una traducción de sentido elaborada para este proyecto.
+[^4]: Sahih al-Bujari, Libro del comienzo de la creación (Kitab Bad' al-Jalq), hadiz 3245, transmitido por Hammam ibn Munabbih de Abu Huraira, que Allah esté complacido con él; auténtico (sahih): [sunnah.com/bukhari:3245](https://sunnah.com/bukhari:3245). En el hadiz siguiente (3246), por la vía de al-A'ray de Abu Huraira, con un texto similar, seguido de las palabras de Muyahid sobre al-ibkar y al-'ashiyy: [sunnah.com/bukhari:3246](https://sunnah.com/bukhari:3246). También lo recoge Muslim, con un texto similar, en el Libro del Paraíso, la descripción de sus delicias y de su gente (hadiz 2834 según la numeración de Muhammad Fu'ad Abd al-Baqi): [sunnah.com/muslim:2834e](https://sunnah.com/muslim:2834e). La traducción al español es una traducción de sentido elaborada para este proyecto.
 [^5]: Sahih al-Bujari, Libro de las horas de la oración (Kitab Mawaqit as-Salat), hadiz 574, transmitido por Abu Bakr ibn Abi Musa de su padre, Abu Musa al-Ash'ari, que Allah esté complacido con él; auténtico (sahih): [sunnah.com/bukhari:574](https://sunnah.com/bukhari:574). También lo recoge Muslim en el Libro de las mezquitas y los lugares de oración, capítulo del mérito de las oraciones del alba y de la tarde y de su observancia, hadiz 635: [sunnah.com/muslim:635](https://sunnah.com/muslim:635). La explicación de "al-bardan" como las oraciones del alba y de la tarde procede del comentario de Ibn Hayar en *Fath al-Bari* a este hadiz, en el Libro de las horas de la oración. La traducción al español es una traducción de sentido elaborada para este proyecto.
 [^6]: Sahih al-Bujari, Libro de las súplicas (Kitab ad-Da'awat), hadiz 6324, transmitido por Rib'i ibn Hirash de Hudaifa ibn al-Yaman, que Allah esté complacido con él; auténtico (sahih): [sunnah.com/bukhari:6324](https://sunnah.com/bukhari:6324). En el hadiz 6312 aparece con la redacción "بِاسْمِكَ أَمُوتُ وَأَحْيَا", y en el hadiz 7394 con la redacción "اللَّهُمَّ بِاسْمِكَ أَحْيَا وَأَمُوتُ": [sunnah.com/bukhari:6312](https://sunnah.com/bukhari:6312) y [sunnah.com/bukhari:7394](https://sunnah.com/bukhari:7394). La traducción al español es una traducción de sentido elaborada para este proyecto.
 

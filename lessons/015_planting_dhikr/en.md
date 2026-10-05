@@ -1,5 +1,5 @@
 ---
-title: "The Plantings of Paradise and Its Remembrances"
+title: "The Plantings of Paradise and the Remembrance That Grows Them"
 lesson_id: "lesson.015"
 topic_id: "jannah.015"
 translation_key: "jannah.planting_dhikr"
@@ -15,18 +15,18 @@ activity_concept_id: "lesson.015.activity.dhikr-tally-garden"
 bedtime_dua_id: "lesson.015.dua.dhikr-lasting-good"
 ---
 
-# The Plantings of Paradise and Its Remembrances
+# The Plantings of Paradise and the Remembrance That Grows Them
 
 ## Lesson Objectives And Outcomes
 
 After this lesson, the learner will be able to:
 
 - Explain the hadith "Two words beloved to the Most Merciful, light on the tongue, heavy on the scale," and show that the heaviness meant here is the heaviness of value and reward, not the heaviness of physical effort.
-- Connect the ayah `And the lasting good deeds are better with your Lord for reward and better for [one's] hope` (Al-Kahf 18:46) to Ibn Kathir's tafsir, which explains the lasting good deeds as the five phrases, including glorifying and praising Allah.
-- Recount the hadith "Whoever says: Subhan Allah wa bihamdih, a palm tree is planted for him in Paradise," and show that this planting is real and unseen, not restricted to any specific number of times.
+- Connect the ayah `And the lasting good deeds are better with your Lord for reward and better for [one's] hope` (Al-Kahf 18:46) to the interpretation Ibn Kathir reports of the lasting good deeds as the five phrases, including glorifying and praising Allah, while recognizing that the ayah also covers all other righteous deeds.
+- Recount the hadith "Whoever says: Subhan Allah al-Azim wa bihamdih, a palm tree is planted for him in Paradise," and show, as the hadith commentators explain, that a palm tree is planted each time it is said, and that this planting belongs to the unseen and is not restricted to any specific number.
 - Distinguish between three ways people go wrong with easy remembrance: belittling it because it is small, being heedless of its meaning while repeating it, and abandoning it after starting.
 - Distinguish between measuring the value of a deed by how visible it is or how much effort it costs, and the correct measure — sincerity of heart and consistency of habit — as shown in the stories of Sami, Huda, and Karim.
-- Practice a daily habit of saying "Subhan Allah wa bihamdih" during repeated moments not usually counted as deeds, tracking the count and connecting it to the three pieces of evidence (the ayah of Al-Kahf, the hadith of Abu Hurairah, and the hadith of Jabir).
+- Practice a daily habit of saying "Subhan Allah al-Azim wa bihamdih" during repeated moments not usually counted as deeds, tracking the count and connecting it to the three pieces of evidence (the ayah of Al-Kahf, the hadith of Abu Hurairah, and the hadith of Jabir).
 
 ## Academic Section for Adults
 
@@ -34,7 +34,7 @@ After this lesson, the learner will be able to:
 
 <!-- unit:start id="adults.explanation" kind="explanation" -->
 
-People tend to judge a good deed by how much effort it took, assuming that a great reward can only come from something long or difficult. But revelation discloses a different economy of reward: a short remembrance, easy on the tongue, may be heavy on the scale and lasting in its effect, its reward continuing even after the one who said it has left this world. The phrase `Subhan Allah wa bihamdih` ("Glory be to Allah, and praise be to Him") costs almost no effort at all, and yet every time it is said sincerely, a real palm tree is planted for its speaker in Paradise.
+People tend to judge a good deed by how much effort it took, assuming that a great reward can only come from something long or difficult. But revelation discloses a different economy of reward: a short remembrance, easy on the tongue, may be heavy on the scale, its reward lasting and kept safe with Allah. The phrase `Subhan Allah al-Azim wa bihamdih` ("Glory be to Allah, the Magnificent, and praise be to Him") costs almost no effort at all, and yet every time it is said sincerely, a real palm tree is planted for its speaker in Paradise.
 
 This understanding protects the heart from three deviations:
 
@@ -62,7 +62,7 @@ For this reason, this lesson brings together the ease of the words, the magnitud
 
 #### Scholarly Tafsir
 
-Ibn Kathir mentions in his tafsir of this ayah that a group of the Companions and the Followers, among them Uthman ibn Affan, may Allah be pleased with him, and Sa'id ibn al-Musayyib, may Allah have mercy on him, explained `the lasting good deeds` as the five phrases: `La ilaha illallah` ("There is no god but Allah"), `Subhan Allah` ("Glory be to Allah"), `Al-hamdu lillah` ("Praise be to Allah"), `Allahu Akbar` ("Allah is the Greatest"), and `La hawla wa la quwwata illa billah` ("There is no might and no power except by Allah"). This interpretation was also reported with a chain going back to the Prophet, peace and blessings be upon him, in a number of narrations.[^2]
+In his tafsir of this ayah, Ibn Kathir reports the early scholars' views on `the lasting good deeds`. He cites Ibn Abbas, Sa'id ibn Jubayr, and others as saying they are the five daily prayers, and he reports from a group of the Companions and the Followers, among them Uthman ibn Affan, may Allah be pleased with him, and Sa'id ibn al-Musayyib, may Allah have mercy on him, that they are the five phrases: `La ilaha illallah` ("There is no god but Allah"), `Subhan Allah` ("Glory be to Allah"), `Al-hamdu lillah` ("Praise be to Allah"), `Allahu Akbar` ("Allah is the Greatest"), and `La hawla wa la quwwata illa billah` ("There is no might and no power except by Allah"). Hadiths attributed to the Prophet, peace and blessings be upon him, have also been reported to this effect. He then mentions the view of Abd al-Rahman ibn Zayd ibn Aslam that they are all righteous deeds, and notes that Ibn Jarir at-Tabari preferred it. So the five phrases are among the finest things the ayah includes, not the whole of it.[^2]
 
 #### Lesson Explanation
 
@@ -82,7 +82,7 @@ The ayah contrasts the outward, fading adornment of this world with the lasting 
 
 #### Scholarly Explanation
 
-The hadith brings together two descriptions a person might assume contradict one another: lightness on the tongue, and heaviness on the scale. Scholars have explained that the heaviness here is the heaviness of value and reward, not the heaviness of physical effort; the words leave the tongue effortlessly, and Allah, purely out of His grace, gives them immense weight on the scale.
+The hadith brings together two descriptions a person might assume contradict one another: lightness on the tongue, and heaviness on the scale. Scholars have explained that the heaviness here is the heaviness of value and reward, not the heaviness of physical effort; the words leave the tongue effortlessly, and Allah places them on the scale with an immense measure of His grace.
 
 #### Lesson Explanation
 
@@ -102,7 +102,7 @@ This hadith demolishes the idea that reward is measured by how tiring a deed is.
 
 #### Scholarly Explanation
 
-The planting here is real, not merely symbolic; it belongs to the unseen matters that we believe in as they have come to us, without imagining it as an exact copy of anything on earth. The hadith does not restrict the reward to any specific number, so every sincere glorification is a separate cause of a new planting, through the vastness of Allah's mercy and grace.
+Al-Mubarakfuri explains the words "a palm tree is planted for him" in *Tuhfat al-Ahwadhi*: "that is, a palm tree is planted for him each time." The hadith does not restrict the reward to any specific number, and each time a servant says it becomes a cause of a new planting, through the vastness of Allah's mercy and grace.[^5] In this lesson we take the planting at face value, not as a mere figure of speech; it belongs to the unseen matters that we believe in as they have come to us, without imagining it as an exact copy of anything on earth.
 
 #### Lesson Explanation
 
@@ -129,7 +129,7 @@ This hadith links an easy phrase to a lasting effect that grows in an abode that
 
 <!-- activity:start audience="adults" concept_id="lesson.015.activity.dhikr-tally-garden" -->
 
-Choose three recurring moments in your day that you do not normally count as a deed (such as waiting, commuting, or a routine chore), and commit to saying `Subhan Allah wa bihamdih` during them with a present heart. For three days, record the number of times in each moment on a simple chart, then total the count at the end of the third day, and write two lines describing how this number changed your view of the "smallness" of this remembrance, citing one of the three pieces of evidence.
+Choose three recurring moments in your day that you do not normally count as a deed (such as waiting, commuting, or a routine chore), and commit to saying `Subhan Allah al-Azim wa bihamdih` during them with a present heart. For three days, record the number of times in each moment on a simple chart, then total the count at the end of the third day, and write two lines describing how this number changed your view of the "smallness" of this remembrance, citing one of the three pieces of evidence.
 
 <!-- activity:end -->
 
@@ -143,7 +143,7 @@ Choose three recurring moments in your day that you do not normally count as a d
 
 ## For Children Ages 4 to 7
 
-When we say: **Subhan Allah wa bihamdih**, Allah tells us that He plants a palm tree for us in Paradise! These words are small and easy, but their reward with Allah is very great. Let's say it often, with our hearts thinking about its meaning: Allah is free of every flaw, and all praise belongs to Him.
+The Prophet, peace and blessings be upon him, told us that when we say: **Subhan Allah al-Azim wa bihamdih**, Allah plants a palm tree for us in Paradise! These words are small and easy, but their reward with Allah is very great. Let's say it often, with our hearts thinking about its meaning: Allah, the Magnificent, is free of every flaw, and all praise belongs to Him.
 
 <!-- unit:end -->
 
@@ -157,9 +157,9 @@ When we say: **Subhan Allah wa bihamdih**, Allah tells us that He plants a palm 
 
 Grandma gave Sami a tiny little seed, so small he could barely see it, and told him, "Plant it in the garden." Sami looked at his sister's big pot full of roses and said, "My seed is so small — it won't turn into anything much!" But he planted it anyway, just as his grandmother had asked.
 
-That evening, as he got ready for bed, his father said to him, "Did you know that every time you say: Subhan Allah wa bihamdih, Allah plants a palm tree for you in Paradise?" Sami was amazed. "Such small words make a huge palm tree?!" His father said, "Yes — just like your tiny seed that will grow big one day, but the palm tree of Paradise is even greater and never dies."
+That evening, as he got ready for bed, his father said to him, "Did you know that every time you say: Subhan Allah al-Azim wa bihamdih, Allah plants a palm tree for you in Paradise?" Sami was amazed. "Such small words make a huge palm tree?!" His father said, "Yes — just like your tiny seed that will grow big one day, but the palm tree of Paradise is even greater and never dies."
 
-From that evening on, Sami began saying "Subhan Allah wa bihamdih" often, smiling as he said it, and he never again said, "This is too small to matter."
+From that evening on, Sami began saying "Subhan Allah al-Azim wa bihamdih" often, smiling as he said it, and he never again said, "This is too small to matter."
 
 <!-- story:end -->
 
@@ -185,7 +185,7 @@ The Prophet, peace and blessings be upon him, said: whoever says "Subhan Allah a
 
 ### Short Questions
 
-1. What happens in Paradise when we say: Subhan Allah wa bihamdih?
+1. What happens in Paradise when we say: Subhan Allah al-Azim wa bihamdih?
 2. Are small words worth little to Allah?
 3. When can you say these words today?
 
@@ -197,7 +197,7 @@ The Prophet, peace and blessings be upon him, said: whoever says "Subhan Allah a
 
 <!-- activity:start audience="4-7" concept_id="lesson.015.activity.dhikr-tally-garden" -->
 
-A grown-up draws a big palm tree with no leaves on a sheet of paper. Every time the child says "Subhan Allah wa bihamdih" during the day, they stick or draw a small green leaf on the tree. In the evening, the child counts the leaves with their family and says, "This is my palm tree that I planted today with remembrance."
+A grown-up draws a big palm tree with no leaves on a sheet of paper. Every time the child says "Subhan Allah al-Azim wa bihamdih" during the day, they stick or draw a small green leaf on the tree. In the evening, the child counts the leaves with their family and says, "This is my palm tree that I planted today with remembrance."
 
 <!-- activity:end -->
 
@@ -227,7 +227,7 @@ A grown-up draws a big palm tree with no leaves on a sheet of paper. Every time 
 
 ## For Children Ages 8 to 12
 
-You might think that a deed deserving a great reward must be hard or visible to other people, like cleaning up or collecting donations. But Allah has told us that an easy phrase like "Subhan Allah wa bihamdih" plants an entire palm tree in Paradise — a phrase no one sees and that costs almost no effort at all. With Allah, value is not measured by how tiring a deed is, but by the sincerity of the heart and the consistency of the habit.
+You might think that a deed deserving a great reward must be hard or visible to other people, like cleaning up or collecting donations. But the Prophet, peace and blessings be upon him, told us that an easy phrase like "Subhan Allah al-Azim wa bihamdih" plants an entire palm tree in Paradise — a phrase no one sees and that costs almost no effort at all. With Allah, value is not measured by how tiring a deed is, but by the sincerity of the heart and the consistency of the habit.
 
 <!-- unit:end -->
 
@@ -241,9 +241,9 @@ You might think that a deed deserving a great reward must be hard or visible to 
 
 Huda organized a "Good Deeds Board" at her school, where big deeds were recorded: cleaning the classroom, collecting donations, organizing the library. Every morning she had to wait a long time for the bus. She felt bored and thought this time was "wasted" and not worth recording on any board.
 
-One day, her teacher asked the class: "Do you know a deed that no one sees, yet it plants an entire palm tree in Paradise for whoever does it?" She then told them the hadith of "Subhan Allah wa bihamdih." Huda realized that her empty waiting minutes had been a missed opportunity — not because they were unimportant, but because she had not known their true worth.
+One day, her teacher asked the class: "Do you know a deed that no one sees, yet it plants an entire palm tree in Paradise for whoever does it?" She then told them the hadith of "Subhan Allah al-Azim wa bihamdih." Huda realized that her empty waiting minutes had been a missed opportunity — not because they were unimportant, but because she had not known their true worth.
 
-The next day, she began sincerely saying "Subhan Allah wa bihamdih" while waiting for the bus, without writing it down on any board that people could see. She did not stop taking part in the visible deeds on the board, but she learned that her most precious deeds might well be the ones hidden from everyone except Allah.
+The next day, she began sincerely saying "Subhan Allah al-Azim wa bihamdih" while waiting for the bus, without writing it down on any board that people could see. She did not stop taking part in the visible deeds on the board, but she learned that her most precious deeds might well be the ones hidden from everyone except Allah.
 
 <!-- story:end -->
 
@@ -294,7 +294,7 @@ The Prophet, peace and blessings be upon him, told us that whoever says "Subhan 
 
 <!-- activity:start audience="8-12" concept_id="lesson.015.activity.dhikr-tally-garden" -->
 
-Choose two recurring moments in your day when you would not usually count anything as a deed (such as waiting in the car, or right before starting your homework). For three days, record on a chart how many times you say "Subhan Allah wa bihamdih" in each moment. On the third day, draw a small garden with as many palm trees as your total, then write one sentence underneath explaining what you learned about the value of a small deed.
+Choose two recurring moments in your day when you would not usually count anything as a deed (such as waiting in the car, or right before starting your homework). For three days, record on a chart how many times you say "Subhan Allah al-Azim wa bihamdih" in each moment. On the third day, draw a small garden with as many palm trees as your total, then write one sentence underneath explaining what you learned about the value of a small deed.
 
 <!-- activity:end -->
 
@@ -338,7 +338,7 @@ In a world that often measures achievement by what gets posted and seen, you mig
 
 Karim used to document every activity he did — a sports practice, a school project, a volunteer initiative — and posting photos that showed his effort. He felt that all this documenting gave him an identity as "the productive one." One day, a friend mocked him, saying, "I saw your lips moving while you waited for class — is that glorifying Allah? That doesn't count as an achievement!"
 
-Karim felt embarrassed, and thought about dropping this quiet habit since it added nothing "visible." But he remembered what he had learned about two hadiths: one describing the phrase "Subhan Allah wa bihamdih" as light on the tongue and heavy on the scale, and the other saying it plants a palm tree in Paradise. He asked himself: "Should I abandon a deed the Prophet, peace and blessings be upon him, described with this weight, just because a friend didn't understand its value?"
+Karim felt embarrassed, and thought about dropping this quiet habit since it added nothing "visible." But he remembered what he had learned about two hadiths: one describing the two phrases "Subhan Allah wa bihamdih" and "Subhan Allah al-Azim" as light on the tongue and heavy on the scale, and the other saying that "Subhan Allah al-Azim wa bihamdih" plants a palm tree in Paradise for whoever says it. He asked himself: "Should I abandon a deed the Prophet, peace and blessings be upon him, described with this weight, just because a friend didn't understand its value?"
 
 Karim decided to keep up his quiet glorification without explaining it to anyone or documenting it, and to distinguish between what he shares with people and what belongs only to him and his Lord. He did not stop his visible projects, but he stopped assuming that the value of a deed is measured by how many people see it.
 
@@ -394,7 +394,7 @@ Together, the two hadiths take apart a common assumption: that reward follows vi
 
 <!-- activity:start audience="13+" concept_id="lesson.015.activity.dhikr-tally-garden" -->
 
-Identify three moments in your daily routine that no one sees (like unlocking your phone, waiting before practice or class, or walking between classes). For one week, record in a private tracker how many times you say "Subhan Allah wa bihamdih" during these moments, without sharing the count with anyone. At the end of the week, write a short paragraph connecting the steadiness of this hidden habit to the two hadiths, and explain how it changed your view of what "counts" as a valuable deed.
+Identify three moments in your daily routine that no one sees (like unlocking your phone, waiting before practice or class, or walking between classes). For one week, record in a private tracker how many times you say "Subhan Allah al-Azim wa bihamdih" during these moments, without sharing the count with anyone. At the end of the week, write a short paragraph connecting the steadiness of this hidden habit to the two hadiths, and explain how it changed your view of what "counts" as a valuable deed.
 
 <!-- activity:end -->
 
@@ -461,25 +461,25 @@ Identify three moments in your daily routine that no one sees (like unlocking yo
 ### Children Ages 4-7 — 30 Minutes
 
 <!-- lesson-plan:outcomes -->
-**Learning Outcomes:** The child says "Subhan Allah wa bihamdih" and knows that it plants a palm tree in Paradise, recognizes that small words can have a huge effect, and practices saying it several times during the day.
+**Learning Outcomes:** The child says "Subhan Allah al-Azim wa bihamdih" and knows that it plants a palm tree in Paradise, recognizes that small words can have a huge effect, and practices saying it several times during the day.
 
 <!-- lesson-plan:materials -->
 **Materials:** A drawing of a leafless palm tree; small green paper leaves or stickers; a real small seed for display if available; a du'a card in clear handwriting.
 
 <!-- lesson-plan:preparation -->
-**Preparation:** The teacher prepares the palm tree drawing and small leaves in advance, and practices explaining the meaning of "Subhan Allah" and "bihamdih" in two short sentences.
+**Preparation:** The teacher prepares the palm tree drawing and small leaves in advance, and practices explaining the meaning of "Subhan Allah," "al-Azim," and "bihamdih" in a few short sentences.
 
 <!-- lesson-plan:opening -->
 **Opening — 4 minutes:** The teacher shows a small seed and asks: "Will this seed make something big one day?" Accepts the children's answers, then connects them to the lesson's topic.
 
 <!-- lesson-plan:evidence -->
-**Reading the Evidence — 6 minutes:** The teacher narrates Sami's fictional story, then the true hadith story, and the children repeat after the teacher: "Subhan Allah wa bihamdih."
+**Reading the Evidence — 6 minutes:** The teacher narrates Sami's fictional story, then the true hadith story, and the children repeat after the teacher: "Subhan Allah al-Azim wa bihamdih."
 
 <!-- lesson-plan:instruction -->
 **Guided Instruction — 6 minutes:** The teacher clarifies that every glorification plants a palm tree in Paradise, and that a small word does not mean a small effect, using the comparison between the seed and the palm tree.
 
 <!-- lesson-plan:activity -->
-**Activity — 9 minutes:** Each child says "Subhan Allah wa bihamdih" and sticks a green leaf on the palm tree drawing, repeating this several times, then the children count the leaves together at the end of the activity.
+**Activity — 9 minutes:** Each child says "Subhan Allah al-Azim wa bihamdih" and sticks a green leaf on the palm tree drawing, repeating this several times, then the children count the leaves together at the end of the activity.
 
 <!-- lesson-plan:assessment -->
 **Assessment and Closing — 5 minutes:** Ask: "What happens in Paradise when we say this word? Is it a small word or a word with a big effect?" Then read the du'a once, slowly.
@@ -569,8 +569,9 @@ Identify three moments in your daily routine that no one sees (like unlocking yo
 ## References
 
 [^1]: The Noble Qur'an, Surah Al-Kahf, ayah 46: [Qur'anic text](https://quran.com/18/46).
-[^2]: Abu al-Fida Isma'il ibn Kathir, *Tafsir al-Qur'an al-'Azim*, commentary on Surah Al-Kahf, ayah 46, mentioning the interpretation of the lasting good deeds as the five phrases, reported from a group of the Companions and the Followers: [King Saud University Digital Mushaf](https://quran.ksu.edu.sa/tafseer/katheer/sura18-aya46.html).
-[^3]: Sahih al-Bukhari, hadith 7563, and Sahih Muslim, hadith 2694, narrated by Abu Hurairah, may Allah be pleased with him, agreed upon: [Sunnah.com, hadith bukhari:7563](https://sunnah.com/bukhari:7563).
-[^4]: Jami' at-Tirmidhi, hadith 3464, narrated by Jabir ibn Abdullah, may Allah be pleased with him, graded authentic by al-Albani: [Sunnah.com, hadith tirmidhi:3464](https://sunnah.com/tirmidhi:3464).
+[^2]: Abu al-Fida Isma'il ibn Kathir, *Tafsir al-Qur'an al-'Azim*, commentary on Surah Al-Kahf, ayah 46, setting out the early scholars' views on the lasting good deeds: the five daily prayers; the five phrases, reported from a group of the Companions and the Followers; and all righteous deeds, the view preferred by Ibn Jarir at-Tabari: [King Saud University Digital Mushaf](https://quran.ksu.edu.sa/tafseer/katheer/sura18-aya46.html).
+[^3]: Sahih al-Bukhari, hadith 7563, and Sahih Muslim, hadith 2694, narrated by Abu Hurairah, may Allah be pleased with him, agreed upon: [Sunnah.com, Sahih al-Bukhari 7563](https://sunnah.com/bukhari:7563).
+[^4]: Jami' at-Tirmidhi, hadith 3464, narrated by Jabir ibn Abdullah, may Allah be pleased with him. At-Tirmidhi said: "hasan sahih gharib; we know it only as a hadith of Abu az-Zubayr from Jabir." He then reports it (3465) through Hammad ibn Salamah from Abu az-Zubayr with the same wording, and says: "hasan gharib." Ahmad Shakir and al-Albani graded it authentic (sahih); Zubair Ali Za'i graded it weak (da'if): [Sunnah.com, Jami' at-Tirmidhi 3464](https://sunnah.com/tirmidhi:3464).
+[^5]: Muhammad Abd al-Rahman al-Mubarakfuri, *Tuhfat al-Ahwadhi bi Sharh Jami' at-Tirmidhi*, Book of Supplications, commentary on hadith 3464: [Islamweb](https://www.islamweb.net/ar/library/content/56/6691).
 
 <!-- references:end -->

@@ -22,7 +22,7 @@ bedtime_dua_id: "lesson.041.dua.pleasant-dwellings-without-noise-or-toil"
 Después de esta lección, el aprendiz será capaz de:
 
 - Narrar en orden el hadiz del palacio de Umar ibn al-Jattab, que Allah esté complacido con él, en el Paraíso (al-Bujari 3242 y Muslim 2395): el sueño del Profeta, la paz y las bendiciones de Allah sean con él; la pregunta "¿De quién es este palacio?"; el recuerdo del celo de Umar y la media vuelta del Profeta; y, por último, el llanto de Umar y sus palabras: "¿Acaso iba yo a tener celos de ti, oh Mensajero de Allah?".
-- Afirmar sobre los palacios del Paraíso solo lo que establecen los textos auténticos: un palacio de oro (at-Tirmidi 3688); la casa de Jadiya, que Allah esté complacido con ella, hecha de perla hueca, sin bullicio ni fatiga (al-Bujari 3820); y {moradas buenas en los Jardines del Edén} (At-Tawba 9:72).
+- Afirmar sobre los palacios del Paraíso solo lo que establecen los textos auténticos: un palacio de oro (at-Tirmidi 3688); la casa de Jadiya, que Allah esté complacido con ella, hecha de `qasab`, sin bullicio ni fatiga (al-Bujari 3820), entendiendo por `qasab` la caña de perla hueca, como explicó Ibn al-Qayyim; y {moradas buenas en los Jardines del Edén} (At-Tawba 9:72).
 - Explicar que estos palacios son reales, que ya están preparados, que se asignan a sus dueños por su nombre y que la complacencia de Allah es mayor que todos ellos.
 - Extraer del hadiz dos normas de conducta: tener en cuenta los sentimientos del dueño de un lugar antes de entrar en él, y mantener la humildad cuando uno recibe un honor.
 - Realizar la actividad "Acuérdate del dueño antes de entrar": preguntar a alguien de su casa qué le gustaría que se respetara de su espacio o de su intimidad, cumplirlo durante un tiempo determinado y después escuchar su opinión.
@@ -126,7 +126,7 @@ El hadiz excluye de la casa de Jadiya lo que más amarga la vida de un hogar: el
 
 #### Traducción al español
 
-> **"Allah ha prometido a los creyentes y a las creyentes jardines por los que corren los ríos, en los que vivirán eternamente, y moradas buenas en los Jardines del Edén (`'Adn`). Pero la complacencia de Allah es aún mayor. ¡Ese es el triunfo inmenso!"** (At-Tawba 9:72)[^6]
+> **"Allah ha prometido a los creyentes y a las creyentes jardines por los que corren los ríos, en los que vivirán eternamente, y moradas buenas en los Jardines del Edén (`'Adn`). Y la complacencia de Allah es aún mayor. ¡Ese es el triunfo inmenso!"** (At-Tawba 9:72)[^6]
 
 #### Interpretación académica
 
@@ -159,7 +159,7 @@ La aleya cierra la descripción de las moradas diciendo que la complacencia de A
 
 <!-- activity:start audience="adults" concept_id="lesson.041.activity.remember-the-owner-before-entering" -->
 
-Hazle una sola pregunta a cada miembro de tu familia, o a un colega con quien compartas espacio de trabajo: "¿Para qué te gustaría que te pidieran permiso primero: para entrar en tu cuarto, tocar tus cosas, mirar tu teléfono o interrumpir tu descanso?". Anota para cada persona una norma de respeto concreta y cúmplela durante siete días. El séptimo día, pregúntale a cada uno: "¿Has notado la diferencia?". Después escribe dos líneas: ¿qué norma te costó más? ¿Y en qué te recuerda eso al Profeta, la paz y las bendiciones de Allah sean con él, cuando se acordó del celo de Umar antes de entrar en su palacio?
+Hazle una sola pregunta a cada miembro de tu familia, o a un colega con quien compartas espacio de trabajo: "¿Para qué te gustaría que te pidieran permiso primero: para entrar en tu cuarto, tocar tus cosas, mirar tu teléfono o interrumpir tu descanso?". Anota para cada persona una norma de respeto concreta y cúmplela durante siete días. El séptimo día, pregúntale a cada uno: "¿Has notado la diferencia?". Después escribe dos líneas: ¿qué norma te costó más? ¿Y en qué te recuerda eso al Profeta, la paz y las bendiciones de Allah sean con él, cuando se acordó del celo de Umar y no entró en su palacio?
 
 <!-- activity:end -->
 
@@ -201,7 +201,7 @@ Los Compañeros estaban sentados con el Profeta, la paz y las bendiciones de All
 
 El Profeta vio un palacio precioso, y al lado había una mujer haciendo la ablución. Preguntó: "¿De quién es este palacio?". Le dijeron: "De Umar ibn al-Jattab".[^1]
 
-El Profeta quería entrar en el palacio para verlo.[^2] Pero se acordó de algo: a Umar le gusta proteger a su familia y su casa. ¿Y qué hizo el Profeta? No entró. Se dio la vuelta y se fue.[^1]
+Según otro relato, el Profeta quería entrar en el palacio para verlo.[^2] Pero se acordó de algo: a Umar le gusta proteger a su familia y su casa. ¿Y qué hizo el Profeta? No entró. Se dio la vuelta y se fue.[^1]
 
 Umar estaba sentado allí, escuchando. Se puso a llorar y dijo: "¿Acaso iba yo a tener celos de ti, oh Mensajero de Allah?".[^1] Es decir: "¡De ti nunca podría tener celos, Mensajero de Allah!".
 
@@ -355,7 +355,7 @@ Quiere decir: "Oh Allah, concédenos en Tu Paraíso las moradas buenas que prome
 
 <!-- unit:start id="13+.explanation" kind="explanation" -->
 
-Vivimos en una época en la que meterse en la vida privada de los demás se ha vuelto facilísimo: un vistazo a la pantalla de un amigo, una captura de un chat privado que acaba en un grupo, abrir la puerta del cuarto de tu hermano sin llamar. Y casi siempre alguien dice: "No pasa nada, hay confianza". Por otro lado, nos encanta que nos reconozcan, y a veces presumimos cuando nos elogian en público. En un hadiz auténtico sobre los palacios del Paraíso se juntan las dos cosas: un Profeta que se detiene ante la puerta de un palacio que no es suyo, y un Compañero que recibe delante de todos la noticia de su palacio y se echa a llorar. Antes de la historia, recuerda: los palacios del Paraíso son reales; el Profeta, la paz y las bendiciones de Allah sean con él, los describió de oro y de perla,[^3][^4][^5] Allah los llamó {moradas buenas} y después dijo: {Pero la complacencia de Allah es aún mayor}.[^6]
+Vivimos en una época en la que meterse en la vida privada de los demás se ha vuelto facilísimo: un vistazo a la pantalla de un amigo, una captura de un chat privado que acaba en un grupo, abrir la puerta del cuarto de tu hermano sin llamar. Y casi siempre alguien dice: "No pasa nada, hay confianza". Por otro lado, nos encanta que nos reconozcan, y a veces presumimos cuando nos elogian en público. En un hadiz auténtico sobre los palacios del Paraíso se juntan las dos cosas: un Profeta que se detiene ante la puerta de un palacio que no es suyo, y un Compañero que recibe delante de todos la noticia de su palacio y se echa a llorar. Antes de la historia, recuerda: los palacios del Paraíso son reales; el Profeta, la paz y las bendiciones de Allah sean con él, los describió de oro y de perla,[^3][^4][^5] Allah los llamó {moradas buenas} y después dijo: {Y la complacencia de Allah es aún mayor}.[^6]
 
 <!-- unit:end -->
 
@@ -410,7 +410,7 @@ La lección para ti está en dos escenas. La primera: la intimidad de los demás
 2. ¿En qué se diferencia el celo digno de elogio del control y la dominación?
 3. ¿Qué revela el llanto de Umar delante de todos sobre su manera de recibir un honor?
 4. ¿Qué formas toma "entrar sin permiso" en la vida digital? ¿Cuál ves más a menudo?
-5. ¿Por qué dijo Allah, tras describir las moradas: {Pero la complacencia de Allah es aún mayor}?
+5. ¿Por qué dijo Allah, tras describir las moradas: {Y la complacencia de Allah es aún mayor}?
 
 <!-- unit:end -->
 
@@ -598,7 +598,7 @@ Quiere decir: "Oh Allah, concédenos las moradas buenas que prometiste a Tus sie
 [^2]: Sahih al-Bujari, Libro de los méritos de los Compañeros del Profeta, la paz y las bendiciones de Allah sean con él (Kitab Fada'il Ashab an-Nabi), capítulo de las virtudes de Umar ibn al-Jattab, hadiz 3679, transmitido por Muhammad ibn al-Munkadir de Yabir ibn Abdillah, que Allah esté complacido con ambos; auténtico (sahih): [sunnah.com/bukhari:3679](https://sunnah.com/bukhari:3679). Con un sentido similar en al-Bujari 5226 («فَلَمْ يَمْنَعْنِي إِلَّا عِلْمِي بِغَيْرَتِكَ», "No me lo impidió sino saber de tu celo") y en Muslim 2394: [sunnah.com/muslim:2394a](https://sunnah.com/muslim:2394a). La traducción al español es una traducción de sentido elaborada para este proyecto.
 [^3]: Yami' at-Tirmidi, Libro de las virtudes (Abwab al-Manaqib), capítulo de las virtudes de Umar ibn al-Jattab, hadiz 3688, transmitido por Humaid de Anas ibn Malik, que Allah esté complacido con él; at-Tirmidi dijo: "hasan sahih", y lo declararon auténtico Ahmad Shakir y al-Albani: [sunnah.com/tirmidhi:3688](https://sunnah.com/tirmidhi:3688). At-Tirmidi dijo a continuación del hadiz 3689: "Se transmite de Ibn Abbas que dijo: los sueños de los profetas son revelación": [sunnah.com/tirmidhi:3689](https://sunnah.com/tirmidhi:3689). La traducción al español es una traducción de sentido elaborada para este proyecto.
 [^4]: Sahih al-Bujari, Libro de los méritos de los Ansar (Kitab Manaqib al-Ansar), capítulo del matrimonio del Profeta, la paz y las bendiciones de Allah sean con él, con Jadiya y de la virtud de ella, que Allah esté complacido con ella, hadiz 3820, transmitido por Abu Zur'a de Abu Huraira, que Allah esté complacido con él; auténtico (sahih): [sunnah.com/bukhari:3820](https://sunnah.com/bukhari:3820). Lo transmitió también Muslim en el Libro de las virtudes de los Compañeros (Kitab Fada'il as-Sahaba), capítulo de las virtudes de Jadiya, Madre de los Creyentes, que Allah esté complacido con ella, hadiz 2432: [sunnah.com/muslim:2432](https://sunnah.com/muslim:2432). La traducción al español es una traducción de sentido elaborada para este proyecto.
-[^5]: Ibn Qayyim al-Yawziyya, *Hadi al-Arwah ila Bilad al-Afrah* (ed. 'Ata'at al-'Ilm), capítulo trigésimo sexto: sobre sus cámaras, sus palacios, sus aposentos y sus tiendas: [shamela.ws/book/13652/345](https://shamela.ws/book/13652/345). En ese mismo capítulo figuran relatos sobre otros palacios, como el palacio de perla que se menciona para Ibrahim, la paz sea con él; Abu Hatim y ad-Daraqutni consideraron más probable que se detenga en un Compañero (mawquf) y no se remonte al Profeta, según las notas del editor, por lo que esta lección no se apoya en él.
+[^5]: Ibn Qayyim al-Yawziyya, *Hadi al-Arwah ila Bilad al-Afrah* (ed. 'Ata'at al-'Ilm), capítulo trigésimo sexto: sobre sus cámaras, sus palacios, sus aposentos y sus tiendas: [shamela.ws/book/13652/345](https://shamela.ws/book/13652/345); la explicación del `qasab` y la nota del editor sobre el relato del palacio de Ibrahim están en [shamela.ws/book/13652/350](https://shamela.ws/book/13652/350). En ese mismo capítulo figuran relatos sobre otros palacios, como el palacio de perla que se menciona para Ibrahim, la paz sea con él; Abu Hatim y ad-Daraqutni consideraron más probable que se detenga en un Compañero (mawquf) y no se remonte al Profeta, según las notas del editor, por lo que esta lección no se apoya en él.
 [^6]: El Noble Corán, sura At-Tawba, aleya 72: [quran.com/9/72](https://quran.com/9/72). La traducción al español de la aleya es una traducción de sentido elaborada para este proyecto.
 [^7]: Ibn Kazir, *Tafsir al-Qur'an al-'Azim*, tafsir de la sura At-Tawba, aleya 72: [quran.ksu.edu.sa/tafseer/katheer/sura9-aya72.html](https://quran.ksu.edu.sa/tafseer/katheer/sura9-aya72.html).
 [^8]: As-Sa'di, *Taysir al-Karim ar-Rahman fi Tafsir Kalam al-Mannan*, tafsir de la sura At-Tawba, aleya 72: [quran.ksu.edu.sa/tafseer/saadi/sura9-aya72.html](https://quran.ksu.edu.sa/tafseer/saadi/sura9-aya72.html).

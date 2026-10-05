@@ -81,17 +81,17 @@ La primera enseñanza de estas dos aleyas es que la palabra «Jannah» en el Cor
 
 <!-- evidence:start id="bukhari-4878" kind="hadith" mode="canonical" -->
 
-### Dos Jannas de Oro y Dos de Plata
+### Dos Jannas de Plata y Dos de Oro
 
 > عَنْ أَبِي مُوسَى الْأَشْعَرِيِّ رضي الله عنه، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ: **«جَنَّتَانِ مِنْ فِضَّةٍ آنِيَتُهُمَا وَمَا فِيهِمَا، وَجَنَّتَانِ مِنْ ذَهَبٍ آنِيَتُهُمَا وَمَا فِيهِمَا، وَمَا بَيْنَ الْقَوْمِ وَبَيْنَ أَنْ يَنْظُرُوا إِلَى رَبِّهِمْ إِلَّا رِدَاءُ الْكِبْرِ عَلَى وَجْهِهِ فِي جَنَّةِ عَدْنٍ».**[^3]
 
 <!-- evidence:translation -->
 
-> Narró Abu Musa al-Ash'ari, que Allah esté complacido con él, que el Profeta, que la paz y las bendiciones de Allah sean con él, dijo: **«Dos Jannas de plata, cuyos utensilios y contenido son de plata, y dos Jannas de oro, cuyos utensilios y contenido son de oro; y entre la gente y el mirar a su Señor no habrá sino el manto de la grandeza sobre Su rostro, en la Jannah de Adn.»**[^3]
+> Narró Abu Musa al-Ash'ari, que Allah esté complacido con él, que el Profeta, que la paz y las bendiciones de Allah sean con él, dijo: **«Dos Jannas de plata, cuyos utensilios y contenido son de plata, y dos Jannas de oro, cuyos utensilios y contenido son de oro; y entre la gente y el mirar a su Señor no habrá sino el manto de la grandeza sobre Su rostro, en la Jannah de 'Adn.»**[^3]
 
 #### Explicación Académica
 
-Este hadiz es de autenticidad acordada (muttafaq 'alayh) y es uno de los textos más explícitos que afirman la pluralidad de las Jannas y la diversidad de su esencia: en unas, los utensilios y adornos son de oro; en otras, de plata. El hadiz concluye señalando el deleite más alto, en la Jannah de Adn: que los creyentes vean a su Señor, poderoso y majestuoso, sin que nada se lo impida salvo el manto de Su grandeza, que Él, glorificado sea, retira para ellos como honra.
+Este hadiz es de autenticidad acordada (muttafaq 'alayh) y es uno de los textos más explícitos que afirman la pluralidad de las Jannas y la diversidad de su esencia: en unas, los utensilios y adornos son de oro; en otras, de plata. El hadiz concluye señalando el deleite más alto, en la Jannah de 'Adn: que los creyentes vean a su Señor, poderoso y majestuoso, sin que nada se lo impida salvo el manto de Su grandeza, que Él, glorificado sea, retira para ellos como honra.
 
 #### Explicación de la Lección
 
@@ -139,7 +139,7 @@ Este hadiz es una balanza precisa de la diferencia entre los rangos de la Jannah
 
 <!-- activity:start audience="adults" concept_id="lesson.005.activity.rank-ladder-and-garden-map" -->
 
-Dibuja una escalera de siete peldaños y escribe al pie «el rango más bajo, plenamente satisfecho» y en lo alto «una dignidad indescriptible». Luego elige cinco buenas obras que practiques de verdad (como la oración a su hora, la limosna discreta, mantener los lazos familiares, la paciencia ante las ofensas y la sinceridad al hablar) y escribe cada una junto a un peldaño, con una línea que explique cómo esa obra eleva la intención de quien la hace, sin que garantice un rango concreto. Junto a la escalera, dibuja dos círculos que representen «una Jannah de oro» y «una Jannah de plata», y escribe dentro de cada uno un rasgo del deleite mencionado en la prueba. Revisa la escalera cada semana y añade una obra nueva que te impulse a subir, sin compararte con los demás.
+Dibuja una escalera de siete peldaños y escribe al pie «el rango más bajo, plenamente satisfecho» y en lo alto «una dignidad indescriptible». Luego elige cinco buenas obras que practiques de verdad (como la oración a su hora, la limosna discreta, mantener los lazos familiares, la paciencia ante las ofensas y la sinceridad al hablar) y escribe cada una junto a un peldaño, con una línea que explique cómo esa obra eleva a quien la hace, como esperanza e intención, sin que garantice un rango concreto. Junto a la escalera, dibuja dos círculos que representen «una Jannah de oro» y «una Jannah de plata», y escribe dentro de cada uno un rasgo del deleite mencionado en la prueba. Revisa la escalera cada semana y añade una obra nueva que te impulse a subir, sin compararte con los demás.
 
 <!-- activity:end -->
 
@@ -253,7 +253,7 @@ Este hadiz nos enseña que la diferencia entre el rango más bajo y el más alto
 <!-- terminology:start source_id="muslim-189b" -->
 
 - **«el más bajo de la gente de la Jannah en rango» (أَدْنَى أَهْلِ الْجَنَّةِ مَنْزِلَةً)** — la última persona en entrar en la Jannah y la que menos deleite recibe entre su gente, y aun así su deleite es enorme.
-- **«planté su dignidad con Mi mano y la sellé» (غَرَسْتُ كَرَامَتَهُمْ بِيَدِي وَخَتَمْتُ عَلَيْهَا)** — descripción de una dignidad especial que Allah, glorificado sea, preservó para el más alto de la gente de la Jannah, de modo que nadie de la creación la conoce hasta que se manifiesta.
+- **«planté su dignidad con Mi mano y la sellé» (غَرَسْتُ كَرَامَتَهُمْ بِيَدِي وَخَتَمْتُ عَلَيْهَا)** — descripción de una dignidad especial que Allah plantó con Su mano, como corresponde a Su majestad, y que Él, glorificado sea, preservó para el más alto de la gente de la Jannah, de modo que nadie de la creación la conoce hasta que se manifiesta.
 
 <!-- terminology:end -->
 
@@ -323,9 +323,9 @@ Esta enorme variación podría suscitar una pregunta: ¿no hay injusticia en ell
 
 <!-- retelling:start source_id="muslim-189b" audience="13+" -->
 
-Narró al-Mughirah ibn Shu'bah, que Allah esté complacido con él, que el Profeta, que la paz y las bendiciones de Allah sean con él, contó que Musa, la paz sea con él, preguntó a su Señor: «Señor, infórmame sobre el más bajo de la gente de la Jannah en rango». Allah le habló de un hombre que llega después de que toda la gente de la Jannah ya ha ocupado sus moradas, y se le dice: entra en la Jannah. Él dice sorprendido: Oh Señor, ¿cómo, si la gente ya se ha instalado en sus moradas y ha tomado lo suyo? Allah le pregunta: ¿te contentarías con tener algo como el reino de uno de los reyes de la dunya? Y él dice: estoy satisfecho, Señor. Allah dice: eso es tuyo, y otro tanto, y otro tanto, y otro tanto, y otro tanto. Y a la quinta el hombre dice: ¡estoy satisfecho, Señor! Allah dice: esto es tuyo, y diez veces más, y tienes cuanto tu alma desee y deleite tus ojos.[^4]
+Narró al-Mughirah ibn Shu'bah, que Allah esté complacido con él, que el Profeta, que la paz y las bendiciones de Allah sean con él, contó que Musa, la paz sea con él, preguntó a su Señor: «¿Quién es el más bajo de la gente de la Jannah en rango?». Allah le habló de un hombre que llega después de que toda la gente de la Jannah ya ha ocupado sus moradas, y se le dice: entra en la Jannah. Él dice sorprendido: Oh Señor, ¿cómo, si la gente ya se ha instalado en sus moradas y ha tomado lo suyo? Allah le pregunta: ¿te contentarías con tener algo como el reino de uno de los reyes de la dunya? Y él dice: estoy satisfecho, Señor. Allah dice: eso es tuyo, y otro tanto, y otro tanto, y otro tanto, y otro tanto. Y a la quinta el hombre dice: ¡estoy satisfecho, Señor! Allah dice: esto es tuyo, y diez veces más, y tienes cuanto tu alma desee y deleite tus ojos.[^4]
 
-Luego Musa, la paz sea con él, hizo la segunda pregunta: «Señor, ¿y el más alto de ellos en rango?» Allah le respondió: «Esos son los que Yo he escogido; planté su dignidad con Mi mano y la sellé, de modo que ningún ojo la ha visto, ningún oído la ha escuchado, y jamás ha pasado por corazón humano». Y el Profeta, que la paz y las bendiciones de Allah sean con él, mencionó que la confirmación de ello está en el Corán, donde Allah dice: {Ningún alma sabe qué alegría para los ojos se les tiene reservada en secreto.}[^4]
+Luego Musa, la paz sea con él, hizo la segunda pregunta: «Señor, ¿y el más alto de ellos en rango?» Allah le respondió: «Esos son los que Yo he escogido; planté su dignidad con Mi mano y la sellé, de modo que ningún ojo la ha visto, ningún oído la ha escuchado, y jamás ha pasado por corazón humano». Y al final del hadiz se indica que la confirmación de ello está en el Libro de Allah, donde Él dice: {Ningún alma sabe qué alegría para los ojos se les tiene reservada en secreto.}[^4]
 
 Este hadiz reúne los dos extremos de la cadena del deleite: el rango más bajo colma a su dueño de una satisfacción multiplicada pese a su vacilación inicial, y el rango más alto es una dignidad que ninguna descripción alcanza. Esto no significa que el esfuerzo sea inútil: el propio hadiz muestra que existe un «más bajo» y un «más alto», y que las obras y la sinceridad son la causa de la diferencia entre ambos rangos, aunque el más bajo de ellos sea ya un deleite con el que nada de la dunya puede compararse.
 
@@ -340,7 +340,7 @@ Este hadiz reúne los dos extremos de la cadena del deleite: el rango más bajo 
 <!-- terminology:start source_id="muslim-189b" -->
 
 - **«tomado lo suyo» (أَخَذُوا أَخَذَاتِهِمْ)** — sus moradas y lugares en los que ya se han instalado, del sentido de tomar posesión firme de algo.
-- **«planté su dignidad con Mi mano y la sellé»** — expresión de una dignidad especial que Allah preservó para el más alto de la gente de la Jannah, sin que nadie de la creación la conociera hasta el momento de su manifestación.
+- **«planté su dignidad con Mi mano y la sellé»** — una dignidad especial que Allah plantó con Su mano, como corresponde a Su majestad, y que preservó para el más alto de la gente de la Jannah, sin que nadie de la creación la conociera hasta el momento de su manifestación.
 
 <!-- terminology:end -->
 
@@ -541,8 +541,8 @@ Después del du'a, recuerda una buena obra que planees mantener mañana, sin afi
 
 [^1]: El Sagrado Corán, sura ar-Rahman, aleyas 46 y 62: [Texto coránico](https://quran.com/55/46), [aleya 62](https://quran.com/55/62).
 [^2]: Ibn Qayyim al-Yawziyya, *Hadi al-Arwah ila Bilad al-Afrah*, capítulo veintidós, sobre el número de las Jannas y que son de dos tipos: dos Jannas de oro y dos de plata: [al-Maktaba ash-Shamila](https://shamela.ws/book/13652/259).
-[^3]: Sahih al-Bujari, libro de la exégesis del Corán (sura ar-Rahman), hadiz 4878, y Sahih Muslim, hadiz 180, narrado por Abu Musa al-Ash'ari, que Allah esté complacido con él, de autenticidad acordada: [Sunnah.com, narración 4878](https://sunnah.com/bukhari:4878).
-[^4]: Sahih Muslim, libro de la fe, hadiz 189, narrado por al-Mughirah ibn Shu'bah, que Allah esté complacido con él, en forma elevada: [Sunnah.com, narración 189](https://sunnah.com/muslim:189).
+[^3]: Sahih al-Bujari, libro de la exégesis del Corán (sura ar-Rahman), hadiz 4878, y Sahih Muslim, hadiz 180, narrado por Abu Musa al-Ash'ari, que Allah esté complacido con él, de autenticidad acordada; la redacción de al-Bujari dice «el manto de la grandeza (al-kibr)» (رداء الكبر) y la de Muslim «el manto de la grandeza (al-kibriya')» (رداء الكبرياء): [Sunnah.com, narración 4878](https://sunnah.com/bukhari:4878).
+[^4]: Sahih Muslim, libro de la fe, hadiz 189, narrado por al-Mughirah ibn Shu'bah, que Allah esté complacido con él, en forma elevada (marfu'); la redacción es la de la narración de Bishr ibn al-Hakam de Sufyan ibn 'Uyaynah (189b en la numeración de Sunnah.com). Las palabras de los narradores sobre su atribución al Profeta: Sufyan dijo en esta narración: «Uno de los dos lo remontó al Profeta; creo que fue Ibn Abyar»; en la primera cadena se dice: «como narración [del Profeta], si Allah quiere»; y en la cadena de Ibn Abi 'Umar: «Lo oí en el minbar remontándolo al Mensajero de Allah, que la paz y las bendiciones de Allah sean con él»: [Sunnah.com, narración 189](https://sunnah.com/muslim:189).
 [^5]: El Sagrado Corán, sura as-Sajdah, aleya 17: [Texto coránico](https://quran.com/32/17).
 
 <!-- references:end -->

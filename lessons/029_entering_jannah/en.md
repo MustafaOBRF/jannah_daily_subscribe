@@ -33,7 +33,7 @@ After this lesson, the learner will be able to:
 
 <!-- unit:start id="adults.explanation" kind="explanation" -->
 
-Many people picture entering Jannah as a single moment: a door swings open, and in you go. The authentic texts, however, sketch a road with stations laid out in order. First comes the coming-to (*al-wurud*), from which no one is exempt, and then the rescue of those who were mindful of Allah. Next, those who have been rescued are held back on a raised bridge, the qantarah, between Jannah and the Fire, where the wrongs between them are settled until they are refined and purified. Then they are led to Jannah in throngs, each according to its rank, and a vast company of them enters together, holding on to one another.
+Many people picture entering Jannah as a single moment: a door swings open, and in you go. The authentic texts, however, sketch a road with stations laid out in order. First comes the coming-to (*al-wurud*), from which no one is exempt, and then the rescue of those who were mindful of Allah. Next, those who have been rescued are held back on a raised bridge, the qantarah, between Jannah and the Fire, where the wrongs between them are settled until they are refined and purified. Then they are led to Jannah in throngs, group by group according to their ranks, and a vast company of them enters together, holding on to one another.
 
 This lesson stays with those stations alone. That the Prophet, peace and blessings be upon him, will be the first to reach the gate of Jannah was covered in the lesson on the forerunners. The greeting of the keepers and the angels, the calls and glad tidings of Jannah, and the security of its people together with the slaughter of death each have a lesson of their own still to come. The removal of rancor from the hearts of its people is likewise a separate subject, taken up later.
 
@@ -53,7 +53,7 @@ The practical question this lesson raises is this: if the wrongs between believe
 
 <!-- evidence:translation -->
 
-> Jabir ibn Abd Allah, may Allah be pleased with them both, said: Umm Mubashshir told me that she heard the Prophet, peace and blessings be upon him, say in the presence of Hafsah: **"If Allah wills, not one of the people of the Tree, those who pledged allegiance beneath it, will enter the Fire."** Hafsah said, "Surely they will, O Messenger of Allah!" He rebuked her sharply, and Hafsah recited: `There is not one of you who will not come to it.` The Prophet, peace and blessings be upon him, said: **"Allah, Mighty and Majestic, has also said: `Then We will rescue those who were mindful of Us, and leave the wrongdoers in it, on their knees.`"**[^1]
+> Jabir ibn Abd Allah, may Allah be pleased with them both, said: Umm Mubashshir told me that she heard the Prophet, peace and blessings be upon him, say in the presence of Hafsah: **"If Allah wills, not one of the people of the Tree, those who pledged allegiance beneath it, will enter the Fire."** Hafsah said, "Surely they will, O Messenger of Allah!" He rebuked her sharply, and Hafsah recited: `There is not one of you who will not come to it.` The Prophet, peace and blessings be upon him, said: **"Allah, Mighty and Majestic, has said: `Then We will rescue those who were mindful of Us, and leave the wrongdoers in it, on their knees.`"**[^1]
 
 #### Scholarly Explanation
 
@@ -215,7 +215,7 @@ How do the believers get into Jannah? The Prophet, peace and blessings be upon h
 
 <!-- retelling:start source_id="muslim-2496" audience="4-7" -->
 
-The Prophet, peace and blessings be upon him, was at the home of his wife Hafsah, may Allah be pleased with her. A woman from the Ansar named Umm Mubashshir was there too, and she heard him say about the Companions who had made a promise to him under a tree: "Not one of them will go into the Fire, if Allah wills."
+The Prophet, peace and blessings be upon him, was with his wife Hafsah, may Allah be pleased with her. A woman from the Ansar named Umm Mubashshir was there too, and she heard him say about the Companions who had made a promise to him under a tree: "Not one of them will go into the Fire, if Allah wills."
 
 Hafsah said, "But they will, O Messenger of Allah!" The Prophet, peace and blessings be upon him, spoke to her firmly. Then Hafsah said, "Allah says: `There is not one of you who will not come to it`." That means: everyone will pass over it.
 
@@ -233,7 +233,7 @@ Hafsah wanted to understand, so she asked with an ayah from the Qur'an, and the 
 
 ### Short Questions
 
-1. Whose home was the Prophet, peace and blessings be upon him, visiting?
+1. Who was the Prophet, peace and blessings be upon him, with?
 2. What did Hafsah use to ask her question: the Qur'an, or her own words?
 3. Who are the people Allah keeps safe?
 4. Why do the believers stop for a little while before Jannah?
@@ -296,10 +296,10 @@ Here is the amazing part: the Prophet, peace and blessings be upon him, told us 
 
 <!-- terminology:start source_id="muslim-2496" -->
 
-- **`The coming-to (al-wurud)`** — passing over the Sirat, which is stretched across Jahannam; this is the meaning the scholars considered strongest in explaining the ayah.[^7]
+- **`The coming-to (al-wurud)`** — passing over the Sirat, which is stretched across Jahannam; this is the meaning many scholars considered strongest in explaining the ayah.[^7]
 - **`The people of the Tree (ashab ash-shajarah)`** — the Companions who pledged allegiance to the Prophet, peace and blessings be upon him, beneath the tree on the day of al-Hudaybiyah.
 - **`The qantarah (al-qantarah)`** — a bridge or raised place between Jannah and the Fire, where the believers are held back before they enter.
-- **`A wrong (mazlimah)`** — something you took from someone else without any right to it, whether it was money or a hurtful word.
+- **`A wrong (mazlamah)`** — something you took from someone else without any right to it, whether it was money or a hurtful word.
 
 <!-- terminology:end -->
 
@@ -307,7 +307,7 @@ Here is the amazing part: the Prophet, peace and blessings be upon him, told us 
 
 <!-- unit:start id="8-12.primary-story" kind="primary_story" -->
 
-### A True Account: A Question in Hafsah's Home
+### A True Account: A Question in Hafsah's Presence
 
 <!-- story:start audience="8-12" role="primary" type="prophetic_era" source_id="muslim-2496" authenticated="true" -->
 
@@ -315,11 +315,11 @@ Here is the amazing part: the Prophet, peace and blessings be upon him, told us 
 
 <!-- retelling:start source_id="muslim-2496" audience="8-12" -->
 
-In the home of the Mother of the Believers Hafsah, daughter of Umar, may Allah be pleased with them both, a woman of the Ansar named Umm Mubashshir was present. She heard the Prophet, peace and blessings be upon him, say: **"If Allah wills, not one of the people of the Tree, those who pledged allegiance beneath it, will enter the Fire."** The people of the Tree were the ones who had pledged allegiance to him on the day of al-Hudaybiyah.
+In the company of the Mother of the Believers Hafsah, daughter of Umar, may Allah be pleased with them both, a woman of the Ansar named Umm Mubashshir was present. She heard the Prophet, peace and blessings be upon him, say: **"If Allah wills, not one of the people of the Tree, those who pledged allegiance beneath it, will enter the Fire."** The people of the Tree were the ones who had pledged allegiance to him on the day of al-Hudaybiyah.
 
 Hafsah had an ayah in mind that seemed to her to say something different, so she said, "Surely they will, O Messenger of Allah!" The Prophet, peace and blessings be upon him, rebuked her, meaning he corrected her firmly. But she did not answer with an opinion of her own. Instead, she recited: `There is not one of you who will not come to it`; the ayah says that every single person will come to it.
 
-And the Prophet, peace and blessings be upon him, answered her with the words of Allah, too: **"Allah, Mighty and Majestic, has also said: `Then We will rescue those who were mindful of Us, and leave the wrongdoers in it, on their knees.`"**[^1]
+And the Prophet, peace and blessings be upon him, answered her with the words of Allah, too: **"Allah, Mighty and Majestic, has said: `Then We will rescue those who were mindful of Us, and leave the wrongdoers in it, on their knees.`"**[^1]
 
 <!-- retelling:end -->
 
@@ -409,11 +409,11 @@ Notice the twist: even the people who made it across the Sirat do not go in whil
 
 <!-- retelling:start source_id="muslim-2496" audience="13+" -->
 
-The setting is the home of the Mother of the Believers Hafsah, daughter of Umar. Also present is a woman of the Ansar, Umm Mubashshir, who hears the Prophet, peace and blessings be upon him, say about those who pledged allegiance to him beneath the tree on the day of al-Hudaybiyah: **"If Allah wills, not one of the people of the Tree, those who pledged allegiance beneath it, will enter the Fire."**
+The setting is a gathering with the Mother of the Believers Hafsah, daughter of Umar. Also present is a woman of the Ansar, Umm Mubashshir, who hears the Prophet, peace and blessings be upon him, say about those who pledged allegiance to him beneath the tree on the day of al-Hudaybiyah: **"If Allah wills, not one of the people of the Tree, those who pledged allegiance beneath it, will enter the Fire."**
 
-Hafsah says, "Surely they will, O Messenger of Allah!" He rebukes her sharply. It is not an easy moment, but she neither backs down nor digs in out of stubbornness; she puts forward what was on her mind as evidence, not opinion: `There is not one of you who will not come to it.`
+Hafsah says, "Surely they will, O Messenger of Allah!" He rebukes her sharply. Even so, she puts forward her evidence from the Qur'an, not an opinion of her own: `There is not one of you who will not come to it.`
 
-The answer comes from the very same place in the mushaf: **"Allah, Mighty and Majestic, has also said: `Then We will rescue those who were mindful of Us, and leave the wrongdoers in it, on their knees.`"**[^1]
+The answer comes from the very same place in the mushaf: **"Allah, Mighty and Majestic, has said: `Then We will rescue those who were mindful of Us, and leave the wrongdoers in it, on their knees.`"**[^1]
 
 <!-- retelling:end -->
 
@@ -500,7 +500,7 @@ What it means: O Allah, make us among those You rescue along with the mindful, h
 **Assessment and Closing — 10 minutes:** Exit card: (1) Set out the four stations in order, with one piece of evidence for each. (2) What does the coming-to mean, according to the view an-Nawawi held to be strongest? (3) Write down the date you set for settling the right. Close with a question for the next session: "Was it settled?"
 
 <!-- lesson-plan:differentiation -->
-**Differentiation:** For beginners, cover only the hadith of Umm Mubashshir, the hadith of the qantarah, and the hadith of clearing oneself. Ask advanced learners to read al-Bukhari's narration of the same hadith at number 6535 and compare its wording with narration 2440, and to review what Ibn al-Qayyim wrote in *Hadi al-Arwah* about how the people of Jannah enter it.
+**Differentiation:** For beginners, cover only the hadith of Umm Mubashshir, the hadith of the qantarah, and the hadith of clearing oneself. Ask advanced learners to read al-Bukhari's narration of the same hadith at number 6535 and compare its wording with narration 2440, and to review Chapter 38 of Ibn al-Qayyim's *Hadi al-Arwah*, "On How They Enter Jannah and What Meets Them as They Enter It."
 
 <!-- lesson-plan:safeguards -->
 **Teaching Cautions:** Do not describe the Sirat or the Fire with frightening details that are not in the texts of this lesson. Do not ask anyone to confess a wrong publicly. Point out that returning what is owed does not mean contacting someone who is abusive or dangerous, and that difficult questions about clearing oneself should be taken to people of knowledge.

@@ -85,7 +85,7 @@ Quien actúa en la promesa es Allah: "Allah le construye". La construcción del 
 
 #### Interpretación académica
 
-*Al-labin* es el adobe, ladrillo de barro secado al sol; *al-yarid*, las ramas peladas de la palmera; *al-qassa*, el yeso; y *as-say*, una madera conocida que se traía de tierras lejanas (la teca).[^9]
+*Al-labin* es el adobe, ladrillo de barro secado al sol; *al-yarid*, las ramas peladas de la palmera; *al-qassa*, el yeso; y *as-say*, una madera conocida que se traía de la India (la teca).[^9]
 
 #### Explicación de la lección
 
@@ -125,7 +125,7 @@ La palabra {edificados} es un texto coránico que afirma que en el Paraíso hay 
 
 #### Traducción al español
 
-> De Abu Musa al-Ash'ari, que Allah esté complacido con él, que el Mensajero de Allah, la paz y las bendiciones de Allah sean con él, dijo: **«Dos jardines de plata: de plata son sus vasijas y cuanto hay en ellos; y dos jardines de oro: de oro son sus vasijas y cuanto hay en ellos. Y entre esas gentes y la visión de su Señor no hay más que el manto de la grandeza sobre Su rostro, en el Jardín del Edén ('Adn)»**.[^6]
+> De Abu Musa al-Ash'ari, que Allah esté complacido con él, que el Mensajero de Allah, la paz y las bendiciones de Allah sean con él, dijo: **«Dos jardines de plata: de plata son sus vasijas y cuanto hay en ellos; y dos jardines de oro: de oro son sus vasijas y cuanto hay en ellos. Y entre esas gentes y la visión de su Señor no hay más que el manto de la grandeza sobre Su rostro, en el jardín de 'Adn»**.[^6]
 
 #### Explicación de la lección
 
@@ -147,7 +147,7 @@ La palabra {edificados} es un texto coránico que afirma que en el Paraíso hay 
 
 #### Interpretación académica
 
-At-Tirmidi dijo: "Su cadena de transmisión no es muy sólida, y para mí no está conectada"; Ahmad Shakir y al-Albani lo declararon auténtico por el conjunto de sus vías, y otros lo consideraron débil.[^7] *Al-milat* (la argamasa) es lo que se pone entre los ladrillos para unirlos.
+At-Tirmidi dijo: "Su cadena de transmisión no es muy sólida, y para mí no está conectada"; Ahmad Shakir y al-Albani lo declararon auténtico, y otros lo consideraron débil.[^7] *Al-milat* (la argamasa) es lo que se pone entre los ladrillos para unirlos.
 
 #### Explicación de la lección
 
@@ -613,7 +613,7 @@ Significado: Oh Allah, purifica nuestras intenciones para que nuestras obras sea
 [^4]: As-Sa'di, *Taysir al-Karim ar-Rahman fi Tafsir Kalam al-Mannan*, tafsir de la sura Az-Zumar, aleya 20: [quran.ksu.edu.sa/tafseer/saadi/sura39-aya20.html](https://quran.ksu.edu.sa/tafseer/saadi/sura39-aya20.html).
 [^5]: Ibn Kazir, *Tafsir al-Qur'an al-'Azim*, tafsir de la sura Az-Zumar, aleya 20: [quran.ksu.edu.sa/tafseer/katheer/sura39-aya20.html](https://quran.ksu.edu.sa/tafseer/katheer/sura39-aya20.html).
 [^6]: Sahih al-Bujari, Libro de la exégesis (Kitab at-Tafsir), capítulo {Y además de esos dos, hay otros dos jardines}, hadiz 4878, transmitido por Abu Bakr ibn Abdullah ibn Qais de su padre, Abu Musa al-Ash'ari, que Allah esté complacido con él; auténtico: [sunnah.com/bukhari:4878](https://sunnah.com/bukhari:4878). Lo recoge también Muslim en el Libro de la fe (Kitab al-Iman), hadiz 180: [sunnah.com/muslim:180](https://sunnah.com/muslim:180).
-[^7]: Yami' at-Tirmidi, Libro de la descripción del Paraíso (Abwab Sifat al-Yanna), capítulo sobre la descripción del Paraíso y sus delicias, hadiz 2526, de Abu Huraira, que Allah esté complacido con él: [sunnah.com/tirmidhi:2526](https://sunnah.com/tirmidhi:2526). Se reproduce de él el pasaje pertinente; se ha omitido su comienzo, señalado con [...] (la pregunta de los Compañeros al Profeta, la paz y las bendiciones de Allah sean con él, sobre la ternura de sus corazones cuando estaban con él y sobre la materia de la creación), así como su final (los tres cuya súplica no es rechazada), y la omisión no altera el sentido del pasaje reproducido. At-Tirmidi dijo: "Este es un hadiz cuya cadena de transmisión no es muy sólida, y para mí no está conectada; este hadiz se ha transmitido también por otra cadena de Abu Huraira"; Ahmad Shakir y al-Albani lo declararon auténtico por el conjunto de sus vías, y Zubair Ali Za'i lo consideró débil. En las notas del editor de *Hadi al-Arwah* (ed. 'Ata'at al-'Ilm, capítulo trigésimo cuarto) se indica que la vía de Ahmad gira en torno a Abu al-Mudilla, a quien Ibn al-Madini consideró desconocido: [shamela.ws/book/13652/333](https://shamela.ws/book/13652/333). Por eso no se ha tomado en esta lección como evidencia principal. Tampoco se ha tomado como base lo que Abu Nu'aim recoge en *Sifat al-Yanna* (capítulo de la descripción de los muros del Paraíso) ni lo que transmite Ibn Abi ad-Dunya en relatos sobre la descripción detallada de los muros del Paraíso.
+[^7]: Yami' at-Tirmidi, Libro de la descripción del Paraíso (Abwab Sifat al-Yanna), capítulo sobre la descripción del Paraíso y sus delicias, hadiz 2526, de Abu Huraira, que Allah esté complacido con él: [sunnah.com/tirmidhi:2526](https://sunnah.com/tirmidhi:2526). Se reproduce de él el pasaje pertinente; se ha omitido su comienzo, señalado con [...] (la pregunta de los Compañeros al Profeta, la paz y las bendiciones de Allah sean con él, sobre la ternura de sus corazones cuando estaban con él y sobre la materia de la creación), así como su final (los tres cuya súplica no es rechazada), y la omisión no altera el sentido del pasaje reproducido. At-Tirmidi dijo: "Este es un hadiz cuya cadena de transmisión no es muy sólida, y para mí no está conectada; este hadiz se ha transmitido también por otra cadena de Abu Huraira"; Ahmad Shakir y al-Albani lo declararon auténtico, y Zubair Ali Za'i lo consideró débil. En las notas del editor de *Hadi al-Arwah* (ed. 'Ata'at al-'Ilm, capítulo trigésimo cuarto) se indica que la vía de Ahmad gira en torno a Abu al-Mudilla, a quien Ibn al-Madini consideró desconocido: [shamela.ws/book/13652/333](https://shamela.ws/book/13652/333). Por eso no se ha tomado en esta lección como evidencia principal. Tampoco se ha tomado como base lo que Abu Nu'aim recoge en *Sifat al-Yanna* (capítulo de la descripción de los muros del Paraíso) ni lo que transmite Ibn Abi ad-Dunya en relatos sobre la descripción detallada de los muros del Paraíso.
 [^8]: An-Nawawi, *Al-Minhay sharh Sahih Muslim ibn al-Hayyay*, Libro de las mezquitas y los lugares de oración, capítulo de la excelencia de construir mezquitas y la exhortación a ello, comentario del hadiz 533, sobre las dos posibilidades de sentido de «مِثْلَهُ» ("otra semejante").
 [^9]: Ibn Hayar al-Asqalani, *Fath al-Bari sharh Sahih al-Bujari*, Libro de la oración, capítulo de la construcción de la mezquita, comentario del hadiz 446, sobre el sentido de *al-qassa* (el yeso) y de *as-say*; e Ibn al-Azir, *An-Nihaya fi Garib al-Hadiz wa-l-Azar*, entradas "l-b-n" y "s-w-y".
 

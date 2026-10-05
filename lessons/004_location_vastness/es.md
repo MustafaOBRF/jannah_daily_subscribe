@@ -34,7 +34,7 @@ Al terminar esta lección, el estudiante será capaz de:
 
 <!-- unit:start id="adults.explanation" kind="explanation" -->
 
-Cuando el Corán describe la Jannah como `'arduha as-samawatu wal-ard`, no abre la puerta a cálculos geométricos, sino que abre el corazón a una amplitud que supera toda medida conocida en la dunya. El testimonio más antiguo de esta amplitud en el Corán no es una aleya general, sino un hecho concreto: el primer ser humano que Allah creó, Adán, la paz sea con él, fue establecido junto a su esposa en esa misma Jannah, con permiso de comer de cualquier lugar de ella que quisiera, sin más prohibición que un único árbol. Aquella Jannah era tan amplia que no había en ella estrechez alguna que exigiera más de una sola prohibición.
+Cuando el Corán describe la Jannah como `'arduha as-samawatu wal-ard`, no abre la puerta a cálculos geométricos, sino que abre el corazón a una amplitud que supera toda medida conocida en la dunya. El testimonio más antiguo de esta amplitud en el Corán no es una aleya general, sino un hecho concreto: el primer ser humano que Allah creó, Adán, la paz sea con él, fue establecido junto a su esposa en esa misma Jannah, según la mayoría de los sabios,[^3] con permiso de comer de cualquier lugar de ella que quisiera, sin más prohibición que un único árbol. Aquella Jannah era tan amplia que no había en ella estrechez alguna que exigiera más de una sola prohibición.
 
 Luego llegó un único desliz, por susurro de Shaytán, y Adán y su esposa fueron sacados de donde estaban y descendidos a la tierra. El hecho muestra al corazón dos significados unidos: que la Jannah que Adán perdió era una dicha inmensa y amplia, y que entrar en ella o salir de ella no depende de su tamaño, sino de la obediencia a Allah dentro de ella. Las aleyas de Aal 'Imran y al-Hadid anuncian que esa misma amplitud está prometida a todo creyente que se apresure hacia el perdón de su Señor, y la Sunnah añade otro criterio: no solo amplitud de lugar, sino amplitud de valor, de modo que el lugar más pequeño en ella es mejor que la dunya entera con todo lo que contiene.
 
@@ -87,7 +87,7 @@ Esta es la primera descripción práctica de la amplitud de la Jannah en el Cor�
 
 #### Explicación de la Lección
 
-No fue la estrechez del lugar lo que sacó a Adán y a su esposa de aquella dicha, sino un único desliz, por susurro de Shaytán, al tomar lo único que se les había prohibido en medio de tanta amplitud. Después Allah aceptó el arrepentimiento de ambos, pero el hecho sigue siendo una lección: cuanto más amplia es la dicha, mayor es la pérdida de quien descuida el único mandato fijado.
+No fue la estrechez del lugar lo que sacó a Adán y a su esposa de aquella dicha, sino un único desliz, por susurro de Shaytán, al tomar lo único que se les había prohibido en medio de tanta amplitud. Después Allah aceptó el arrepentimiento de ambos,[^9] pero el hecho sigue siendo una lección: cuanto más amplia es la dicha, mayor es la pérdida de quien descuida el único mandato fijado.
 
 <!-- evidence:end -->
 
@@ -107,15 +107,15 @@ No fue la estrechez del lugar lo que sacó a Adán y a su esposa de aquella dich
 
 #### Explicación Académica
 
-Los exégetas mencionaron que describir la Jannah con una anchura como la de los cielos y la tierra engrandece su amplitud más allá de la comprensión humana, no como determinación geométrica de su superficie; aquí la anchura es la menor de sus dimensiones, ¿qué decir entonces de su longitud? Por eso no es correcto convertir esta descripción en especulaciones cósmicas, sino dejarla en lo que indica: la morada de la otra vida es más amplia que todo lo que puedan imaginar, juntos, los habitantes de la dunya.
+Los exégetas mencionaron que describir la Jannah con una anchura como la de los cielos y la tierra engrandece su amplitud más allá de la comprensión humana, no como determinación geométrica de su superficie; pues la anchura suele ser menor que la longitud: ¿qué decir entonces de su longitud?[^8] Por eso no es correcto convertir esta descripción en especulaciones cósmicas, sino dejarla en lo que indica: la morada de la otra vida es más amplia que todo lo que puedan imaginar, juntos, los habitantes de la dunya.
 
 #### Explicación de la Lección
 
-Esta amplitud descrita es continuación de la que vivió Adán, la paz sea con él, por primera vez, y hoy está prometida a todo creyente que se apresure hacia el perdón de su Señor; la Jannah no es exclusiva de un hecho histórico concluido, sino una morada existente y prometida que merece que nos apresuremos hacia ella.
+Esta amplitud descrita es, según la mayoría de los sabios, continuación de la que vivió Adán, la paz sea con él, por primera vez, y hoy está prometida a todo creyente que se apresure hacia el perdón de su Señor; la Jannah no es exclusiva de un hecho histórico concluido, sino una morada existente y prometida que merece que nos apresuremos hacia ella.
 
 <!-- evidence:end -->
 
-<!-- evidence:start id="mishkat-5613" kind="hadith" mode="canonical" -->
+<!-- evidence:start id="bukhari-3250" kind="hadith" mode="canonical" -->
 
 ### Un Lugar de un Látigo en la Jannah es Mejor que la Dunya y Todo lo que Hay en Ella
 
@@ -183,7 +183,7 @@ La Jannah es muy, muy grande, más grande que cualquier lugar que hayamos visto 
 
 Allah creó al primer ser humano, llamado Adán, la paz sea con él, y lo estableció en la Jannah junto con su esposa. Allah les dijo: `kula minha raghadan haythu shi'tuma`, es decir: comed de donde queráis en esta Jannah tan amplia, y no os privéis de nada, salvo de un único árbol del que Allah les dijo: no os acerquéis a él.[^1] La Jannah era muy amplia, tenía todo lo hermoso, y aun así Allah les prohibió solo una cosa, para que vieran que la obediencia es más importante que toda esa amplitud.
 
-Vino Shaytán e intentó hacer que olvidaran la orden de Allah, y comieron de aquel único árbol. Entonces Allah los sacó de aquel lugar amplio y hermoso, y descendieron a la tierra.[^4] Luego Adán, la paz sea con él, invocó a su Señor y se arrepintió con sinceridad, y Allah aceptó su arrepentimiento y tuvo misericordia de él.
+Vino Shaytán e intentó hacer que olvidaran la orden de Allah, y comieron de aquel único árbol. Entonces Allah los sacó de aquel lugar amplio y hermoso, y descendieron a la tierra.[^4] Luego Adán, la paz sea con él, invocó a su Señor y se arrepintió con sinceridad, y Allah aceptó su arrepentimiento y tuvo misericordia de él.[^9]
 
 <!-- retelling:end -->
 
@@ -250,7 +250,7 @@ Cuando Allah dice que la anchura de la Jannah es como la de los cielos y la tier
 
 Dijo Allah, exaltado sea: «Y dijimos: ¡Oh Adán! Habita tú y tu esposa la Jannah, y comed de ella con holgura donde ambos queráis, y no os acerquéis a este árbol, pues seríais de los injustos.»[^1] Después de que Allah creara a Adán, la paz sea con él, le enseñara los nombres de las cosas, y ordenara a los ángeles postrarse ante él en señal de honor, lo estableció en la Jannah junto con su esposa, y les permitió comer de cualquier lugar de ella que quisieran, sin límite ni restricción, sin exceptuar más que un único árbol determinado.
 
-Esta enorme amplitud en el permiso indica la amplitud del propio lugar: un espacio que no necesitó más que una sola prohibición para ordenar la obediencia. Pero Shaytán les susurró hasta que olvidaron aquella única prohibición, y comieron del árbol, y Allah los sacó de donde estaban, y les ordenó descender a la tierra.[^4] La causa de la expulsión no fue la estrechez del lugar, sino la desobediencia a un único mandato en medio de una amplitud inmensa; luego Allah aceptó el arrepentimiento de Adán, la paz sea con él, por la sinceridad de su pesar.
+Esta enorme amplitud en el permiso indica la amplitud del propio lugar: un espacio que no necesitó más que una sola prohibición para ordenar la obediencia. Pero Shaytán les susurró hasta que comieron del árbol que se les había prohibido, y Allah los sacó de donde estaban, y les ordenó descender a la tierra.[^4] La causa de la expulsión no fue la estrechez del lugar, sino la desobediencia a un único mandato en medio de una amplitud inmensa; luego Allah aceptó el arrepentimiento de Adán, la paz sea con él, por la sinceridad de su pesar.[^9]
 
 <!-- retelling:end -->
 
@@ -263,7 +263,7 @@ Esta enorme amplitud en el permiso indica la amplitud del propio lugar: un espac
 <!-- terminology:start source_id="quran-2-35" -->
 
 - **`raghadan`** — comer de forma placentera y abundante, sin estrechez ni racionamiento.
-- **`ihbitu` («descended»)** — bajar de un lugar alto a uno más bajo; aquí, el descenso de la Jannah a la tierra.
+- **`ihbitu` («bajad», «descended»)** — bajar de un lugar alto a uno más bajo; aquí, el descenso de la Jannah a la tierra.
 - **«el lugar de un látigo»** — un espacio muy pequeño, el que ocuparía un látigo si se colocara sobre la tierra.
 
 <!-- terminology:end -->
@@ -332,7 +332,7 @@ Luego viene el hadiz «un lugar de un látigo en la Jannah es mejor que la dunya
 
 Dijo Allah, exaltado sea, a Adán, la paz sea con él, y a su esposa: «Habita tú y tu esposa la Jannah, y comed de ella con holgura donde ambos queráis, y no os acerquéis a este árbol, pues seríais de los injustos.»[^1] Esta Jannah no fue un lugar temporal ni una prueba menor; fue la primera morada del ser humano en toda la existencia, y era tan amplia que su ordenamiento no necesitó más que un único límite en medio de una extensión incalculable.
 
-Esto revela una verdad importante: una amplitud inmensa no significa ausencia de límites, sino que puede hacer que el único límite restante sea aún más claro y más importante. Shaytán susurró a Adán y a su esposa hasta que olvidaron ese único límite, y comieron del árbol, y fueron sacados de donde estaban y se les ordenó descender a la tierra: «Y dijimos: Descended, seréis enemigos unos de otros, y tenéis en la tierra morada y disfrute por un tiempo.»[^4] No fue la estrechez de aquel lugar la causa de la salida, sino traspasar un único límite en medio de una amplitud inmensa; luego Allah aceptó el arrepentimiento de Adán, la paz sea con él, tras la sinceridad de su pesar.
+Esto revela una verdad importante: una amplitud inmensa no significa ausencia de límites, sino que puede hacer que el único límite restante sea aún más claro y más importante. Shaytán susurró a Adán y a su esposa hasta que traspasaron ese único límite y comieron del árbol, y fueron sacados de donde estaban y se les ordenó descender a la tierra: «Y dijimos: Descended, seréis enemigos unos de otros, y tenéis en la tierra morada y disfrute por un tiempo.»[^4] No fue la estrechez de aquel lugar la causa de la salida, sino traspasar un único límite en medio de una amplitud inmensa; luego Allah aceptó el arrepentimiento de Adán, la paz sea con él, tras la sinceridad de su pesar.[^9]
 
 <!-- retelling:end -->
 
@@ -406,7 +406,7 @@ Escribe una lista de tres cosas por las que sientes que la gente a tu alrededor 
 **Materiales:** copia de las cuatro aleyas y el hadiz; modelo de una balanza de dos platillos, dibujada o real; hojas y bolígrafos; tarjeta de salida.
 
 <!-- lesson-plan:preparation -->
-**Preparación:** el maestro repasa el punto de divergencia entre Ahl as-Sunnah y algunos teólogos sobre la identidad de la Jannah de Adán, y prepara ejemplos contemporáneos neutrales sobre comparar lo grande visible con lo pequeño oculto.
+**Preparación:** el maestro repasa la divergencia entre los sabios sobre la identidad de la Jannah de Adán (la mayoría sostiene que era la Jannah eterna, Jannat al-Juld), y prepara ejemplos contemporáneos neutrales sobre comparar lo grande visible con lo pequeño oculto.
 
 <!-- lesson-plan:opening -->
 **Apertura — 5 minutos:** pregunta: «¿Se mide siempre el valor de algo por su tamaño?» Recoge opiniones antes de presentar las pruebas.
@@ -424,7 +424,7 @@ Escribe una lista de tres cosas por las que sientes que la gente a tu alrededor 
 **Evaluación y cierre — 10 minutos:** tarjeta de salida: «Menciona el único límite fijado a Adán, la paz sea con él, en medio de la amplitud de la Jannah, explica el sentido de “lugar de un látigo” y escribe una situación en la que reconsiderarás tu decisión.» El maestro cierra leyendo el du'a, aclarando que es de su redacción educativa.
 
 <!-- lesson-plan:differentiation -->
-**Atención a las diferencias:** al principiante se le entrega un resumen escrito de la historia de Adán, la paz sea con él, antes del debate, y al avanzado se le encarga discutir la diferencia entre la opinión de la mayoría de Ahl as-Sunnah y quienes la contradijeron sobre la identidad de la Jannah de Adán.
+**Atención a las diferencias:** al principiante se le entrega un resumen escrito de la historia de Adán, la paz sea con él, antes del debate, y al avanzado se le encarga discutir la diferencia entre la opinión de la mayoría y la de quienes la contradijeron sobre la identidad de la Jannah de Adán.
 
 <!-- lesson-plan:safeguards -->
 **Advertencias de enseñanza:** no se usa la lección para abrir un debate especulativo sobre la ubicación geográfica de la Jannah o su medida exacta; toda pregunta de este tipo se redirige a que esos detalles son del gaib y solo se afirman con un texto. La historia de Adán, la paz sea con él, se narra con respeto sin ahondar en detalles del desliz más allá del texto.
@@ -549,6 +549,8 @@ Escribe una lista de tres cosas por las que sientes que la gente a tu alrededor 
 [^4]: El Sagrado Corán, sura al-Baqarah, aleya 36: [Texto coránico](https://quran.com/2/36).
 [^5]: El Sagrado Corán, sura Aal 'Imran, aleya 133: [Texto coránico](https://quran.com/3/133).
 [^6]: El Sagrado Corán, sura al-Hadid, aleya 21: [Texto coránico](https://quran.com/57/21).
-[^7]: Sahih al-Bujari, Libro del Comienzo de la Creación, capítulo sobre la descripción de la Jannah y que ya está creada, núm. 3250, y Libro de los Ablandamientos del Corazón, núm. 6415, narrado por Sahl ibn Sa'd as-Sa'idi, que Allah esté complacido con él, con el enunciado «un lugar de un látigo en la Jannah es mejor que la dunya y todo lo que hay en ella» (y de forma semejante, núm. 2892); sahih: [Sahih al-Bujari 3250](https://sunnah.com/bukhari:3250); el enunciado «Una salida al atardecer o al amanecer por la causa de Allah…» está en Sahih al-Bujari, Libro del Yihad, núm. 2796, narrado por Anas ibn Malik, que Allah esté complacido con él: [Sahih al-Bujari 2796](https://sunnah.com/bukhari:2796); Muslim (1880, 1881) narró de Anas y Sahl, que Allah esté complacido con ambos, solo la virtud de la salida al amanecer y al atardecer, sin mencionar el lugar del látigo. También lo recogió Abu Nu'aym al-Isbahani en *Sifat al-Jannah*, en el capítulo sobre la preferencia de un espacio de un látigo de la Jannah sobre la dunya y todo lo que hay en ella: [Shamela - Sifat al-Jannah de Abu Nu'aym](https://shamela.ws/book/21602/61); y lo citó 'Umar Sulayman al-Ashqar en *al-Jannah wa-n-Nar*, tomándolo de *Mishkat al-Masabih* (3/85, núm. 5613): [Shamela - al-Jannah wa-n-Nar de al-Ashqar](https://shamela.ws/book/12714/203).
+[^7]: Sahih al-Bujari, Libro del Comienzo de la Creación, capítulo sobre la descripción de la Jannah y que ya está creada, núm. 3250, y Libro de los Ablandamientos del Corazón, núm. 6415, narrado por Sahl ibn Sa'd as-Sa'idi, que Allah esté complacido con él, con el enunciado «un lugar de un látigo en la Jannah es mejor que la dunya y todo lo que hay en ella» (y de forma semejante, núm. 2892); sahih: [Sahih al-Bujari 3250](https://sunnah.com/bukhari:3250); el enunciado «Una salida al atardecer o al amanecer por la causa de Allah…» está en Sahih al-Bujari, Libro del Yihad, núm. 2796, narrado por Anas ibn Malik, que Allah esté complacido con él: [Sahih al-Bujari 2796](https://sunnah.com/bukhari:2796); Muslim (1880, 1881) narró de Anas y Sahl, que Allah esté complacido con ambos, solo la virtud de la salida al amanecer y al atardecer, sin mencionar el lugar del látigo. También lo recogió Abu Nu'aym al-Isbahani en *Sifat al-Jannah*, en el capítulo sobre la preferencia de un espacio de un látigo de la Jannah sobre la dunya y todo lo que hay en ella: [Shamela - Sifat al-Jannah de Abu Nu'aym](https://shamela.ws/book/21602/61); y lo citó 'Umar Sulayman al-Ashqar en *al-Jannah wa-n-Nar*, tomándolo de *Mishkat al-Masabih* (3/85, núm. 5613): [Shamela - al-Jannah wa-n-Nar de al-Ashqar](https://shamela.ws/book/12714/205).
+[^8]: Abu Muhammad al-Husayn ibn Mas'ud al-Bagawi, *Ma'alim at-Tanzil*, comentario de la sura Aal 'Imran, aleya 133, donde dice que la anchura se menciona por énfasis «porque la longitud de cada cosa es, por lo general, mayor que su anchura; es como si dijera: esta es la descripción de su anchura, ¿cómo será entonces su longitud?», y cita a az-Zuhri: «Solo describió su anchura; en cuanto a su longitud, nadie la conoce salvo Allah»: [El Corán electrónico de la Universidad Rey Saud - Tafsir al-Bagawi](https://quran.ksu.edu.sa/tafseer/baghawy/sura3-aya133.html); y Abu 'Abdullah al-Qurtubi, *al-Yami' li-Ahkam al-Qur'an*, sobre la misma aleya: «Allah aludió a la longitud al mencionar la anchura, porque lo habitual es que la longitud sea mayor que la anchura»: [El Corán electrónico de la Universidad Rey Saud - Tafsir al-Qurtubi](https://quran.ksu.edu.sa/tafseer/qortobi/sura3-aya133.html). Ibn Kathir menciona ambas opiniones: que mencionar la anchura indica la amplitud de la longitud y, según otros, que su anchura es igual a su longitud.
+[^9]: El Sagrado Corán, sura al-Baqarah, aleya 37: `fatalaqqa Adamu min rabbihi kalimatin fataba 'alayh` («Luego Adán recibió de su Señor unas palabras, y Él aceptó su arrepentimiento»): [Texto coránico](https://quran.com/2/37); y sura al-A'raf, aleya 23: `qala rabbana zalamna anfusana` («Dijeron: Señor nuestro, hemos sido injustos con nosotros mismos»): [Texto coránico](https://quran.com/7/23).
 
 <!-- references:end -->

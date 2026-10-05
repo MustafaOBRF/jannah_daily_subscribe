@@ -104,7 +104,7 @@ Ante la puerta se repite la misma palabra, "paz", y con ella llega un testimonio
 
 #### Traducción al español
 
-> **"Los Jardines del Edén ('Adn), en los que entrarán junto con quienes fueron rectos de entre sus padres, sus esposas y su descendencia. Y los ángeles entrarán a verlos por todas las puertas: «¡Paz sobre vosotros por la paciencia que tuvisteis! ¡Qué excelente es el final de la Morada!»."** (Ar-Ra'd 13:23-24)[^6]
+> **"Los Jardines del Edén ('Adn), en los que entrarán junto con quienes fueron rectos de entre sus padres, sus esposas y su descendencia. Y los ángeles entrarán a verlos por todas las puertas: «¡Paz sobre vosotros por la paciencia que tuvisteis! ¡Qué excelente es la morada final!»."** (Ar-Ra'd 13:23-24)[^6]
 
 #### Interpretación académica
 
@@ -152,7 +152,7 @@ El primer saludo que escuchó Adán vino de los ángeles, y fue una respuesta m�
 
 #### Interpretación académica
 
-Dijo an-Nawawi, que Allah tenga misericordia de él, que el sentido de "y no creeréis hasta que os améis" es que vuestra fe no será completa sin ese amor mutuo; que el hadiz contiene una exhortación enérgica a difundir el saludo de paz y a ofrecérselo a todos los musulmanes, a quienes conoces y a quienes no; y que el saludo de paz es la primera de las causas de la concordia y la llave que atrae el afecto, y que con él desaparecen el distanciamiento y la ruptura entre las personas.[^9]
+Dijo an-Nawawi, que Allah tenga misericordia de él, que el sentido de "y no creeréis hasta que os améis" es que vuestra fe no será completa sin ese amor mutuo; que el hadiz contiene una exhortación enérgica a difundir el saludo de paz y a ofrecérselo a todos los musulmanes, a quienes conoces y a quienes no; y que el saludo de paz es la primera de las causas de la concordia y la llave que atrae el afecto; que al difundirlo se afianza la concordia de los musulmanes entre sí y se manifiesta su emblema distintivo, que los diferencia de los seguidores de las demás religiones; y que con él desaparecen el distanciamiento y la ruptura entre las personas.[^9]
 
 #### Explicación de la lección
 
@@ -216,13 +216,13 @@ Hoy vamos a escuchar una historia del Corán sobre unas personas que dijeron una
 
 Hace mucho, mucho tiempo, en La Meca, el Profeta, la paz y las bendiciones de Allah sean con él, recitaba a la gente el Corán que Allah había hecho descender.
 
-Y algunas personas preguntaban: "¿Qué ha hecho descender vuestro Señor?".
+A la gente se le preguntaba por el Corán: "¿Qué ha hecho descender vuestro Señor?".
 
-Se lo preguntaron a unos que no querían la verdad, y ellos dijeron algo que no era cierto: "¡Eso son cuentos de los antiguos!".[^2]
+Cuando se les preguntó a unos que no querían la verdad, dijeron algo que no era cierto: "¡Eso son cuentos de los antiguos!".[^2]
 
-Luego se lo preguntaron a los creyentes, los que temen a Allah y lo obedecen: "¿Qué ha hecho descender vuestro Señor?". Y ellos respondieron con una sola palabra bonita: "¡El bien!". Es decir: Allah ha hecho descender el bien, la misericordia y la bendición.[^1]
+Y cuando se les preguntó a los creyentes, los que temen a Allah y lo obedecen: "¿Qué ha hecho descender vuestro Señor?", respondieron con una sola palabra bonita: "¡El bien!". Es decir: Allah ha hecho descender el bien, la misericordia y la bendición.[^1]
 
-Allah guardó su respuesta en el Corán y les prometió cosas preciosas: algo bueno en este mundo, y jardines por donde corren los ríos, donde tendrán todo lo que les guste.
+Allah guardó su respuesta en el Corán y les prometió cosas preciosas: algo bueno en este mundo, y jardines bajo los cuales corren los ríos, donde tendrán todo lo que les guste.
 
 Y Allah nos contó que, cuando a esas personas buenas y puras se les acabe la vida en este mundo, vendrán los ángeles y les dirán: «Paz sobre vosotros. Entrad en el Paraíso por lo que hacíais».[^1]
 

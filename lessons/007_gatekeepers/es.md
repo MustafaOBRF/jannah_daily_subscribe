@@ -6,7 +6,7 @@ translation_key: "jannah.gatekeepers"
 lang: "es"
 status: "translation_draft"
 authoring_standard: "full_text_depth_v2"
-story_policy: "authenticated_primary_v2"
+story_policy: "rotating_primary_with_authenticated_account_v2"
 primary_story_type: "hadith"
 primary_story_source_id: "muslim-197"
 primary_story_authenticated: "true"
@@ -45,7 +45,7 @@ Esta lección no pretende trazar un retrato imaginario de estos ángeles ni llen
 
 <!-- evidence:start id="quran-39-73" kind="quran" mode="canonical" -->
 
-### Y Sus Guardianes Les Dirán: "¡Que La Paz Sea Con Ustedes! Fueron Buenos; Entren, Pues, En Ella Para Siempre"
+### Y sus guardianes les dirán: "¡Que la paz sea con ustedes! Fueron buenos; entren, pues, en ella para siempre"
 
 > **وَسِيقَ الَّذِينَ اتَّقَوْا رَبَّهُمْ إِلَى الْجَنَّةِ زُمَرًا حَتَّىٰ إِذَا جَاءُوهَا وَفُتِحَتْ أَبْوَابُهَا وَقَالَ لَهُمْ خَزَنَتُهَا سَلَامٌ عَلَيْكُمْ طِبْتُمْ فَادْخُلُوهَا خَالِدِينَ.** [الزمر: ٧٣][^1]
 
@@ -55,7 +55,7 @@ Esta lección no pretende trazar un retrato imaginario de estos ángeles ni llen
 
 #### Interpretación erudita
 
-Los exégetas mencionan que `zumaran` ("en grupos") significa grupos que se suceden unos a otros, en honor a la gente temerosa de Allah y en celebración de su llegada, a diferencia de cómo es conducida la gente del Fuego, descrita con esa misma palabra, pero en un contexto de humillación. Explican también que la expresión de los guardianes `tibtum` ("fueron buenos") es un saludo hermoso que corresponde a una morada que Allah ha purificado de toda impureza, indicando la pureza de los corazones y las obras de sus habitantes en la vida mundanal, y que `jalidin` ("para siempre") es una buena nueva explícita de que todo temor a la desaparición o a la separación ha terminado.[^2]
+Ibn Kazir explica `zumaran` ("en grupos") como "un grupo tras otro", cada grupo junto a quienes se le asemejan, y dice que los ángeles guardianes los reciben con buenas nuevas, saludos de paz y elogios, "no como los guardianes del Infierno reciben a los incrédulos, con reproche y reprensión". Explica `tibtum` ("fueron buenos") como "fueron buenas sus obras y sus palabras, fue bueno su esfuerzo, y por eso es buena su recompensa", y `jalidin` ("para siempre") como "permaneciendo en ella eternamente, sin desear jamás salir de ella".[^2] As-Sa'di añade que son llevados al Paraíso "con honra y dignidad", que `salamun 'alaykum` significa estar a salvo de todo mal y de toda desgracia, y que `tibtum` significa: "se volvieron buenos sus corazones al conocer a Allah, amarlo y temerlo; sus lenguas, al recordarlo; y sus miembros, al obedecerlo". Por esa bondad se les dice que entren en ella para siempre, "porque es la morada buena, y solo los buenos son dignos de ella".[^10]
 
 #### Explicación de la lección
 
@@ -65,7 +65,7 @@ Observa el orden de la escena: una marcha colectiva honrada, luego la apertura d
 
 <!-- evidence:start id="muslim-197" kind="hadith" mode="canonical" -->
 
-### Se Me Ordenó Respecto a Ti; No Abro A Nadie Antes Que A Ti
+### Se me ordenó respecto a ti; no abro a nadie antes que a ti
 
 > عَنْ أَنَسِ بْنِ مَالِكٍ رضي الله عنه، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ: **«آتِي بَابَ الْجَنَّةِ يَوْمَ الْقِيَامَةِ فَأَسْتَفْتِحُ، فَيَقُولُ الْخَازِنُ: مَنْ أَنْتَ؟ فَأَقُولُ: مُحَمَّدٌ، فَيَقُولُ: بِكَ أُمِرْتُ لَا أَفْتَحُ لِأَحَدٍ قَبْلَكَ».**[^3]
 
@@ -85,7 +85,7 @@ Este hadiz responde a una pregunta práctica que puede venir a la mente: ¿cómo
 
 <!-- evidence:start id="bukhari-1897" kind="hadith" mode="canonical" -->
 
-### Quien Sea De La Gente De La Oración Será Llamado Desde La Puerta De La Oración
+### Quien sea de la gente de la oración será llamado desde la puerta de la oración
 
 > عَنْ أَبِي هُرَيْرَةَ رضي الله عنه، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ: **«مَنْ أَنْفَقَ زَوْجَيْنِ فِي سَبِيلِ اللَّهِ نُودِيَ مِنْ أَبْوَابِ الْجَنَّةِ: يَا عَبْدَ اللَّهِ هَذَا خَيْرٌ، فَمَنْ كَانَ مِنْ أَهْلِ الصَّلَاةِ دُعِيَ مِنْ بَابِ الصَّلَاةِ، وَمَنْ كَانَ مِنْ أَهْلِ الْجِهَادِ دُعِيَ مِنْ بَابِ الْجِهَادِ، وَمَنْ كَانَ مِنْ أَهْلِ الصِّيَامِ دُعِيَ مِنْ بَابِ الرَّيَّانِ، وَمَنْ كَانَ مِنْ أَهْلِ الصَّدَقَةِ دُعِيَ مِنْ بَابِ الصَّدَقَةِ». فَقَالَ أَبُو بَكْرٍ رضي الله عنه: بِأَبِي أَنْتَ وَأُمِّي يَا رَسُولَ اللَّهِ، مَا عَلَى مَنْ دُعِيَ مِنْ تِلْكَ الْأَبْوَابِ مِنْ ضَرُورَةٍ، فَهَلْ يُدْعَى أَحَدٌ مِنْ تِلْكَ الْأَبْوَابِ كُلِّهَا؟ قَالَ: **«نَعَمْ، وَأَرْجُو أَنْ تَكُونَ مِنْهُمْ».**[^4]
 
@@ -105,7 +105,7 @@ Este hadiz completa el hadiz anterior de la apertura: así como el guardián no 
 
 <!-- evidence:start id="quran-13-23-24" kind="quran" mode="canonical" -->
 
-### Y Los Ángeles Entrarán A Verlos Por Cada Puerta
+### Y los ángeles entrarán a verlos por cada puerta
 
 > **جَنَّاتُ عَدْنٍ يَدْخُلُونَهَا وَمَنْ صَلَحَ مِنْ آبَائِهِمْ وَأَزْوَاجِهِمْ وَذُرِّيَّاتِهِمْ ۖ وَالْمَلَائِكَةُ يَدْخُلُونَ عَلَيْهِمْ مِنْ كُلِّ بَابٍ * سَلَامٌ عَلَيْكُمْ بِمَا صَبَرْتُمْ ۚ فَنِعْمَ عُقْبَى الدَّارِ.** [الرعد: ٢٣-٢٤][^5]
 
@@ -115,7 +115,7 @@ Este hadiz completa el hadiz anterior de la apertura: así como el guardián no 
 
 #### Interpretación erudita
 
-Los exégetas explican que esta escena describe un honor añadido, más allá de la mera entrada en la Jannah: los ángeles visitan a sus habitantes por cada puerta para felicitarlos, y vinculan explícitamente este honor con la perseverancia que mostraron en la vida mundanal: en la obediencia, frente a la desobediencia y ante los decretos de Allah.
+Los exégetas explican que esta escena describe un honor añadido, más allá de la mera entrada en la Jannah: los ángeles visitan a sus habitantes por cada puerta para felicitarlos, y vinculan explícitamente este honor con la perseverancia que mostraron en la vida mundanal: en la obediencia, frente a la desobediencia y ante los decretos de Allah.[^11]
 
 #### Explicación de la lección
 
@@ -125,7 +125,7 @@ Esta aleya lleva la escena de los guardianes en la entrada a un cuadro más ampl
 
 <!-- evidence:start id="quran-66-6" kind="quran" mode="canonical" -->
 
-### Ángeles Severos Y Rigurosos Que No Desobedecen A Allah En Lo Que Él Les Ordena
+### Ángeles severos y rigurosos que no desobedecen a Allah en lo que Él les ordena
 
 > **يَا أَيُّهَا الَّذِينَ آمَنُوا قُوا أَنْفُسَكُمْ وَأَهْلِيكُمْ نَارًا وَقُودُهَا النَّاسُ وَالْحِجَارَةُ عَلَيْهَا مَلَائِكَةٌ غِلَاظٌ شِدَادٌ لَا يَعْصُونَ اللَّهَ مَا أَمَرَهُمْ وَيَفْعَلُونَ مَا يُؤْمَرُونَ.** [التحريم: ٦][^6]
 
@@ -135,7 +135,7 @@ Esta aleya lleva la escena de los guardianes en la entrada a un cuadro más ampl
 
 #### Interpretación erudita
 
-Esta aleya fue revelada para describir a los ángeles del Fuego y su rigor al ejecutar la orden de Allah, pero los eruditos se apoyan en su sentido general para mostrar un atributo común a todos los ángeles, no exclusivo de los ángeles del Fuego: la obediencia perfecta y la imposibilidad misma de desobedecer.
+Esta aleya fue revelada para describir a los ángeles del Fuego y su rigor al ejecutar la orden de Allah, pero los eruditos se apoyan en su sentido general para mostrar un atributo común a todos los ángeles, no exclusivo de los ángeles del Fuego: la obediencia perfecta y la imposibilidad misma de desobedecer. Respalda este sentido general lo que dice Allah de los ángeles, a quienes llama siervos honrados: `لَا يَسْبِقُونَهُ بِالْقَوْلِ وَهُمْ بِأَمْرِهِ يَعْمَلُونَ` ("No se le adelantan al hablar y actúan según Su orden") (Al-Anbiya' 21:27).[^12]
 
 #### Explicación de la lección
 
@@ -145,7 +145,7 @@ Este atributo general nos explica el comportamiento del guardián de la Jannah e
 
 <!-- evidence:start id="quran-43-77" kind="quran" mode="canonical" -->
 
-### Y Llamarán: "¡Oh Malik! Que Tu Señor Acabe Con Nosotros"
+### Y llamarán: "¡Oh Malik! Que tu Señor acabe con nosotros"
 
 > **وَنَادَوْا يَا مَالِكُ لِيَقْضِ عَلَيْنَا رَبُّكَ ۖ قَالَ إِنَّكُمْ مَاكِثُونَ.** [الزخرف: ٧٧][^7]
 
@@ -155,7 +155,7 @@ Este atributo general nos explica el comportamiento del guardián de la Jannah e
 
 #### Interpretación erudita
 
-Aquí el Qur'an llama al guardián del Fuego por su nombre propio, `Malik`: es un texto concluyente en cuanto a su nombre, que no necesita investigación ni ponderar opiniones, a diferencia de lo que se explicará sobre el nombre popular del guardián de la Jannah.
+Aquí el Qur'an llama al guardián del Fuego por su nombre propio, `Malik`: es un texto concluyente en cuanto a su nombre, que no necesita investigación ni ponderar opiniones, a diferencia de lo que se explicará sobre el nombre popular del guardián de la Jannah. Por eso Ibn Kazir dice sobre `ya Malik` ("¡Oh Malik!"): "Él es el guardián del Fuego".[^13]
 
 #### Explicación de la lección
 
@@ -165,7 +165,7 @@ Para quien reflexiona, este contraste es deliberado: cuando el Qur'an quiso nomb
 
 ### Nota erudita: ¿Está probado que el nombre del guardián de la Jannah es Ridwan?
 
-Se ha popularizado llamar `Ridwan` al jefe de los guardianes de la Jannah, hasta el punto de que muchos lo creen tan probado como el nombre `Malik` para el guardián del Fuego. Sin embargo, los relatos transmitidos sobre este nombre no incluyen ningún hadiz auténtico con cadena de transmisión ininterrumpida hasta el Profeta ﷺ: algunos tienen cadenas débiles y otros son rechazados (munkar). Ibn al-Qayyim, que Allah tenga misericordia de él, y el hafiz Abu Nu'aym al-Asbahani, que Allah tenga misericordia de él, reunieron lo transmitido sobre este tema en sus respectivos libros dedicados a la descripción de la Jannah, y su recopilación es útil al investigador para conocer las distintas vías de transmisión del relato; pero que un relato aparezca en un libro sobre la descripción de la Jannah no basta por sí solo para dictaminar su autenticidad; la validez de cada relato se examina en su propia cadena de transmisión. Por eso el propio Ibn al-Qayyim menciona el nombre `Ridwan` para el jefe de los guardianes, mientras que el editor de su libro advierte que nada de lo transmitido sobre este tema es auténtico.[^8][^9]
+Se ha popularizado llamar `Ridwan` al jefe de los guardianes de la Jannah, hasta el punto de que muchos lo creen tan probado como el nombre `Malik` para el guardián del Fuego. Sin embargo, los relatos transmitidos sobre este nombre no incluyen ningún hadiz auténtico con cadena de transmisión ininterrumpida hasta el Profeta ﷺ: algunos tienen cadenas débiles y otros son rechazados (munkar). Ibn al-Qayyim, que Allah tenga misericordia de él, y el hafiz Abu Nu'aym al-Asbahani, que Allah tenga misericordia de él, dedicaron cada uno un capítulo a los guardianes de la Jannah en sus libros sobre la descripción de la Jannah; en él recogieron el hadiz auténtico de la petición de apertura y el hadiz de los guardianes de la Jannah que llaman a quien gasta un par en el camino de Allah, y en el capítulo de Abu Nu'aym no aparece ningún relato que dé nombre al jefe de los guardianes.[^9] Ibn al-Qayyim, en cambio, afirma que el nombre del jefe de los guardianes es `Ridwan`, y el editor de su libro rastreó los relatos sobre este nombre: mostró que algunos son muy débiles y otros rechazados (munkar), y concluyó: "Nada de lo transmitido sobre este tema es auténtico".[^8] Así pues, que un nombre aparezca en un libro sobre la descripción de la Jannah no basta por sí solo para dictaminar que está probado, porque la validez de cada relato se examina en su propia cadena de transmisión.
 
 Esta advertencia no resta valor a un significado hermoso que el corazón ama; es una cuestión de respeto ante lo oculto: creemos con certeza absoluta lo que Allah y Su Mensajero nos informaron, y no afirmamos con certeza lo que no se ha establecido, aunque esté en boca de todos. El fruto educativo es que el creyente no se entretiene con un nombre que no está probado, sino con la pregunta más provechosa: ¿me preparo para escuchar ese saludo yo mismo?
 
@@ -209,7 +209,7 @@ La Jannah tiene puertas, y tiene ángeles nobles encargados de ellas; a cada uno
 
 <!-- unit:start id="4-7.primary-story" kind="primary_story" -->
 
-### Un Hadiz Auténtico: Se Me Ordenó Respecto a Ti; No Abro A Nadie Antes Que A Ti
+### Un hadiz auténtico: se me ordenó respecto a ti; no abro a nadie antes que a ti
 
 <!-- story:start audience="4-7" role="primary" type="hadith" source_id="muslim-197" authenticated="true" -->
 
@@ -281,7 +281,7 @@ Los guardianes de la Jannah son ángeles nobles encargados de sus puertas; nunca
 
 <!-- unit:start id="8-12.primary-story" kind="primary_story" -->
 
-### Un Hadiz Auténtico: Un Diálogo Junto A La Puerta De La Jannah
+### Un hadiz auténtico: un diálogo junto a la puerta de la Jannah
 
 <!-- story:start audience="8-12" role="primary" type="hadith" source_id="muslim-197" authenticated="true" -->
 
@@ -368,7 +368,7 @@ El tema de los guardianes de la Jannah es un ejercicio práctico de dos actitude
 
 <!-- unit:start id="13+.primary-story" kind="primary_story" -->
 
-### Un Hadiz Auténtico: La Fidelidad Del Guardián Y La Precedencia Del Profeta ﷺ
+### Un hadiz auténtico: la fidelidad del guardián y la precedencia del Profeta ﷺ
 
 <!-- story:start audience="13+" role="primary" type="hadith" source_id="muslim-197" authenticated="true" -->
 
@@ -396,7 +396,7 @@ En otras palabras: el guardián de la Jannah concedió el permiso al Profeta ﷺ
 
 - **`Astaftihu`** ("pediré que se abra") — pido que se abra la puerta, lo cual es una petición de permiso, no una acción por iniciativa propia.
 - **`Bika umirtu`** ("se me ordenó respecto a ti") — una expresión que indica que la acción se basa en una orden previa de Allah, no un juicio personal ni una estimación propia del guardián.
-- **`La excepción en la denominación`** — una regla erudita: no se establece un nombre para algo descrito en lo oculto sino con una prueba específica para ello, y no se aplica por analogía a otro aunque la descripción se parezca, como en la diferencia entre `Malik`, cuya denominación está establecida, y `Ridwan`, que no lo está.
+- **`At-tawqif fi asma' al-ghayb`** ("los nombres de lo oculto requieren una prueba revelada") — es decir: no se establece un nombre para algo descrito en lo oculto sino con una prueba específica para ello, y no se aplica por analogía a otro aunque la descripción se parezca, como en la diferencia entre `Malik`, cuya denominación está establecida, y `Ridwan`, que no lo está.
 
 <!-- terminology:end -->
 
@@ -457,7 +457,7 @@ Durante una semana, registra cada vez que te encuentres con una información rel
 **Materiales:** Una copia completa de la aleya de Az-Zumar 73, las aleyas de Ar-Ra'd 23-24, la aleya de At-Tahrim 6 y la aleya de Az-Zujruf 77; el texto de los hadices de Muslim 197 y al-Bujari 1897; tarjetas de entrada en blanco; papel y bolígrafos.
 
 <!-- lesson-plan:preparation -->
-**Preparación:** El maestro repasa la distinción erudita entre el nombre Malik, que está probado, y el nombre Ridwan, que no lo está, a partir de los relatos reunidos por Ibn al-Qayyim y Abu Nu'aym, teniendo en cuenta que Ibn al-Qayyim menciona el nombre Ridwan y que el editor de su libro señala la debilidad de sus cadenas, y prepara un ejemplo neutral de una información religiosa popular para que los participantes verifiquen juntos su fuente.
+**Preparación:** El maestro repasa la distinción erudita entre el nombre Malik, que está probado, y el nombre Ridwan, que no lo está, a partir de los capítulos sobre los guardianes de la Jannah de Ibn al-Qayyim y Abu Nu'aym, teniendo en cuenta que Ibn al-Qayyim menciona el nombre Ridwan, que el editor de su libro señala la debilidad de sus cadenas y que Abu Nu'aym no recoge en su capítulo ningún relato con ese nombre, y prepara un ejemplo neutral de una información religiosa popular para que los participantes verifiquen juntos su fuente.
 
 <!-- lesson-plan:opening -->
 **Apertura — 5 minutos:** Pregunta: "Si se te confiara una puerta o una cuenta importante, ¿qué es lo primero que verificarías antes de permitir que alguien entre?"
@@ -574,7 +574,7 @@ Durante una semana, registra cada vez que te encuentres con una información rel
 **Estudio de las pruebas — 12 minutos:** Tres grupos leen la aleya de Az-Zumar 73 y los hadices de Muslim 197 y al-Bujari 1897, y cada grupo extrae el significado de `se me ordenó respecto a ti` y el significado de las puertas de las obras.
 
 <!-- lesson-plan:instruction -->
-**Instrucción guiada — 13 minutos:** El maestro explica los términos `astaftihu` y "la excepción en la denominación", y discute brevemente la diferencia entre un relato con cadena establecida y un relato popular sin cadena.
+**Instrucción guiada — 13 minutos:** El maestro explica los términos `astaftihu` y "at-tawqif fi asma' al-ghayb" (los nombres de lo oculto requieren una prueba revelada), y discute brevemente la diferencia entre un relato con cadena establecida y un relato popular sin cadena.
 
 <!-- lesson-plan:activity -->
 **Actividad — 15 minutos:** Los estudiantes comienzan el registro semanal del guardián de la puerta, planifican su semana de seguimiento, y escriben un párrafo introductorio sobre una información religiosa que verificarán.
@@ -595,13 +595,17 @@ Durante una semana, registra cada vez que te encuentres con una información rel
 ## Referencias
 
 [^1]: El Noble Qur'an, sura Az-Zumar, aleya 73: [Texto coránico](https://quran.com/39/73).
-[^2]: Interpretación de las palabras `zumaran` y `tibtum` en la sura Az-Zumar, aleya 73, según la mayoría de los exégetas: [Mushaf digital de la Universidad Rey Saud, tafsir de Ibn Kazir](https://quran.ksu.edu.sa/tafseer/katheer/sura39-aya73.html).
+[^2]: Ibn Kazir, *Tafsir al-Qur'an al-'Azim*, comentario de la sura Az-Zumar, aleya 73 (sobre `zumaran`, `tibtum` y `jalidin`, y el contraste entre cómo los guardianes reciben a la gente de la Jannah y cómo los guardianes del Infierno reciben a la gente del Fuego): [Mushaf digital de la Universidad Rey Saud, tafsir de Ibn Kazir](https://quran.ksu.edu.sa/tafseer/katheer/sura39-aya73.html).
 [^3]: Sahih Muslim, hadiz 197, narrado por Anas ibn Malik, que Allah esté complacido con él: [Sunnah.com, hadiz 197](https://sunnah.com/muslim:197).
 [^4]: Sahih al-Bujari, hadiz 1897 (y Muslim 1027), narrado por Abu Hurayrah, que Allah esté complacido con él: [Sunnah.com, hadiz 1897](https://sunnah.com/bukhari:1897).
 [^5]: El Noble Qur'an, sura Ar-Ra'd, aleyas 23-24: [Texto coránico](https://quran.com/13/23-24).
 [^6]: El Noble Qur'an, sura At-Tahrim, aleya 6: [Texto coránico](https://quran.com/66/6).
 [^7]: El Noble Qur'an, sura Az-Zujruf, aleya 77: [Texto coránico](https://quran.com/43/77).
-[^8]: Muhammad ibn Abi Bakr Ibn Qayyim al-Jawziyyah, *Hadi al-Arwah ila Bilad al-Afrah*, capítulo veinticuatro: sobre los porteros y guardianes de la Jannah, con la nota del editor sobre la debilidad de los relatos referidos al nombre Ridwan: [al-Maktaba ash-Shamila](https://shamela.ws/book/13652/274).
-[^9]: Abu Nu'aym al-Asbahani, *Sifat al-Jannah*, capítulo sobre los porteros y guardianes de la Jannah: [al-Maktaba ash-Shamila](https://shamela.ws/book/21602/222).
+[^8]: Muhammad ibn Abi Bakr Ibn Qayyim al-Jawziyyah, *Hadi al-Arwah ila Bilad al-Afrah* (edición de 'Ata'at al-'Ilm), capítulo veinticuatro: sobre los porteros y guardianes de la Jannah y el nombre de su jefe, pp. 221-222. En la p. 222, Ibn al-Qayyim llama Ridwan al jefe de los guardianes, y la nota del editor rastrea los relatos sobre ese nombre: el de ad-Dahhak de Ibn 'Abbas, en *Asbab an-Nuzul* de al-Wahidi y *Shu'ab al-Iman* de al-Bayhaqi (cadena muy débil), y el de Anas, en *Ar-Ru'ya* de ad-Daraqutni (munkar), y afirma: "Nada de lo transmitido sobre este tema es auténtico": [al-Maktaba ash-Shamila, inicio del capítulo](https://shamela.ws/book/13652/274), [al-Maktaba ash-Shamila, el nombre y la nota del editor](https://shamela.ws/book/13652/275).
+[^9]: Abu Nu'aym al-Asbahani, *Sifat al-Jannah*, capítulo sobre los porteros y guardianes de la Jannah, relatos 186-188 (el hadiz de Anas sobre la petición de apertura, y los hadices de Abu Dharr y Abu Hurayrah sobre los porteros de la Jannah que llaman a quien gasta un par); ninguno de ellos nombra al jefe de los guardianes: [al-Maktaba ash-Shamila](https://shamela.ws/book/21602/222).
+[^10]: 'Abd ar-Rahman ibn Nasir as-Sa'di, *Taysir al-Karim ar-Rahman fi Tafsir Kalam al-Mannan*, comentario de la sura Az-Zumar, aleya 73: [Mushaf digital de la Universidad Rey Saud, tafsir de as-Sa'di](https://quran.ksu.edu.sa/tafseer/saadi/sura39-aya73.html).
+[^11]: Ibn Kazir, *Tafsir al-Qur'an al-'Azim*, comentario de la sura Ar-Ra'd, aleya 24 (los ángeles entran a verlos "para felicitarlos por su entrada en la Jannah"): [tafsir de Ibn Kazir](https://quran.ksu.edu.sa/tafseer/katheer/sura13-aya24.html); y as-Sa'di, *Taysir al-Karim ar-Rahman*, comentario de la sura Ar-Ra'd, aleya 22 (la paciencia en cumplir lo ordenado, en abstenerse de lo prohibido y ante los decretos dolorosos de Allah): [tafsir de as-Sa'di](https://quran.ksu.edu.sa/tafseer/saadi/sura13-aya22.html).
+[^12]: El Noble Qur'an, sura Al-Anbiya', aleyas 26-27: [Texto coránico](https://quran.com/21/26-27); e Ibn Kazir, *Tafsir al-Qur'an al-'Azim*, comentario de la sura At-Tahrim, aleya 6: [tafsir de Ibn Kazir](https://quran.ksu.edu.sa/tafseer/katheer/sura66-aya6.html), y de la sura Al-Anbiya', aleya 27: [tafsir de Ibn Kazir](https://quran.ksu.edu.sa/tafseer/katheer/sura21-aya27.html).
+[^13]: Ibn Kazir, *Tafsir al-Qur'an al-'Azim*, comentario de la sura Az-Zujruf, aleya 77: [Mushaf digital de la Universidad Rey Saud, tafsir de Ibn Kazir](https://quran.ksu.edu.sa/tafseer/katheer/sura43-aya77.html).
 
 <!-- references:end -->

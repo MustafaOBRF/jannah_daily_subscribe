@@ -57,7 +57,7 @@ The lesson completes the earlier lesson in this series on the eternity of Jannah
 
 #### Scholarly Explanation
 
-The narration in Muslim adds: "and it will be made to stand between Jannah and the Fire," and "the command will be given concerning it, and it will be slaughtered," and at its end: "and he pointed with his hand toward this world."[^1] *Amlah* describes an animal whose white is mixed with black, and *yashra'ibbun* means that they stretch out their necks and lift their heads, straining to see.[^6] Ibn al-Qayyim, may Allah have mercy on him, affirmed that this scene is a reality and not an allegory: Allah is able to make death take on the form of a ram that can be seen and slaughtered, just as He has told us that Surat al-Baqarah and Surat Al Imran will come on the Day of Resurrection as though they were two clouds.[^6] Ibn Kathir, may Allah have mercy on him, explained `when the matter will have been decided` to mean that the people of Jannah and the people of the Fire have been separated, and each has entered the abode that has become theirs, to remain there forever.[^4]
+The narration in Muslim adds: "and it will be made to stand between Jannah and the Fire," and "the command will be given concerning it, and it will be slaughtered," and at its end: "and he pointed with his hand toward this world."[^1] *Amlah* describes an animal whose white is mixed with black, and *yashra'ibbun* means that they stretch out their necks and lift their heads, straining to see.[^6] Ibn al-Qayyim, may Allah have mercy on him, affirmed that this scene is a reality and not an allegory: Allah is able to make death take on the form of a ram that can be seen and slaughtered, just as the Prophet, peace and blessings be upon him, told us that Surah al-Baqarah and Surah Al Imran will come on the Day of Resurrection as though they were two clouds.[^6] Ibn Kathir, may Allah have mercy on him, explained `when the matter will have been decided` to mean that the people of Jannah and the people of the Fire have been separated, and each has entered the abode that has become theirs, to remain there forever.[^4]
 
 #### Lesson Explanation
 
@@ -174,7 +174,7 @@ Then a voice calls out: "O people of Jannah!" They lift their heads and stretch 
 
 Death is brought in, in the shape of a ram, a white sheep with some black in its wool. Someone asks them, "Do you know what this is?" And they say, "Yes, this is death." Every one of them knows it. The people of the Fire are called too, and they know it as well.
 
-Then Allah gives the command, and death is slaughtered. That means death itself comes to an end, and it never, ever comes back.
+Then the command is given, and death is slaughtered. That means death itself comes to an end, and it never, ever comes back.
 
 Then a voice calls out: "O people of Jannah, forever, and no death!" That means: "You will stay here always and always, and you will never die." And the people of Jannah become even happier than they already were.[^2]
 
@@ -289,7 +289,7 @@ In other words: death is brought in the form of a ram that everyone recognizes, 
 
 1. Why were the people of Jannah asked, "Do you know what this is?" before death was slaughtered?
 2. What did the call add to the joy of the people of Jannah?
-3. Name two things the people of Jannah are safe from, according to the ayat of Surat al-Hijr.
+3. Name two things the people of Jannah are safe from, according to the ayat of Surah al-Hijr.
 4. Where did the Prophet, peace and blessings be upon him, point with his hand, and why?
 5. What sometimes makes you forget to do good during your day?
 
@@ -427,7 +427,7 @@ Meaning: O Allah, admit us into Jannah in complete security, give us joy upon jo
 **Learning Outcomes:** The learner narrates the hadith of the slaughter of death in sequence, together with the additional wording in Muslim's narration; explains the added phrase "joy upon their joy" and its timing; lists the four faces of security in al-Hijr 15:45-48 with the help of as-Sa'di's tafsir; distinguishes between affirming the unseen as it has been reported and speculating about how it happens; and begins a week-long nightly review with two columns and a specific fix.
 
 <!-- lesson-plan:materials -->
-**Materials:** A copy of the lesson for each learner; a mushaf open to Surat al-Hijr and Surah Maryam; a board divided into three columns headed "Recognition," "Removal," and "The Call"; an activity sheet with seven rows and two columns; exit cards.
+**Materials:** A copy of the lesson for each learner; a mushaf open to Surah al-Hijr and Surah Maryam; a board divided into three columns headed "Recognition," "Removal," and "The Call"; an activity sheet with seven rows and two columns; exit cards.
 
 <!-- lesson-plan:preparation -->
 **Preparation:** The teacher reads al-Bukhari 4730 and 6548 and Muslim 2849 and 2850 and compares their wording; reviews Ibn Kathir's tafsir of Maryam 19:39, as-Sa'di's tafsir of al-Hijr 15:46 and 15:48, and the section on the slaughter of death in Ibn al-Qayyim's *Hadi al-Arwah*. The teacher keeps in mind that the earlier lesson in this series on the eternity of Jannah covered the ayat of al-Waqi'ah and the hadith of Muslim 2837, so these are only referred to here, not repeated. The teacher should also be ready for the question: "How can death be slaughtered when it is not a physical body?"
@@ -569,10 +569,10 @@ Meaning: O Allah, admit us into Jannah in complete security, give us joy upon jo
 
 [^1]: Sahih al-Bukhari, Book of Tafsir, Chapter: `And warn them of the Day of Regret`, hadith 4730, narrated by Abu Sa'id al-Khudri, may Allah be pleased with him; authentic: [sunnah.com/bukhari:4730](https://sunnah.com/bukhari:4730). Also narrated by Muslim in the Book of Jannah, Its Description, Its Bliss, and Its People, hadith 2849, with the additional wording "and it will be made to stand between Jannah and the Fire" and "and he pointed with his hand toward this world": [sunnah.com/muslim:2849](https://sunnah.com/muslim:2849). The text quoted is al-Bukhari's wording. The English rendering in this lesson is a meaning-based project translation.
 [^2]: Sahih al-Bukhari, Book of Softening of Hearts (*ar-Riqaq*), Chapter on the Description of Jannah and the Fire, hadith 6548, narrated by Abdullah ibn Umar, may Allah be pleased with them both; authentic: [sunnah.com/bukhari:6548](https://sunnah.com/bukhari:6548). Also narrated by Muslim, Book of Jannah, Its Description, Its Bliss, and Its People, hadith 2850: [sunnah.com/muslim:2850](https://sunnah.com/muslim:2850). The English rendering in this lesson is a meaning-based project translation.
-[^3]: The Noble Qur'an, Surat al-Hijr, ayat 45-48: [quran.com/15/45-48](https://quran.com/15/45-48). The English rendering in this lesson is a meaning-based project translation.
+[^3]: The Noble Qur'an, Surah al-Hijr, ayat 45-48: [quran.com/15/45-48](https://quran.com/15/45-48). The English rendering in this lesson is a meaning-based project translation.
 [^4]: Ibn Kathir, *Tafsir al-Qur'an al-'Azim*, tafsir of Surah Maryam, ayah 39: [quran.ksu.edu.sa/tafseer/katheer/sura19-aya39.html](https://quran.ksu.edu.sa/tafseer/katheer/sura19-aya39.html).
-[^5]: As-Sa'di, *Taysir al-Karim ar-Rahman*, tafsir of Surat al-Hijr, ayat 46 and 48: [quran.ksu.edu.sa/tafseer/saadi/sura15-aya46.html](https://quran.ksu.edu.sa/tafseer/saadi/sura15-aya46.html) and [quran.ksu.edu.sa/tafseer/saadi/sura15-aya48.html](https://quran.ksu.edu.sa/tafseer/saadi/sura15-aya48.html).
-[^6]: Ibn Qayyim al-Jawziyyah, *Hadi al-Arwah ila Bilad al-Afrah*, Chapter Sixty-Nine, Section on the Slaughter of Death between Jannah and the Fire ('Ata'at al-'Ilm edition, pp. 813-816), with the editor's note on the meaning of *yashra'ibbun*: [shamela.ws/book/13652/865](https://shamela.ws/book/13652/865). On the meaning of *amlah* (having both white and black), see an-Nawawi, *al-Minhaj Sharh Sahih Muslim*, commentary on hadith 2849.
+[^5]: As-Sa'di, *Taysir al-Karim ar-Rahman*, tafsir of Surah al-Hijr, ayat 46 and 48: [quran.ksu.edu.sa/tafseer/saadi/sura15-aya46.html](https://quran.ksu.edu.sa/tafseer/saadi/sura15-aya46.html) and [quran.ksu.edu.sa/tafseer/saadi/sura15-aya48.html](https://quran.ksu.edu.sa/tafseer/saadi/sura15-aya48.html).
+[^6]: Ibn Qayyim al-Jawziyyah, *Hadi al-Arwah ila Bilad al-Afrah*, Chapter Sixty-Nine, Section on the Slaughter of Death between Jannah and the Fire ('Ata'at al-'Ilm edition, pp. 813-816), with the editor's note, quoting the copyist of manuscript "A" from *al-Matali'*, on the meaning of *yashra'ibbun*: [shamela.ws/book/13652/865](https://shamela.ws/book/13652/865). On the meaning of *amlah* (having both white and black), see an-Nawawi, *al-Minhaj Sharh Sahih Muslim*, commentary on hadith 2849.
 [^7]: As-Sa'di, *Taysir al-Karim ar-Rahman*, tafsir of Surah Maryam, ayat 39-40: [quran.ksu.edu.sa/tafseer/saadi/sura19-aya39.html](https://quran.ksu.edu.sa/tafseer/saadi/sura19-aya39.html).
 [^8]: The Noble Qur'an, Surah Maryam, ayat 39-40: [quran.com/19/39-40](https://quran.com/19/39-40). The English rendering in this lesson is a meaning-based project translation.
 

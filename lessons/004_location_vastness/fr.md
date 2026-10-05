@@ -34,7 +34,7 @@ Après cette leçon, l'apprenant sera capable de :
 
 <!-- unit:start id="adults.explanation" kind="explanation" -->
 
-Quand le Coran décrit la Jannah comme `عَرْضُهَا السَّمَاوَاتُ وَالْأَرْضُ`, il n'ouvre pas la porte à un calcul géométrique, mais ouvre le cœur à une immensité dépassant toute mesure terrestre. Le plus ancien témoignage de cette immensité dans le Coran n'est pas un verset général, mais un événement précis : Adam, paix sur lui, premier homme créé par Allah, fut installé avec son épouse dans la Jannah elle-même, avec la permission de manger où il voulait, un seul arbre lui étant interdit. Cette Jannah était si vaste qu'on n'y trouvait aucune étroitesse appelant plus d'un seul interdit.
+Quand le Coran décrit la Jannah comme `عَرْضُهَا السَّمَاوَاتُ وَالْأَرْضُ`, il n'ouvre pas la porte à un calcul géométrique, mais ouvre le cœur à une immensité dépassant toute mesure terrestre. Le plus ancien témoignage de cette immensité dans le Coran n'est pas un verset général, mais un événement précis : Adam, paix sur lui, premier homme créé par Allah, fut installé avec son épouse dans la Jannah elle-même, selon l'avis de la majorité des savants,[^3] avec la permission de manger où il voulait, un seul arbre lui étant interdit. Cette Jannah était si vaste qu'on n'y trouvait aucune étroitesse appelant plus d'un seul interdit.
 
 Puis vint une seule faute, sous l'effet des suggestions de Satan, et Adam et son épouse furent chassés de l'état où ils se trouvaient et envoyés sur terre. Cet événement fait voir au cœur deux vérités liées : la Jannah perdue par Adam était un délice immense, et y entrer ou en sortir ne dépend pas de sa taille, mais de l'obéissance à Allah. Les versets d'Al 'Imran et d'Al-Hadid annoncent ensuite que cette même immensité est promise à tout croyant qui se hâte vers le pardon de son Seigneur ; et la Sunna ajoute un autre critère : une immensité non seulement de lieu, mais de valeur, au point que son plus petit espace vaut mieux que ce monde entier et tout ce qu'il contient.
 
@@ -85,7 +85,7 @@ Voici la première description concrète de l'immensité de la Jannah dans le Co
 
 #### Explication de la leçon
 
-Ce ne fut pas l'exiguïté du lieu qui fit sortir Adam et son épouse de ce délice, mais une seule faute, sous l'effet des suggestions de Satan : avoir touché à la seule chose interdite parmi toute cette immensité. Allah leur pardonna ensuite, mais l'événement reste un enseignement : plus le délice est vaste, plus grande est la perte de celui qui néglige l'unique ordre qui lui a été fixé.
+Ce ne fut pas l'exiguïté du lieu qui fit sortir Adam et son épouse de ce délice, mais une seule faute, sous l'effet des suggestions de Satan : avoir touché à la seule chose interdite parmi toute cette immensité. Allah leur pardonna ensuite,[^9] mais l'événement reste un enseignement : plus le délice est vaste, plus grande est la perte de celui qui néglige l'unique ordre qui lui a été fixé.
 
 <!-- evidence:end -->
 
@@ -103,15 +103,15 @@ Ce ne fut pas l'exiguïté du lieu qui fit sortir Adam et son épouse de ce dél
 
 #### Tafsir savant
 
-Les commentateurs ont expliqué que décrire la Jannah par sa largeur (`عَرْضُهَا`), comparable à celle des cieux et de la terre, magnifie son immensité au-delà de toute perception humaine, sans en fixer les dimensions géométriques ; car la largeur en est la plus petite dimension : qu'en est-il alors de sa longueur ? Il ne convient donc pas de transformer cette description en spéculations cosmiques, mais de lui laisser ce qu'elle signifie : la demeure de l'au-delà est plus vaste que tout ce que les habitants de ce monde, même tous réunis, pourraient imaginer.
+Les commentateurs ont expliqué que décrire la Jannah par sa largeur (`عَرْضُهَا`), comparable à celle des cieux et de la terre, magnifie son immensité au-delà de toute perception humaine, sans en fixer les dimensions géométriques ; car la largeur est généralement inférieure à la longueur : qu'en est-il alors de sa longueur ?[^8] Il ne convient donc pas de transformer cette description en spéculations cosmiques, mais de lui laisser ce qu'elle signifie : la demeure de l'au-delà est plus vaste que tout ce que les habitants de ce monde, même tous réunis, pourraient imaginer.
 
 #### Explication de la leçon
 
-Cette immensité décrite prolonge celle que vécut Adam, paix sur lui, la première fois ; elle est aujourd'hui promise à tout croyant qui se hâte vers le pardon de son Seigneur. La Jannah n'est donc pas le privilège d'un épisode historique révolu ; c'est une demeure bien réelle et promise, qui mérite qu'on s'empresse vers elle.
+Cette immensité décrite prolonge, selon l'avis de la majorité des savants, celle que vécut Adam, paix sur lui, la première fois ; elle est aujourd'hui promise à tout croyant qui se hâte vers le pardon de son Seigneur. La Jannah n'est donc pas le privilège d'un épisode historique révolu ; c'est une demeure bien réelle et promise, qui mérite qu'on s'empresse vers elle.
 
 <!-- evidence:end -->
 
-<!-- evidence:start id="mishkat-5613" kind="hadith" mode="canonical" -->
+<!-- evidence:start id="bukhari-3250" kind="hadith" mode="canonical" -->
 
 ### La place d'un fouet dans la Jannah vaut mieux que ce monde et tout ce qu'il contient
 
@@ -141,7 +141,7 @@ Ce hadith ajoute à la surface un autre critère d'immensité : l'immensité de 
 2. Pourquoi une seule faute suffit-elle à faire sortir Adam et son épouse de ce délice immense ?
 3. Pourquoi les commentateurs mettent-ils en garde contre le fait de transformer `عَرْضُهَا السَّمَاوَاتُ وَالْأَرْضُ` en calcul géométrique ?
 4. Comment le hadith « la place d'un fouet » ajoute-t-il un sens nouveau à l'immensité de la Jannah, au-delà de la surface ?
-5. Où, dans ta vie, remarques-tu une tendance à surestimer un petit bien terrestre face à ce qu'Allah promet dans l'au-delà ?
+5. Où, dans votre vie, remarquez-vous une tendance à surestimer un petit bien terrestre face à ce qu'Allah promet dans l'au-delà ?
 
 <!-- unit:end -->
 
@@ -151,7 +151,7 @@ Ce hadith ajoute à la surface un autre critère d'immensité : l'immensité de 
 
 <!-- activity:start audience="adults" concept_id="lesson.004.activity.small-place-outweighs-world" -->
 
-Dessine une balance à deux plateaux sur une feuille, ou utilise une vraie balance si tu en as une. Place sur le premier plateau la description du plus grand bien que tu possèdes ou désires dans ce monde (maison, argent, statut, réputation). Place sur le second plateau une seule phrase : « la place d'un fouet dans la Jannah ». Médite le hadith, puis écris un court paragraphe expliquant pourquoi le second plateau l'emporte au regard de la raison et de la Révélation, et non par simple sentiment. Termine en notant une situation précise de la semaine prochaine où tu pourrais faire passer un petit bien terrestre avant un acte pour l'au-delà, et engage-toi à y reconsidérer ta décision.
+Dessinez une balance à deux plateaux sur une feuille, ou utilisez une vraie balance si vous en avez une. Placez sur le premier plateau la description du plus grand bien que vous possédez ou désirez dans ce monde (maison, argent, statut, réputation). Placez sur le second plateau une seule phrase : « la place d'un fouet dans la Jannah ». Méditez le hadith, puis écrivez un court paragraphe expliquant pourquoi le second plateau l'emporte au regard de la raison et de la Révélation, et non par simple sentiment. Terminez en notant une situation précise de la semaine prochaine où vous pourriez faire passer un petit bien terrestre avant un acte pour l'au-delà, et engagez-vous à y reconsidérer votre décision.
 
 <!-- activity:end -->
 
@@ -159,11 +159,11 @@ Dessine une balance à deux plateaux sur une feuille, ou utilise une vraie balan
 
 <!-- reader:end -->
 
-## Pour les enfants de 4 à 7 ans
-
 <!-- reader:start audience="4-7" estimated_minutes="3.5" -->
 
 <!-- unit:start id="4-7.explanation" kind="explanation" -->
+
+## Pour les enfants de 4 à 7 ans
 
 La Jannah est très, très grande, plus grande que tous les endroits que nous avons vus dans notre vie. Même un tout petit morceau de la Jannah vaut mieux que le monde entier, avec tous ses jouets, ses maisons et ses jardins. Le premier à avoir habité la Jannah, c'est notre père Adam, paix sur lui, et nous allons apprendre son histoire.
 
@@ -179,7 +179,7 @@ La Jannah est très, très grande, plus grande que tous les endroits que nous av
 
 Allah créa le premier homme, Adam, paix sur lui, et l'installa dans la Jannah avec son épouse. Allah leur dit : `كُلَا مِنْهَا رَغَدًا حَيْثُ شِئْتُمَا`, c'est-à-dire : mangez tout ce que vous voulez, partout dans cette grande Jannah, ne vous privez de rien, sauf d'un seul arbre ; Allah leur dit : « N'en approchez pas. »[^1] La Jannah était immense, pleine de belles choses, et pourtant Allah ne leur interdit qu'une seule chose, pour leur montrer que l'obéissance compte plus que toute cette immensité.
 
-Satan vint et essaya de leur faire oublier l'ordre d'Allah, alors ils mangèrent de cet arbre-là. Allah les fit alors sortir de ce bel endroit immense, et ils descendirent sur terre.[^4] Puis Adam, paix sur lui, invoqua son Seigneur avec un regret sincère, et Allah lui pardonna et lui fit miséricorde.
+Satan vint et essaya de leur faire oublier l'ordre d'Allah, alors ils mangèrent de cet arbre-là. Allah les fit alors sortir de ce bel endroit immense, et ils descendirent sur terre.[^4] Puis Adam, paix sur lui, invoqua son Seigneur avec un regret sincère, et Allah lui pardonna et lui fit miséricorde.[^9]
 
 <!-- retelling:end -->
 
@@ -227,11 +227,11 @@ L'adulte fabrique une balance simple avec un cintre et deux gobelets, ou se sert
 
 <!-- reader:end -->
 
-## Pour les enfants de 8 à 12 ans
-
 <!-- reader:start audience="8-12" estimated_minutes="4.5" -->
 
 <!-- unit:start id="8-12.explanation" kind="explanation" -->
+
+## Pour les enfants de 8 à 12 ans
 
 Quand Allah dit que la largeur de la Jannah est celle des cieux et de la terre, Il nous apprend qu'elle est trop vaste pour que notre imagination puisse en faire le tour. Le premier à vivre réellement cette immensité fut Adam, paix sur lui, qu'Allah installa dans la Jannah avec son épouse, en les autorisant à manger partout, sauf d'un seul arbre. Mais l'immensité du lieu n'empêcha pas qu'une seule faute les en fasse sortir. Et le Prophète, paix et bénédictions sur lui, nous a appris que le plus petit espace de la Jannah vaut mieux que le monde entier : l'immensité est donc à la fois une immensité de lieu et une immensité de valeur.
 
@@ -245,9 +245,9 @@ Quand Allah dit que la largeur de la Jannah est celle des cieux et de la terre, 
 
 <!-- retelling:start source_id="quran-2-35" audience="8-12" -->
 
-Allah dit : `وَقُلْنَا يَا آدَمُ اسْكُنْ أَنْتَ وَزَوْجُكَ الْجَنَّةَ وَكُلَا مِنْهَا رَغَدًا حَيْثُ شِئْتُمَا وَلَا تَقْرَبَا هَٰذِهِ الشَّجَرَةَ فَتَكُونَا مِنَ الظَّالِمِينَ.`[^1] Après avoir créé Adam, paix sur lui, lui avoir enseigné les noms des choses et ordonné aux anges de se prosterner devant lui pour l'honorer, Allah l'installa dans la Jannah avec son épouse et leur permit de manger partout où ils le voulaient, sans limite ni restriction, à l'exception d'un seul arbre précis.
+Allah dit : `وَقُلْنَا يَا آدَمُ اسْكُنْ أَنْتَ وَزَوْجُكَ الْجَنَّةَ وَكُلَا مِنْهَا رَغَدًا حَيْثُ شِئْتُمَا وَلَا تَقْرَبَا هَٰذِهِ الشَّجَرَةَ فَتَكُونَا مِنَ الظَّالِمِينَ.` « Et Nous dîmes : “Ô Adam, habite, toi et ton épouse, la Jannah, et mangez-en à votre aise, où vous voudrez ; mais n'approchez pas de cet arbre, sinon vous seriez du nombre des injustes.” »[^1] Après avoir créé Adam, paix sur lui, lui avoir enseigné les noms des choses et ordonné aux anges de se prosterner devant lui pour l'honorer, Allah l'installa dans la Jannah avec son épouse et leur permit de manger partout où ils le voulaient, sans limite ni restriction, à l'exception d'un seul arbre précis.
 
-Cette permission immense montre à elle seule l'immensité de ce lieu : un espace où un seul interdit suffisait à organiser l'obéissance. Mais Satan les tenta par ses murmures jusqu'à leur faire oublier cet unique interdit ; ils mangèrent de l'arbre, et Allah les fit sortir du lieu où ils étaient et leur ordonna de descendre sur terre.[^4] Ce ne fut pas l'exiguïté du lieu qui causa cette sortie, mais la désobéissance à un seul ordre au milieu d'une immensité extraordinaire ; Allah pardonna ensuite à Adam, paix sur lui, parce que son regret était sincère.
+Cette permission immense montre à elle seule l'immensité de ce lieu : un espace où un seul interdit suffisait à organiser l'obéissance. Mais Satan les tenta par ses murmures jusqu'à ce qu'ils mangent de l'arbre interdit, et Allah les fit sortir du lieu où ils étaient et leur ordonna de descendre sur terre.[^4] Ce ne fut pas l'exiguïté du lieu qui causa cette sortie, mais la désobéissance à un seul ordre au milieu d'une immensité extraordinaire ; Allah pardonna ensuite à Adam, paix sur lui, parce que son regret était sincère.[^9]
 
 <!-- retelling:end -->
 
@@ -308,11 +308,11 @@ Dessine une balance à deux plateaux. Sur le premier, écris la plus grande chos
 
 <!-- reader:end -->
 
-## Pour les adolescents 13+
-
 <!-- reader:start audience="13+" estimated_minutes="5.0" -->
 
 <!-- unit:start id="13+.explanation" kind="explanation" -->
+
+## Pour les adolescents 13+
 
 À une grande part de l'étroitesse que l'on ressent à cet âge — un espace limité pour réussir, des comparaisons sans fin, des choix qui semblent restreints — répond la description coranique d'une autre demeure : `عَرْضُهَا السَّمَاوَاتُ وَالْأَرْضُ`. Le premier à avoir réellement vécu cette immensité fut Adam, paix sur lui, à qui fut accordé, dès le premier instant de son existence, un lieu vaste où presque tout lui était permis, à une seule limite près. Mais cette même histoire nous rappelle que l'immensité ne dispense pas de respecter cette unique limite, et qu'une petite faute suffit à faire sortir l'homme du plus vaste des délices.
 
@@ -328,9 +328,9 @@ Puis vient le hadith « la place d'un fouet dans la Jannah vaut mieux que ce mon
 
 <!-- retelling:start source_id="quran-2-35" audience="13+" -->
 
-Allah dit à Adam, paix sur lui, et à son épouse : `اسْكُنْ أَنْتَ وَزَوْجُكَ الْجَنَّةَ وَكُلَا مِنْهَا رَغَدًا حَيْثُ شِئْتُمَا وَلَا تَقْرَبَا هَٰذِهِ الشَّجَرَةَ فَتَكُونَا مِنَ الظَّالِمِينَ.`[^1] Cette Jannah n'était ni un lieu provisoire ni une petite épreuve : c'était la première demeure de l'homme dans toute l'existence, et elle était si vaste que son organisation ne nécessitait qu'une seule limite au milieu d'une immensité incalculable.
+Allah dit à Adam, paix sur lui, et à son épouse : `اسْكُنْ أَنْتَ وَزَوْجُكَ الْجَنَّةَ وَكُلَا مِنْهَا رَغَدًا حَيْثُ شِئْتُمَا وَلَا تَقْرَبَا هَٰذِهِ الشَّجَرَةَ فَتَكُونَا مِنَ الظَّالِمِينَ.` « Habite, toi et ton épouse, la Jannah, et mangez-en à votre aise, où vous voudrez ; mais n'approchez pas de cet arbre, sinon vous seriez du nombre des injustes. »[^1] Cette Jannah n'était ni un lieu provisoire ni une petite épreuve : c'était la première demeure de l'homme dans toute l'existence, et elle était si vaste que son organisation ne nécessitait qu'une seule limite au milieu d'une immensité incalculable.
 
-Cela révèle une vérité importante : une immensité extraordinaire ne signifie pas l'absence de limites ; elle peut au contraire rendre la seule limite restante encore plus claire et plus importante. Satan tenta Adam et son épouse par ses murmures jusqu'à leur faire oublier cette unique limite ; ils mangèrent de l'arbre, furent chassés du lieu où ils étaient et reçurent l'ordre de descendre sur terre : `وَقُلْنَا اهْبِطُوا بَعْضُكُمْ لِبَعْضٍ عَدُوٌّ وَلَكُمْ فِي الْأَرْضِ مُسْتَقَرٌّ وَمَتَاعٌ إِلَىٰ حِينٍ.`[^4] Ce n'est pas l'exiguïté du lieu qui causa cette sortie, mais le franchissement d'une seule limite au sein d'une immensité extraordinaire ; Allah pardonna ensuite à Adam, paix sur lui, parce que son regret était sincère.
+Cela révèle une vérité importante : une immensité extraordinaire ne signifie pas l'absence de limites ; elle peut au contraire rendre la seule limite restante encore plus claire et plus importante. Satan tenta Adam et son épouse par ses murmures jusqu'à ce qu'ils franchissent cette unique limite en mangeant de l'arbre ; ils furent chassés du lieu où ils étaient et reçurent l'ordre de descendre sur terre : `وَقُلْنَا اهْبِطُوا بَعْضُكُمْ لِبَعْضٍ عَدُوٌّ وَلَكُمْ فِي الْأَرْضِ مُسْتَقَرٌّ وَمَتَاعٌ إِلَىٰ حِينٍ.` « Et Nous dîmes : “Descendez, ennemis les uns des autres. Vous aurez sur terre séjour et jouissance, pour un temps.” »[^4] Ce n'est pas l'exiguïté du lieu qui causa cette sortie, mais le franchissement d'une seule limite au sein d'une immensité extraordinaire ; Allah pardonna ensuite à Adam, paix sur lui, parce que son regret était sincère.[^9]
 
 <!-- retelling:end -->
 
@@ -405,7 +405,7 @@ Dresse une liste de trois choses à l'aune desquelles, selon toi, les gens autou
 **Matériel :** une copie des quatre versets et du hadith ; un modèle de balance à deux plateaux, dessiné ou réel ; papier et stylos ; carte de sortie.
 
 <!-- lesson-plan:preparation -->
-**Préparation :** l'enseignant révise le point de divergence entre les gens de la Sunna et certains théologiens (*moutakallimoun*) sur l'identité de la Jannah d'Adam, paix sur lui, et prépare des exemples contemporains neutres opposant le grand qui se voit au petit qui reste caché.
+**Préparation :** l'enseignant révise la divergence entre les savants sur l'identité de la Jannah d'Adam, paix sur lui (la plupart estiment qu'il s'agit de la Jannah éternelle), et prépare des exemples contemporains neutres opposant le grand qui se voit au petit qui reste caché.
 
 <!-- lesson-plan:opening -->
 **Ouverture — 5 minutes :** l'enseignant demande : « La valeur d'une chose se mesure-t-elle toujours à sa taille ? » Il recueille les avis avant de présenter les preuves.
@@ -420,10 +420,10 @@ Dresse une liste de trois choses à l'aune desquelles, selon toi, les gens autou
 **Activité — 15 minutes :** les apprenants réalisent l'activité de la balance du petit espace sur un bien qu'ils désirent dans ce monde, rédigent un paragraphe de justification, puis ceux qui le souhaitent partagent leur exemple avec le groupe.
 
 <!-- lesson-plan:assessment -->
-**Évaluation et conclusion — 10 minutes :** carte de sortie : « Cite l'unique limite fixée à Adam, paix sur lui, au milieu de l'immensité de la Jannah, explique le sens de la place d'un fouet, et écris une situation où tu reconsidéreras ta décision. » L'enseignant conclut en lisant le du'a, en précisant qu'il s'agit d'une formulation pédagogique composée pour la leçon.
+**Évaluation et conclusion — 10 minutes :** carte de sortie : « Citez l'unique limite fixée à Adam, paix sur lui, au milieu de l'immensité de la Jannah, expliquez le sens de la place d'un fouet, et écrivez une situation où vous reconsidérerez votre décision. » L'enseignant conclut en lisant le du'a, en précisant qu'il s'agit d'une formulation pédagogique composée pour la leçon.
 
 <!-- lesson-plan:differentiation -->
-**Différenciation :** l'apprenant débutant reçoit un résumé écrit de l'histoire d'Adam, paix sur lui, avant la discussion ; l'apprenant avancé est chargé d'exposer la différence entre l'avis de la majorité des gens de la Sunna et celui de leurs contradicteurs sur l'identité de la Jannah d'Adam, paix sur lui.
+**Différenciation :** l'apprenant débutant reçoit un résumé écrit de l'histoire d'Adam, paix sur lui, avant la discussion ; l'apprenant avancé est chargé d'exposer la différence entre l'avis de la majorité et celui de ses contradicteurs sur l'identité de la Jannah d'Adam, paix sur lui.
 
 <!-- lesson-plan:safeguards -->
 **Mises en garde pédagogiques :** la leçon ne sert pas à ouvrir une discussion spéculative sur l'emplacement géographique de la Jannah ou ses dimensions précises ; toute question de ce type est ramenée au fait que ces détails relèvent de l'invisible, que seul un texte peut établir. L'histoire d'Adam, paix sur lui, est racontée avec respect, sans détailler la faute au-delà de ce que dit le texte.
@@ -548,6 +548,8 @@ Dresse une liste de trois choses à l'aune desquelles, selon toi, les gens autou
 [^4]: Le Saint Coran, sourate Al-Baqarah, verset 36 : [Texte coranique](https://quran.com/2/36).
 [^5]: Le Saint Coran, sourate Al 'Imran, verset 133 : [Texte coranique](https://quran.com/3/133).
 [^6]: Le Saint Coran, sourate Al-Hadid, verset 21 : [Texte coranique](https://quran.com/57/21).
-[^7]: Sahih al-Boukhari, Livre du commencement de la création, chapitre de la description de la Jannah et du fait qu'elle est déjà créée, n° 3250, et Livre de l'adoucissement des cœurs, n° 6415, rapporté de Sahl ibn Sa'd as-Sa'idi, qu'Allah l'agrée, avec la formulation « la place d'un fouet dans la Jannah vaut mieux que ce monde et tout ce qu'il contient » (et dans un sens proche au n° 2892) ; authentique (sahih) : [Sahih al-Boukhari 3250](https://sunnah.com/bukhari:3250) ; la formulation « Une sortie le soir ou le matin dans le sentier d'Allah… » figure dans Sahih al-Boukhari, Livre du jihad et des expéditions, n° 2796, rapportée d'Anas ibn Malik, qu'Allah l'agrée : [Sahih al-Boukhari 2796](https://sunnah.com/bukhari:2796) ; Muslim (1880, 1881) a rapporté d'Anas et de Sahl, qu'Allah les agrée, uniquement le mérite de la sortie du matin et du soir, sans mentionner la place du fouet. Abu Nu'aym al-Asbahani l'a également rapporté dans *Sifat al-Jannah*, au chapitre de la préférence de la place d'un fouet dans la Jannah sur ce monde et tout ce qu'il contient : [Al-Maktaba al-Shamila - Sifat al-Jannah d'Abu Nu'aym](https://shamela.ws/book/21602/61) ; et 'Umar Sulayman al-Ashqar l'a cité dans *Al-Jannah wal-Nar*, d'après *Mishkat al-Masabih* (3/85, n° 5613) : [Al-Maktaba al-Shamila - Al-Jannah wal-Nar d'al-Ashqar](https://shamela.ws/book/12714/203).
+[^7]: Sahih al-Boukhari, Livre du commencement de la création, chapitre de la description de la Jannah et du fait qu'elle est déjà créée, n° 3250, et Livre de l'adoucissement des cœurs, n° 6415, rapporté de Sahl ibn Sa'd as-Sa'idi, qu'Allah l'agrée, avec la formulation « la place d'un fouet dans la Jannah vaut mieux que ce monde et tout ce qu'il contient » (et dans un sens proche au n° 2892) ; authentique (sahih) : [Sahih al-Boukhari 3250](https://sunnah.com/bukhari:3250) ; la formulation « Une sortie le soir ou le matin dans le sentier d'Allah… » figure dans Sahih al-Boukhari, Livre du jihad et des expéditions, n° 2796, rapportée d'Anas ibn Malik, qu'Allah l'agrée : [Sahih al-Boukhari 2796](https://sunnah.com/bukhari:2796) ; Muslim (1880, 1881) a rapporté d'Anas et de Sahl, qu'Allah les agrée, uniquement le mérite de la sortie du matin et du soir, sans mentionner la place du fouet. Abu Nu'aym al-Asbahani l'a également rapporté dans *Sifat al-Jannah*, au chapitre de la préférence de la place d'un fouet dans la Jannah sur ce monde et tout ce qu'il contient : [Al-Maktaba al-Shamila - Sifat al-Jannah d'Abu Nu'aym](https://shamela.ws/book/21602/61) ; et 'Umar Sulayman al-Ashqar l'a cité dans *Al-Jannah wal-Nar*, d'après *Mishkat al-Masabih* (3/85, n° 5613) : [Al-Maktaba al-Shamila - Al-Jannah wal-Nar d'al-Ashqar](https://shamela.ws/book/12714/205).
+[^8]: Abu Muhammad al-Husayn ibn Mas'ud al-Baghawi, *Ma'alim at-Tanzil*, commentaire de la sourate Al 'Imran, verset 133, où il explique que la largeur est mentionnée par emphase « car la longueur de toute chose est le plus souvent supérieure à sa largeur ; c'est comme s'Il disait : telle est la description de sa largeur, qu'en est-il alors de sa longueur ? », et cite az-Zuhri : « Il n'a décrit que sa largeur ; quant à sa longueur, nul ne la connaît hormis Allah » : [Le Coran électronique, Université King Saud - Tafsir al-Baghawi](https://quran.ksu.edu.sa/tafseer/baghawy/sura3-aya133.html) ; et Abu 'Abdallah al-Qurtubi, *Al-Jami' li-Ahkam al-Qur'an*, sur le même verset : « Allah a attiré l'attention sur la longueur en mentionnant la largeur, car la longueur est généralement plus grande que la largeur » : [Le Coran électronique, Université King Saud - Tafsir al-Qurtubi](https://quran.ksu.edu.sa/tafseer/qortobi/sura3-aya133.html). Ibn Kathir mentionne les deux avis : la mention de la largeur indique l'étendue de la longueur, et, selon un autre avis, sa largeur est égale à sa longueur.
+[^9]: Le Saint Coran, sourate Al-Baqarah, verset 37 : `فَتَلَقَّىٰ آدَمُ مِنْ رَبِّهِ كَلِمَاتٍ فَتَابَ عَلَيْهِ` (« Puis Adam reçut de son Seigneur des paroles, et Il accepta son repentir ») : [Texte coranique](https://quran.com/2/37) ; et sourate Al-A'raf, verset 23 : `قَالَا رَبَّنَا ظَلَمْنَا أَنْفُسَنَا` (« Ils dirent : Notre Seigneur, nous nous sommes fait du tort à nous-mêmes ») : [Texte coranique](https://quran.com/7/23).
 
 <!-- references:end -->

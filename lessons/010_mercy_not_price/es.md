@@ -10,7 +10,7 @@ story_policy: "rotating_primary_with_authenticated_account_v2"
 primary_story_type: "creative"
 primary_story_source_id: "lesson-authored:lesson.010.primary"
 primary_story_authenticated: "false"
-authenticated_account_id: "muslim-2816c"
+authenticated_account_id: "muslim-2816g"
 activity_concept_id: "lesson.010.activity.claim-classify-repair"
 bedtime_dua_id: "lesson.010.dua.mercy-deeds-jannah"
 ---
@@ -22,7 +22,7 @@ bedtime_dua_id: "lesson.010.dua.mercy-deeds-jannah"
 Al terminar esta lección, el estudiante será capaz de:
 
 - Distinguir entre la obra como causa ordenada por Allah y la idea errónea de verla como un precio equivalente a la Jannah o un derecho que el siervo impone a su Señor.
-- Conciliar las aleyas `fadlan min rabbik` (ad-Dukhan) y `bima kuntum ta'malun` (al-A'raf) sin contradicción, mostrando que la partícula *bi-* («por») en cada una expresa causalidad, no compraventa.
+- Conciliar las aleyas `fadlan min rabbik` (ad-Dukhan) y `bima kuntum ta'malun` (al-A'raf) sin contradicción, mostrando que la partícula *bi-* («por») de `bima kuntum ta'malun` expresa causalidad, que la *bi-* negada en el hadiz (`bi-'amalihi`, «por su obra») expresa compraventa, y que todo el triunfo es gracia de Allah.
 - Narrar el hadiz «Acérquense y procuren acertar» y explicar que nadie se salva solo por su obra, ni siquiera el Profeta, que la paz y las bendiciones de Allah sean con él, sino por la misericordia y la gracia de Allah.
 - Reconocer los tres males del corazón de los que protege esta comprensión: la vanidad, el abandono de la obra y la desesperanza, e identificar cada uno en una frase o situación dada.
 - Clasificar una afirmación sobre las obras y la Jannah como correcta, incompleta o errónea, y corregir la incompleta o errónea apoyándose en uno de los tres textos.
@@ -89,7 +89,7 @@ El siervo obra de verdad, rinde cuentas de su elección y espera la recompensa; 
 
 <!-- evidence:end -->
 
-<!-- evidence:start id="muslim-2816c" kind="hadith" mode="canonical" -->
+<!-- evidence:start id="muslim-2816g" kind="hadith" mode="canonical" -->
 
 ### La Rectitud Junto a la Necesidad de la Misericordia
 
@@ -168,9 +168,9 @@ Al volver a casa, Adam dijo: «Estoy feliz de que Allah nos haya ayudado a hacer
 
 ### Historia Auténtica: Hasta el Mensajero de Allah Espera la Misericordia de Allah
 
-<!-- story:start audience="4-7" role="authenticated" type="hadith" source_id="muslim-2816c" authenticated="true" -->
+<!-- story:start audience="4-7" role="authenticated" type="hadith" source_id="muslim-2816g" authenticated="true" -->
 
-<!-- retelling:start source_id="muslim-2816c" audience="4-7" -->
+<!-- retelling:start source_id="muslim-2816g" audience="4-7" -->
 
 El Profeta, que la paz y las bendiciones de Allah sean con él, dijo a sus compañeros: intenten hacer lo correcto y acérquense a ello. Luego les enseñó que la obra sola no salva al ser humano sin la misericordia de Allah. Le preguntaron: «¿Ni siquiera tú, Mensajero de Allah?» Y él dijo que ni siquiera él se salva a menos que Allah lo cubra con Su misericordia y Su gracia.[^5]
 
@@ -213,6 +213,7 @@ El adulto muestra dos tarjetas ilustradas: «Hago el bien y pido la misericordia
 **Du'a temático redactado para esta lección, y no atribuido al Profeta, que la paz y las bendiciones de Allah sean con él.**
 
 > اللَّهُمَّ تَغَمَّدْنِي بِرَحْمَتِكَ، وَأَعِنِّي عَلَى الْعَمَلِ الصَّالِحِ، وَأَدْخِلْنِي الْجَنَّةَ بِفَضْلِكَ.
+>
 > «Oh Allah, cúbreme con Tu misericordia, ayúdame a hacer buenas obras y hazme entrar en la Jannah por Tu gracia».
 
 <!-- bedtime-dua:end -->
@@ -255,9 +256,9 @@ Yasir se disculpó con él, borró la clasificación e hizo que el cartel mostra
 
 ### Historia del Hadiz: Una Pregunta Directa y una Respuesta que Enseña Humildad
 
-<!-- story:start audience="8-12" role="authenticated" type="hadith" source_id="muslim-2816c" authenticated="true" -->
+<!-- story:start audience="8-12" role="authenticated" type="hadith" source_id="muslim-2816g" authenticated="true" -->
 
-<!-- retelling:start source_id="muslim-2816c" audience="8-12" -->
+<!-- retelling:start source_id="muslim-2816g" audience="8-12" -->
 
 El Profeta, que la paz y las bendiciones de Allah sean con él, orientó a sus compañeros hacia dos cosas: buscar lo correcto y esforzarse al máximo por acercarse a ello. Luego les dijo que nadie se salva solo por su obra. La siguiente pregunta fue importante: «¿Ni siquiera tú, Mensajero de Allah?» Respondió que ni siquiera él se salva a menos que Allah lo cubra con Su misericordia y Su gracia.[^5]
 
@@ -271,7 +272,7 @@ Se ve en el orden del hadiz que la misericordia de Allah no es excusa para la pe
 
 <!-- unit:start id="8-12.terms" kind="terms" -->
 
-<!-- terminology:start source_id="muslim-2816c" -->
+<!-- terminology:start source_id="muslim-2816g" -->
 
 - **`Saddidu`** — busquen lo correcto y la rectitud en la obra.
 - **`Qaribu`** — si no alcanzan la perfección, acérquense a ella con sinceridad y no se rindan.
@@ -313,6 +314,7 @@ Clasifica cinco tarjetas: «No sirve de nada obrar»; «Entro en la Jannah porqu
 **Du'a temático redactado para esta lección, y no atribuido al Profeta, que la paz y las bendiciones de Allah sean con él.**
 
 > اللَّهُمَّ تَغَمَّدْنِي بِرَحْمَتِكَ، وَأَعِنِّي عَلَى الْعَمَلِ الصَّالِحِ، وَأَدْخِلْنِي الْجَنَّةَ بِفَضْلِكَ.
+>
 > «Oh Allah, cúbreme con Tu misericordia, ayúdame a hacer buenas obras y hazme entrar en la Jannah por Tu gracia».
 
 <!-- bedtime-dua:end -->
@@ -355,9 +357,9 @@ Cambió la publicación para agradecer al equipo y mencionar la necesidad de las
 
 ### Un Episodio Profético que Derriba la Ilusión del Merecimiento
 
-<!-- story:start audience="13+" role="authenticated" type="hadith" source_id="muslim-2816c" authenticated="true" -->
+<!-- story:start audience="13+" role="authenticated" type="hadith" source_id="muslim-2816g" authenticated="true" -->
 
-<!-- retelling:start source_id="muslim-2816c" audience="13+" -->
+<!-- retelling:start source_id="muslim-2816g" audience="13+" -->
 
 En el hadiz de Abu Hurayrah, que Allah esté complacido con él, el Profeta, que la paz y las bendiciones de Allah sean con él, no ofreció una fórmula cómoda para ninguna de las dos posturas. Dijo: `Acérquense y procuren acertar`, afirmando así el deber y el esfuerzo. Luego dijo que nadie se salvará por su obra, y los compañeros pasaron directamente al caso más extremo imaginable: el propio Mensajero de Allah. Preguntaron: «¿Ni siquiera tú?» Y la respuesta llegó clara: «Ni siquiera yo, a menos que Allah me cubra con Su misericordia y Su gracia».[^5]
 
@@ -371,7 +373,7 @@ La pregunta y la respuesta impiden construir una identidad religiosa basada en l
 
 <!-- unit:start id="13+.terms" kind="terms" -->
 
-<!-- terminology:start source_id="muslim-2816c" -->
+<!-- terminology:start source_id="muslim-2816g" -->
 
 - **La *bi-* causal** (*ba' as-sababiyya*) — indica que la obra es un camino y una causa sobre la que Allah dispuso la recompensa.
 - **La *bi-* de compraventa** (*ba' al-mu'awada*) — indica intercambiar una cosa por otra, como el precio de una mercancía; este es el sentido que se niega entre la obra y la Jannah.
@@ -414,6 +416,7 @@ Analiza tres casos: alguien que desprecia a otro por su adoración, alguien que 
 **Du'a temático redactado para esta lección, y no atribuido al Profeta, que la paz y las bendiciones de Allah sean con él.**
 
 > اللَّهُمَّ تَغَمَّدْنِي بِرَحْمَتِكَ، وَأَعِنِّي عَلَى الْعَمَلِ الصَّالِحِ، وَأَدْخِلْنِي الْجَنَّةَ بِفَضْلِكَ.
+>
 > «Oh Allah, cúbreme con Tu misericordia, ayúdame a hacer buenas obras y hazme entrar en la Jannah por Tu gracia».
 
 <!-- bedtime-dua:end -->
@@ -572,10 +575,10 @@ Analiza tres casos: alguien que desprecia a otro por su adoración, alguien que 
 
 ## Referencias
 
-[^1]: El Sagrado Corán, sura ad-Dukhan, aleyas 51-57: [Texto coránico](https://quran.com/44/51-57).
+[^1]: El Sagrado Corán, sura ad-Dukhan, aleyas 51-57: [Texto coránico](https://quran.com/44/51-57). La traducción al español de las aleyas es una traducción de sentido elaborada para este proyecto.
 [^2]: 'Abd ar-Rahman ibn Nasir as-Sa'di, *Taysir al-Karim ar-Rahman*, comentario de la sura ad-Dukhan, aleya 57, donde explica que la salvación y el deleite son gracia y bondad de Allah: [El Corán electrónico de la Universidad Rey Saud](https://quran.ksu.edu.sa/tafseer/saadi/sura44-aya57.html).
-[^3]: El Sagrado Corán, sura al-A'raf, aleya 43: [Texto coránico](https://quran.com/7/43).
-[^4]: Ibn Qayyim al-Yawziyya, *Hadi al-Arwah ila Bilad al-Afrah*, capítulo diecinueve, sección sobre conciliar la entrada a la Jannah por la obra y la entrada por la misericordia de Allah, donde distingue entre la partícula de compraventa y la de causalidad: [al-Maktaba ash-Shamila](https://shamela.ws/book/13652/229).
-[^5]: Sahih Muslim, Libro de la descripción del Día de la Resurrección, el Paraíso y el Infierno, hadiz 2816, narrado por Abu Hurayrah, que Allah esté complacido con él, hadiz auténtico: [Sunnah.com, narración 2816g](https://sunnah.com/muslim:2816g).
+[^3]: El Sagrado Corán, sura al-A'raf, aleya 43: [Texto coránico](https://quran.com/7/43). La traducción al español de la aleya es una traducción de sentido elaborada para este proyecto.
+[^4]: Ibn Qayyim al-Yawziyya, *Hadi al-Arwah ila Bilad al-Afrah*, capítulo diecinueve («Sobre la oferta que el Señor hace a Sus siervos de Su mercancía, la Jannah, y de su precio...»), en la sección donde concilia la entrada a la Jannah por la obra con la entrada por la misericordia de Allah, y distingue entre la partícula de compraventa, que se niega, y la de causalidad, que se afirma (ed. Ata'at al-Ilm, 1/176-177): [al-Maktaba ash-Shamila](https://shamela.ws/book/13652/230).
+[^5]: Sahih Muslim, Libro de la descripción del Día de la Resurrección, el Paraíso y el Infierno, hadiz 2816, narrado por Abu Hurayrah, que Allah esté complacido con él, hadiz auténtico: [Sunnah.com, narración 2816g](https://sunnah.com/muslim:2816g). La traducción al español del hadiz es una traducción de sentido elaborada para este proyecto.
 
 <!-- references:end -->

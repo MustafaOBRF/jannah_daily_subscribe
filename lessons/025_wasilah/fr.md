@@ -23,7 +23,7 @@ Au terme de cette leçon, l'apprenant sera capable de :
 
 - raconter dans l'ordre le hadith de la Grande Intercession (al-Bukhari 4712) : les hommes rassemblés sur la plaine du Jugement, leur démarche auprès d'Adam, puis de Nuh, d'Ibrahim, de Musa et de 'Isa, paix sur eux, l'excuse que présente chacun d'eux, puis la prosternation du Prophète, paix et bénédictions sur lui, sous le Trône, et sa parole : « Ma communauté, ô Seigneur ! Ma communauté, ô Seigneur ! » ;
 - distinguer la Station louable (*al-maqam al-mahmud*), qui est le rang de la Grande Intercession au Jour de la Résurrection, selon l'explication d'Ibn 'Umar, qu'Allah soit satisfait de lui et de son père, et de la plupart des exégètes (al-Isra' 17:79 ; al-Bukhari 4718), d'al-Wasilah, un rang de la Jannah qui ne convient qu'à un seul serviteur et dont le Prophète, paix et bénédictions sur lui, espérait être le titulaire (Muslim 384) ;
-- expliquer le sens de sa parole, paix et bénédictions sur lui : « Je suis le maître des enfants d'Adam au Jour de la Résurrection, le premier à intercéder et le premier dont l'intercession sera acceptée » (Muslim 2278), et montrer que cette primauté s'est révélée en un jour où les plus éminents des messagers se sont tous récusés ;
+- expliquer le sens de sa parole, paix et bénédictions sur lui : « Je serai le maître des enfants d'Adam au Jour de la Résurrection, le premier à intercéder et le premier dont l'intercession sera acceptée » (Muslim 2278), et montrer que cette primauté s'est révélée en un jour où Adam, puis les plus éminents des messagers (ulu al-'azm), se sont tous récusés ;
 - accomplir la chaîne de l'après-adhan telle que la Sunna l'a transmise : répéter les paroles du muezzin, prier ensuite sur le Prophète, paix et bénédictions sur lui, puis demander pour lui al-Wasilah par l'invocation rapportée par Jabir (al-Bukhari 614), en comprenant le sens de chacune de ses phrases ;
 - réaliser l'activité « La chaîne de l'après-adhan : je l'apprends et je l'enseigne », en la pratiquant lors d'un véritable appel à la prière, puis en l'enseignant à quelqu'un d'autre ;
 - se souvenir de l'invocation de la leçon, qui demande à Allah de prier sur Son Prophète, de lui accorder al-Wasilah, de nous accorder son intercession et de nous réunir avec lui dans la Jannah.
@@ -78,7 +78,7 @@ Si les prophètes se récusent, c'est par l'immense révérence qu'ils éprouven
 
 #### Interprétation Savante
 
-Ibn Kathir, qu'Allah lui fasse miséricorde, rapporte cette parole d'Ibn Jarir : « La plupart des exégètes ont dit : c'est la station où il se tiendra, paix et bénédictions sur lui, au Jour de la Résurrection, pour intercéder. » Il précise aussi qu'il aura, paix et bénédictions sur lui, « la Grande Intercession auprès d'Allah, afin qu'Il vienne trancher entre les créatures ».[^2]
+Ibn Kathir, qu'Allah lui fasse miséricorde, rapporte cette parole d'Ibn Jarir : « La plupart des exégètes ont dit : c'est la station où il se tiendra, paix et bénédictions sur lui, au Jour de la Résurrection, pour intercéder en faveur des gens, afin que leur Seigneur les soulage de la terrible détresse où les plonge la dureté de ce jour. » Il précise aussi qu'il aura, paix et bénédictions sur lui, « la Grande Intercession auprès d'Allah, afin qu'Il vienne trancher entre les créatures ».[^2]
 
 #### Explication De La Leçon
 
@@ -158,7 +158,7 @@ Cette invocation réunit al-Wasilah dans la Jannah et la Station louable au Jour
 
 #### Traduction Française
 
-> D'après Abu Hurayrah, qu'Allah soit satisfait de lui, le Messager d'Allah, paix et bénédictions sur lui, a dit : **« Je suis le maître des enfants d'Adam au Jour de la Résurrection, le premier pour qui la tombe s'ouvrira, le premier à intercéder et le premier dont l'intercession sera acceptée. »**[^6]
+> D'après Abu Hurayrah, qu'Allah soit satisfait de lui, le Messager d'Allah, paix et bénédictions sur lui, a dit : **« Je serai le maître des enfants d'Adam au Jour de la Résurrection, le premier pour qui la tombe s'ouvrira, le premier à intercéder et le premier dont l'intercession sera acceptée. »**[^6]
 
 #### Explication De La Leçon
 
@@ -408,7 +408,7 @@ Ibn 'Umar, qu'Allah soit satisfait de lui et de son père, a dit : « Tel est 
 
 <!-- retelling:start source_id="bukhari-4712" audience="13+" -->
 
-En d'autres termes : en un jour où la détresse atteint son comble, les plus éminents des messagers se récusent l'un après l'autre, chacun orientant les gens vers un autre, jusqu'à ce que l'intercession aboutisse au Prophète, paix et bénédictions sur lui. Il commence par la prosternation et la louange, puis il ne demande rien pour lui-même, mais dit : « Ma communauté, ô Seigneur ! »[^1][^3]
+En d'autres termes : en un jour où la détresse atteint son comble, Adam, puis les plus éminents des messagers (ulu al-'azm), se récusent l'un après l'autre, chacun orientant les gens vers un autre, jusqu'à ce que l'intercession aboutisse au Prophète, paix et bénédictions sur lui. Il commence par la prosternation et la louange, puis il ne demande rien pour lui-même, mais dit : « Ma communauté, ô Seigneur ! »[^1][^3]
 
 <!-- retelling:end -->
 
@@ -489,7 +489,7 @@ Sens : Ô Allah, prie sur notre Prophète Muhammad et accorde-lui la paix ; ac
 **Évaluation et clôture — 10 minutes :** une carte de sortie avec deux questions : « Indiquez la différence entre la Station louable et al-Wasilah, avec une preuve pour chacune » et « À qui enseignerez-vous la chaîne, et quand ? ». L'enseignant revient ensuite aux réponses de l'ouverture, et conclut en accomplissant la chaîne en groupe si l'heure coïncide avec un adhan, ou sinon en récitant l'invocation rapportée par Jabir.
 
 <!-- lesson-plan:differentiation -->
-**Différenciation :** pour les débutants, on se limite au hadith d'Abu Hurayrah, au hadith de Muslim 384 et à l'invocation rapportée par Jabir. Aux plus avancés, on demande de se reporter au chapitre « Le plus haut rang des gens de la Jannah » dans *Hadi al-Arwah*, et de comparer la version d'al-Bukhari 4712 avec celle de Muslim 194 du hadith de l'intercession.
+**Différenciation :** pour les débutants, on se limite au hadith d'Abu Hurayrah, au hadith de Muslim 384 et à l'invocation rapportée par Jabir. Aux plus avancés, on demande de se reporter au chapitre 40 de *Hadi al-Arwah* d'Ibn al-Qayyim, « Sur le plus haut et le plus bas en rang parmi les gens de la Jannah », et de comparer la version d'al-Bukhari 4712 avec celle de Muslim 194 du hadith de l'intercession.
 
 <!-- lesson-plan:safeguards -->
 **Précautions pédagogiques :** on parle des prophètes, paix sur eux, avec la plus grande déférence ; les excuses qu'ils ont invoquées ne doivent jamais servir à les rabaisser, et l'on précise qu'Allah a agréé leur repentir et que les paroles d'Ibrahim étaient des *ma'arid*. Les attributs d'Allah mentionnés dans le hadith sont affirmés sans assimilation, sans s'interroger sur leur modalité et sans spéculer sur leur nature. On n'attribue au Prophète, paix et bénédictions sur lui, aucune invocation ni formule dont l'authenticité n'est pas établie, et l'on signale que le du'a du coucher de cette leçon a été composé pour elle. Enfin, on n'affirme jamais avec certitude qu'une personne déterminée obtiendra l'intercession.

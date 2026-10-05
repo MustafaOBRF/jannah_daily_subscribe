@@ -65,7 +65,7 @@ Les noms de la Jannah désignent donc des attributs réels que nous espérons ; 
 
 #### Tafsir savant
 
-Selon les commentateurs, `Dar as-Salam` désigne la Jannah, ainsi nommée parce que ses habitants y sont préservés de toute atteinte, souci, tristesse et de la mort, et parce qu'As-Salam est l'un des Noms d'Allah, exalté soit-Il : rattacher la Demeure à Lui est donc un honneur. L'appel du verset s'adresse à tous les hommes, tandis que la guidance vers le droit chemin est réservée à qui Allah veut.[^2]
+Selon les commentateurs, `Dar as-Salam` désigne la Jannah, ainsi nommée parce que ses habitants y sont préservés des atteintes, des soucis et des tristesses, et à l'abri de la disparition de sa félicité. L'appel du verset s'adresse à tous les hommes, tandis que la guidance vers le droit chemin est réservée à qui Allah veut.[^2]
 
 #### Explication de la leçon
 
@@ -109,7 +109,7 @@ Le nom `al-Firdaws` révèle que la Jannah comporte des degrés, et que le plus 
 
 #### Explication savante
 
-Ce hadith qudsi, d'authenticité unanimement reconnue, rapporte qu'Allah, exalté soit-Il, a préparé pour Ses serviteurs vertueux un bienfait qu'aucun regard ni aucune oreille n'a perçu et qu'aucun cœur humain n'a jamais conçu ; le Prophète, paix et bénédictions sur lui, cita en confirmation le verset de la sourate As-Sajdah.
+Ce hadith qudsi, rapporté à la fois par al-Bukhari et Muslim (muttafaq 'alayh), rapporte qu'Allah, exalté soit-Il, a préparé pour Ses serviteurs vertueux un bienfait qu'aucun regard ni aucune oreille n'a perçu et qu'aucun cœur humain n'a jamais conçu ; le Prophète, paix et bénédictions sur lui, cita en confirmation le verset de la sourate As-Sajdah.
 
 #### Explication de la leçon
 
@@ -127,7 +127,7 @@ Ce hadith encadre tout ce que nous apprenons sur les noms et attributs de la Jan
 
 #### Texte source arabe
 
-> عَنْ رَبِيعَةَ بْنِ كَعْبٍ الْأَسْلَمِيِّ رضي الله عنه قَالَ: **كُنْتُ أَبِيتُ مَعَ رَسُولِ اللَّهِ صلى الله عليه وسلم فَأَتَيْتُهُ بِوَضُوئِهِ وَحَاجَتِهِ، فَقَالَ لِي: «سَلْ». فَقُلْتُ: أَسْأَلُكَ مُرَافَقَتَكَ فِي الْجَنَّةِ. قَالَ: «أَوْ غَيْرَ ذَٰلِكَ؟». قُلْتُ: هُوَ ذَاكَ. قَالَ: «فَأَعِنِّي عَلَىٰ نَفْسِكَ بِكَثْرَةِ السُّجُودِ».**[^5]
+> عَنْ رَبِيعَةَ بْنِ كَعْبٍ الْأَسْلَمِيِّ رضي الله عنه قَالَ: **كُنْتُ أَبِيتُ مَعَ رَسُولِ اللَّهِ صلى الله عليه وسلم فَأَتَيْتُهُ بِوَضُوئِهِ وَحَاجَتِهِ، فَقَالَ لِي: «سَلْ». فَقُلْتُ: أَسْأَلُكَ مُرَافَقَتَكَ فِي الْجَنَّةِ. قَالَ: «أَوَغَيْرَ ذَٰلِكَ؟». قُلْتُ: هُوَ ذَاكَ. قَالَ: «فَأَعِنِّي عَلَىٰ نَفْسِكَ بِكَثْرَةِ السُّجُودِ».**[^5]
 
 #### Explication savante
 
@@ -145,11 +145,11 @@ Cette situation relie le plus grand espoir à l'action visible la plus simple : 
 
 ## Questions de compréhension et de réflexion
 
-1. Quelle est la différence entre des noms de la Jannah synonymes quant à ce qu'ils désignent et variés quant à l'attribut qu'ils expriment ?
+1. Comment les noms de la Jannah peuvent-ils être à la fois synonymes quant à ce qu'ils désignent et variés quant à l'attribut qu'ils expriment ?
 2. Comment le hadith qudsi « ce qu'aucun œil n'a vu » empêche-t-il de réduire la Jannah à une image terrestre agrandie ?
 3. Pourquoi le Prophète, paix et bénédictions sur lui, ne s'est-il pas contenté de répondre à Rabi'ah ibn Ka'b, mais a-t-il cherché à s'assurer de sa demande ?
 4. Comment la réponse du Prophète, paix et bénédictions sur lui, « Alors aide-moi contre toi-même par de nombreuses prosternations » relie-t-elle le grand espoir à l'action quotidienne simple ?
-5. Lequel des trois noms de la Jannah de cette leçon as-tu besoin de garder à l'esprit cette semaine ? Pourquoi ?
+5. Lequel des trois noms de la Jannah de cette leçon avez-vous besoin de garder à l'esprit cette semaine ? Pourquoi ?
 
 <!-- unit:end -->
 
@@ -159,7 +159,7 @@ Cette situation relie le plus grand espoir à l'action visible la plus simple : 
 
 <!-- activity:start audience="adults" concept_id="lesson.001.activity.imagine-then-exceed" -->
 
-Écris en trois lignes la plus belle image de félicité ou de repos parfait que tu puisses imaginer, en puisant dans ce que tu as vécu ou entendu de plus beau ici-bas. Relis ensuite le hadith qudsi « J'ai préparé pour Mes serviteurs vertueux… » et choisis un seul nom de la Jannah de cette leçon (`Dar as-Salam` ou `al-Firdaws`). Écris un court paragraphe montrant un point précis où la réalité de la Jannah dépasse ce que tu avais imaginé, puis conclus par une seule action concrète que tu commenceras cette semaine, à l'image de « la multiplication des prosternations » dans l'histoire de Rabi'ah ibn Ka'b.
+Écrivez en trois lignes la plus belle image de félicité ou de repos parfait que vous puissiez imaginer, en puisant dans ce que vous avez vécu ou entendu de plus beau ici-bas. Relisez ensuite le hadith qudsi « J'ai préparé pour Mes serviteurs vertueux… » et choisissez un seul nom de la Jannah de cette leçon (`Dar as-Salam` ou `al-Firdaws`). Écrivez un court paragraphe montrant un point précis où la réalité de la Jannah dépasse ce que vous aviez imaginé, puis concluez par une seule action concrète que vous commencerez cette semaine, à l'image de « la multiplication des prosternations » dans l'histoire de Rabi'ah ibn Ka'b.
 
 <!-- activity:end -->
 
@@ -205,7 +205,7 @@ Ce soir-là, Hana dessina une petite maison à côté d'un grand cœur, et dit �
 
 <!-- retelling:start source_id="muslim-489" audience="4-7" -->
 
-Il y avait un homme vertueux nommé Rabi'ah qui servait le Prophète, paix et bénédictions sur lui. Un jour, le Prophète, paix et bénédictions sur lui, lui dit : « Demande ce que tu veux. » Rabi'ah ne demanda ni jouet ni argent, mais dit : « Je veux être avec toi dans la Jannah. » Le Prophète, paix et bénédictions sur lui, lui demanda : « Veux-tu autre chose ? » Rabi'ah dit : « Non, je veux seulement cela. » Le Prophète, paix et bénédictions sur lui, lui dit : « Alors aide-moi en cela en faisant beaucoup de prosternations pour Allah. »[^5] Cela veut dire : plus Rabi'ah se prosternait devant Allah, plus il se rapprochait de sa grande demande.
+Il y avait un homme vertueux nommé Rabi'ah qui servait le Prophète, paix et bénédictions sur lui. Une nuit, le Prophète, paix et bénédictions sur lui, lui dit : « Demande ce que tu veux. » Rabi'ah ne demanda ni jouet ni argent, mais dit : « Je veux être avec toi dans la Jannah. » Le Prophète, paix et bénédictions sur lui, lui demanda : « Veux-tu autre chose ? » Rabi'ah dit : « Non, je veux seulement cela. » Le Prophète, paix et bénédictions sur lui, lui dit : « Alors aide-moi en cela en faisant beaucoup de prosternations pour Allah. »[^5] Cela veut dire : plus Rabi'ah se prosternait devant Allah, plus il se rapprochait de sa grande demande.
 
 <!-- retelling:end -->
 
@@ -305,7 +305,7 @@ La demande de Rabi'ah était bien plus grande que toute demande de ce monde, et 
 
 - **`Dar as-Salam`** — un des noms de la Jannah ; il signifie la demeure où l'on est entièrement à l'abri de la peur, de la tristesse, de la maladie et de la mort.
 - **`al-Firdaws`** — un des noms de la Jannah : c'est son degré le plus élevé et le plus central, qui ne s'obtient pas par le simple souhait, mais par des actions précises.
-- **`t'accompagner`** — être avec le Prophète, paix et bénédictions sur lui, au même endroit, tout près de lui, dans la Jannah.
+- **`Murafaqataka` (t'accompagner)** — être avec le Prophète, paix et bénédictions sur lui, au même endroit, tout près de lui, dans la Jannah.
 
 <!-- terminology:end -->
 
@@ -374,7 +374,7 @@ Cette nuit-là, Layla retomba par hasard sur une leçon qu'elle avait entendue a
 
 Layla décida de ne pas supprimer son tableau terrestre, car poursuivre ses études et viser la réussite est légitime, mais elle ajouta dans un coin privé de son carnet, qu'elle ne montrerait à personne, cette phrase : « Mon premier objectif : faire partie des gens d'`al-Firdaws`. » Elle n'écrivit rien en dessous pour la galerie ; elle nota seulement, pour elle seule, une étape concrète : veiller à accomplir la prière de l'aube à l'heure cette semaine.
 
-Layla publia son tableau terrestre tel quel, sans exagération ni falsification, mais elle comprit que le plus grand espoir de sa vie n'est pas celui qui s'affiche à l'écran, mais celui qu'elle porte dans sa prosternation intime, comme Rabi'ah ibn Ka'b lorsqu'il demanda une chose que personne d'autre que lui n'avait demandée.
+Layla publia son tableau terrestre tel quel, sans exagération ni falsification, mais elle comprit que le plus grand espoir de sa vie n'est pas celui qui s'affiche à l'écran, mais celui qu'elle porte dans sa prosternation intime, comme Rabi'ah ibn Ka'b lorsqu'il demanda la plus grande chose que l'on puisse demander.
 
 <!-- story:end -->
 
@@ -402,7 +402,7 @@ Remarque que le Prophète, paix et bénédictions sur lui, chercha à s'assurer 
 
 <!-- terminology:start source_id="muslim-489" -->
 
-- **`ta compagnie`** — le fait pour un être humain de demander à être proche du Prophète, paix et bénédictions sur lui, dans la Jannah, ce qui est l'une des plus grandes choses que l'on puisse demander.
+- **`Murafaqataka` (ta compagnie)** — le fait pour un être humain de demander à être proche du Prophète, paix et bénédictions sur lui, dans la Jannah, ce qui est l'une des plus grandes choses que l'on puisse demander.
 - **`al-Firdaws`** — le degré le plus élevé et le plus central de la Jannah, mentionné dans le Coran en lien avec des qualités pratiques, et non avec le seul souhait.
 - **`réjouissance des yeux`** — une félicité qui procure au cœur et aux yeux une joie totale, mentionnée dans le Coran à propos de la récompense de leurs œuvres, tenue cachée aux hommes.
 
@@ -466,7 +466,7 @@ Remarque que le Prophète, paix et bénédictions sur lui, chercha à s'assurer 
 **Préparation :** l'enseignant vérifie le degré d'authenticité et la source de chaque hadith, et prépare un exemple neutre sur la différence entre la façon dont les gens imaginent le repos parfait et ce que la Révélation a décrit, sans entrer dans des détails spéculatifs sur les attributs sensoriels de la Jannah.
 
 <!-- lesson-plan:opening -->
-**Ouverture — 5 minutes :** il demande : « Si l'on te demandait de décrire le plus bel endroit qui puisse exister, que décrirais-tu ? » Il recueille des réponses brèves avant de présenter les preuves.
+**Ouverture — 5 minutes :** il demande : « Si l'on vous demandait de décrire le plus bel endroit qui puisse exister, que décririez-vous ? » Il recueille des réponses brèves avant de présenter les preuves.
 
 <!-- lesson-plan:evidence -->
 **Étude des preuves — 15 minutes :** les groupes lisent les deux versets et les deux hadiths dans leur intégralité, et chaque groupe en dégage : l'attribut que révèle chaque nom, et la portée du fait que la réalité dépasse tout ce qu'a vu un œil, entendu une oreille, ou traversé un cœur.
@@ -478,7 +478,7 @@ Remarque que le Prophète, paix et bénédictions sur lui, chercha à s'assurer 
 **Activité — 15 minutes :** les apprenants réalisent individuellement l'activité « Imagine, puis dépasse », puis ceux qui le souhaitent partagent leur paragraphe final avec leur petit groupe, sans obligation de partager des détails personnels.
 
 <!-- lesson-plan:assessment -->
-**Évaluation et conclusion — 10 minutes :** billet de sortie : « Cite deux noms de la Jannah vus dans cette leçon, précise l'attribut que révèle chacun, puis écris l'action que tu as choisie pour cette semaine. » L'enseignant conclut en lisant le du'a, en précisant qu'il a été composé pour la leçon à des fins pédagogiques.
+**Évaluation et conclusion — 10 minutes :** billet de sortie : « Citez deux noms de la Jannah vus dans cette leçon, précisez l'attribut que révèle chacun, puis écrivez l'action que vous avez choisie pour cette semaine. » L'enseignant conclut en lisant le du'a, en précisant qu'il a été composé pour la leçon à des fins pédagogiques.
 
 <!-- lesson-plan:differentiation -->
 **Différenciation :** on donne au débutant une liste de noms parmi lesquels choisir pour l'activité, et on demande à l'apprenant avancé de comparer plus en détail la signification de `Dar as-Salam` et d'`al-Firdaws`, et de discuter pourquoi chaque verset emploie tel nom dans son contexte.
@@ -580,7 +580,7 @@ Remarque que le Prophète, paix et bénédictions sur lui, chercha à s'assurer 
 **Étude des preuves — 12 minutes :** deux groupes lisent le verset de `Dar as-Salam` et le hadith qudsi « ce qu'aucun œil n'a vu », et deux autres groupes lisent le verset d'`al-Firdaws` et le hadith de Rabi'ah ibn Ka'b. Chaque groupe dégage : l'attribut que révèle son texte, et son lien avec l'exposition publique ou l'ambition privée.
 
 <!-- lesson-plan:instruction -->
-**Enseignement dirigé — 13 minutes :** l'enseignant explique les termes `ta compagnie`, `al-Firdaws` et `réjouissance des yeux`, et examine avec les élèves comment ces textes répondent à la tentation de mesurer la valeur au nombre de vues et de « likes ».
+**Enseignement dirigé — 13 minutes :** l'enseignant explique les termes `murafaqataka` (ta compagnie), `al-Firdaws` et `réjouissance des yeux`, et examine avec les élèves comment ces textes répondent à la tentation de mesurer la valeur au nombre de vues et de « likes ».
 
 <!-- lesson-plan:activity -->
 **Activité — 15 minutes :** les élèves écrivent leur paragraphe privé sur le meilleur avenir qu'ils imaginent, puis le paragraphe de réflexion et l'étape privée, avec l'assurance que ces feuilles sont personnelles et ne seront ni ramassées ni exposées.
@@ -601,9 +601,9 @@ Remarque que le Prophète, paix et bénédictions sur lui, chercha à s'assurer 
 ## Références
 
 [^1]: Le Saint Coran, sourate Yunus, verset 25 : [Texte coranique](https://quran.com/10/25).
-[^2]: Abu al-Fida Isma'il ibn Kathir, *Tafsir al-Qur'an al-'Azim*, commentaire de la sourate Yunus, verset 25, expliquant que `Dar as-Salam` désigne la Jannah, ainsi nommée parce qu'elle est préservée de tout mal, de toute imperfection et de tout malheur : [Le Coran électronique, Université King Saud](https://quran.ksu.edu.sa/tafseer/katheer/sura10-aya25.html) ; et Abu 'Abdallah al-Qurtubi, *Al-Jami' li-Ahkam al-Qur'an*, commentaire de la sourate Yunus, verset 25, rapportant d'après Qatada et al-Hasan qu'As-Salam est Allah et que Sa demeure est la Jannah, et affirmant : « Il a généralisé l'invitation pour manifester Sa preuve, et réservé la guidance à certains, n'ayant nul besoin de Sa création » : [Le Coran électronique, Université King Saud](https://quran.ksu.edu.sa/tafseer/qortobi/sura10-aya25.html).
+[^2]: Abu al-Fida Isma'il ibn Kathir, *Tafsir al-Qur'an al-'Azim*, commentaire de la sourate Yunus, verset 25, expliquant que `Dar as-Salam` désigne la Jannah, ainsi nommée parce qu'elle est préservée de tout mal, de toute imperfection et de tout malheur : [Le Coran électronique, Université King Saud](https://quran.ksu.edu.sa/tafseer/katheer/sura10-aya25.html) ; et Abu 'Abdallah al-Qurtubi, *Al-Jami' li-Ahkam al-Qur'an*, commentaire de la sourate Yunus, verset 25, rapportant d'après Qatada et al-Hasan qu'As-Salam est Allah et que Sa demeure est la Jannah, et affirmant : « Il a généralisé l'invitation pour manifester Sa preuve, et réservé la guidance à certains, n'ayant nul besoin de Sa création » : [Le Coran électronique, Université King Saud](https://quran.ksu.edu.sa/tafseer/qortobi/sura10-aya25.html) ; et Abu Ja'far Muhammad ibn Jarir at-Tabari, *Jami' al-Bayan 'an Ta'wil Ay al-Qur'an*, commentaire de la sourate Yunus, verset 25, expliquant que ses habitants y sont préservés des soucis et des tristesses et à l'abri de la disparition de sa félicité, et rapportant d'après Qatada : « Allah est As-Salam, et Sa demeure est la Jannah » : [Le Coran électronique, Université King Saud](https://quran.ksu.edu.sa/tafseer/tabary/sura10-aya25.html).
 [^3]: Le Saint Coran, sourate Al-Mu'minun, versets 10-11 : [Texte coranique](https://quran.com/23/10-11) ; voir aussi Sahih al-Bukhari, hadith 2790, expliquant qu'`al-Firdaws` est le degré le plus élevé et le plus central de la Jannah : [Sunnah.com, rapport 2790](https://sunnah.com/bukhari:2790).
-[^4]: Sahih al-Bukhari, hadith 3244, et Sahih Muslim, hadith 2824a, rapporté par Abu Hurayrah, qu'Allah l'agrée, hadith qudsi d'authenticité unanimement reconnue : [Sunnah.com, rapport 3244](https://sunnah.com/bukhari:3244), [Sunnah.com, rapport 2824a](https://sunnah.com/muslim:2824a). Il comporte une citation de la sourate As-Sajdah, verset 17 : [Texte coranique](https://quran.com/32/17).
+[^4]: Sahih al-Bukhari, hadith 3244, et Sahih Muslim, hadith 2824a, rapporté par Abu Hurayrah, qu'Allah l'agrée, hadith qudsi rapporté par al-Bukhari et Muslim (muttafaq 'alayh) : [Sunnah.com, rapport 3244](https://sunnah.com/bukhari:3244), [Sunnah.com, rapport 2824a](https://sunnah.com/muslim:2824a). Il comporte une citation de la sourate As-Sajdah, verset 17 : [Texte coranique](https://quran.com/32/17).
 [^5]: Sahih Muslim, hadith 489, rapporté par Rabi'ah ibn Ka'b al-Aslami, qu'Allah l'agrée, au sujet de sa demande d'accompagner le Prophète, paix et bénédictions sur lui, dans la Jannah, et de la façon dont il fut orienté vers la multiplication des prosternations : [Sunnah.com, rapport 489](https://sunnah.com/muslim:489).
 
 <!-- references:end -->

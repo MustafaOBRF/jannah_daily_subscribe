@@ -10,7 +10,7 @@ story_policy: "rotating_primary_with_authenticated_account_v2"
 primary_story_type: "creative"
 primary_story_source_id: "lesson-authored:lesson.010.primary"
 primary_story_authenticated: "false"
-authenticated_account_id: "muslim-2816c"
+authenticated_account_id: "muslim-2816g"
 activity_concept_id: "lesson.010.activity.claim-classify-repair"
 bedtime_dua_id: "lesson.010.dua.mercy-deeds-jannah"
 ---
@@ -22,9 +22,9 @@ bedtime_dua_id: "lesson.010.dua.mercy-deeds-jannah"
 Après cette leçon, l'apprenant sera capable de :
 
 - Distinguer l'œuvre en tant que cause prescrite de l'œuvre conçue comme un prix équivalant à la Jannah ou comme un droit que le serviteur imposerait à son Seigneur.
-- Concilier les versets `fadlan min Rabbik` (Ad-Dukhan) et `bima kuntum ta'maloun` (Al-A'raf) sans contradiction, en montrant que le `bi` de chacun est un `bi` de causalité, non de contrepartie.
-- Rapporter le hadith « Visez juste et appliquez-vous » et expliquer qu'il montre que nul n'est sauvé par sa seule œuvre, pas même le Prophète, paix et bénédictions sur lui, sans la miséricorde et la grâce d'Allah.
-- Reconnaître les trois dérives du cœur contre lesquelles cette compréhension protège : l'orgueil spirituel, le fatalisme paresseux et le désespoir, et identifier chacune dans une phrase ou une situation donnée.
+- Concilier les versets `fadlan min Rabbik` (Ad-Dukhan) et `bima kuntum ta'maloun` (Al-A'raf) sans contradiction, en montrant que le `bi` de `bima kuntum ta'maloun` est un `bi` de causalité, que le `bi` nié dans le hadith (`bi-'amalihi`, « par son œuvre ») est un `bi` de contrepartie, et que tout le triomphe est une grâce d'Allah.
+- Rapporter le hadith « Appliquez-vous et visez juste » et expliquer qu'il montre que nul n'est sauvé par sa seule œuvre, pas même le Prophète, paix et bénédictions sur lui, sans la miséricorde et la grâce d'Allah.
+- Reconnaître les trois dérives du cœur contre lesquelles cette compréhension protège : l'orgueil spirituel, la fausse confiance qui délaisse l'effort (tawakul) et le désespoir, et identifier chacune dans une phrase ou une situation donnée.
 - Classer une affirmation liée à l'œuvre et à la Jannah en correcte, incomplète ou erronée, et corriger celle qui est incomplète ou erronée en s'appuyant sur une preuve tirée des trois textes.
 
 ## Section académique pour les adultes
@@ -38,7 +38,7 @@ La Révélation réunit deux vérités qui ne se contredisent pas : Allah lie la
 Cette compréhension protège le cœur de trois dérives :
 
 1. **L'orgueil spirituel ('ujb) :** que celui qui agit ne dise pas : « J'ai mérité la Jannah par ma force et l'abondance de mes œuvres. »
-2. **Le fatalisme paresseux :** que le négligent ne dise pas : « Puisque l'entrée au Paradis relève de la miséricorde d'Allah, l'obéissance est inutile » ; le hadith lui-même commence par l'ordre de viser juste et de s'appliquer.
+2. **La fausse confiance (tawakul) :** que le négligent ne dise pas : « Puisque l'entrée au Paradis relève de la miséricorde d'Allah, l'obéissance est inutile » ; le hadith lui-même commence par l'ordre de viser juste et de s'appliquer.
 3. **Le désespoir :** que le pécheur repentant ne croie pas que ses manquements ont fermé la porte de l'espoir ; qu'il corrige plutôt ce qu'il peut, se repente et ait une bonne opinion de la miséricorde d'Allah, sans se croire à l'abri ni se bercer d'illusions.
 
 Le `sadad`, c'est viser la justesse et la droiture ; la `muqaraba`, c'est faire de son mieux quand la perfection est hors de portée. L'islam ne demande donc pas une œuvre infaillible, et n'admet pas non plus qu'on abandonne l'action au nom de l'espérance ; il demande une orientation sincère, un effort constant et la conscience de son besoin d'Allah.
@@ -89,7 +89,7 @@ Le serviteur agit réellement, il rendra compte de ses choix, et il espère la r
 
 <!-- evidence:end -->
 
-<!-- evidence:start id="muslim-2816c" kind="hadith" mode="canonical" -->
+<!-- evidence:start id="muslim-2816g" kind="hadith" mode="canonical" -->
 
 ### Viser juste, tout en ayant besoin de la miséricorde
 
@@ -97,7 +97,7 @@ Le serviteur agit réellement, il rendra compte de ses choix, et il espère la r
 
 <!-- evidence:translation -->
 
-> D'après Abu Hurayrah, qu'Allah l'agrée : le Messager d'Allah, paix et bénédictions sur lui, a dit : **« Visez juste et appliquez-vous ; et sachez que nul d'entre vous ne sera sauvé par sa seule œuvre. »** Ils dirent : « Ô Messager d'Allah, pas même toi ? » Il dit : **« Pas même moi, à moins qu'Allah ne m'enveloppe de Sa miséricorde et de Sa grâce. »**[^5]
+> D'après Abu Hurayrah, qu'Allah l'agrée : le Messager d'Allah, paix et bénédictions sur lui, a dit : **« Appliquez-vous et visez juste ; et sachez que nul d'entre vous ne sera sauvé par sa seule œuvre. »** Ils dirent : « Ô Messager d'Allah, pas même toi ? » Il dit : **« Pas même moi, à moins qu'Allah ne m'enveloppe de Sa miséricorde et de Sa grâce. »**[^5]
 
 #### Explication savante
 
@@ -105,7 +105,7 @@ Le hadith réunit l'ordre d'agir et de garder la mesure, tout en niant que l'œu
 
 #### Explication de la leçon
 
-La question des Compagnons — « Pas même toi ? » — coupe court à toute vanité : si le Messager d'Allah, paix et bénédictions sur lui, le plus parfait des hommes dans l'adoration, a besoin de la miséricorde d'Allah, les autres en ont à plus forte raison besoin. Pourtant, il ne leur a pas dit d'abandonner l'action ; il a dit : `Visez juste et appliquez-vous`.
+La question des Compagnons — « Pas même toi ? » — coupe court à toute vanité : si le Messager d'Allah, paix et bénédictions sur lui, le plus parfait des hommes dans l'adoration, a besoin de la miséricorde d'Allah, les autres en ont à plus forte raison besoin. Pourtant, il ne leur a pas dit d'abandonner l'action ; il a dit : `Appliquez-vous et visez juste`.
 
 <!-- evidence:end -->
 
@@ -117,7 +117,7 @@ La question des Compagnons — « Pas même toi ? » — coupe court à toute va
 
 1. Comment les textes concilient-ils `bima kuntum ta'maloun` et `fadlan min Rabbik` ?
 2. Quelle est la différence entre l'œuvre comme cause et l'œuvre comme prix ?
-3. Comment le hadith répond-il à la fois à l'orgueil, au fatalisme et au désespoir ?
+3. Comment le hadith répond-il à la fois à l'orgueil, à la fausse confiance et au désespoir ?
 4. Quelle œuvre exige de vous davantage de justesse, avec une conscience plus vive de votre besoin d'Allah ?
 
 <!-- unit:end -->
@@ -168,9 +168,9 @@ En rentrant, Adam dit : « Je suis content qu'Allah nous ait aidés à faire le 
 
 ### Histoire authentique : même le Messager d'Allah espère Sa miséricorde
 
-<!-- story:start audience="4-7" role="authenticated" type="hadith" source_id="muslim-2816c" authenticated="true" -->
+<!-- story:start audience="4-7" role="authenticated" type="hadith" source_id="muslim-2816g" authenticated="true" -->
 
-<!-- retelling:start source_id="muslim-2816c" audience="4-7" -->
+<!-- retelling:start source_id="muslim-2816g" audience="4-7" -->
 
 Le Prophète, paix et bénédictions sur lui, dit à ses Compagnons : essayez de bien faire et rapprochez-vous-en. Puis il leur apprit que l'œuvre seule ne sauve personne sans la miséricorde d'Allah. Ils lui demandèrent : « Pas même toi, ô Messager d'Allah ? » Il répondit que lui non plus ne serait sauvé que si Allah l'enveloppait de Sa miséricorde et de Sa grâce.[^5]
 
@@ -256,9 +256,9 @@ Yasser s'excusa auprès de lui, effaça le classement des noms et fit en sorte q
 
 ### Histoire du hadith : une question directe, une réponse qui enseigne l'humilité
 
-<!-- story:start audience="8-12" role="authenticated" type="hadith" source_id="muslim-2816c" authenticated="true" -->
+<!-- story:start audience="8-12" role="authenticated" type="hadith" source_id="muslim-2816g" authenticated="true" -->
 
-<!-- retelling:start source_id="muslim-2816c" audience="8-12" -->
+<!-- retelling:start source_id="muslim-2816g" audience="8-12" -->
 
 Le Prophète, paix et bénédictions sur lui, orienta ses Compagnons vers deux choses : viser le juste, et faire de leur mieux pour s'en rapprocher. Puis il leur apprit que nul ne se sauve par sa seule œuvre. La question qui suivit était importante : « Pas même toi, ô Messager d'Allah ? » Il répondit que lui non plus ne serait sauvé que si Allah l'enveloppait de Sa miséricorde et de Sa grâce.[^5]
 
@@ -272,10 +272,10 @@ L'enchaînement du hadith montre que la miséricorde d'Allah n'est pas une excus
 
 <!-- unit:start id="8-12.terms" kind="terms" -->
 
-<!-- terminology:start source_id="muslim-2816c" -->
+<!-- terminology:start source_id="muslim-2816g" -->
 
 - **`saddidu` (visez juste)** — cherchez la justesse et la droiture dans l'action.
-- **`qaribu` (rapprochez-vous)** — si vous n'atteignez pas la perfection, approchez-vous-en sincèrement, sans abandonner.
+- **`qaribu` (appliquez-vous, rapprochez-vous)** — si vous n'atteignez pas la perfection, approchez-vous-en sincèrement, sans abandonner.
 - **`yataghammadani` (qu'Il m'enveloppe)** — qu'Il m'entoure et me couvre de Sa miséricorde.
 
 <!-- terminology:end -->
@@ -287,7 +287,7 @@ L'enchaînement du hadith montre que la miséricorde d'Allah n'est pas une excus
 ### Questions de compréhension et de réflexion
 
 1. Pourquoi les Compagnons ont-ils demandé : « Pas même toi ? »
-2. Quelle phrase du hadith empêche le fatalisme paresseux ?
+2. Quelle phrase du hadith empêche de compter sur la miséricorde sans agir ?
 3. Quelle est la différence entre la cause et le prix ?
 4. Que fais-tu si une bonne action que tu as accomplie te rend fier de toi ?
 
@@ -357,11 +357,11 @@ Il modifia la publication pour remercier l'équipe et rappeler les besoins des f
 
 ### Une scène prophétique qui fait tomber l'illusion du mérite
 
-<!-- story:start audience="13+" role="authenticated" type="hadith" source_id="muslim-2816c" authenticated="true" -->
+<!-- story:start audience="13+" role="authenticated" type="hadith" source_id="muslim-2816g" authenticated="true" -->
 
-<!-- retelling:start source_id="muslim-2816c" audience="13+" -->
+<!-- retelling:start source_id="muslim-2816g" audience="13+" -->
 
-Dans le hadith d'Abu Hurayrah, qu'Allah l'agrée, le Prophète, paix et bénédictions sur lui, n'offrit de formule confortable à aucun des deux extrêmes. Il dit : `Visez juste et appliquez-vous`, affirmant ainsi la responsabilité et l'effort. Puis il annonça que nul ne serait sauvé par sa seule œuvre, et les Compagnons passèrent aussitôt au cas le plus fort qu'on puisse imaginer : le Messager d'Allah lui-même. Ils demandèrent : « Pas même toi ? » La réponse fut claire : « Pas même moi, à moins qu'Allah ne m'enveloppe de Sa miséricorde et de Sa grâce. »[^5]
+Dans le hadith d'Abu Hurayrah, qu'Allah l'agrée, le Prophète, paix et bénédictions sur lui, n'offrit de formule confortable à aucun des deux extrêmes. Il dit : `Appliquez-vous et visez juste`, affirmant ainsi la responsabilité et l'effort. Puis il annonça que nul ne serait sauvé par sa seule œuvre, et les Compagnons passèrent aussitôt au cas le plus fort qu'on puisse imaginer : le Messager d'Allah lui-même. Ils demandèrent : « Pas même toi ? » La réponse fut claire : « Pas même moi, à moins qu'Allah ne m'enveloppe de Sa miséricorde et de Sa grâce. »[^5]
 
 Cette question et cette réponse interdisent de bâtir une identité religieuse sur la supériorité envers autrui. La bonne action n'accorde pas à son auteur le droit de mépriser un pécheur, tout comme l'immensité de la miséricorde n'accorde pas au pécheur le droit de persister. Le croyant voit sa bonne action comme une faveur d'Allah (tawfiq) qui a encore besoin d'être acceptée, et son péché comme une porte vers un repentir sincère, non comme un argument pour le désespoir.
 
@@ -373,7 +373,7 @@ Cette question et cette réponse interdisent de bâtir une identité religieuse 
 
 <!-- unit:start id="13+.terms" kind="terms" -->
 
-<!-- terminology:start source_id="muslim-2816c" -->
+<!-- terminology:start source_id="muslim-2816g" -->
 
 - **le `bi` de causalité** — indique que l'œuvre est une voie et une cause à laquelle Allah a attaché la rétribution.
 - **le `bi` de contrepartie** — indique l'échange d'une chose contre une autre, comme le prix d'une marchandise ; c'est ce sens précis qui est nié entre l'œuvre et la Jannah.
@@ -389,7 +389,7 @@ Cette question et cette réponse interdisent de bâtir une identité religieuse 
 
 1. Comment peut-on concilier la croyance en la responsabilité avec la négation d'un mérite indépendant ?
 2. Pourquoi est-il incorrect d'utiliser ce hadith pour minimiser la valeur de l'œuvre ?
-3. Quelle est la différence entre espérer la miséricorde et se croire à l'abri de la ruse d'Allah ?
+3. Quelle est la différence entre espérer la miséricorde et se croire à l'abri du plan d'Allah (al-amn min makr Allah) ?
 4. Comment traiter la comparaison religieuse avec autrui à la lumière de la réponse du Prophète, paix et bénédictions sur lui ?
 5. Quelle phrase équilibrée te dirais-tu après une bonne action, et après un péché dont tu t'es repenti ?
 
@@ -401,7 +401,7 @@ Cette question et cette réponse interdisent de bâtir une identité religieuse 
 
 <!-- activity:start audience="13+" concept_id="lesson.010.activity.claim-classify-repair" -->
 
-Analyse trois cas : une personne qui méprise les autres à cause de son adoration, une personne qui repousse son repentir en comptant sur la miséricorde, et une personne désespérée parce que son œuvre est imparfaite. Dégage la croyance erronée dans chaque cas, classe-la comme orgueil, fatalisme ou désespoir, puis rédige une réponse de deux lignes qui s'appuie sur une preuve et réunit l'action et le besoin de miséricorde.
+Analyse trois cas : une personne qui méprise les autres à cause de son adoration, une personne qui repousse son repentir en comptant sur la miséricorde, et une personne désespérée parce que son œuvre est imparfaite. Dégage la croyance erronée dans chaque cas, classe-la comme orgueil, fausse confiance ou désespoir, puis rédige une réponse de deux lignes qui s'appuie sur une preuve et réunit l'action et le besoin de miséricorde.
 
 <!-- activity:end -->
 
@@ -432,7 +432,7 @@ Analyse trois cas : une personne qui méprise les autres à cause de son adorati
 ### Adultes — 60 minutes
 
 <!-- lesson-plan:outcomes -->
-**Résultats d'apprentissage :** l'apprenant explique la différence entre la cause et le prix, concilie les trois preuves sans contradiction, identifie l'orgueil, le fatalisme et le désespoir, et reformule une affirmation confuse de manière doctrinalement correcte.
+**Résultats d'apprentissage :** l'apprenant explique la différence entre la cause et le prix, concilie les trois preuves sans contradiction, identifie l'orgueil, la fausse confiance et le désespoir, et reformule une affirmation confuse de manière doctrinalement correcte.
 
 <!-- lesson-plan:materials -->
 **Matériel :** copies des trois preuves ; cartes des six affirmations ; trois grands intitulés : « Correct », « Incomplet », « Erroné » ; papier et stylos ; carte de sortie.
@@ -447,13 +447,13 @@ Analyse trois cas : une personne qui méprise les autres à cause de son adorati
 **Étude des preuves — 15 minutes :** les groupes lisent Ad-Dukhan 51-57, Al-A'raf 43 et le hadith de Muslim 2816. Ils soulignent les mots liés à l'œuvre et entourent ceux qui se rapportent à la guidance, à la grâce et à la miséricorde.
 
 <!-- lesson-plan:instruction -->
-**Enseignement dirigé — 15 minutes :** l'enseignant trace deux colonnes : « cause » et « prix ». Il explique le `bi` de causalité et le `bi` de contrepartie, puis demande aux apprenants d'expliquer pourquoi « Visez juste et appliquez-vous » vient avant la négation du salut par l'œuvre seule.
+**Enseignement dirigé — 15 minutes :** l'enseignant trace deux colonnes : « cause » et « prix ». Il explique le `bi` de causalité et le `bi` de contrepartie, puis demande aux apprenants d'expliquer pourquoi « Appliquez-vous et visez juste » vient avant la négation du salut par l'œuvre seule.
 
 <!-- lesson-plan:activity -->
 **Activité — 15 minutes :** les groupes réalisent l'activité de classement et de correction. Aucune reformulation n'est acceptée tant qu'elle n'inclut pas à la fois la responsabilité de l'œuvre et le besoin de la miséricorde d'Allah, avec une preuve adaptée.
 
 <!-- lesson-plan:assessment -->
-**Évaluation et conclusion — 10 minutes :** carte de sortie : « Définissez la cause et le prix, conciliez les versets d'Al-A'raf et d'Ad-Dukhan, et écrivez une application concrète qui vous protège de l'orgueil, du fatalisme ou du désespoir. » L'enseignant conclut par la du'a de la leçon, en précisant qu'il s'agit d'une formulation pédagogique propre à la leçon.
+**Évaluation et conclusion — 10 minutes :** carte de sortie : « Définissez la cause et le prix, conciliez les versets d'Al-A'raf et d'Ad-Dukhan, et écrivez une application concrète qui vous protège de l'orgueil, de la fausse confiance ou du désespoir. » L'enseignant conclut par la du'a de la leçon, en précisant qu'il s'agit d'une formulation pédagogique propre à la leçon.
 
 <!-- lesson-plan:differentiation -->
 **Différenciation :** le débutant reçoit des phrases incomplètes dont il choisit la fin, et l'apprenant avancé est chargé d'expliquer comment le hadith réunit la crainte et l'espérance. Les apprenants peuvent discuter d'un cas général plutôt que de dévoiler une expérience personnelle.
@@ -540,7 +540,7 @@ Analyse trois cas : une personne qui méprise les autres à cause de son adorati
 ### Adolescents 13+ — 55 minutes
 
 <!-- lesson-plan:outcomes -->
-**Résultats d'apprentissage :** l'élève construit une réponse fondée sur les textes à l'objection d'une contradiction, explique le `bi` de causalité et le `bi` de contrepartie, analyse l'orgueil, le fatalisme et le désespoir, et rédige une réponse équilibrée à un cas réel.
+**Résultats d'apprentissage :** l'élève construit une réponse fondée sur les textes à l'objection d'une contradiction, explique le `bi` de causalité et le `bi` de contrepartie, analyse l'orgueil, la fausse confiance et le désespoir, et rédige une réponse équilibrée à un cas réel.
 
 <!-- lesson-plan:materials -->
 **Matériel :** dossier des preuves ; bref extrait de l'explication d'Ibn al-Qayyim ; cartes des trois cas ; modèle « affirmation/erreur/preuve/correction » ; fiches de sortie.
@@ -575,10 +575,10 @@ Analyse trois cas : une personne qui méprise les autres à cause de son adorati
 
 ## Références
 
-[^1]: Le Saint Coran, sourate Ad-Dukhan, versets 51-57 : [Texte coranique](https://quran.com/44/51-57).
+[^1]: Le Saint Coran, sourate Ad-Dukhan, versets 51-57 : [Texte coranique](https://quran.com/44/51-57). La traduction française des versets est une traduction du sens propre au projet.
 [^2]: 'Abd al-Rahman ibn Nasir al-Sa'di, *Taysir al-Karim al-Rahman*, commentaire de la sourate Ad-Dukhan, verset 57, où il explique que le salut et le bonheur sont une grâce et une bienfaisance d'Allah : [Le Coran électronique, Université King Saud](https://quran.ksu.edu.sa/tafseer/saadi/sura44-aya57.html).
-[^3]: Le Saint Coran, sourate Al-A'raf, verset 43 : [Texte coranique](https://quran.com/7/43).
-[^4]: Ibn Qayyim al-Jawziyya, *Hadi al-Arwah ila Bilad al-Afrah*, dix-neuvième chapitre, section sur la conciliation entre l'entrée au Paradis par l'œuvre et l'entrée par la miséricorde d'Allah, où il distingue le `bi` de contrepartie et le `bi` de causalité : [Al-Maktaba al-Shamila](https://shamela.ws/book/13652/229).
-[^5]: Sahih Muslim, Livre de la description du Jour de la Résurrection, du Paradis et du Feu, hadith 2816, rapporté par Abu Hurayrah, qu'Allah l'agrée ; hadith authentique : [Sunnah.com, rapport 2816g](https://sunnah.com/muslim:2816g).
+[^3]: Le Saint Coran, sourate Al-A'raf, verset 43 : [Texte coranique](https://quran.com/7/43). La traduction française du verset est une traduction du sens propre au projet.
+[^4]: Ibn Qayyim al-Jawziyya, *Hadi al-Arwah ila Bilad al-Afrah*, dix-neuvième chapitre (« De l'offre que le Seigneur fait à Ses serviteurs de Sa marchandise, la Jannah, et de son prix… »), dans la section où il concilie l'entrée au Paradis par l'œuvre et l'entrée par la miséricorde d'Allah, et distingue le `bi` de contrepartie, qui est nié, du `bi` de causalité, qui est affirmé (éd. Ata'at al-Ilm, 1/176-177) : [Al-Maktaba al-Shamila](https://shamela.ws/book/13652/230).
+[^5]: Sahih Muslim, Livre de la description du Jour de la Résurrection, du Paradis et du Feu, hadith 2816, rapporté par Abu Hurayrah, qu'Allah l'agrée ; hadith authentique : [Sunnah.com, rapport 2816g](https://sunnah.com/muslim:2816g). La traduction française du hadith est une traduction du sens propre au projet.
 
 <!-- references:end -->

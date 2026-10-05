@@ -21,9 +21,9 @@ bedtime_dua_id: "lesson.011.dua.jannah-near-words-deeds"
 
 Al terminar esta lección, el estudiante será capaz de:
 
-- Explicar por qué los creyentes piden a Allah el cumplimiento de Su promesa en Al 'Imran 193-194, a pesar de su certeza de que Allah nunca falta a Su promesa, y mostrar que esta súplica forma parte de la plenitud de la servidumbre y de la necesidad de Allah, no una duda sobre la veracidad de la promesa.
+- Explicar por qué los creyentes piden a Allah el cumplimiento de Su promesa en Al 'Imran 193-194, a pesar de su certeza de que Allah nunca falta a Su promesa, y mostrar que esta súplica forma parte de la plenitud de la servidumbre y de la necesidad de Allah (iftiqar), no una duda sobre la veracidad de la promesa.
 - Narrar la historia del joven en el hadiz de Abu Dawud 793, y explicar que el Profeta, la paz y las bendiciones de Allah sean con él, no censuró su du'a breve, sino que confirmó que su intención giraba en torno a pedir la Jannah y refugiarse del Fuego.
-- Concluir que la sinceridad del du'a no exige elocuencia ni palabras extensas, y que un du'a corto y comprendido es tan aceptable como el du'a profético que reúne muchos significados.
+- Concluir que la sinceridad del du'a no exige elocuencia ni palabras extensas, y que un du'a corto y comprendido, dicho con palabras correctas, es legítimo, aunque los du'as proféticos que reúnen muchos significados siguen siendo los más completos y los primeros que conviene aprender.
 - Vincular la petición de la Jannah con el hadiz de Ibn Mayah 3846, que añade a esa petición pedir «lo que acerque a ella de palabra u obra», mostrando que el anhelo sincero se conecta con el esfuerzo diario, no solo con el deseo.
 - Aplicar esto de manera práctica vinculando el du'a de la Jannah con una situación recurrente y una obra o palabra concreta y observable, mediante la actividad «Pide y Actúa», adaptada a cada edad.
 - Memorizar el du'a «Oh Allah, te pido la Jannah y lo que acerque a ella de palabra u obra...» y usarlo antes de dormir con la intención de vincularlo con una obra del día siguiente.
@@ -130,7 +130,7 @@ El anhelo por la Jannah no se conforma con decir «la quiero»; el siervo pide a
 
 <!-- activity:start audience="adults" concept_id="lesson.011.activity.ask-and-act-pairing" -->
 
-Crea una tabla de cuatro filas: **situación recurrente, du'a, palabra u obra que acerca, obstáculo previsto**. Elige situaciones reales, como despertarte, terminar la oración, empezar el trabajo o un desacuerdo familiar. Para cada situación, escribe una fórmula correcta con la que pidas la Jannah y vincúlala con un acto observable en las siguientes veinticuatro horas: reparar una palabra hiriente, rezar a su hora o dar una limosna en secreto. Añade una manera de superar el obstáculo y revisa al final de la semana si el du'a siguió separado de tu conducta o empezó a orientarla.
+Crea una tabla de cuatro columnas: **situación recurrente, du'a, palabra u obra que acerca, obstáculo previsto**, con una fila para cada situación. Elige situaciones reales, como despertarte, terminar la oración, empezar el trabajo o un desacuerdo familiar. Para cada situación, escribe una fórmula correcta con la que pidas la Jannah y vincúlala con un acto observable en las siguientes veinticuatro horas: reparar una palabra hiriente, rezar a su hora o dar una limosna en secreto. Añade una manera de superar el obstáculo y revisa al final de la semana si el du'a siguió separado de tu conducta o empezó a orientarla.
 
 <!-- activity:end -->
 
@@ -144,7 +144,7 @@ Crea una tabla de cuatro filas: **situación recurrente, du'a, palabra u obra qu
 
 ## Para Niños de 4 a 7 Años
 
-La Jannah es la casa más hermosa que Allah preparó para Sus siervos creyentes. Nosotros pedimos a Allah la Jannah con palabras claras, y luego hacemos el bien que Él ama: rezamos, damos limosna, somos compasivos y pedimos perdón cuando nos equivocamos. Cuando decimos: «Oh Allah, te pido la Jannah», recordamos que nuestra lengua pide, nuestro corazón tiene esperanza y nuestras manos hacen el bien.
+La Jannah es la casa más hermosa que Allah preparó para Sus siervos creyentes. Nosotros pedimos a Allah la Jannah con palabras claras, y luego hacemos el bien que Él ama: rezamos, decimos la verdad, somos compasivos y pedimos perdón cuando nos equivocamos. Cuando decimos: «Oh Allah, te pido la Jannah», recordamos que nuestra lengua pide, nuestro corazón tiene esperanza y nuestras manos hacen el bien.
 
 <!-- unit:end -->
 
@@ -280,7 +280,7 @@ Haz tres tarjetas. Escribe en la parte superior de cada una un momento fijo: des
 > **اللَّهُمَّ إِنِّي أَسْأَلُكَ الْجَنَّةَ وَمَا قَرَّبَ إِلَيْهَا مِنْ قَوْلٍ أَوْ عَمَلٍ، وَأَعُوذُ بِكَ مِنَ النَّارِ وَمَا قَرَّبَ إِلَيْهَا مِنْ قَوْلٍ أَوْ عَمَلٍ.**
 > «Oh Allah, te pido la Jannah y lo que acerque a ella de palabra u obra, y me refugio en Ti del Fuego y de lo que acerque a él de palabra u obra.»[^4]
 
-Antes de dormir, elige una palabra buena o una buena obra con la que tengas intención de empezar mañana.
+Antes de dormir, elige una palabra buena o una buena obra con la que tengas intención de empezar mañana. Este du'a se puede decir en cualquier momento; no está reservado para la hora de dormir.
 
 <!-- bedtime-dua:end -->
 
@@ -327,7 +327,7 @@ Este episodio hace frente a la presión de aparentar religiosidad ante los demá
 <!-- terminology:start source_id="abudawud-793" -->
 
 - **`dandanah` (الدندنة)** — un sonido de habla cuyo tono se percibe sin que sus palabras se distingan; se usó aquí para describir un du'a cuyas palabras el joven no comprendía por completo.
-- **`el anhelo por la Jannah`** — una esperanza sincera del corazón que se manifiesta al pedir a Allah y al esforzarse por lo que Le agrada, no una mera pretensión o fantasía.
+- **`el anhelo por la Jannah`** — una esperanza sincera del corazón que se manifiesta al pedir a Allah y al esforzarse por lo que le agrada, no una mera pretensión o fantasía.
 
 <!-- terminology:end -->
 
@@ -381,7 +381,7 @@ Después del du'a, nombra en tu interior una palabra u obra que quieras que te a
 ### Adultos — 60 minutos
 
 <!-- lesson-plan:outcomes -->
-**Resultados de aprendizaje:** que el estudiante explique por qué pedir la Jannah es una adoración a pesar de la certeza de que la promesa es verdadera, analice el significado del hadiz del joven, vincule el du'a con una palabra u obra observable, y elabore un plan semanal que reúna la necesidad y el esfuerzo.
+**Resultados de aprendizaje:** que el estudiante explique por qué pedir la Jannah es una adoración a pesar de la certeza de que la promesa es verdadera, analice el significado del hadiz del joven, vincule el du'a con una palabra u obra observable, y elabore un plan semanal que reúna la necesidad de Allah y el esfuerzo.
 
 <!-- lesson-plan:materials -->
 **Materiales:** copias de Al 'Imran 193-194; los hadices de Abu Dawud 793 e Ibn Mayah 3846; modelo de la tabla «situación/du'a/obra/obstáculo»; hojas y bolígrafos; tarjeta de salida.
@@ -393,7 +393,7 @@ Después del du'a, nombra en tu interior una palabra u obra que quieras que te a
 **Apertura — 5 minutos:** pregunta: «Si Allah nunca falta a Su promesa, ¿por qué suplicaron los creyentes: concédenos lo que nos has prometido?» Recoge las hipótesis de los estudiantes y aplaza la conclusión al estudio del texto.
 
 <!-- lesson-plan:evidence -->
-**Estudio de las pruebas — 18 minutos:** tres grupos estudian las tres pruebas. El primero extrae las palabras de necesidad y promesa; el segundo, la intención del du'a del joven; el tercero, el vínculo entre la Jannah y las palabras y obras. Cada grupo presenta una conclusión con una prueba textual.
+**Estudio de las pruebas — 18 minutos:** tres grupos estudian las tres pruebas. El primero extrae las palabras que expresan la necesidad de Allah y la promesa; el segundo, la intención del du'a del joven; el tercero, el vínculo entre la Jannah y las palabras y obras. Cada grupo presenta una conclusión con una prueba textual.
 
 <!-- lesson-plan:instruction -->
 **Enseñanza guiada — 12 minutos:** el maestro construye en la pizarra una secuencia: «promesa verdadera — petición y necesidad — éxito y firmeza — palabra y obra». Explica que la sencillez del du'a no significa descuidar lo transmitido, y que aprender lo transmitido no justifica descuidar el significado.
@@ -504,7 +504,7 @@ Después del du'a, nombra en tu interior una palabra u obra que quieras que te a
 **Estudio de las pruebas — 13 minutos:** grupos pequeños leen las pruebas. Cada grupo busca una relación distinta: la promesa y la petición, la sencillez y la intención, la meta y la palabra y la obra. Presentan una conclusión con una expresión del texto.
 
 <!-- lesson-plan:instruction -->
-**Enseñanza guiada — 12 minutos:** el maestro discute cómo el du'a puede convertirse en una actuación social o en un hábito sin presencia, y muestra que el remedio no es abandonar el du'a, sino comprenderlo, hacer presente la necesidad, y vincularlo con una decisión.
+**Enseñanza guiada — 12 minutos:** el maestro discute cómo el du'a puede convertirse en una actuación social o en un hábito sin presencia, y muestra que el remedio no es abandonar el du'a, sino comprenderlo, hacer presente la necesidad de Allah, y vincularlo con una decisión.
 
 <!-- lesson-plan:activity -->
 **Actividad — 15 minutos:** cada estudiante construye el protocolo «meta, du'a, decisión» para una semana. Evalúa el plan con dos preguntas: ¿es concreta la decisión? ¿puede el du'a recordarla en el momento del detonante? La participación es voluntaria y se permite usar un caso hipotético.
@@ -513,7 +513,7 @@ Después del du'a, nombra en tu interior una palabra u obra que quieras que te a
 **Evaluación y cierre — 10 minutos:** los estudiantes analizan el caso de alguien que publica muchos du'as y luego insiste en dañar a la gente: ¿cuál es la brecha? ¿cuál es la corrección sin juzgar su destino? Luego escriben una tarjeta de salida que explique el hadiz del joven y una aplicación.
 
 <!-- lesson-plan:differentiation -->
-**Atención a las diferencias:** al que tiene dificultad se le da un modelo parcialmente completado, y al avanzado se le encarga analizar por qué la pregunta «¿qué acerca a la Jannah?» es más precisa que una lista de obras sin intención ni necesidad.
+**Atención a las diferencias:** al que tiene dificultad se le da un modelo parcialmente completado, y al avanzado se le encarga analizar por qué la pregunta «¿qué acerca a la Jannah?» es más precisa que una lista de obras sin intención ni necesidad de Allah.
 
 <!-- lesson-plan:safeguards -->
 **Advertencias de enseñanza:** los planes no se usan para vigilar la religiosidad ni avergonzar a los estudiantes, y la Jannah no se vincula solo con el sentimiento momentáneo. Ante una desesperación intensa u obsesión, se detiene el debate argumentativo y se dirige al estudiante hacia un apoyo confiable según el protocolo de protección adoptado.
@@ -525,7 +525,7 @@ Después del du'a, nombra en tu interior una palabra u obra que quieras que te a
 ## Referencias
 
 [^1]: El Sagrado Corán, sura Al 'Imran, aleyas 193-194: [Texto coránico](https://quran.com/3/193-194).
-[^2]: Ibn Qayyim al-Yawziyya, *Hadi al-Arwah ila Bilad al-Afrah*, capítulo veinte, sobre la petición de la gente de la Jannah a su Señor, explicación de que los creyentes piden lo que Allah les prometió por boca de Sus mensajeros: [al-Maktaba ash-Shamila](https://shamela.ws/book/13652/232).
+[^2]: Ibn Qayyim al-Yawziyya, *Hadi al-Arwah ila Bilad al-Afrah*, capítulo veinte, sobre la petición de la gente de la Jannah a su Señor, explicación de que los creyentes piden lo que Allah les prometió por boca de Sus mensajeros: [al-Maktaba ash-Shamila](https://shamela.ws/book/13652/233).
 [^3]: Sunan Abu Dawud, libro de la oración, hadiz 793, narrado por Yabir ibn Abd Allah, que Allah esté complacido con él, en la historia de Mu'adh, autenticado por al-Albani: [Sunnah.com, narración 793](https://sunnah.com/abudawud:793).
 [^4]: Sunan Ibn Mayah, libro del du'a, capítulo de los du'as que reúnen muchos significados, hadiz 3846, narrado por Aisha, que Allah esté complacido con ella, hadiz auténtico: [Sunnah.com, narración 3846](https://sunnah.com/ibnmajah:3846).
 

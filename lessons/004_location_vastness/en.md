@@ -34,7 +34,7 @@ After this lesson, the learner will be able to:
 
 <!-- unit:start id="adults.explanation" kind="explanation" -->
 
-When the Qur'an describes Jannah as `عَرْضُهَا السَّمَاوَاتُ وَالْأَرْضُ` ("its width is that of the heavens and earth"), it opens the heart to a vastness beyond worldly measure, not a door to geometric calculation. The earliest witness to this vastness in the Qur'an is not a general verse but a specific event: the first human, Adam, peace be upon him, was settled with his wife in Jannah itself, free to eat from any place he wished, forbidden only one tree. That Jannah was so spacious that nothing in it called for more than a single prohibition.
+When the Qur'an describes Jannah as `عَرْضُهَا السَّمَاوَاتُ وَالْأَرْضُ` ("its width is that of the heavens and earth"), it opens the heart to a vastness beyond worldly measure, not a door to geometric calculation. The earliest witness to this vastness in the Qur'an is not a general verse but a specific event: the first human, Adam, peace be upon him, was settled with his wife in Jannah itself, according to the majority of scholars,[^3] free to eat from any place he wished, forbidden only one tree. That Jannah was so spacious that nothing in it called for more than a single prohibition.
 
 Then came a single slip, through Satan's whispering, and Adam and his wife were removed from what they had been in and sent down to earth. This event shows the heart two linked truths: the Jannah Adam lost was a tremendous, vast bliss, and entering or leaving it depends not on its size but on obedience to Allah within it. The ayat of Aal 'Imran and al-Hadid tell us this same vastness is promised to every believer who hastens to his Lord's forgiveness, and the Sunnah adds another measure: not vastness of place alone but vastness of value, such that its smallest spot is better than this entire world and all it contains.
 
@@ -87,7 +87,7 @@ This is the first practical description of Jannah's vastness: a place where Alla
 
 #### Lesson Explanation
 
-Adam and his wife were not removed for want of space, but by one slip, prompted by Satan's whispering, in taking the single thing forbidden to them amid all that vastness. Allah later accepted their repentance, but the lesson remains: the wider the bliss, the greater the loss of one who neglects the single command set for him.
+Adam and his wife were not removed for want of space, but by one slip, prompted by Satan's whispering, in taking the single thing forbidden to them amid all that vastness. Allah later accepted their repentance,[^9] but the lesson remains: the wider the bliss, the greater the loss of one who neglects the single command set for him.
 
 <!-- evidence:end -->
 
@@ -107,15 +107,15 @@ Adam and his wife were not removed for want of space, but by one slip, prompted 
 
 #### Scholarly Tafsir
 
-Commentators note that describing Jannah's `عَرْضُهَا` ("width") as like the heavens and earth magnifies its vastness beyond human comprehension; it is not a geometric measurement of its area. Width is the shorter dimension, so what of its length? This description therefore must not be turned into cosmic speculation; it is left to what it indicates: the abode of the Hereafter is vaster than anything all the people of this world together could imagine.
+Commentators note that describing Jannah's `عَرْضُهَا` ("width") as like the heavens and earth magnifies its vastness beyond human comprehension; it is not a geometric measurement of its area. Width is usually shorter than length, so what of its length?[^8] This description therefore must not be turned into cosmic speculation; it is left to what it indicates: the abode of the Hereafter is vaster than anything all the people of this world together could imagine.
 
 #### Lesson Explanation
 
-This vastness extends the Jannah Adam, peace be upon him, first lived in; it is today promised to every believer who hastens to his Lord's forgiveness — Jannah is not confined to a historical event that has ended, but is an abode that exists now, promised and worth hastening toward.
+This vastness, according to the majority of scholars, extends the Jannah Adam, peace be upon him, first lived in; it is today promised to every believer who hastens to his Lord's forgiveness — Jannah is not confined to a historical event that has ended, but is an abode that exists now, promised and worth hastening toward.
 
 <!-- evidence:end -->
 
-<!-- evidence:start id="mishkat-5613" kind="hadith" mode="canonical" -->
+<!-- evidence:start id="bukhari-3250" kind="hadith" mode="canonical" -->
 
 ### The Space of a Whip in Jannah Is Better Than This World
 
@@ -183,7 +183,7 @@ Jannah is very, very big — bigger than any place we have ever seen in our live
 
 Allah created the first human, named Adam, peace be upon him, and settled him in Jannah with his wife. Allah told them: `كُلَا مِنْهَا رَغَدًا حَيْثُ شِئْتُمَا` — meaning: eat from any place in this vast Jannah you wish, and never deny yourselves anything, except one single tree Allah told them not to go near.[^1] Jannah was so vast, full of every beautiful thing, yet Allah forbade them only one thing, so they would see that obedience matters more than all that vastness.
 
-Satan came and tried to make them forget Allah's command, so they ate from that one tree. So Allah sent them out of that beautiful, spacious place, and they came down to earth.[^4] Then Adam, peace be upon him, prayed to his Lord and was truly sorry, so Allah forgave him and had mercy on him.
+Satan came and tried to make them forget Allah's command, so they ate from that one tree. So Allah sent them out of that beautiful, spacious place, and they came down to earth.[^4] Then Adam, peace be upon him, prayed to his Lord and was truly sorry, so Allah forgave him and had mercy on him.[^9]
 
 <!-- retelling:end -->
 
@@ -251,7 +251,7 @@ When Allah says Jannah's width is like the width of the heavens and earth, He is
 
 Allah said: `"We said, 'O Adam, dwell, you and your wife, in Jannah and eat freely from it wherever you wish, but do not approach this tree, lest you be among the wrongdoers.'"`[^1] After Allah created Adam, peace be upon him, taught him the names of things, and commanded the angels to prostrate to him in honor, He settled him in Jannah with his wife, permitting them to eat from any place they wished, without limit or restriction, except for one particular tree.
 
-This enormous scope of permission points to the vastness of that place itself: a place that needed only one prohibition to set the bounds of obedience. But Satan whispered to them until they forgot that single prohibition, so they ate from the tree, and Allah removed them from what they had been in and commanded them to descend to earth.[^4] They were not sent out because the place was too small, but because they disobeyed one command amid tremendous vastness; Allah later accepted the repentance of Adam, peace be upon him, because his remorse was sincere.
+This enormous scope of permission points to the vastness of that place itself: a place that needed only one prohibition to set the bounds of obedience. But Satan whispered to them until they ate from the tree they had been forbidden, and Allah removed them from what they had been in and commanded them to descend to earth.[^4] They were not sent out because the place was too small, but because they disobeyed one command amid tremendous vastness; Allah later accepted the repentance of Adam, peace be upon him, because his remorse was sincere.[^9]
 
 <!-- retelling:end -->
 
@@ -334,7 +334,7 @@ Then comes the hadith, "The space of a whip in Jannah is better than this world 
 
 Allah said to Adam, peace be upon him, and his wife: `"Dwell, you and your wife, in Jannah and eat freely from it wherever you wish, but do not approach this tree, lest you be among the wrongdoers."`[^1] This Jannah was no temporary place or small test; it was the first human dwelling in all of existence, and it was so vast that organizing it required no more than a single boundary amid immeasurable expanse.
 
-This reveals an important truth: tremendous vastness does not mean the absence of limits; it may make the one remaining limit even clearer and more significant. Satan whispered to Adam and his wife until they forgot that single limit, so they ate from the tree, and they were removed from what they had been in and commanded to descend to earth, `"and We said, 'Go down, some of you enemies to others, and you have on earth a settlement and provision for a time.'"`[^4] The narrowness of that place was never the reason for leaving it, but crossing one boundary amid vast abundance; Allah then accepted the repentance of Adam, peace be upon him, after his sincere remorse.
+This reveals an important truth: tremendous vastness does not mean the absence of limits; it may make the one remaining limit even clearer and more significant. Satan whispered to Adam and his wife until they crossed that single limit and ate from the tree, and they were removed from what they had been in and commanded to descend to earth, `"and We said, 'Go down, some of you enemies to others, and you have on earth a settlement and provision for a time.'"`[^4] The narrowness of that place was never the reason for leaving it, but crossing one boundary amid vast abundance; Allah then accepted the repentance of Adam, peace be upon him, after his sincere remorse.[^9]
 
 <!-- retelling:end -->
 
@@ -409,7 +409,7 @@ Write a list of three things you feel people around you clearly measure their wo
 **Materials:** A copy of the four ayat and the hadith; a drawn or real two-pan scale model; paper and pens; an exit card.
 
 <!-- lesson-plan:preparation -->
-**Preparation:** The teacher reviews the point of dispute between Ahl as-Sunnah and some theologians on the identity of the Jannah of Adam, peace be upon him, and prepares neutral contemporary examples comparing something large and visible to something small and hidden.
+**Preparation:** The teacher reviews the scholarly disagreement over the identity of the Jannah of Adam, peace be upon him (most scholars hold that it was the Garden of Eternity), and prepares neutral contemporary examples comparing something large and visible to something small and hidden.
 
 <!-- lesson-plan:opening -->
 **Opening — 5 minutes:** Ask: "Is a thing's value always measured by its size?" Gather answers before presenting the evidence.
@@ -427,10 +427,10 @@ Write a list of three things you feel people around you clearly measure their wo
 **Assessment and Closing — 10 minutes:** Exit card: "State the one boundary set for Adam, peace be upon him, amid Jannah's vastness, explain the meaning of 'the space of a whip,' and write one situation where you will review your decision." The teacher closes by reading the du'a, noting that it is a lesson-authored teaching du'a.
 
 <!-- lesson-plan:differentiation -->
-**Differentiation:** A beginner is given a written summary of Adam's story, peace be upon him, before the discussion, and an advanced learner is tasked with discussing the difference between the majority Ahl as-Sunnah position and the opposing view on the identity of Adam's Jannah.
+**Differentiation:** A beginner is given a written summary of the story of Adam, peace be upon him, before the discussion, and an advanced learner is tasked with discussing the difference between the majority position and the opposing view on the identity of Adam's Jannah.
 
 <!-- lesson-plan:safeguards -->
-**Teaching Cautions:** The lesson is not used to open speculative discussion about Jannah's geographic location or precise dimensions; any such question is redirected to the fact that these details are unseen matters established only by text. Adam's story, peace be upon him, is narrated respectfully, without dwelling on details of the slip beyond the text.
+**Teaching Cautions:** The lesson is not used to open speculative discussion about Jannah's geographic location or precise dimensions; any such question is redirected to the fact that these details are unseen matters established only by text. The story of Adam, peace be upon him, is narrated respectfully, without dwelling on details of the slip beyond the text.
 
 <!-- lesson-plan:end -->
 
@@ -445,13 +445,13 @@ Write a list of three things you feel people around you clearly measure their wo
 **Materials:** A hanger or simple scale; printed pictures of toys; a small card reading "a piece of Jannah"; a du'a card in clear handwriting.
 
 <!-- lesson-plan:preparation -->
-**Preparation:** The teacher prepares the simple scale and pictures, and practices narrating Adam's story, peace be upon him, in short, clear sentences with no frightening detail about Satan.
+**Preparation:** The teacher prepares the simple scale and pictures, and practices narrating the story of Adam, peace be upon him, in short, clear sentences with no frightening detail about Satan.
 
 <!-- lesson-plan:opening -->
 **Opening — 4 minutes:** Ask: "What's the biggest place you've ever seen?" Listen to the children's answers, then say: "Jannah is far bigger than all of that."
 
 <!-- lesson-plan:evidence -->
-**Reading the Evidence — 6 minutes:** The teacher narrates Adam's story, peace be upon him, simply, then the hadith of "the space of a whip," pausing to ask: "Do you think Jannah is big or small?"
+**Reading the Evidence — 6 minutes:** The teacher narrates the story of Adam, peace be upon him, simply, then the hadith of "the space of a whip," pausing to ask: "Do you think Jannah is big or small?"
 
 <!-- lesson-plan:instruction -->
 **Guided Instruction — 6 minutes:** The teacher explains that Allah permitted Adam, peace be upon him, everything except one tree, and that a small piece of Jannah is better than all this world.
@@ -502,7 +502,7 @@ Write a list of three things you feel people around you clearly measure their wo
 **Differentiation:** A ready-made list of examples is provided for struggling students, and advanced students are tasked with comparing the ayat of Aal 'Imran and al-Hadid in greater detail.
 
 <!-- lesson-plan:safeguards -->
-**Teaching Cautions:** The lesson is not used to speculate about Jannah's geographic location or precise dimensions; any such question is redirected to the fact that these details are unseen. Adam's story, peace be upon him, is narrated respectfully without detail beyond the text.
+**Teaching Cautions:** The lesson is not used to speculate about Jannah's geographic location or precise dimensions; any such question is redirected to the fact that these details are unseen. The story of Adam, peace be upon him, is narrated respectfully without detail beyond the text.
 
 <!-- lesson-plan:end -->
 
@@ -511,16 +511,16 @@ Write a list of three things you feel people around you clearly measure their wo
 ### Teens, Ages 13+ — 55 Minutes
 
 <!-- lesson-plan:outcomes -->
-**Learning Outcomes:** The student analyzes the relationship between vast bliss and a narrow margin for disobedience in Adam's story, peace be upon him, explains the significance of the hadith of "the space of a whip" against social standards of value, and carries out a personal activity linking this to a real-life situation.
+**Learning Outcomes:** The student analyzes the relationship between vast bliss and a narrow margin for disobedience in the story of Adam, peace be upon him, explains the significance of the hadith of "the space of a whip" against social standards of value, and carries out a personal activity linking this to a real-life situation.
 
 <!-- lesson-plan:materials -->
 **Materials:** A file of the four pieces of evidence and the hadith; term cards; a Scale of the Small Place template; exit slips.
 
 <!-- lesson-plan:preparation -->
-**Preparation:** The teacher reviews Adam's story, peace be upon him, and the hadith, and prepares a neutral example comparing visible value to real value without singling out any specific student.
+**Preparation:** The teacher reviews the story of Adam, peace be upon him, and the hadith, and prepares a neutral example comparing visible value to real value without singling out any specific student.
 
 <!-- lesson-plan:opening -->
-**Opening — 5 minutes:** The teacher poses a question: "Is the bigger or more visible thing always the better one?" and opens a short discussion before reading Adam's story, peace be upon him.
+**Opening — 5 minutes:** The teacher poses a question: "Is the bigger or more visible thing always the better one?" and opens a short discussion before reading the story of Adam, peace be upon him.
 
 <!-- lesson-plan:evidence -->
 **Studying the Evidence — 14 minutes:** Three groups read: the two ayat of al-Baqarah on Adam's settling and removal, the two ayat of vastness in Aal 'Imran and al-Hadid, and the hadith of "the space of a whip." Each group extracts the relationship between vastness and value in its text.
@@ -538,7 +538,7 @@ Write a list of three things you feel people around you clearly measure their wo
 **Differentiation:** A struggling student is given three ready-made social standards to choose from, and an advanced student is tasked with discussing the scholarly dispute over the identity of the Jannah of Adam, peace be upon him, and its effect on understanding the text.
 
 <!-- lesson-plan:safeguards -->
-**Teaching Cautions:** The lesson is not used to judge those who publicly share their achievements or possessions, nor to turn the activity into hurtful comparison between students. Adam's story, peace be upon him, is narrated respectfully without detail beyond the text, and no speculative discussion of Jannah's geographic location is opened.
+**Teaching Cautions:** The lesson is not used to judge those who publicly share their achievements or possessions, nor to turn the activity into hurtful comparison between students. The story of Adam, peace be upon him, is narrated respectfully without detail beyond the text, and no speculative discussion of Jannah's geographic location is opened.
 
 <!-- lesson-plan:end -->
 
@@ -552,6 +552,8 @@ Write a list of three things you feel people around you clearly measure their wo
 [^4]: The Noble Qur'an, Surah al-Baqarah, ayah 36: [Qur'anic text](https://quran.com/2/36).
 [^5]: The Noble Qur'an, Surah Aal 'Imran, ayah 133: [Qur'anic text](https://quran.com/3/133).
 [^6]: The Noble Qur'an, Surah al-Hadid, ayah 21: [Qur'anic text](https://quran.com/57/21).
-[^7]: Sahih al-Bukhari, Book of the Beginning of Creation, chapter on the description of Jannah and that it is already created, no. 3250, and Book of Softening of Hearts, no. 6415, from Sahl ibn Sa'd al-Sa'idi, may Allah be pleased with him, with the wording "The space of a whip in Jannah is better than this world and all it contains" (and similarly no. 2892); sahih: [Sahih al-Bukhari 3250](https://sunnah.com/bukhari:3250); the wording "A single evening or morning outing in the path of Allah…" is in Sahih al-Bukhari, Book of Jihad, no. 2796, from Anas ibn Malik, may Allah be pleased with him: [Sahih al-Bukhari 2796](https://sunnah.com/bukhari:2796); Muslim (1880, 1881) narrated from Anas and Sahl, may Allah be pleased with them, only the virtue of the morning and evening outing, without mention of the space of a whip. Abu Nu'aym al-Asbahani also reported it in *Sifat al-Jannah* in the chapter on the superiority of a whip's length of Jannah over this world and all it contains: [al-Maktabah al-Shamilah — Sifat al-Jannah by Abu Nu'aym](https://shamela.ws/book/21602/61); and 'Umar Sulayman al-Ashqar reported it in *al-Jannah wa-n-Nar*, citing *Mishkat al-Masabih* (3/85, no. 5613): [al-Maktabah al-Shamilah — al-Jannah wa-n-Nar by al-Ashqar](https://shamela.ws/book/12714/203).
+[^7]: Sahih al-Bukhari, Book of the Beginning of Creation, chapter on the description of Jannah and that it is already created, no. 3250, and Book of Softening of Hearts, no. 6415, from Sahl ibn Sa'd al-Sa'idi, may Allah be pleased with him, with the wording "The space of a whip in Jannah is better than this world and all it contains" (and similarly no. 2892); sahih: [Sahih al-Bukhari 3250](https://sunnah.com/bukhari:3250); the wording "A single evening or morning outing in the path of Allah…" is in Sahih al-Bukhari, Book of Jihad, no. 2796, from Anas ibn Malik, may Allah be pleased with him: [Sahih al-Bukhari 2796](https://sunnah.com/bukhari:2796); Muslim (1880, 1881) narrated from Anas and Sahl, may Allah be pleased with them, only the virtue of the morning and evening outing, without mention of the space of a whip. Abu Nu'aym al-Asbahani also reported it in *Sifat al-Jannah* in the chapter on the superiority of a whip's length of Jannah over this world and all it contains: [al-Maktabah al-Shamilah — Sifat al-Jannah by Abu Nu'aym](https://shamela.ws/book/21602/61); and 'Umar Sulayman al-Ashqar reported it in *al-Jannah wa-n-Nar*, citing *Mishkat al-Masabih* (3/85, no. 5613): [al-Maktabah al-Shamilah — al-Jannah wa-n-Nar by al-Ashqar](https://shamela.ws/book/12714/205).
+[^8]: Abu Muhammad al-Husayn ibn Mas'ud al-Baghawi, *Ma'alim al-Tanzil*, commentary on Surah Aal 'Imran, ayah 133, stating that width is mentioned for emphasis "because the length of a thing is usually greater than its width; it is as if He says: this is the description of its width, so what of its length?", and citing al-Zuhri: "He described only its width; as for its length, none knows it but Allah": [King Saud University Digital Mushaf — Tafsir al-Baghawi](https://quran.ksu.edu.sa/tafseer/baghawy/sura3-aya133.html); and Abu 'Abdullah al-Qurtubi, *al-Jami' li-Ahkam al-Qur'an*, on the same ayah: "Allah drew attention to the length by mentioning the width, because length is usually greater than width": [King Saud University Digital Mushaf — Tafsir al-Qurtubi](https://quran.ksu.edu.sa/tafseer/qortobi/sura3-aya133.html). Ibn Kathir mentions both views: that mentioning the width points to the vastness of the length, and, it was also said, that its width equals its length.
+[^9]: The Noble Qur'an, Surah al-Baqarah, ayah 37: `فَتَلَقَّىٰ آدَمُ مِنْ رَبِّهِ كَلِمَاتٍ فَتَابَ عَلَيْهِ` ("Then Adam received words from his Lord, and He accepted his repentance"): [Qur'anic text](https://quran.com/2/37); and Surah al-A'raf, ayah 23: `قَالَا رَبَّنَا ظَلَمْنَا أَنْفُسَنَا` ("They said, 'Our Lord, we have wronged ourselves'"): [Qur'anic text](https://quran.com/7/23).
 
 <!-- references:end -->

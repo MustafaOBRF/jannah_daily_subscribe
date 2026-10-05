@@ -23,7 +23,7 @@ After this lesson, the learner will be able to:
 
 - Explain why the believers ask Allah for what He already promised them in Aal 'Imran 3:193-194, even while certain He never breaks His promise, and show that this asking is part of the fullness of servanthood and of our need for Him, not a challenge to the truth of His promise.
 - Narrate the story of the young man in the hadith of Abu Dawud 793, and show that the Prophet, peace and blessings be upon him, did not fault his short du'a but affirmed that its aim revolved around the greatest goal: asking for Jannah and seeking refuge from the Fire.
-- Conclude that a sincere du'a does not require eloquence or long phrasing, and that a short du'a whose meaning is understood is accepted, just as the comprehensive prophetic du'a is.
+- Conclude that a sincere du'a does not require eloquence or long phrasing, and that a short du'a whose meaning is understood, said in correct words, is legitimate, while the comprehensive prophetic du'as remain the most complete and the first to learn.
 - Connect asking for Jannah to the hadith of Ibn Majah 3846, which adds to the request for Jannah a request for "whatever word or deed draws one nearer to it," showing that sincere longing is tied to daily striving, not wishing alone.
 - Apply this practically by linking a du'a for Jannah to a recurring situation and one observable word or deed, through the "Ask, Then Act" activity in its age-appropriate form.
 - Memorize the du'a "O Allah, I ask You for Jannah and whatever word or deed draws nearer to it..." and use it before sleep with the intention of connecting it to tomorrow's actions.
@@ -130,7 +130,7 @@ Longing for Jannah is not satisfied by saying "I want it." The servant asks his 
 
 <!-- activity:start audience="adults" concept_id="lesson.011.activity.ask-and-act-pairing" -->
 
-Make a table of four rows: **recurring situation, du'a, drawing-near word or deed, expected obstacle**. Choose real situations: waking up, right after prayer, starting work, a family disagreement. For each, write a correct wording for asking for Jannah, then link it to an observable action within twenty-four hours — mending a hurtful word, praying on time, hidden charity. Add one way to overcome the obstacle, and at week's end review whether the du'a stayed separate from behavior or came to guide it.
+Make a table with four columns: **recurring situation, du'a, drawing-near word or deed, expected obstacle**, giving each situation its own row. Choose real situations: waking up, right after prayer, starting work, a family disagreement. For each, write a correct wording for asking for Jannah, then link it to an observable action within twenty-four hours — mending a hurtful word, praying on time, hidden charity. Add one way to overcome the obstacle, and at week's end review whether the du'a stayed separate from behavior or came to guide it.
 
 <!-- activity:end -->
 
@@ -144,7 +144,7 @@ Make a table of four rows: **recurring situation, du'a, drawing-near word or dee
 
 <!-- unit:start id="4-7.explanation" kind="explanation" -->
 
-Jannah is the most beautiful home Allah has prepared for His believing servants. We ask Allah for Jannah with clear words, and then we do the good that He loves: we pray, we give charity, we show mercy, and we say sorry when we make a mistake. When we say, "O Allah, I ask You for Jannah," we remember that our tongues are asking, our hearts are hoping, and our hands are doing good.
+Jannah is the most beautiful home Allah has prepared for His believing servants. We ask Allah for Jannah with clear words, and then we do the good that He loves: we pray, we tell the truth, we show mercy, and we say sorry when we make a mistake. When we say, "O Allah, I ask You for Jannah," we remember that our tongues are asking, our hearts are hoping, and our hands are doing good.
 
 <!-- unit:end -->
 
@@ -282,7 +282,7 @@ Make three cards. At the top of each, write a fixed time: after a prayer, before
 >
 > *"O Allah, I ask You for Jannah and whatever word or deed draws nearer to it, and I seek refuge in You from the Fire and whatever word or deed draws nearer to it."*
 
-Before you sleep, choose one good word or righteous deed that you intend to start your day with tomorrow.
+Before you sleep, choose one good word or righteous deed that you intend to start your day with tomorrow. This du'a can be said at any time; it is not reserved for bedtime.
 
 <!-- bedtime-dua:end -->
 
@@ -528,7 +528,7 @@ After the du'a, name to yourself one word or deed you want to draw you nearer to
 ## References
 
 [^1]: The Noble Qur'an, Surah Aal 'Imran, ayat 193-194: [Qur'anic text](https://quran.com/3/193-194).
-[^2]: Ibn Qayyim al-Jawziyyah, *Hadi al-Arwah ila Bilad al-Afrah*, chapter twenty on the people of Jannah asking their Lord for it, on the believers' asking for what Allah promised them through His messengers: [al-Maktaba ash-Shamila](https://shamela.ws/book/13652/232).
+[^2]: Ibn Qayyim al-Jawziyyah, *Hadi al-Arwah ila Bilad al-Afrah*, chapter twenty on the people of Jannah asking their Lord for it, on the believers' asking for what Allah promised them through His messengers: [al-Maktaba ash-Shamila](https://shamela.ws/book/13652/233).
 [^3]: Sunan Abu Dawud, Book of Prayer, hadith 793, narrated by Jabir ibn 'Abdullah, may Allah be pleased with him, in the story of Mu'adh, authenticated by al-Albani: [Sunnah.com, hadith 793](https://sunnah.com/abudawud:793).
 [^4]: Sunan Ibn Majah, Book of Du'a, chapter on comprehensive du'as, hadith 3846, narrated by 'Aishah, may Allah be pleased with her, an authentic hadith: [Sunnah.com, hadith 3846](https://sunnah.com/ibnmajah:3846).
 

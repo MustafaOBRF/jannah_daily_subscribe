@@ -81,17 +81,17 @@ Première leçon de ces deux versets : le mot « jannah » dans le Coran ne dés
 
 <!-- evidence:start id="bukhari-4878" kind="hadith" mode="canonical" -->
 
-### Deux jardins d'or et deux jardins d'argent
+### Deux jardins d'argent et deux jardins d'or
 
 > عَنْ أَبِي مُوسَى الْأَشْعَرِيِّ رضي الله عنه، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ: **«جَنَّتَانِ مِنْ فِضَّةٍ آنِيَتُهُمَا وَمَا فِيهِمَا، وَجَنَّتَانِ مِنْ ذَهَبٍ آنِيَتُهُمَا وَمَا فِيهِمَا، وَمَا بَيْنَ الْقَوْمِ وَبَيْنَ أَنْ يَنْظُرُوا إِلَى رَبِّهِمْ إِلَّا رِدَاءُ الْكِبْرِ عَلَى وَجْهِهِ فِي جَنَّةِ عَدْنٍ».**[^3]
 
 <!-- evidence:translation -->
 
-> D'après Abu Musa al-Ash'ari, qu'Allah l'agrée, le Prophète, paix et bénédictions sur lui, a dit : **« Deux jardins d'argent, dont la vaisselle et tout ce qu'ils contiennent sont d'argent, et deux jardins d'or, dont la vaisselle et tout ce qu'ils contiennent sont d'or ; et il n'y aura entre ces gens et la vision de leur Seigneur que le voile de la Grandeur sur Son Visage, dans le Jardin d'Éden. »**[^3]
+> D'après Abu Musa al-Ash'ari, qu'Allah l'agrée, le Prophète, paix et bénédictions sur lui, a dit : **« Deux jardins d'argent, dont la vaisselle et tout ce qu'ils contiennent sont d'argent, et deux jardins d'or, dont la vaisselle et tout ce qu'ils contiennent sont d'or ; et il n'y aura entre ces gens et la vision de leur Seigneur que le manteau de la Grandeur sur Son Visage, dans le Jardin d'Éden. »**[^3]
 
 #### Explication savante
 
-L'authenticité de ce hadith fait l'unanimité, et c'est l'un des textes les plus explicites pour établir la multiplicité des jardins et la diversité de leur substance : dans les uns, la vaisselle et les ornements sont d'or ; dans les autres, ils sont d'argent. Le hadith se conclut par le sommet des délices, dans le Jardin d'Éden : les croyants verront leur Seigneur, exalté et glorifié, sans autre obstacle que le voile de la Grandeur, qu'Il écarte pour eux afin de les honorer.
+L'authenticité de ce hadith fait l'unanimité, et c'est l'un des textes les plus explicites pour établir la multiplicité des jardins et la diversité de leur substance : dans les uns, la vaisselle et les ornements sont d'or ; dans les autres, ils sont d'argent. Le hadith se conclut par le sommet des délices, dans le Jardin d'Éden : les croyants verront leur Seigneur, exalté et glorifié, sans autre obstacle que le manteau de la Grandeur, qu'Il écarte pour eux afin de les honorer.
 
 #### Explication de la leçon
 
@@ -254,7 +254,7 @@ Ce hadith nous enseigne que l'écart entre le rang le plus bas et le rang le plu
 <!-- terminology:start source_id="muslim-189b" -->
 
 - **`le rang le plus bas des gens de la Jannah`** — la dernière personne à entrer dans la Jannah, celle qui reçoit le moins de délices parmi ses habitants ; et pourtant, son bonheur est immense.
-- **`J'ai planté leur honneur de Ma main et l'ai scellé`** — description d'un honneur particulier qu'Allah a préservé pour les plus hauts en rang parmi les gens de la Jannah, et qu'aucune créature ne connaît avant qu'il ne leur soit dévoilé.
+- **`J'ai planté leur honneur de Ma main et l'ai scellé`** — description d'un honneur particulier qu'Allah a planté de Sa main, de la manière qui sied à Sa majesté, et qu'Il a préservé pour les plus hauts en rang parmi les gens de la Jannah, et qu'aucune créature ne connaît avant qu'il ne leur soit dévoilé.
 
 <!-- terminology:end -->
 
@@ -325,9 +325,9 @@ Cet écart immense peut soulever une question : n'y a-t-il pas là une injustice
 
 <!-- retelling:start source_id="muslim-189b" audience="13+" -->
 
-Al-Mughira ibn Shu'ba, qu'Allah l'agrée, rapporte que le Prophète, paix et bénédictions sur lui, a raconté que Musa, paix sur lui, demanda à son Seigneur : « Seigneur, fais-moi connaître celui dont le rang est le plus bas parmi les gens de la Jannah. » Allah lui parla alors d'un homme qui arrive quand tous les gens de la Jannah sont déjà installés à leur place. On lui dit : « Entre dans la Jannah. » Il dit, étonné : « Ô Seigneur, comment, alors que les gens ont déjà occupé leurs demeures et pris leurs parts ? » Allah lui demande : « Serais-tu satisfait d'avoir l'équivalent du royaume d'un roi parmi les rois de ce monde ? » Il dit : « J'en suis satisfait, Seigneur. » Allah dit : « Cela est à toi, et autant, et autant, et autant, et autant. » À la cinquième fois, l'homme dit : « J'en suis satisfait, Seigneur ! » Allah dit : « Ceci est à toi, et dix fois autant, et tu auras tout ce que ton âme désire et dont ton œil se délecte. »[^4]
+Al-Mughira ibn Shu'ba, qu'Allah l'agrée, rapporte que le Prophète, paix et bénédictions sur lui, a raconté que Musa, paix sur lui, demanda à son Seigneur : « Qui est celui dont le rang est le plus bas parmi les gens de la Jannah ? » Allah lui parla alors d'un homme qui arrive quand tous les gens de la Jannah sont déjà installés à leur place. On lui dit : « Entre dans la Jannah. » Il dit, étonné : « Ô Seigneur, comment, alors que les gens ont déjà occupé leurs demeures et pris leurs parts ? » Allah lui demande : « Serais-tu satisfait d'avoir l'équivalent du royaume d'un roi parmi les rois de ce monde ? » Il dit : « J'en suis satisfait, Seigneur. » Allah dit : « Cela est à toi, et autant, et autant, et autant, et autant. » À la cinquième fois, l'homme dit : « J'en suis satisfait, Seigneur ! » Allah dit : « Ceci est à toi, et dix fois autant, et tu auras tout ce que ton âme désire et dont ton œil se délecte. »[^4]
 
-Puis Musa, paix sur lui, posa la seconde question : « Seigneur, et celui dont le rang est le plus haut ? » Allah lui répondit : « Ce sont ceux que J'ai choisis ; J'ai planté leur honneur de Ma main et l'ai scellé : aucun œil n'a vu, aucune oreille n'a entendu, et rien n'a effleuré le cœur d'un homme. » Et le Prophète, paix et bénédictions sur lui, indiqua que la confirmation s'en trouve dans le Coran, dans cette parole d'Allah : {Nulle âme ne sait ce qui leur est réservé comme réjouissance des yeux}.[^4]
+Puis Musa, paix sur lui, posa la seconde question : « Seigneur, et celui dont le rang est le plus haut ? » Allah lui répondit : « Ce sont ceux que J'ai choisis ; J'ai planté leur honneur de Ma main et l'ai scellé : aucun œil n'a vu, aucune oreille n'a entendu, et rien n'a effleuré le cœur d'un homme. » Et la fin du hadith indique que la confirmation s'en trouve dans le Livre d'Allah, dans cette parole : {Nulle âme ne sait ce qui leur est réservé comme réjouissance des yeux}.[^4]
 
 Ce hadith réunit les deux extrémités de l'échelle des délices : le rang le plus bas comble son bénéficiaire bien au-delà de ses attentes, malgré son hésitation du début, et le rang le plus haut dépasse toute description. Cela ne veut pas dire que l'effort soit vain : le hadith lui-même établit qu'il existe un « plus bas » et un « plus haut », et que les œuvres et la sincérité sont la cause de la différence entre ces deux rangs, même si le plus bas d'entre eux est déjà un bonheur sans commune mesure avec quoi que ce soit en ce monde.
 
@@ -342,7 +342,7 @@ Ce hadith réunit les deux extrémités de l'échelle des délices : le rang le 
 <!-- terminology:start source_id="muslim-189b" -->
 
 - **`leurs parts`** — en arabe *akhadhât* : les places et les emplacements où les gens de la Jannah se sont déjà installés ; le mot vient du verbe « prendre », au sens de saisir fermement une chose et de la garder.
-- **`J'ai planté leur honneur de Ma main et l'ai scellé`** — expression désignant un honneur particulier qu'Allah a préservé pour les plus hauts en rang parmi les gens de la Jannah, et qu'aucune créature n'a pu connaître avant qu'il ne leur soit dévoilé.
+- **`J'ai planté leur honneur de Ma main et l'ai scellé`** — un honneur particulier qu'Allah a planté de Sa main, de la manière qui sied à Sa majesté, et qu'Il a préservé pour les plus hauts en rang parmi les gens de la Jannah, et qu'aucune créature n'a pu connaître avant qu'il ne leur soit dévoilé.
 
 <!-- terminology:end -->
 
@@ -544,8 +544,8 @@ Après le du'a, pense à une bonne œuvre que tu comptes poursuivre demain, sans
 
 [^1]: Le Noble Coran, sourate Ar-Rahman, versets 46 et 62 : [Texte coranique](https://quran.com/55/46), [verset 62](https://quran.com/55/62).
 [^2]: Ibn Qayyim al-Jawziyya, *Hadi al-Arwah ila Bilad al-Afrah*, chapitre XXII, sur le nombre des jardins et le fait qu'ils sont de deux types : deux jardins d'or et deux jardins d'argent : [Al-Maktaba al-Shamila](https://shamela.ws/book/13652/259).
-[^3]: Sahih al-Bukhari, Livre de l'exégèse du Coran (sourate Ar-Rahman), hadith 4878, et Sahih Muslim, hadith 180, rapporté par Abu Musa al-Ash'ari, qu'Allah l'agrée ; hadith dont l'authenticité fait l'unanimité (muttafaq 'alayh) : [Sunnah.com, rapport 4878](https://sunnah.com/bukhari:4878).
-[^4]: Sahih Muslim, Livre de la foi, hadith 189, rapporté par al-Mughira ibn Shu'ba, qu'Allah l'agrée, et remontant au Prophète : [Sunnah.com, rapport 189](https://sunnah.com/muslim:189).
+[^3]: Sahih al-Bukhari, Livre de l'exégèse du Coran (sourate Ar-Rahman), hadith 4878, et Sahih Muslim, hadith 180, rapporté par Abu Musa al-Ash'ari, qu'Allah l'agrée ; hadith dont l'authenticité fait l'unanimité (muttafaq 'alayh) ; la version d'al-Bukhari porte « le manteau de la Grandeur (al-kibr) » (رداء الكبر) et celle de Muslim « le manteau de la Grandeur (al-kibriya') » (رداء الكبرياء) : [Sunnah.com, rapport 4878](https://sunnah.com/bukhari:4878).
+[^4]: Sahih Muslim, Livre de la foi, hadith 189, rapporté par al-Mughira ibn Shu'ba, qu'Allah l'agrée, et remontant au Prophète (marfu') ; le texte est celui de la version de Bishr ibn al-Hakam d'après Sufyan ibn 'Uyayna (189b dans la numérotation de Sunnah.com). Les termes des transmetteurs sur son attribution au Prophète : Sufyan dit dans cette version : « L'un des deux l'a fait remonter au Prophète ; je pense que c'est Ibn Abjar » ; dans la première chaîne : « à titre de récit [du Prophète], si Allah le veut » ; et dans la chaîne d'Ibn Abi 'Umar : « Je l'ai entendu sur le minbar le faire remonter au Messager d'Allah, paix et bénédictions sur lui » : [Sunnah.com, rapport 189](https://sunnah.com/muslim:189).
 [^5]: Le Noble Coran, sourate As-Sajda, verset 17 : [Texte coranique](https://quran.com/32/17).
 
 <!-- references:end -->

@@ -62,11 +62,11 @@ Les `rawatib` sont les sunnas rattachées aux prières obligatoires, accomplies 
 
 #### Tafsir savant
 
-Allah a décrit la récompense des pieux comme des `غُرَفٌ مَبْنِيَّةٌ`, c'est-à-dire des demeures élevées et édifiées, et Il a lié cette construction à la piété, non à une simple espérance vague. Le verset rappelle ensuite que c'est là une promesse d'Allah, et qu'Allah ne manque jamais à Sa promesse.[^2]
+Allah a décrit la récompense des pieux comme des `غُرَفٌ مَبْنِيَّةٌ`, c'est-à-dire des demeures élevées et édifiées, les palais imposants du Paradis. Le verset rappelle ensuite que c'est là une promesse d'Allah, et qu'Allah ne manque jamais à Sa promesse.[^2]
 
 #### Explication de la leçon
 
-Le verset pose le principe : la construction au Paradis est une récompense liée à l'œuvre de piété. Le hadith qui suit applique ce principe à un acte d'adoration précis, à la portée de tout musulman : les rawatib quotidiennes.
+Le verset pose le principe : la construction au Paradis est une récompense liée à l'œuvre de piété, et non à une simple espérance sans action. Le hadith qui suit applique ce principe à un acte d'adoration précis, à la portée de tout musulman : les rawatib quotidiennes.
 
 <!-- evidence:end -->
 
@@ -78,7 +78,7 @@ Le verset pose le principe : la construction au Paradis est une récompense lié
 
 <!-- evidence:translation -->
 
-> D'après Umm Habiba, qu'Allah l'agrée, qui a dit : « J'ai entendu le Messager d'Allah, paix et bénédictions sur lui, dire : **“Quiconque prie douze rak'ahs en un jour et une nuit, on lui construira grâce à elles une maison au Paradis.”** » Umm Habiba a dit : « Je ne les ai plus délaissées depuis que je les ai entendues de la bouche du Messager d'Allah, paix et bénédictions sur lui. » 'Anbasa a dit : « Je ne les ai plus délaissées depuis que je les ai entendues d'Umm Habiba. » 'Amr ibn Aws a dit : « Je ne les ai plus délaissées depuis que je les ai entendues de 'Anbasa. » Et an-Nu'man ibn Salim a dit : « Je ne les ai plus délaissées depuis que je les ai entendues de 'Amr ibn Aws. »[^3]
+> D'après Umm Habiba, qu'Allah l'agrée, qui a dit : « J'ai entendu le Messager d'Allah, paix et bénédictions sur lui, dire : **“Quiconque prie douze rak'ahs en un jour et une nuit, on lui construira grâce à elles une maison au Paradis.”** » Umm Habiba a dit : « Je ne les ai plus délaissées depuis que je les ai entendues de la bouche du Messager d'Allah, paix et bénédictions sur lui. » 'Anbasa a dit : « Je ne les ai plus délaissées depuis que je les ai entendues de la bouche d'Umm Habiba. » 'Amr ibn Aws a dit : « Je ne les ai plus délaissées depuis que je les ai entendues de la bouche de 'Anbasa. » Et an-Nu'man ibn Salim a dit : « Je ne les ai plus délaissées depuis que je les ai entendues de la bouche de 'Amr ibn Aws. »[^3]
 
 #### Explication savante
 
@@ -106,7 +106,7 @@ Cette version détaille les douze rak'ahs mentionnées dans la version précéde
 
 #### Explication de la leçon
 
-Ce détail rend l'adoration réaliste et l'échelonne sur toute la journée : le musulman ne la ressent pas comme une lourde charge concentrée en un seul moment, mais comme une habitude répartie qui accompagne chaque prière obligatoire.
+Ce détail rend l'adoration réaliste et l'échelonne sur toute la journée : le musulman ne la ressent pas comme une lourde charge concentrée en un seul moment, mais comme une habitude répartie qui accompagne la plupart des prières obligatoires.
 
 <!-- evidence:end -->
 
@@ -143,7 +143,7 @@ Dessinez le plan d'une maison composée de cinq briques, et inscrivez sur chaque
 
 ## Pour les enfants de 4 à 7 ans
 
-Nous faisons les cinq prières, et il y a aussi de petites prières en plus, que nous faisons avec elles : on les appelle **les rawatib**. À celui qui fait ces petites prières chaque jour, Allah promet de construire **une maison au Paradis**. La petite maison où nous prions aujourd'hui peut nous valoir une belle maison au Paradis !
+Nous faisons les cinq prières, et il y a aussi de petites prières en plus, que nous faisons avec elles : on les appelle **les rawatib**. À celui qui fait ces petites prières chaque jour, Allah promet de construire **une maison au Paradis**. Nos petites prières, faites aujourd'hui à la maison, peuvent nous valoir une belle maison au Paradis !
 
 <!-- unit:end -->
 
@@ -328,7 +328,7 @@ Fabrique un tableau de cinq lignes, une pour chaque moment des rawatib (avant le
 
 ## Pour les adolescents (13 ans et plus)
 
-Beaucoup d'adolescents se concentrent sur les cinq prières obligatoires et considèrent tout ce qui s'y ajoute comme secondaire, indigne d'attention quand l'emploi du temps est chargé par l'école et les activités. Le hadith d'Umm Habiba, qu'Allah l'agrée, corrige cette idée : douze rak'ahs surérogatoires réparties sur toute la journée, qui prennent peu de temps, et en échange desquelles Allah promet une maison entière au Paradis. Le verset précédent relie cette construction à la piété en général, ce qui fait du hadith des rawatib une application concrète et accessible de ce principe.
+Beaucoup d'adolescents se concentrent sur les cinq prières obligatoires et considèrent tout ce qui s'y ajoute comme secondaire, indigne d'attention quand l'emploi du temps est chargé par l'école et les activités. Le hadith d'Umm Habiba, qu'Allah l'agrée, corrige cette idée : douze rak'ahs surérogatoires réparties sur toute la journée, qui prennent peu de temps, et en échange desquelles Allah promet une maison entière au Paradis. Le verset 20 de la sourate Az-Zumar relie cette construction à la piété en général[^1], ce qui fait du hadith des rawatib une application concrète et accessible de ce principe.
 
 <!-- unit:end -->
 
@@ -360,7 +360,7 @@ La première semaine fut difficile, et elle oublia ses rawatib toute une journé
 
 Umm Habiba bint Abi Sufyan, qu'Allah l'agrée, épouse du Prophète, paix et bénédictions sur lui, rapporta l'avoir entendu dire : « Quiconque prie douze rak'ahs en un jour et une nuit, on lui construira grâce à elles une maison au Paradis. » Elle ajouta qu'elle n'avait jamais délaissé ces rak'ahs depuis qu'elle avait entendu cette promesse, et certains de ceux qui ont transmis ce hadith après elle ont dit qu'eux non plus ne les avaient plus délaissées depuis qu'ils l'avaient entendu.[^3]
 
-Dans une version rapportée par Tirmidhi, ces rak'ahs sont détaillées : quatre avant le Dhuhr, deux après, deux après le Maghrib, deux après le 'Isha, et deux avant la prière du Fajr.[^4] L'adoration est ainsi répartie sur cinq moments de la journée : elle ne demande pas de libérer un long moment d'un seul tenant, mais de consacrer fidèlement quelques instants à chaque prière.
+Dans une version rapportée par Tirmidhi, ces rak'ahs sont détaillées : quatre avant le Dhuhr, deux après, deux après le Maghrib, deux après le 'Isha, et deux avant la prière du Fajr.[^4] L'adoration est ainsi répartie sur cinq moments de la journée : elle ne demande pas de libérer un long moment d'un seul tenant, mais de consacrer fidèlement quelques instants à la plupart des prières.
 
 <!-- retelling:end -->
 

@@ -49,7 +49,7 @@ Esta comprensión corrige dos ideas erróneas: imaginar la Jannah como un símbo
 
 ### Una Jannah tan Vasta como los Cielos y la Tierra, Preparada para los Piadosos
 
-> **وَسَارِعُوا إِلَىٰ مَغْفِرَةٍ مِنْ رَبِّكُمْ وَجَنَّةٍ عَرْضُهَا السَّمَاوَاتُ وَالْأَرْضُ أُعِدَّتْ لِلْمُتَّقِينَ.** [آل عمران: ١٣٣]
+> **وَسَارِعُوا إِلَىٰ مَغْفِرَةٍ مِنْ رَبِّكُمْ وَجَنَّةٍ عَرْضُهَا السَّمَاوَاتُ وَالْأَرْضُ أُعِدَّتْ لِلْمُتَّقِينَ.** [آل عمران: ١٣٣][^1]
 
 <!-- evidence:translation -->
 
@@ -69,7 +69,7 @@ La sola palabra `u'iddat` basta para corregir una idea común: que la Jannah es 
 
 ### He Preparado para Mis Siervos Rectos lo que Ningún Ojo Ha Visto
 
-> عَنْ أَبِي هُرَيْرَةَ رضي الله عنه، عَنِ النَّبِيِّ صلى الله عليه وسلم، قَالَ: **«قَالَ اللَّهُ: أَعْدَدْتُ لِعِبَادِيَ الصَّالِحِينَ مَا لَا عَيْنٌ رَأَتْ، وَلَا أُذُنٌ سَمِعَتْ، وَلَا خَطَرَ عَلَى قَلْبِ بَشَرٍ، فَاقْرَءُوا إِنْ شِئْتُمْ:»** `فَلَا تَعْلَمُ نَفْسٌ مَا أُخْفِيَ لَهُمْ مِنْ قُرَّةِ أَعْيُنٍ جَزَاءً بِمَا كَانُوا يَعْمَلُونَ.` [السجدة: ١٧]
+> عَنْ أَبِي هُرَيْرَةَ رضي الله عنه، عَنِ النَّبِيِّ صلى الله عليه وسلم، قَالَ: **«قَالَ اللَّهُ: أَعْدَدْتُ لِعِبَادِيَ الصَّالِحِينَ مَا لَا عَيْنٌ رَأَتْ، وَلَا أُذُنٌ سَمِعَتْ، وَلَا خَطَرَ عَلَى قَلْبِ بَشَرٍ، فَاقْرَءُوا إِنْ شِئْتُمْ:»** `فَلَا تَعْلَمُ نَفْسٌ مَا أُخْفِيَ لَهُمْ مِنْ قُرَّةِ أَعْيُنٍ جَزَاءً بِمَا كَانُوا يَعْمَلُونَ.` [السجدة: ١٧][^3][^4]
 
 <!-- evidence:translation -->
 
@@ -77,7 +77,7 @@ La sola palabra `u'iddat` basta para corregir una idea común: que la Jannah es 
 
 #### Explicación Académica
 
-Allah informa de Sí mismo con la palabra `a'dadtu` (he preparado), el mismo verbo pasado de la aleya de Aal 'Imran, confirmando que la preparación ya ocurrió, no es una promesa futura. El Profeta, que la paz y las bendiciones de Allah sean con él, remitió a la aleya de as-Sayda para aclarar que algunos detalles de esta dicha están ocultos a toda alma, aunque su existencia está firmemente establecida.
+Allah informa de Sí mismo con la palabra `a'dadtu` (he preparado), el mismo verbo pasado de la aleya de Aal 'Imran, confirmando que la preparación ya ocurrió, no es una promesa futura. En la narración se remite después a la aleya de as-Sayda para aclarar que algunos detalles de esta dicha están ocultos a toda alma, aunque su existencia está firmemente establecida.
 
 #### Explicación de la Lección
 
@@ -91,11 +91,11 @@ Este hadiz une la certeza de la preparación con el reconocimiento de que su ple
 
 Cuando se eclipsó el sol en tiempos del Profeta, que la paz y las bendiciones de Allah sean con él, este dirigió a la gente en una oración larga, fuera de lo habitual. Durante ella, los compañeros, que Allah esté complacido con ellos, lo vieron alargar la mano como si fuera a tomar algo, y después echarse atrás como si se apartara de algo. Al terminar la oración le preguntaron por lo que habían visto, y él les respondió con lo que ha quedado establecido de él:
 
-> عَنِ ابْنِ عَبَّاسٍ رضي الله عنهما، فِي قِصَّةِ صَلَاةِ الْكُسُوفِ، أَنَّ أَصْحَابَ رَسُولِ اللَّهِ صلى الله عليه وسلم قَالُوا لَهُ: يَا رَسُولَ اللَّهِ، رَأَيْنَاكَ تَنَاوَلْتَ شَيْئًا فِي مَقَامِكَ، ثُمَّ رَأَيْنَاكَ كَعْكَعْتَ؟ **فَقَالَ: «إِنِّي رَأَيْتُ الْجَنَّةَ، فَتَنَاوَلْتُ عُنْقُودًا، وَلَوْ أَصَبْتُهُ لَأَكَلْتُمْ مِنْهُ مَا بَقِيَتِ الدُّنْيَا، وَرَأَيْتُ النَّارَ، فَلَمْ أَرَ مَنْظَرًا كَالْيَوْمِ قَطُّ أَفْظَعَ، وَرَأَيْتُ أَكْثَرَ أَهْلِهَا النِّسَاءَ».** قَالُوا: بِمَ يَا رَسُولَ اللَّهِ؟ قَالَ: **«بِكُفْرِهِنَّ».** قِيلَ: يَكْفُرْنَ بِاللَّهِ؟ قَالَ: **«يَكْفُرْنَ الْعَشِيرَ، وَيَكْفُرْنَ الْإِحْسَانَ، لَوْ أَحْسَنْتَ إِلَى إِحْدَاهُنَّ الدَّهْرَ كُلَّهُ، ثُمَّ رَأَتْ مِنْكَ شَيْئًا، قَالَتْ: مَا رَأَيْتُ مِنْكَ خَيْرًا قَطُّ».**
+> عَنِ ابْنِ عَبَّاسٍ رضي الله عنهما، فِي قِصَّةِ صَلَاةِ الْكُسُوفِ، أَنَّ أَصْحَابَ رَسُولِ اللَّهِ صلى الله عليه وسلم قَالُوا لَهُ: يَا رَسُولَ اللَّهِ، رَأَيْنَاكَ تَنَاوَلْتَ شَيْئًا فِي مَقَامِكَ، ثُمَّ رَأَيْنَاكَ كَعْكَعْتَ؟ **فَقَالَ: «إِنِّي رَأَيْتُ الْجَنَّةَ، فَتَنَاوَلْتُ عُنْقُودًا، وَلَوْ أَصَبْتُهُ لَأَكَلْتُمْ مِنْهُ مَا بَقِيَتِ الدُّنْيَا، وَأُرِيتُ النَّارَ، فَلَمْ أَرَ مَنْظَرًا كَالْيَوْمِ قَطُّ أَفْظَعَ، وَرَأَيْتُ أَكْثَرَ أَهْلِهَا النِّسَاءَ».** قَالُوا: بِمَ يَا رَسُولَ اللَّهِ؟ قَالَ: **«بِكُفْرِهِنَّ».** قِيلَ: يَكْفُرْنَ بِاللَّهِ؟ قَالَ: **«يَكْفُرْنَ الْعَشِيرَ، وَيَكْفُرْنَ الْإِحْسَانَ، لَوْ أَحْسَنْتَ إِلَى إِحْدَاهُنَّ الدَّهْرَ كُلَّهُ، ثُمَّ رَأَتْ مِنْكَ شَيْئًا، قَالَتْ: مَا رَأَيْتُ مِنْكَ خَيْرًا قَطُّ».**[^5]
 
 <!-- evidence:translation -->
 
-> Narró Ibn 'Abbas, que Allah esté complacido con ambos, sobre la historia de la oración del eclipse, que los compañeros del Mensajero de Allah, que la paz y las bendiciones de Allah sean con él, le dijeron: «Mensajero de Allah, te vimos alargar la mano hacia algo en tu sitio, y luego te vimos echarte atrás.» **Él dijo: «Vi la Jannah y extendí mi mano hacia un racimo; si lo hubiera alcanzado, habríais comido de él mientras durara el mundo. Y vi el Fuego; nunca he visto una escena tan espantosa como la de hoy, y vi que la mayoría de sus habitantes eran mujeres.»** Dijeron: «¿Por qué, Mensajero de Allah?» Dijo: **«Por su ingratitud.»** Se dijo: «¿Son ingratas con Allah?» Dijo: **«Son ingratas con su compañero y niegan el bien recibido; si tratas bien a una de ellas toda la vida, y luego ve de ti algo que no le agrada, dice: "Nunca vi nada bueno de ti."»**[^5]
+> Narró Ibn 'Abbas, que Allah esté complacido con ambos, sobre la historia de la oración del eclipse, que los compañeros del Mensajero de Allah, que la paz y las bendiciones de Allah sean con él, le dijeron: «Mensajero de Allah, te vimos alargar la mano hacia algo en tu sitio, y luego te vimos echarte atrás.» **Él dijo: «Vi la Jannah y extendí mi mano hacia un racimo; si lo hubiera alcanzado, habríais comido de él mientras durara el mundo. Y se me mostró el Fuego; nunca he visto una escena tan espantosa como la de hoy, y vi que la mayoría de sus habitantes eran mujeres.»** Dijeron: «¿Por qué, Mensajero de Allah?» Dijo: **«Por su ingratitud.»** Se dijo: «¿Son ingratas con Allah?» Dijo: **«Son ingratas con su compañero [el esposo] y niegan el bien recibido; si tratas bien a una de ellas toda la vida, y luego ve de ti algo [que no le agrada], dice: "Nunca vi nada bueno de ti."»**[^5]
 
 #### Explicación Académica
 
@@ -153,7 +153,7 @@ Durante tres días, prepara para alguien que conoces (tu cónyuge, un hermano, u
 
 <!-- retelling:start source_id="bukhari-1052" audience="4-7" -->
 
-Un día pasó algo asombroso: ¡la luz del sol desapareció en pleno día! El Profeta, que la paz y las bendiciones de Allah sean con él, se puso a rezar una oración muy larga. Mientras rezaba, los compañeros vieron que su mano se extendía como si quisiera tomar algo, y luego se retiraba de repente. Al terminar la oración, le preguntaron: «¿Qué viste, Mensajero de Allah?» Y dijo: «Vi la Jannah, y extendí mi mano para tomar un racimo de sus uvas; si lo hubiera tomado, toda la gente habría comido de él hasta el fin del mundo.» Luego dijo: «Y vi también el Fuego, así que me alejé de él.»[^5]
+Un día pasó algo asombroso: ¡la luz del sol desapareció en pleno día! El Profeta, que la paz y las bendiciones de Allah sean con él, se puso a rezar una oración muy larga. Mientras rezaba, los compañeros vieron que su mano se extendía como si quisiera tomar algo, y luego se retiraba de repente. Al terminar la oración, le preguntaron: «¿Qué viste, Mensajero de Allah?» Y dijo: «Vi la Jannah, y extendí mi mano para tomar un racimo de sus frutos; si lo hubiera tomado, toda la gente habría comido de él hasta el fin del mundo.» También les contó que había visto el Fuego, y que por eso se había apartado de él.[^5]
 
 Esto nos enseña que la Jannah existe ahora de verdad: el Profeta, que la paz y las bendiciones de Allah sean con él, la vio con sus propios ojos, ¡y su fruto estaba tan cerca que casi lo tomó con su mano!
 
@@ -220,7 +220,7 @@ Algunos de nosotros podríamos pensar que la Jannah es solo una idea que se cump
 
 <!-- retelling:start source_id="bukhari-1052" audience="8-12" -->
 
-Cuando el sol se eclipsó en tiempos del Profeta, que la paz y las bendiciones de Allah sean con él, este dirigió a la gente en una oración larga y poco habitual. Los compañeros, que Allah esté complacido con ellos, notaron que durante la oración extendía la mano hacia adelante como si quisiera tomar algo, y luego retrocedía de pronto como si evitara otra cosa. Después de la oración le preguntaron qué había visto, y les dijo: «Vi la Jannah y extendí mi mano hacia un racimo; si lo hubiera alcanzado, habríais comido de él mientras durara el mundo. Y vi el Fuego; nunca he visto una escena tan espantosa como la de hoy.»[^5] Luego les contó que había visto en el Fuego a muchas personas que negaban el bien de quienes las habían tratado bien y no agradecían los favores recibidos, aunque se los hubieran hecho durante mucho tiempo.
+Cuando el sol se eclipsó en tiempos del Profeta, que la paz y las bendiciones de Allah sean con él, este dirigió a la gente en una oración larga y poco habitual. Los compañeros, que Allah esté complacido con ellos, notaron que durante la oración extendía la mano hacia adelante como si quisiera tomar algo, y luego retrocedía de pronto como si evitara otra cosa. Después de la oración le preguntaron qué había visto, y les dijo: «Vi la Jannah y extendí mi mano hacia un racimo; si lo hubiera alcanzado, habríais comido de él mientras durara el mundo. Y se me mostró el Fuego; nunca he visto una escena tan espantosa como la de hoy.»[^5] Luego les contó que había visto en el Fuego a muchas personas que negaban el bien de quienes las habían tratado bien y no agradecían los favores recibidos, aunque se los hubieran hecho durante mucho tiempo.
 
 Esto ocurrió realmente: el Profeta, que la paz y las bendiciones de Allah sean con él, no habló de la Jannah y el Fuego desde lejos, sino que los vio con sus propios ojos estando en su lugar de oración, hasta el punto de que el fruto de la Jannah estuvo cerca de su mano. La Jannah, entonces, es una realidad que existe ahora, no solo una noticia o un deseo.
 
@@ -302,7 +302,7 @@ Esto no significa que abarquemos todos los detalles de la Jannah, ni que entremo
 
 <!-- retelling:start source_id="bukhari-1052" audience="13+" -->
 
-Narró Ibn 'Abbas, que Allah esté complacido con ambos, que cuando el sol se eclipsó en tiempos del Profeta, que la paz y las bendiciones de Allah sean con él, este dirigió a la gente en una oración larga y poco habitual, y los compañeros vieron que su mano se extendía y luego retrocedía de pronto. Después de la oración le preguntaron, y respondió: «Vi la Jannah y extendí mi mano hacia un racimo; si lo hubiera alcanzado, habríais comido de él mientras durara el mundo. Y vi el Fuego; nunca he visto una escena tan espantosa como la de hoy, y vi que la mayoría de sus habitantes eran mujeres.» Dijeron: «¿Por qué, Mensajero de Allah?» Dijo: «Por su ingratitud.» Se preguntó: «¿Son ingratas con Allah?» Dijo: «Son ingratas con su compañero y niegan el bien recibido; si tratas bien a una de ellas toda la vida, y luego ve de ti algo que no le agrada, dice: "Nunca vi nada bueno de ti."»[^5]
+Narró Ibn 'Abbas, que Allah esté complacido con ambos, que cuando el sol se eclipsó en tiempos del Profeta, que la paz y las bendiciones de Allah sean con él, este dirigió a la gente en una oración larga y poco habitual, y los compañeros vieron que su mano se extendía y luego retrocedía de pronto. Después de la oración le preguntaron, y respondió: «Vi la Jannah y extendí mi mano hacia un racimo; si lo hubiera alcanzado, habríais comido de él mientras durara el mundo. Y se me mostró el Fuego; nunca he visto una escena tan espantosa como la de hoy, y vi que la mayoría de sus habitantes eran mujeres.» Dijeron: «¿Por qué, Mensajero de Allah?» Dijo: «Por su ingratitud.» Se preguntó: «¿Son ingratas con Allah?» Dijo: «Son ingratas con su compañero [el esposo] y niegan el bien recibido; si tratas bien a una de ellas toda la vida, y luego ve de ti algo [que no le agrada], dice: "Nunca vi nada bueno de ti."»[^5]
 
 Observa la precisión del detalle: el Profeta, que la paz y las bendiciones de Allah sean con él, no dijo «la Jannah tendrá frutos», sino que dijo «extendí mi mano hacia un racimo», en tiempo pasado, como algo ya ocurrido. Esta es una diferencia esencial entre hablar de un futuro esperado e informar de un presente observado. En cuanto a la mención de que algunas mujeres niegan el buen trato de sus esposos, no es un juicio general sobre todas las mujeres, sino una advertencia contra la ingratitud dondequiera que se encuentre, en un hombre o en una mujer; la mención específica aquí se debe a que el Profeta, que la paz y las bendiciones de Allah sean con él, informó de una realidad que vio, no a que la ingratitud sea exclusiva de un sexo.
 
@@ -485,7 +485,7 @@ Durante dos semanas, elige a una persona que necesite un apoyo discreto (un amig
 **Materiales:** carpeta con las tres pruebas; tarjetas de vocabulario; modelo de registro privado para dos semanas; hojas de salida.
 
 <!-- lesson-plan:preparation -->
-**Preparación:** el maestro revisa el grado de los tres hadices, y prepara un ejemplo neutral sobre la tendencia a tratar lo que no se ve de inmediato como si no fuera real, sin referirse a ningún estudiante en particular.
+**Preparación:** el maestro revisa el grado de los dos hadices, y prepara un ejemplo neutral sobre la tendencia a tratar lo que no se ve de inmediato como si no fuera real, sin referirse a ningún estudiante en particular.
 
 <!-- lesson-plan:opening -->
 **Apertura — 5 minutos:** el maestro plantea una pregunta: «¿Puede algo ser completamente real aunque no puedas verlo ni medirlo ahora?» Abre una breve discusión antes de leer el hadiz del eclipse.
@@ -516,9 +516,9 @@ Durante dos semanas, elige a una persona que necesite un apoyo discreto (un amig
 
 [^1]: El Sagrado Corán, sura Aal 'Imran, aleya 133: [Texto coránico](https://quran.com/3/133).
 [^2]: Muhammad ibn Ahmad al-Qurtubi, *al-Yami' li-Ahkam al-Qur'an*, comentario de la sura Aal 'Imran, aleya 133, donde afirma que la mayoría de los sabios sostiene que la Jannah está creada y existe, por las palabras `u'iddat lil-muttaqin` («preparada para los piadosos»), frente a los mutazilíes, que decían que será creada en el momento de la retribución: [El Corán electrónico de la Universidad Rey Saud](https://quran.ksu.edu.sa/tafseer/qortobi/sura3-aya133.html).
-[^3]: Sahih al-Bukhari, hadiz 3244, y Sahih Muslim, hadiz 2824a, narrado por Abu Hurayrah, que Allah esté complacido con él: [Sunnah.com, narración 3244](https://sunnah.com/bukhari:3244).
+[^3]: Sahih al-Bukhari, hadiz 3244, y Sahih Muslim, hadiz 2824a, narrado por Abu Hurayrah, que Allah esté complacido con él: [Sunnah.com, narración 3244](https://sunnah.com/bukhari:3244). Las palabras «Recitad, si queréis» figuran dentro del relato del Profeta en al-Bujari 3244, mientras que en al-Bujari 4779 se presentan como palabras del propio Abu Hurayrah: «Dijo Abu Hurayrah: Recitad, si queréis».
 [^4]: El Sagrado Corán, sura as-Sayda, aleya 17: [Texto coránico](https://quran.com/32/17).
-[^5]: Sahih al-Bukhari, hadiz 1052 (que también lo recoge con el número 5197), y Sahih Muslim, hadiz 907, narrado por 'Abd Allah ibn 'Abbas, que Allah esté complacido con ambos, sobre la historia de la oración del eclipse: [Sunnah.com, narración 1052](https://sunnah.com/bukhari:1052).
+[^5]: Sahih al-Bukhari, hadiz 1052 (que también lo recoge con el número 5197), y Sahih Muslim, hadiz 907, narrado por 'Abd Allah ibn 'Abbas, que Allah esté complacido con ambos, sobre la historia de la oración del eclipse: [Sunnah.com, narración 1052](https://sunnah.com/bukhari:1052). La expresión «y se me mostró el Fuego» (wa-urītu an-nār) corresponde a la transmisión de Abu Dharr; otras transmisiones dicen «y vi el Fuego», como señala Ibn Hayar. Que retrocedió al ver el Fuego consta en el hadiz de 'A'ishah, que Allah esté complacida con ella: «Vi el Infierno, cuyas partes se destrozaban unas a otras, cuando me visteis retroceder» (Sahih al-Bujari, hadiz 1212).
 [^6]: Ahmad ibn 'Ali ibn Hayar al-'Asqalani, *Fath al-Bari bi-Sharh Sahih al-Bukhari*, Libro del eclipse, capítulo de la oración del eclipse en congregación, comentario del hadiz 1052 (volumen 2): [IslamWeb](https://www.islamweb.net/ar/library/content/52/1950/).
 [^7]: Muhammad ibn Abi Bakr Ibn Qayyim al-Yawziyya, *Hadi al-Arwah ila Bilad al-Afrah*, capítulo segundo sobre la diferencia de opinión de la gente respecto a la jannah en la que habitó Adam, la paz sea con él: [al-Maktaba ash-Shamila](https://shamela.ws/book/13652/100).
 

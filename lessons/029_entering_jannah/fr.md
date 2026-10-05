@@ -227,7 +227,7 @@ Comment les croyants entrent-ils dans la Jannah ? Le Prophète, paix et bénéd
 
 <!-- retelling:start source_id="muslim-2496" audience="4-7" -->
 
-Le Prophète, paix et bénédictions sur lui, était dans la maison de sa femme Hafsah, qu'Allah soit satisfait d'elle. Il y avait là aussi une dame des Ansar qui s'appelait Umm Mubashshir. Elle l'entendit dire, en parlant des Compagnons qui lui avaient fait une promesse sous un arbre : « Aucun d'eux n'entrera dans le Feu, si Allah le veut. »
+Le Prophète, paix et bénédictions sur lui, était auprès de sa femme Hafsah, qu'Allah soit satisfait d'elle. Il y avait là aussi une dame des Ansar qui s'appelait Umm Mubashshir. Elle l'entendit dire, en parlant des Compagnons qui lui avaient fait une promesse sous un arbre : « Aucun d'eux n'entrera dans le Feu, si Allah le veut. »
 
 Hafsah dit : « Si, ô Messager d'Allah ! » Alors le Prophète, paix et bénédictions sur lui, la reprit, c'est-à-dire qu'il lui parla avec fermeté. Hafsah dit : « Mais Allah dit : “*Et il n'est aucun d'entre vous qui n'y parviendra*”. » Cela veut dire : tous les gens vont y passer.
 
@@ -245,7 +245,7 @@ Hafsah voulait comprendre : elle a posé sa question avec un verset du Coran, e
 
 ### Questions Courtes
 
-1. Dans la maison de qui était le Prophète, paix et bénédictions sur lui ?
+1. Auprès de qui était le Prophète, paix et bénédictions sur lui ?
 2. Avec quoi Hafsah a-t-elle posé sa question : avec un verset du Coran, ou avec ses propres mots ?
 3. Qui sont ceux qu'Allah sauve ?
 4. Pourquoi les croyants s'arrêtent-ils un petit moment avant la Jannah ?
@@ -306,7 +306,7 @@ Et le plus beau, c'est que le Prophète, paix et bénédictions sur lui, nous a 
 
 <!-- terminology:start source_id="muslim-2496" -->
 
-- **`La venue (al-wurud)`** — le passage sur le Sirat, tendu au-dessus de la Géhenne ; c'est l'explication du verset que les savants ont jugée la plus juste.[^7]
+- **`La venue (al-wurud)`** — le passage sur le Sirat, tendu au-dessus de la Géhenne ; c'est l'explication du verset que de nombreux savants ont jugée la plus juste.[^7]
 - **`Les gens de l'Arbre (ashab ash-shajarah)`** — les Compagnons qui ont prêté serment d'allégeance au Prophète, paix et bénédictions sur lui, sous un arbre, le jour d'al-Hudaybiyah.
 - **`La passerelle (al-qantarah)`** — un pont, ou un endroit surélevé, entre la Jannah et le Feu, où les croyants sont retenus avant d'entrer.
 - **`L'injustice (al-mazlamah)`** — un droit que tu as enlevé à quelqu'un injustement, qu'il s'agisse d'argent ou d'une parole blessante.
@@ -317,7 +317,7 @@ Et le plus beau, c'est que le Prophète, paix et bénédictions sur lui, nous a 
 
 <!-- unit:start id="8-12.primary-story" kind="primary_story" -->
 
-### Un Récit Authentique : Une Question Dans La Maison De Hafsah
+### Un Récit Authentique : Une Question Auprès De Hafsah
 
 <!-- story:start audience="8-12" role="primary" type="prophetic_era" source_id="muslim-2496" authenticated="true" -->
 
@@ -325,7 +325,7 @@ Et le plus beau, c'est que le Prophète, paix et bénédictions sur lui, nous a 
 
 <!-- retelling:start source_id="muslim-2496" audience="8-12" -->
 
-Cela se passait dans la maison de la Mère des croyants Hafsah, fille de 'Umar, qu'Allah soit satisfait d'eux. Une femme des Ansar, appelée Umm Mubashshir, était présente. Elle entendit le Prophète, paix et bénédictions sur lui, dire : **« Aucun des gens de l'Arbre, ceux qui ont prêté serment d'allégeance sous lui, n'entrera dans le Feu, si Allah le veut. »** Les gens de l'Arbre, ce sont ceux qui lui avaient prêté serment le jour d'al-Hudaybiyah.
+Cela se passait auprès de la Mère des croyants Hafsah, fille de 'Umar, qu'Allah soit satisfait d'eux. Une femme des Ansar, appelée Umm Mubashshir, était présente. Elle entendit le Prophète, paix et bénédictions sur lui, dire : **« Aucun des gens de l'Arbre, ceux qui ont prêté serment d'allégeance sous lui, n'entrera dans le Feu, si Allah le veut. »** Les gens de l'Arbre, ce sont ceux qui lui avaient prêté serment le jour d'al-Hudaybiyah.
 
 Or Hafsah avait en tête un verset qui lui semblait dire autre chose. Elle dit : « Si, ô Messager d'Allah ! » Le Prophète, paix et bénédictions sur lui, la reprit sévèrement, c'est-à-dire qu'il la gronda avec fermeté. Mais elle ne donna pas un avis personnel : elle récita « *Et il n'est aucun d'entre vous qui n'y parviendra* ». Le verset dit donc que chacun y passera.
 
@@ -417,9 +417,9 @@ Remarque le paradoxe : ceux-là mêmes qui ont franchi le Sirat n'entrent pas t
 
 <!-- retelling:start source_id="muslim-2496" audience="13+" -->
 
-La scène se passe chez la Mère des croyants Hafsah, fille de 'Umar. Une femme des Ansar est présente, Umm Mubashshir. Elle entend le Prophète, paix et bénédictions sur lui, dire de ceux qui lui ont prêté serment sous l'arbre, le jour d'al-Hudaybiyah : **« Aucun des gens de l'Arbre, ceux qui ont prêté serment d'allégeance sous lui, n'entrera dans le Feu, si Allah le veut. »**
+La scène se passe auprès de la Mère des croyants Hafsah, fille de 'Umar. Une femme des Ansar est présente, Umm Mubashshir. Elle entend le Prophète, paix et bénédictions sur lui, dire de ceux qui lui ont prêté serment sous l'arbre, le jour d'al-Hudaybiyah : **« Aucun des gens de l'Arbre, ceux qui ont prêté serment d'allégeance sous lui, n'entrera dans le Feu, si Allah le veut. »**
 
-Hafsah dit : « Si, ô Messager d'Allah ! » Il la reprend sévèrement. Le moment n'a rien de facile ; pourtant, elle ne se dérobe ni ne s'entête ; ce qu'elle a en tête, elle le présente comme une preuve, non comme une opinion : « *Et il n'est aucun d'entre vous qui n'y parviendra.* »
+Hafsah dit : « Si, ô Messager d'Allah ! » Il la reprend sévèrement. Malgré cela, elle avance sa preuve tirée du Coran, et non une opinion personnelle : « *Et il n'est aucun d'entre vous qui n'y parviendra.* »
 
 Et la réponse vient du même passage du Mushaf : **« Allah, Puissant et Majestueux, a dit : “*Puis Nous sauverons ceux qui ont craint, et Nous y laisserons les injustes, agenouillés.*” »**[^1]
 
@@ -506,7 +506,7 @@ Ce qui veut dire : « Ô Allah, compte-nous parmi ceux que Tu sauves avec ceux
 **Évaluation et clôture — 10 minutes :** carte de sortie : (1) remettez dans l'ordre les quatre étapes, avec une preuve pour chacune ; (2) quel est le sens de la « venue » selon l'avis jugé le plus fort par an-Nawawi ? (3) écrivez l'échéance que vous vous êtes fixée pour le règlement. Conclure par une question pour la séance suivante : « Le droit a-t-il été réglé ? »
 
 <!-- lesson-plan:differentiation -->
-**Différenciation :** pour les débutants, se limiter au hadith d'Umm Mubashshir, au hadith de la passerelle et à celui de la demande d'être tenu quitte. Demander aux apprenants avancés de lire la version d'al-Bukhari 6535 du même hadith et d'en comparer les termes avec ceux de la version 2440, et de consulter ce qu'Ibn al-Qayyim rapporte, dans *Hadi al-Arwah*, sur la manière dont les gens de la Jannah y entrent.
+**Différenciation :** pour les débutants, se limiter au hadith d'Umm Mubashshir, au hadith de la passerelle et à celui de la demande d'être tenu quitte. Demander aux apprenants avancés de lire la version d'al-Bukhari 6535 du même hadith et d'en comparer les termes avec ceux de la version 2440, et de consulter le chapitre 38 de *Hadi al-Arwah* d'Ibn al-Qayyim, « Sur la manière dont ils entrent dans la Jannah et sur ce qui les accueille à leur entrée ».
 
 <!-- lesson-plan:safeguards -->
 **Précautions pédagogiques :** ne pas décrire le Sirat ou le Feu avec des détails effrayants que les textes de la leçon ne mentionnent pas. Ne demander à personne d'avouer publiquement une injustice. Préciser que rendre un droit ne signifie pas entrer en contact avec une personne malveillante ou dangereuse, et que, pour les cas délicats de demande d'être tenu quitte, on se réfère aux gens de science.

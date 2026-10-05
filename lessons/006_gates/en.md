@@ -53,11 +53,11 @@ The mention of Jannah's gates in the Qur'an and Sunnah gives the believer's pict
 
 #### Scholarly Tafsir
 
-The commentators mention that the opening of the gates here is tied to the moment of arrival, not before it; the gates are not opened ahead of time to stand waiting, but are opened in honor at the moment of arrival, and the keepers of Jannah welcome its people with the greeting and glad tidings `سَلَامٌ عَلَيْكُمْ طِبْتُمْ` ("Peace be upon you; you have been good").[^7][^9]
+The commentators agree that the opening of the gates here is an honor for the people of Jannah; Ibn Kathir says its gates are opened for them in honor and esteem.[^10] They differ, however, over when the gates open. Ibn al-Qayyim says that when the believers reach Jannah they find its gates closed, so they ask its Lord and Owner to open them, seeking intercession through the messengers of firm resolve, until the matter comes to the last of them, Muhammad, peace and blessings be upon him, who asks for them to be opened;[^7] Ibn Kathir cites at this verse the hadiths of the Prophet asking for the gate of Jannah to be opened,[^10] and al-Ashqar says the gates are opened for them when they arrive.[^9] Al-Qurtubi reports from an-Nahhas and al-Mahdawi that the "and" (wa) in `وَفُتِحَتْ` shows the gates were already open before the believers came, unlike the gates of the Fire, which are opened only after its people are made to stand before them, in humiliation.[^11] On either view, the keepers of Jannah welcome its people with the greeting and glad tidings `سَلَامٌ عَلَيْكُمْ طِبْتُمْ` ("Peace be upon you; you have been good").
 
 #### Lesson Explanation
 
-This scene teaches us that the gates of Jannah are not a barrier to fear, but a welcome to hope for; whoever feared his Lord in this world finds in the Hereafter a gate opened for him with peace and welcome, without being left standing or kept waiting in humiliation.
+This scene teaches us that the gates of Jannah are not a barrier to fear, but a welcome to hope for; whoever feared his Lord in this world finds in the Hereafter a gate opened for him with peace and welcome; and if he stands before it, he stands in honor, waiting for it to be opened, not in humiliation like the people of the Fire.
 
 <!-- evidence:end -->
 
@@ -73,7 +73,7 @@ This scene teaches us that the gates of Jannah are not a barrier to fear, but a 
 
 #### Scholarly Explanation
 
-The commentators mention that the eight gates of Jannah point to the many different means of entry, and that naming a gate ar-Rayyan is a special honor for those who fast, because fasting involves a patient endurance of hunger and thirst that others do not share.[^8][^9]
+The many gates of Jannah point to the many different means of entry, and Ibn Hajar explains that the people of each deed have a gate from which they are called for that deed. He also says that ar-Rayyan is the proper name of a gate reserved for those who fast; it comes from *ar-riyy*, the quenching of thirst, so its name matches its meaning and suits the state of those who fast, and whoever enters it will never be thirsty.[^13] Singling out those who fast for this gate is therefore an honor for them, a reward that matches their patience with thirst and hunger.[^8][^9]
 
 #### Lesson Explanation
 
@@ -93,7 +93,7 @@ The gate of ar-Rayyan reminds us that for every act of worship, Allah may open a
 
 #### Scholarly Explanation
 
-The commentators on the hadith explain that the call from each gate is an audible glad tiding specific to the people of that very act of obedience, and that when Abu Bakr, may Allah be pleased with him, asked his question, he was not seeking to commend himself; he was asking whether someone who combined these acts of obedience could be called from all the gates. The Prophet, peace and blessings be upon him, answered with hope for him, not a definitive declaration of his merit.[^9]
+Ibn Hajar explains that `هَذَا خَيْرٌ` ("this is good") is not a comparative but means "this is one of the good things," that the "pair" means spending two things of the same kind of wealth, and that, as another narration in al-Bukhari states, the ones who call him are the keepers of Jannah, the keepers of each gate.[^13] So the call from each gate is an audible glad tiding specific to the people of that very act of obedience, and when Abu Bakr, may Allah be pleased with him, asked his question, he was not seeking to commend himself; he was asking whether someone who combined these acts of obedience could be called from all the gates.[^9] As for the Prophet's answer, `وَأَرْجُو أَنْ تَكُونَ مِنْهُمْ` ("and I hope that you will be among them"), Ibn Hajar reports that the scholars said a hope expressed by Allah or by His Prophet is fulfilled, which is why this hadith is counted among the merits of Abu Bakr, may Allah be pleased with him.[^13] For anyone else who combines these deeds, we hope for the same, without declaring anyone pure before Allah.
 
 #### Lesson Explanation
 
@@ -113,7 +113,7 @@ This hadith teaches us that each of the varied acts of obedience — prayer, jih
 
 #### Scholarly Tafsir
 
-The commentators mention that the angels' entering upon the people of Jannah from every gate is a renewed honor not confined to a single moment, and that their greeting `سَلَامٌ عَلَيْكُمْ بِمَا صَبَرْتُمْ` ("Peace be upon you for what you patiently endured") links the bliss to the fruit of patience in this world, not to mere wishful thinking.[^7][^9]
+Ibn Kathir says the angels come in upon them from here and there to congratulate them on entering Jannah, and he cites hadiths about the angels visiting them with greetings of peace;[^10] as-Sa'di says they congratulate them on their safety and on Allah's honoring of them.[^12] So the angels' entering upon them from every gate is a renewed honor not confined to a single moment, and their greeting `سَلَامٌ عَلَيْكُمْ بِمَا صَبَرْتُمْ` ("Peace be upon you for what you patiently endured") links the bliss to the fruit of patience in this world, not to mere wishful thinking.[^9]
 
 #### Lesson Explanation
 
@@ -133,7 +133,7 @@ This scene shows that the gates of Jannah are not silent passageways, but places
 
 #### Scholarly Tafsir
 
-This short ayah combines two meanings: peace from every harm, and complete security from any future fear; the commentators counted it among the greatest descriptions of how the people of Jannah enter its gates.[^7]
+This short ayah combines two meanings: peace from every harm, and complete security from any future fear. Ibn Kathir explains it as "safe from every affliction, secure from all fear and alarm, with no fear of being expelled, of the bliss being cut off, or of it passing away,"[^10] and as-Sa'di says they are secure from death, sleep, weariness, and any part of the bliss coming to an end.[^12]
 
 #### Lesson Explanation
 
@@ -153,7 +153,7 @@ Entering through the gates of Jannah, then, is not an ordinary entry, but an ent
 
 #### Scholarly Explanation
 
-Scholars explain that "completes it — or: performs it fully" means completing the ablution and performing it properly, and that this merit follows from completing the ablution and then saying the two testimonies after it, which becomes a cause for opening all eight gates, not a single gate.[^9]
+An-Nawawi says of "completes it — or: performs it fully" that the two words mean the same thing: he completes and perfects it, bringing the water to every place it should reach in the way of the Sunnah.[^14] This merit follows from completing the ablution and then saying the two testimonies after it, which becomes a cause for opening all eight gates, not a single gate.[^9]
 
 #### Lesson Explanation
 
@@ -195,7 +195,7 @@ Draw or write eight symbolic gates, and name each gate after a known act of obed
 
 <!-- unit:start id="4-7.explanation" kind="explanation" -->
 
-Jannah has real gates the Prophet, peace and blessings be upon him, told us about — eight beautiful gates. One of them is a special gate named `ar-Rayyan`, and the people who fast go in through it. And every deed we do with sincerity, like praying, fasting, and helping people, may be a gate we open for ourselves toward Jannah.
+Jannah has real gates the Prophet, peace and blessings be upon him, told us about — eight beautiful gates. One of them is a special gate named `ar-Rayyan`, and the people who fast go in through it. And every deed we do with sincerity, like praying, fasting, and helping people, may be a means through which Allah opens a gate to Jannah for us.
 
 <!-- unit:end -->
 
@@ -207,13 +207,13 @@ Jannah has real gates the Prophet, peace and blessings be upon him, told us abou
 
 **This is an imagined teaching story, not a true story from history.**
 
-Yusuf loved looking at the doors and gates of every place he visited: the big school gate, the garden gate, and the door of his grandfather's old house. On the first day of Ramadan, he saw his father opening the mosque door to go in for Maghrib prayer, and he asked, "Father, why are all these doors so important?" His father sat beside him after the prayer and said, "Doors open the way for us, my son. And the Prophet, peace and blessings be upon him, told us that Jannah has eight gates, and among them is a gate called `ar-Rayyan` that only those who fast enter."[^2]
+Yusuf loved looking at the doors and gates of every place he visited: the big school gate, the garden gate, and the door of his grandfather's old house. On the first day of Ramadan, he saw his father opening the mosque door to go in for Maghrib prayer, and he asked, "Dad, why are all these doors so important?" His father sat beside him after the prayer and said, "Doors open the way for us, my son. And the Prophet, peace and blessings be upon him, told us that Jannah has eight gates, and among them is a gate called `ar-Rayyan` that only those who fast enter."[^2]
 
 Yusuf's eyes widened with joy: "I can fast!" The father said, "You are young, so fast as much as you're able, even half a day; that is wonderful practice, and Allah loves to see it from you."
 
 The next day, Yusuf tried to fast until noon. But at noon he felt very tired and thirsty, and he kept looking at the clock, wishing the time would go faster. He thought for a moment: should he ask his mother for a secret sip of water? Then he remembered the gate of ar-Rayyan, and said to himself, "I'll be patient a little longer; this patience is the gate." So he kept his fast until noon, as he had agreed with his parents, and he didn't sneak a drink even though no one would have known.
 
-At iftar, Yusuf sat proudly with his family and made a quiet du'a: `O Allah, make me among the people of Jannah`. His father told him, "No one can tell you exactly which gate Allah opened for you, but every sincere fast is a step toward the gate of ar-Rayyan."
+At iftar, Yusuf sat proudly with his family and made a quiet du'a: `اللَّهُمَّ اجْعَلْنِي مِنْ أَهْلِ الْجَنَّةِ` ("O Allah, make me one of the people of Jannah"). His father told him, "No one can tell you exactly which gate Allah opened for you, but every sincere fast is a step toward the gate of ar-Rayyan."
 
 A few days later, Yusuf went into his sister's room and slammed the door shut, upsetting her, and she cried a little. Yusuf remembered that the people of Jannah are welcomed at its gates with peace, so he went back and opened the door gently and said, "Peace be upon you, I'm sorry." His sister smiled, and the father said, "Whoever loves the gates of Jannah learns to come in to people with peace, not to disturb them."
 
@@ -229,7 +229,7 @@ A few days later, Yusuf went into his sister's room and slammed the door shut, u
 
 <!-- retelling:start source_id="bukhari-1897" audience="4-7" -->
 
-This is a true story narrated by al-Bukhari, not an imagined one. The Prophet, peace and blessings be upon him, told his companions that every righteous deed has its own gate in Jannah: whoever prays will be called from the gate of prayer, whoever fasts will be called from the gate of ar-Rayyan, and whoever gives charity will be called from the gate of charity.[^3] Abu Bakr, may Allah be pleased with him, heard this and, since he loved doing good very much, asked the Prophet, peace and blessings be upon him: could anyone be called from all the gates together? The Prophet, peace and blessings be upon him, answered him: "Yes, and I hope that you will be among them."[^3] This teaches us that for someone who prays, fasts, gives charity, and does lots of good, the Prophet, peace and blessings be upon him, hoped for many gates, not just one.
+This is a true story narrated by al-Bukhari, not an imagined one. The Prophet, peace and blessings be upon him, told his companions that Jannah has gates, among them a gate for those who pray, a gate for those who fast called ar-Rayyan, and a gate for those who give charity.[^3] Abu Bakr, may Allah be pleased with him, heard this and, since he loved doing good very much, asked the Prophet, peace and blessings be upon him: could anyone be called from all the gates together? The Prophet, peace and blessings be upon him, answered him: "Yes, and I hope that you will be among them."[^3] This teaches us that for someone who prays, fasts, gives charity, and does lots of good, the Prophet, peace and blessings be upon him, hoped for many gates, not just one.
 
 <!-- retelling:end -->
 
@@ -329,7 +329,7 @@ This is an authentic hadith narrated by al-Bukhari from Abu Hurayrah, may Allah 
 <!-- terminology:start source_id="bukhari-3257" -->
 
 - **`ar-Rayyan`** — the name of one of the eight gates of Jannah, reserved for whoever is consistent in fasting.[^2]
-- **`نُودِيَ مِنْ بَابِ كَذَا`** ("called from such-and-such gate") — that the angels call the doer of an act of obedience by the name of its gate on the Day of Judgment, in his honor.
+- **`نُودِيَ مِنْ بَابِ كَذَا`** ("called from such-and-such gate") — that the keepers of Jannah, who are angels, call the doer of an act of obedience from its gate on the Day of Judgment, in his honor.[^13]
 - **`أَهْلُ الطَّاعَة`** ("the people of an act of obedience") — those who consistently practice a particular righteous deed until they become known for it.
 
 <!-- terminology:end -->
@@ -399,7 +399,7 @@ Nora felt that among some of her friends, being religious had turned into a race
 
 A week after the lesson, a sharp dispute broke out in her friends' group chat, the words grew harsh, and each side waited for someone to publicly take their side. Nora hesitated: should she post her opinion to show she was fair to everyone, or intervene quietly without announcing it? She remembered that the gates of Jannah are opened by sincere deeds, not by public stands, so she wrote a calm message to each side separately, mentioning something good about the other side, without posting anything publicly. The dispute did not end completely, but it eased, and no one in the group knew that Nora was the one who had quietly worked to make peace between them.
 
-As she prostrated in prayer that night, she said: `O Allah, open for me a gate to You`. As the days went by, she became more careful about turning every good deed into a public post; whenever she did something good, she asked herself: Am I after helping, or after being admired? She did not give up good deeds that were public and useful, but she made sure to keep one deed in her life known only to Allah, hoping it might be the gate that brings together sincerity and a variety of good deeds for her.
+As she prostrated in prayer that night, she said: `اللَّهُمَّ افْتَحْ لِي بَابًا إِلَيْكَ` ("O Allah, open for me a gate to You"). As the days went by, she became more careful about turning every good deed into a public post; whenever she did something good, she asked herself: Am I after helping, or after being admired? She did not give up good deeds that were public and useful, but she made sure to keep one deed in her life known only to Allah, hoping it might be the gate that brings together sincerity and a variety of good deeds for her.
 
 <!-- story:end -->
 
@@ -476,7 +476,7 @@ Draw eight gates or write their names in a private notebook, and name each gate 
 **Materials:** A complete copy of az-Zumar 39:73, ar-Ra'd 13:23-24, and al-Hijr 15:46; the texts of Sahih al-Bukhari 3257 and 1897 and Sahih Muslim 234a; a model of the gates map; paper and pens.
 
 <!-- lesson-plan:preparation -->
-**Preparation:** The teacher reviews these texts in their sources, reviews what Ibn al-Qayyim, Abu Nu'aym, and al-Ashqar mention regarding the number and description of Jannah's gates to be ready for discussion, and prepares a neutral example of varied voluntary deeds in the local community.
+**Preparation:** The teacher reviews these texts in their sources, reviews what Ibn al-Qayyim, Abu Nu'aym, and al-Ashqar mention regarding the number and description of Jannah's gates, the difference of views on when the gates open as reported by Ibn Kathir and al-Qurtubi, and Ibn Hajar's commentary on the hadith of Abu Bakr, to be ready for discussion, and prepares a neutral example of varied voluntary deeds in the local community.
 
 <!-- lesson-plan:opening -->
 **Opening — 5 minutes:** Ask: "If every righteous deed you did had its own gate in Jannah, which gate would you wish to be called from?"
@@ -491,13 +491,13 @@ Draw eight gates or write their names in a private notebook, and name each gate 
 **Activity — 15 minutes:** Learners individually carry out the Map of the Gates of Good activity, then whoever wishes shares one example with the group without being required to disclose personal details.
 
 <!-- lesson-plan:assessment -->
-**Assessment and Closing — 10 minutes:** Exit card: "Name two gates of Jannah mentioned in the lesson, and explain what Abu Bakr's question, may Allah be pleased with him, teaches you." The teacher closes by reading the du'a, noting that it was composed for this lesson.
+**Assessment and Closing — 10 minutes:** Exit card: "Name two gates of Jannah mentioned in the lesson, and explain what Abu Bakr's question, may Allah be pleased with him, teaches you." The teacher closes by reading the du'a, noting that it was composed for this lesson and that its first half echoes the Sunnah du'a for entering the mosque, "O Allah, open for me the gates of Your mercy."[^15]
 
 <!-- lesson-plan:differentiation -->
 **Differentiation:** Give a beginner a sheet with the texts and key words highlighted, and assign an advanced learner to compare the hadith of ablution with the hadith of the call from the gates in terms of the mechanism of opening.
 
 <!-- lesson-plan:safeguards -->
-**Teaching Cautions:** Do not turn the discussion of the gates into a classification of people or a judgment on anyone's religiosity, do not invent a visual description of the gates' form without evidence, and present the hope the Prophet, peace and blessings be upon him, expressed for Abu Bakr as encouragement, not a definitive declaration of merit.
+**Teaching Cautions:** Do not turn the discussion of the gates into a classification of people or a judgment on anyone's religiosity, do not invent a visual description of the gates' form without evidence, and explain that the scholars counted the hope the Prophet, peace and blessings be upon him, expressed for Abu Bakr, may Allah be pleased with him, as fulfilled and as one of his merits, while for anyone else we only hope, and no one is declared pure before Allah.
 
 <!-- lesson-plan:end -->
 
@@ -619,8 +619,14 @@ Draw eight gates or write their names in a private notebook, and name each gate 
 [^4]: The Noble Qur'an, Surah ar-Ra'd, ayat 23-24: [Qur'anic text](https://quran.com/13/23-24).
 [^5]: The Noble Qur'an, Surah al-Hijr, ayah 46: [Qur'anic text](https://quran.com/15/46).
 [^6]: Sahih Muslim, Book of Purification, hadith 234a, narrated by 'Uqbah ibn 'Amir from 'Umar ibn al-Khattab, may Allah be pleased with them both: [Sunnah.com, hadith 234a](https://sunnah.com/muslim:234a).
-[^7]: Muhammad ibn Abi Bakr Ibn Qayyim al-Jawziyyah, *Hadi al-Arwah ila Bilad al-Afrah*, chapter on the number, vastness, and description of Jannah's gates: [al-Maktaba ash-Shamila](https://shamela.ws/book/13652/154).
+[^7]: Muhammad ibn Abi Bakr Ibn Qayyim al-Jawziyyah, *Hadi al-Arwah ila Bilad al-Afrah*, chapter on the number, vastness, and description of Jannah's gates: [al-Maktaba ash-Shamila](https://shamela.ws/book/13652/155).
 [^8]: Abu Nu'aym al-Asbahani, *Sifat al-Jannah*, mention of the number of Jannah's gates and their description: [al-Maktaba ash-Shamila](https://shamela.ws/book/21602/189).
 [^9]: 'Umar Sulayman al-Ashqar, *al-Jannah wa-n-Nar*, second discussion: the gates of Jannah: [al-Maktaba ash-Shamila](https://shamela.ws/book/12714/132).
+[^10]: Isma'il ibn 'Umar Ibn Kathir, *Tafsir al-Qur'an al-'Azim*, commentary on az-Zumar 39:73, ar-Ra'd 13:23-24, and al-Hijr 15:46: [az-Zumar 73](https://quran.ksu.edu.sa/tafseer/katheer/sura39-aya73.html), [ar-Ra'd 24](https://quran.ksu.edu.sa/tafseer/katheer/sura13-aya24.html), [al-Hijr 46](https://quran.ksu.edu.sa/tafseer/katheer/sura15-aya46.html).
+[^11]: Muhammad ibn Ahmad al-Qurtubi, *al-Jami' li-Ahkam al-Qur'an*, commentary on az-Zumar 39:73, reporting an-Nahhas and al-Mahdawi: [Tafsir al-Qurtubi](https://quran.ksu.edu.sa/tafseer/qortobi/sura39-aya73.html).
+[^12]: 'Abd ar-Rahman ibn Nasir as-Sa'di, *Taysir al-Karim ar-Rahman fi Tafsir Kalam al-Mannan*, commentary on ar-Ra'd 13:23-24 and al-Hijr 15:46: [ar-Ra'd 23](https://quran.ksu.edu.sa/tafseer/saadi/sura13-aya23.html), [al-Hijr 46](https://quran.ksu.edu.sa/tafseer/saadi/sura15-aya46.html).
+[^13]: Ahmad ibn 'Ali Ibn Hajar al-'Asqalani, *Fath al-Bari Sharh Sahih al-Bukhari*, Book of Fasting, chapter of ar-Rayyan for those who fast (4/134-135), and Book of the Virtues of the Companions, chapter of the Prophet's saying "If I were to take a close friend" (7/34-35): [chapter of ar-Rayyan](https://www.islamweb.net/ar/library/content/52/3468/), [virtues of Abu Bakr](https://www.islamweb.net/ar/library/index.php?page=bookcontents&ID=6664&flag=1&bk_no=52).
+[^14]: Yahya ibn Sharaf an-Nawawi, *al-Minhaj Sharh Sahih Muslim ibn al-Hajjaj*, Book of Purification, chapter of the recommended remembrance after ablution (3/472): [IslamWeb](https://www.islamweb.net/ar/library/content/53/670/).
+[^15]: Sahih Muslim, Book of the Prayer of Travelers and Shortening It, chapter on what to say when entering the mosque, hadith 713, narrated by Abu Humayd or Abu Usayd, may Allah be pleased with them: [Sunnah.com, hadith 713](https://sunnah.com/muslim:713).
 
 <!-- references:end -->

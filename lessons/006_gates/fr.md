@@ -55,11 +55,11 @@ L'évocation des portes de la Jannah dans le Coran et la Sunnah ajoute à la rep
 
 #### Tafsir Savant
 
-Les exégètes rapportent que l'ouverture des portes est ici liée à l'instant de l'arrivée, et non à un moment antérieur : les portes ne s'ouvrent pas à l'avance, dans l'attente, mais en signe d'honneur au moment où ils arrivent ; et les gardiens de la Jannah accueillent ses habitants par la salutation et la bonne nouvelle : `سَلَامٌ عَلَيْكُمْ طِبْتُمْ` (« Paix sur vous, vous avez été bons »).[^7][^9]
+Les exégètes s'accordent à dire que l'ouverture des portes est ici un honneur fait aux gens de la Jannah ; Ibn Kathir dit que ses portes leur sont ouvertes par honneur et par considération.[^10] Ils divergent en revanche sur le moment de cette ouverture. Ibn al-Qayyim rapporte qu'en arrivant, ils trouvent ses portes fermées ; ils demandent alors à son Seigneur et Maître de les leur ouvrir, en recherchant l'intercession des messagers doués de fermeté, jusqu'à ce que l'affaire parvienne au dernier d'entre eux, Muhammad, paix et bénédictions sur lui, qui demande qu'on les ouvre ;[^7] Ibn Kathir cite à propos de ce verset les hadiths où le Prophète demande l'ouverture de la porte de la Jannah,[^10] et al-Ashqar indique que les portes leur sont ouvertes à leur arrivée.[^9] Al-Qurtubi rapporte d'an-Nahhas et d'al-Mahdawi que la conjonction « et » (wa) dans `وَفُتِحَتْ` indique que les portes étaient déjà ouvertes avant leur venue, à la différence des portes du Feu, qui ne s'ouvrent qu'après que ses gens ont été arrêtés devant elles, pour les humilier.[^11] Selon les deux avis, les gardiens de la Jannah accueillent ses habitants par la salutation et la bonne nouvelle : `سَلَامٌ عَلَيْكُمْ طِبْتُمْ` (« Paix sur vous, vous avez été bons »).
 
 #### Explication De La Leçon
 
-Cette scène nous enseigne que les portes de la Jannah ne sont pas un obstacle à craindre, mais un accueil à espérer : quiconque a craint son Seigneur ici-bas trouvera dans l'au-delà une porte ouverte pour lui, avec la paix et la bienvenue, sans station debout ni attente humiliante.
+Cette scène nous enseigne que les portes de la Jannah ne sont pas un obstacle à craindre, mais un accueil à espérer : quiconque a craint son Seigneur ici-bas trouvera dans l'au-delà une porte qui s'ouvre pour lui, avec la paix et la bienvenue ; et s'il se tient devant elle, c'est dans l'honneur, en attendant qu'elle s'ouvre, et non dans l'humiliation comme les gens du Feu.
 
 <!-- evidence:end -->
 
@@ -77,7 +77,7 @@ Cette scène nous enseigne que les portes de la Jannah ne sont pas un obstacle �
 
 #### Tafsir Savant
 
-Les commentateurs indiquent que les huit portes de la Jannah traduisent la diversité des causes qui y font entrer, et que le fait de désigner une porte par le nom d'ar-Rayyan est un honneur particulier accordé à ceux qui jeûnent, en raison de leur patience face à la faim et à la soif, une épreuve que nul autre ne partage avec eux.[^8][^9]
+La pluralité des portes de la Jannah traduit la diversité des causes qui y font entrer, et Ibn Hajar explique que les gens de chaque œuvre ont une porte d'où ils sont appelés pour cette œuvre. Il précise aussi qu'ar-Rayyan est le nom propre d'une porte réservée à ceux qui jeûnent ; ce nom vient d'*ar-riyy*, le fait d'étancher sa soif, si bien que le mot correspond à son sens et convient à l'état de ceux qui jeûnent, et quiconque y entre n'aura plus jamais soif.[^13] Réserver cette porte à ceux qui jeûnent est donc un honneur pour eux, une récompense à la mesure de leur patience face à la soif et à la faim.[^8][^9]
 
 #### Explication De La Leçon
 
@@ -87,7 +87,7 @@ La porte d'ar-Rayyan nous rappelle que, pour chaque acte d'adoration, Allah peut
 
 <!-- evidence:start id="bukhari-1897" kind="hadith" mode="canonical" -->
 
-### « Quiconque Dépense Deux Choses Dans Le Sentier D'Allah Sera Appelé Depuis Les Portes De La Jannah »
+### « Quiconque Dépense Une Paire Dans Le Sentier D'Allah Sera Appelé Depuis Les Portes De La Jannah »
 
 > عَنْ أَبِي هُرَيْرَةَ رضي الله عنه، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ: **«مَنْ أَنْفَقَ زَوْجَيْنِ فِي سَبِيلِ اللَّهِ، نُودِيَ مِنْ أَبْوَابِ الْجَنَّةِ: يَا عَبْدَ اللَّهِ، هَذَا خَيْرٌ. فَمَنْ كَانَ مِنْ أَهْلِ الصَّلَاةِ دُعِيَ مِنْ بَابِ الصَّلَاةِ، وَمَنْ كَانَ مِنْ أَهْلِ الْجِهَادِ دُعِيَ مِنْ بَابِ الْجِهَادِ، وَمَنْ كَانَ مِنْ أَهْلِ الصِّيَامِ دُعِيَ مِنْ بَابِ الرَّيَّانِ، وَمَنْ كَانَ مِنْ أَهْلِ الصَّدَقَةِ دُعِيَ مِنْ بَابِ الصَّدَقَةِ».** فَقَالَ أَبُو بَكْرٍ رضي الله عنه: بِأَبِي أَنْتَ وَأُمِّي يَا رَسُولَ اللَّهِ، مَا عَلَى مَنْ دُعِيَ مِنْ تِلْكَ الْأَبْوَابِ مِنْ ضَرُورَةٍ، فَهَلْ يُدْعَى أَحَدٌ مِنْ تِلْكَ الْأَبْوَابِ كُلِّهَا؟ قَالَ: **«نَعَمْ، وَأَرْجُو أَنْ تَكُونَ مِنْهُمْ».**[^3]
 
@@ -95,11 +95,11 @@ La porte d'ar-Rayyan nous rappelle que, pour chaque acte d'adoration, Allah peut
 
 #### Traduction
 
-> D'après Abou Hourayra, qu'Allah l'agrée, le Messager d'Allah, paix et bénédictions sur lui, a dit : **« Quiconque dépense deux choses dans le sentier d'Allah sera appelé depuis les portes de la Jannah : “Ô serviteur d'Allah, voici un bien !” Celui qui était assidu à la prière sera appelé depuis la porte de la prière, celui qui était assidu au jihad sera appelé depuis la porte du jihad, celui qui était assidu au jeûne sera appelé depuis la porte d'ar-Rayyan, et celui qui était assidu à l'aumône sera appelé depuis la porte de l'aumône. »** Abou Bakr, qu'Allah l'agrée, dit alors : « Que mon père et ma mère te soient donnés en rançon, ô Messager d'Allah ! Celui qui est appelé depuis l'une de ces portes n'a nul besoin d'autre chose ; mais quelqu'un sera-t-il appelé depuis toutes ces portes à la fois ? » Il répondit : **« Oui, et j'espère que tu en feras partie. »**[^3]
+> D'après Abou Hourayra, qu'Allah l'agrée, le Messager d'Allah, paix et bénédictions sur lui, a dit : **« Quiconque dépense une paire (deux choses de même nature) dans le sentier d'Allah sera appelé depuis les portes de la Jannah : “Ô serviteur d'Allah, voici un bien !” Celui qui était assidu à la prière sera appelé depuis la porte de la prière, celui qui était assidu au jihad sera appelé depuis la porte du jihad, celui qui était assidu au jeûne sera appelé depuis la porte d'ar-Rayyan, et celui qui était assidu à l'aumône sera appelé depuis la porte de l'aumône. »** Abou Bakr, qu'Allah l'agrée, dit alors : « Que mon père et ma mère te soient donnés en rançon, ô Messager d'Allah ! Celui qui est appelé depuis l'une de ces portes n'a nul besoin d'autre chose ; mais quelqu'un sera-t-il appelé depuis toutes ces portes à la fois ? » Il répondit : **« Oui, et j'espère que tu en feras partie. »**[^3]
 
 #### Tafsir Savant
 
-Les commentateurs du hadith précisent que l'appel depuis chaque porte est une bonne nouvelle audible, propre aux gens de cette obéissance précise, et que la question d'Abou Bakr, qu'Allah l'agrée, n'était pas une manière de rechercher un éloge pour lui-même, mais une interrogation sur la possibilité que les portes soient réunies pour celui qui aurait rassemblé les actes d'obéissance ; il reçut alors l'espoir du Prophète, paix et bénédictions sur lui, et non une attestation définitive.[^9]
+Ibn Hajar explique que `هَذَا خَيْرٌ` (« voici un bien ») n'est pas un comparatif, mais signifie « voici l'un des biens » ; que la « paire » désigne le fait de dépenser deux choses d'une même sorte de biens ; et que, d'après une autre version rapportée par al-Bukhari, ceux qui l'appellent sont les gardiens de la Jannah, ceux de chaque porte.[^13] L'appel depuis chaque porte est donc une bonne nouvelle audible, propre aux gens de cette obéissance précise, et la question d'Abou Bakr, qu'Allah l'agrée, n'était pas une manière de rechercher un éloge pour lui-même, mais une interrogation sur la possibilité que les portes soient réunies pour celui qui aurait rassemblé les actes d'obéissance.[^9] Quant à la réponse du Prophète, `وَأَرْجُو أَنْ تَكُونَ مِنْهُمْ` (« et j'espère que tu en feras partie »), Ibn Hajar rapporte que les savants ont dit que l'espoir exprimé par Allah ou par Son Prophète se réalise ; c'est pourquoi ce hadith est compté parmi les mérites d'Abou Bakr, qu'Allah l'agrée.[^13] Pour toute autre personne qui réunit ces œuvres, nous espérons la même chose, sans déclarer quiconque pur devant Allah.
 
 #### Explication De La Leçon
 
@@ -121,7 +121,7 @@ Ce hadith nous enseigne que les actes d'obéissance variés (prière, jihad, je�
 
 #### Tafsir Savant
 
-Les exégètes indiquent que l'entrée des anges auprès des gens de la Jannah par chaque porte est un honneur renouvelé, qui ne se limite pas à un seul instant, et que leur salutation `سَلَامٌ عَلَيْكُمْ بِمَا صَبَرْتُمْ` (« Paix sur vous, pour ce que vous avez enduré avec patience ») relie ce bonheur au fruit de la patience endurée ici-bas, et non à un simple souhait.[^7][^9]
+Ibn Kathir dit que les anges entrent auprès d'eux de part et d'autre pour les féliciter d'être entrés dans la Jannah, et il cite des hadiths sur les visites des anges qui viennent les saluer de la paix ;[^10] as-Sa'di dit qu'ils les félicitent de leur salut et de l'honneur qu'Allah leur a accordé.[^12] L'entrée des anges auprès d'eux par chaque porte est donc un honneur renouvelé, qui ne se limite pas à un seul instant, et leur salutation `سَلَامٌ عَلَيْكُمْ بِمَا صَبَرْتُمْ` (« Paix sur vous, pour ce que vous avez enduré avec patience ») relie ce bonheur au fruit de la patience endurée ici-bas, et non à un simple souhait.[^9]
 
 #### Explication De La Leçon
 
@@ -143,7 +143,7 @@ Cette scène montre que les portes de la Jannah ne sont pas de simples passages 
 
 #### Tafsir Savant
 
-Ce verset bref réunit deux sens : la paix, à l'abri de tout mal, et la sécurité complète face à toute crainte à venir ; les exégètes le comptent parmi les descriptions les plus sublimes de l'entrée des gens de la Jannah par ses portes.[^7]
+Ce verset bref réunit deux sens : la paix, à l'abri de tout mal, et la sécurité complète face à toute crainte à venir. Ibn Kathir l'explique ainsi : « à l'abri de tout fléau, en sécurité face à toute crainte et à toute frayeur, sans craindre d'être expulsés, ni que le bonheur s'interrompe ou prenne fin »,[^10] et as-Sa'di dit qu'ils seront à l'abri de la mort, du sommeil, de la fatigue et de la fin de quelque part que ce soit du bonheur.[^12]
 
 #### Explication De La Leçon
 
@@ -165,7 +165,7 @@ L'entrée par les portes de la Jannah n'est donc pas une entrée ordinaire, mais
 
 #### Tafsir Savant
 
-Les savants précisent que « en les menant à terme (ou : en les accomplissant pleinement) » signifie achever les ablutions et les accomplir comme il se doit, et que ce mérite découle de l'achèvement des ablutions suivi de la prononciation des deux témoignages ; c'est ainsi une cause de l'ouverture des huit portes toutes ensemble, et non d'une seule.[^9]
+An-Nawawi dit à propos de « en les menant à terme (ou : en les accomplissant pleinement) » que les deux mots ont le même sens : il les achève et les parfait, en faisant parvenir l'eau à tous les endroits voulus, selon la Sunnah.[^14] Ce mérite découle de l'achèvement des ablutions suivi de la prononciation des deux témoignages ; c'est ainsi une cause de l'ouverture des huit portes toutes ensemble, et non d'une seule.[^9]
 
 #### Explication De La Leçon
 
@@ -207,7 +207,7 @@ Dessinez ou écrivez huit portes symboliques, et donnez à chacune le nom d'un a
 
 <!-- unit:start id="4-7.explanation" kind="explanation" -->
 
-La Jannah a de vraies portes, dont le Prophète, paix et bénédictions sur lui, nous a parlé : huit belles portes. Parmi elles, il y a une porte spéciale appelée `ar-Rayyan`, par laquelle entrent ceux qui jeûnent. Et chaque action que nous faisons avec sincérité, comme prier, jeûner ou aider les autres, peut être une porte que nous ouvrons nous-mêmes vers la Jannah.
+La Jannah a de vraies portes, dont le Prophète, paix et bénédictions sur lui, nous a parlé : huit belles portes. Parmi elles, il y a une porte spéciale appelée `ar-Rayyan`, par laquelle entrent ceux qui jeûnent. Et chaque action que nous faisons avec sincérité, comme prier, jeûner ou aider les autres, peut être un moyen par lequel Allah nous ouvre une porte vers la Jannah.
 
 <!-- unit:end -->
 
@@ -241,7 +241,7 @@ Quelques jours plus tard, Youssef entra dans la chambre de sa sœur et claqua la
 
 <!-- retelling:start source_id="bukhari-1897" audience="4-7" -->
 
-Ceci est une histoire vraie rapportée par al-Bukhari, et non une histoire imaginaire. Le Prophète, paix et bénédictions sur lui, dit à ses compagnons que chaque bonne action a sa propre porte dans la Jannah : celui qui a prié est appelé depuis la porte de la prière, celui qui a jeûné est appelé depuis la porte d'ar-Rayyan, et celui qui a fait l'aumône est appelé depuis la porte de l'aumône.[^3] Abou Bakr, qu'Allah l'agrée, entendit ces paroles et, comme il aimait beaucoup le bien, il demanda au Prophète, paix et bénédictions sur lui : « Est-ce que quelqu'un peut être appelé depuis toutes les portes à la fois ? » Le Prophète, paix et bénédictions sur lui, lui répondit : « Oui, et j'espère que tu en feras partie. »[^3] Cela nous apprend que, pour celui qui prie, jeûne, fait l'aumône et accomplit beaucoup de bien, le Prophète, paix et bénédictions sur lui, a espéré de nombreuses portes, et pas une seule.
+Ceci est une histoire vraie rapportée par al-Bukhari, et non une histoire imaginaire. Le Prophète, paix et bénédictions sur lui, dit à ses compagnons que la Jannah a des portes, parmi lesquelles une porte pour ceux qui prient, une porte pour ceux qui jeûnent, appelée ar-Rayyan, et une porte pour ceux qui font l'aumône.[^3] Abou Bakr, qu'Allah l'agrée, entendit ces paroles et, comme il aimait beaucoup le bien, il demanda au Prophète, paix et bénédictions sur lui : « Est-ce que quelqu'un peut être appelé depuis toutes les portes à la fois ? » Le Prophète, paix et bénédictions sur lui, lui répondit : « Oui, et j'espère que tu en feras partie. »[^3] Cela nous apprend que, pour celui qui prie, jeûne, fait l'aumône et accomplit beaucoup de bien, le Prophète, paix et bénédictions sur lui, a espéré de nombreuses portes, et pas une seule.
 
 <!-- retelling:end -->
 
@@ -328,7 +328,7 @@ Samer écrivit dans son cahier : « J'ai appris que les portes du bien sont nomb
 
 <!-- retelling:start source_id="bukhari-1897" audience="8-12" -->
 
-Ceci est un hadith authentique rapporté par al-Bukhari, d'après Abou Hourayra, qu'Allah l'agrée.[^3] Le Prophète, paix et bénédictions sur lui, annonça que quiconque dépense deux choses de ses biens dans le sentier d'Allah est appelé depuis les portes de la Jannah, et que celui qui était assidu à la prière est appelé depuis la porte de la prière, celui qui était assidu au jihad depuis la porte du jihad, celui qui était assidu au jeûne depuis la porte d'ar-Rayyan, et celui qui était assidu à l'aumône depuis la porte de l'aumône. Abou Bakr as-Siddiq, qu'Allah l'agrée, demanda alors : « Ô Messager d'Allah, quelqu'un sera-t-il appelé depuis toutes ces portes à la fois ? » Le Prophète, paix et bénédictions sur lui, répondit : « Oui, et j'espère que tu en feras partie. » Abou Bakr, qu'Allah l'agrée, ne se contenta pas d'une seule porte : il aspirait à réunir tous les actes d'obéissance, et le Prophète, paix et bénédictions sur lui, l'espéra pour lui. Cela apprend à l'élève à essayer de varier ses bonnes actions (prière, jeûne, aumône et service des autres) au lieu de se contenter d'une seule.
+Ceci est un hadith authentique rapporté par al-Bukhari, d'après Abou Hourayra, qu'Allah l'agrée.[^3] Le Prophète, paix et bénédictions sur lui, annonça que quiconque dépense une paire de ses biens (deux choses de même nature) dans le sentier d'Allah est appelé depuis les portes de la Jannah, et que celui qui était assidu à la prière est appelé depuis la porte de la prière, celui qui était assidu au jihad depuis la porte du jihad, celui qui était assidu au jeûne depuis la porte d'ar-Rayyan, et celui qui était assidu à l'aumône depuis la porte de l'aumône. Abou Bakr as-Siddiq, qu'Allah l'agrée, demanda alors : « Ô Messager d'Allah, quelqu'un sera-t-il appelé depuis toutes ces portes à la fois ? » Le Prophète, paix et bénédictions sur lui, répondit : « Oui, et j'espère que tu en feras partie. » Abou Bakr, qu'Allah l'agrée, ne se contenta pas d'une seule porte : il aspirait à réunir tous les actes d'obéissance, et le Prophète, paix et bénédictions sur lui, l'espéra pour lui. Cela apprend à l'élève à essayer de varier ses bonnes actions (prière, jeûne, aumône et service des autres) au lieu de se contenter d'une seule.
 
 <!-- retelling:end -->
 
@@ -341,7 +341,7 @@ Ceci est un hadith authentique rapporté par al-Bukhari, d'après Abou Hourayra,
 <!-- terminology:start source_id="bukhari-3257" -->
 
 - **`ar-Rayyan`** — le nom de l'une des huit portes de la Jannah, réservée à celui qui persévère dans le jeûne.[^2]
-- **`Être Appelé Depuis Telle Porte`** — le fait que les anges appellent celui qui accomplit une obéissance par le nom de la porte qui lui correspond, le Jour de la Résurrection, pour l'honorer.
+- **`Être Appelé Depuis Telle Porte`** — le fait que les gardiens de la Jannah, qui sont des anges, appellent celui qui accomplit une obéissance depuis la porte qui lui correspond, le Jour de la Résurrection, pour l'honorer.[^13]
 - **`Les Gens D'Une Obéissance`** — ceux qui persévèrent dans une bonne action précise, au point d'être connus pour elle.
 
 <!-- terminology:end -->
@@ -488,7 +488,7 @@ Dessine huit portes ou écris leurs noms dans un cahier personnel, en donnant à
 **Matériel :** le texte complet du verset 73 de la sourate az-Zumar, des versets 23-24 de la sourate ar-Ra'd et du verset 46 de la sourate al-Hijr ; les textes des hadiths al-Bukhari 3257 et 1897 et Muslim 234a ; un modèle de carte des portes ; des feuilles et des stylos.
 
 <!-- lesson-plan:preparation -->
-**Préparation :** l'enseignant vérifie ces textes dans leurs sources, prend connaissance de ce qu'Ibn al-Qayyim, Abou Nou'aym et al-Ashqar ont écrit sur le nombre et la description des portes de la Jannah afin d'être prêt pour la discussion, et prépare un exemple neutre sur la diversité des actions bénévoles dans sa communauté.
+**Préparation :** l'enseignant vérifie ces textes dans leurs sources, prend connaissance de ce qu'Ibn al-Qayyim, Abou Nou'aym et al-Ashqar ont écrit sur le nombre et la description des portes de la Jannah, ainsi que de la divergence sur le moment de leur ouverture rapportée par Ibn Kathir et al-Qurtubi, et du commentaire d'Ibn Hajar sur le hadith d'Abou Bakr, afin d'être prêt pour la discussion, et prépare un exemple neutre sur la diversité des actions bénévoles dans sa communauté.
 
 <!-- lesson-plan:opening -->
 **Ouverture — 5 minutes :** demander : « Si chaque bonne action que vous faites avait sa propre porte dans la Jannah, depuis quelle porte souhaiteriez-vous être appelé ? »
@@ -503,13 +503,13 @@ Dessine huit portes ou écris leurs noms dans un cahier personnel, en donnant à
 **Activité — 15 minutes :** les apprenants réalisent individuellement l'activité de la carte des portes du bien, puis ceux qui le souhaitent partagent un exemple avec le groupe, sans être tenus de donner des détails personnels.
 
 <!-- lesson-plan:assessment -->
-**Évaluation et clôture — 10 minutes :** ticket de sortie : « Citez deux portes de la Jannah mentionnées dans la leçon, et expliquez ce que vous enseigne la question d'Abou Bakr, qu'Allah l'agrée. » L'enseignant conclut en lisant l'invocation, en précisant qu'il s'agit d'une composition pédagogique.
+**Évaluation et clôture — 10 minutes :** ticket de sortie : « Citez deux portes de la Jannah mentionnées dans la leçon, et expliquez ce que vous enseigne la question d'Abou Bakr, qu'Allah l'agrée. » L'enseignant conclut en lisant l'invocation, en précisant qu'il s'agit d'une composition pédagogique et que sa première moitié rappelle l'invocation de la Sunnah pour entrer à la mosquée : « Ô Allah, ouvre-moi les portes de Ta miséricorde ».[^15]
 
 <!-- lesson-plan:differentiation -->
 **Différenciation :** donner au débutant une feuille avec les textes et les mots-clés surlignés ; demander à l'apprenant avancé de comparer le hadith des ablutions et le hadith de l'appel depuis les portes quant à la manière dont les portes s'ouvrent.
 
 <!-- lesson-plan:safeguards -->
-**Précautions pédagogiques :** ne pas transformer le sujet des portes en classement des gens ou en jugement sur la piété de quiconque ; ne pas inventer de description visuelle des portes sans preuve ; présenter l'espoir du Prophète, paix et bénédictions sur lui, pour Abou Bakr comme un encouragement, et non comme une attestation définitive.
+**Précautions pédagogiques :** ne pas transformer le sujet des portes en classement des gens ou en jugement sur la piété de quiconque ; ne pas inventer de description visuelle des portes sans preuve ; expliquer que les savants ont considéré l'espoir du Prophète, paix et bénédictions sur lui, pour Abou Bakr, qu'Allah l'agrée, comme réalisé et comme l'un de ses mérites, tandis que pour toute autre personne on ne fait qu'espérer, sans déclarer quiconque pur devant Allah.
 
 <!-- lesson-plan:end -->
 
@@ -631,8 +631,14 @@ Dessine huit portes ou écris leurs noms dans un cahier personnel, en donnant à
 [^4]: Noble Coran, sourate ar-Ra'd, versets 23-24 : [Texte coranique](https://quran.com/13/23-24).
 [^5]: Noble Coran, sourate al-Hijr, verset 46 : [Texte coranique](https://quran.com/15/46).
 [^6]: Sahih Muslim, livre de la Purification, hadith 234a, rapporté par 'Uqba ibn 'Amir d'après Omar ibn al-Khattab, qu'Allah les agrée tous deux : [Sunnah.com, hadith 234a](https://sunnah.com/muslim:234a).
-[^7]: Muhammad ibn Abi Bakr Ibn Qayyim al-Jawziyyah, *Hadi al-Arwah ila Bilad al-Afrah*, chapitre sur le nombre, l'étendue et la description des portes de la Jannah : [al-Maktaba ash-Shamila](https://shamela.ws/book/13652/154).
+[^7]: Muhammad ibn Abi Bakr Ibn Qayyim al-Jawziyyah, *Hadi al-Arwah ila Bilad al-Afrah*, chapitre sur le nombre, l'étendue et la description des portes de la Jannah : [al-Maktaba ash-Shamila](https://shamela.ws/book/13652/155).
 [^8]: Abou Nou'aym al-Asbahani, *Sifat al-Jannah*, mention du nombre et de la description des portes de la Jannah : [al-Maktaba ash-Shamila](https://shamela.ws/book/21602/189).
 [^9]: Omar Sulayman al-Ashqar, *al-Jannah wa an-Nar*, deuxième section : les portes de la Jannah : [al-Maktaba ash-Shamila](https://shamela.ws/book/12714/132).
+[^10]: Isma'il ibn 'Umar Ibn Kathir, *Tafsir al-Qur'an al-'Azim*, commentaire d'az-Zumar 39:73, d'ar-Ra'd 13:23-24 et d'al-Hijr 15:46 : [az-Zumar 73](https://quran.ksu.edu.sa/tafseer/katheer/sura39-aya73.html), [ar-Ra'd 24](https://quran.ksu.edu.sa/tafseer/katheer/sura13-aya24.html), [al-Hijr 46](https://quran.ksu.edu.sa/tafseer/katheer/sura15-aya46.html).
+[^11]: Muhammad ibn Ahmad al-Qurtubi, *al-Jami' li-Ahkam al-Qur'an*, commentaire d'az-Zumar 39:73, d'après an-Nahhas et al-Mahdawi : [Tafsir al-Qurtubi](https://quran.ksu.edu.sa/tafseer/qortobi/sura39-aya73.html).
+[^12]: 'Abd ar-Rahman ibn Nasir as-Sa'di, *Taysir al-Karim ar-Rahman fi Tafsir Kalam al-Mannan*, commentaire d'ar-Ra'd 13:23-24 et d'al-Hijr 15:46 : [ar-Ra'd 23](https://quran.ksu.edu.sa/tafseer/saadi/sura13-aya23.html), [al-Hijr 46](https://quran.ksu.edu.sa/tafseer/saadi/sura15-aya46.html).
+[^13]: Ahmad ibn 'Ali Ibn Hajar al-'Asqalani, *Fath al-Bari Sharh Sahih al-Bukhari*, livre du Jeûne, chapitre d'ar-Rayyan pour ceux qui jeûnent (4/134-135), et livre des Mérites des Compagnons, chapitre de la parole du Prophète « Si je devais prendre un ami intime » (7/34-35) : [chapitre d'ar-Rayyan](https://www.islamweb.net/ar/library/content/52/3468/), [mérites d'Abou Bakr](https://www.islamweb.net/ar/library/index.php?page=bookcontents&ID=6664&flag=1&bk_no=52).
+[^14]: Yahya ibn Sharaf an-Nawawi, *al-Minhaj Sharh Sahih Muslim ibn al-Hajjaj*, livre de la Purification, chapitre du rappel recommandé après les ablutions (3/472) : [IslamWeb](https://www.islamweb.net/ar/library/content/53/670/).
+[^15]: Sahih Muslim, livre de la Prière des voyageurs et de son raccourcissement, chapitre de ce que l'on dit en entrant à la mosquée, hadith 713, rapporté par Abou Houmayd ou Abou Ousayd, qu'Allah les agrée : [Sunnah.com, hadith 713](https://sunnah.com/muslim:713).
 
 <!-- references:end -->

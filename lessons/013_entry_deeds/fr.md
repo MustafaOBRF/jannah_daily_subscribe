@@ -21,7 +21,7 @@ bedtime_dua_id: "lesson.013.dua.steadfast-on-deeds"
 
 Après cette leçon, l'apprenant sera capable de :
 
-- Citer les quatre piliers que le Prophète, paix et bénédictions sur lui, a indiqués à l'homme qui l'interrogeait : l'unicité d'Allah, l'accomplissement de la prière obligatoire, l'acquittement de l'aumône obligatoire et le jeûne du Ramadan.
+- Citer les quatre piliers que le Prophète, paix et bénédictions sur lui, a indiqués à l'homme qui l'interrogeait : l'unicité d'Allah (tawhid), l'accomplissement de la prière obligatoire, l'acquittement de la zakat (l'aumône obligatoire) et le jeûne du Ramadan.
 - Expliquer pourquoi le Prophète, paix et bénédictions sur lui, a attesté que cet homme faisait partie des gens du Paradis, en raison de la sincérité avec laquelle il a évalué ses propres forces, et non du nombre de ses promesses.
 - Distinguer l'obligation, dont l'accomplissement sincère suffit à constituer une cause d'entrée au Paradis, de l'œuvre surérogatoire, qui élève le rang sans être une condition du salut proprement dit.
 - Relier ces quatre piliers au verset 124 de la sourate An-Nisa, qui associe l'entrée au Paradis à l'œuvre pieuse accompagnée de la foi, et montrer qu'Allah ne lèse en rien celui qui œuvre, fût-ce d'une chose infime.
@@ -33,7 +33,7 @@ Après cette leçon, l'apprenant sera capable de :
 
 <!-- unit:start id="adults.explanation" kind="explanation" -->
 
-Beaucoup se demandent : quel est le minimum qui me ferait entrer parmi les gens du Paradis ? La réponse prophétique à cette question n'est pas une liste longue et compliquée, mais des piliers clairs, en nombre restreint : l'unicité d'Allah, l'accomplissement de la prière, l'acquittement de l'aumône et le jeûne du Ramadan. Ces œuvres sont **des causes qu'Allah a établies pour l'entrée au Paradis**, non parce qu'elles en constitueraient le prix équivalent, mais parce qu'elles forment le chemin d'unicité et d'obéissance par lequel Allah guide Son serviteur, agrée son œuvre et le fait entrer, par Sa miséricorde, dans Sa demeure d'honneur.
+Beaucoup se demandent : quel est le minimum qui me ferait entrer parmi les gens du Paradis ? La réponse prophétique à cette question n'est pas une liste longue et compliquée, mais des piliers clairs, en nombre restreint : l'unicité d'Allah (tawhid), l'accomplissement de la prière, l'acquittement de la zakat (l'aumône obligatoire) et le jeûne du Ramadan. Ces œuvres sont **des causes qu'Allah a établies pour l'entrée au Paradis**, non parce qu'elles en constitueraient le prix équivalent, mais parce qu'elles forment le chemin d'unicité et d'obéissance par lequel Allah guide Son serviteur, agrée son œuvre et le fait entrer, par Sa miséricorde, dans Sa demeure d'honneur.
 
 Le hadith qui suit enseigne une leçon essentielle sur **la sincérité envers soi-même** : l'homme qui interrogea le Prophète, paix et bénédictions sur lui, ne promit rien au-delà de ses forces ; il jura au contraire qu'il n'ajouterait rien à ce qui lui était ordonné. Et pourtant, le Prophète, paix et bénédictions sur lui, attesta qu'il faisait partie des gens du Paradis. Ce qui est demandé d'abord, c'est donc d'accomplir les piliers avec sincérité et droiture, non de simuler un zèle qui ne se maintient ni ne dure.
 
@@ -42,7 +42,7 @@ Cette compréhension corrige deux dérives opposées :
 1. **La négligence :** croire que ces piliers ne sont qu'un simple détail qu'on peut reporter ou traiter à la légère.
 2. **L'épuisement religieux :** croire qu'on ne mérite le Paradis qu'en s'imposant plus d'œuvres surérogatoires et d'efforts pénibles qu'on n'en peut supporter — au point de délaisser l'essentiel pour ce qui n'a pas été rendu obligatoire, ou de désespérer de soi-même faute d'y parvenir.
 
-Le hadith trace donc un chemin réaliste : commence par ce qu'Allah a rendu obligatoire, accomplis-le avec sincérité et constance, puis multiplie les bonnes actions selon tes forces, sans que ce surcroît soit une condition du salut proprement dit.
+Le hadith trace donc un chemin réaliste : commencez par ce qu'Allah a rendu obligatoire, accomplissez-le avec sincérité et constance, puis multipliez les bonnes actions selon vos forces, sans que ce surcroît soit une condition du salut proprement dit.
 
 <!-- unit:end -->
 
@@ -62,7 +62,7 @@ Le hadith trace donc un chemin réaliste : commence par ce qu'Allah a rendu obli
 
 #### Tafsir savant
 
-Le verset lie l'entrée au Paradis à deux conditions indissociables : l'œuvre pieuse, et la foi qui la rend valide et acceptée. Il exclut ensuite que celui qui œuvre soit lésé, ne serait-ce que de la plus infime chose — le « naqir », ce minuscule point au dos du noyau de datte —, signe qu'Allah ne laisse rien se perdre de l'œuvre du croyant, si petite soit-elle.[^2]
+Le verset lie l'entrée au Paradis à deux conditions indissociables : l'œuvre pieuse, et la foi qui la rend valide et acceptée. Il exclut ensuite que celui qui œuvre soit lésé, ne serait-ce que de la plus infime chose — le « naqir », ce petit creux au dos du noyau de datte —, signe qu'Allah ne laisse rien se perdre de l'œuvre du croyant, si petite soit-elle.[^2]
 
 #### Explication de la leçon
 
@@ -86,7 +86,7 @@ Un homme du désert vint poser une question directe, et le Prophète, paix et b�
 
 #### Explication de la leçon
 
-Le Prophète, paix et bénédictions sur lui, n'a pas exigé de l'homme des œuvres surérogatoires supplémentaires pour lui garantir le Paradis ; il a au contraire établi que l'accomplissement sincère des quatre obligations suffit à constituer une cause d'entrée au Paradis. Et c'est la sincérité avec laquelle l'homme a évalué ses propres forces, sans promettre ce qu'il ne pourrait tenir, qui lui a valu l'éloge du Prophète. La sincérité envers soi-même et envers Allah fait donc partie de ce qui lui a valu cette bonne nouvelle : il ne s'agissait pas d'un simple accomplissement formel.
+Le Prophète, paix et bénédictions sur lui, n'a pas exigé de l'homme des œuvres surérogatoires supplémentaires pour lui garantir le Paradis ; il a au contraire établi que l'accomplissement sincère des quatre obligations suffit à constituer une cause d'entrée au Paradis. Cela ne signifie pas que les autres obligations tombent, comme le pèlerinage (hajj) pour qui en a les moyens, et l'abstention de ce qu'Allah a interdit ; le Prophète, paix et bénédictions sur lui, a mentionné spécialement ces piliers en fonction de la situation de celui qui l'interrogeait.[^4] Et c'est la sincérité avec laquelle l'homme a évalué ses propres forces, sans promettre ce qu'il ne pourrait tenir, qui lui a valu l'éloge du Prophète. La sincérité envers soi-même et envers Allah fait donc partie de ce qui lui a valu cette bonne nouvelle : il ne s'agissait pas d'un simple accomplissement formel.
 
 <!-- evidence:end -->
 
@@ -100,7 +100,7 @@ Le Prophète, paix et bénédictions sur lui, n'a pas exigé de l'homme des œuv
 2. Pourquoi le Prophète, paix et bénédictions sur lui, a-t-il attesté qu'il faisait partie des gens du Paradis, alors qu'il ne s'engageait à rien de plus que les obligations ?
 3. Comment ce hadith répond-il à celui qui délaisse les obligations pour se consacrer à des œuvres surérogatoires qui ne lui sont pas imposées ?
 4. Que signifie le serment de l'homme : « Je n'y ajouterai rien » ?
-5. Pour lequel des quatre piliers dois-tu réexaminer la sincérité de ta pratique ?
+5. Pour lequel des quatre piliers devez-vous réexaminer la sincérité de votre pratique ?
 
 <!-- unit:end -->
 
@@ -110,7 +110,7 @@ Le Prophète, paix et bénédictions sur lui, n'a pas exigé de l'homme des œuv
 
 <!-- activity:start audience="adults" concept_id="lesson.013.activity.deed-checklist-oath" -->
 
-Prépare une carte à quatre lignes, une ligne pour chaque pilier cité par le hadith : l'unicité, la prière, l'aumône et le jeûne. Écris en face de chaque pilier, en toute sincérité, où tu en es réellement aujourd'hui, puis une action précise et observable à laquelle tu t'engages cette semaine pour consolider ou corriger ce pilier. Termine la carte par une phrase à l'image du serment de l'homme, qui exprime ton intention sincère sans rien promettre que tu ne puisses tenir dans la durée : « Je demande à Allah de m'aider à…, je ne promets pas plus que mes forces ne le permettent, et je Lui demande d'accepter mes œuvres et de m'accorder le Paradis. »
+Préparez une carte à quatre lignes, une ligne pour chaque pilier cité par le hadith : le tawhid, la prière, la zakat et le jeûne. Écrivez en face de chaque pilier, en toute sincérité, où vous en êtes réellement aujourd'hui, puis une action précise et observable à laquelle vous vous engagez cette semaine pour consolider ou corriger ce pilier. Terminez la carte par une phrase à l'image du serment de l'homme, qui exprime votre intention sincère sans rien promettre que vous ne puissiez tenir dans la durée : « Je demande à Allah de m'aider à…, je ne promets pas plus que mes forces ne le permettent, et je Lui demande d'accepter mes œuvres et de m'accorder le Paradis. »
 
 <!-- activity:end -->
 
@@ -124,7 +124,7 @@ Prépare une carte à quatre lignes, une ligne pour chaque pilier cité par le h
 
 ## Pour les enfants de 4 à 7 ans
 
-Le Prophète, paix et bénédictions sur lui, nous a appris des choses claires qui nous font aimer entrer au Paradis : adorer Allah seul, prier, donner l'aumône et jeûner le Ramadan. Un homme du désert posa au Prophète, paix et bénédictions sur lui, une question claire, et celui-ci lui répondit par ces quatre choses ; l'homme promit alors de les faire avec sincérité. Nous apprenons de lui à **faire ce qu'Allah aime avec sincérité, et à ne pas promettre ce que nous ne pouvons pas faire**.
+Le Prophète, paix et bénédictions sur lui, nous a appris des choses claires qui nous rapprochent du Paradis : adorer Allah seul, prier, donner la zakat (l'aumône) et jeûner le Ramadan. Un homme du désert posa au Prophète, paix et bénédictions sur lui, une question claire, et celui-ci lui répondit par ces quatre choses ; l'homme promit alors de les faire avec sincérité. Nous apprenons de lui à **faire ce qu'Allah aime avec sincérité, et à ne pas promettre ce que nous ne pouvons pas faire**.
 
 <!-- unit:end -->
 
@@ -136,7 +136,7 @@ Le Prophète, paix et bénédictions sur lui, nous a appris des choses claires q
 
 <!-- retelling:start source_id="bukhari-1397" audience="4-7" -->
 
-Un homme du désert vint trouver le Prophète, paix et bénédictions sur lui, et dit : « Indique-moi une œuvre qui, si je l'accomplis, me fera entrer au Paradis. » Le Prophète, paix et bénédictions sur lui, lui dit : adore Allah seul, accomplis la prière, donne l'aumône et jeûne le Ramadan. L'homme dit : « Par Allah, je n'y ajouterai rien du tout. » Et quand l'homme s'en alla, le Prophète, paix et bénédictions sur lui, dit à ses compagnons : celui qui veut voir un homme qui fait partie des gens du Paradis, qu'il regarde cet homme-là.[^3]
+Un homme du désert vint trouver le Prophète, paix et bénédictions sur lui, et dit : « Indique-moi une œuvre qui, si je l'accomplis, me fera entrer au Paradis. » Le Prophète, paix et bénédictions sur lui, lui dit : adore Allah seul, accomplis la prière, donne l'aumône et jeûne le Ramadan. L'homme jura par Allah qu'il n'y ajouterait rien du tout. Et quand l'homme s'en alla, le Prophète, paix et bénédictions sur lui, dit à ses Compagnons : celui qui veut voir un homme qui fait partie des gens du Paradis, qu'il regarde cet homme-là.[^3]
 
 Nous apprenons que l'homme fut sincère envers lui-même : il dit seulement ce qu'il pouvait faire, sans promettre davantage. Et il promit sincèrement de faire ces quatre choses, si bien que le Prophète, paix et bénédictions sur lui, nous apprit qu'il faisait partie des gens du Paradis.
 
@@ -192,7 +192,7 @@ L'adulte dessine devant l'enfant quatre cercles, avec dans chacun un dessin simp
 
 ## Pour les enfants de 8 à 12 ans
 
-Certains pensent qu'entrer au Paradis exige des actes d'adoration supplémentaires compliqués, et d'autres que les quatre piliers qu'Allah a ordonnés — l'unicité, la prière, l'aumône et le jeûne — sont une chose simple qu'on peut remettre à plus tard. Ces deux idées sont inexactes. Ces piliers sont le fondement même du salut, et la sincérité dans leur accomplissement est demandée en premier, avant tout ajout facultatif d'œuvres surérogatoires.
+Certains pensent qu'entrer au Paradis exige des actes d'adoration supplémentaires compliqués, et d'autres que les quatre piliers qu'Allah a ordonnés — l'unicité d'Allah (tawhid), la prière, la zakat (l'aumône obligatoire) et le jeûne — sont une chose simple qu'on peut remettre à plus tard. Ces deux idées sont inexactes. Ces piliers sont le fondement même du salut, et la sincérité dans leur accomplissement est demandée en premier, avant tout ajout facultatif d'œuvres surérogatoires.
 
 Imagine un élève qui promet à son professeur d'accomplir une seule tâche, exactement celle dont il est capable, et qui l'accomplit fidèlement et à temps, plutôt que de promettre cinq tâches dont il ne réalisera aucune. Mieux vaut une promesse modeste tenue avec sincérité qu'une grande promesse qui ne se réalise jamais.
 
@@ -206,9 +206,9 @@ Imagine un élève qui promet à son professeur d'accomplir une seule tâche, ex
 
 <!-- retelling:start source_id="bukhari-1397" audience="8-12" -->
 
-Un bédouin — un homme habitant le désert — vint trouver le Prophète, paix et bénédictions sur lui, avec une question précise : « Indique-moi une œuvre qui, si je l'accomplis, me fera entrer au Paradis. » Le Prophète, paix et bénédictions sur lui, ne lui imposa pas une longue liste, mais dit : tu adores Allah sans rien Lui associer, tu accomplis la prière obligatoire, tu t'acquittes de l'aumône obligatoire et tu jeûnes le Ramadan. L'homme dit alors avec assurance et sincérité : « Par Celui qui tient mon âme entre Ses mains, je n'y ajouterai rien. » Lorsque l'homme se fut retiré, le Prophète, paix et bénédictions sur lui, dit à ses compagnons : « Celui à qui il plairait de voir un homme d'entre les gens du Paradis, qu'il regarde celui-ci. »[^3]
+Un bédouin — un homme habitant le désert — vint trouver le Prophète, paix et bénédictions sur lui, avec une question précise : « Indique-moi une œuvre qui, si je l'accomplis, me fera entrer au Paradis. » Le Prophète, paix et bénédictions sur lui, ne lui imposa pas une longue liste, mais dit : tu adores Allah sans rien Lui associer, tu accomplis la prière obligatoire, tu t'acquittes de l'aumône obligatoire et tu jeûnes le Ramadan. L'homme dit alors avec assurance et sincérité : « Par Celui qui tient mon âme entre Ses mains, je n'y ajouterai rien. » Lorsque l'homme se fut retiré, le Prophète, paix et bénédictions sur lui, dit à ses Compagnons : « Celui à qui il plairait de voir un homme d'entre les gens du Paradis, qu'il regarde celui-ci. »[^3]
 
-La parole de l'homme « je n'y ajouterai rien » n'était pas de la paresse ; c'était une évaluation sincère de ce qu'il pouvait tenir durablement, plutôt que de promettre de nombreuses œuvres surérogatoires pour ensuite les abandonner. Le Prophète, paix et bénédictions sur lui, attesta qu'il faisait partie des gens du Paradis parce qu'il allait s'engager envers ces quatre piliers avec sincérité et constance.
+La parole de l'homme « je n'y ajouterai rien » n'était pas de la paresse ; c'était une évaluation sincère de ce qu'il pouvait tenir durablement, plutôt que de promettre de nombreuses œuvres surérogatoires pour ensuite les abandonner. Le Prophète, paix et bénédictions sur lui, attesta qu'il faisait partie des gens du Paradis, c'est-à-dire que s'il était sincère dans son engagement envers ces quatre piliers et y persévérait, il serait de ses gens.
 
 <!-- retelling:end -->
 
@@ -220,8 +220,8 @@ La parole de l'homme « je n'y ajouterai rien » n'était pas de la paresse ; c'
 
 <!-- terminology:start source_id="bukhari-1397" -->
 
-- **`bédouin`** — un homme habitant le désert, loin de la ville, et qui peut être nouveau dans l'apprentissage des détails de la loi religieuse.
-- **`l'aumône obligatoire`** — la part de ses biens qu'il est obligatoire de donner aux pauvres et aux autres bénéficiaires qu'Allah a mentionnés, et non l'aumône volontaire supplémentaire.
+- **`bédouin`** — un homme habitant le désert, loin de Médine, et qui peut être nouveau dans l'apprentissage des détails de la loi religieuse.
+- **`la zakat (l'aumône obligatoire)`** — la part de ses biens qu'il est obligatoire de donner aux pauvres et aux autres bénéficiaires qu'Allah a mentionnés, et non l'aumône volontaire supplémentaire.
 - **`celui à qui il plairait`** — celui qui voudrait se réjouir et se rassurer en voyant un exemple réel.
 
 <!-- terminology:end -->
@@ -275,9 +275,9 @@ Fabrique une carte à quatre cases : l'unicité, la prière, l'aumône (ou l'aid
 
 ## Pour les adolescents 13+
 
-À un âge où se multiplient les appels à l'engagement religieux extrême ou au relâchement total, ce hadith propose un critère réaliste : des piliers limités, un accomplissement sincère, et une promesse qui ne dépasse pas la capacité réelle. Cela ne signifie pas que les œuvres surérogatoires sont sans valeur ; elles sont un chemin vers l'amour d'Allah et l'élévation du rang, et le Prophète, paix et bénédictions sur lui, a précisé dans un autre hadith qu'Allah aime que Son serviteur se rapproche de Lui par les œuvres surérogatoires après les obligations.[^5] Mais elles ne font pas partie des conditions fondamentales pour mériter le Paradis, telles que le Prophète les a enseignées à cet homme.
+À un âge où se multiplient les appels à l'engagement religieux extrême ou au relâchement total, ce hadith propose un critère réaliste : des piliers limités, un accomplissement sincère, et une promesse qui ne dépasse pas la capacité réelle. Cela ne signifie pas que les œuvres surérogatoires sont sans valeur ; elles sont un chemin vers l'amour d'Allah et l'élévation du rang, et le Prophète, paix et bénédictions sur lui, a rapporté de son Seigneur, à Lui la puissance et la majesté, qu'Il a dit : « Mon serviteur ne se rapproche pas de Moi par une chose que J'aime davantage que ce que Je lui ai imposé comme obligation, et Mon serviteur ne cesse de se rapprocher de Moi par les œuvres surérogatoires jusqu'à ce que Je l'aime. »[^5] Les obligations sont donc ce par quoi le serviteur se rapproche de son Seigneur de la manière la plus aimée, et la persévérance dans les œuvres surérogatoires après elles est un chemin vers l'amour d'Allah. Mais les œuvres surérogatoires ne font pas partie des conditions fondamentales pour mériter le Paradis, telles que le Prophète les a enseignées à cet homme.
 
-Cet équilibre répond à deux problèmes contemporains : le premier est **la performance religieuse excessive devant autrui**, où la personne prend publiquement de nombreux engagements puis les abandonne en silence, transformant sa promesse en spectacle plutôt qu'en sincérité. Le second est **le sentiment permanent d'insuffisance**, où l'on croit ne mériter le Paradis que par un effort exceptionnel, oubliant que les quatre piliers bien accomplis suffisent à en être la cause, et que tout ajout au-delà est une faveur, non une condition.
+Cet équilibre répond à deux problèmes contemporains : le premier est **la performance religieuse excessive devant autrui**, où la personne prend publiquement de nombreux engagements puis les abandonne en silence, transformant sa promesse en spectacle plutôt qu'en sincérité. Le second est **le sentiment permanent d'insuffisance**, où l'on croit ne mériter le Paradis que par un effort exceptionnel, oubliant que les quatre piliers bien accomplis suffisent à en être la cause, et que tout ajout d'œuvres surérogatoires au-delà est une faveur, non une condition.
 
 <!-- unit:end -->
 
@@ -289,7 +289,7 @@ Cet équilibre répond à deux problèmes contemporains : le premier est **la pe
 
 <!-- retelling:start source_id="bukhari-1397" audience="13+" -->
 
-Abu Hurayra, qu'Allah l'agrée, rapporte qu'un bédouin vint trouver le Prophète, paix et bénédictions sur lui, avec une question directe : « Indique-moi une œuvre qui, si je l'accomplis, me fera entrer au Paradis. » Le Prophète, paix et bénédictions sur lui, ne se lança pas avec lui dans une foule de détails, mais fixa quatre piliers : l'unicité pure, la prière obligatoire, l'aumône obligatoire et le jeûne du Ramadan. L'homme jura alors : « Par Celui qui tient mon âme entre Ses mains, je n'y ajouterai rien », c'est-à-dire qu'il s'engageait sincèrement envers cette mesure précise, sans promettre davantage, de peur de ne pouvoir tenir parole. Lorsqu'il se fut retiré, le Prophète, paix et bénédictions sur lui, dit : « Celui à qui il plairait de voir un homme d'entre les gens du Paradis, qu'il regarde celui-ci. »[^3]
+Abu Hurayra, qu'Allah l'agrée, rapporte qu'un bédouin vint trouver le Prophète, paix et bénédictions sur lui, avec une question directe : « Indique-moi une œuvre qui, si je l'accomplis, me fera entrer au Paradis. » Le Prophète, paix et bénédictions sur lui, ne se lança pas avec lui dans une foule de détails, mais fixa quatre piliers : l'unicité pure (tawhid), la prière obligatoire, la zakat (l'aumône obligatoire) et le jeûne du Ramadan. L'homme jura alors : « Par Celui qui tient mon âme entre Ses mains, je n'y ajouterai rien », c'est-à-dire qu'il s'engageait sincèrement envers cette mesure précise, sans promettre davantage, de peur de ne pouvoir tenir parole. Lorsqu'il se fut retiré, le Prophète, paix et bénédictions sur lui, dit : « Celui à qui il plairait de voir un homme d'entre les gens du Paradis, qu'il regarde celui-ci. »[^3]
 
 Ici, le témoignage du Prophète ne reposait pas sur le nombre des promesses, mais sur la sincérité d'un engagement limité et réaliste. Cela contredit une image répandue qui associe la piété à la surenchère dans les engagements ostensibles. L'homme n'a pas dit : « Je prierai davantage la nuit, je ferai l'aumône chaque jour, et je jeûnerai tous les mois » ; il a plutôt fixé ce qu'il savait pouvoir tenir durablement, et c'est cette sincérité que le Prophète, paix et bénédictions sur lui, a louée.
 
@@ -369,7 +369,7 @@ Rédige une carte avec quatre piliers : l'unicité, la prière, l'aumône (ou l'
 **Préparation :** l'enseignant révise le degré d'authenticité du hadith et sa source, prépare des exemples réels pour distinguer l'obligation de l'œuvre surérogatoire, et veille à ne pas utiliser l'activité pour mettre publiquement en cause quiconque néglige l'un des piliers.
 
 <!-- lesson-plan:opening -->
-**Ouverture — 5 minutes :** il demande : « Si quelqu'un te demandait : “Quel est le minimum qui me ferait entrer parmi les gens du Paradis ?”, que lui répondrais-tu ? » Il recueille les réponses, puis annonce que le hadith apportera une réponse prophétique précise.
+**Ouverture — 5 minutes :** il demande : « Si quelqu'un vous demandait : “Quel est le minimum qui me ferait entrer parmi les gens du Paradis ?”, que lui répondriez-vous ? » Il recueille les réponses, puis annonce que le hadith apportera une réponse prophétique précise.
 
 <!-- lesson-plan:evidence -->
 **Étude des preuves — 15 minutes :** les groupes lisent le verset 124 d'An-Nisa et le hadith complet de Bukhari 1397. Ils dégagent du verset les deux conditions du Paradis, et du hadith les quatre piliers, le serment de l'homme et le témoignage du Prophète, paix et bénédictions sur lui.
@@ -381,7 +381,7 @@ Rédige une carte avec quatre piliers : l'unicité, la prière, l'aumône (ou l'
 **Activité — 15 minutes :** les apprenants réalisent la carte des quatre piliers et le serment de sincérité. Chaque binôme relit la carte de l'autre pour vérifier le réalisme de l'action écrite et la sincérité de l'engagement, sans exiger de détails personnels sensibles.
 
 <!-- lesson-plan:assessment -->
-**Évaluation et conclusion — 10 minutes :** carte de sortie : « Cite les quatre piliers, explique pourquoi le Prophète, paix et bénédictions sur lui, a témoigné du Paradis pour cet homme, et écris une seule action sincère à laquelle tu t'engages. » L'enseignant conclut en lisant le du'a, en précisant qu'il s'agit d'une composition pédagogique.
+**Évaluation et conclusion — 10 minutes :** carte de sortie : « Citez les quatre piliers, expliquez pourquoi le Prophète, paix et bénédictions sur lui, a témoigné du Paradis pour cet homme, et écrivez une seule action sincère à laquelle vous vous engagez. » L'enseignant conclut en lisant le du'a, en précisant qu'il s'agit d'une composition pédagogique.
 
 <!-- lesson-plan:differentiation -->
 **Différenciation :** le débutant reçoit une liste d'actions prêtes parmi lesquelles choisir, et l'avancé est chargé de discuter le lien entre ce hadith et un autre hadith récapitulant les œuvres essentielles.
@@ -447,7 +447,7 @@ Rédige une carte avec quatre piliers : l'unicité, la prière, l'aumône (ou l'
 **Étude de la preuve — 10 minutes :** les élèves lisent le hadith complet, soulignent les quatre piliers et entourent le serment de l'homme et le témoignage du Prophète, paix et bénédictions sur lui.
 
 <!-- lesson-plan:instruction -->
-**Enseignement dirigé — 10 minutes :** l'enseignant explique les trois termes, puis construit la phrase de synthèse : « Les quatre piliers accomplis avec sincérité suffisent comme cause du Paradis, et tout ajout est une faveur, non une condition. »
+**Enseignement dirigé — 10 minutes :** l'enseignant explique les trois termes, puis construit la phrase de synthèse : « Les quatre piliers accomplis avec sincérité suffisent comme cause du Paradis, et tout ajout d'œuvres surérogatoires est une faveur, non une condition. »
 
 <!-- lesson-plan:activity -->
 **Activité — 14 minutes :** les élèves conçoivent la carte des quatre piliers, chacun écrivant une seule action réaliste pour chaque pilier qu'il ne tient pas encore fermement, puis montrant une version générale de sa carte à son camarade, sans détails sensibles.
@@ -489,7 +489,7 @@ Rédige une carte avec quatre piliers : l'unicité, la prière, l'aumône (ou l'
 **Activité — 15 minutes :** les élèves réalisent la carte « Engagement des quatre piliers », évaluant leur situation avec sincérité pour chaque pilier, et rédigeant une action réaliste pour deux semaines. La participation détaillée est facultative.
 
 <!-- lesson-plan:assessment -->
-**Évaluation et conclusion — 10 minutes :** l'élève écrit une réponse en quatre lignes : quels sont les quatre piliers, quelle est la portée de la sincérité de l'homme, et quelle action il s'engage à tenir avec sincérité. L'enseignant lit le du'a en conclusion.
+**Évaluation et conclusion — 10 minutes :** l'élève écrit une réponse en quatre lignes : quels sont les quatre piliers, quelle est la portée de la sincérité de l'homme, quelle différence il y a entre l'obligation et l'œuvre surérogatoire, et quelle action il s'engage à tenir avec sincérité. L'enseignant lit le du'a en conclusion.
 
 <!-- lesson-plan:differentiation -->
 **Différenciation :** l'élève en difficulté reçoit un modèle partiellement rempli, et l'avancé est chargé de discuter comment le musulman équilibre son aspiration aux œuvres surérogatoires avec le réalisme de son engagement envers les obligations d'abord.
@@ -504,9 +504,9 @@ Rédige une carte avec quatre piliers : l'unicité, la prière, l'aumône (ou l'
 ## Références
 
 [^1]: Le Saint Coran, sourate An-Nisa, verset 124 : [Texte coranique](https://quran.com/4/124).
-[^2]: Abd al-Rahman ibn Nasir as-Sa'di, *Taysir al-Karim ar-Rahman*, commentaire de la sourate An-Nisa, verset 124, sur le fait qu'Allah ne lèse en rien celui qui œuvre, fût-ce d'un « naqir » : [Mushaf électronique de l'Université du Roi Saoud](https://quran.ksu.edu.sa/tafseer/saadi/sura4-aya124.html).
+[^2]: Abd al-Rahman ibn Nasir as-Sa'di, *Taysir al-Karim ar-Rahman*, commentaire de la sourate An-Nisa, verset 124, sur le fait que la foi est la condition de l'acceptation des œuvres pieuses, et que celui qui œuvre n'est lésé en rien de son œuvre, ni peu ni beaucoup : [Mushaf électronique de l'Université du Roi Saoud](https://quran.ksu.edu.sa/tafseer/saadi/sura4-aya124.html) ; et Isma'il ibn 'Umar Ibn Kathir, *Tafsir al-Qur'an al-'Azim*, commentaire du même verset, où il explique le « naqir » comme « le creux qui se trouve au dos du noyau de datte » : [Quran.com](https://quran.com/4:124/tafsirs/ar-tafsir-ibn-kathir).
 [^3]: Sahih al-Bukhari, Livre de la zakat, hadith 1397, rapporté par Abu Hurayra, qu'Allah l'agrée, et rapporté également par Muslim dans son Sahih, hadith 14 ; hadith authentique rapporté par les deux imams (muttafaq ʿalayh) : [Sunnah.com, rapport 1397](https://sunnah.com/bukhari:1397).
 [^4]: L'Encyclopédie hadithique (Fondation Al-Durar al-Saniyya), explication du hadith du bédouin qui demanda une œuvre le faisant entrer au Paradis : [dorar.net](https://dorar.net/hadith/sharh/4303).
-[^5]: Sahih al-Bukhari, Livre du renoncement au monde, hadith 6502, rapporté par Abu Hurayra, qu'Allah l'agrée, dans le hadith des saints amis d'Allah et de Son amour pour le rapprochement par les œuvres surérogatoires après les obligations ; hadith authentique : [Sunnah.com, rapport 6502](https://sunnah.com/bukhari:6502).
+[^5]: Sahih al-Bukhari, Livre des propos qui attendrissent les cœurs (*ar-Riqaq*), hadith 6502, rapporté par Abu Hurayra, qu'Allah l'agrée, dans le hadith des saints amis d'Allah et de Son amour pour le rapprochement par les œuvres surérogatoires après les obligations ; hadith authentique : [Sunnah.com, rapport 6502](https://sunnah.com/bukhari:6502).
 
 <!-- references:end -->

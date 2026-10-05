@@ -78,7 +78,7 @@ The meaning of "encircled" can be pictured as a wall around an orchard: no one e
 
 #### Scholarly Explanation
 
-Al-Hafiz Ibn Kathir, may Allah have mercy on him, noted that Allah is informing His believing servants that He must try them so that the truthful is distinguished from the liar, just as He tried the nations before them with poverty, sickness, and fear, until the hardship reached such a point that they thought help was delayed. Then the divine answer came with glad tidings: `Unquestionably, the help of Allah is near`.
+Al-Hafiz Ibn Kathir, may Allah have mercy on him, noted that Allah is informing His believing servants that He must try them so that the truthful is distinguished from the liar, just as He tried the nations before them with poverty, sickness, and fear of their enemies. On the words {until [even] the Messenger and those who believed with him said, "When is the help of Allah?"} he said: "That is, they were praying for victory over their enemies and supplicating for relief and a way out to come soon, when their situation had become constricted and severe." Then the divine answer came with glad tidings: `Unquestionably, the help of Allah is near`.
 
 #### Lesson Explanation
 
@@ -162,11 +162,11 @@ This hadith is the safeguard that prevents "hardship" from being understood as u
 
 #### Scholarly Explanation
 
-Al-Hafiz Ibn Hajar, may Allah have mercy on him, explained in Fath al-Bari, commenting on this long hadith, that it shows the virtue of honesty even when its outward consequence seems severe, and that Allah grants whoever chooses bitter truth over sweet falsehood relief and a way out. Ka'b himself, may Allah be pleased with him, stated this plainly when he said: "Allah has saved me only through truthfulness."
+Al-Hafiz Ibn Hajar, may Allah have mercy on him, listing the benefits of this long hadith in Fath al-Bari, said: "In it is the benefit of truthfulness and the ill-omened outcome of lying." He also noted that the Prophet, peace and blessings be upon him, "punished those who told the truth with a disciplining whose benefit soon became clear, and deferred those who lied to the lasting punishment." Ka'b himself, may Allah be pleased with him, stated this plainly when he said: "Allah has saved me only through truthfulness."
 
 #### Lesson Explanation
 
-This hadith is a complete illustration of the meaning "Jannah is encircled by hardships": Ka'b's hardship was painful honesty; the desire he refused was comforting falsehood; and between the two lay fifty nights of real trial. The outcome, in the end, was ayat recited until the establishment of the Hour.
+This hadith is a complete illustration of the meaning "Jannah is encircled by hardships": Ka'b's hardship was painful honesty; the desire he refused was comforting falsehood; and between the two lay fifty nights of real trial. The outcome, in the end, was ayat recited until the establishment of the Hour. Whoever prefers bitter truth to sweet falsehood, even when its outward consequence seems severe, Allah grants relief and a way out, as He did for Ka'b.
 
 <!-- evidence:end -->
 
@@ -186,7 +186,7 @@ Al-Hafiz Ibn Kathir, may Allah have mercy on him, noted that "the three who were
 
 #### Lesson Explanation
 
-These ayat are the fruit of the hardship that Ka'b bore with patience. His relief did not come through deception or seeking a concession, but through steadfastness in truthfulness, until revelation itself came down to give him the good news.
+These ayat are the fruit of the hardship that Ka'b bore with patience. His relief did not come through deception or seeking a concession, but through steadfastness in truthfulness, until revelation itself came down to give him the good news. Ka'b himself, may Allah be pleased with him, explained what "left behind" means in the ayah: "What Allah mentioned is not our staying behind from the expedition; it is only his [the Prophet's] leaving us behind and deferring our case, apart from those who swore oaths to him and made excuses and from whom he accepted them." That is, it refers to the deferral of judgment in their case until Allah decided it, not merely to their staying behind from the march.[^5]
 
 <!-- evidence:end -->
 
@@ -240,9 +240,9 @@ Our Prophet Muhammad, peace and blessings be upon him, told us: the path to Jann
 
 **This is a true account about a Companion named Ka'b ibn Malik, may Allah be pleased with him, and not a made-up story.**
 
-Ka'b did not go with the Prophet, peace and blessings be upon him, on a long journey, and he had no excuse. When the Prophet, peace and blessings be upon him, came back, he asked him, "Why did you stay behind?" Ka'b could have told a small lie, and the Prophet, peace and blessings be upon him, would have believed him. But he said to himself: I will never lie. So he told the Prophet, peace and blessings be upon him, "I had no excuse." The Prophet, peace and blessings be upon him, said, "This one has told the truth."[^5]
+Ka'b did not go with the Prophet, peace and blessings be upon him, on a long journey, and he had no excuse. When the Prophet, peace and blessings be upon him, came back, he asked him why he had stayed behind. Ka'b could have told a small lie, and the Prophet, peace and blessings be upon him, would have believed him. But he said to himself: I will never lie. So he told the Prophet, peace and blessings be upon him, the truth: that he had no excuse. The Prophet, peace and blessings be upon him, said: **"As for this one, he has told the truth."**[^5]
 
-But people stayed away from Ka'b for fifty days, and no one spoke to him, so Ka'b felt very sad. A man came to him with a letter promising him comfort if he left the Prophet, peace and blessings be upon him, but Ka'b refused and burned the letter. Then one morning, Ka'b heard a voice calling from the top of a mountain: "O Ka'b! Rejoice!" He knew that Allah was pleased with him because he had stayed patient and kept telling the truth, so he fell down in prostration, full of joy.[^5]
+But people stayed away from Ka'b for fifty days, and no one spoke to him, so Ka'b felt very sad. A man came to him with a letter promising him comfort if he left the Prophet, peace and blessings be upon him, but Ka'b refused and burned the letter. Then one morning, Ka'b heard a voice calling from the top of a mountain: "O Ka'b ibn Malik, rejoice!" He knew that Allah had accepted his repentance after he had stayed patient and kept telling the truth, so he fell down in prostration, full of joy.[^5]
 
 <!-- retelling:start source_id="bukhari-4418" audience="4-7" -->
 
@@ -314,7 +314,7 @@ The Messenger of Allah, peace and blessings be upon him, told us that Jannah is 
 
 For the Battle of Tabuk, the Prophet, peace and blessings be upon him, and the Muslims prepared for a long journey in fierce heat. But Ka'b ibn Malik kept putting off getting ready every day, telling himself: I'll catch up with them later — until the whole army had left without him, and he had no real excuse at all.
 
-When the Prophet, peace and blessings be upon him, returned from the expedition, those who had stayed behind came to him with many excuses, and the Prophet, peace and blessings be upon him, accepted their outward word. But Ka'b stood before the Prophet, peace and blessings be upon him, and told the whole truth: "I had no excuse. By Allah, I was never stronger or more able to go than I was that time." The Prophet, peace and blessings be upon him, said: **"This one has told the truth. So get up until Allah decides your case."**[^5]
+When the Prophet, peace and blessings be upon him, returned from the expedition, those who had stayed behind came to him with many excuses, and the Prophet, peace and blessings be upon him, accepted their outward word. But Ka'b stood before the Prophet, peace and blessings be upon him, and told the whole truth: "No, by Allah, I had no excuse. By Allah, I had never been stronger or better provided than when I stayed behind from you." The Prophet, peace and blessings be upon him, said: **"As for this one, he has told the truth. So get up until Allah decides your case."**[^5]
 
 After that, the Prophet, peace and blessings be upon him, commanded the Muslims not to speak to Ka'b and his two companions. Even the people closest to him kept away, and this went on for fifty whole nights, until Ka'b felt that the wide earth had become too narrow for him. A messenger from the king of Ghassan came to him with an offer to leave Madinah and live with the king in comfort and honor, but Ka'b said, "This too is part of the trial," and burned the letter in the oven.[^5]
 
@@ -336,7 +336,7 @@ In other words: Ka'b delayed getting ready with no excuse, then chose hard hones
 
 - **`Hardships (al-Makarih)`** — the burdens of obedience that tire the soul, even though they are truly good for it.
 - **`Desires (ash-Shahawat)`** — the immediate cravings that pull the soul toward sin and make it look appealing.
-- **`The Steadfast (as-Sabirun)`** — those who remain firm in obeying Allah despite hardship.
+- **`The Patient (as-Sabirun)`** — those who remain firm in obeying Allah despite hardship.
 
 <!-- terminology:end -->
 
@@ -401,13 +401,13 @@ The hadith `Jannah is encircled by hardships, and the Fire is encircled by desir
 
 **This is a true account narrated by Ka'b ibn Malik himself, may Allah be pleased with him, in Sahih al-Bukhari, and not an imagined scene.**
 
-Ka'b ibn Malik, may Allah be pleased with him, narrates his own story: he was among the senior Companions, present at the Pledge of al-Aqabah, and had never stayed behind from any expedition the Prophet, peace and blessings be upon him, undertook except Badr, and no one was blamed for missing that one. But at the Battle of Tabuk, while in the best condition of strength and ease he had ever known, he fell into something he never expected: procrastination. Every day he told himself, "I can catch up with them any time I want," until the whole army had left without him, with no real excuse at all.
+Ka'b ibn Malik, may Allah be pleased with him, narrates his own story: he was among the senior Companions, present at the Pledge of al-Aqabah, and had never stayed behind from any expedition the Prophet, peace and blessings be upon him, undertook except Badr, and no one was blamed for missing that one. But at the Battle of Tabuk, while in the best condition of strength and ease he had ever known, he fell into something he never expected: procrastination. Every day he would go out to get ready, then come back having settled nothing, telling himself, "I am able to do it" — meaning he could get ready and catch up with them whenever he wished — until the whole army had left without him, with no real excuse at all.
 
-When the Prophet, peace and blessings be upon him, returned from the expedition, Ka'b found himself facing a real choice: he could invent an excuse as the other latecomers had done, and the Prophet, peace and blessings be upon him, would accept it outwardly and the matter would end at once; or he could tell the whole truth and bear whatever consequence came of it. Ka'b describes that moment: "I knew that if I told him today a lie that pleased him, Allah would soon make him displeased with me; and if I told him the truth, though he would be upset with me over it, I hoped for Allah's pardon in it." So he chose the painful truth, telling the Prophet, peace and blessings be upon him, "I had no excuse." The Prophet, peace and blessings be upon him, said: **"This one has told the truth. So get up until Allah decides your case."**[^5]
+When the Prophet, peace and blessings be upon him, returned from the expedition, Ka'b found himself facing a real choice: he could invent an excuse as the other latecomers had done, and the Prophet, peace and blessings be upon him, would accept it outwardly and the matter would end at once; or he could tell the whole truth and bear whatever consequence came of it. So he chose the painful truth, and in that moment he said to the Prophet, peace and blessings be upon him: "By Allah, I know that if I tell you today a lie that pleases you, Allah will soon make you displeased with me; and if I tell you the truth, though you will be upset with me over it, I hope for Allah's pardon in it. No, by Allah, I had no excuse." The Prophet, peace and blessings be upon him, said: **"This one has told the truth. So get up until Allah decides your case."**[^5]
 
 The immediate consequence was harsh: the Prophet, peace and blessings be upon him, ordered that Ka'b and his two companions be socially boycotted — no one was to speak to them, not even those closest to them, who would not return their greeting. This lasted fifty whole nights, until that condition was described in the Qur'an itself: "the earth had become too narrow for them despite its breadth." In his most isolated moment, another temptation came to him: a letter from the king of Ghassan offering him comfort and honor if he left the community that had rejected him. He could have justified accepting it by telling himself he had been wronged, but he saw in the letter itself another test, and burned it without hesitation.[^5]
 
-On the morning of exactly the fiftieth day, relief came: a voice calling out the good news from the top of Mount Sal'. Ka'b fell down in prostration, thanking Allah, then went to the Prophet, peace and blessings be upon him, who gave him the glad tidings: **"Rejoice in the best day that has ever come upon you since your mother bore you."** Ka'b offered to give away all his wealth in gratitude to Allah, but the Prophet, peace and blessings be upon him, advised him toward moderation: **"Keep some of your wealth; that is better for you"** — another lesson that uprightness does not mean going to extremes. Ka'b closed his account by saying, "Allah has saved me only through honesty, and part of my repentance is that I will never again speak anything but the truth as long as I live." And Allah sent down concerning him ayat recited in every mosque on earth to this day.[^5]
+On the morning of exactly the fiftieth day, relief came: a voice calling out the good news from the top of Mount Sal'. Ka'b fell down in prostration, thanking Allah, then went to the Prophet, peace and blessings be upon him, who gave him the glad tidings: **"Rejoice in the best day that has ever come upon you since your mother bore you."** Ka'b offered to give away all his wealth in charity as part of his repentance, but the Prophet, peace and blessings be upon him, advised him toward moderation: **"Keep some of your wealth; that is better for you"** — another lesson that uprightness does not mean going to extremes. Ka'b closed his account by saying, "Allah has saved me only through honesty, and part of my repentance is that I will never again speak anything but the truth as long as I live." And Allah sent down concerning him ayat recited in every mosque on earth to this day.[^5]
 
 <!-- retelling:start source_id="bukhari-4418" audience="13+" -->
 

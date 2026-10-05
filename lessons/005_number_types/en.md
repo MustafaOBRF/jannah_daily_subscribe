@@ -81,7 +81,7 @@ The first lesson of these two ayat is that the word "Jannah" in the Qur'an does 
 
 <!-- evidence:start id="bukhari-4878" kind="hadith" mode="canonical" -->
 
-### Two Gardens of Gold and Two Gardens of Silver
+### Two Gardens of Silver and Two Gardens of Gold
 
 > عَنْ أَبِي مُوسَى الْأَشْعَرِيِّ رضي الله عنه، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ: **«جَنَّتَانِ مِنْ فِضَّةٍ آنِيَتُهُمَا وَمَا فِيهِمَا، وَجَنَّتَانِ مِنْ ذَهَبٍ آنِيَتُهُمَا وَمَا فِيهِمَا، وَمَا بَيْنَ الْقَوْمِ وَبَيْنَ أَنْ يَنْظُرُوا إِلَى رَبِّهِمْ إِلَّا رِدَاءُ الْكِبْرِ عَلَى وَجْهِهِ فِي جَنَّةِ عَدْنٍ».**[^3]
 
@@ -139,7 +139,7 @@ This hadith is a precise scale for the differences between the ranks of Jannah: 
 
 <!-- activity:start audience="adults" concept_id="lesson.005.activity.rank-ladder-and-garden-map" -->
 
-Draw a ladder of seven rungs, labeling the bottom "lowest rank, fully content" and the top "an honor beyond description." Then choose five righteous deeds you actually practice (such as praying on time, giving charity in secret, keeping family ties, patience under mistreatment, and truthfulness in speech), and write each beside a rung, with one line explaining how this deed raises the intention of the one who does it — not as a guarantee of any particular rank. Beside the ladder, add two circles labeled "a garden of gold" and "a garden of silver," and inside each write one quality of bliss mentioned in the evidence. Review the ladder weekly, adding a new deed that spurs you upward, without comparing yourself to others.
+Draw a ladder of seven rungs, labeling the bottom "lowest rank, fully content" and the top "an honor beyond description." Then choose five righteous deeds you actually practice (such as praying on time, giving charity in secret, keeping family ties, patience under mistreatment, and truthfulness in speech), and write each beside a rung, with one line explaining how this deed raises the one who does it, as a hope and an intention — not as a guarantee of any particular rank. Beside the ladder, add two circles labeled "a garden of gold" and "a garden of silver," and inside each write one quality of bliss mentioned in the evidence. Review the ladder weekly, adding a new deed that spurs you upward, without comparing yourself to others.
 
 <!-- activity:end -->
 
@@ -254,7 +254,7 @@ This hadith teaches us that the gap between the lowest and highest rank in Janna
 <!-- terminology:start source_id="muslim-189b" -->
 
 - **`the lowest-ranked person of Jannah`** — the last person to enter Jannah and the one with the least bliss among its people, yet his bliss is still tremendous.
-- **`I planted their honor with My own Hand and sealed it`** — a description of a special honor Allah safeguarded for the highest-ranked people of Jannah, unknown to any created being until it appears.
+- **`I planted their honor with My own Hand and sealed it`** — a description of a special honor that Allah planted with His Hand, in the manner befitting His majesty, and safeguarded for the highest-ranked people of Jannah, unknown to any created being until it appears.
 
 <!-- terminology:end -->
 
@@ -325,9 +325,9 @@ This enormous variation might raise a question: isn't there injustice toward the
 
 <!-- retelling:start source_id="muslim-189b" audience="13+" -->
 
-Al-Mughirah ibn Shu'bah, may Allah be pleased with him, reported that the Prophet, peace and blessings be upon him, said Musa, peace be upon him, asked his Lord: "My Lord, tell me of the lowest-ranked person of Jannah." Allah told him of a man who comes after all the people of Jannah have already entered their dwellings, and it is said to him: "Enter Jannah." He says, surprised: "My Lord, how, when the people have already settled into their dwellings and taken their portions?" Allah asks him: "Would you be pleased to have the like of the kingdom of one of the kings of this world?" He says: "I am satisfied, my Lord." Allah says: "That is yours, and its like, and its like, and its like, and its like." The man says the fifth time: "I am satisfied, my Lord!" Allah says: "This is yours, and ten times its like, and yours is whatever your soul desires and your eye delights in."[^4]
+Al-Mughirah ibn Shu'bah, may Allah be pleased with him, reported that the Prophet, peace and blessings be upon him, said Musa, peace be upon him, asked his Lord: "Who is the lowest-ranked of the people of Jannah?" Allah told him of a man who comes after all the people of Jannah have already entered their dwellings, and it is said to him: "Enter Jannah." He says, surprised: "My Lord, how, when the people have already settled into their dwellings and taken their portions?" Allah asks him: "Would you be pleased to have the like of the kingdom of one of the kings of this world?" He says: "I am satisfied, my Lord." Allah says: "That is yours, and its like, and its like, and its like, and its like." The man says the fifth time: "I am satisfied, my Lord!" Allah says: "This is yours, and ten times its like, and yours is whatever your soul desires and your eye delights in."[^4]
 
-Then Musa, peace be upon him, asked the second question: "My Lord, and the highest-ranked among them?" Allah answered: "Those are the ones I willed; I planted their honor with My own Hand and sealed it, so that no eye has seen, no ear has heard, and it has never crossed the heart of any human." The Prophet, peace and blessings be upon him, mentioned that its confirmation is in the Qur'an, where Allah says: {"No soul knows what is kept hidden for them of delight for the eyes."}[^4]
+Then Musa, peace be upon him, asked the second question: "My Lord, and the highest-ranked among them?" Allah answered: "Those are the ones I willed; I planted their honor with My own Hand and sealed it, so that no eye has seen, no ear has heard, and it has never crossed the heart of any human." The end of the hadith states that its confirmation is in the Book of Allah, where He says: {"No soul knows what is kept hidden for them of delight for the eyes."}[^4]
 
 This hadith gathers both ends of the chain of bliss: the lowest rank leaves its owner satisfied many times over despite his initial hesitation, and the highest rank is beyond the reach of any description. This does not mean striving is pointless; the hadith itself distinguishes a "lowest" from a "highest," showing that deeds and sincerity are the cause of the difference between the two ranks, even though the lower of them is a bliss beyond anything comparable in this world.
 
@@ -342,7 +342,7 @@ This hadith gathers both ends of the chain of bliss: the lowest rank leaves its 
 <!-- terminology:start source_id="muslim-189b" -->
 
 - **`akhadhatihim`** ("their portions") — the dwellings and places people have settled into and taken hold of, from a root meaning to take firm possession of something.
-- **`I planted their honor with My own Hand and sealed it`** — an expression of a special honor Allah safeguarded for the highest-ranked people of Jannah, unknown to any created being until the moment it appears.
+- **`I planted their honor with My own Hand and sealed it`** — a special honor that Allah planted with His Hand, in the manner befitting His majesty, and safeguarded for the highest-ranked people of Jannah, unknown to any created being until the moment it appears.
 
 <!-- terminology:end -->
 
@@ -544,8 +544,8 @@ After the du'a, recall one righteous deed you intend to continue tomorrow, witho
 
 [^1]: The Noble Qur'an, Surah ar-Rahman, ayat 46 and 62: [Qur'anic text](https://quran.com/55/46), [ayah 62](https://quran.com/55/62).
 [^2]: Ibn Qayyim al-Jawziyyah, *Hadi al-Arwah ila Bilad al-Afrah*, chapter twenty-two on the number of the gardens, and that they are two types: two gardens of gold and two gardens of silver: [al-Maktaba ash-Shamila](https://shamela.ws/book/13652/259).
-[^3]: Sahih al-Bukhari, Book of Qur'an Commentary (Surah ar-Rahman), hadith 4878, and Sahih Muslim, hadith 180, narrated by Abu Musa al-Ash'ari, may Allah be pleased with him, agreed upon: [Sunnah.com, hadith 4878](https://sunnah.com/bukhari:4878).
-[^4]: Sahih Muslim, Book of Faith, hadith 189, narrated by al-Mughirah ibn Shu'bah, may Allah be pleased with him, marfu': [Sunnah.com, hadith 189](https://sunnah.com/muslim:189).
+[^3]: Sahih al-Bukhari, Book of Qur'an Commentary (Surah ar-Rahman), hadith 4878, and Sahih Muslim, hadith 180, narrated by Abu Musa al-Ash'ari, may Allah be pleased with him, agreed upon; al-Bukhari's wording is "the cloak of *kibr*" (رداء الكبر) and Muslim's is "the cloak of *kibriya'*" (رداء الكبرياء): [Sunnah.com, hadith 4878](https://sunnah.com/bukhari:4878).
+[^4]: Sahih Muslim, Book of Faith, hadith 189, narrated by al-Mughirah ibn Shu'bah, may Allah be pleased with him, marfu'; the wording is that of Bishr ibn al-Hakam's narration from Sufyan ibn 'Uyaynah (189b in Sunnah.com numbering). The narrators' wording on its attribution to the Prophet: Sufyan said in this narration, "One of the two [narrators] traced it back to the Prophet — I think it was Ibn Abjar"; the first chain says "a narration [from the Prophet], in sha' Allah"; and the chain of Ibn Abi 'Umar says, "I heard him on the pulpit tracing it back to the Messenger of Allah, peace and blessings be upon him": [Sunnah.com, hadith 189](https://sunnah.com/muslim:189).
 [^5]: The Noble Qur'an, Surah as-Sajdah, ayah 17: [Qur'anic text](https://quran.com/32/17).
 
 <!-- references:end -->

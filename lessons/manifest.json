@@ -14,7 +14,7 @@
         "ar": "قُصُورُ الْجَنَّةِ وَمَسَاكِنُهَا",
         "en": "The Palaces and Dwellings of Jannah",
         "ur": "جنت کے محل اور مسکن",
-        "fr": "Les Palais De La Jannah Et Ses Demeures",
+        "fr": "Les palais de la Jannah et ses demeures",
         "es": "Los palacios y las moradas del Paraíso"
       },
       "hooks": {
@@ -732,10 +732,10 @@
       ],
       "titles": {
         "ar": "سَادَةُ أَهْلِ الْجَنَّةِ وَالْمُبَشَّرُونَ بِهَا",
-        "en": "The Leaders of Jannah and Those Promised It by Name",
+        "en": "The Leaders of the People of Jannah and Those Promised It by Name",
         "ur": "اہلِ جنت کے سردار اور جنت کی خوشخبری پانے والے",
-        "fr": "Les seigneurs de la Jannah et ceux à qui elle fut annoncée",
-        "es": "Los señores del Paraíso y quienes recibieron su buena nueva"
+        "fr": "Les seigneurs des gens de la Jannah et ceux à qui elle fut annoncée",
+        "es": "Los señores de la gente del Paraíso y quienes recibieron su buena nueva"
       },
       "hooks": {
         "ar": "بعد هذا الدرس، يكون المتعلم قادرًا على:",
@@ -876,24 +876,24 @@
       ],
       "titles": {
         "ar": "بِغَيْرِ حِسَابٍ: تَوَكُّلٌ يُدْخِلُ الْجَنَّةَ بِلَا عَدٍّ",
-        "en": "Who Enters Paradise Without Reckoning?",
-        "ur": "بغیر حساب کے جنت میں کون داخل ہوگا؟",
-        "fr": "Qui entre au Paradis sans reddition de comptes ?",
-        "es": "¿Quién entra al Paraíso sin rendir cuentas?"
+        "en": "Without Reckoning: The Trust in Allah That Brings People into Jannah Uncounted",
+        "ur": "بغیر حساب کے: وہ توکل جو بے گنتی جنت میں لے جاتا ہے",
+        "fr": "Sans compter : le tawakkul qui fait entrer dans la Jannah sans reddition de comptes",
+        "es": "Sin cuenta: la confianza en Allah que abre el Paraíso sin contar"
       },
       "hooks": {
         "ar": "بعد هذا الدرس، يكون المتعلم قادرًا على:",
-        "en": "To help the learner understand the meaning of entering Paradise \"without reckoning\" (بِغَيْرِ حِسَابٍ), and that it is a magnificent favor Allah grants to whom He wills among His servants.",
-        "ur": "سیکھنے والے کو یہ سمجھانا کہ \"بِغَیْرِ حِسَابٍ\" (بغیر حساب کے) جنت میں داخل ہونے کا کیا مطلب ہے، اور یہ کہ یہ اللہ تعالیٰ کا ایک عظیم فضل ہے جو وہ اپنے بندوں میں سے جسے چاہے عطا فرماتا ہے۔",
-        "fr": "Aider l'apprenant à comprendre ce que signifie entrer au Paradis \"sans reddition de comptes\" (بِغَيْرِ حِسَابٍ), faveur immense qu'Allah accorde à qui Il veut parmi Ses serviteurs.",
-        "es": "Ayudar al aprendiz a comprender el significado de entrar al Paraíso \"sin rendir cuentas\" (بِغَيْرِ حِسَابٍ), un favor inmenso que Allah concede a quien Él quiere de Sus siervos."
+        "en": "After this lesson, the learner will be able to:",
+        "ur": "اس سبق کے بعد سیکھنے والا یہ کر سکے گا:",
+        "fr": "Au terme de cette leçon, l'apprenant sera capable de :",
+        "es": "Después de esta lección, el aprendiz será capaz de:"
       },
       "status": {
         "ar": "arabic_draft",
-        "en": "draft",
-        "ur": "draft",
-        "fr": "draft",
-        "es": "draft"
+        "en": "translation_draft",
+        "ur": "translation_draft",
+        "fr": "translation_draft",
+        "es": "translation_draft"
       },
       "under_review": true,
       "has_illustration": true,
@@ -914,8 +914,8 @@
         "ar": "السَّابِقُونَ وَأَوَّلُ الدَّاخِلِينَ إِلَى الْجَنَّةِ",
         "en": "The Foremost and the First to Enter Jannah",
         "ur": "سبقت لے جانے والے اور جنّت میں سب سے پہلے داخل ہونے والے",
-        "fr": "Les Devanciers et les Premiers à Entrer en Jannah",
-        "es": "Los adelantados y los primeros en entrar al Jannah"
+        "fr": "Les Devanciers et les Premiers à Entrer dans la Jannah",
+        "es": "Los adelantados y los primeros en entrar al Paraíso"
       },
       "hooks": {
         "ar": "بعد هذا الدرس، يكون المتعلم قادرًا على:",
@@ -948,7 +948,7 @@
       ],
       "titles": {
         "ar": "غِراسُ الجَنَّةِ وَأَذْكَارُهَا",
-        "en": "The Plantings of Paradise and Its Remembrances",
+        "en": "The Plantings of Paradise and the Remembrance That Grows Them",
         "ur": "جنّت کی شجرکاری اور اس کے اذکار",
         "fr": "Les plantations du Paradis et ses invocations",
         "es": "Las Plantaciones de la Jannah y Sus Dhikr"
@@ -987,7 +987,7 @@
         "en": "The Deeds That Build Houses in Paradise",
         "ur": "وہ اعمال جن سے جنّت میں گھر بنتے ہیں",
         "fr": "Les œuvres qui construisent des maisons au Paradis",
-        "es": "Las Obras Que Edifican Casas en la Jannah"
+        "es": "Las Obras Que Edifican Casas en el Paraíso"
       },
       "hooks": {
         "ar": "بعد هذا الدرس، يكون المتعلم قادرًا على:",
@@ -1059,7 +1059,7 @@
         "en": "Hastening and Preparing for Jannah",
         "ur": "جنّت کی طرف سبقت اور مکمل تیاری",
         "fr": "Se hâter et se préparer pour le Paradis",
-        "es": "Apresurarse y prepararse para el Yanna"
+        "es": "Apresurarse y prepararse para el Paraíso"
       },
       "hooks": {
         "ar": "بعد هذا الدرس، يكون المتعلم قادرًا على:",
@@ -1101,7 +1101,7 @@
         "ar": "بعد هذا الدرس، يكون المتعلم قادرًا على:",
         "en": "After this lesson, the learner will be able to:",
         "ur": "اس سبق کے بعد متعلم اس قابل ہو گا کہ:",
-        "fr": "Après cette leçon, l'apprenant sera capable de :",
+        "fr": "Après cette leçon, l'apprenant sera capable de :",
         "es": "Al terminar esta lección, el estudiante será capaz de:"
       },
       "status": {
@@ -1167,7 +1167,7 @@
         "en": "The Path to Jannah and How It Is Encircled by Hardships",
         "ur": "جنّت کا راستہ اور مشکلات کا حصار",
         "fr": "Le Chemin de la Jannah et Ses Épreuves",
-        "es": "El camino de la Jannah y sus dificultades"
+        "es": "El camino al Paraíso, rodeado de dificultades"
       },
       "hooks": {
         "ar": "بعد هذا الدرس، يكون المتعلم قادرًا على:",
@@ -1275,7 +1275,7 @@
         "en": "The Eight Gates of Jannah",
         "ur": "جنّت کے آٹھ دروازے",
         "fr": "Les Huit Portes de la Jannah",
-        "es": "Las Ocho Puertas del Jannah"
+        "es": "Las Ocho Puertas del Paraíso"
       },
       "hooks": {
         "ar": "بعد هذا الدرس، يكون المتعلم قادرًا على:",

@@ -1,271 +1,194 @@
 ---
+title: "Without Reckoning: The Trust in Allah That Brings People into Jannah Uncounted"
 lesson_id: "lesson.017"
 topic_id: "jannah.017"
 translation_key: "jannah.without_account"
 lang: "en"
-status: "draft"
+status: "translation_draft"
 authoring_standard: "full_text_depth_v2"
 story_policy: "rotating_primary_with_authenticated_account_v2"
-hadith_policy: "sahih_hasan_main"
-tashkeel_scope: "texts_only"
 primary_story_type: "quranic"
 primary_story_source_id: "quran-40-38-45"
-primary_story_authenticated: true
+primary_story_authenticated: "true"
 authenticated_account_id: "muslim-218a"
 activity_concept_id: "lesson.017.activity.handful-of-trust"
 bedtime_dua_id: "lesson.017.dua.trust-without-account"
-title: "Who Enters Paradise Without Reckoning?"
 ---
 
-# Who Enters Paradise Without Reckoning?
+# Without Reckoning: The Trust in Allah That Brings People into Jannah Uncounted
 
-## Objectives
+## Lesson Objectives and Outcomes
 
-1. To help the learner understand the meaning of entering Paradise "without reckoning" (بِغَيْرِ حِسَابٍ), and that it is a magnificent favor Allah grants to whom He wills among His servants.
-2. To draw evidence from Surah Ghafir and from authentic hadith describing the qualities of the people who receive this favor.
-3. To connect true reliance upon Allah (tawakkul), and freedom from superstition and dependence on charms, with entering Paradise without reckoning.
-4. To take Ukkasha ibn Mihsan, may Allah be pleased with him, as a model of good expectation of Allah and swift eagerness for good.
-5. To practice real, everyday tawakkul instead of relying on luck, omens, or superstition.
+After this lesson, the learner will be able to:
+
+- Recite the words `without reckoning` (*bi-ghayri hisab*) in ayah 40 of Surah Ghafir and explain what they mean: that the provision of Jannah for those who believe and do righteous deeds is not measured by the scales of this world and is not counted out.
+- Narrate the story of the believer from Pharaoh's people in Surah Ghafir (ayat 38-45), and draw out three turning points in it: his speaking out with sincere advice despite the danger, his entrusting of his affair to Allah with the words `and I entrust my affair to Allah`, and Allah's protection of him from his people's schemes.
+- Relate the hadith of the seventy thousand (Sahih Muslim 218a, together with narration 218b), and list the three qualities by which the Prophet, peace and blessings be upon him, described them: they do not ask others to perform ruqyah for them, they do not take bad omens, and they do not ask to be cauterized, out of complete trust in Allah.
+- Present the response of Ukkashah ibn Mihsan, may Allah be pleased with him, who hurried to ask for good, as a praiseworthy example, and explain what the scholars have said about the meaning of the Prophet's words, peace and blessings be upon him, to the second man: `Ukkashah has beaten you to it`.
+- Distinguish between the forbidden attachment of the heart to means and causes (such as taking bad omens or unlawful ruqyah) and the lawful use of means while one's trust remains in Allah alone, making clear that refraining from asking for ruqyah and cauterization in the hadith is a station of excellence and perfection, and that permissible medical treatment is allowed and not blameworthy.
+- Carry out the "A Handful Beyond Counting" activity, linking the idea of a gift too great to be counted to a real situation involving anxious misgivings, pessimism, or excessive reliance on people, and turning it into an explicit statement of trust in Allah.
+
+## Academic Section for Adults
 
 <!-- reader:start audience="adults" estimated_minutes="7.0" -->
 
-## For Adults
+<!-- unit:start id="adults.explanation" kind="explanation" -->
 
-<!-- unit:start id="l17-adults-explanation" kind="explanation" -->
+The phrase `without reckoning` (*bi-ghayri hisab*) appears in the Qur'an and the Sunnah to describe a gift from Allah that cannot be measured by the standards of this world: some of Allah's servants enter Jannah, or are given provision in it, without reckoning, without counting, and without any exact exchange between the amount of their deeds and the amount of their reward. It is a bounty from Allah, not something earned on merit alone. Among the causes of this tremendous gift that the texts mention are faith joined with righteous deeds, and complete trust in Allah alone (*tawakkul*), with the heart cut loose from attachment to anything else, whether a created being, an omen, or an imagined cause.
 
-Among the greatest favors Allah has granted this Ummah is that within it are people who will enter Paradise "without reckoning" — that is, without being stopped for questioning about their deeds, and without any punishment touching them, purely as a grace and mercy from Allah. Allah mentions this in His Book in the context of the reward of the righteous believer, and numerous authentic hadith describe the number of these people and the qualities that earned them this immense favor. Their shared description, as it appears in the hadith, is that they do not ask others to perform ruqyah for them (istirqa'), do not seek cauterization (branding by fire) relying on it rather than on Allah, do not take bad omens (tatayyur) from what they see or hear, and place their trust in their Lord alone. What unites all of this is a heart free from attachment to anything besides Allah, and sincere reliance upon Him alone.
+The believer from Pharaoh's people, one man standing among a whole nation of disbelievers, declares his faith openly, warns his people about the end that awaits those who cling to a passing world, and promises that whoever believes and does righteous deeds will enter Jannah, `provided for therein without reckoning`. Then he closes his words with the greatest sentence that sums up trust in Allah: `and I entrust my affair to Allah`. Allah protects him from his people's plotting, and the worst of punishment closes in on his enemy.
 
-Scholars have been careful to clarify that these hadith do not prohibit lawful ruqyah itself — it is authentically established that the Prophet ﷺ performed ruqyah and had ruqyah performed for him. What is blameworthy here is asking others for ruqyah in a way that becomes a constant, dependent request, with the heart clinging to it as though it were an independent cause, rather than using permissible means while the heart's reliance remains fixed on Allah. Al-Hafiz Ibn Hajar, in *Fath al-Bari* (11/408-409), explains when commenting on these hadith that abandoning the "asking" for ruqyah is to be understood as abandoning the *request* of it from people out of self-sufficiency in Allah and strength of certainty — not as abandoning lawful ruqyah itself, which is a permitted form of supplication and treatment.
+In the hadith of the seventy thousand, the Prophet, peace and blessings be upon him, tells us that a great company of his ummah will enter Jannah without reckoning, and he describes them by three qualities that all revolve around a single meaning, complete trust in Allah: they do not ask others to perform ruqyah for them, they do not take bad omens from a bird, a number, or a day, and they do not ask to be cauterized; rather, `upon their Lord they rely`. The scholars have explained that this is a station of excellence and perfection in entrusting oneself to Allah, and that permissible medical treatment and lawful ruqyah are allowed and carry no fault. Then Ukkashah ibn Mihsan, may Allah be pleased with him, hurries forward with a sincere request, `Pray to Allah to make me one of them`, and his request is granted. Then another man stands up (a man from the Ansar, according to the narration of Abu Hurayrah in Sahih Muslim) and makes the very same request, and the Prophet, peace and blessings be upon him, tells him: `Ukkashah has beaten you to it`.
 
-One of the most striking scenes in this chapter is the response of Ukkasha ibn Mihsan al-Asadi, may Allah be pleased with him. When the Prophet ﷺ informed his Companions that seventy thousand of this Ummah would enter Paradise without reckoning, Ukkasha stood up at once and said, "Pray to Allah to make me one of them." The Prophet ﷺ replied at once, "You are one of them." Then another man stood and said the same thing, and the Prophet ﷺ said, "Ukkasha has preceded you to it" — so the opportunity had passed him by, perhaps because he had hesitated. In this scene is a tremendous lesson in swiftness toward good and good expectation of Allah.
-
-The Qur'an ties this same meaning to a magnificent account in Surah Ghafir: the story of the "believing man" from Pharaoh's own household, who had concealed his faith for a time, then declared it openly when he saw his people determined to kill Musa, peace be upon him. He stood to counsel his people, calling them to the path of right guidance, reminding them that this worldly life is a fleeting enjoyment while the Hereafter is the true, lasting home, and that whoever does righteousness while believing enters Paradise, "provided for therein without reckoning." He then sealed his address by entrusting his entire affair to Allah in complete tawakkul and submission, so Allah protected him from his people's schemes, while a terrible punishment overtook Pharaoh's household. This believing man united the glad tiding of "without reckoning" with the very secret of attaining it — the same tawakkul praised in the hadith.
+What joins the two texts is that `without reckoning` is not a random gift. It is a bounty from Allah that the ayah ties to faith and righteous deeds, and that the hadith ties to complete trust in Allah. Ukkashah's eagerness to ask for good is a praiseworthy example of hurrying toward acts of obedience, without our making firm claims about the state of anyone's heart that the texts do not mention.
 
 <!-- unit:end -->
 
-<!-- unit:start id="l17-adults-evidence-quran-40" kind="evidence" -->
+<!-- unit:start id="adults.evidence" kind="evidence" -->
 
-### Evidence from the Noble Qur'an
+## Central Evidence
 
-<!-- evidence:start id="quran-40-38-40" kind="quran" mode="canonical" -->
+<!-- evidence:start id="quran-40-38-45" kind="quran" mode="canonical" -->
 
-﴿وَقَالَ الَّذِي آمَنَ يَا قَوْمِ اتَّبِعُونِ أَهْدِكُمْ سَبِيلَ الرَّشَادِ (٣٨) يَا قَوْمِ إِنَّمَا هَٰذِهِ الْحَيَاةُ الدُّنْيَا مَتَاعٌ وَإِنَّ الْآخِرَةَ هِيَ دَارُ الْقَرَارِ (٣٩) مَنْ عَمِلَ سَيِّئَةً فَلَا يُجْزَىٰ إِلَّا مِثْلَهَا وَمَنْ عَمِلَ صَالِحًا مِنْ ذَكَرٍ أَوْ أُنْثَىٰ وَهُوَ مُؤْمِنٌ فَأُولَٰئِكَ يَدْخُلُونَ الْجَنَّةَ يُرْزَقُونَ فِيهَا بِغَيْرِ حِسَابٍ (٤٠)﴾ [Ghafir 40:38-40]
+### The Story of the Believer from Pharaoh's People: "Provided for Therein Without Reckoning"
 
-<!-- evidence:translation -->
-
-> "And he who believed said, 'O my people, follow me; I will guide you to the way of right conduct. O my people, this worldly life is only [temporary] enjoyment, and indeed, the Hereafter — that is the home of [permanent] settlement. Whoever does an evil deed will not be recompensed except by the like thereof; but whoever does righteousness, whether male or female, while he is a believer — those will enter Paradise, being given provision therein without reckoning.'"[^1]
-
-**Scholarly Interpretation:** Imam Ibn Kathir, may Allah have mercy on him, explains that this believing man from Pharaoh's household began describing to his people the worthlessness of this world beside the Hereafter, urging them toward righteous deeds joined with faith, and that the reward for this with Allah is entry into Paradise with provision that cannot be counted, measured, or reckoned — a mark of Allah's immense favor, whereby He multiplies the good deed beyond count, unlike the evil deed, which is repaid only with its exact like, as an act of Allah's justice.[^2]
-
-**Explanation And Connection To The Lesson:** This ayah contains a beautiful contrast: the evil deed is measured and counted, repaid only with its equal, while the righteous deed joined with faith is rewarded with Paradise "without reckoning" — that is, it is not measured or counted at all, but given a vast, limitless gift far beyond any reckoning. This is the very foundation upon which this entire lesson is built.
-
-<!-- evidence:end -->
-
-<!-- evidence:start id="quran-40-44-45" kind="quran" mode="canonical" -->
-
-﴿فَسَتَذْكُرُونَ مَا أَقُولُ لَكُمْ وَأُفَوِّضُ أَمْرِي إِلَى اللهِ إِنَّ اللهَ بَصِيرٌ بِالْعِبَادِ (٤٤) فَوَقَاهُ اللهُ سَيِّئَاتِ مَا مَكَرُوا وَحَاقَ بِآلِ فِرْعَوْنَ سُوءُ الْعَذَابِ (٤٥)﴾ [Ghafir 40:44-45]
+> **وَقَالَ الَّذِي آمَنَ يَا قَوْمِ اتَّبِعُونِ أَهْدِكُمْ سَبِيلَ الرَّشَادِ * يَا قَوْمِ إِنَّمَا هَٰذِهِ الْحَيَاةُ الدُّنْيَا مَتَاعٌ وَإِنَّ الْآخِرَةَ هِيَ دَارُ الْقَرَارِ * مَنْ عَمِلَ سَيِّئَةً فَلَا يُجْزَىٰ إِلَّا مِثْلَهَا وَمَنْ عَمِلَ صَالِحًا مِنْ ذَكَرٍ أَوْ أُنْثَىٰ وَهُوَ مُؤْمِنٌ فَأُولَٰئِكَ يَدْخُلُونَ الْجَنَّةَ يُرْزَقُونَ فِيهَا بِغَيْرِ حِسَابٍ * وَيَا قَوْمِ مَا لِي أَدْعُوكُمْ إِلَى النَّجَاةِ وَتَدْعُونَنِي إِلَى النَّارِ * تَدْعُونَنِي لِأَكْفُرَ بِاللَّهِ وَأُشْرِكَ بِهِ مَا لَيْسَ لِي بِهِ عِلْمٌ وَأَنَا أَدْعُوكُمْ إِلَى الْعَزِيزِ الْغَفَّارِ * لَا جَرَمَ أَنَّمَا تَدْعُونَنِي إِلَيْهِ لَيْسَ لَهُ دَعْوَةٌ فِي الدُّنْيَا وَلَا فِي الْآخِرَةِ وَأَنَّ مَرَدَّنَا إِلَى اللَّهِ وَأَنَّ الْمُسْرِفِينَ هُمْ أَصْحَابُ النَّارِ * فَسَتَذْكُرُونَ مَا أَقُولُ لَكُمْ وَأُفَوِّضُ أَمْرِي إِلَى اللَّهِ إِنَّ اللَّهَ بَصِيرٌ بِالْعِبَادِ * فَوَقَاهُ اللَّهُ سَيِّئَاتِ مَا مَكَرُوا وَحَاقَ بِآلِ فِرْعَوْنَ سُوءُ الْعَذَابِ.** [غافر: ٣٨-٤٥][^1]
 
 <!-- evidence:translation -->
 
-> "You will remember what I say to you, and I entrust my affairs to Allah. Surely Allah is All-Seeing of all [His] servants. So Allah protected him from the evil of their schemes, and Pharaoh's people were overwhelmed by an evil punishment."[^3]
+> **"And the man who believed said, 'O my people, follow me, and I will guide you to the path of right conduct. O my people, this life of the world is only a passing enjoyment, and the Hereafter is the home of lasting settlement. Whoever does an evil deed will be repaid only with its like; and whoever does a righteous deed, whether male or female, while being a believer, those will enter Jannah, provided for therein without reckoning. And O my people, how is it that I call you to salvation while you call me to the Fire? You call me to disbelieve in Allah and to associate with Him that of which I have no knowledge, while I call you to the Almighty, the Ever-Forgiving. There is no doubt that what you call me to has no claim to be called upon, neither in this world nor in the Hereafter; that our return is to Allah; and that those who go beyond all bounds are the companions of the Fire. You will remember what I am telling you, and I entrust my affair to Allah. Indeed, Allah sees His servants well.' So Allah protected him from the evils of what they plotted, and the worst of punishment closed in on the people of Pharaoh."** (Ghafir 40:38-45)[^1]
 
-**Scholarly Interpretation:** Ibn Kathir mentions that once this believing man completed his sincere counsel to his people, he closed his address by entrusting his entire affair to Allah Most High — the very essence of tawakkul — so Allah responded by protecting him from his people's plots and schemes, and sent down the punishment upon Pharaoh's household who persisted in disbelief and denial.[^2]
+#### Scholarly Explanation
 
-**Explanation And Connection To The Lesson:** This man joined the glad tiding of entering Paradise without reckoning together with the secret of reaching it: entrusting the whole affair to Allah. This is precisely the same description given in the authentic hadith about the people of the seventy thousand: "and upon their Lord they rely." Tawakkul is the thread joining the Qur'anic account and the prophetic hadith in this lesson.
+Al-Hafiz Ibn Kathir, may Allah have mercy on him, explains in his commentary on these ayat that this man had been hiding his faith from his people, the Copts, and did not reveal it until the day Pharaoh resolved to kill Musa, peace be upon him. Then he spoke out with sincere advice. He showed them how small this perishing world is beside the home of lasting settlement, and he gave the believer who does righteous deeds, male or female, the glad tidings that he will enter Jannah and be given provision there that "is not measured out as a recompense; rather, Allah rewards him with abundant reward that never comes to an end." Then he sealed his admonition by entrusting his whole affair to Allah. The outcome was that Allah protected him from his people's plotting in this world and the Hereafter, and the worst of punishment encompassed the people of Pharaoh, namely "drowning in the sea, and then being moved from it to Hellfire," since their souls are exposed to the Fire morning and evening, as the ayah that follows states (Ghafir 40:46).
+
+#### Lesson Explanation
+
+This believing man had no power and no rank. He was a single individual among a people who had ganged up to kill a prophet, and yet his trust in Allah did not waver, because he knew that his return was to Allah, not to them. This is the heart of `without reckoning`: to empty the heart of people's calculations and the world's scales, and to attach it to Allah alone. And so his reward matched his deed: a gift without reckoning for the one who stopped reckoning by what people think.
 
 <!-- evidence:end -->
-
-<!-- unit:end -->
-
-<!-- unit:start id="l17-adults-evidence-hadith" kind="evidence" -->
-
-### Evidence from the Prophetic Sunnah
 
 <!-- evidence:start id="muslim-218a" kind="hadith" mode="canonical" -->
 
-عَنْ عِمْرَانَ بْنِ حُصَيْنٍ رَضِيَ اللهُ عَنْهُمَا، قَالَ: قَالَ نَبِيُّ اللهِ ﷺ: "يَدْخُلُ الْجَنَّةَ مِنْ أُمَّتِي سَبْعُونَ أَلْفًا بِغَيْرِ حِسَابٍ"، قَالُوا: وَمَنْ هُمْ يَا رَسُولَ اللهِ؟ قَالَ: "هُمُ الَّذِينَ لَا يَكْتَوُونَ وَلَا يَسْتَرْقُونَ، وَعَلَى رَبِّهِمْ يَتَوَكَّلُونَ"، فَقَامَ عُكَّاشَةُ فَقَالَ: ادْعُ اللهَ أَنْ يَجْعَلَنِي مِنْهُمْ. قَالَ: "أَنْتَ مِنْهُمْ"، قَالَ: فَقَامَ رَجُلٌ فَقَالَ: يَا نَبِيَّ اللهِ، ادْعُ اللهَ أَنْ يَجْعَلَنِي مِنْهُمْ. قَالَ: "سَبَقَكَ بِهَا عُكَّاشَةُ".
+### The Hadith of the Seventy Thousand Who Enter Jannah Without Reckoning
+
+> عَنْ عِمْرَانَ بْنِ حُصَيْنٍ رضي الله عنهما، قَالَ: قَالَ نَبِيُّ اللَّهِ صلى الله عليه وسلم: **«يَدْخُلُ الْجَنَّةَ مِنْ أُمَّتِي سَبْعُونَ أَلْفًا بِغَيْرِ حِسَابٍ»**. قَالُوا: وَمَنْ هُمْ يَا رَسُولَ اللَّهِ؟ قَالَ: **«هُمُ الَّذِينَ لَا يَكْتَوُونَ، وَلَا يَسْتَرْقُونَ، وَعَلَىٰ رَبِّهِمْ يَتَوَكَّلُونَ»**. فَقَامَ عُكَّاشَةُ فَقَالَ: ادْعُ اللَّهَ أَنْ يَجْعَلَنِي مِنْهُمْ. قَالَ: **«أَنْتَ مِنْهُمْ»**. قَالَ: فَقَامَ رَجُلٌ فَقَالَ: يَا نَبِيَّ اللَّهِ، ادْعُ اللَّهَ أَنْ يَجْعَلَنِي مِنْهُمْ. قَالَ: **«سَبَقَكَ بِهَا عُكَّاشَةُ»**.[^2]
+
+In another narration in Sahih Muslim, also from Imran ibn Husayn, may Allah be pleased with him and his father (218b): **«هُمُ الَّذِينَ لَا يَسْتَرْقُونَ، وَلَا يَتَطَيَّرُونَ، وَلَا يَكْتَوُونَ، وَعَلَىٰ رَبِّهِمْ يَتَوَكَّلُونَ»**.[^2]
 
 <!-- evidence:translation -->
 
-> Imran ibn Husayn, may Allah be pleased with him, reported that the Prophet of Allah ﷺ said: "Seventy thousand people of my Ummah would be admitted into Paradise without rendering any account." They said: "And who would be of those, O Messenger of Allah?" He said: "Those who do not cauterize and do not seek ruqyah, but repose their trust in their Lord." Then Ukkasha stood and said: "Supplicate to Allah that He make me one of them." He said: "You are one of them." Then a man stood and said: "O Prophet of Allah, supplicate to Allah that He make me one of them." He said: "Ukkasha has preceded you to it."[^4]
+> On the authority of Imran ibn Husayn, may Allah be pleased with him and his father, who said: The Prophet of Allah, peace and blessings be upon him, said: **"Seventy thousand of my ummah will enter Jannah without reckoning."** They said, "And who are they, O Messenger of Allah?" He said: **"They are those who do not have themselves cauterized, who do not ask for ruqyah, and who rely upon their Lord."** Then Ukkashah stood up and said, "Pray to Allah to make me one of them." He said: **"You are one of them."** He said: Then a man stood up and said, "O Prophet of Allah, pray to Allah to make me one of them." He said: **"Ukkashah has beaten you to it."**[^2]
 
-**Scholarly Interpretation:** Imam an-Nawawi, may Allah have mercy on him, explains in his commentary on Sahih Muslim that what is meant by abandoning istirqa' and cauterization here is their self-sufficiency in reliance upon Allah, not that lawful ruqyah or permissible medical treatment are forbidden, since the Prophet ﷺ himself performed ruqyah and had ruqyah performed for him. Rather, praise is given to one whose tawakkul and certainty had grown so strong that he had no need to seek such things from people.
+And the other narration (218b) reads: **"They are those who do not ask for ruqyah, who do not take bad omens, who do not have themselves cauterized, and who rely upon their Lord."**[^2]
 
-**Explanation And Connection To The Lesson:** This hadith shows that the door to entering Paradise without reckoning is neither closed nor reserved for any particular person — the way in is sincere reliance upon Allah, and it lies within reach of every Muslim. Ukkasha's response teaches us that when it comes to supplication and good deeds, there is no room for delay.
+#### Scholarly Explanation
 
-<!-- evidence:end -->
+Imam al-Nawawi, may Allah have mercy on him, sets out in his commentary on Sahih Muslim the scholars' views on the meaning of `they do not ask for ruqyah` (*la yastarqun*: they do not ask others to recite ruqyah over them) and `they do not have themselves cauterized` (*la yaktawun*: they do not ask for cauterization, a treatment that uses a hot iron). Then he says: "The apparent meaning of the hadith is what al-Khattabi and those who agreed with him chose... that these are people whose entrusting of their affairs to Allah, Mighty and Majestic, was complete, so they took no measures to ward off what He had brought upon them," and there is no doubt about the excellence of this state and the superiority of the one who attains it. The meaning of `they do not take bad omens` (*la yatatayyarun*) is that they do not read ill fortune into something they see or hear in a way that turns them back from what they set out to do. The scholars rejected the claim of anyone who used this hadith to argue that seeking medical treatment is disliked: lawful ruqyah and permissible treatment are both allowed, and the Prophet, peace and blessings be upon him, himself sought treatment to show that it is permitted. The excellence mentioned lies in complete reliance upon Allah, and what is blameworthy is the heart's attachment to means in place of Allah.
 
-<!-- evidence:start id="muslim-219" kind="hadith" mode="canonical" -->
+#### Lesson Explanation
 
-عَنْ أَبِي حَازِمٍ، عَنْ سَهْلِ بْنِ سَعْدٍ رَضِيَ اللهُ عَنْهُ، عَنِ النَّبِيِّ ﷺ قَالَ: "لَيَدْخُلَنَّ الْجَنَّةَ مِنْ أُمَّتِي سَبْعُونَ أَلْفًا -أَوْ سَبْعُمِائَةِ أَلْفٍ، لَا يَدْرِي أَبُو حَازِمٍ أَيَّهُمَا قَالَ- مُتَمَاسِكُونَ آخِذٌ بَعْضُهُمْ بِبَعْضٍ، لَا يَدْخُلُ أَوَّلُهُمْ حَتَّى يَدْخُلَ آخِرُهُمْ، وُجُوهُهُمْ عَلَى صُورَةِ الْقَمَرِ لَيْلَةَ الْبَدْرِ".
-
-<!-- evidence:translation -->
-
-> Abu Hazim reported from Sahl ibn Sa'd, may Allah be pleased with him, that the Prophet ﷺ said: "Seventy thousand persons or seven hundred thousand persons (Abu Hazim does not remember the exact number) would enter Paradise holding and supporting one another, and the first among them would not enter till the last among them would enter [therein]; [they would enter simultaneously] and their faces would be bright like the full moon."[^5]
-
-**Scholarly Interpretation:** Al-Hafiz Ibn Hajar notes that their description as holding together indicates their mutual cooperation, mercy toward one another, and unity of purpose in this world, so they are rewarded by entering Paradise gathered together, supporting one another just as they did in life.
-
-**Explanation And Connection To The Lesson:** This hadith reveals the magnificence of this group's number and the beauty of their state, reminding us that cooperation in good and mutual mercy among believers in this world is among the causes of being gathered together in Paradise.
+The response of Ukkashah ibn Mihsan, may Allah be pleased with him, shows the practical side of hurrying toward good: he rushed to ask for this bounty, and the Prophet, peace and blessings be upon him, gave him the glad tidings that he was one of them. As for the Prophet's words, peace and blessings be upon him, to the second man, `Ukkashah has beaten you to it`, the scholars have offered several explanations, which al-Hafiz Ibn Hajar gathered in *Fath al-Bari*. One is that he, peace and blessings be upon him, wanted to close the door so that those present would not follow one another in asking for it, until someone asked who was not among its people, and so he turned the man away with a gentle phrase that would not hurt him (this is the meaning of what al-Qurtubi and Ibn al-Jawzi said). Another, mentioned by al-Nawawi, is the possibility that it was revealed to him, peace and blessings be upon him, that his du'a would be answered for Ukkashah, and that this did not happen in the other man's case. So we make no firm claim about the second man's state that the texts do not mention, and we take from Ukkashah, may Allah be pleased with him, the lesson of hurrying toward good.
 
 <!-- evidence:end -->
 
-<!-- evidence:start id="tirmidhi-2437" kind="hadith" mode="canonical" -->
+### How Do We Bring the Ayah and the Hadith Together?
 
-عَنْ أَبِي أُمَامَةَ رَضِيَ اللهُ عَنْهُ، عَنِ النَّبِيِّ ﷺ قَالَ: "وَعَدَنِي رَبِّي أَنْ يُدْخِلَ الْجَنَّةَ مِنْ أُمَّتِي سَبْعِينَ أَلْفًا لَا حِسَابَ عَلَيْهِمْ وَلَا عَذَابَ، مَعَ كُلِّ أَلْفٍ سَبْعُونَ أَلْفًا، وَثَلَاثُ حَثَيَاتٍ مِنْ حَثَيَاتِ رَبِّي".
-
-<!-- evidence:translation -->
-
-> Abu Umamah, may Allah be pleased with him, reported that the Prophet ﷺ said: "My Lord promised me that seventy thousand of my Ummah shall be admitted into Paradise without a reckoning against them nor any punishment, with every thousand, seventy thousand [more], and three handfuls from among the handfuls of my Lord."[^6]
-
-**Scholarly Interpretation:** Ibn al-Qayyim, may Allah have mercy on him, writes in *Hadi al-Arwah* that these three additional handfuls are a favor of Allah beyond every counted number — a gift that cannot be tallied or measured, of the same kind as the vast generosity Allah has described of Himself, exceeding whatever a person might imagine.
-
-**Explanation And Connection To The Lesson:** This hadith shows that "without reckoning" is not merely a description of how entry occurs, but that the very number itself exceeds enumeration: seventy thousand, with every thousand another seventy thousand, then additional handfuls that are not counted one by one but scooped generously. Allah's mercy is wider than any reckoning the human mind can conceive.
-
-<!-- evidence:end -->
+Both texts describe one and the same gift by one and the same name, `without reckoning`, but each text highlights a condition that completes the other. The ayah ties this gift to faith and righteous deeds together, so trust in Allah alone, without deeds, is not enough. The hadith ties it to complete trust in Allah: its people do not ask others for ruqyah or cauterization and do not take bad omens, because they have entrusted their affairs entirely to Allah. At the same time, permissible medical treatment is allowed and not blameworthy; the excellence lies in complete reliance upon Allah, not in faulting anyone who seeks treatment. Whoever combines sincere faith, righteous deeds, and pure trust in Allah that clings neither to omens nor to any created being is the one closest to this tremendous bounty.
 
 <!-- unit:end -->
 
-<!-- unit:start id="l17-adults-primary-story" kind="primary_story" -->
+<!-- unit:start id="adults.questions" kind="questions" -->
 
-### The Qur'anic Account: The Believing Man from Pharaoh's Household
+## Questions for Understanding and Reflection
 
-<!-- story:start audience="adults" role="primary" type="quranic" source_id="quran-40-38-45" authenticated="true" -->
-
-In the time of Musa, peace be upon him, after Allah had shown miracles at his hands, Pharaoh grew ever more tyrannical and resolved to kill Musa, saying to his people, "Let me kill Musa, and let him call upon his Lord." At that moment, a man from Pharaoh's own household appeared — one who had believed in Musa secretly and concealed his faith out of fear of his people's brutality. When he saw this grave matter unfolding, he could no longer remain silent, so he declared his position and said to his people, "O my people, follow me; I will guide you to the way of right conduct." He then addressed them with wisdom and love, reminding them that this world, however long it lasts, is a fleeting enjoyment, and that the Hereafter is the abiding home, and gave them the glad tiding that whoever believes and does righteousness — man or woman — enters Paradise and is provided for therein "without reckoning," a gift beyond counting or limit.
-
-This believing man continued warning his people of the consequences of disbelief and denial, until they responded with something resembling a threat against him. Yet this only increased his firmness, and he closed his speech with a magnificent statement: "You will remember what I say to you, and I entrust my affairs to Allah; surely Allah is All-Seeing of His servants." He had surrendered his entire affair to Allah, unafraid of Pharaoh's tyranny or his people's threats. The result was that Allah protected him from the evil of their schemes, and rescued him, while a terrible punishment overtook Pharaoh's household.
-
-This believing man, whom Allah did not name — honoring him instead with the description "the one who believed" — united two magnificent things: the glad tiding of entering Paradise without reckoning, and the very secret of reaching it, entrusting one's entire affair to Allah alone.
-
-<!-- story:end -->
+1. What do the response of the believer from Pharaoh's people and the response of Ukkashah ibn Mihsan, may Allah be pleased with him, have in common, despite the difference in time and circumstance?
+2. What have the scholars said about the meaning of the Prophet's words, peace and blessings be upon him, to the second man: "Ukkashah has beaten you to it"?
+3. Explain the difference between refraining from asking for ruqyah and cauterization out of trust in Allah (a station of excellence), permissible medical treatment (allowed and not blameworthy), and the forbidden attachment of the heart to means.
+4. How does the way the believer from Pharaoh's people entrusted his affair to Allah explain the meaning of true trust in Allah in the face of danger?
+5. Name one situation in your life where you are more attached than you should be to some means (a person, an omen, a habit), and how you will restore your trust to Allah alone in it.
 
 <!-- unit:end -->
 
-<!-- unit:start id="l17-adults-authenticated-story" kind="authenticated_story" -->
+<!-- unit:start id="adults.activity" kind="activity" -->
 
-### The Authentic Account: Ukkasha ibn Mihsan's Response
-
-<!-- retelling:start source_id="muslim-218a" audience="adults" -->
-
-In one of the Prophet's ﷺ gatherings, he informed his Companions of a magnificent piece of news: that seventy thousand of this Ummah would enter Paradise without reckoning. Hearts stirred with longing, and they asked, "Who are they, O Messenger of Allah?" He described them as those who do not seek cauterization and do not seek ruqyah, and who place their trust in their Lord. In that moment, Ukkasha ibn Mihsan, may Allah be pleased with him, did not hesitate; he stood up at once and said, "Pray to Allah to make me one of them." The Prophet ﷺ responded at once: "You are one of them." Then another man stood — perhaps having hesitated for a moment before rising — and said the very same thing, so the Prophet ﷺ told him, "Ukkasha has preceded you to it." Ukkasha attained it through his swiftness and good expectation of Allah, while the other man missed what he missed through his delay.[^4]
-
-<!-- retelling:end -->
-
-<!-- unit:end -->
-
-<!-- unit:start id="l17-adults-questions" kind="questions" -->
-
-### Questions for Reflection
-
-1. What does it mean to enter Paradise "without reckoning"? Why was this a special favor?
-2. What qualities united the people of the seventy thousand as described in the hadith?
-3. How do we reconcile these hadith with the authentic fact that the Prophet ﷺ himself performed ruqyah and had ruqyah performed for him?
-4. What do we learn from the swift response of Ukkasha, may Allah be pleased with him?
-5. How did the believing man in Surah Ghafir connect the glad tiding of Paradise with entrusting his affair to Allah?
-
-<!-- unit:end -->
-
-<!-- unit:start id="l17-adults-activity" kind="activity" -->
-
-### Activity: The Handful of Trust
+### Activity: The Scale of Trust
 
 <!-- activity:start audience="adults" concept_id="lesson.017.activity.handful-of-trust" -->
 
-Prepare a bowl filled with a large quantity of beans, lentils, or small pebbles — enough that counting them one by one becomes impractical. Ask each family member to take a single "handful" without counting. Then discuss together: can the exact number of pieces in a handful be precisely determined? Connect this to the meaning of "the handfuls of my Lord" in Abu Umamah's hadith: a gift that exceeds counting and reckoning. Afterward, have each person write down one situation in their life where they feel tempted to rely on luck, superstition, or others' opinions instead of trusting Allah (such as avoiding a certain number, or feeling uneasy about a particular day or sound), then rewrite it as a statement of tawakkul to say instead.
+Dip your hand into a bowl full of grains or pebbles and scoop out a single handful, then try to count what is in it quickly before it slips through your fingers. You will find that an exact count escapes you, and this is a hands-on picture of the meaning of `without reckoning`: a gift too great to be counted. After that, keep a notebook for one week, writing down three things each day: a lawful means you used (such as lawful ruqyah or seeing a doctor) without letting your heart come to depend on it; a moment of pessimism or anxious misgiving that you let go of, trusting in Allah instead; and a good deed you hurried to do right away, without hesitating, just as Ukkashah hurried. Review your notebook at the end of the week to see where your trust in Allah stayed balanced.
 
 <!-- activity:end -->
 
 <!-- unit:end -->
 
-<!-- unit:start id="l17-adults-dua" kind="bedtime-dua" -->
-
-### Bedtime Dua
-
-<!-- bedtime-dua:start audience="adults" id="lesson.017.dua.trust-without-account" provenance="lesson_authored" source_id="" attribution="not_prophetic" -->
-
-اللَّهُمَّ اجْعَلْنِي مِمَّنْ يَتَوَكَّلُ عَلَيْكَ وَحْدَكَ، وَلَا يَتَعَلَّقُ قَلْبُهُ بِغَيْرِكَ، وَأَدْخِلْنِي الْجَنَّةَ بِفَضْلِكَ بِغَيْرِ حِسَابٍ، وَاجْعَلْ حَظِّي مِنْ حَثَيَاتِكَ وَافِرًا، يَا أَرْحَمَ الرَّاحِمِينَ.
-
-> "O Allah, make me among those who rely upon You alone, whose heart is attached to nothing besides You, and admit me into Paradise by Your favor without reckoning, and make my share of Your handfuls abundant, O Most Merciful of the merciful."
-
-(This is a dua composed for this lesson, and is not a prophetic hadith.)
-
-<!-- bedtime-dua:end -->
-
-<!-- unit:end -->
-
-<!-- unit:start id="l17-adults-terminology" kind="terminology" -->
-
-### Terminology
-
-- **Without reckoning (بِغَيْرِ حِسَابٍ):** entering Paradise without being questioned about deeds and without punishment, as a pure favor from Allah.
-- **Istirqa' (الاستِرقاء):** asking someone else to perform ruqyah; what is blameworthy is the persistent request and the heart's dependence on it in place of tawakkul.
-- **Tatayyur (التطيُّر):** taking a bad omen from something seen, heard, a number, or a day.
-- **Tawakkul (التوكُّل):** the heart's reliance upon Allah alone, together with making use of lawful means.
-- **Handfuls (الحَثَيات):** plural of "hathyah," meaning a scoop that fills both palms; used to describe Allah's gift that cannot be counted one by one.
-
-<!-- unit:end -->
-
 <!-- reader:end -->
+
+## For Children Ages 4 to 7
 
 <!-- reader:start audience="4-7" estimated_minutes="3.5" -->
 
-## For Young Children (Ages 4-7)
+<!-- unit:start id="4-7.explanation" kind="explanation" -->
 
-<!-- unit:start id="l17-4-7-explanation" kind="explanation" -->
-
-Dear one, imagine that Allah loves His servants who trust Him so much that He lets some of them into Paradise as a very big gift — too big to count! These are the people who always say in their hearts, "Allah is with me, and I trust Him," and they do not become afraid of things that some people fear for no real reason (like a certain number or a certain day).
+Allah loves the person who trusts Him alone, who isn't scared by a "bad luck" sign, and who depends on no one but Allah. Whoever is like that, Allah gives them a gift so big it can't be counted, and lets them into Jannah.
 
 <!-- unit:end -->
 
-<!-- unit:start id="l17-4-7-evidence" kind="evidence" -->
+<!-- unit:start id="4-7.primary-story" kind="primary_story" -->
 
-The Messenger of Allah ﷺ said: "Seventy thousand of my Ummah shall enter Paradise without reckoning ... and they place their trust in their Lord."[^4]
+### A Story from the Qur'an: The Brave Believing Man
 
-This means: very, very many people enter Paradise as a gift from Allah, because they always trust Him.
+<!-- story:start audience="4-7" role="primary" type="quranic" source_id="quran-40-38-45" authenticated="true" -->
 
-<!-- unit:end -->
+**This is a true story from the Noble Qur'an. It is not a made-up story.**
 
-<!-- unit:start id="l17-4-7-story" kind="story" -->
+There was once a believing man who lived among Pharaoh's people, and they did not believe in Allah. This man stood up bravely in front of his people and said to them, "Follow me, and I will show you the right way." And he told them, "Whoever believes in Allah and does good will go into Jannah, and there Allah will give them a gift so big that nobody can measure it or count it."[^1]
 
-### The Story of Quick Ukkasha
+His people did not like what he said, and they wanted to hurt him. But he was not afraid of them, and he said: `And I entrust my affair to Allah`. That means: "I hand everything I have to worry about over to Allah alone, and I trust Him." And Allah kept this believing man safe from all the harm they wanted to do to him.[^1]
 
-<!-- retelling:start source_id="muslim-218a" audience="4-7" -->
+<!-- retelling:start source_id="quran-40-38-45" audience="4-7" -->
 
-One day the Prophet ﷺ told his Companions: "Seventy thousand people of my Ummah will enter Paradise — a huge gift!" A Companion named Ukkasha stood up right away, not waiting even a moment, and said, "O Messenger of Allah, ask Allah to make me one of them!" The Prophet ﷺ said to him at once, "You are one of them!" Ukkasha was so happy! Then another man stood up a little while later and said the same words, but the Prophet ﷺ told him, "Ukkasha beat you to it!" So being quick to ask for good things is a very beautiful thing.
+Here is what it all means, simply: the man believed in Allah alone and wasn't afraid of anyone, so Allah kept him safe and honored him.[^1]
 
 <!-- retelling:end -->
 
-<!-- unit:end -->
-
-<!-- unit:start id="l17-4-7-questions" kind="questions" -->
-
-1. Which Companion stood up quickly?
-2. What did the Prophet ﷺ say to him?
-3. Do you want to hurry toward good like Ukkasha did?
+<!-- story:end -->
 
 <!-- unit:end -->
 
-<!-- unit:start id="l17-4-7-activity" kind="activity" -->
+<!-- unit:start id="4-7.questions" kind="questions" -->
 
-### Activity: My Handful of Beans
+### Short Questions
+
+1. What did the believing man say to his people to show them the right way?
+2. What did he say when his people wanted to hurt him?
+3. Who kept the believing man safe from harm?
+
+<!-- unit:end -->
+
+<!-- unit:start id="4-7.activity" kind="activity" -->
+
+### Activity: A Handful Beyond Counting
 
 <!-- activity:start audience="4-7" concept_id="lesson.017.activity.handful-of-trust" -->
 
-Place a bowl of beans or large beads in front of the child (supervised, to prevent any swallowing hazard). Ask them to take a "handful" with their small hand and ask: Can you count it quickly? There are so many! This is how Allah's gift is for those who trust Him: very, very much, too much to count. Then play a "Who Hurries First?" game, asking the child to do a small task quickly (like putting away a toy), and praise their speed just as Ukkasha hurried.
+With your mom or dad helping you, scoop up some big beans (like chickpeas or fava beans) from a bowl with your hand, and try to count them fast before they fall out of your hand. You'll see there are so many that you can't count them quickly! Then say to your mom or dad, "O Allah, I trust You alone," and remember that Allah's gift to the people who trust Him is much, much bigger than this handful.
 
 <!-- activity:end -->
 
 <!-- unit:end -->
 
-<!-- unit:start id="l17-4-7-dua" kind="bedtime-dua" -->
+<!-- unit:start id="4-7.bedtime-dua" kind="bedtime_dua" -->
 
-### Bedtime Dua
+### Bedtime Du'a
 
 <!-- bedtime-dua:start audience="4-7" id="lesson.017.dua.trust-without-account" provenance="lesson_authored" source_id="" attribution="not_prophetic" -->
 
-اللَّهُمَّ إِنِّي أَثِقُ بِكَ، فَأَدْخِلْنِي جَنَّتَكَ هَدِيَّةً مِنْكَ، يَا أَرْحَمَ الرَّاحِمِينَ.
+**Lesson-authored thematic du'a; not attributed to the Prophet, peace and blessings be upon him.**
 
-> "O Allah, I trust You, so let me into Your Paradise as a gift from You, O Most Merciful of the merciful."
+> اللَّهُمَّ اجْعَلْنِي مِمَّنْ يَتَوَكَّلُ عَلَيْكَ وَحْدَكَ، وَلَا يَتَعَلَّقُ قَلْبُهُ بِغَيْرِكَ، وَأَدْخِلْنِي الْجَنَّةَ بِفَضْلِكَ بِغَيْرِ حِسَابٍ، وَاجْعَلْ حَظِّي مِنْ حَثَيَاتِكَ وَافِرًا، يَا أَرْحَمَ الرَّاحِمِينَ.
+>
+> *"O Allah, make me one of those who rely on You alone and whose hearts cling to no one but You. Admit me into Jannah by Your grace, without reckoning, and give me a generous share of Your handfuls, O Most Merciful of those who show mercy."*
 
 <!-- bedtime-dua:end -->
 
@@ -273,84 +196,86 @@ Place a bowl of beans or large beads in front of the child (supervised, to preve
 
 <!-- reader:end -->
 
-<!-- reader:start audience="8-12" estimated_minutes="6.0" -->
+## For Children Ages 8 to 12
 
-## For Children (Ages 8-12)
+<!-- reader:start audience="8-12" estimated_minutes="5.5" -->
 
-<!-- unit:start id="l17-8-12-explanation" kind="explanation" -->
+<!-- unit:start id="8-12.explanation" kind="explanation" -->
 
-Have you ever heard of a gift so big it cannot be counted? The Prophet ﷺ told us that seventy thousand of his Ummah will enter Paradise "without reckoning" — meaning they will not be stopped to be questioned about their deeds, and no punishment will touch them; they will enter directly, purely by Allah's favor. The Prophet ﷺ described them as people who do not depend on asking others for ruqyah, and who do not become superstitious about things, because their hearts are attached to Allah alone and rely on Him. Tawakkul does not mean abandoning means (like taking medicine or working hard at school); it means using them while our hearts stay confident that Allah alone truly brings benefit and removes harm.
-
-<!-- unit:end -->
-
-<!-- unit:start id="l17-8-12-evidence" kind="evidence" -->
-
-<!-- evidence:start id="muslim-218a-b" kind="hadith" mode="canonical" -->
-
-The Messenger of Allah ﷺ said: "Seventy thousand of my Ummah shall enter Paradise without reckoning." They asked, "Who are they, O Messenger of Allah?" He said: "Those who do not seek cauterization and do not seek ruqyah, and place their trust in their Lord."[^4]
-
-**Explanation And Connection To The Lesson:** This teaches us that complete trust in Allah — alongside using the right means — is a wonderful path to Allah's pleasure, and that this door is open to anyone who is sincere in their tawakkul.
-
-<!-- evidence:end -->
+`Without reckoning` (*bi-ghayri hisab*) means a gift from Allah that can't be measured or counted. Allah gives it to the people who bring together faith, righteous deeds, and sincere trust in Him. Trusting Allah (*tawakkul*) means depending on Allah alone in everything you do, while still using the lawful means He has given you, and without letting your heart hang on a lucky sign, a habit, or a person more than it hangs on Allah. The Prophet, peace and blessings be upon him, told us that seventy thousand people of his ummah will enter Jannah without reckoning. They are the ones who don't ask others to perform ruqyah for them, don't take bad omens, and don't ask to be cauterized; instead, they rely on their Lord alone. Even so, going to the doctor and taking permissible medicine is allowed, and there is nothing wrong with it.[^2]
 
 <!-- unit:end -->
 
-<!-- unit:start id="l17-8-12-primary-story" kind="primary_story" -->
+<!-- unit:start id="8-12.primary-story" kind="primary_story" -->
 
-### The Story of the Believing Man from Pharaoh's Household
+### From the Qur'an: The Believer from Pharaoh's People
 
 <!-- story:start audience="8-12" role="primary" type="quranic" source_id="quran-40-38-45" authenticated="true" -->
 
-In Pharaoh's own palace, there lived a man who secretly believed in Allah, and no one knew about his faith. One day, he heard Pharaoh planning to kill Musa, peace be upon him. He could not stay silent about this injustice, so he stood before his people — knowing this was very dangerous for him — and said, "O my people, follow me, I will guide you to the right path." Then he explained to them: "This world is a short pleasure, but the Hereafter is our lasting home. Whoever believes and does a righteous deed will enter Paradise and be given a huge gift there that cannot be measured or counted!"
+**This is a true story told in the Noble Qur'an, in Surah Ghafir. It is not a made-up story.**
 
-His people tried to threaten him, but he was not afraid, and he said his final words: "One day you will remember what I said, and I hand my whole affair over to Allah, for Allah sees everything." And indeed, Allah protected him from every scheme they planned against him, while punishment fell upon Pharaoh and his wrongdoing people. This brave man combined speaking the truth with handing his affair to Allah, so he was saved and triumphant.
+Among Pharaoh's people there was a believing man who kept his faith hidden because he was afraid of his people. But when Pharaoh and his people became more and more hostile toward Musa, peace be upon him, this man couldn't stay silent any longer. He stood up in front of his people and announced: `O my people, follow me, and I will guide you to the path of right conduct`. He warned them that this world is a pleasure that doesn't last, and that the Hereafter is the home that lasts forever. And he gave them the good news that whoever believes and does righteous deeds, man or woman, will enter Jannah, `provided for therein without reckoning`.[^1]
+
+But his people called him to disbelief, so he said to them in amazement: `And O my people, how is it that I call you to salvation while you call me to the Fire?` In other words: "You're calling me to disbelieve in Allah and to worship others alongside Him, while I'm calling you to Allah, the Almighty, the Ever-Forgiving." He told them that the things they worshipped instead of Allah could do no good at all, not in this world and not in the Hereafter. Then he ended with the greatest words of all: `I entrust my affair to Allah. Indeed, Allah sees His servants well`. That means: "I hand all my affairs over to Allah, and I trust that He sees what is happening to me and will look after me."[^1]
+
+So Allah protected him from every plot his people had planned against him, and He brought down on Pharaoh's people the terrible punishment they deserved for their disbelief.[^1]
+
+<!-- retelling:start source_id="quran-40-38-45" audience="8-12" -->
+
+To put it another way: one man declared his faith openly in front of his entire people, and he wasn't afraid of what would happen because of what he said. Instead, he handed his whole affair over to Allah, so Allah protected him and saved him, and those who rejected him and wanted to hurt him were destroyed.[^1]
+
+<!-- retelling:end -->
 
 <!-- story:end -->
 
 <!-- unit:end -->
 
-<!-- unit:start id="l17-8-12-authenticated-story" kind="authenticated_story" -->
+<!-- unit:start id="8-12.terms" kind="terms" -->
 
-### The Story of Ukkasha ibn Mihsan
+<!-- terminology:start source_id="quran-40-38-45" -->
 
-<!-- retelling:start source_id="muslim-218a" audience="8-12" -->
+- **`Without reckoning (bi-ghayri hisab)`** — a gift from Allah that isn't measured by the size of a person's deeds and can't be counted; it is extra generosity, far more than anyone has earned.[^1]
+- **`Trust in Allah (at-tawakkul)`** — when the heart depends on Allah alone in every matter, while still using the lawful means, not abandoning them.[^2]
+- **`Taking bad omens (at-tatayyur)`** — feeling that something you see or hear (like a bird, a number, or a day) is bad luck, and giving up on what you meant to do because of it; Islam forbids it.[^2]
 
-The Prophet ﷺ told his Companions that seventy thousand of his Ummah would enter Paradise without reckoning, and described them as people who rely on Allah and do not depend on asking others for ruqyah. At that moment, without any hesitation, a Companion named Ukkasha ibn Mihsan stood and said, "O Messenger of Allah, ask Allah to make me one of them." The Prophet ﷺ told him immediately, "You are one of them." Moments later, another man stood — perhaps thinking it over and hesitating before rising — and asked for the very same thing, so the Prophet ﷺ told him, "Ukkasha has beaten you to it." This story teaches us that opportunities for good do not wait for those who hesitate.
-
-<!-- retelling:end -->
-
-<!-- unit:end -->
-
-<!-- unit:start id="l17-8-12-questions" kind="questions" -->
-
-1. Who is the man who defended the truth in Pharaoh's palace? What happened to him?
-2. Why did Ukkasha succeed while the other man's identical request did not?
-3. What is the difference between trusting Allah and abandoning the use of proper means?
-4. Describe a situation where you could be quick toward good like Ukkasha.
+<!-- terminology:end -->
 
 <!-- unit:end -->
 
-<!-- unit:start id="l17-8-12-activity" kind="activity" -->
+<!-- unit:start id="8-12.questions" kind="questions" -->
 
-### Activity: The Initiative and Trust Log
+### Understanding and Reflection Questions
+
+1. Why was it dangerous, and brave, for the believing man to declare his faith openly in front of his people?
+2. What does `I entrust my affair to Allah` mean, in your own words?
+3. List the three qualities by which the Prophet, peace and blessings be upon him, described the seventy thousand.
+4. What do we learn from how quickly Ukkashah ibn Mihsan asked for good? And what did the scholars say about why the Prophet, peace and blessings be upon him, told the other man, "Ukkashah has beaten you to it"?
+
+<!-- unit:end -->
+
+<!-- unit:start id="8-12.activity" kind="activity" -->
+
+### Activity: The Initiative and Trust Journal
 
 <!-- activity:start audience="8-12" concept_id="lesson.017.activity.handful-of-trust" -->
 
-Fill a bowl with beans or beads. Have each child take a handful and try to count it in exactly one minute — they will find it very hard! Write together: "This is how Allah's gift is bigger than any count." Then ask each child to write in a small notebook ("Initiative Log") one situation this week where they will hurry toward good without delay (like Ukkasha), and another situation where they will trust Allah instead of superstition or worry.
+Scoop up a handful of pebbles or lentils from a bowl and try to count them quickly before you put them back. You'll discover there are too many to count fast, and that brings you closer to the meaning of `without reckoning`. Then open your "Initiative and Trust Journal." On one page, write about a real time when you felt pessimistic or were afraid of a "bad luck" sign, or when you depended on a person more than you should have instead of on Allah. Then rewrite that same situation as a clear sentence of trust that begins, "I put my trust in Allah for...", just as Ukkashah did when he stepped forward quickly and with certainty.
 
 <!-- activity:end -->
 
 <!-- unit:end -->
 
-<!-- unit:start id="l17-8-12-dua" kind="bedtime-dua" -->
+<!-- unit:start id="8-12.bedtime-dua" kind="bedtime_dua" -->
 
-### Bedtime Dua
+### Bedtime Du'a
 
 <!-- bedtime-dua:start audience="8-12" id="lesson.017.dua.trust-without-account" provenance="lesson_authored" source_id="" attribution="not_prophetic" -->
 
-اللَّهُمَّ اجْعَلْنِي مِمَّنْ يَتَوَكَّلُ عَلَيْكَ حَقَّ التَّوَكُّلِ، وَبَادِرْ بِي إِلَى كُلِّ خَيْرٍ كَمَا بَادَرَ عُكَّاشَةُ، وَاجْعَلْنِي مِنْ أَهْلِ جَنَّتِكَ بِغَيْرِ حِسَابٍ.
+**Lesson-authored thematic du'a; not attributed to the Prophet, peace and blessings be upon him.**
 
-> "O Allah, make me among those who rely upon You with true reliance, and make me hasten toward every good just as Ukkasha hastened, and make me among the people of Your Paradise without reckoning."
+> اللَّهُمَّ اجْعَلْنِي مِمَّنْ يَتَوَكَّلُ عَلَيْكَ وَحْدَكَ، وَلَا يَتَعَلَّقُ قَلْبُهُ بِغَيْرِكَ، وَأَدْخِلْنِي الْجَنَّةَ بِفَضْلِكَ بِغَيْرِ حِسَابٍ، وَاجْعَلْ حَظِّي مِنْ حَثَيَاتِكَ وَافِرًا، يَا أَرْحَمَ الرَّاحِمِينَ.
+>
+> *"O Allah, make me one of those who rely on You alone and whose hearts cling to no one but You. Admit me into Jannah by Your grace, without reckoning, and give me a generous share of Your handfuls, O Most Merciful of those who show mercy."*
 
 <!-- bedtime-dua:end -->
 
@@ -358,109 +283,89 @@ Fill a bowl with beans or beads. Have each child take a handful and try to count
 
 <!-- reader:end -->
 
-<!-- reader:start audience="13+" estimated_minutes="7.0" -->
+## For Teens, Ages 13+
 
-## For Teens (Ages 13+)
+<!-- reader:start audience="13+" estimated_minutes="6.0" -->
 
-<!-- unit:start id="l17-13-explanation" kind="explanation" -->
+<!-- unit:start id="13+.explanation" kind="explanation" -->
 
-One might ask: how can some people enter Paradise "without reckoning" while everyone else is questioned about the smallest of their deeds on the Day of Judgment? The answer is that this is a pure favor from Allah, which He grants specially to whoever earns it through sincere tawakkul and a heart free from attachment to anything besides Him. This does not mean these people had no righteous deeds — rather, their hearts had become so self-sufficient in Allah that they no longer depended on people and outward means alone, so Allah dealt with them in a manner befitting their hearts: a gift beyond reckoning, for one who entrusted their affair to none but the One whose giving cannot be counted.
+`Without reckoning` is not just a promise of a big reward. It describes a particular kind of heart: one that doesn't measure its relationship with Allah by profit and loss, and doesn't attach itself to any cause besides Allah, even one that seems powerful in people's eyes. Today this includes fearing a certain number or day, attachment to horoscopes, luck, and "good-luck" charms, or surrendering to people's predictions about your future more than to Allah's decree. All of these connect to what the hadith calls *tatayyur* (taking bad omens) and to the attachment to other than Allah that the Qur'an warns against, though Islamic law treats them under different headings: being pessimistic about numbers and days is *tatayyur* itself; horoscopes fall under astrology (*tanjim*); and hanging amulets (*tama'im*) is a separate matter that the Shari'ah forbids.
 
-Scholars have discussed a precise point regarding the wording "la yarqun" (they do not perform ruqyah for others) which appears in some narrations of this hadith. Some, such as Shaykh al-Islam Ibn Taymiyyah, held that this is an inserted addition not part of the original hadith wording, since it appears to contradict the authentic fact that the Prophet ﷺ himself performed ruqyah for others and commanded it, while al-Hafiz Ibn Hajar, in *Fath al-Bari* (11/408-409), investigated these narrations and explained ways of reconciling them. This is a beautiful example of the precision of hadith scholars in scrutinizing wording, and shows that disagreement over a detail of wording does not weaken the firmly established core meaning: that sincere reliance upon Allah is a cause of this magnificent favor.
-
-<!-- unit:end -->
-
-<!-- unit:start id="l17-13-evidence" kind="evidence" -->
-
-<!-- evidence:start id="bukhari-6541" kind="hadith" mode="canonical" -->
-
-عَنِ ابْنِ عَبَّاسٍ رَضِيَ اللهُ عَنْهُمَا، عَنِ النَّبِيِّ ﷺ قَالَ: "عُرِضَتْ عَلَيَّ الْأُمَمُ، فَرَأَيْتُ النَّبِيَّ وَمَعَهُ الرُّهَيْطُ، وَالنَّبِيَّ وَمَعَهُ الرَّجُلُ وَالرَّجُلَانِ، وَالنَّبِيَّ لَيْسَ مَعَهُ أَحَدٌ، إِذْ رُفِعَ لِي سَوَادٌ عَظِيمٌ، فَظَنَنْتُ أَنَّهُمْ أُمَّتِي، فَقِيلَ لِي: هَذَا مُوسَى وَقَوْمُهُ، وَلَكِنِ انْظُرْ إِلَى الْأُفُقِ، فَنَظَرْتُ فَإِذَا سَوَادٌ عَظِيمٌ، فَقِيلَ لِي: انْظُرْ إِلَى الْأُفُقِ الْآخَرِ، فَإِذَا سَوَادٌ عَظِيمٌ، فَقِيلَ لِي: هَذِهِ أُمَّتُكَ، وَمَعَهُمْ سَبْعُونَ أَلْفًا يَدْخُلُونَ الْجَنَّةَ بِغَيْرِ حِسَابٍ وَلَا عَذَابٍ".
-
-<!-- evidence:translation -->
-
-> Ibn Abbas, may Allah be pleased with them both, reported that the Prophet ﷺ said: "The nations were shown to me, and I saw a prophet with a small band [of followers], a prophet with one or two men, and a prophet with no one at all. Then a huge multitude was raised up to me, and I thought they were my Ummah, but it was said to me, 'This is Musa and his people. But look at the horizon.' I looked, and there was a huge multitude. It was said to me, 'Look at the other horizon,' and there was another huge multitude. It was said to me, 'This is your Ummah, and among them are seventy thousand who will enter Paradise without reckoning and without punishment.'"[^7]
-
-**Scholarly Interpretation:** Al-Hafiz Ibn Hajar, in *Fath al-Bari*, notes that this hadith — found in the Book of Riqaq (Heart-Softeners) in Sahih al-Bukhari — is a magnificent foundation showing the vastness of the Ummah of Muhammad ﷺ in number, and that a special group among it — seventy thousand — attains this tremendous favor.
-
-**Explanation And Connection To The Lesson:** This hadith shows us the scene from another angle: the Prophet's ﷺ vision of his Ummah measured against other nations, and its distinction by this vast number who enter without reckoning — showing that this favor is not a marginal exception but a prominent feature of this Ummah that has been shown mercy.
-
-<!-- evidence:end -->
-
-<!-- evidence:start id="muslim-220a" kind="hadith" mode="canonical" -->
-
-عَنِ ابْنِ عَبَّاسٍ رَضِيَ اللهُ عَنْهُمَا قَالَ: قَالَ رَسُولُ اللهِ ﷺ: "... هُمُ الَّذِينَ لَا يَسْتَرْقُونَ وَلَا يَتَطَيَّرُونَ، وَعَلَى رَبِّهِمْ يَتَوَكَّلُونَ".
-
-<!-- evidence:translation -->
-
-> Ibn Abbas, may Allah be pleased with them both, reported that the Messenger of Allah ﷺ said: "... They are those who do not seek ruqyah, do not take omens, and repose their trust in their Lord."[^8]
-
-**Scholarly Interpretation:** In this narration from Ibn Abbas, note the mention of "not taking omens" alongside "not seeking ruqyah" — a point Ibn Hajar highlights regarding the multiple wordings of this hadith across its various chains (Imran ibn Husayn, Ibn Abbas, and Sahl ibn Sa'd), all revolving around one unified meaning: a heart free from attachment to anything besides Allah.
-
-**Explanation And Connection To The Lesson:** Adding "taking omens" here expands the meaning from merely abandoning the request for ruqyah to abandoning every form of superstition that was widespread in pre-Islamic times, showing that the intent is achieving complete tawakkul in every aspect of life.
-
-<!-- evidence:end -->
+The believer from Pharaoh's people is an example of something harder. He wasn't just facing a bad omen; he faced an entire people ready to kill him for defying their consensus. Yet he didn't bargain away his convictions or look for a middle ground to please both sides. He spoke the truth openly and left the outcome to Allah. That is the real test of trust in Allah: not trusting Him when it costs you nothing, but trusting Him when the social price is steep.
 
 <!-- unit:end -->
 
-<!-- unit:start id="l17-13-primary-story" kind="primary_story" -->
+<!-- unit:start id="13+.primary-story" kind="primary_story" -->
 
-### The Believing Man of Surah Ghafir: A Model of Courage and Trust
+### From the Qur'an: The Believer from Pharaoh's People Takes a Stand
 
 <!-- story:start audience="13+" role="primary" type="quranic" source_id="quran-40-38-45" authenticated="true" -->
 
-Surah Ghafir records a unique scene: a man from inside Pharaoh's own court, who — as the commentators explain — had believed in Musa, peace be upon him, and concealed his faith for fear of persecution, until the decisive moment arrived: Pharaoh resolved to kill Musa. At that point, this man's silence was no longer possible, so he broke his concealment and declared the truth before the assembly, risking his own life to save Musa and rescue his people from misguidance.
+**This is a definitive Qur'anic text from Surah Ghafir. It is not an imagined scene.**
 
-His address — as recorded in the Qur'an — is a model of wise, patient outreach: he began by offering an alternative ("Follow me; I will guide you to the way of right conduct"), then contrasted the passing of this world with the permanence of the Hereafter, then gave the greatest glad tiding: entry into Paradise "without reckoning" for whoever believes and does righteousness, set against Allah's justice in repaying the evil deed only with its like. When his people tried to threaten and intimidate him, he did not waver, but closed his stand with the greatest declaration of tawakkul: "And I entrust my affairs to Allah; surely Allah is All-Seeing of [His] servants."
+Among Pharaoh's people, where there was no room to go against the consensus, there was a believing man, one of their own, who kept his faith hidden. He was surrounded by people threatening to kill Musa, peace be upon him. But he couldn't stay silent any longer, so he stood before them and declared his position without hedging: `O my people, follow me, and I will guide you to the path of right conduct`. Then he went straight to the heart of the matter: this life of the world, however long it lasts, is a passing enjoyment; the Hereafter is the real home of lasting settlement; and whoever believes and does righteous deeds, male or female, will be rewarded with Jannah, `provided for therein without reckoning`.[^1]
 
-The outcome was decisive: "So Allah protected him from the evil of their schemes," while "Pharaoh's people were overwhelmed by an evil punishment." This man, whom the Qur'an never names, represents for every generation a model of one who unites courage in speaking truth with sincere reliance upon Allah in the darkest of circumstances — precisely what the hadith praise in the people of the seventy thousand.
+He answered their call to disbelief by saying, `O my people, how is it that I call you to salvation while you call me to the Fire?`, and he took their call apart point by point: "You call me to disbelieve in Allah and to associate with Him that of which I have no knowledge, while I call you to the Almighty, the Ever-Forgiving." He declared that what was being called upon besides Allah, *la jarama* (there is no doubt), has no answer to give, neither in this world nor in the Hereafter; that everyone's return is to Allah; and that those who go beyond all bounds of the truth are the companions of the Fire.[^1]
+
+Then came the decisive moment. He didn't threaten, and he didn't back down. He said: `You will remember what I am telling you, and I entrust my affair to Allah. Indeed, Allah sees His servants well`. This last sentence is trust in Allah at its highest: handing the whole outcome of your stand to Allah without knowing how things will turn out. And the outcome was: `So Allah protected him from the evils of what they plotted, and the worst of punishment closed in on the people of Pharaoh`.[^1]
+
+<!-- retelling:start source_id="quran-40-38-45" audience="13+" -->
+
+In other words: this man had two options: stay quiet and be safe from his people's harm, or speak the truth openly and risk everything. He chose to speak out and left the outcome to Allah with no human guarantees. So Allah protected him and saved him, while those who rejected him were struck by the very punishment he had warned them about.[^1]
+
+<!-- retelling:end -->
 
 <!-- story:end -->
 
 <!-- unit:end -->
 
-<!-- unit:start id="l17-13-authenticated-story" kind="authenticated_story" -->
+<!-- unit:start id="13+.terms" kind="terms" -->
 
-### Ukkasha's Initiative: A Lesson in Seizing Opportunity
+<!-- terminology:start source_id="muslim-218a" -->
 
-<!-- retelling:start source_id="muslim-218a" audience="13+" -->
+- **`Without reckoning (bi-ghayri hisab) in its broad sense`** — it is not only about how much provision or reward there is; it is about the quality of one's relationship with Allah: a relationship that isn't measured by worldly calculations of profit and loss.[^1]
+- **`Entrusting one's affair (at-tafwid)`** — handing the full outcome over to Allah after making your effort and speaking the truth; it is not the same as passive resignation (*tawākul*) or neglecting to use the means.[^1]
+- **`Taking bad omens (at-tatayyur) and what it connects to today`** — *tatayyur* is reading bad luck into something seen or heard, and its modern forms include being pessimistic about a number or a day, or about "lucky" and "unlucky" numbers. Connected to it is every attachment of the heart to a sign or symbol that takes the place of trust in what Allah has decreed, such as horoscopes (which fall under astrology) and amulets (a separate matter that the Shari'ah forbids).[^2]
 
-When the Companions heard the news of the seventy thousand who would enter Paradise without reckoning, they did not know who among them would be included. Yet Ukkasha ibn Mihsan al-Asadi did not let this uncertainty become a reason for hesitation; he immediately requested the Prophet's ﷺ supplication, relying on his good expectation of Allah and the sincerity of his spiritual state. The Prophet ﷺ responded to him at once. As for the second man who made the identical request moments later, he was told, "Ukkasha has preceded you to it." The difference between the two men was not necessarily in the sincerity of their faith, but — as the context of the hadith suggests — in who took the initiative first. This reminds us that doors of good may open for a moment and then circumstances change, so being diligent in seizing them is a mark of resolute believers.
-
-<!-- retelling:end -->
-
-<!-- unit:end -->
-
-<!-- unit:start id="l17-13-questions" kind="questions" -->
-
-1. How do we reconcile, intellectually and scripturally, the favor of "without reckoning" with Allah's justice in judging the rest of creation?
-2. How does the scholarly disagreement over the wording "la yarqun" guide us toward understanding the methodology of hadith scholars in scrutinizing narrations?
-3. What are the points of similarity between the stand of the believing man in Surah Ghafir and that of Ukkasha, may Allah be pleased with him?
-4. How can sincere tawakkul coexist with striving through proper means rather than opposing it?
-5. Write about a situation from your own life resembling the choice between initiative and hesitation.
+<!-- terminology:end -->
 
 <!-- unit:end -->
 
-<!-- unit:start id="l17-13-activity" kind="activity" -->
+<!-- unit:start id="13+.questions" kind="questions" -->
+
+### Discussion Questions
+
+1. What is the difference between the *tatayyur* described in the hadith and modern forms of attachment to horoscopes or "luck"?
+2. Why was the believer from Pharaoh's people speaking out openly a harder test of trust in Allah than simply refusing to believe in a bad omen?
+3. How can you tell the difference between using a lawful means (like studying or consulting an expert) and your heart depending on it instead of on Allah?
+4. What did the scholars say about why the Prophet, peace and blessings be upon him, told the second man, "Ukkashah has beaten you to it," even though his request was not wrong in itself? And why shouldn't we make firm claims about his state that the texts do not mention?
+5. Name a real decision you are hesitating over because of what people think, or because you are afraid of an uncertain outcome. How could you hand its outcome over to Allah, as the believer from Pharaoh's people did?
+
+<!-- unit:end -->
+
+<!-- unit:start id="13+.activity" kind="activity" -->
 
 ### Activity: The Scale of Trust
 
 <!-- activity:start audience="13+" concept_id="lesson.017.activity.handful-of-trust" -->
 
-Take a single handful of beans or beads and try to count it precisely within a limited time — you will find it practically impossible. In your personal journal, write down three weekly situations that test your tawakkul: one situation where you rely on lawful means (such as diligent study or a medical checkup), one situation where you abandon superstition or common myths among your peers, and one situation where you hasten to do a good deed immediately, like Ukkasha, without delay. At the end of the week, review your journal and ask yourself: have I drawn nearer to the description, "and upon their Lord they rely"?
+Scoop up a handful of grains or pebbles from a bowl and try to count them exactly before they spill. You'll realize there are too many to count quickly, a hands-on picture of `without reckoning`. Then, for one week, keep a three-column chart. In the first column, write a lawful means you used (studying, getting advice, planning) without letting it become a dependence of the heart that crowds out your trust in Allah. In the second, write a moment of pessimism, social pressure, or "luck" that you let go of, trusting in Allah instead. In the third, write a good deed you jumped into right away, without hesitating or waiting for everyone's approval, following the example of Ukkashah ibn Mihsan. At the end of the week, go over the chart with someone you trust.
 
 <!-- activity:end -->
 
 <!-- unit:end -->
 
-<!-- unit:start id="l17-13-dua" kind="bedtime-dua" -->
+<!-- unit:start id="13+.bedtime-dua" kind="bedtime_dua" -->
 
-### Bedtime Dua
+### Bedtime Du'a
 
 <!-- bedtime-dua:start audience="13+" id="lesson.017.dua.trust-without-account" provenance="lesson_authored" source_id="" attribution="not_prophetic" -->
 
-اللَّهُمَّ إِنِّي أُفَوِّضُ أَمْرِي كُلَّهُ إِلَيْكَ كَمَا فَوَّضَ الرَّجُلُ الْمُؤْمِنُ أَمْرَهُ، وَأَسْأَلُكَ أَنْ تُطَهِّرَ قَلْبِي مِنَ التَّعَلُّقِ بِغَيْرِكَ، وَأَنْ تَجْعَلَنِي مِمَّنْ يُبَادِرُ لِلْخَيْرِ كَعُكَّاشَةَ، وَأَنْ تُدْخِلَنِي الْجَنَّةَ بِفَضْلِكَ بِغَيْرِ حِسَابٍ.
+**Lesson-authored thematic du'a; not attributed to the Prophet, peace and blessings be upon him.**
 
-> "O Allah, I entrust my entire affair to You just as the believing man entrusted his affair, and I ask You to purify my heart from attachment to anything besides You, and to make me among those who hasten toward good like Ukkasha, and to admit me into Paradise by Your favor without reckoning."
+> اللَّهُمَّ اجْعَلْنِي مِمَّنْ يَتَوَكَّلُ عَلَيْكَ وَحْدَكَ، وَلَا يَتَعَلَّقُ قَلْبُهُ بِغَيْرِكَ، وَأَدْخِلْنِي الْجَنَّةَ بِفَضْلِكَ بِغَيْرِ حِسَابٍ، وَاجْعَلْ حَظِّي مِنْ حَثَيَاتِكَ وَافِرًا، يَا أَرْحَمَ الرَّاحِمِينَ.
+>
+> *"O Allah, make me one of those who rely on You alone and whose hearts cling to no one but You. Admit me into Jannah by Your grace, without reckoning, and give me a generous share of Your handfuls, O Most Merciful of those who show mercy."*
 
 <!-- bedtime-dua:end -->
 
@@ -468,196 +373,149 @@ Take a single handful of beans or beads and try to count it precisely within a l
 
 <!-- reader:end -->
 
-## Detailed Lesson Plans
+## Detailed Teaching Plans
 
-<!-- lesson-plan:start audience="adults" minutes="45" -->
+<!-- lesson-plan:start audience="adults" minutes="55" -->
 
-### Lesson Plan: Adults
+### Adults — 55 Minutes
 
-<!-- outcomes:start -->
-- The learner will be able to explain the meaning of entering Paradise without reckoning, with its evidence.
-- The learner will compare the different narrations of the seventy-thousand hadith and recognize their points of variance and agreement.
-- The learner will apply the meaning of tawakkul in at least one practical situation during the week.
-<!-- outcomes:end -->
+<!-- lesson-plan:outcomes -->
+**Learning Outcomes:** The learner explains the meaning of `without reckoning`, connects the story of the believer from Pharaoh's people with the hadith of the seventy thousand, and applies the distinction between lawfully using means and the forbidden attachment of the heart to them to a real situation in their own life.
 
-<!-- materials:start -->
-A bowl of beans or small pebbles, small notebooks, a copy of Surah Ghafir (38-45), cards with the three hadith texts.
-<!-- materials:end -->
+<!-- lesson-plan:materials -->
+**Materials:** A copy of the lesson; a mushaf for looking up Surah Ghafir; a bowl of grains or pebbles for the activity; blank notebooks.
 
-<!-- preparation:start -->
-Read Ibn Kathir's tafsir of Surah Ghafir (38-45) in advance, review Ibn Hajar's discussion in Fath al-Bari on the wording "la yarqun," and prepare the bowl of beans for the activity.
-<!-- preparation:end -->
+<!-- lesson-plan:preparation -->
+**Preparation:** Before the session, the teacher reviews Ghafir 40:38-45 and the hadith in Muslim 218a, prepares the bowl of grains for the handful exercise, and gets ready one personal example of an attachment they gave up for the sake of trust in Allah.
 
-<!-- opening:start -->
-Pose an open question: "If you knew that a group of people enters Paradise without being questioned, what do you think their shared quality would be?" Let participants reflect before revealing the answer.
-<!-- opening:end -->
+<!-- lesson-plan:opening -->
+**Opening — 5 minutes:** The teacher asks: "Have you ever felt pessimistic about something, or hesitated over a decision because of what people think more than because of what you judged to be right?"
 
-<!-- evidence-review:start -->
-Read the verses of Surah Ghafir (38-40, 44-45) and the three hadith (Muslim 218a, Muslim 219, Tirmidhi 2437) carefully, and discuss the difference between the reckoning of the evil deed and the reward of the good deed.
-<!-- evidence-review:end -->
+<!-- lesson-plan:evidence -->
+**Studying the Evidence — 15 minutes:** Read Ghafir 40:38-45, pausing at each turning point in the believing man's stand. Then read the hadith of the seventy thousand in full, pausing at the responses of Ukkashah and the other man.
 
-<!-- instruction:start -->
-Explain the full story of the believing man from Pharaoh's household, then present Ukkasha's story, and ask participants to identify the point of convergence between the two accounts (tawakkul).
-<!-- instruction:end -->
+<!-- lesson-plan:instruction -->
+**Guided Instruction — 15 minutes:** The teacher discusses with the learners the difference between lawfully using ruqyah or cauterization and the forbidden dependence of the heart on them, and connects this to the way the believer from Pharaoh's people entrusted his affair to Allah.
 
-<!-- activity-time:start -->
-Carry out the "Handful of Trust" activity as described above, then discuss the situations each participant wrote.
-<!-- activity-time:end -->
+<!-- lesson-plan:activity -->
+**Activity — 15 minutes:** Carry out "The Scale of Trust" activity as described in the activity unit, starting with the hands-on handful exercise.
 
-<!-- assessment:start -->
-Ask each participant to orally summarize two qualities of the people of the seventy thousand, and to state the lesson learned from Ukkasha's response.
-<!-- assessment:end -->
+<!-- lesson-plan:assessment -->
+**Assessment and Closing — 5 minutes:** Each learner is asked to name aloud one lawful means and one moment of trust in Allah from their own life, and their understanding is assessed by how clearly they distinguish between the two.
 
-<!-- differentiation:start -->
-For advanced learners: discuss the scholarly disagreement over the wording "la yarqun" in greater depth. For beginners: focus on the general meaning of tawakkul without entering the technical details of hadith scholarship.
-<!-- differentiation:end -->
+<!-- lesson-plan:differentiation -->
+**Differentiation:** For beginners, cover only the hadith of the seventy thousand and Ukkashah's response. For advanced learners, add a discussion of the full passage from Surah Ghafir and Ibn Kathir's commentary on it.
 
-<!-- safeguards:start -->
-Make clear that these hadith do not prohibit lawful ruqyah or permissible medical treatment, and that correct tawakkul coexists with taking proper means rather than abandoning them, to prevent any misunderstanding that might lead someone to abandon medicine or legitimate precautions.
-<!-- safeguards:end -->
+<!-- lesson-plan:safeguards -->
+**Teaching Cautions:** The teacher should take care not to turn the discussion of ruqyah and cauterization into a medical ruling or a blanket prohibition of either; the focus is on the attachment of the heart, not on whether they are permitted.
 
 <!-- lesson-plan:end -->
 
 <!-- lesson-plan:start audience="4-7" minutes="20" -->
 
-### Lesson Plan: Young Children (Ages 4-7)
+### Children Ages 4-7 — 20 Minutes
 
-<!-- outcomes:start -->
-- The child will recognize the name Ukkasha and what he did.
-- The child will repeat the phrase "I trust Allah" in their own words.
-<!-- outcomes:end -->
+<!-- lesson-plan:outcomes -->
+**Learning Outcomes:** The child says that the believing man trusted Allah and was not afraid, and tries out the exercise of the handful that can't be counted.
 
-<!-- materials:start -->
-A bowl of beans or large beads (age-appropriate and supervised to avoid swallowing hazards), simple pictures.
-<!-- materials:end -->
+<!-- lesson-plan:materials -->
+**Materials:** A small bowl of chickpeas or fava beans; the du'a card in clear handwriting.
 
-<!-- preparation:start -->
-Prepare the bowl and confirm the beans are size-appropriate for the children's ages, and read the simplified story to yourself beforehand so you can narrate it with liveliness.
-<!-- preparation:end -->
+<!-- lesson-plan:preparation -->
+**Preparation:** The caregiver prepares the bowl of beans and a clean spot for the handful exercise.
 
-<!-- opening:start -->
-Ask the child: "Have you ever asked for something quickly before it was too late?" Listen attentively to their answer.
-<!-- opening:end -->
+<!-- lesson-plan:opening -->
+**Opening — 3 minutes:** Ask the child: "Do you know who always keeps you safe, no matter what happens?"
 
-<!-- evidence-review:start -->
-Read a simplified portion of the hadith to the child in a calm, engaging voice.
-<!-- evidence-review:end -->
+<!-- lesson-plan:evidence -->
+**Reading the Story — 6 minutes:** Tell the story of the believing man in a lively voice, acting out how he stood bravely in front of his people.
 
-<!-- instruction:start -->
-Narrate Ukkasha's story in a simple storytelling style with an expressive face and an excited tone.
-<!-- instruction:end -->
+<!-- lesson-plan:instruction -->
+**Guided Instruction — 4 minutes:** The teacher says in simple words: Allah keeps safe the person who trusts Him alone.
 
-<!-- activity-time:start -->
-Carry out the "My Handful of Beans" activity and the "Who Hurries First?" game described above.
-<!-- activity-time:end -->
+<!-- lesson-plan:activity -->
+**Activity — 5 minutes:** The child does the "A Handful Beyond Counting" activity as described in the activity unit.
 
-<!-- assessment:start -->
-Ask the child to tell you the name of the Companion who hurried.
-<!-- assessment:end -->
+<!-- lesson-plan:assessment -->
+**Assessment and Closing — 2 minutes:** Notice whether the child is able to say "I trust Allah" after the exercise, then read the du'a.
 
-<!-- differentiation:start -->
-For the youngest: rely on the picture and oral story alone without a writing activity. For slightly older children (6-7): ask for a simple drawing of Ukkasha standing up quickly.
-<!-- differentiation:end -->
+<!-- lesson-plan:differentiation -->
+**Differentiation:** For the youngest children, the caregiver simply helps fully with scooping the handful and says the sentence of trust together with the child.
 
-<!-- safeguards:start -->
-Use large, safe beads under direct supervision to avoid any swallowing hazard. Do not introduce details about ruqyah or medical cauterization that might cause unnecessary fear in young children; keep the focus on the meaning of trusting Allah.
-<!-- safeguards:end -->
+<!-- lesson-plan:safeguards -->
+**Teaching Cautions:** Supervise the child while scooping small beans to prevent any choking hazard, and use large beans such as chickpeas rather than small grains.
 
 <!-- lesson-plan:end -->
 
-<!-- lesson-plan:start audience="8-12" minutes="30" -->
+<!-- lesson-plan:start audience="8-12" minutes="35" -->
 
-### Lesson Plan: Children (Ages 8-12)
+### Children Ages 8-12 — 35 Minutes
 
-<!-- outcomes:start -->
-- The child will narrate the story of the believing man and the story of Ukkasha in their own words.
-- The child will distinguish between correct tawakkul and abandoning proper means.
-- The child will write two practical situations in the Initiative Log.
-<!-- outcomes:end -->
+<!-- lesson-plan:outcomes -->
+**Learning Outcomes:** The student explains the meaning of `without reckoning`, *tawakkul*, and *tatayyur*, and writes about a real situation, turning it from pessimism into trust in Allah.
 
-<!-- materials:start -->
-A bowl of beans or beads, "Initiative Log" notebooks, pens.
-<!-- materials:end -->
+<!-- lesson-plan:materials -->
+**Materials:** Cards for the three terms; a bowl of grains or lentils; pages for the "Initiative and Trust Journal."
 
-<!-- preparation:start -->
-Prepare the bowl and notebooks, and prepare a simplified version of both stories for reading or narration.
-<!-- preparation:end -->
+<!-- lesson-plan:preparation -->
+**Preparation:** The caregiver reviews the three definitions in the terms unit in order to explain them clearly.
 
-<!-- opening:start -->
-Ask: "What is the largest number you can count quickly?" Then connect this to the idea of "without reckoning."
-<!-- opening:end -->
+<!-- lesson-plan:opening -->
+**Opening — 5 minutes:** Ask the children: "Have you ever been afraid of a certain number or day for no real reason?"
 
-<!-- evidence-review:start -->
-Read Imran ibn Husayn's hadith (Muslim 218a) and discuss the qualities mentioned in it.
-<!-- evidence-review:end -->
+<!-- lesson-plan:evidence -->
+**Studying the Evidence — 10 minutes:** Tell the full story of the believer from Pharaoh's people, then share the hadith of the seventy thousand and Ukkashah's response.
 
-<!-- instruction:start -->
-Narrate the story of the believing man from Pharaoh's household, then Ukkasha's story, and ask the children to compare the believing man's courage with Ukkasha's swiftness.
-<!-- instruction:end -->
+<!-- lesson-plan:instruction -->
+**Guided Instruction — 10 minutes:** The teacher discusses with the children: Why was it dangerous for the believing man to speak out openly? And what do we learn from Ukkashah's eagerness to ask for good?
 
-<!-- activity-time:start -->
-Carry out the "Initiative and Trust Log" activity described above.
-<!-- activity-time:end -->
+<!-- lesson-plan:activity -->
+**Activity — 7 minutes:** The students do "The Initiative and Trust Journal" activity as described in the activity unit, starting with the handful exercise.
 
-<!-- assessment:start -->
-Ask each child to name one quality of the people of the seventy thousand and give a practical example of it from their own life.
-<!-- assessment:end -->
+<!-- lesson-plan:assessment -->
+**Assessment and Closing — 3 minutes:** Assess the journal page by how clearly it turns the situation from pessimism into a sentence of trust in Allah, then read the du'a.
 
-<!-- differentiation:start -->
-For older children in this range: add a discussion of Sahl ibn Sa'd's hadith (Muslim 219) and the meaning of holding together. For younger children in this range: focus on Ukkasha's story alone with the handful activity.
-<!-- differentiation:end -->
+<!-- lesson-plan:differentiation -->
+**Differentiation:** For advanced students, add a discussion of the difference between using lawful means and not depending on them.
 
-<!-- safeguards:start -->
-Clarify that "not seeking ruqyah" does not mean avoiding a doctor or medicine, but rather avoiding excessive emotional dependence on anything besides Allah.
-<!-- safeguards:end -->
+<!-- lesson-plan:safeguards -->
+**Teaching Cautions:** Let each child choose what they share about their own experiences in front of others; no child should be made to reveal sensitive personal fears.
 
 <!-- lesson-plan:end -->
 
-<!-- lesson-plan:start audience="13+" minutes="40" -->
+<!-- lesson-plan:start audience="13+" minutes="45" -->
 
-### Lesson Plan: Teens (Ages 13+)
+### Teens, Ages 13+ — 45 Minutes
 
-<!-- outcomes:start -->
-- The learner will analyze the scholarly disagreement regarding the narrations of the seventy-thousand hadith.
-- The learner will connect the believing man's story to practical tawakkul in their own life.
-- The learner will carry out a weekly plan applying tawakkul (the Scale of Trust log).
-<!-- outcomes:end -->
+<!-- lesson-plan:outcomes -->
+**Learning Outcomes:** The teen analyzes the stand of the believer from Pharaoh's people as a model of trust in Allah under social pressure, identifies one modern form of *tatayyur* or excessive attachment, and commits to one practical step toward real trust in Allah.
 
-<!-- materials:start -->
-Copies of the four hadith and the ayat, personal journals, a simplified excerpt from Fath al-Bari if available.
-<!-- materials:end -->
+<!-- lesson-plan:materials -->
+**Materials:** A copy of the lesson; the three-column chart for the activity; cards for the terms.
 
-<!-- preparation:start -->
-Review the scholarly discussion regarding "la yarqun" in Fath al-Bari (11/408-409) so you can simplify it for learners.
-<!-- preparation:end -->
+<!-- lesson-plan:preparation -->
+**Preparation:** The teacher prepares for a discussion of modern forms of "luck" and horoscopes and how they connect to *tatayyur*, distinguishing between *tatayyur*, astrology, and amulets.
 
-<!-- opening:start -->
-Pose a challenge: "How can divine justice coexist with a favor that exceeds all reckoning?" Open the floor for free discussion before presenting the scriptural answer.
-<!-- opening:end -->
+<!-- lesson-plan:opening -->
+**Opening — 5 minutes:** Ask the teens: "What do your friends get attached to most these days, instead of trusting Allah?"
 
-<!-- evidence-review:start -->
-Present the four narrations (Bukhari 6541, Muslim 220a, Muslim 218a, Muslim 219) side by side, and discuss the points of variance among narrators and the agreement in meaning.
-<!-- evidence-review:end -->
+<!-- lesson-plan:evidence -->
+**Studying the Evidence — 12 minutes:** Read the full passage from Surah Ghafir, focusing on the moment of `and I entrust my affair to Allah`, then discuss the hadith of the seventy thousand and Ukkashah's response.
 
-<!-- instruction:start -->
-Explain the full Qur'anic story with its historical context, then discuss the scholarly disagreement between Ibn Taymiyyah and Ibn Hajar over the wording "la yarqun" as a model of hadith scholarship methodology.
-<!-- instruction:end -->
+<!-- lesson-plan:instruction -->
+**Guided Instruction — 10 minutes:** The teacher discusses the difference between entrusting one's affair to Allah (*tafwid*) and passive dependence that neglects the means, and how *tatayyur* appears in modern forms such as pessimism about numbers and days, along with the related attachment to horoscopes (astrology) and amulets.
 
-<!-- activity-time:start -->
-Carry out the "Scale of Trust" activity and begin the weekly log.
-<!-- activity-time:end -->
+<!-- lesson-plan:activity -->
+**Activity — 12 minutes:** The students do "The Scale of Trust" activity with the three-column chart, as described in the activity unit.
 
-<!-- assessment:start -->
-Ask for a short essay (half a page) explaining the relationship between tawakkul and taking proper means, citing two situations from the lesson.
-<!-- assessment:end -->
+<!-- lesson-plan:assessment -->
+**Assessment and Closing — 6 minutes:** After one week, the teacher follows up with the person each teen chose, to see whether the first step of trust in Allah was carried out.
 
-<!-- differentiation:start -->
-For academically advanced learners: direct them to read the full text of Fath al-Bari if accessible. For those needing simplification: present only the outcome of the disagreement without detailing each side's arguments.
-<!-- differentiation:end -->
+<!-- lesson-plan:differentiation -->
+**Differentiation:** Anyone who is hesitant to share their chart openly may write it privately and hand it to the teacher only.
 
-<!-- safeguards:start -->
-Avoid appearing to cast doubt on the authenticity of the hadith when presenting the scholarly disagreement over "la yarqun"; clarify that the disagreement concerns a single wording within a hadith whose meaning is firmly established, not the hadith's core authenticity. Emphasize that lawful ruqyah and medical treatment remain permissible.
-<!-- safeguards:end -->
+<!-- lesson-plan:safeguards -->
+**Teaching Cautions:** The teacher should take care not to pressure any teen to disclose sensitive social pressures in front of the group.
 
 <!-- lesson-plan:end -->
 
@@ -665,16 +523,7 @@ Avoid appearing to cast doubt on the authenticity of the hadith when presenting 
 
 ## References
 
-[^1]: Surah Ghafir, ayat 38-40: [quran.com/40/38-40](https://quran.com/40/38-40).
-[^2]: Ibn Kathir's tafsir of Surah Ghafir: [quran.ksu.edu.sa/tafseer/katheer/sura40-aya38.html](https://quran.ksu.edu.sa/tafseer/katheer/sura40-aya38.html).
-[^3]: Surah Ghafir, ayat 44-45: [quran.com/40/44-45](https://quran.com/40/44-45).
-[^4]: Sahih Muslim, no. 218a, narrated by Imran ibn Husayn, may Allah be pleased with him: [sunnah.com/muslim:218a](https://sunnah.com/muslim:218a).
-[^5]: Sahih Muslim, no. 219, narrated by Sahl ibn Sa'd, may Allah be pleased with him: [sunnah.com/muslim:219](https://sunnah.com/muslim:219).
-[^6]: Jami` at-Tirmidhi, no. 2437, narrated by Abu Umamah, may Allah be pleased with him, graded hasan: [sunnah.com/tirmidhi:2437](https://sunnah.com/tirmidhi:2437).
-[^7]: Sahih al-Bukhari, no. 6541, Book of Riqaq, narrated by Ibn Abbas, may Allah be pleased with them both: [sunnah.com/bukhari:6541](https://sunnah.com/bukhari:6541).
-[^8]: Sahih Muslim, no. 220a, narrated by Ibn Abbas, may Allah be pleased with them both, and Sahih al-Bukhari no. 5705 (Book of Medicine) with the same meaning together with Ukkasha's account: [sunnah.com/muslim:220a](https://sunnah.com/muslim:220a) | [sunnah.com/bukhari:5705](https://sunnah.com/bukhari:5705).
-[^9]: Ibn Hajar al-Asqalani, *Fath al-Bari*, commentary on the Book of Riqaq (11/408-409), as cited in: Ibn al-Qayyim, *Hadi al-Arwah ila Bilad al-Afrah*, Chapter 32.
-[^10]: Ibn al-Qayyim al-Jawziyyah, *Hadi al-Arwah ila Bilad al-Afrah*, Chapter 33, on the handfuls of the Lord, Blessed and Exalted, by which He admits people into Paradise.
-[^11]: Umar Sulayman al-Ashqar, *al-Jannah wa an-Nar*, Fourth Discussion: Those Who Enter Paradise Without Reckoning.
+[^1]: The Noble Qur'an, Surah Ghafir, ayat 38-45: [Qur'anic text](https://quran.com/40/38-45). The English rendering in this lesson is a meaning-based project translation.
+[^2]: Sahih Muslim, hadith 218a (through Muhammad ibn Sirin) and 218b (through al-Hakam ibn al-A'raj, which contains the wording "and they do not take bad omens"), both narrated by Imran ibn Husayn, may Allah be pleased with him and his father; authentic (*sahih*). In the narration of Abu Hurayrah, may Allah be pleased with him, in Sahih Muslim (216, through Sa'id ibn al-Musayyab), the second man is "a man from the Ansar." The scholars' views on the meaning of "Ukkashah has beaten you to it" are in Ibn Hajar's *Fath al-Bari*, Book of Softening Hearts (*Kitab al-Riqaq*), Chapter: Seventy Thousand Will Enter Jannah Without Reckoning: [Sunnah.com, narration muslim:218a](https://sunnah.com/muslim:218a), and [narration muslim:218b](https://sunnah.com/muslim:218b). The English rendering in this lesson is a meaning-based project translation.
 
 <!-- references:end -->

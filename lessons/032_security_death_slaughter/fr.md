@@ -59,7 +59,7 @@ Elle prolonge la leçon précédente de cette série, consacrée à l'éternité
 
 #### Interprétation Savante
 
-Dans la version de Muslim, on lit : « on la fera se tenir entre la Jannah et le Feu », puis « on ordonnera qu'elle soit immolée, et elle le sera », et, à la fin : « et il fit de la main un geste vers ce bas monde ».[^1] *Amlah* qualifie un animal dont le blanc est mêlé de noir — ce que le français appelle un bélier « pie » —, et *yashra'ibbun* signifie qu'ils tendent le cou et lèvent la tête pour mieux voir.[^6] Ibn al-Qayyim, qu'Allah lui fasse miséricorde, a établi que cette scène est une réalité et non une allégorie : Allah a le pouvoir de donner à la mort la forme d'un bélier que l'on voit et que l'on immole, de même qu'il nous a été rapporté que les sourates al-Baqarah et Al 'Imran viendront au Jour de la Résurrection comme deux nuées.[^6] Et Ibn Kathir, qu'Allah lui fasse miséricorde, a expliqué « lorsque tout aura été tranché » en ces termes : les gens de la Jannah ont été séparés des gens du Feu, et chacun est entré dans la demeure qui est désormais la sienne, pour y demeurer éternellement.[^4]
+Dans la version de Muslim, on lit : « on la fera se tenir entre la Jannah et le Feu », puis « on ordonnera qu'elle soit immolée, et elle le sera », et, à la fin : « et il fit de la main un geste vers ce bas monde ».[^1] *Amlah* qualifie un animal dont le blanc est mêlé de noir — ce que le français appelle un bélier « pie » —, et *yashra'ibbun* signifie qu'ils tendent le cou et lèvent la tête pour mieux voir.[^6] Ibn al-Qayyim, qu'Allah lui fasse miséricorde, a établi que cette scène est une réalité et non une allégorie : Allah a le pouvoir de donner à la mort la forme d'un bélier que l'on voit et que l'on immole, de même que le Prophète, paix et bénédictions sur lui, nous a appris que les sourates al-Baqarah et Al 'Imran viendront au Jour de la Résurrection comme deux nuées.[^6] Et Ibn Kathir, qu'Allah lui fasse miséricorde, a expliqué « lorsque tout aura été tranché » en ces termes : les gens de la Jannah ont été séparés des gens du Feu, et chacun est entré dans la demeure qui est désormais la sienne, pour y demeurer éternellement.[^4]
 
 #### Explication De La Leçon
 
@@ -182,7 +182,7 @@ Et voilà qu'on entend un appel : « Ô gens de la Jannah ! » Alors ils lè
 
 On amène la mort, sous la forme d'un bélier, blanc avec du noir. On leur demande : « Est-ce que vous reconnaissez ceci ? » Et ils répondent : « Oui, c'est la mort. » Tout le monde la reconnaît. On appelle aussi les gens du Feu, et eux aussi la reconnaissent.
 
-Puis, sur l'ordre d'Allah, la mort est immolée. Cela veut dire que la mort elle-même prend fin, et qu'elle ne reviendra plus jamais.
+Puis l'ordre est donné, et la mort est immolée. Cela veut dire que la mort elle-même prend fin, et qu'elle ne reviendra plus jamais.
 
 Puis on entend : « Ô gens de la Jannah, pour toujours, et plus jamais de mort ! » Cela veut dire : « Vous resterez ici toujours, toujours, et vous ne mourrez jamais. » Alors les gens de la Jannah sont encore plus heureux qu'avant : leur joie grandit encore.[^2]
 
@@ -580,7 +580,7 @@ Sens : « Ô Allah, fais-nous entrer dans la Jannah en pleine sécurité, acco
 [^3]: Le Noble Coran, sourate al-Hijr, versets 45 à 48 : [quran.com/15/45-48](https://quran.com/15/45-48). La traduction française proposée dans cette leçon est une traduction du sens propre au projet.
 [^4]: Ibn Kathir, *Tafsir al-Qur'an al-'Azim*, commentaire de la sourate Maryam, verset 39 : [quran.ksu.edu.sa/tafseer/katheer/sura19-aya39.html](https://quran.ksu.edu.sa/tafseer/katheer/sura19-aya39.html).
 [^5]: As-Sa'di, *Taysir al-Karim ar-Rahman*, commentaire de la sourate al-Hijr, versets 46 et 48 : [quran.ksu.edu.sa/tafseer/saadi/sura15-aya46.html](https://quran.ksu.edu.sa/tafseer/saadi/sura15-aya46.html) et [quran.ksu.edu.sa/tafseer/saadi/sura15-aya48.html](https://quran.ksu.edu.sa/tafseer/saadi/sura15-aya48.html).
-[^6]: Ibn Qayyim al-Jawziyyah, *Hadi al-Arwah ila Bilad al-Afrah*, chapitre soixante-neuf, section sur l'immolation de la mort entre la Jannah et le Feu (éd. 'Ata'at al-'Ilm, p. 813-816), avec la note de l'éditeur sur le sens de *yashra'ibbun* : [shamela.ws/book/13652/865](https://shamela.ws/book/13652/865) ; sur le sens d'*amlah* (ce qui mêle le blanc et le noir), voir : an-Nawawi, *al-Minhaj Sharh Sahih Muslim*, commentaire du hadith 2849.
+[^6]: Ibn Qayyim al-Jawziyyah, *Hadi al-Arwah ila Bilad al-Afrah*, chapitre soixante-neuf, section sur l'immolation de la mort entre la Jannah et le Feu (éd. 'Ata'at al-'Ilm, p. 813-816), avec la note de l'éditeur, citant le copiste du manuscrit A d'après *al-Matali'*, sur le sens de *yashra'ibbun* : [shamela.ws/book/13652/865](https://shamela.ws/book/13652/865) ; sur le sens d'*amlah* (ce qui mêle le blanc et le noir), voir : an-Nawawi, *al-Minhaj Sharh Sahih Muslim*, commentaire du hadith 2849.
 [^7]: As-Sa'di, *Taysir al-Karim ar-Rahman*, commentaire de la sourate Maryam, versets 39 et 40 : [quran.ksu.edu.sa/tafseer/saadi/sura19-aya39.html](https://quran.ksu.edu.sa/tafseer/saadi/sura19-aya39.html).
 [^8]: Le Noble Coran, sourate Maryam, versets 39 et 40 : [quran.com/19/39-40](https://quran.com/19/39-40). La traduction française proposée dans cette leçon est une traduction du sens propre au projet.
 

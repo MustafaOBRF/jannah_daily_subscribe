@@ -33,7 +33,7 @@ Después de esta lección, el aprendiz será capaz de:
 
 <!-- unit:start id="adults.explanation" kind="explanation" -->
 
-Mucha gente se imagina la entrada en el Paraíso como un instante: se abre una puerta y uno pasa. Los textos auténticos, sin embargo, dibujan un camino con etapas ordenadas. Primero, la llegada al Fuego (al-wurud), de la que nadie queda exceptuado; después, la salvación de los temerosos de Allah. Luego, quienes se han salvado quedan detenidos sobre un puente entre el Paraíso y el Fuego, y allí se saldan las injusticias que hubo entre ellos hasta que quedan depurados y limpios. A continuación son conducidos al Paraíso en grupos, según sus rangos, y una multitud inmensa de ellos entra tomada unos de otros.
+Mucha gente se imagina la entrada en el Paraíso como un instante: se abre una puerta y uno pasa. Los textos auténticos, sin embargo, dibujan un camino con etapas ordenadas. Primero, la llegada (al-wurud), de la que nadie queda exceptuado; después, la salvación de los temerosos de Allah. Luego, quienes se han salvado quedan detenidos sobre un puente entre el Paraíso y el Fuego, y allí se saldan las injusticias que hubo entre ellos hasta que quedan depurados y limpios. A continuación son conducidos al Paraíso en grupos, según sus rangos, y una multitud inmensa de ellos entra tomada unos de otros.
 
 Esta lección se detiene solo en esas etapas. Que el Profeta, la paz y las bendiciones de Allah sean con él, sea el primero en llegar a la puerta del Paraíso ya se vio en la lección sobre los que se adelantan; el saludo de los guardianes y de los ángeles, las llamadas y buenas nuevas del Paraíso, la seguridad eterna y el sacrificio de la muerte tienen cada uno su propia lección más adelante. Y la extracción del rencor de los pechos queda como tema aparte, que llegará después.
 
@@ -47,7 +47,7 @@ La pregunta práctica que deja la lección es esta: si las injusticias entre cre
 
 <!-- evidence:start id="muslim-2496" kind="hadith" mode="canonical" -->
 
-### El hadiz de Umm Mubashshir: Hafsa pregunta por la llegada al Fuego
+### El hadiz de Umm Mubashshir: Hafsa pregunta por la llegada (al-wurud)
 
 > عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ رضي الله عنهما، قَالَ: أَخْبَرَتْنِي أُمُّ مُبَشِّرٍ، أَنَّهَا سَمِعَتِ النَّبِيَّ صلى الله عليه وسلم يَقُولُ عِنْدَ حَفْصَةَ: **«لَا يَدْخُلُ النَّارَ إِنْ شَاءَ اللَّهُ مِنْ أَصْحَابِ الشَّجَرَةِ أَحَدٌ، الَّذِينَ بَايَعُوا تَحْتَهَا»**. قَالَتْ: بَلَى يَا رَسُولَ اللَّهِ. فَانْتَهَرَهَا، فَقَالَتْ حَفْصَةُ: {وَإِنْ مِنْكُمْ إِلَّا وَارِدُهَا}. فَقَالَ النَّبِيُّ صلى الله عليه وسلم: **«قَدْ قَالَ اللَّهُ عَزَّ وَجَلَّ: {ثُمَّ نُنَجِّي الَّذِينَ اتَّقَوْا وَنَذَرُ الظَّالِمِينَ فِيهَا جِثِيًّا}»**.[^1]
 
@@ -55,7 +55,7 @@ La pregunta práctica que deja la lección es esta: si las injusticias entre cre
 
 #### Traducción al español
 
-> De Yabir ibn Abd Allah, que Allah esté complacido con ambos, que dijo: Me contó Umm Mubashshir que oyó al Profeta, la paz y las bendiciones de Allah sean con él, decir en casa de Hafsa: **«No entrará en el Fuego, si Allah quiere, ninguno de los compañeros del árbol, los que juraron fidelidad bajo él»**. Ella dijo: «¡Claro que sí, oh Mensajero de Allah!». Él la reprendió con firmeza, y Hafsa dijo: {No hay ninguno de ustedes que no vaya a llegar a él}. Entonces el Profeta, la paz y las bendiciones de Allah sean con él, dijo: **«Allah, Poderoso y Majestuoso, ya ha dicho: {Luego salvaremos a quienes fueron temerosos de Allah y dejaremos en él a los injustos, postrados de rodillas}»**.[^1]
+> De Yabir ibn Abd Allah, que Allah esté complacido con ambos, que dijo: Me contó Umm Mubashshir que oyó al Profeta, la paz y las bendiciones de Allah sean con él, decir en presencia de Hafsa: **«No entrará en el Fuego, si Allah quiere, ninguno de los compañeros del árbol, los que juraron fidelidad bajo él»**. Ella dijo: «¡Claro que sí, oh Mensajero de Allah!». Él la reprendió con firmeza, y Hafsa dijo: {No hay ninguno de ustedes que no vaya a llegar a él}. Entonces el Profeta, la paz y las bendiciones de Allah sean con él, dijo: **«Allah, Poderoso y Majestuoso, ya ha dicho: {Luego salvaremos a quienes fueron temerosos de Allah y dejaremos en él a los injustos, postrados de rodillas}»**.[^1]
 
 #### Interpretación académica
 
@@ -125,7 +125,7 @@ Son creyentes que ya se han salvado y, aun así, no entran hasta que se saldan l
 
 #### Interpretación académica
 
-`Fal-yatahallalhu` significa que le pida que lo dé por libre de esa deuda (que lo deje "en hil"), ya sea devolviéndole su derecho o pidiéndole que lo perdone. `Min 'irdihi` ("en su honra") abarca la murmuración, la burla y la difamación; y `aw shay'` ("o en cualquier otra cosa") abarca el dinero, los objetos y el resto de los derechos.
+`Fal-yatahallalhu` significa que le pida que lo dé por libre de esa deuda, ya sea devolviéndole su derecho o pidiéndole que lo perdone. `Min 'irdihi` ("en su honra") abarca la murmuración, la burla y la difamación; y `aw shay'` ("o en cualquier otra cosa") abarca el dinero, los objetos y el resto de los derechos.
 
 #### Explicación de la lección
 
@@ -227,7 +227,7 @@ Repasa en un cuaderno personal cuatro tipos de derechos: una deuda o un depósit
 
 <!-- retelling:start source_id="muslim-2496" audience="4-7" -->
 
-El Profeta, la paz y las bendiciones de Allah sean con él, estaba en casa de su esposa Hafsa, que Allah esté complacido con ella. Allí había también una mujer de los ansar que se llamaba Umm Mubashshir, y ella lo oyó decir, hablando de los Compañeros que le habían prometido fidelidad debajo de un árbol: "Ninguno de ellos entrará en el Fuego, si Allah quiere".
+El Profeta, la paz y las bendiciones de Allah sean con él, estaba con su esposa Hafsa, que Allah esté complacido con ella. Allí había también una mujer de los ansar que se llamaba Umm Mubashshir, y ella lo oyó decir, hablando de los Compañeros que le habían prometido fidelidad debajo de un árbol: "Ninguno de ellos entrará en el Fuego, si Allah quiere".
 
 Hafsa dijo: "¡Claro que sí, oh Mensajero de Allah!". El Profeta, la paz y las bendiciones de Allah sean con él, la reprendió, es decir, le habló con firmeza. Entonces Hafsa dijo: "Pero Allah dice: {No hay ninguno de ustedes que no vaya a llegar a él}", o sea, que todas las personas pasarán por allí.
 
@@ -245,7 +245,7 @@ Hafsa quería entender, por eso preguntó con una aleya del Corán, y el Profeta
 
 ### Preguntas cortas
 
-1. ¿En casa de quién estaba el Profeta, la paz y las bendiciones de Allah sean con él?
+1. ¿Con quién estaba el Profeta, la paz y las bendiciones de Allah sean con él?
 2. ¿Con qué preguntó Hafsa? ¿Con el Corán o con algo que pensó ella?
 3. ¿A quiénes salva Allah?
 4. ¿Por qué se paran un ratito los creyentes antes de entrar en el Paraíso?
@@ -306,7 +306,7 @@ Y lo mejor es que el Profeta, la paz y las bendiciones de Allah sean con él, no
 
 <!-- terminology:start source_id="muslim-2496" -->
 
-- **`La llegada (al-wurud)`** — el paso sobre el Sirat, el puente tendido sobre Yahannam, según lo que los sabios consideraron más acertado al explicar la aleya.[^7]
+- **`La llegada (al-wurud)`** — el paso sobre el Sirat, el puente tendido sobre Yahannam, según lo que muchos sabios consideraron más acertado al explicar la aleya.[^7]
 - **`Los compañeros del árbol (ashab ash-shayara)`** — los Compañeros que juraron fidelidad al Profeta, la paz y las bendiciones de Allah sean con él, bajo el árbol el día de al-Hudaibiya.
 - **`El puente (al-qantara)`** — un puente o lugar elevado entre el Paraíso y el Fuego donde los creyentes quedan detenidos antes de entrar.
 - **`La injusticia (al-madlama)`** — un derecho de otra persona que le quitaste injustamente, ya sea dinero o una palabra hiriente.
@@ -317,7 +317,7 @@ Y lo mejor es que el Profeta, la paz y las bendiciones de Allah sean con él, no
 
 <!-- unit:start id="8-12.primary-story" kind="primary_story" -->
 
-### Una historia verdadera: una pregunta en casa de Hafsa
+### Una historia verdadera: una pregunta en presencia de Hafsa
 
 <!-- story:start audience="8-12" role="primary" type="prophetic_era" source_id="muslim-2496" authenticated="true" -->
 
@@ -325,7 +325,7 @@ Y lo mejor es que el Profeta, la paz y las bendiciones de Allah sean con él, no
 
 <!-- retelling:start source_id="muslim-2496" audience="8-12" -->
 
-En casa de la madre de los creyentes Hafsa, hija de Umar, que Allah esté complacido con ambos, se encontraba una mujer de los ansar llamada Umm Mubashshir. Allí oyó al Profeta, la paz y las bendiciones de Allah sean con él, decir: **«No entrará en el Fuego, si Allah quiere, ninguno de los compañeros del árbol, los que juraron fidelidad bajo él»**. Los compañeros del árbol son quienes le juraron fidelidad el día de al-Hudaibiya.
+Junto a la madre de los creyentes Hafsa, hija de Umar, que Allah esté complacido con ambos, se encontraba una mujer de los ansar llamada Umm Mubashshir. Allí oyó al Profeta, la paz y las bendiciones de Allah sean con él, decir: **«No entrará en el Fuego, si Allah quiere, ninguno de los compañeros del árbol, los que juraron fidelidad bajo él»**. Los compañeros del árbol son quienes le juraron fidelidad el día de al-Hudaibiya.
 
 Hafsa tenía en mente una aleya que le parecía decir otra cosa, así que dijo: "¡Claro que sí, oh Mensajero de Allah!". El Profeta, la paz y las bendiciones de Allah sean con él, la reprendió, es decir, la llamó al orden con firmeza. Pero ella no dio una opinión propia, sino que recitó: {No hay ninguno de ustedes que no vaya a llegar a él}; la aleya dice que todos llegarán allí.
 
@@ -389,9 +389,9 @@ Haz una "tarjeta del puente" con tres tablones: (1) **¿Qué debo?** Un derecho 
 
 <!-- unit:start id="13+.explanation" kind="explanation" -->
 
-En la cultura de lo instantáneo nos imaginamos el Paraíso como una puerta que se cruza con solo pulsar un botón. Pero la revelación describe un camino: una llegada de la que nadie queda exceptuado, y luego la salvación de los temerosos de Allah.[^2] Después, un puente sobre el que quedan detenidos los creyentes que se han salvado, para que se salden las injusticias entre ellos hasta quedar limpios y depurados; y solo entonces reciben permiso para entrar.[^3] Luego son conducidos en grupos, cada uno con quienes se le parecen en sus obras,[^5] y una multitud inmensa de ellos entra unida, tomados unos de la mano de otros, con rostros como la luna llena.[^6]
+En la cultura de lo instantáneo nos imaginamos el Paraíso como una puerta que se cruza con solo tocar un botón. Pero la revelación describe un camino: una llegada de la que nadie queda exceptuado, y luego la salvación de los temerosos de Allah.[^2] Después, un puente sobre el que quedan detenidos los creyentes que se han salvado, para que se salden las injusticias entre ellos hasta quedar limpios y depurados; y solo entonces reciben permiso para entrar.[^3] Luego son conducidos en grupos, cada uno con quienes se le parecen en sus obras,[^5] y una multitud inmensa de ellos entra unida, tomados unos de la mano de otros, con rostros como la luna llena.[^6]
 
-Fíjate en la paradoja: ni siquiera quienes ya han cruzado el Sirat entran mientras tengan cuentas pendientes entre ellos. Por eso dijo el Profeta, la paz y las bendiciones de Allah sean con él: quien haya cometido una injusticia contra alguien, en su honra o en cualquier otra cosa, que obtenga hoy su perdón, antes de que no haya dinar ni dírham, sino buenas obras que se le quitan o malas acciones que se le cargan.[^4] Y las injusticias de hoy no son solo de dinero: un comentario sarcástico, una captura de pantalla compartida, un bulo reenviado.
+Fíjate en la paradoja: ni siquiera quienes ya han cruzado el Sirat entran mientras tengan cuentas pendientes entre ellos. Por eso dijo el Profeta, la paz y las bendiciones de Allah sean con él: quien haya cometido una injusticia contra alguien, en su honra o en cualquier otra cosa, que obtenga hoy su perdón, antes de que no haya dinar ni dírham, sino buenas obras que se le quitan o malas acciones que se le cargan.[^4] Y las injusticias de hoy no son solo de dinero: un comentario sarcástico, una captura de pantalla compartida, un rumor falso reenviado.
 
 <!-- unit:end -->
 
@@ -417,9 +417,9 @@ Fíjate en la paradoja: ni siquiera quienes ya han cruzado el Sirat entran mient
 
 <!-- retelling:start source_id="muslim-2496" audience="13+" -->
 
-El lugar: la casa de la madre de los creyentes Hafsa, hija de Umar. La testigo: una mujer de los ansar, Umm Mubashshir, que oyó al Profeta, la paz y las bendiciones de Allah sean con él, decir de quienes le juraron fidelidad bajo el árbol el día de al-Hudaibiya: **«No entrará en el Fuego, si Allah quiere, ninguno de los compañeros del árbol, los que juraron fidelidad bajo él»**.
+La reunión: junto a la madre de los creyentes Hafsa, hija de Umar. La testigo: una mujer de los ansar, Umm Mubashshir, que oyó al Profeta, la paz y las bendiciones de Allah sean con él, decir de quienes le juraron fidelidad bajo el árbol el día de al-Hudaibiya: **«No entrará en el Fuego, si Allah quiere, ninguno de los compañeros del árbol, los que juraron fidelidad bajo él»**.
 
-Hafsa dijo: "¡Claro que sí, oh Mensajero de Allah!". Y él la reprendió. No era un momento fácil, pero ella ni se echó atrás ni se obstinó; presentó lo que tenía en mente como una prueba, no como una opinión: {No hay ninguno de ustedes que no vaya a llegar a él}.
+Hafsa dijo: "¡Claro que sí, oh Mensajero de Allah!". Y él la reprendió. Aun así, ella presentó su prueba del Corán, no una opinión propia: {No hay ninguno de ustedes que no vaya a llegar a él}.
 
 Y la respuesta llegó del mismo lugar del Mushaf: **«Allah, Poderoso y Majestuoso, ya ha dicho: {Luego salvaremos a quienes fueron temerosos de Allah y dejaremos en él a los injustos, postrados de rodillas}»**.[^1]
 
@@ -449,7 +449,7 @@ An-Nawawi explicó que el "si Allah quiere" se dijo para buscar la bendición, n
 
 <!-- activity:start audience="13+" concept_id="lesson.029.activity.settle-it-before-the-bridge" -->
 
-Abre una página personal con tres columnas: "El derecho que debo", "Cómo voy a obtener el perdón" y "Fecha". Revisa a la vez tu vida real y tu mundo digital: algo prestado, una pequeña cantidad de dinero, un comentario sarcástico, una foto que publicaste sin permiso, un bulo que compartiste. Elige uno y resuélvelo en las próximas 72 horas: borra lo que publicaste, devuelve lo que tomaste o discúlpate directamente, con una frase sin excusas. No contactes con alguien que te hace daño o con quien no te sientes seguro; consulta a tu padre, a tu madre o a un profesor de confianza. Cuando lo hayas hecho, escribe en la página una sola palabra, "Saldado", y luego una línea sobre lo que ha cambiado dentro de ti.
+Abre una página personal con tres columnas: "El derecho que debo", "Cómo voy a obtener el perdón" y "Fecha". Revisa a la vez tu vida real y tu mundo digital: algo prestado, una pequeña cantidad de dinero, un comentario sarcástico, una foto que publicaste sin permiso, un rumor falso que compartiste. Elige uno y resuélvelo en las próximas 72 horas: borra lo que publicaste, devuelve lo que tomaste o discúlpate directamente, con una frase sin excusas. No te comuniques con alguien que te hace daño ni con alguien con quien no te sientes seguro; consulta a tu padre, a tu madre o a un profesor de confianza. Cuando lo hayas hecho, escribe en la página una sola palabra, "Saldado", y luego una línea sobre lo que ha cambiado dentro de ti.
 
 <!-- activity:end -->
 
@@ -506,7 +506,7 @@ Abre una página personal con tres columnas: "El derecho que debo", "Cómo voy a
 **Evaluación y cierre — 10 minutos:** tarjeta de salida: (1) ordena las cuatro etapas con una evidencia para cada una; (2) ¿qué significa al-wurud según lo que an-Nawawi consideró más acertado?; (3) escribe la fecha que fijaste para saldar el derecho. Se cierra con una pregunta para el siguiente encuentro: «¿Quedó saldado?».
 
 <!-- lesson-plan:differentiation -->
-**Diferenciación:** para los principiantes basta con el hadiz de Umm Mubashshir, el hadiz del puente y el hadiz de obtener el perdón. A los más avanzados se les pide leer la versión de al-Bujari 6535 del mismo hadiz y comparar sus palabras con las de la versión 2440, y revisar lo que Ibn al-Qayyim menciona en *Hadi al-Arwah* sobre cómo entra la gente del Paraíso.
+**Diferenciación:** para los principiantes basta con el hadiz de Umm Mubashshir, el hadiz del puente y el hadiz de obtener el perdón. A los más avanzados se les pide leer la versión de al-Bujari 6535 del mismo hadiz y comparar sus palabras con las de la versión 2440, y revisar el capítulo 38 de *Hadi al-Arwah* de Ibn al-Qayyim: «Sobre cómo entran en el Paraíso y lo que encuentran al entrar».
 
 <!-- lesson-plan:safeguards -->
 **Advertencias pedagógicas:** no se describen el Sirat ni el Fuego con detalles aterradores que no aparecen en los textos de la lección. A nadie se le pide que confiese en público una injusticia. Se advierte que devolver los derechos no significa ponerse en contacto con una persona dañina o peligrosa, y que las cuestiones difíciles sobre cómo obtener el perdón se consultan con las personas de conocimiento.
@@ -596,7 +596,7 @@ Abre una página personal con tres columnas: "El derecho que debo", "Cómo voy a
 **Materiales:** el texto del hadiz de Umm Mubashshir y de los hadices del puente y de obtener el perdón, tomado de la sección académica; las dos aleyas de Maryam; una página con tres columnas; cuadernos personales.
 
 <!-- lesson-plan:preparation -->
-**Preparación:** el docente prepara tres ejemplos neutros de injusticias digitales (un comentario sarcástico, una foto sin permiso, un bulo), repasa el comentario de an-Nawawi sobre el hadiz y prepara una respuesta serena a una posible pregunta sobre el miedo al Sirat.
+**Preparación:** el docente prepara tres ejemplos neutros de injusticias digitales (un comentario sarcástico, una foto sin permiso, un rumor falso), repasa el comentario de an-Nawawi sobre el hadiz y prepara una respuesta serena a una posible pregunta sobre el miedo al Sirat.
 
 <!-- lesson-plan:opening -->
 **Apertura — 5 minutos:** el docente pregunta: «¿Alguna vez han oído algo sobre la religión y han sentido que contradecía una aleya? ¿Qué hicieron?».
@@ -617,7 +617,7 @@ Abre una página personal con tres columnas: "El derecho que debo", "Cómo voy a
 **Diferenciación:** a quienes tengan dificultades les basta con el hadiz de Umm Mubashshir y el hadiz de obtener el perdón. A los más avanzados se les encarga una presentación breve sobre el Juramento de la Complacencia y su motivo, a partir de los libros de la Sira.
 
 <!-- lesson-plan:safeguards -->
-**Advertencias pedagógicas:** las páginas son personales y el docente no las recoge. Se advierte que no hay que contactar con una persona dañina o con quien uno no se siente seguro, y que conviene implicar a un padre, una madre o un profesor de confianza cuando haga falta. Y no se exagera el miedo al Sirat: la propia aleya anuncia la salvación de los temerosos de Allah.
+**Advertencias pedagógicas:** las páginas son personales y el docente no las recoge. Se advierte que no hay que comunicarse con una persona dañina ni con alguien con quien uno no se siente seguro, y que conviene implicar a un padre, una madre o un profesor de confianza cuando haga falta. Y no se exagera el miedo al Sirat: la propia aleya anuncia la salvación de los temerosos de Allah.
 
 <!-- lesson-plan:end -->
 

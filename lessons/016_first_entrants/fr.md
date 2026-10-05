@@ -1,5 +1,5 @@
 ---
-title: "Les Devanciers et les Premiers à Entrer en Jannah"
+title: "Les Devanciers et les Premiers à Entrer dans la Jannah"
 lesson_id: "lesson.016"
 topic_id: "jannah.016"
 translation_key: "jannah.first_entrants"
@@ -15,7 +15,7 @@ activity_concept_id: "lesson.016.activity.quiet-foremost-log"
 bedtime_dua_id: "lesson.016.dua.make-us-foremost"
 ---
 
-# Les Devanciers et les Premiers à Entrer en Jannah
+# Les Devanciers et les Premiers à Entrer dans la Jannah
 
 ## Objectifs et résultats de la leçon
 
@@ -23,7 +23,7 @@ Après cette leçon, l'apprenant sera capable de :
 
 - Réciter la parole d'Allah `وَالسَّابِقُونَ السَّابِقُونَ * أُولَـٰئِكَ الْمُقَرَّبُونَ` — « Et les devanciers, les devanciers, ceux-là sont les rapprochés [d'Allah] » (al-Waqi'ah 56:10-11) — et expliquer que le devancement visé ici est un devancement dans l'obéissance et la sincérité, non dans la célébrité ou la visibilité.
 - Raconter le hadith « Je suis le premier à frapper à la porte de la Jannah » et expliquer sa signification quant au rang du Prophète ﷺ parmi les prophètes et au sein de sa communauté le Jour de la Résurrection.
-- Raconter le hadith d'at-Tirmidhi sur les trois premiers à entrer en Jannah, en nommant les trois catégories et en décrivant chacune avec précision : le martyr, l'homme chaste qui se retient, et le serviteur bienfaisant et loyal.
+- Raconter le hadith d'at-Tirmidhi sur les trois premiers à entrer dans la Jannah, en nommant les trois catégories et en décrivant chacune avec précision : le martyr, l'homme chaste qui se retient, et le serviteur bienfaisant et loyal.
 - Distinguer entre mesurer le devancement vers la Jannah à l'aune de la visibilité ou de la célébrité, et le mesurer, comme il se doit, à la sincérité et à l'excellence de l'acte, même caché et vu de personne.
 - Relier les histoires pédagogiques de la leçon aux trois preuves, et appliquer le sens du « devancement discret » à des situations personnelles de la vie quotidienne.
 - Réaliser l'activité du « Carnet du devancement discret » pour consigner un acte sincère non accompli pour être vu, et le relier à l'une des trois preuves.
@@ -36,7 +36,7 @@ Après cette leçon, l'apprenant sera capable de :
 
 Beaucoup de gens pensent que le « devancement » se mesure à ce que les autres peuvent voir : qui occupe le devant de la scène, qui reçoit des éloges publics, qui se voit attribuer de grandes réalisations visibles. Mais le Coran propose une autre balance pour le devancement, en disant : `وَالسَّابِقُونَ السَّابِقُونَ * أُولَـٰئِكَ الْمُقَرَّبُونَ`. Les véritables devanciers sont ceux qui ont devancé les autres dans l'obéissance à Allah et la sincérité de l'action, que les gens les aient vus ou non.
 
-Le plus grand exemple de ce devancement est le Prophète ﷺ lui-même, qui nous a informés qu'il est **le premier à frapper à la porte de la Jannah** le Jour de la Résurrection, honoré pour avoir été le premier dans la foi, dans l'appel à Allah et dans la patience. Puis un autre hadith vient montrer que ce devancement n'est pas réservé aux prophètes ni aux célèbres, mais qu'il est atteint par des gens ordinaires que personne ne connaît peut-être : il fut montré au Prophète ﷺ que les trois premiers à entrer en Jannah sont un martyr qui a donné sa vie, une personne chaste qui s'est abstenue de l'illicite malgré son besoin, et un serviteur qui s'est acquitté de sa confiance avec excellence et sincérité.
+Le plus grand exemple de ce devancement est le Prophète ﷺ lui-même, qui nous a informés qu'il est **le premier à frapper à la porte de la Jannah** le Jour de la Résurrection, un honneur venu d'Allah ; il avait été le premier des hommes dans la foi, dans l'appel à Allah et dans la patience. Puis un autre hadith vient montrer que ce devancement n'est pas réservé aux prophètes ni aux célèbres, mais qu'il est atteint par des gens ordinaires de sa communauté que personne ne connaît peut-être : il fut montré au Prophète ﷺ les trois premiers à entrer dans la Jannah : un martyr qui a donné sa vie, une personne chaste qui s'est abstenue de l'illicite malgré son besoin, et un esclave qui a bien adoré son Seigneur et a été loyal envers ses maîtres.
 
 Cette compréhension corrige deux dérives opposées dans la façon de voir le mérite et le devancement :
 
@@ -65,11 +65,11 @@ Ibn Kathîr cite, dans son tafsir de ce verset, les avis des premières généra
 
 #### Explication de la leçon
 
-Le verset répète le mot « les devanciers » deux fois pour insister sur le fait que ce qui compte est la réalité du devancement, non sa simple prétention, et il relie ce devancement directement à la proximité d'Allah, non à la mesure dans laquelle les gens voient l'acte de son auteur. Le devancement loué dans le verset est un devancement dans l'obéissance sincère — un critère ouvert à tout croyant sincère, non seulement à celui dont les actes sont devenus célèbres.
+La répétition de « les devanciers » signifie : ceux qui devancent ici-bas vers le bien sont ceux qui devancent vers les Jardins dans l'au-delà, comme l'a dit as-Sa'di.[^5] Le verset relie ce devancement à la proximité d'Allah, non à la mesure dans laquelle les gens voient l'acte de son auteur. Le devancement loué dans le verset est un devancement dans l'obéissance sincère — un critère ouvert à tout croyant sincère, non seulement à celui dont les actes sont devenus célèbres.
 
 <!-- evidence:end -->
 
-<!-- evidence:start id="muslim-197" kind="hadith" mode="canonical" -->
+<!-- evidence:start id="muslim-196b" kind="hadith" mode="canonical" -->
 
 ### Je Suis le Premier à Frapper à la Porte de la Jannah
 
@@ -79,29 +79,29 @@ Le verset répète le mot « les devanciers » deux fois pour insister sur le fa
 
 #### Interprétation savante
 
-Le Prophète ﷺ nous a informés qu'il détient deux grandes préséances le Jour de la Résurrection : avoir le plus grand nombre de disciples parmi les prophètes, et être le premier à frapper à la porte de la Jannah, demandant qu'elle soit ouverte pour sa communauté. Ce devancement est le fruit de son devancement en ce bas monde : la foi en son Seigneur, la patience dans l'appel à l'islam, et la transmission complète du message. Allah l'a donc récompensé en faisant de lui le premier de toute l'humanité à entrer en Jannah.
+Le Prophète ﷺ nous a informés de deux grandes préséances le Jour de la Résurrection : il a le plus de disciples parmi les prophètes, et il est le premier à frapper à la porte de la Jannah pour qu'elle s'ouvre ; elle s'ouvre donc pour lui en premier. C'est un rang par lequel Allah l'a choisi et distingué au-dessus de toute la création.
 
 #### Explication de la leçon
 
-Le devancement du Prophète ﷺ à la porte de la Jannah n'est pas un simple honneur personnel qui nous serait étranger ; il est un modèle pour quiconque souhaite être parmi « les devanciers » : il a devancé les autres par la sincérité de l'action avant d'être honoré du fruit de ce devancement. Cela nous prépare à comprendre le hadith suivant, qui montre que cette porte du devancement est aussi ouverte à des individus ordinaires de sa communauté.
+Ce devancement du Prophète ﷺ n'est pas un honneur qui nous serait étranger ; sa vie est un modèle pour quiconque souhaite être parmi « les devanciers » : il fut le premier des hommes dans la foi et dans la transmission patiente du message, puis Allah l'a honoré de ce rang. Cela prépare le hadith suivant, qui montre que cette porte est ouverte à des gens ordinaires de sa communauté.
 
 <!-- evidence:end -->
 
 <!-- evidence:start id="tirmidhi-1642" kind="hadith" mode="canonical" -->
 
-### Les Trois Premiers à Entrer en Jannah M'ont Été Montrés
+### Les Trois Premiers à Entrer dans la Jannah M'ont Été Montrés
 
 > عَنْ أَبِي هُرَيْرَةَ رضي الله عنه، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ: **«عُرِضَ عَلَيَّ أَوَّلُ ثَلَاثَةٍ يَدْخُلُونَ الْجَنَّةَ: شَهِيدٌ، وَعَفِيفٌ مُتَعَفِّفٌ، وَعَبْدٌ أَحْسَنَ عِبَادَةَ اللَّهِ وَنَصَحَ لِمَوَالِيهِ».**[^4]
 >
-> *D'après Abu Hurayrah, qu'Allah l'agrée, le Prophète ﷺ a dit : « Les trois premiers à entrer en Jannah m'ont été montrés : un martyr, un homme chaste qui se retient, et un serviteur qui a bien adoré Allah et a été loyal envers ceux qu'il servait. »*
+> *D'après Abu Hurayrah, qu'Allah l'agrée, le Prophète ﷺ a dit : « Les trois premiers à entrer dans la Jannah m'ont été montrés : un martyr, un homme chaste qui se retient, et un esclave qui a bien adoré Allah et a été loyal envers ses maîtres. »*
 
 #### Interprétation savante
 
-Allah a montré à Son Prophète ﷺ l'image de trois catégories de gens qui devancent les autres vers la Jannah, sans qu'aucun d'eux ne soit connu pour son rang ou sa fortune : **le martyr**, qui a donné sa vie dans la voie d'Allah ; **l'homme chaste qui se retient**, qui s'est abstenu de l'illicite et a cherché à se passer des gens malgré son besoin ; et **le serviteur**, qui a bien adoré son Seigneur et s'est montré digne de la confiance de ceux pour qui il travaillait, sans jamais les trahir. At-Tirmidhi l'a rapporté et a dit : « hadith hasan (bon) », tandis que certains spécialistes du hadith plus tardifs ont jugé sa chaîne faible.
+Allah a montré à Son Prophète ﷺ l'image de trois catégories de gens qui devancent les autres vers la Jannah, sans qu'aucun d'eux ne soit connu pour son rang ou sa fortune : **le martyr**, qui a donné sa vie dans la voie d'Allah ; **l'homme chaste qui se retient**, qui s'est gardé de ce qui n'est pas permis et s'est abstenu de solliciter les gens malgré son besoin ; et **l'esclave**, qui a bien adoré son Seigneur et a été loyal envers ses *mawali*, c'est-à-dire ses maîtres, s'acquittant de leurs droits sans jamais les trahir. Cette primauté est relative, car le Prophète ﷺ et les autres prophètes passent en premier ; ce sont donc les premiers de cette communauté après eux, comme l'a expliqué 'Abd al-Haqq ad-Dihlawi.[^6]
 
 #### Explication de la leçon
 
-Ces trois catégories partagent une seule qualité : la sincérité de l'acte dans un lieu où son auteur n'est généralement pas surveillé, non la célébrité ou la visibilité. Le martyr donne sa vie dans l'instant le plus dérobé aux regards ; l'homme chaste résiste seul à son besoin, quand personne ne le voit ; et le serviteur sert la confiance qu'on lui a accordée avec excellence, même quand nul ne le surveille. Le devancement vers la Jannah n'est donc pas réservé aux célèbres, mais une porte ouverte à quiconque agit avec sincérité, même si son acte est caché.
+Ces trois catégories partagent une seule qualité : la sincérité de l'acte et la pureté de l'intention, non la célébrité ou la visibilité. Le martyr donne sa vie avec une intention sincère dont Allah seul connaît la réalité, même si les gens voient ce qu'il fait ; l'homme chaste résiste seul à son besoin, quand personne ne le voit ; et l'esclave sert la confiance qu'on lui a accordée avec excellence, même quand nul ne le surveille ; aujourd'hui, cela s'étend à quiconque se voit confier le travail ou les biens d'autrui. Le devancement vers la Jannah est une porte ouverte à quiconque agit avec sincérité, même si son acte est caché.
 
 <!-- evidence:end -->
 
@@ -112,10 +112,10 @@ Ces trois catégories partagent une seule qualité : la sincérité de l'acte da
 ## Questions pour comprendre et méditer
 
 1. Quel est le sens de la répétition du mot « les devanciers » deux fois dans le verset d'al-Waqi'ah ?
-2. Comment le hadith « le premier à frapper à la porte de la Jannah » montre-t-il que le devancement est le fruit d'actes antérieurs, et non un simple honneur accordé ?
+2. Que montre le hadith « le premier à frapper à la porte de la Jannah » sur le rang du Prophète ﷺ, et qu'apprenons-nous de sa vie ?
 3. Quel est le point commun entre les trois catégories du hadith d'at-Tirmidhi ?
 4. Pourquoi le Prophète ﷺ n'a-t-il mentionné, parmi ces trois catégories, personne de connu pour son rang ou sa fortune ?
-5. Quel acte caché de ta vie pourrait être une raison de ton devancement vers l'agrément d'Allah, même si personne ne le voit ?
+5. Quel acte caché de votre vie pourrait être une raison de votre devancement vers l'agrément d'Allah, même si personne ne le voit ?
 
 <!-- unit:end -->
 
@@ -125,7 +125,7 @@ Ces trois catégories partagent une seule qualité : la sincérité de l'acte da
 
 <!-- activity:start audience="adults" concept_id="lesson.016.activity.quiet-foremost-log" -->
 
-Pendant trois jours, note chaque jour un acte sincère que tu as accompli sans vouloir que quiconque le voie ou t'en félicite, et classe-le sous l'un des trois titres inspirés du hadith d'at-Tirmidhi : **sacrifice et don**, ou **contentement et retenue face à un interdit malgré le besoin**, ou **excellence dans une confiance qui t'a été accordée et sincérité envers celui que tu sers**. Écris une ligne à côté de chaque acte le reliant à l'une des trois preuves (le verset des devanciers, ou l'un des deux hadiths). À la fin du troisième jour, écris un court paragraphe comparant ce que tu considérais comme du « devancement » avant cette leçon, et ce que tu en penses maintenant.
+Pendant trois jours, notez chaque jour un acte sincère que vous avez accompli sans vouloir que quiconque le voie ou vous en félicite, et classez-le sous l'un des trois titres inspirés du hadith d'at-Tirmidhi : **sacrifice et don**, ou **contentement et retenue face à un interdit malgré le besoin**, ou **excellence dans une confiance qui vous a été accordée et sincérité envers celui que vous servez**. Écrivez une ligne à côté de chaque acte le reliant à l'une des trois preuves (le verset des devanciers, ou l'un des deux hadiths). À la fin du troisième jour, écrivez un court paragraphe comparant ce que vous considériez comme du « devancement » avant cette leçon, et ce que vous en pensez maintenant.
 
 <!-- activity:end -->
 
@@ -163,13 +163,13 @@ Youssef fut heureux d'entendre cela, et il continua à faire son lit et à aider
 
 <!-- unit:start id="4-7.authenticated-story" kind="authenticated_story" -->
 
-### Une histoire authentique : Les trois premiers à entrer en Jannah
+### Une histoire authentique : Les trois premiers à entrer dans la Jannah
 
 <!-- story:start audience="4-7" role="authenticated" type="hadith" source_id="tirmidhi-1642" authenticated="true" -->
 
 <!-- retelling:start source_id="tirmidhi-1642" audience="4-7" -->
 
-Le Prophète ﷺ nous a dit qu'Allah lui a montré les trois premiers à entrer en Jannah : un homme qui a donné sa vie dans la voie d'Allah, un homme qui s'est contenté de peu et n'a pas tendu la main vers l'illicite même s'il en avait besoin, et un serviteur qui a obéi à son Seigneur et bien travaillé pour ceux qu'il servait, avec sincérité et honnêteté.[^4] Ces trois-là ont devancé les autres vers la Jannah, non parce que les gens les connaissaient, mais parce qu'Allah connaissait leur sincérité.
+Le Prophète ﷺ nous a dit qu'Allah lui a montré les trois premiers à entrer dans la Jannah : un homme qui a donné sa vie dans la voie d'Allah, un homme qui s'est contenté de peu et n'a pas tendu la main vers l'illicite même s'il en avait besoin, et un serviteur qui servait ses maîtres, qui a obéi à son Seigneur et les a bien servis, avec sincérité et honnêteté.[^4] Ces trois-là devanceront les autres vers la Jannah, non parce que les gens les connaissent, mais parce qu'Allah connaît leur sincérité.
 
 <!-- retelling:end -->
 
@@ -182,7 +182,7 @@ Le Prophète ﷺ nous a dit qu'Allah lui a montré les trois premiers à entrer 
 ### Questions courtes
 
 1. Que faisait Youssef chaque matin sans le dire à personne ?
-2. D'après le Prophète ﷺ, qui sont les trois premières personnes qui entreront en Jannah ?
+2. D'après le Prophète ﷺ, qui sont les trois premières personnes qui entreront dans la Jannah ?
 3. Ton acte sincère a-t-il besoin des félicitations de quelqu'un pour être aimé d'Allah ?
 
 <!-- unit:end -->
@@ -209,7 +209,7 @@ Un adulte prépare une petite boîte fermée. Chaque jour, quand l'enfant accomp
 
 > اللَّهُمَّ اجْعَلْنِي مِنَ السَّابِقِينَ إِلَى مَا تُحِبُّ، وَأَدْخِلْنِي الْجَنَّةَ مَعَ عِبَادِكَ الصَّادِقِينَ.
 >
-> Signification : « Ô Allah, fais de moi l'un de ceux qui devancent vers ce que Tu aimes, et fais-moi entrer en Jannah avec Tes serviteurs sincères. »
+> Signification : « Ô Allah, fais de moi l'un de ceux qui devancent vers ce que Tu aimes, et fais-moi entrer dans la Jannah avec Tes serviteurs sincères. »
 
 <!-- bedtime-dua:end -->
 
@@ -223,13 +223,13 @@ Un adulte prépare une petite boîte fermée. Chaque jour, quand l'enfant accomp
 
 ## Pour les enfants de 8 à 12 ans
 
-Tu pourrais penser que devancer les autres vers la faveur d'Allah exige un grand acte que tout le monde voit et applaudit. Mais Allah nous a dit que les trois premiers à entrer en Jannah ne sont pas nécessairement les gens les plus célèbres, mais les plus sincères dans des situations où peut-être personne ne les observe : celui qui a donné sa vie, celui qui s'est contenté de ce qui est licite malgré son besoin, et celui qui s'est acquitté honnêtement du travail qu'on lui avait confié. Le véritable devancement se mesure à la sincérité du cœur dans le secret, non à l'ampleur des applaudissements en public.
+Tu pourrais penser que devancer les autres vers la faveur d'Allah exige un grand acte que tout le monde voit et applaudit. Mais le Prophète ﷺ nous a appris qu'Allah lui a montré les trois premiers de sa communauté à entrer dans la Jannah après les prophètes, et qu'ils ne sont pas nécessairement les gens les plus célèbres, mais les plus sincères dans des situations où peut-être personne ne les observe : celui qui a donné sa vie, celui qui s'est contenté de ce qui est licite malgré son besoin, et celui qui s'est acquitté honnêtement du travail qu'on lui avait confié. Le véritable devancement se mesure à la sincérité du cœur dans le secret, non à l'ampleur des applaudissements en public.
 
 <!-- unit:end -->
 
 <!-- unit:start id="8-12.primary-story" kind="primary_story" -->
 
-### Histoire pédagogique imaginaire : La pièce en trop de Salma
+### Histoire pédagogique imaginaire : Salma et l'argent en trop
 
 <!-- story:start audience="8-12" role="primary" type="creative" source_id="lesson-authored:lesson.016.primary" authenticated="false" -->
 
@@ -237,7 +237,7 @@ Tu pourrais penser que devancer les autres vers la faveur d'Allah exige un grand
 
 Salma aidait son père dans sa petite boutique chaque après-midi après l'école : elle accueillait les clients et encaissait leurs achats. Un jour, son père s'absenta quelques minutes pour répondre à un appel, et une cliente vint payer quelques articles ; Salma s'occupa donc elle-même de l'encaissement. Après le départ de la cliente, Salma découvrit que celle-ci lui avait donné par erreur beaucoup plus d'argent qu'elle n'en devait.
 
-Salma réfléchit un instant : « Personne ne m'a vue, et personne ne saurait si je le gardais dans la caisse de la boutique. » Mais elle se souvint d'une leçon qu'elle avait entendue sur les trois premiers à entrer en Jannah, parmi lesquels celui qui a bien adoré son Seigneur et s'est montré digne de la confiance de ceux pour qui il travaillait. Elle se dit : « Mon père m'a confié cette boutique, et cet argent n'est pas le nôtre. »
+Salma réfléchit un instant : « Personne ne m'a vue, et personne ne saurait si je le gardais dans la caisse de la boutique. » Mais elle se souvint d'une leçon qu'elle avait entendue sur les trois premiers à entrer dans la Jannah, parmi lesquels un esclave qui a bien adoré son Seigneur et a été loyal envers les maîtres qui lui faisaient confiance. Elle se dit : « Mon père m'a confié cette boutique, et cet argent n'est pas le nôtre. »
 
 Salma courut après la cliente jusqu'à la rattraper, et lui rendit le surplus avec un sourire calme, puis retourna à la boutique sans dire à personne ce qu'elle avait fait. Personne ne l'applaudit, mais elle ressentit dans son cœur une sérénité qu'elle n'avait jamais connue auparavant.
 
@@ -253,7 +253,7 @@ Salma courut après la cliente jusqu'à la rattraper, et lui rendit le surplus a
 
 <!-- retelling:start source_id="tirmidhi-1642" audience="8-12" -->
 
-Abu Hurayrah, qu'Allah l'agrée, a rapporté que le Prophète ﷺ a dit : « Les trois premiers à entrer en Jannah m'ont été montrés : un martyr, un homme chaste qui se retient, et un serviteur qui a bien adoré Allah et a été loyal envers ceux qu'il servait. »[^4] Le martyr a donné ce qu'il avait de plus précieux dans la voie d'Allah ; l'homme chaste et retenu a refusé l'illicite alors qu'il était dans le besoin, et n'a pas sollicité les gens avec insistance ; et le serviteur excellent a accompli son travail avec honnêteté et sincérité envers ceux pour qui il travaillait, sans jamais trahir l'argent ou le travail qu'on lui avait confié.
+Abu Hurayrah, qu'Allah l'agrée, a rapporté que le Prophète ﷺ a dit : « Les trois premiers à entrer dans la Jannah m'ont été montrés : un martyr, un homme chaste qui se retient, et un esclave qui a bien adoré Allah et a été loyal envers ses maîtres. »[^4] Le martyr a donné ce qu'il avait de plus précieux dans la voie d'Allah ; l'homme chaste et retenu a refusé l'illicite alors qu'il était dans le besoin, et n'a pas sollicité les gens avec insistance ; et l'esclave excellent s'est acquitté des droits de ses maîtres avec honnêteté et sincérité, sans jamais trahir l'argent ou le travail qu'on lui avait confié.
 
 Ces trois catégories n'ont pas été mentionnées par des titres ou des rangs, mais par des qualités de cœur et de caractère : le sacrifice, la chasteté et la loyauté. Cela montre que le devancement vers la Jannah est une porte ouverte à quiconque agit avec sincérité, et non seulement à ceux qui sont célèbres pour leur rang ou leur fortune.
 
@@ -268,7 +268,7 @@ Ces trois catégories n'ont pas été mentionnées par des titres ou des rangs, 
 <!-- terminology:start source_id="tirmidhi-1642" -->
 
 - **`عَفِيفٌ مُتَعَفِّفٌ` (l'homme chaste qui se retient)** — celui qui s'abstient de l'illicite et endure patiemment son besoin, sans jamais solliciter les gens avec insistance malgré sa pauvreté.
-- **`نَصَحَ لِمَوَالِيهِ` (a été loyal envers ceux qu'il servait)** — a été sincère et dévoué au service de ceux pour qui il travaillait, sans jamais trahir leur argent ou leur confiance.
+- **`نَصَحَ لِمَوَالِيهِ` (a été loyal envers ses maîtres)** — l'esclave qui a été sincère et dévoué envers ses maîtres (*mawali*), sans jamais trahir leur argent ou leur confiance ; par analogie, cela s'applique aujourd'hui à quiconque travaille pour autrui ou se voit confier quelque chose.
 - **`شَهِيدٌ` (martyr)** — celui qui a été tué dans la voie d'Allah en défendant sa religion, donnant sincèrement ce qu'il avait de plus précieux.
 
 <!-- terminology:end -->
@@ -279,7 +279,7 @@ Ces trois catégories n'ont pas été mentionnées par des titres ou des rangs, 
 
 ### Questions de compréhension et de réflexion
 
-1. Pourquoi personne n'a-t-il informé Salma de ce qu'elle avait fait, pour qu'elle en soit récompensée ?
+1. Pourquoi Salma n'a-t-elle raconté à personne ce qu'elle avait fait pour en être récompensée ?
 2. Quelles sont les trois catégories du hadith d'at-Tirmidhi, et quelle qualité partagent-elles ?
 3. « L'homme chaste qui se retient » a-t-il besoin d'annoncer aux gens qu'il a délaissé l'illicite pour en être récompensé ?
 4. Quelle situation de ta vie ressemble à celle de Salma, où personne ne t'observe ?
@@ -308,7 +308,7 @@ Pendant une semaine, note chaque jour dans un petit carnet une situation où tu 
 
 > اللَّهُمَّ اجْعَلْنِي مِنَ السَّابِقِينَ إِلَى مَا تُحِبُّ، وَأَدْخِلْنِي الْجَنَّةَ مَعَ عِبَادِكَ الصَّادِقِينَ.
 >
-> Signification : « Ô Allah, fais de moi l'un de ceux qui devancent vers ce que Tu aimes, et fais-moi entrer en Jannah avec Tes serviteurs sincères. »
+> Signification : « Ô Allah, fais de moi l'un de ceux qui devancent vers ce que Tu aimes, et fais-moi entrer dans la Jannah avec Tes serviteurs sincères. »
 
 <!-- bedtime-dua:end -->
 
@@ -322,7 +322,7 @@ Pendant une semaine, note chaque jour dans un petit carnet une situation où tu 
 
 ## Pour les adolescents de 13 ans et plus
 
-Dans un monde où la valeur se mesure parfois au nombre de personnes qui voient ta réussite ou interagissent avec elle, cette leçon propose un critère totalement différent du devancement : `وَالسَّابِقُونَ السَّابِقُونَ * أُولَـٰئِكَ الْمُقَرَّبُونَ`. Le Prophète ﷺ lui-même, malgré sa grandeur et sa célébrité, nous a informés qu'il est le premier à frapper à la porte de la Jannah, et auparavant il a devancé les gens dans ce monde par sa sincérité dans l'appel à Allah et sa patience dans cette mission. Puis vient le hadith des « trois premiers à entrer en Jannah » pour briser une attente commune : les trois devanciers ne sont pas des gens de rang ou de célébrité, mais quelqu'un qui s'est sacrifié, quelqu'un qui est resté chaste en cachant son besoin, et quelqu'un qui s'est acquitté fidèlement d'un travail que personne n'observait.
+Dans un monde où la valeur se mesure parfois au nombre de personnes qui voient ta réussite ou interagissent avec elle, cette leçon propose un critère totalement différent du devancement : `وَالسَّابِقُونَ السَّابِقُونَ * أُولَـٰئِكَ الْمُقَرَّبُونَ`. Le Prophète ﷺ lui-même, malgré sa grandeur et sa célébrité, nous a informés qu'il est le premier à frapper à la porte de la Jannah, et auparavant il a devancé les gens dans ce monde par sa sincérité dans l'appel à Allah et sa patience dans cette mission. Puis vient le hadith des « trois premiers à entrer dans la Jannah » pour briser une attente commune : les trois devanciers de cette communauté après les prophètes, que la paix soit sur eux, ne sont pas des gens de rang ou de célébrité, mais quelqu'un qui s'est sacrifié, quelqu'un qui est resté chaste en cachant son besoin, et quelqu'un qui s'est acquitté fidèlement d'un travail que personne n'observait.
 
 Cela va à l'encontre d'une tentation de notre époque : penser qu'un acte non documenté ou non publié n'a aucune valeur. Mais la Révélation nous enseigne que les actes les plus lourds devant Allah sont peut-être les plus cachés aux yeux de tous.
 
@@ -338,7 +338,7 @@ Cela va à l'encontre d'une tentation de notre époque : penser qu'un acte non d
 
 Tarek travaillait à temps partiel dans une petite bibliothèque après l'école, et on lui demandait d'inscrire lui-même ses heures de travail dans un registre basé sur la confiance, sans que personne ne le surveille de près. Un jour, il fut absorbé par un appel personnel pendant vingt minutes durant son service, et envisagea d'inscrire ses heures complètes comme d'habitude, pensant que personne ne remarquerait une si petite différence.
 
-Tarek se souvint de ce qu'il avait appris sur « le serviteur qui a bien adoré Allah et a été loyal envers ceux qu'il servait », et se demanda : « La loyauté envers celui qui me fait confiance signifie-t-elle profiter de son absence ? » Il ressentit un malaise intérieur, puis décida de déduire lui-même ces vingt minutes de ses heures, sans qu'on le lui demande et sans que le propriétaire de la bibliothèque ne le sache jamais.
+Tarek se souvint de ce qu'il avait appris sur « l'esclave qui a bien adoré Allah et a été loyal envers ses maîtres », et se demanda : « La loyauté envers celui qui me fait confiance signifie-t-elle profiter de son absence ? » Il ressentit un malaise intérieur, puis décida de déduire lui-même ces vingt minutes de ses heures, sans qu'on le lui demande et sans que le propriétaire de la bibliothèque ne le sache jamais.
 
 Le lendemain, il vit la publication d'un camarade qui se vantait d'une petite réussite devant tout le monde, et Tarek comprit que ce qu'il avait fait la veille, bien que cela ne doive jamais être publié ni loué, pouvait être plus lourd devant Allah que bien des choses publiées et admirées.
 
@@ -354,7 +354,7 @@ Le lendemain, il vit la publication d'un camarade qui se vantait d'une petite r�
 
 <!-- retelling:start source_id="tirmidhi-1642" audience="13+" -->
 
-Abu Hurayrah, qu'Allah l'agrée, a rapporté que le Prophète ﷺ a dit : « Les trois premiers à entrer en Jannah m'ont été montrés : un martyr, un homme chaste qui se retient, et un serviteur qui a bien adoré Allah et a été loyal envers ceux qu'il servait. »[^4] C'est un hadith qu'at-Tirmidhi lui-même a jugé hasan (bon).
+Abu Hurayrah, qu'Allah l'agrée, a rapporté que le Prophète ﷺ a dit : « Les trois premiers à entrer dans la Jannah m'ont été montrés : un martyr, un homme chaste qui se retient, et un esclave qui a bien adoré Allah et a été loyal envers ses maîtres. »[^4]
 
 Remarque que ces trois catégories partagent le fait que leur sincérité se manifeste le plus clairement au moment où personne ne les observe : le martyr dans son moment le plus vulnérable et le plus périlleux ; l'homme chaste quand il est seul face à son besoin et ne trouve personne pour l'aider ; et le serviteur quand celui qui devrait lui demander des comptes sur sa confiance est absent. Le devancement qu'Allah a promis à ces trois-là ne s'est pas construit sur le témoignage des gens à leur sujet, mais sur la connaissance qu'Allah avait de leur sincérité dans le secret — et c'est là le sens de leur proximité avec Lui dans Sa parole : `أُولَـٰئِكَ الْمُقَرَّبُونَ` (« ceux-là sont les rapprochés »).
 
@@ -370,7 +370,7 @@ Remarque que ces trois catégories partagent le fait que leur sincérité se man
 
 - **`الْمُقَرَّبُونَ` (les rapprochés)** — le rang le plus élevé parmi les gens de la Jannah, les devanciers qu'Allah a distingués par la proximité avec Lui.
 - **`عَفِيفٌ مُتَعَفِّفٌ` (l'homme chaste qui se retient)** — celui qui s'abstient de l'illicite de sa propre volonté, et s'astreint à ne rien demander aux gens malgré un besoin réel.
-- **`نَصَحَ لِمَوَالِيهِ` (a été loyal envers ceux qu'il servait)** — s'est dévoué au service de ceux pour qui il travaillait ou qui lui avaient confié leurs affaires, sans jamais les tromper ni profiter de leur absence.
+- **`نَصَحَ لِمَوَالِيهِ` (a été loyal envers ses maîtres)** — l'esclave qui s'est dévoué au service de ses maîtres (*mawali*), sans jamais les tromper ni profiter de leur absence ; le même sens s'applique aujourd'hui à quiconque travaille pour autrui ou à qui l'on confie ses affaires.
 
 <!-- terminology:end -->
 
@@ -380,7 +380,7 @@ Remarque que ces trois catégories partagent le fait que leur sincérité se man
 
 ### Questions de discussion
 
-1. Comment le hadith « les trois premiers à entrer en Jannah » remet-il en question l'idée que le mérite se mesure à la célébrité ou au rang ?
+1. Comment le hadith « les trois premiers à entrer dans la Jannah » remet-il en question l'idée que le mérite se mesure à la célébrité ou au rang ?
 2. Pourquoi les devanciers du verset d'al-Waqi'ah sont-ils décrits comme « les rapprochés », plutôt que comme les plus célèbres ?
 3. Quelle est la différence entre être sincère envers celui qui t'a fait confiance en son absence, et bien accomplir le travail seulement en sa présence ?
 4. Comment cette leçon aide-t-elle à résister à la tentation de publier ses réussites pour se faire valoir auprès des autres ?
@@ -410,7 +410,7 @@ Pendant deux semaines, note dans un carnet privé chaque situation où tu as ét
 
 > اللَّهُمَّ اجْعَلْنِي مِنَ السَّابِقِينَ إِلَى مَا تُحِبُّ، وَأَدْخِلْنِي الْجَنَّةَ مَعَ عِبَادِكَ الصَّادِقِينَ.
 >
-> Signification : « Ô Allah, fais de moi l'un de ceux qui devancent vers ce que Tu aimes, et fais-moi entrer en Jannah avec Tes serviteurs sincères. »
+> Signification : « Ô Allah, fais de moi l'un de ceux qui devancent vers ce que Tu aimes, et fais-moi entrer dans la Jannah avec Tes serviteurs sincères. »
 
 <!-- bedtime-dua:end -->
 
@@ -425,7 +425,7 @@ Pendant deux semaines, note dans un carnet privé chaque situation où tu as ét
 ### Adultes — 60 minutes
 
 <!-- lesson-plan:outcomes -->
-**Résultats d'apprentissage :** Que l'apprenant explique le verset des devanciers et les hadiths « le premier à frapper à la porte de la Jannah » et « les trois premiers à entrer en Jannah », distingue le véritable critère du devancement de celui de la célébrité, et note trois situations sincères et cachées en les reliant aux preuves.
+**Résultats d'apprentissage :** Que l'apprenant explique le verset des devanciers et les hadiths « le premier à frapper à la porte de la Jannah » et « les trois premiers à entrer dans la Jannah », distingue le véritable critère du devancement de celui de la célébrité, et note trois situations sincères et cachées en les reliant aux preuves.
 
 <!-- lesson-plan:materials -->
 **Matériel :** Une copie des versets 10-11 d'al-Waqi'ah et des deux hadiths ; un modèle de Carnet du devancement discret ; du papier et des stylos ; une carte de sortie.
@@ -446,7 +446,7 @@ Pendant deux semaines, note dans un carnet privé chaque situation où tu as ét
 **Activité — 15 minutes :** Les apprenants commencent le Carnet du devancement discret pour les trois jours à venir, classant les situations qu'ils prévoient sous les trois catégories, et chaque binôme relit le plan de l'autre sans demander de détails personnels sensibles.
 
 <!-- lesson-plan:assessment -->
-**Évaluation et clôture — 10 minutes :** Carte de sortie : « Nomme les trois catégories du hadith des trois premiers à entrer en Jannah, explique pourquoi elles n'ont pas été mentionnées par des titres, et écris une situation cachée que tu commenceras à noter. » L'enseignant clôt en lisant le du'a, en précisant qu'il s'agit de sa propre composition pédagogique.
+**Évaluation et clôture — 10 minutes :** Carte de sortie : « Nommez les trois catégories du hadith des trois premiers à entrer dans la Jannah, expliquez pourquoi elles n'ont pas été mentionnées par des titres, et écrivez une situation cachée que vous commencerez à noter. » L'enseignant clôt en lisant le du'a, en précisant qu'il s'agit de sa propre composition pédagogique.
 
 <!-- lesson-plan:differentiation -->
 **Différenciation :** Les débutants reçoivent une liste d'exemples prêts pour les trois situations ; les plus avancés sont chargés de discuter plus en détail de la relation entre ce hadith et le verset `وَالسَّابِقُونَ السَّابِقُونَ`.
@@ -473,7 +473,7 @@ Pendant deux semaines, note dans un carnet privé chaque situation où tu as ét
 **Ouverture — 4 minutes :** Demander : « Avons-nous besoin que quelqu'un nous voie pour être gentils ? » Écouter les réponses des enfants, puis raconter l'histoire de Youssef.
 
 <!-- lesson-plan:evidence -->
-**Lecture de la preuve — 6 minutes :** L'enseignant raconte simplement le hadith des trois premiers à entrer en Jannah, en marquant une pause après chaque catégorie pour demander : « Quelqu'un l'a-t-il vu faire cela ? »
+**Lecture de la preuve — 6 minutes :** L'enseignant raconte simplement le hadith des trois premiers à entrer dans la Jannah, en marquant une pause après chaque catégorie pour demander : « Quelqu'un l'a-t-il vu faire cela ? »
 
 <!-- lesson-plan:instruction -->
 **Enseignement guidé — 6 minutes :** L'enseignant explique qu'Allah voit ce que les gens ne voient pas, et que c'est pour cela qu'Allah aime ces trois actes.
@@ -497,7 +497,7 @@ Pendant deux semaines, note dans un carnet privé chaque situation où tu as ét
 ### Enfants 8-12 ans — 45 minutes
 
 <!-- lesson-plan:outcomes -->
-**Résultats d'apprentissage :** Que l'élève résume avec précision le hadith des trois premiers à entrer en Jannah, explique les trois termes, distingue le devancement par la visibilité du devancement par la sincérité, et commence un Carnet du devancement discret d'une semaine.
+**Résultats d'apprentissage :** Que l'élève résume avec précision le hadith des trois premiers à entrer dans la Jannah, explique les trois termes, distingue le devancement par la visibilité du devancement par la sincérité, et commence un Carnet du devancement discret d'une semaine.
 
 <!-- lesson-plan:materials -->
 **Matériel :** Le texte complet du hadith ; des cartes de termes ; un modèle de Carnet du devancement discret ; des stylos.
@@ -545,7 +545,7 @@ Pendant deux semaines, note dans un carnet privé chaque situation où tu as ét
 **Ouverture — 5 minutes :** L'enseignant pose une question : « Une réussite non publiée vaut-elle moins qu'une réussite que l'on voit ? » Il ouvre une brève discussion avant de lire l'histoire de Tarek.
 
 <!-- lesson-plan:evidence -->
-**Étude des preuves — 12 minutes :** Trois groupes lisent les versets 10-11 d'al-Waqi'ah, le hadith « le premier à frapper à la porte de la Jannah », et le hadith « les trois premiers à entrer en Jannah ». Chaque groupe en extrait : le sens du devancement dans son texte, et son rapport à la visibilité ou au secret.
+**Étude des preuves — 12 minutes :** Trois groupes lisent les versets 10-11 d'al-Waqi'ah, le hadith « le premier à frapper à la porte de la Jannah », et le hadith « les trois premiers à entrer dans la Jannah ». Chaque groupe en extrait : le sens du devancement dans son texte, et son rapport à la visibilité ou au secret.
 
 <!-- lesson-plan:instruction -->
 **Enseignement guidé — 13 minutes :** L'enseignant explique les termes « les rapprochés », l'homme chaste qui se retient, et la loyauté envers ceux qu'on sert, et discute de la façon dont ces textes vont à l'encontre de la tentation de mesurer sa valeur au nombre de vues et d'interactions.
@@ -572,5 +572,7 @@ Pendant deux semaines, note dans un carnet privé chaque situation où tu as ét
 [^2]: Abu al-Fida' Isma'il ibn Kathîr, *Tafsir al-Qur'an al-'Azim*, commentaire de la sourate al-Waqi'ah, versets 10-11, expliquant que les devanciers sont ceux qui s'empressent d'accomplir le bien comme cela leur a été ordonné, et que celui qui devance vers le bien dans ce monde sera parmi les devanciers vers l'honneur dans l'au-delà, car la rétribution est de même nature que l'œuvre : [Mushaf électronique de l'université King Saud](https://quran.ksu.edu.sa/tafseer/katheer/sura56-aya10.html).
 [^3]: Sahih Muslim, Livre de la Foi, hadith 196 (deuxième version, par la voie d'al-Mukhtar ibn Fulful), rapporté par Anas ibn Malik, qu'Allah l'agrée : [Sunnah.com, récit 196b](https://sunnah.com/muslim:196b).
 [^4]: Sunan at-Tirmidhi, hadith 1642, rapporté par Abu Hurayrah, qu'Allah l'agrée. At-Tirmidhi a dit : « Ce hadith est hasan » ; Bashar 'Awwad Ma'ruf l'a jugé hasan, tandis qu'Ahmad Shakir et al-Albani l'ont jugé faible : [Sunnah.com, récit 1642](https://sunnah.com/tirmidhi:1642).
+[^5]: 'Abd ar-Rahman ibn Nasir as-Sa'di, *Taysir al-Karim ar-Rahman fi Tafsir Kalam al-Mannan*, commentaire de la sourate al-Waqi'ah, versets 10-11 : [Mushaf électronique de l'université King Saud](https://quran.ksu.edu.sa/tafseer/saadi/sura56-aya10.html).
+[^6]: Mulla 'Ali al-Qari, *Mirqat al-Mafatih Sharh Mishkat al-Masabih*, et 'Abd al-Haqq ad-Dihlawi, *Lama'at at-Tanqih fi Sharh Mishkat al-Masabih*, tous deux sur le hadith 3832 de *al-Mishkat* (Livre du jihad), qui est at-Tirmidhi 1642 : sur le sens de « chaste qui se retient » et de « loyal envers ses maîtres », et sur le caractère relatif de la primauté, après le Prophète ﷺ et tous les prophètes, que la paix soit sur eux : [Hadith Unlocked, commentaires du hadith](https://hadithunlocked.com/tirmidhi:1642).
 
 <!-- references:end -->

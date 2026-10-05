@@ -1,5 +1,5 @@
 ---
-title: "El camino de la Jannah y sus dificultades"
+title: "El camino al Paraíso, rodeado de dificultades"
 lesson_id: "lesson.009"
 topic_id: "jannah.009"
 translation_key: "jannah.hard_path"
@@ -15,7 +15,7 @@ activity_concept_id: "lesson.009.activity.fork-of-hardship-and-desire"
 bedtime_dua_id: "lesson.009.dua.ease-through-hardship"
 ---
 
-# El camino de la Jannah y sus dificultades
+# El camino al Paraíso, rodeado de dificultades
 
 ## Objetivos y resultados de la lección
 
@@ -82,7 +82,7 @@ El sentido de "rodeado" puede imaginarse como un muro alrededor de un huerto: na
 
 #### Interpretación académica
 
-El hafiz Ibn Kazir, que Allah tenga misericordia de él, señaló que Allah, el Altísimo, informa a Sus siervos creyentes que necesariamente los ha de probar hasta que se distinga el sincero del mentiroso, tal como probó a las naciones anteriores con la pobreza, la enfermedad y el miedo, hasta que, extenuados, llegaron a sentir que el auxilio tardaba, y les llegó la respuesta divina con la buena nueva: `Sí, en verdad el auxilio de Allah está cercano`.
+El hafiz Ibn Kazir, que Allah tenga misericordia de él, señaló que Allah, el Altísimo, informa a Sus siervos creyentes que necesariamente los ha de probar hasta que se distinga el sincero del mentiroso, tal como probó a las naciones anteriores con la pobreza, la enfermedad y el miedo a sus enemigos. Sobre las palabras {hasta que el Mensajero y los que con él creían dijeron: «¿Cuándo llegará el auxilio de Allah?»} dijo: "Es decir, pedían la victoria sobre sus enemigos y suplicaban que el alivio y la salida llegaran pronto, cuando su situación se había vuelto angustiosa y dura". Y les llegó la respuesta divina con la buena nueva: `Sí, en verdad el auxilio de Allah está cercano`.
 
 #### Explicación de la lección
 
@@ -164,7 +164,7 @@ Este hadiz es el criterio que impide entender las "dificultades" como un rigor s
 >
 > **Y el Mensajero de Allah, la paz y las bendiciones de Allah sean con él, prohibió a los musulmanes hablarnos, a nosotros tres, de entre todos los que se habían quedado atrás. La gente nos evitó y cambió su trato hacia nosotros, hasta que sentí que la tierra se me hacía extraña: ya no era la que yo conocía. Permanecimos así cincuenta noches... Yo salía, asistía a la oración con los musulmanes y recorría los mercados, y nadie me hablaba... Cuando se me hizo larga la dureza de la gente, caminé hasta saltar el muro del huerto de Abu Qatada, que era mi primo y la persona más querida para mí, y lo saludé; pero, por Allah, no me devolvió el saludo. Le dije: Oh, Abu Qatada, te conjuro por Allah, ¿sabes que amo a Allah y a Su Mensajero? Guardó silencio; se lo repetí, y volvió a guardar silencio; se lo repetí una vez más, y dijo: Allah y Su Mensajero lo saben mejor. Y mis ojos se llenaron de lágrimas.**
 >
-> **Mientras caminaba por el mercado de Medina, apareció un nabateo, de los nabateos de Siria... Cuando llegó hasta mí, me entregó una carta del rey de Gasán, en la que decía: En cuanto a lo que sigue, me ha llegado que tu compañero te ha tratado con dureza, y Allah no te ha puesto en una morada de humillación ni de abandono; ven, pues, a nosotros, que te consolaremos. Cuando la leí, me dije: esto también es parte de la prueba. Y me dirigí con ella al horno y la quemé en él.**
+> **Mientras caminaba por el mercado de Medina, apareció un nabateo, de los nabateos de Siria... Cuando llegó hasta mí, me entregó una carta del rey de Gasán, en la que decía: Y después: me ha llegado que tu compañero te ha tratado con dureza, y Allah no te ha puesto en una morada de humillación ni de abandono; ven, pues, a nosotros, que te consolaremos. Cuando la leí, me dije: esto también es parte de la prueba. Y me dirigí con ella al horno y la quemé en él.**
 >
 > **Hasta que, cuando pasaron cuarenta de las cincuenta noches, vino a mí un mensajero del Mensajero de Allah, la paz y las bendiciones de Allah sean con él, y dijo: El Mensajero de Allah te ordena que te alejes de tu esposa... Permanecí después de eso diez noches más, hasta que se completaron para nosotros cincuenta noches desde que el Mensajero de Allah, la paz y las bendiciones de Allah sean con él, prohibió hablarnos. Y cuando recé la oración del alba en la mañana de la quincuagésima noche, estando sobre el techo de una de nuestras casas, sentado en el estado que Allah ha descrito, con el alma encogida y la tierra, con toda su amplitud, estrecha para mí, escuché la voz de un pregonero que, subido al monte Sal', gritaba con toda su fuerza: ¡Oh, Ka'b ibn Malik, alégrate! Caí postrado, y supe que había llegado el alivio. Y el Mensajero de Allah, la paz y las bendiciones de Allah sean con él, anunció que Allah había aceptado nuestro arrepentimiento al terminar la oración del alba, y la gente fue a darnos la buena nueva... Cuando saludé al Mensajero de Allah, la paz y las bendiciones de Allah sean con él, dijo, con su rostro resplandeciente de alegría: «Alégrate por el mejor día que has vivido desde que tu madre te dio a luz». Le dije: ¿Es de tu parte, oh Mensajero de Allah, o de parte de Allah? Dijo: «No, sino de parte de Allah»... Cuando me senté ante él, dije: Oh, Mensajero de Allah, parte de mi arrepentimiento es desprenderme de mis bienes como caridad para Allah y para el Mensajero de Allah. Dijo: «Conserva parte de tus bienes, que es mejor para ti»... Luego dije: Oh, Mensajero de Allah, Allah me salvó únicamente por la sinceridad, y parte de mi arrepentimiento es no hablar sino con verdad mientras viva.**
 >
@@ -172,11 +172,11 @@ Este hadiz es el criterio que impide entender las "dificultades" como un rigor s
 
 #### Interpretación académica
 
-El hafiz Ibn Hayar, que Allah tenga misericordia de él, comentó este largo hadiz en *Fath al-Bari* diciendo: en él se muestra el mérito de la sinceridad, aunque en apariencia su consecuencia sea dura, y que a quien elige la sinceridad amarga frente a la mentira dulce, Allah le concede un alivio y una salida. El propio Ka'b, que Allah esté complacido con él, lo declaró expresamente cuando dijo: "Allah me salvó únicamente por la sinceridad".
+El hafiz Ibn Hayar, que Allah tenga misericordia de él, al enumerar en *Fath al-Bari* los beneficios de este largo hadiz, dijo: "En él está el beneficio de la sinceridad y el mal desenlace de la mentira". Y señaló que el Profeta, la paz y las bendiciones de Allah sean con él, "castigó a quienes dijeron la verdad con una corrección cuyo beneficio se vio pronto, y dejó a quienes mintieron para el castigo prolongado". El propio Ka'b, que Allah esté complacido con él, lo declaró expresamente cuando dijo: "Allah me salvó únicamente por la sinceridad".
 
 #### Explicación de la lección
 
-Este hadiz es un ejemplo completo del significado de "el Paraíso está rodeado de dificultades": la dificultad de Ka'b fue la sinceridad dolorosa, y el deseo que rechazó fue la mentira cómoda; entre ambas hubo cincuenta noches de prueba real, y al final llegaron aleyas que se recitarán hasta que llegue la Hora.
+Este hadiz es un ejemplo completo del significado de "el Paraíso está rodeado de dificultades": la dificultad de Ka'b fue la sinceridad dolorosa, y el deseo que rechazó fue la mentira cómoda; entre ambas hubo cincuenta noches de prueba real, y al final llegaron aleyas que se recitarán hasta que llegue la Hora. A quien prefiere la verdad amarga a la mentira dulce, aunque en apariencia su consecuencia sea dura, Allah le concede un alivio y una salida, como se la concedió a Ka'b.
 
 <!-- evidence:end -->
 
@@ -198,7 +198,7 @@ El hafiz Ibn Kazir, que Allah tenga misericordia de él, mencionó que "los tres
 
 #### Explicación de la lección
 
-Estas aleyas son el fruto de la dificultad que Ka'b soportó con paciencia: el alivio no llegó por medio de artimañas ni pidiendo una excepción, sino manteniéndose firme en la sinceridad, hasta que la propia revelación descendió para darle la buena nueva.
+Estas aleyas son el fruto de la dificultad que Ka'b soportó con paciencia: el alivio no llegó por medio de artimañas ni pidiendo una excepción, sino manteniéndose firme en la sinceridad, hasta que la propia revelación descendió para darle la buena nueva. El propio Ka'b, que Allah esté complacido con él, explicó qué significa "los que se quedaron atrás" en la aleya: "Lo que Allah mencionó no es que nos quedáramos atrás de la expedición, sino que él [el Profeta] nos dejó atrás y aplazó nuestro asunto, a diferencia de quienes le juraron y se excusaron ante él, y él se lo aceptó". Es decir, se refiere al aplazamiento del juicio sobre su caso hasta que Allah decidió, no solo a que no salieran con el ejército.[^5]
 
 <!-- evidence:end -->
 
@@ -252,9 +252,9 @@ Nuestro Profeta Muhammad, la paz y las bendiciones de Allah sean con él, dijo: 
 
 **Esto es un hecho real sobre un Compañero llamado Ka'b ibn Malik, que Allah esté complacido con él, y no una historia inventada.**
 
-Ka'b se retrasó en salir con el Profeta, la paz y las bendiciones de Allah sean con él, en un viaje muy largo, y no tenía ninguna excusa. Cuando el Profeta, la paz y las bendiciones de Allah sean con él, regresó, le preguntó: `¿Por qué te retrasaste?`. Ka'b podía decir una pequeña mentira y el Profeta, la paz y las bendiciones de Allah sean con él, le habría creído, pero se dijo a sí mismo: nunca voy a mentir. Así que le dijo al Profeta, la paz y las bendiciones de Allah sean con él: "No tuve ninguna excusa". Y el Profeta, la paz y las bendiciones de Allah sean con él, dijo: `Este ha dicho la verdad`.[^5]
+Ka'b se retrasó en salir con el Profeta, la paz y las bendiciones de Allah sean con él, en un viaje muy largo, y no tenía ninguna excusa. Cuando el Profeta, la paz y las bendiciones de Allah sean con él, regresó, le preguntó por qué se había retrasado. Ka'b podía decir una pequeña mentira y el Profeta, la paz y las bendiciones de Allah sean con él, le habría creído, pero se dijo a sí mismo: nunca voy a mentir. Así que le contó al Profeta, la paz y las bendiciones de Allah sean con él, la verdad: que no había tenido ninguna excusa. Y el Profeta, la paz y las bendiciones de Allah sean con él, dijo: **«En cuanto a este, ha dicho la verdad»**.[^5]
 
-Pero la gente se apartó de Ka'b durante cincuenta días, y nadie le hablaba, así que Ka'b se puso muy triste. Un hombre le llevó una carta con la promesa de comodidad si dejaba al Profeta, la paz y las bendiciones de Allah sean con él, pero Ka'b la rechazó y quemó la carta. Y una mañana, Ka'b escuchó una voz que lo llamaba desde lo alto de la montaña: "¡Oh, Ka'b, alégrate!", y supo que Allah estaba complacido con él porque fue paciente en su sinceridad, así que se postró ante Allah, feliz.[^5]
+Pero la gente se apartó de Ka'b durante cincuenta días, y nadie le hablaba, así que Ka'b se puso muy triste. Un hombre le llevó una carta con la promesa de comodidad si dejaba al Profeta, la paz y las bendiciones de Allah sean con él, pero Ka'b la rechazó y quemó la carta. Y una mañana, Ka'b escuchó una voz que lo llamaba desde lo alto de la montaña: "¡Oh, Ka'b ibn Malik, alégrate!", y supo que Allah había aceptado su arrepentimiento después de que fue paciente en su sinceridad, así que se postró ante Allah, feliz.[^5]
 
 <!-- retelling:start source_id="bukhari-4418" audience="4-7" -->
 
@@ -326,7 +326,7 @@ El Mensajero de Allah, la paz y las bendiciones de Allah sean con él, nos infor
 
 En la expedición de Tabuk, el Profeta, la paz y las bendiciones de Allah sean con él, y los musulmanes se prepararon para un viaje largo bajo un calor intenso. Ka'b ibn Malik, en cambio, cada día postergaba sus preparativos, diciéndose: "me uniré a ellos más tarde", hasta que el ejército entero partió sin él, y no tenía ninguna excusa real.
 
-Cuando el Profeta, la paz y las bendiciones de Allah sean con él, regresó de la expedición, los que se habían quedado atrás vinieron a excusarse con muchas razones, y el Profeta, la paz y las bendiciones de Allah sean con él, aceptó lo que manifestaban. Pero Ka'b se presentó ante el Profeta, la paz y las bendiciones de Allah sean con él, y dijo la verdad completa: "No tuve ninguna excusa, y por Allah, jamás me sentí tan capaz y con tanta facilidad para partir como en esa ocasión." El Profeta, la paz y las bendiciones de Allah sean con él, dijo: **«En cuanto a este, ha dicho la verdad; levántate, hasta que Allah decida sobre tu caso»**.[^5]
+Cuando el Profeta, la paz y las bendiciones de Allah sean con él, regresó de la expedición, los que se habían quedado atrás vinieron a excusarse con muchas razones, y el Profeta, la paz y las bendiciones de Allah sean con él, aceptó lo que manifestaban. Pero Ka'b se presentó ante el Profeta, la paz y las bendiciones de Allah sean con él, y dijo la verdad completa: "No, por Allah, no tuve ninguna excusa. Por Allah, nunca estuve más fuerte ni con más holgura que cuando me quedé atrás y no fui contigo." El Profeta, la paz y las bendiciones de Allah sean con él, dijo: **«En cuanto a este, ha dicho la verdad; levántate, hasta que Allah decida sobre tu caso»**.[^5]
 
 Después, el Profeta, la paz y las bendiciones de Allah sean con él, ordenó a los musulmanes que no hablaran con Ka'b ni con sus dos compañeros. Así que hasta la persona más cercana a él lo evitó, y esto continuó durante cincuenta noches completas, hasta que Ka'b sintió que la amplia tierra se le hacía estrecha. Le llegó un mensajero del rey de Gasán ofreciéndole dejar Medina y vivir junto a él con comodidad y honor, pero Ka'b dijo: "Esto también es parte de la prueba", y quemó la carta en el horno.[^5]
 
@@ -413,13 +413,13 @@ El hadiz `el Paraíso está rodeado de dificultades, y el Fuego está rodeado de
 
 **Esto es un hecho real narrado por el propio Ka'b ibn Malik, que Allah esté complacido con él, recogido en Sahih al-Bujari, y no una escena inventada.**
 
-Ka'b ibn Malik, que Allah esté complacido con él, narra él mismo su historia: era uno de los grandes Compañeros, presenció el juramento de Aqaba, y nunca se había ausentado de ninguna expedición del Profeta, la paz y las bendiciones de Allah sean con él, salvo la de Badr, y a nadie se le reprochó haber faltado a ella. Pero en la expedición de Tabuk, y estando en su mejor momento de fuerza y desahogo, cayó en algo que no esperaba: la postergación. Cada día se decía a sí mismo: "soy capaz de alcanzarlos en cualquier momento", hasta que la caravana entera partió sin él, sin ninguna excusa real.
+Ka'b ibn Malik, que Allah esté complacido con él, narra él mismo su historia: era uno de los grandes Compañeros, presenció el juramento de Aqaba, y nunca se había ausentado de ninguna expedición del Profeta, la paz y las bendiciones de Allah sean con él, salvo la de Badr, y a nadie se le reprochó haber faltado a ella. Pero en la expedición de Tabuk, y estando en su mejor momento de fuerza y desahogo, cayó en algo que no esperaba: la postergación. Cada día salía para prepararse y volvía sin haber hecho nada, diciéndose a sí mismo: "soy capaz de hacerlo", es decir, capaz de prepararse y alcanzarlos cuando quisiera, hasta que la caravana entera partió sin él, sin ninguna excusa real.
 
-Cuando el Profeta, la paz y las bendiciones de Allah sean con él, regresó de la expedición, Ka'b se encontró ante una elección real: podía inventar una excusa como hicieron otros que se habían quedado atrás, y el Profeta, la paz y las bendiciones de Allah sean con él, la aceptaría en apariencia, terminando el asunto de inmediato; o podía decir la verdad completa y asumir su consecuencia, cualquiera que fuese. Ka'b describe aquel momento diciendo: "Supe que si hoy le contaba una mentira con la que se complaciera de mí, pronto Allah lo haría enojar conmigo; y si le contaba una verdad con la que se enojara conmigo, tendría en ello la esperanza del perdón de Allah." Así que eligió la sinceridad dolorosa, y le dijo al Profeta, la paz y las bendiciones de Allah sean con él: "No tuve ninguna excusa". El Profeta, la paz y las bendiciones de Allah sean con él, dijo: **«En cuanto a este, ha dicho la verdad; levántate, hasta que Allah decida sobre tu caso»**.[^5]
+Cuando el Profeta, la paz y las bendiciones de Allah sean con él, regresó de la expedición, Ka'b se encontró ante una elección real: podía inventar una excusa como hicieron otros que se habían quedado atrás, y el Profeta, la paz y las bendiciones de Allah sean con él, la aceptaría en apariencia, terminando el asunto de inmediato; o podía decir la verdad completa y asumir su consecuencia, cualquiera que fuese. Así que eligió la sinceridad dolorosa, y en aquel momento le dijo al Profeta, la paz y las bendiciones de Allah sean con él: "Por Allah, sé que si hoy te cuento una mentira con la que quedes complacido conmigo, pronto Allah hará que te enojes conmigo; y si te cuento una verdad por la que te enojes conmigo, tengo en ella la esperanza del perdón de Allah. No, por Allah, no tuve ninguna excusa." El Profeta, la paz y las bendiciones de Allah sean con él, dijo: **«En cuanto a este, ha dicho la verdad; levántate, hasta que Allah decida sobre tu caso»**.[^5]
 
 La consecuencia inmediata fue dura: el Profeta, la paz y las bendiciones de Allah sean con él, ordenó el aislamiento social de Ka'b y sus dos compañeros, de modo que nadie les hablara ni les devolviera el saludo, ni siquiera las personas más cercanas a ellos. Esto duró cincuenta noches completas, hasta el punto de que aquel estado fue descrito en el propio Corán: "la tierra, con toda su amplitud, se les hizo estrecha". Y en el momento más duro de su aislamiento, le llegó otra tentación: una carta del rey de Gasán ofreciéndole comodidad y honor si abandonaba a la sociedad que lo había rechazado. Podría haber justificado aceptar la oferta alegando que era víctima de una injusticia, pero vio en la propia carta otra prueba más, así que la quemó sin dudar.[^5]
 
-Y justo en la mañana del quincuagésimo día, le llegó el alivio: una voz que lo llamaba con la buena nueva desde lo alto del monte Sal'. Ka'b se postró dando gracias a Allah, y luego fue ante el Profeta, la paz y las bendiciones de Allah sean con él, quien le dio la buena nueva diciendo: **«Alégrate por el mejor día que has vivido desde que tu madre te dio a luz»**. Ka'b propuso entregar todos sus bienes como caridad en agradecimiento a Allah, pero el Profeta, la paz y las bendiciones de Allah sean con él, le aconsejó la moderación: **«Conserva parte de tus bienes, que es mejor para ti»**; otra lección más de que la rectitud no significa caer en extremos. Y Ka'b concluyó su experiencia diciendo: "Allah me salvó únicamente por la sinceridad, y parte de mi arrepentimiento es no hablar sino con verdad mientras viva." Y Allah reveló sobre su caso aleyas que se recitan en cada mezquita del mundo hasta hoy.[^5]
+Y justo en la mañana del quincuagésimo día, le llegó el alivio: una voz que lo llamaba con la buena nueva desde lo alto del monte Sal'. Ka'b se postró dando gracias a Allah, y luego fue ante el Profeta, la paz y las bendiciones de Allah sean con él, quien le dio la buena nueva diciendo: **«Alégrate por el mejor día que has vivido desde que tu madre te dio a luz»**. Ka'b propuso entregar todos sus bienes en caridad como parte de su arrepentimiento, pero el Profeta, la paz y las bendiciones de Allah sean con él, le aconsejó la moderación: **«Conserva parte de tus bienes, que es mejor para ti»**; otra lección más de que la rectitud no significa caer en extremos. Y Ka'b concluyó su experiencia diciendo: "Allah me salvó únicamente por la sinceridad, y parte de mi arrepentimiento es no hablar sino con verdad mientras viva." Y Allah reveló sobre su caso aleyas que se recitan en cada mezquita del mundo hasta hoy.[^5]
 
 <!-- retelling:start source_id="bukhari-4418" audience="13+" -->
 
@@ -436,7 +436,7 @@ En otras palabras: Ka'b ibn Malik enfrentó una elección clara entre una mentir
 <!-- terminology:start source_id="muslim-2822" -->
 
 - **`El deseo en su sentido amplio (ash-shahwa)`** — toda inclinación inmediata que aparta de la verdad, no solo el apetito físico: como la aceptación social, la pereza y la ira.
-- **`La concesión legal (ar-rujsa)`** — un alivio permitido por la propia ley por una excusa reconocida, a diferencia de la indulgencia que usa la comodidad como pretexto para abandonar un deber.
+- **`La concesión legítima (ar-rujsa)`** — un alivio permitido por la propia ley por una excusa reconocida, a diferencia de la indulgencia que usa la comodidad como pretexto para abandonar un deber.
 - **`Se le escapó el momento de la expedición (tafarata al-ghazw)`** — pasó su tiempo y ya no fue posible alcanzarla; la expresión con la que Ka'b, que Allah esté complacido con él, describió el momento de su postergación.
 
 <!-- terminology:end -->
@@ -449,7 +449,7 @@ En otras palabras: Ka'b ibn Malik enfrentó una elección clara entre una mentir
 
 1. ¿Cuál es la diferencia entre el "deseo" en su sentido amplio en el hadiz y el simple apetito físico?
 2. ¿Cómo aclara el rechazo de Ka'b a la carta del rey de Gasán la diferencia entre la comodidad legítima y seguir el propio capricho?
-3. ¿Cuándo se convierte la "concesión legal" en un pretexto para abandonar un deber?
+3. ¿Cuándo se convierte la "concesión legítima" en un pretexto para abandonar un deber?
 4. Escribe una decisión que hayas postergado, y define su primer paso.
 5. ¿Cómo se relaciona la paciencia de Ka'b ante el destino durante las cincuenta noches con su paciencia para no mentir y su paciencia en la obediencia que exige la sinceridad?
 
@@ -501,7 +501,7 @@ Identifica una decisión real que estés postergando o en la que tus amigos te p
 **Preparación:** el docente repasa los seis hadices y aleyas antes de la lección, y prepara un ejemplo personal de una "dificultad" que eligió frente a un "deseo", para compartirlo si es necesario.
 
 <!-- lesson-plan:opening -->
-**Apertura — 5 minutos:** Pregunta: «¿Alguna vez elegisteis algo difícil sabiendo que era correcto? ¿Cómo os sentisteis después?»
+**Apertura — 5 minutos:** Pregunta: «¿Alguna vez eligieron algo difícil sabiendo que era correcto? ¿Cómo se sintieron después?»
 
 <!-- lesson-plan:evidence -->
 **Estudio de las evidencias — 15 minutos:** los grupos leen el hadiz de Muslim 2822, luego las dos aleyas de Al-Baqarah 214 y Ali 'Imran 142, después el hadiz de al-Bujari 39 para aclarar el límite de la moderación, y por último el hadiz completo de Ka'b ibn Malik, con pausas en cada momento decisivo.
@@ -609,7 +609,7 @@ Identifica una decisión real que estés postergando o en la que tus amigos te p
 **Preparación:** el docente se prepara para discutir la presión de grupo y la postergación como ejemplos contemporáneos de "deseo".
 
 <!-- lesson-plan:opening -->
-**Apertura — 5 minutos:** Pregunta a los adolescentes: «¿Cuál fue la decisión correcta más difícil que tomasteis este mes?»
+**Apertura — 5 minutos:** Pregunta a los adolescentes: «¿Cuál fue la decisión correcta más difícil que tomaron este mes?»
 
 <!-- lesson-plan:evidence -->
 **Estudio de las evidencias — 12 minutos:** se lee la historia completa de Ka'b, centrándose en el momento de su elección entre la mentira cómoda y la sinceridad dolorosa.

@@ -21,7 +21,7 @@ bedtime_dua_id: "lesson.018.dua.dignity-not-wealth"
 
 After this lesson, the learner will be able to:
 
-- Cite three authentic hadiths showing that the weak of the ummah and its sincere poor hold a great station with Allah: the hadith `Every weak one, looked down upon by others: were he to swear by Allah, Allah would fulfill his oath`; the hadith of the poor among the Emigrants reaching Jannah ahead of the rich; and the hadith `I stood at the gate of Jannah, and most of those who entered it were the poor`.
+- Cite three well-established hadiths showing that the weak of the ummah and its sincere poor hold a great station with Allah: the hadith `Every weak one, looked down upon by others: were he to swear by Allah, Allah would fulfill his oath`; the hadith of the poor among the Emigrants reaching Jannah ahead of the rich; and the hadith `I stood at the gate of Jannah, and most of those who entered it were the needy (*al-masakin*)`.
 - Show that this virtue does not make wealth blameworthy in itself, reasoning from two facts: "the people of fortune are held back" means held back for reckoning, not shut out of Jannah; and a number of senior Companions who were wealthy, such as Uthman ibn Affan and Abdur-Rahman ibn Awf, may Allah be pleased with them both, were among those given the glad tidings of Jannah.
 - Narrate the authenticated account from Sahih al-Bukhari of Abu Hurayrah, may Allah be pleased with him, the People of the Suffah, and the cup of milk, and draw out its moment of choice: between his own longing to drink first, with hunger gripping him hard, and his obedience to the command of the Prophet, peace and blessings be upon him, to put his poor brothers ahead of himself.
 - Explain the meaning of *ithar* (putting others before oneself) and connect it to what Abu Hurayrah did, showing that what raises a person in Allah's sight is patience in poverty joined with contentment, not poverty itself.
@@ -56,7 +56,7 @@ For all that, wealth is not blameworthy in itself. A number of the senior Compan
 
 #### Scholarly Explanation
 
-Al-Hafiz Ibn Hajar, may Allah have mercy on him, says in *Fath al-Bari* that "the weak one, looked down upon" (*ad-da'if al-mutada'af*) is the person whom people regard as weak and whose worth they dismiss in this world, because of his poverty or his quiet voice, though his standing with Allah is so great that, were he to swear an oath by Allah, Allah would fulfill it. Against him the Prophet, peace and blessings be upon him, set the description of the people of the Fire: *al-'utull*, the harsh and coarse; *al-jawwaz*, the one who amasses and withholds; and *al-mustakbir*, the one who is arrogant toward the truth and toward people. The fault the hadith points to, then, is not wealth itself, but the hardness and arrogance that can travel with wealth when it is not met with gratitude.
+Ibn Hajar says in *Fath al-Bari* that the word for "looked down upon" is read *mutada'if*, with a kasra, and that the reading with a fatha (*mutada'af*) is weaker; the one "looked down upon" is the person despised for his obscurity in this world. Al-Nawawi says in his commentary on *Muslim* that the fatha is the better-known reading, meaning the one whom people regard as weak and despise because of his weak worldly state. His standing with Allah is so great that, were he to swear an oath by Allah, Allah would fulfill it. Against him the Prophet, peace and blessings be upon him, set the description of the people of the Fire: *al-'utull*, the harsh and coarse; *al-jawwaz*, the one who amasses and withholds according to al-Nawawi, or, it is said, the one who struts as he walks; and *al-mustakbir*, the one who is arrogant toward the truth and toward people. The fault the hadith points to, then, is not wealth itself, but the hardness and arrogance that can travel with wealth when it is not met with gratitude.
 
 #### Lesson Explanation
 
@@ -76,7 +76,7 @@ This hadith sets the true scale: someone despised in this world may be among the
 
 #### Scholarly Explanation
 
-The poor among the Emigrants (*al-Muhajirun*) were those who left their wealth, their families, and their homeland, emigrating to Allah and His Messenger, peace and blessings be upon him, until nothing of this world was left to them. In them the emigration of the heart met the emptiness of the hand. The scholars have noted that this precedence honors the sincerity of their poverty and their patience; it is not a blanket ruling that every rich person is denied this virtue. A rich person who is sincere and grateful may attain a like precedence, or something greater still, through his charity and his spending.
+The poor among the Emigrants (*al-Muhajirun*) were those who left their wealth, their families, and their homeland, emigrating to Allah and His Messenger, peace and blessings be upon him, until nothing of this world was left to them. In them the emigration of the heart met the emptiness of the hand. This precedence honors the sincerity of their poverty and their patience; it does not deny the rich their virtue. In *'Uddat as-Sabirin*, Ibn al-Qayyim quotes Ibn Taymiyyah, may Allah have mercy on them both, as saying that the better of the patient poor person and the grateful rich person is the one with more taqwa.
 
 #### Lesson Explanation
 
@@ -86,17 +86,17 @@ The precedence here is a matter of time, not a verdict on final rank. The sincer
 
 <!-- evidence:start id="bukhari-5196" kind="hadith" mode="canonical" -->
 
-### "I Stood at the Gate of Jannah, and Most of Those Who Entered It Were the Poor"
+### "I Stood at the Gate of Jannah, and Most of Those Who Entered It Were the Needy"
 
 > عَنْ أُسَامَةَ بْنِ زَيْدٍ رضي الله عنهما قَالَ: قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم: **«قُمْتُ عَلَى بَابِ الْجَنَّةِ، فَكَانَ عَامَّةَ مَنْ دَخَلَهَا الْمَسَاكِينُ، وَأَصْحَابُ الْجَدِّ مَحْبُوسُونَ، غَيْرَ أَنَّ أَصْحَابَ النَّارِ قَدْ أُمِرَ بِهِمْ إِلَى النَّارِ، وَقُمْتُ عَلَى بَابِ النَّارِ، فَإِذَا عَامَّةُ مَنْ دَخَلَهَا النِّسَاءُ»**.[^3]
 
 <!-- evidence:translation -->
 
-> On the authority of Usamah ibn Zayd, may Allah be pleased with him and his father, who said: The Messenger of Allah, peace and blessings be upon him, said: **"I stood at the gate of Jannah, and most of those who entered it were the poor, while the people of fortune were held back, except for the people of the Fire, who had already been ordered to the Fire. And I stood at the gate of the Fire, and most of those who entered it were women."**[^3]
+> On the authority of Usamah ibn Zayd, may Allah be pleased with him and his father, who said: The Messenger of Allah, peace and blessings be upon him, said: **"I stood at the gate of Jannah, and most of those who entered it were the needy, while the people of fortune were held back, except for the people of the Fire, who had already been ordered to the Fire. And I stood at the gate of the Fire, and most of those who entered it were women."**[^3]
 
 #### Scholarly Explanation
 
-Al-Hafiz Ibn Hajar, may Allah have mercy on him, explained that "the people of fortune" (*ashab al-jadd*) are those who enjoyed wealth, good fortune, and standing in this world, and that "held back" here does not mean they are barred from Jannah. It means they are detained for a long reckoning over the wealth and blessings they were given: how they earned them and on what they spent them. Once their reckoning is complete, those of them who are to enter Jannah will enter it; but the length of that reckoning delays them, while the poor go on ahead, since they are not questioned about what the rich are questioned about.
+Al-Hafiz Ibn Hajar, may Allah have mercy on him, explained that "the people of fortune" (*ashab al-jadd*) are those who enjoyed wealth, good fortune, and standing in this world, and that "held back" here does not mean they are barred from Jannah. It means they are detained for a long reckoning over the wealth and blessings they were given: how they earned them and on what they spent them. Once their reckoning is complete, those of them who are to enter Jannah will enter it; but the length of that reckoning delays them, while the needy go on ahead, since they are not questioned about what the rich are questioned about.
 
 #### Lesson Explanation
 
@@ -177,9 +177,9 @@ Allah loves people who stay patient when they don't have very much, and He loves
 
 **This really happened to a Companion of the Prophet named Abu Hurayrah, may Allah be pleased with him. It is not a made-up story.**
 
-Abu Hurayrah was a friend and Companion of the Prophet, peace and blessings be upon him. He was very poor and had no home. One day he got so hungry, so very hungry, that he tied a stone against his tummy to make the hurting feel smaller. He sat down by the path where the Prophet, peace and blessings be upon him, would walk by. Along came the Prophet, peace and blessings be upon him, and he could tell just from Abu Hurayrah's face that he was hungry. So he said to him, `Come with me`, and Abu Hurayrah went with him to his house.[^4]
+Abu Hurayrah was a friend and Companion of the Prophet, peace and blessings be upon him. He was very poor and had no home. When he was very hungry, he used to tie a stone against his tummy to make the hurting feel smaller. One day he was so hungry, so very hungry, that he sat down by the path where the Prophet, peace and blessings be upon him, would walk by. Along came the Prophet, peace and blessings be upon him, and he could tell just from Abu Hurayrah's face that he was hungry. So he said to him, `Follow me`, and Abu Hurayrah went with him to his house.[^4]
 
-There the Prophet, peace and blessings be upon him, found a cup of milk that someone had given him as a present. He said to Abu Hurayrah, `Go and call the People of the Suffah for me`. They were his poor friends who had no homes, so they slept in the mosque of the Prophet, peace and blessings be upon him. Deep down inside, Abu Hurayrah wished he could drink first, because he was so hungry. But he obeyed the Prophet, peace and blessings be upon him, and went and called all his friends.[^4]
+There the Prophet, peace and blessings be upon him, found a cup of milk that someone had given him as a present. He told Abu Hurayrah to go and call the People of the Suffah for him. They were his poor friends who had no homes, so they slept in the mosque of the Prophet, peace and blessings be upon him. Deep down inside, Abu Hurayrah wished he could drink first, because he was so hungry. But he obeyed the Prophet, peace and blessings be upon him, and went and called all his friends.[^4]
 
 Abu Hurayrah stood and gave each friend a drink until he had all he wanted, then passed the cup to the next one, one man after another, until everybody had a drink and only he and the Prophet, peace and blessings be upon him, were left! Then the Prophet, peace and blessings be upon him, smiled and said to him, `Now it's just you and me`, and then, `Sit down and drink`. Abu Hurayrah drank until he was full, and the Prophet, peace and blessings be upon him, drank the very last of the milk in the cup.[^4]
 
@@ -239,7 +239,7 @@ Today, give someone something you love (a piece of candy, a toy, or your turn in
 
 <!-- unit:start id="8-12.explanation" kind="explanation" -->
 
-The Prophet, peace and blessings be upon him, told us that the weak and the sincere poor of this ummah have a great place with Allah. Their place is so great that if one of them swore an oath by Allah, Allah would make it come true, and many of the people who enter Jannah are poor people who stayed patient. Even so, being rich is not bad in itself. Some of the wealthy Companions of the Prophet, peace and blessings be upon him, like Uthman ibn Affan and Abdur-Rahman ibn Awf, were also given the good news of Jannah. So what really matters is not how much or how little money someone has, but how they handle what Allah has given them. Are they patient? Are they thankful? Do they share with others?
+The Prophet, peace and blessings be upon him, told us that the weak and the sincere poor of this ummah have a great place with Allah. Their place is so great that if one of them swore an oath by Allah, Allah would make it come true, and many of the people who enter Jannah are needy people who stayed patient. Even so, being rich is not bad in itself. Some of the wealthy Companions of the Prophet, peace and blessings be upon him, like Uthman ibn Affan and Abdur-Rahman ibn Awf, were also given the good news of Jannah. So what really matters is not how much or how little money someone has, but how they handle what Allah has given them. Are they patient? Are they thankful? Do they share with others?
 
 <!-- unit:end -->
 
@@ -257,13 +257,13 @@ The Prophet, peace and blessings be upon him, told us that the weak and the sinc
 
 <!-- unit:start id="8-12.primary-story" kind="primary_story" -->
 
-### An Authenticated Account: Abu Hurayrah and the Night of the Milk with the People of the Suffah
+### An Authenticated Account: Abu Hurayrah and the Bowl of Milk with the People of the Suffah
 
 <!-- story:start audience="8-12" role="primary" type="islamic_heritage" source_id="bukhari-6452" authenticated="true" -->
 
 **This is a true account that Abu Hurayrah, may Allah be pleased with him, told in his own words, recorded in Sahih al-Bukhari. It is not a made-up story.**
 
-Abu Hurayrah, may Allah be pleased with him, was one of the Companions of the Prophet, peace and blessings be upon him. He was poor, with no home and no regular meals, and one day hunger hit him so hard that he tied a stone against his stomach to bear it. He sat by the path where the Prophet, peace and blessings be upon him, would pass, and asked some of the people walking by about an ayah of the Qur'an, hoping one of them would understand what he really needed and give him something to eat. Abu Bakr and Umar, may Allah be pleased with them, passed by without realizing he was hungry. Then the Prophet, peace and blessings be upon him, came by. He smiled when he saw him, understood his need from the look on his face, and said to him, `O Abu Hirr!` Abu Hurayrah answered, "At your service, O Messenger of Allah!" The Prophet said, `Come along`, and Abu Hurayrah followed him all the way into his house.[^4]
+Abu Hurayrah, may Allah be pleased with him, was one of the Companions of the Prophet, peace and blessings be upon him. He was poor, with no home and no regular meals, and he used to tie a stone against his stomach because of hunger. One day hunger hit him hard, and he sat by the path where the Prophet, peace and blessings be upon him, would pass, and asked some of the people walking by about an ayah of the Qur'an, hoping one of them would understand what he really needed and give him something to eat. Abu Bakr and Umar, may Allah be pleased with them, passed by without realizing he was hungry. Then the Prophet, peace and blessings be upon him, came by. He smiled when he saw him, understood his need from the look on his face, and said to him, `O Abu Hirr!` Abu Hurayrah answered, "At your service, O Messenger of Allah!" The Prophet said, `Come along`, and Abu Hurayrah followed him all the way into his house.[^4]
 
 The Prophet, peace and blessings be upon him, found a bowl of milk that someone had given him as a gift, and said, `Go to the People of the Suffah and call them to me`. The People of the Suffah were poor Emigrants with no family and no money, who lived in the mosque of the Prophet, peace and blessings be upon him. Because he was so hungry, Abu Hurayrah secretly wished the milk could be his before it was theirs. He said to himself, "I have more right to a drink that would give me my strength back." But he found no way around obeying Allah and His Messenger, peace and blessings be upon him, so he went and called them all.[^4]
 

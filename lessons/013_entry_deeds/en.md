@@ -23,7 +23,7 @@ After this lesson, the learner will be able to:
 
 - Name the four foundations the Prophet, peace and blessings be upon him, pointed the questioning man toward: affirming Allah's oneness, establishing the prescribed prayer, paying the obligatory zakah, and fasting Ramadan.
 - Explain why the Prophet, peace and blessings be upon him, testified that this man was among the people of Paradise based on his honesty about his own capacity, not on the abundance of his promises.
-- Distinguish between an obligation whose sincere performance is itself sufficient cause for entering Paradise and a voluntary act that raises one's rank without being a condition for the basic attainment of salvation.
+- Distinguish between an obligation whose sincere performance is itself sufficient cause for entering Paradise and a voluntary act that raises one's rank without being a condition for salvation itself.
 - Connect these four foundations to An-Nisa 4:124, which ties entering Paradise to righteous deeds joined with faith, and show that Allah does not wrong anyone who does a deed, even the smallest, in the slightest.
 - Compose an honest, realistic personal commitment to one of the four foundations, following the man's example in the hadith, without promising what one cannot fulfill.
 
@@ -42,7 +42,7 @@ This understanding corrects two opposite errors:
 1. **Negligence:** thinking that these foundations are a minor detail that can be postponed or taken lightly.
 2. **Religious exhaustion:** thinking that one does not deserve Paradise until one takes on voluntary acts and hardships beyond one's ability, and so either neglects the foundation itself while busy with what was never required, or despairs of oneself for being unable to do it all.
 
-The hadith draws a realistic path: begin with what Allah has made obligatory, perform it with sincerity and consistency, then do more good as you are able, without that extra ever being a condition for the basic attainment of salvation.
+The hadith draws a realistic path: begin with what Allah has made obligatory, perform it with sincerity and consistency, then do more good as you are able, without that extra ever being a condition for salvation itself.
 
 <!-- unit:end -->
 
@@ -62,7 +62,7 @@ The hadith draws a realistic path: begin with what Allah has made obligatory, pe
 
 #### Scholarly Tafsir
 
-The ayah ties entering Paradise to two inseparable conditions: righteous deeds, and the faith that validates and accepts them. It further denies that the doer will be wronged by even the smallest measurable amount — the `naqir`, the tiny speck on the back of a date seed — signaling that Allah lets nothing of a believer's deeds go to waste, however small.[^2]
+The ayah ties entering Paradise to two inseparable conditions: righteous deeds, and the faith that validates and accepts them. It further denies that the doer will be wronged by even the smallest measurable amount — the `naqir`, the tiny groove, or speck, on the back of a date stone — signaling that Allah lets nothing of a believer's deeds go to waste, however small.[^2]
 
 #### Lesson Explanation
 
@@ -86,7 +86,7 @@ A man from among the desert dwellers came with a direct question, and the Prophe
 
 #### Lesson Explanation
 
-The Prophet, peace and blessings be upon him, did not require the man to perform additional voluntary acts to guarantee him Paradise; rather, he affirmed that sincerely performing the four obligations is itself a sufficient cause for entering it. It was the man's honesty in judging his own capacity — without promising what he could not fulfill — that earned him the Prophet's praise. Honesty with oneself and with Allah is part of what qualifies one for these glad tidings, not merely going through the motions.
+The Prophet, peace and blessings be upon him, did not require the man to perform additional voluntary acts to guarantee him Paradise; rather, he affirmed that sincerely performing the four obligations is itself a sufficient cause for entering it. This does not mean that the other obligations fall away, such as Hajj for whoever is able to make the journey, and avoiding what Allah has forbidden; the Prophet, peace and blessings be upon him, singled out these foundations according to the situation of the man asking.[^4] It was the man's honesty in judging his own capacity — without promising what he could not fulfill — that earned him the Prophet's praise. Honesty with oneself and with Allah is part of what qualifies one for these glad tidings, not merely going through the motions.
 
 <!-- evidence:end -->
 
@@ -124,7 +124,7 @@ Make a card with four rows, one for each foundation named in the hadith: tawhid,
 
 ## For Children Ages 4 to 7
 
-The Prophet, peace and blessings be upon him, taught us clear things that make us want to enter Paradise: to worship Allah alone, to pray, to give zakah, and to fast Ramadan. A man from the desert asked the Prophet, peace and blessings be upon him, a clear question. The Prophet answered with these four things, and the man promised to do them honestly. We learn from him to **do what Allah loves with honesty, and not to promise things we cannot do**.
+The Prophet, peace and blessings be upon him, taught us clear things that bring us closer to Paradise: to worship Allah alone, to pray, to give zakah, and to fast Ramadan. A man from the desert asked the Prophet, peace and blessings be upon him, a clear question. The Prophet answered with these four things, and the man promised to do them honestly. We learn from him to **do what Allah loves with honesty, and not to promise things we cannot do**.
 
 <!-- unit:end -->
 
@@ -136,7 +136,7 @@ The Prophet, peace and blessings be upon him, taught us clear things that make u
 
 <!-- retelling:start source_id="bukhari-1397" audience="4-7" -->
 
-A man from the desert came to the Prophet, peace and blessings be upon him, and said, "Guide me to a deed that, if I do it, will bring me into Paradise." The Prophet, peace and blessings be upon him, told him: worship Allah alone, pray, give zakah, and fast Ramadan. The man said, "By Allah, I will not add anything else to this." And when the man left, the Prophet, peace and blessings be upon him, said to his companions: whoever wants to see a man from the people of Paradise, let him look at this man.[^3]
+A man from the desert came to the Prophet, peace and blessings be upon him, and said, "Guide me to a deed that, if I do it, will bring me into Paradise." The Prophet, peace and blessings be upon him, told him: worship Allah alone, pray, give zakah, and fast Ramadan. The man swore by Allah that he would not add anything else to this. And when the man left, the Prophet, peace and blessings be upon him, said to his Companions: whoever wants to see a man from the people of Paradise, let him look at this man.[^3]
 
 We learn that the man was honest with himself: he said only what he could do and did not promise more. He honestly promised to do these four things, so the Prophet, peace and blessings be upon him, told us he was among the people of Paradise.
 
@@ -206,9 +206,9 @@ Imagine a student who promised his teacher just one task he knew he could manage
 
 <!-- retelling:start source_id="bukhari-1397" audience="8-12" -->
 
-A Bedouin — a man from the desert dwellers — came to the Prophet, peace and blessings be upon him, with a specific question: "Guide me to a deed that, if I do it, will bring me into Paradise." The Prophet, peace and blessings be upon him, did not give him a long list; he said: you worship Allah, associating nothing with Him, you establish the prescribed prayer, you pay the obligatory zakah, and you fast Ramadan. The man said with confidence and honesty: "By the One in whose hand is my soul, I will not add anything to this." When the man turned to leave, the Prophet, peace and blessings be upon him, said to his companions: "Whoever would be pleased to look at a man from the people of Paradise, let him look at this one."[^3]
+A Bedouin — a man from the desert dwellers — came to the Prophet, peace and blessings be upon him, with a specific question: "Guide me to a deed that, if I do it, will bring me into Paradise." The Prophet, peace and blessings be upon him, did not give him a long list; he said: you worship Allah, associating nothing with Him, you establish the prescribed prayer, you pay the obligatory zakah, and you fast Ramadan. The man said with confidence and honesty: "By the One in whose hand is my soul, I will not add anything to this." When the man turned to leave, the Prophet, peace and blessings be upon him, said to his Companions: "Whoever would be pleased to look at a man from the people of Paradise, let him look at this one."[^3]
 
-The man's words, "I will not add anything to this," were not laziness; they were an honest assessment of what he could keep up for good, rather than promising many voluntary acts and then abandoning them. The Prophet, peace and blessings be upon him, testified that he would enter Paradise because he would keep these four foundations with sincerity and consistency.
+The man's words, "I will not add anything to this," were not laziness; they were an honest assessment of what he could keep up for good, rather than promising many voluntary acts and then abandoning them. The Prophet, peace and blessings be upon him, testified that he would enter Paradise — meaning that if he was true to his commitment to these four foundations and kept them up, he would be among its people.
 
 <!-- retelling:end -->
 
@@ -220,7 +220,7 @@ The man's words, "I will not add anything to this," were not laziness; they were
 
 <!-- terminology:start source_id="bukhari-1397" -->
 
-- **`A'rabi`** ("Bedouin") — a man from the desert dwellers, far from the city, who might be new to learning the details of the Sacred Law.
+- **`A'rabi`** ("Bedouin") — a man from the desert dwellers, far from Madinah, who might be new to learning the details of the Sacred Law.
 - **`Az-Zakat al-Mafrudah`** ("the obligatory zakah") — the required portion of wealth given to the poor and those Allah mentioned, not the extra, optional charity.
 - **`Man Sarrahu`** ("whoever would be pleased") — whoever wants to feel joy and reassurance by seeing a real-life example.
 
@@ -275,9 +275,9 @@ Make a card with four sections: tawhid, prayer, zakah (or helping those in need 
 
 ## For Teens, Ages 13+
 
-At a stage of life full of competing calls to extreme religious strictness on one side and total laxity on the other, this hadith offers a realistic standard: limited foundations, honest performance, and a promise that never exceeds real capacity. This does not mean voluntary acts are without value; they are a path to Allah's love and a rise in rank, and the Prophet, peace and blessings be upon him, explained in another hadith that Allah loves for His servant to draw near to Him through voluntary acts after the obligatory ones.[^5] But they are not a condition for the basic entitlement to Paradise that he taught this man.
+At a stage of life full of competing calls to extreme religious strictness on one side and total laxity on the other, this hadith offers a realistic standard: limited foundations, honest performance, and a promise that never exceeds real capacity. This does not mean voluntary acts are without value; they are a path to Allah's love and a rise in rank, and the Prophet, peace and blessings be upon him, related from his Lord, Mighty and Majestic, that He said: "My servant does not draw near to Me with anything more beloved to Me than what I have made obligatory upon him, and My servant keeps drawing near to Me through voluntary acts until I love him."[^5] So the obligations are the most beloved means by which a servant draws near to his Lord, and persisting in voluntary acts after them is a path to Allah's love. But voluntary acts are not a condition for the entitlement to Paradise itself that he taught this man.
 
-This balance addresses two contemporary problems. The first is **excessive religious performance in front of others**, where a person makes many commitments in public and then quietly drops them, so the promise becomes a performance rather than honesty. The second is **a constant feeling of falling short**, where a person thinks he will not deserve Paradise except through exceptional striving, forgetting that the four foundations, performed well, are themselves a sufficient cause, and that going beyond them is a bounty, not a condition.
+This balance addresses two contemporary problems. The first is **excessive religious performance in front of others**, where a person makes many commitments in public and then quietly drops them, so the promise becomes a performance rather than honesty. The second is **a constant feeling of falling short**, where a person thinks he will not deserve Paradise except through exceptional striving, forgetting that the four foundations, performed well, are themselves a sufficient cause, and that adding voluntary acts beyond them is a bounty, not a condition.
 
 <!-- unit:end -->
 
@@ -305,7 +305,7 @@ The prophetic testimony here was not built on an abundance of promises, but on h
 
 - **`A'rabi`** ("Bedouin") — a man from the desert dwellers, generally less versed in the details of the Sacred Law than the Muhajirun and Ansar in Madinah.
 - **An oath attached to a promise** — a sign that the intention is serious and bound by clear limits, not just passing talk.
-- **Obligations and voluntary acts** — obligations are what Allah has required of every Muslim, while voluntary acts are an optional increase beyond the obligation that draws one nearer to Allah without being a condition for the basic attainment of salvation.
+- **Obligations and voluntary acts** — obligations are what Allah has required of every Muslim, while voluntary acts are an optional increase beyond the obligation that draws one nearer to Allah without being a condition for salvation itself.
 
 <!-- terminology:end -->
 
@@ -447,7 +447,7 @@ Make a card listing the four foundations: tawhid, prayer, zakah (or charity if y
 **Studying the Evidence — 10 minutes:** Students read the full hadith of Bukhari 1397, underlining the four foundations and circling the man's oath and the Prophet's testimony, peace and blessings be upon him.
 
 <!-- lesson-plan:instruction -->
-**Guided Instruction — 10 minutes:** The teacher explains the three terms, then builds the class statement: "The four foundations performed honestly are sufficient cause for Paradise, and going beyond them is a bounty, not a condition."
+**Guided Instruction — 10 minutes:** The teacher explains the three terms, then builds the class statement: "The four foundations performed honestly are sufficient cause for Paradise, and adding voluntary acts beyond them is a bounty, not a condition."
 
 <!-- lesson-plan:activity -->
 **Activity — 14 minutes:** Students design the Four-Foundations card, each writing one realistic action for every foundation that is not yet steady, then share a general version of the card with a classmate without sensitive details.
@@ -489,7 +489,7 @@ Make a card listing the four foundations: tawhid, prayer, zakah (or charity if y
 **Activity — 15 minutes:** Students complete the "Pledge of the Four Foundations" card, honestly assessing their state in each foundation and writing a realistic action for two weeks. Detailed sharing is optional.
 
 <!-- lesson-plan:assessment -->
-**Assessment and Closing — 10 minutes:** The student writes a four-line answer: what the four foundations are, what the man's honesty signifies, and one action he will honestly commit to. The teacher reads the du'a at the close.
+**Assessment and Closing — 10 minutes:** The student writes a four-line answer: what the four foundations are, what the man's honesty signifies, the difference between an obligation and a voluntary act, and one action he will honestly commit to. The teacher reads the du'a at the close.
 
 <!-- lesson-plan:differentiation -->
 **Differentiation:** Give a struggling student a partially completed template, and assign an advanced student to discuss how a Muslim balances his ambition for voluntary acts with the realism of committing to the obligations first.
@@ -504,7 +504,7 @@ Make a card listing the four foundations: tawhid, prayer, zakah (or charity if y
 ## References
 
 [^1]: The Noble Qur'an, Surah An-Nisa, ayah 124: [Qur'anic text](https://quran.com/4/124).
-[^2]: 'Abd ar-Rahman ibn Nasir as-Sa'di, *Taysir al-Karim ar-Rahman*, commentary on Surah An-Nisa, ayah 124, explaining that Allah does not wrong the doer even the amount of the `naqir`: [King Saud University Digital Mushaf](https://quran.ksu.edu.sa/tafseer/saadi/sura4-aya124.html).
+[^2]: 'Abd ar-Rahman ibn Nasir as-Sa'di, *Taysir al-Karim ar-Rahman*, commentary on Surah An-Nisa, ayah 124, explaining that faith is the condition for righteous deeds to be accepted, and that the doer is not wronged in any of his deeds, little or much: [King Saud University Digital Mushaf](https://quran.ksu.edu.sa/tafseer/saadi/sura4-aya124.html); and Isma'il ibn 'Umar Ibn Kathir, *Tafsir al-Qur'an al-'Azim*, commentary on the same ayah, explaining the `naqir` as "the groove on the back of the date stone": [Quran.com](https://quran.com/4:124/tafsirs/ar-tafsir-ibn-kathir).
 [^3]: Sahih al-Bukhari, Book of Zakat, hadith 1397, narrated by Abu Hurayrah, may Allah be pleased with him, and also related by Muslim in his Sahih, hadith 14; it is a sahih hadith agreed upon: [Sunnah.com, hadith 1397](https://sunnah.com/bukhari:1397).
 [^4]: The Hadith Encyclopedia (Al-Durar Al-Saniyyah Foundation), explanation of the hadith of the Bedouin who asked about a deed that would admit him to Paradise: [dorar.net](https://dorar.net/hadith/sharh/4303).
 [^5]: Sahih al-Bukhari, Book of Riqaq, hadith 6502, narrated by Abu Hurayrah, may Allah be pleased with him, in the hadith of the close friends of Allah and His love for nearness through voluntary acts after the obligatory ones; it is a sahih hadith: [Sunnah.com, hadith 6502](https://sunnah.com/bukhari:6502).

@@ -142,7 +142,7 @@ The first greeting Adam ever heard came from the angels, and it was a reply full
 
 #### Scholarly Explanation
 
-An-Nawawi, may Allah have mercy on him, said: "You will not believe until you love one another" means that your faith will not be complete without mutual love. The hadith contains a powerful encouragement to spread salam and to offer it to all Muslims, those you know and those you do not. Salam is the first of the means of drawing hearts together and the key to winning affection, and through it estrangement and the cutting of ties are removed.[^9]
+An-Nawawi, may Allah have mercy on him, said: "You will not believe until you love one another" means that your faith will not be complete without mutual love. The hadith contains a powerful encouragement to spread salam and to offer it to all Muslims, those you know and those you do not. Salam is the first of the means of drawing hearts together and the key to winning affection. Spreading it firmly establishes the bond of Muslims with one another and makes visible their distinctive emblem, which sets them apart from the followers of other religions; and through it estrangement and the cutting of ties are removed.[^9]
 
 #### Lesson Explanation
 
@@ -206,13 +206,13 @@ Today we are going to hear a story from the Qur'an about people who said a good 
 
 Long, long ago, in Makkah, the Prophet, peace and blessings be upon him, used to recite to people the Qur'an that Allah had sent down.
 
-And some people would ask, "What has your Lord sent down?"
+People were asked about the Qur'an: "What has your Lord sent down?"
 
-They asked some people who did not love the truth, and those people said something that was not true: "Those are just old stories from long ago!"[^2]
+When some people who did not love the truth were asked, they said something that was not true: "Those are just old stories from long ago!"[^2]
 
-Then they asked the believers, the ones who are mindful of Allah and obey Him: "What has your Lord sent down?" And the believers answered with one beautiful word: "Good!" They meant: Allah has sent down good things, mercy, and blessings.[^1]
+And when the believers, the ones who are mindful of Allah and obey Him, were asked, "What has your Lord sent down?", they answered with one beautiful word: "Good!" They meant: Allah has sent down good things, mercy, and blessings.[^1]
 
-Allah kept their answer safe in the Qur'an, and He promised them wonderful things: good in this life, and gardens with rivers flowing through them, where they will have everything they love.
+Allah kept their answer safe in the Qur'an, and He promised them wonderful things: good in this life, and gardens with rivers flowing beneath them, where they will have everything they love.
 
 And Allah told us that when the lives of these good people in this world come to an end, the angels come to them and say: «سَلَامٌ عَلَيْكُمُ ادْخُلُوا الْجَنَّةَ بِمَا كُنْتُمْ تَعْمَلُونَ», "Peace be upon you. Come into Jannah because of the good you used to do."[^1]
 

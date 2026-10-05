@@ -1,271 +1,198 @@
 ---
+title: "Sans compter : le tawakkul qui fait entrer dans la Jannah sans reddition de comptes"
 lesson_id: "lesson.017"
 topic_id: "jannah.017"
 translation_key: "jannah.without_account"
 lang: "fr"
-status: "draft"
+status: "translation_draft"
 authoring_standard: "full_text_depth_v2"
 story_policy: "rotating_primary_with_authenticated_account_v2"
-hadith_policy: "sahih_hasan_main"
-tashkeel_scope: "texts_only"
 primary_story_type: "quranic"
 primary_story_source_id: "quran-40-38-45"
-primary_story_authenticated: true
+primary_story_authenticated: "true"
 authenticated_account_id: "muslim-218a"
 activity_concept_id: "lesson.017.activity.handful-of-trust"
 bedtime_dua_id: "lesson.017.dua.trust-without-account"
-title: "Qui entre au Paradis sans reddition de comptes ?"
 ---
 
-# Qui entre au Paradis sans reddition de comptes ?
+# Sans compter : le tawakkul qui fait entrer dans la Jannah sans reddition de comptes
 
-## Objectifs
+## Objectifs et résultats de la leçon
 
-1. Aider l'apprenant à comprendre ce que signifie entrer au Paradis "sans reddition de comptes" (بِغَيْرِ حِسَابٍ), faveur immense qu'Allah accorde à qui Il veut parmi Ses serviteurs.
-2. Dégager de la sourate Ghafir et de hadiths authentiques les qualités de ceux qui reçoivent cette faveur.
-3. Relier à l'entrée au Paradis sans reddition de comptes la véritable confiance en Allah (tawakkul), libre de toute superstition et de toute dépendance aux amulettes.
-4. Prendre Ukkasha ibn Mihsan, qu'Allah l'agrée, comme modèle de confiance en Allah et d'empressement à faire le bien.
-5. Vivre un tawakkul réel au quotidien, au lieu de s'en remettre à la chance, aux présages ou à la superstition.
+Au terme de cette leçon, l'apprenant sera capable de :
+
+- réciter le passage `بِغَيْرِ حِسَابٍ` (*bi-ghayri hisab*, « sans compter ») du verset 40 de la sourate Ghafir, et en expliquer le sens : la subsistance de la Jannah, pour celui qui a cru et accompli de bonnes œuvres, ne se mesure pas à la balance de ce monde et ne se compte pas ;
+- raconter le récit du croyant de la famille de Pharaon dans la sourate Ghafir (versets 38-45), et en dégager trois étapes : le conseil qu'il donna ouvertement malgré le danger, la remise de son affaire à Allah lorsqu'il dit `وَأُفَوِّضُ أَمْرِي إِلَى اللَّهِ` (« Et je remets mon affaire à Allah »), et la protection qu'Allah lui accorda contre les ruses de son peuple ;
+- rapporter le hadith des soixante-dix mille (Sahih Muslim 218a, avec la version 218b), et énumérer les trois qualités par lesquelles le Prophète, paix et bénédictions sur lui, a décrit ces gens : ils ne demandent pas à autrui la ruqya, ils ne tirent pas de mauvais présages, et ils ne demandent pas la cautérisation, par une confiance totale en Allah ;
+- présenter l'attitude de 'Ukkashah ibn Mihsan, qu'Allah soit satisfait de lui, qui s'empressa de demander le bien, comme un modèle digne d'éloge, et exposer ce que les savants ont dit du sens de la parole du Prophète, paix et bénédictions sur lui, au second homme : `سَبَقَكَ بِهَا عُكَّاشَةُ` (« 'Ukkashah t'a devancé ») ;
+- distinguer l'attachement du cœur aux causes, qui est interdit (comme le fait de tirer de mauvais présages ou la ruqya non conforme à la Loi), du recours légitime aux causes, le cœur restant confiant en Allah seul ; et expliquer que renoncer à demander la ruqya et la cautérisation, dans le hadith, est un degré de mérite et de perfection, tandis que se soigner par des moyens permis est licite et n'a rien de blâmable ;
+- réaliser l'activité « Une poignée qu'on ne peut pas compter », pour relier l'idée d'un don qui ne se compte pas à une situation réelle de doute obsédant, de pessimisme ou de dépendance excessive envers les gens, et la transformer en une phrase explicite de confiance en Allah.
+
+## Section académique pour les adultes
 
 <!-- reader:start audience="adults" estimated_minutes="7.0" -->
 
-## Pour les adultes
+<!-- unit:start id="adults.explanation" kind="explanation" -->
 
-<!-- unit:start id="l17-adults-explanation" kind="explanation" -->
+L'expression `بِغَيْرِ حِسَابٍ` (*bi-ghayri hisab*), que l'on rend en français tantôt par « sans compter », tantôt par « sans reddition de comptes », apparaît dans le Coran et la Sunnah pour décrire un don d'Allah qui ne se mesure pas aux mesures de ce monde : certains serviteurs d'Allah entrent dans la Jannah, ou y reçoivent leur subsistance, sans compte ni dénombrement, sans échange minutieux entre la quantité de l'œuvre et celle de la récompense ; c'est une faveur d'Allah, et non un simple dû. Parmi les causes de ce don immense que mentionnent les textes : la foi jointe aux bonnes œuvres, et la perfection de la confiance en Allah seul (*at-tawakkul*), lorsque le cœur cesse de s'attacher à autre que Lui, qu'il s'agisse d'une créature, d'un présage ou d'une cause illusoire.
 
-L'une des plus grandes faveurs qu'Allah a accordées à cette Oumma est qu'il s'y trouve des gens qui entreront au Paradis "sans reddition de comptes" — c'est-à-dire sans être retenus pour être interrogés sur leurs actes, et sans qu'aucun châtiment ne les touche, par pure grâce et miséricorde d'Allah. Allah l'évoque dans Son Livre à propos de la récompense du croyant vertueux, et de nombreux hadiths authentiques précisent le nombre de ces gens et les qualités qui leur ont valu cette immense faveur. Selon le hadith, ils ont en commun de ne pas demander à d'autres de leur faire la ruqya (istirqa'), de ne pas recourir à la cautérisation en s'y fiant plutôt qu'à Allah, de ne pas tirer de mauvais présages (tatayyur) de ce qu'ils voient ou entendent, et de placer leur confiance en leur Seigneur seul. Le point commun de tout cela : un cœur libre de tout attachement à autre qu'Allah, et une confiance sincère en Lui seul.
+Le croyant de la famille de Pharaon — un homme seul au milieu d'un peuple entier de mécréants — proclame sa foi, met son peuple en garde contre ce monde qui passe, et promet à quiconque a cru et fait le bien qu'il entrera dans la Jannah : `يُرْزَقُونَ فِيهَا بِغَيْرِ حِسَابٍ` (« ils y recevront leur subsistance sans compter »). Puis il conclut son discours par la parole qui résume le mieux le tawakkul : `وَأُفَوِّضُ أَمْرِي إِلَى اللَّهِ` (« Et je remets mon affaire à Allah »). Allah le préserve alors des ruses de son peuple, et le pire châtiment cerne ses ennemis.
 
-Les savants ont pris soin de préciser que ces hadiths n'interdisent pas la ruqya licite en elle-même — il est authentiquement établi que le Prophète ﷺ a pratiqué la ruqya et qu'on la lui a faite. Ce qui est blâmable ici, c'est de solliciter la ruqya auprès des autres au point d'en dépendre constamment, le cœur s'y attachant comme à une cause agissant par elle-même, au lieu de recourir aux moyens permis en gardant le cœur confiant en Allah seul. Al-Hafiz Ibn Hajar, dans *Fath al-Bari* (11/408-409), explique en commentant ces hadiths que renoncer à "demander" la ruqya signifie renoncer à la *solliciter* auprès des gens, parce qu'Allah nous suffit et que la certitude est forte — et non renoncer à la ruqya licite elle-même, qui est une forme permise d'invocation et de soin.
+Dans le hadith des soixante-dix mille, le Prophète, paix et bénédictions sur lui, annonce qu'une foule immense de sa communauté entrera dans la Jannah sans reddition de comptes, et il les décrit par trois qualités qui tournent toutes autour d'un même sens, la perfection de la confiance en Allah : ils ne demandent pas à autrui de leur faire la ruqya, ils ne tirent pas de mauvais présages d'un oiseau, d'un chiffre ou d'un jour, et ils ne demandent pas la cautérisation — mais `وَعَلَىٰ رَبِّهِمْ يَتَوَكَّلُونَ` (« ils s'en remettent à leur Seigneur »). Les savants ont précisé qu'il s'agit d'un degré de mérite et de perfection dans la remise de son affaire à Allah, et que le soin par des moyens permis et la ruqya conforme à la Loi sont licites et sans reproche. Puis 'Ukkashah ibn Mihsan, qu'Allah soit satisfait de lui, se hâte de formuler une demande sincère : `ادْعُ اللَّهَ أَنْ يَجْعَلَنِي مِنْهُمْ` (« Invoque Allah pour qu'Il fasse de moi l'un d'eux »), et sa demande est exaucée. Un autre homme se lève ensuite — un homme des Ansar, selon la version d'Abu Hurayrah chez Muslim — et fait la même demande ; le Prophète, paix et bénédictions sur lui, lui répond : `سَبَقَكَ بِهَا عُكَّاشَةُ` (« 'Ukkashah t'a devancé »).
 
-L'une des scènes les plus saisissantes de ce chapitre est la réaction d'Ukkasha ibn Mihsan al-Asadi, qu'Allah l'agrée. Lorsque le Prophète ﷺ annonça à ses Compagnons que soixante-dix mille personnes de cette Oumma entreraient au Paradis sans reddition de comptes, Ukkasha se leva aussitôt et dit : "Invoque Allah pour qu'Il fasse de moi l'un d'eux." Le Prophète ﷺ répondit sur-le-champ : "Tu es l'un d'eux." Puis un autre homme se leva et dit la même chose, et le Prophète ﷺ répondit : "Ukkasha t'a devancé" — l'occasion lui avait échappé, peut-être pour avoir hésité. Cette scène renferme une grande leçon sur l'empressement à faire le bien et la bonne opinion que l'on doit avoir d'Allah.
-
-Le Coran relie ce même sens à un récit admirable de la sourate Ghafir : l'histoire de "l'homme croyant" issu de la famille même de Pharaon, qui avait caché sa foi pendant un temps, puis la proclama ouvertement lorsqu'il vit son peuple résolu à tuer Moïse, paix sur lui. Il se leva pour conseiller les siens, les appelant au chemin de la droiture et leur rappelant que la vie d'ici-bas n'est qu'une jouissance passagère, tandis que l'au-delà est la demeure véritable et durable, et que quiconque fait le bien en étant croyant entrera au Paradis pour "y recevoir sa subsistance sans compter". Il conclut ensuite son discours en remettant toute son affaire à Allah, dans un tawakkul et une soumission complets ; Allah le protégea alors des complots de son peuple, tandis qu'un terrible châtiment s'abattait sur la famille de Pharaon. Cet homme croyant réunit ainsi la bonne nouvelle du "sans reddition de comptes" et le secret même pour l'obtenir — ce tawakkul que loue le hadith.
+Ce qui unit les deux textes, c'est que *bi-ghayri hisab* n'est pas un don distribué au hasard : c'est une faveur d'Allah liée, dans le verset, à la foi et aux bonnes œuvres, et, dans le hadith, à la perfection de la confiance en Allah. L'empressement de 'Ukkashah à demander le bien est un modèle louable de hâte vers les actes d'obéissance, sans que nous affirmions pour autant, sur l'état des cœurs, ce que les textes ne disent pas.
 
 <!-- unit:end -->
 
-<!-- unit:start id="l17-adults-evidence-quran-40" kind="evidence" -->
+<!-- unit:start id="adults.evidence" kind="evidence" -->
 
-### Preuves tirées du noble Coran
+## Les preuves centrales
 
-<!-- evidence:start id="quran-40-38-40" kind="quran" mode="canonical" -->
+<!-- evidence:start id="quran-40-38-45" kind="quran" mode="canonical" -->
 
-﴿وَقَالَ الَّذِي آمَنَ يَا قَوْمِ اتَّبِعُونِ أَهْدِكُمْ سَبِيلَ الرَّشَادِ (٣٨) يَا قَوْمِ إِنَّمَا هَٰذِهِ الْحَيَاةُ الدُّنْيَا مَتَاعٌ وَإِنَّ الْآخِرَةَ هِيَ دَارُ الْقَرَارِ (٣٩) مَنْ عَمِلَ سَيِّئَةً فَلَا يُجْزَىٰ إِلَّا مِثْلَهَا وَمَنْ عَمِلَ صَالِحًا مِنْ ذَكَرٍ أَوْ أُنْثَىٰ وَهُوَ مُؤْمِنٌ فَأُولَٰئِكَ يَدْخُلُونَ الْجَنَّةَ يُرْزَقُونَ فِيهَا بِغَيْرِ حِسَابٍ (٤٠)﴾ [Ghafir 40:38-40]
+### Le récit du croyant de la famille de Pharaon : « Ils y recevront leur subsistance sans compter »
 
-<!-- evidence:translation -->
-
-> "Et celui qui avait cru dit : 'Ô mon peuple, suivez-moi, je vous guiderai sur le chemin de la droiture. Ô mon peuple, cette vie d'ici-bas n'est que jouissance passagère, alors que l'au-delà est la demeure de la stabilité. Quiconque commet un mal ne sera rétribué que par son équivalent ; et quiconque fait le bien, homme ou femme, tout en étant croyant, ceux-là entreront au Paradis pour y recevoir leur subsistance sans compter.'"[^1]
-
-**Interprétation savante :** L'imam Ibn Kathir, qu'Allah lui fasse miséricorde, explique que cet homme croyant de la famille de Pharaon commença par montrer à son peuple l'insignifiance de ce monde face à l'au-delà, en l'exhortant aux œuvres vertueuses jointes à la foi. La récompense en est, auprès d'Allah, l'entrée au Paradis avec une subsistance qui ne peut être ni comptée, ni mesurée, ni calculée — signe de l'immense faveur d'Allah, qui multiplie la bonne œuvre sans limite, alors que la mauvaise œuvre n'est rétribuée que par son exact équivalent, par justice divine.[^2]
-
-**Explication et lien avec la leçon :** Ce verset présente un contraste saisissant : la mauvaise œuvre est mesurée et comptée, rétribuée seulement par son équivalent, tandis que l'œuvre vertueuse jointe à la foi est récompensée par le Paradis "sans reddition de comptes" — elle n'est ni mesurée ni comptée, mais reçoit un don vaste et illimité, au-delà de tout calcul. C'est le fondement même de toute cette leçon.
-
-<!-- evidence:end -->
-
-<!-- evidence:start id="quran-40-44-45" kind="quran" mode="canonical" -->
-
-﴿فَسَتَذْكُرُونَ مَا أَقُولُ لَكُمْ وَأُفَوِّضُ أَمْرِي إِلَى اللهِ إِنَّ اللهَ بَصِيرٌ بِالْعِبَادِ (٤٤) فَوَقَاهُ اللهُ سَيِّئَاتِ مَا مَكَرُوا وَحَاقَ بِآلِ فِرْعَوْنَ سُوءُ الْعَذَابِ (٤٥)﴾ [Ghafir 40:44-45]
+> **وَقَالَ الَّذِي آمَنَ يَا قَوْمِ اتَّبِعُونِ أَهْدِكُمْ سَبِيلَ الرَّشَادِ * يَا قَوْمِ إِنَّمَا هَٰذِهِ الْحَيَاةُ الدُّنْيَا مَتَاعٌ وَإِنَّ الْآخِرَةَ هِيَ دَارُ الْقَرَارِ * مَنْ عَمِلَ سَيِّئَةً فَلَا يُجْزَىٰ إِلَّا مِثْلَهَا وَمَنْ عَمِلَ صَالِحًا مِنْ ذَكَرٍ أَوْ أُنْثَىٰ وَهُوَ مُؤْمِنٌ فَأُولَٰئِكَ يَدْخُلُونَ الْجَنَّةَ يُرْزَقُونَ فِيهَا بِغَيْرِ حِسَابٍ * وَيَا قَوْمِ مَا لِي أَدْعُوكُمْ إِلَى النَّجَاةِ وَتَدْعُونَنِي إِلَى النَّارِ * تَدْعُونَنِي لِأَكْفُرَ بِاللَّهِ وَأُشْرِكَ بِهِ مَا لَيْسَ لِي بِهِ عِلْمٌ وَأَنَا أَدْعُوكُمْ إِلَى الْعَزِيزِ الْغَفَّارِ * لَا جَرَمَ أَنَّمَا تَدْعُونَنِي إِلَيْهِ لَيْسَ لَهُ دَعْوَةٌ فِي الدُّنْيَا وَلَا فِي الْآخِرَةِ وَأَنَّ مَرَدَّنَا إِلَى اللَّهِ وَأَنَّ الْمُسْرِفِينَ هُمْ أَصْحَابُ النَّارِ * فَسَتَذْكُرُونَ مَا أَقُولُ لَكُمْ وَأُفَوِّضُ أَمْرِي إِلَى اللَّهِ إِنَّ اللَّهَ بَصِيرٌ بِالْعِبَادِ * فَوَقَاهُ اللَّهُ سَيِّئَاتِ مَا مَكَرُوا وَحَاقَ بِآلِ فِرْعَوْنَ سُوءُ الْعَذَابِ.** [غافر: ٣٨-٤٥][^1]
 
 <!-- evidence:translation -->
 
-> "Vous vous rappellerez bientôt ce que je vous dis ; et je confie mon sort à Allah. Allah voit parfaitement Ses serviteurs. Allah le protégea alors des méfaits de leurs complots, tandis qu'un dur châtiment cerna les gens de Pharaon."[^3]
+#### Traduction française
 
-**Interprétation savante :** Ibn Kathir rapporte qu'après avoir sincèrement conseillé son peuple, cet homme croyant conclut son discours en remettant toute son affaire à Allah le Très-Haut — l'essence même du tawakkul. Allah le protégea alors des intrigues et des complots de son peuple, et fit tomber le châtiment sur la famille de Pharaon, qui persistait dans la mécréance et le déni.[^2]
+> **« Et celui qui avait cru dit : “Ô mon peuple, suivez-moi : je vous guiderai sur le chemin de la droiture. Ô mon peuple, cette vie d'ici-bas n'est qu'une jouissance passagère, tandis que l'au-delà est la Demeure de la stabilité. Quiconque commet une mauvaise action ne sera rétribué que par son équivalent ; et quiconque fait une bonne œuvre, homme ou femme, tout en étant croyant, ceux-là entreront dans la Jannah, où ils recevront leur subsistance sans compter. Ô mon peuple, comment se fait-il que je vous appelle au salut, alors que vous m'appelez au Feu ? Vous m'appelez à mécroire en Allah et à Lui associer ce dont je n'ai aucune connaissance, tandis que moi, je vous appelle vers le Tout-Puissant, le Très-Pardonnant. Nul doute que ce vers quoi vous m'appelez ne peut répondre à aucun appel, ni ici-bas ni dans l'au-delà, que notre retour se fera vers Allah, et que les outranciers sont les gens du Feu. Vous vous rappellerez bientôt ce que je vous dis. Et je remets mon affaire à Allah. Allah voit parfaitement Ses serviteurs.” Allah le préserva alors des méfaits de leurs ruses, et le pire châtiment cerna la famille de Pharaon. »** (Ghafir 40:38-45)[^1]
 
-**Explication et lien avec la leçon :** Cet homme réunit la bonne nouvelle de l'entrée au Paradis sans reddition de comptes et le secret pour y parvenir : remettre toute son affaire à Allah. C'est exactement ce que le hadith authentique dit des soixante-dix mille : "et ils s'en remettent à leur Seigneur". Le tawakkul est le fil qui relie, dans cette leçon, le récit coranique et le hadith prophétique.
+#### Interprétation savante
+
+Dans son commentaire de ces versets, al-Hafiz Ibn Kathir, qu'Allah lui fasse miséricorde, explique que cet homme cachait sa foi à son peuple, les Coptes, et qu'il ne la dévoila que le jour où Pharaon résolut de tuer Moïse, paix sur lui. Il prodigua alors ouvertement son conseil : il leur montra combien ce monde éphémère est dérisoire à côté de la Demeure de la stabilité, et annonça au croyant qui accomplit de bonnes œuvres — homme ou femme — qu'il entrerait dans la Jannah et y recevrait une subsistance « qui ne se limite pas à une rétribution équivalente : Allah le récompense au contraire d'une récompense abondante, sans fin ». Il conclut ensuite son exhortation en remettant toute son affaire à Allah. L'issue fut qu'Allah le préserva de la ruse de son peuple, dans ce monde et dans l'au-delà, et que le pire châtiment cerna la famille de Pharaon : « la noyade dans la mer, puis le passage de là à la Fournaise », puisque leurs âmes sont exposées au Feu matin et soir, comme le dit le verset suivant (Ghafir 40:46).
+
+#### Explication de la leçon
+
+Cet homme croyant n'avait ni pouvoir ni prestige : c'était un individu seul face à un peuple acharné à le tuer. Et pourtant, sa confiance ne vacilla pas, car il savait que son retour se ferait vers Allah, et non vers eux. Voilà le cœur de *bi-ghayri hisab* : vider le cœur des calculs des gens et des balances de ce monde, et l'attacher à Allah seul. La rétribution est alors à la mesure de l'acte : un don sans compter pour celui qui a cessé de compter avec les créatures.
 
 <!-- evidence:end -->
-
-<!-- unit:end -->
-
-<!-- unit:start id="l17-adults-evidence-hadith" kind="evidence" -->
-
-### Preuves tirées de la Sunna prophétique
 
 <!-- evidence:start id="muslim-218a" kind="hadith" mode="canonical" -->
 
-عَنْ عِمْرَانَ بْنِ حُصَيْنٍ رَضِيَ اللهُ عَنْهُمَا، قَالَ: قَالَ نَبِيُّ اللهِ ﷺ: "يَدْخُلُ الْجَنَّةَ مِنْ أُمَّتِي سَبْعُونَ أَلْفًا بِغَيْرِ حِسَابٍ"، قَالُوا: وَمَنْ هُمْ يَا رَسُولَ اللهِ؟ قَالَ: "هُمُ الَّذِينَ لَا يَكْتَوُونَ وَلَا يَسْتَرْقُونَ، وَعَلَى رَبِّهِمْ يَتَوَكَّلُونَ"، فَقَامَ عُكَّاشَةُ فَقَالَ: ادْعُ اللهَ أَنْ يَجْعَلَنِي مِنْهُمْ. قَالَ: "أَنْتَ مِنْهُمْ"، قَالَ: فَقَامَ رَجُلٌ فَقَالَ: يَا نَبِيَّ اللهِ، ادْعُ اللهَ أَنْ يَجْعَلَنِي مِنْهُمْ. قَالَ: "سَبَقَكَ بِهَا عُكَّاشَةُ".
+### Le hadith des soixante-dix mille qui entreront dans la Jannah sans reddition de comptes
+
+> عَنْ عِمْرَانَ بْنِ حُصَيْنٍ رضي الله عنهما، قَالَ: قَالَ نَبِيُّ اللَّهِ صلى الله عليه وسلم: **«يَدْخُلُ الْجَنَّةَ مِنْ أُمَّتِي سَبْعُونَ أَلْفًا بِغَيْرِ حِسَابٍ»**. قَالُوا: وَمَنْ هُمْ يَا رَسُولَ اللَّهِ؟ قَالَ: **«هُمُ الَّذِينَ لَا يَكْتَوُونَ، وَلَا يَسْتَرْقُونَ، وَعَلَىٰ رَبِّهِمْ يَتَوَكَّلُونَ»**. فَقَامَ عُكَّاشَةُ فَقَالَ: ادْعُ اللَّهَ أَنْ يَجْعَلَنِي مِنْهُمْ. قَالَ: **«أَنْتَ مِنْهُمْ»**. قَالَ: فَقَامَ رَجُلٌ فَقَالَ: يَا نَبِيَّ اللَّهِ، ادْعُ اللَّهَ أَنْ يَجْعَلَنِي مِنْهُمْ. قَالَ: **«سَبَقَكَ بِهَا عُكَّاشَةُ»**.[^2]
+
+وفي رواية أخرى عند مسلم عن عمران بن حصين رضي الله عنهما (٢١٨ب): **«هُمُ الَّذِينَ لَا يَسْتَرْقُونَ، وَلَا يَتَطَيَّرُونَ، وَلَا يَكْتَوُونَ، وَعَلَىٰ رَبِّهِمْ يَتَوَكَّلُونَ»**.[^2]
 
 <!-- evidence:translation -->
 
-> Imran ibn Husayn, qu'Allah l'agrée, rapporta que le Prophète d'Allah ﷺ dit : "Soixante-dix mille personnes de mon Oumma entreront au Paradis sans reddition de comptes." Ils dirent : "Et qui sont-ils, ô Messager d'Allah ?" Il dit : "Ce sont ceux qui ne se cautérisent pas, ne demandent pas la ruqya, et s'en remettent à leur Seigneur." Alors Ukkasha se leva et dit : "Invoque Allah pour qu'Il fasse de moi l'un d'eux." Il dit : "Tu es l'un d'eux." Puis un homme se leva et dit : "Ô Prophète d'Allah, invoque Allah pour qu'Il fasse de moi l'un d'eux." Il dit : "Ukkasha t'a devancé."[^4]
+#### Traduction française
 
-**Interprétation savante :** L'imam an-Nawawi, qu'Allah lui fasse miséricorde, explique dans son commentaire du *Sahih* de Muslim que le renoncement à l'istirqa' et à la cautérisation vise ici le fait qu'Allah leur suffit dans leur confiance, et non une interdiction de la ruqya licite ou des soins médicaux permis, puisque le Prophète ﷺ lui-même a pratiqué la ruqya et qu'on la lui a faite. Celui qui est loué, c'est plutôt celui dont le tawakkul et la certitude se sont tant affermis qu'il n'a plus besoin de solliciter ces choses auprès des gens.
+> D'après 'Imran ibn Husayn, qu'Allah soit satisfait de lui et de son père, qui dit : le Prophète d'Allah, paix et bénédictions sur lui, a dit : **« Soixante-dix mille personnes de ma communauté entreront dans la Jannah sans reddition de comptes. »** On demanda : « Et qui sont-ils, ô Messager d'Allah ? » Il répondit : **« Ce sont ceux qui ne se font pas cautériser, qui ne demandent pas la ruqya, et qui s'en remettent à leur Seigneur. »** 'Ukkashah se leva alors et dit : « Invoque Allah pour qu'Il fasse de moi l'un d'eux. » Il répondit : **« Tu es l'un d'eux. »** Le narrateur poursuit : un homme se leva ensuite et dit : « Ô Prophète d'Allah, invoque Allah pour qu'Il fasse de moi l'un d'eux. » Il répondit : **« 'Ukkashah t'a devancé. »**[^2]
 
-**Explication et lien avec la leçon :** Ce hadith montre que la porte de l'entrée au Paradis sans reddition de comptes n'est ni fermée ni réservée à quelques-uns : on y accède par la confiance sincère en Allah, et elle est à la portée de tout musulman. La réaction d'Ukkasha nous enseigne que, lorsqu'il s'agit d'invocation et de bien, il ne faut pas tarder.
+Et dans une autre version, chez Muslim, d'après 'Imran ibn Husayn, qu'Allah soit satisfait de lui et de son père (218b) : **« Ce sont ceux qui ne demandent pas la ruqya, qui ne tirent pas de mauvais présages, qui ne se font pas cautériser, et qui s'en remettent à leur Seigneur. »**[^2]
 
-<!-- evidence:end -->
+#### Interprétation savante
 
-<!-- evidence:start id="muslim-219" kind="hadith" mode="canonical" -->
+Dans son commentaire du Sahih de Muslim, l'imam an-Nawawi, qu'Allah lui fasse miséricorde, rapporte les avis des savants sur le sens de *la yastarqun* (ils ne demandent pas à autrui de leur faire la ruqya) et de *la yaktawun* (ils ne demandent pas la cautérisation, un traitement par le feu), puis il dit : « Le sens apparent du hadith est celui qu'ont retenu al-Khattabi et ceux qui l'ont suivi… : ces gens ont porté à sa perfection la remise de leur affaire à Allah, exalté et majestueux, et n'ont pas recouru aux causes pour repousser ce qu'Il a fait tomber sur eux. » Le mérite de cet état et la supériorité de celui qui l'atteint ne font aucun doute. Quant à *la yatatayyarun*, cela signifie qu'ils ne tirent pas de mauvais présage de ce qu'ils voient ou entendent, au point d'en être détournés de ce qu'ils voulaient faire. Les savants ont réfuté ceux qui ont invoqué ce hadith pour déclarer le soin détestable : la ruqya conforme à la Loi et le traitement permis sont licites, et le Prophète, paix et bénédictions sur lui, s'est lui-même soigné pour montrer que c'est permis. Le mérite mentionné réside donc dans la perfection de la remise de son affaire à Allah ; ce qui est blâmable, c'est l'attachement du cœur aux causes, à la place d'Allah.
 
-عَنْ أَبِي حَازِمٍ، عَنْ سَهْلِ بْنِ سَعْدٍ رَضِيَ اللهُ عَنْهُ، عَنِ النَّبِيِّ ﷺ قَالَ: "لَيَدْخُلَنَّ الْجَنَّةَ مِنْ أُمَّتِي سَبْعُونَ أَلْفًا -أَوْ سَبْعُمِائَةِ أَلْفٍ، لَا يَدْرِي أَبُو حَازِمٍ أَيَّهُمَا قَالَ- مُتَمَاسِكُونَ آخِذٌ بَعْضُهُمْ بِبَعْضٍ، لَا يَدْخُلُ أَوَّلُهُمْ حَتَّى يَدْخُلَ آخِرُهُمْ، وُجُوهُهُمْ عَلَى صُورَةِ الْقَمَرِ لَيْلَةَ الْبَدْرِ".
+#### Explication de la leçon
 
-<!-- evidence:translation -->
-
-> Abu Hazim rapporte, d'après Sahl ibn Sa'd, qu'Allah l'agrée, que le Prophète ﷺ a dit : "Soixante-dix mille personnes de mon Oumma — ou sept cent mille (Abu Hazim ne savait plus lequel des deux nombres il avait dit) — entreront au Paradis en se tenant les uns les autres ; le premier d'entre eux n'entrera pas avant que le dernier n'entre ; leurs visages seront comme la lune la nuit où elle est pleine."[^5]
-
-**Interprétation savante :** Al-Hafiz Ibn Hajar note que le fait qu'ils se tiennent les uns les autres traduit leur entraide, leur miséricorde mutuelle et l'unité de leur but en ce monde ; ils en sont récompensés en entrant ensemble au Paradis, se soutenant les uns les autres comme ils le faisaient durant leur vie.
-
-**Explication et lien avec la leçon :** Ce hadith révèle l'ampleur de ce groupe et la beauté de son état, et nous rappelle que l'entraide dans le bien et la miséricorde mutuelle entre croyants en ce monde comptent parmi les causes de leur réunion au Paradis.
+L'attitude de 'Ukkashah ibn Mihsan, qu'Allah soit satisfait de lui, montre le visage concret de l'empressement à faire le bien : il se hâta de demander cette faveur, et le Prophète, paix et bénédictions sur lui, lui annonça qu'il en faisait partie. Quant à la parole adressée au second homme, `سَبَقَكَ بِهَا عُكَّاشَةُ` (« 'Ukkashah t'a devancé »), les savants en ont proposé plusieurs explications, qu'a réunies al-Hafiz Ibn Hajar dans *Fath al-Bari*. Parmi elles : le Prophète, paix et bénédictions sur lui, voulut fermer la porte, pour que les présents ne se succèdent pas à formuler la même demande et qu'elle ne soit pas faite par quelqu'un qui n'en serait pas digne ; il l'écarta donc par une formule délicate, qui ne blesse personne (c'est le sens de ce qu'ont dit al-Qurtubi et Ibn al-Jawzi). Il y a aussi ce que mentionne an-Nawawi : il est possible que le Prophète, paix et bénédictions sur lui, ait reçu la révélation que son invocation serait exaucée pour 'Ukkashah, et que cela n'ait pas été le cas pour l'autre. Nous n'affirmons donc rien, sur l'état du second homme, que les textes ne disent pas, et nous retenons de 'Ukkashah, qu'Allah soit satisfait de lui, la leçon de l'empressement à faire le bien.
 
 <!-- evidence:end -->
 
-<!-- evidence:start id="tirmidhi-2437" kind="hadith" mode="canonical" -->
+### Comment concilier le verset et le hadith ?
 
-عَنْ أَبِي أُمَامَةَ رَضِيَ اللهُ عَنْهُ، عَنِ النَّبِيِّ ﷺ قَالَ: "وَعَدَنِي رَبِّي أَنْ يُدْخِلَ الْجَنَّةَ مِنْ أُمَّتِي سَبْعِينَ أَلْفًا لَا حِسَابَ عَلَيْهِمْ وَلَا عَذَابَ، مَعَ كُلِّ أَلْفٍ سَبْعُونَ أَلْفًا، وَثَلَاثُ حَثَيَاتٍ مِنْ حَثَيَاتِ رَبِّي".
-
-<!-- evidence:translation -->
-
-> Abu Umamah, qu'Allah l'agrée, rapporte que le Prophète ﷺ a dit : "Mon Seigneur m'a promis de faire entrer au Paradis soixante-dix mille personnes de mon Oumma sans reddition de comptes ni châtiment, avec chaque millier soixante-dix mille autres, ainsi que trois poignées parmi les poignées de mon Seigneur."[^6]
-
-**Interprétation savante :** Ibn al-Qayyim, qu'Allah lui fasse miséricorde, écrit dans *Hadi al-Arwah* que ces trois poignées supplémentaires sont une faveur d'Allah qui dépasse tout nombre — un don qu'on ne peut ni dénombrer ni mesurer, à l'image de l'immense générosité qu'Allah S'attribue et qui dépasse tout ce que l'on peut imaginer.
-
-**Explication et lien avec la leçon :** Ce hadith montre que "sans reddition de comptes" ne décrit pas seulement la manière d'entrer : le nombre lui-même échappe au dénombrement — soixante-dix mille, avec chaque millier soixante-dix mille autres, puis des poignées qui ne se comptent pas une à une mais se donnent généreusement. La miséricorde d'Allah dépasse tout calcul que l'esprit humain puisse concevoir.
-
-<!-- evidence:end -->
+Les deux textes décrivent un même don sous un même nom, *bi-ghayri hisab*, mais chacun met en lumière une condition qui complète l'autre. Le verset relie ce don à la foi et aux bonnes œuvres réunies : la confiance seule, sans les œuvres, ne suffit pas. Le hadith le relie à la perfection de la confiance en Allah : ceux qui le reçoivent ne demandent à autrui ni la ruqya ni la cautérisation et ne tirent pas de mauvais présages, remettant entièrement leur affaire à Allah — alors même que se soigner par des moyens permis est licite et sans reproche ; le mérite réside dans la perfection de cette remise à Allah, non dans le blâme de celui qui se soigne. Celui qui réunit une foi sincère, de bonnes œuvres et une confiance pure, qui ne s'attache ni à un présage ni à une créature, est donc le plus proche de cette immense faveur.
 
 <!-- unit:end -->
 
-<!-- unit:start id="l17-adults-primary-story" kind="primary_story" -->
+<!-- unit:start id="adults.questions" kind="questions" -->
 
-### Le récit coranique : l'homme croyant de la famille de Pharaon
+## Questions pour comprendre et méditer
 
-<!-- story:start audience="adults" role="primary" type="quranic" source_id="quran-40-38-45" authenticated="true" -->
-
-Au temps de Moïse, paix sur lui, après qu'Allah eut accompli des miracles par ses mains, Pharaon se fit de plus en plus tyrannique et résolut de tuer Moïse. Il dit à son peuple : "Laissez-moi tuer Moïse, et qu'il invoque son Seigneur !" C'est alors que se manifesta un homme de la famille même de Pharaon — quelqu'un qui avait cru en Moïse en secret et cachait sa foi par crainte de la brutalité des siens. Voyant la gravité de ce qui se tramait, il ne put se taire plus longtemps : il prit position et dit à son peuple : "Ô mon peuple, suivez-moi, je vous guiderai sur le chemin de la droiture." Il leur parla ensuite avec sagesse et bienveillance, leur rappelant que ce monde, si longtemps qu'il dure, n'est qu'une jouissance passagère et que l'au-delà est la demeure durable ; et il leur annonça la bonne nouvelle : quiconque croit et fait le bien — homme ou femme — entrera au Paradis et y recevra sa subsistance "sans compter", un don sans mesure ni limite.
-
-Cet homme croyant continua de mettre son peuple en garde contre les conséquences de la mécréance et du déni, jusqu'à ce qu'on lui réponde par des propos qui ressemblaient à une menace. Mais cela ne fit qu'affermir sa résolution, et il conclut son discours par ces paroles admirables : "Vous vous rappellerez bientôt ce que je vous dis ; et je confie mon sort à Allah ; Allah voit parfaitement Ses serviteurs." Il avait remis toute son affaire à Allah, sans craindre la tyrannie de Pharaon ni les menaces de son peuple. Et Allah le protégea du mal de leurs complots et le sauva, tandis qu'un terrible châtiment s'abattait sur la famille de Pharaon.
-
-Allah n'a pas révélé le nom de cet homme croyant, mais l'a honoré du titre de "celui qui avait cru". Il réunit deux choses admirables : la bonne nouvelle de l'entrée au Paradis sans reddition de comptes, et le secret même pour l'obtenir — remettre toute son affaire à Allah seul.
-
-<!-- story:end -->
+1. Quel point commun y a-t-il entre l'attitude du croyant de la famille de Pharaon et celle de 'Ukkashah ibn Mihsan, qu'Allah soit satisfait de lui, malgré la différence d'époque et de situation ?
+2. Qu'ont dit les savants du sens de la parole du Prophète, paix et bénédictions sur lui, au second homme : « 'Ukkashah t'a devancé » ?
+3. Expliquez la différence entre renoncer à demander la ruqya et la cautérisation par confiance en Allah (un degré de mérite), se soigner par des moyens permis (licite et sans reproche), et l'attachement du cœur aux causes, qui est interdit.
+4. En quoi la remise de son affaire à Allah par le croyant de la famille de Pharaon éclaire-t-elle le sens du véritable tawakkul au cœur du danger ?
+5. Citez une situation de votre vie où vous vous attachez à une cause (une personne, un présage, une habitude) plus qu'il ne le faut, et dites comment vous y ramènerez votre confiance vers Allah seul.
 
 <!-- unit:end -->
 
-<!-- unit:start id="l17-adults-authenticated-story" kind="authenticated_story" -->
+<!-- unit:start id="adults.activity" kind="activity" -->
 
-### Le récit authentique : la réaction d'Ukkasha ibn Mihsan
-
-<!-- retelling:start source_id="muslim-218a" audience="adults" -->
-
-Au cours d'une de ses assemblées, le Prophète ﷺ annonça à ses Compagnons une nouvelle merveilleuse : soixante-dix mille personnes de cette Oumma entreraient au Paradis sans reddition de comptes. Les cœurs furent saisis d'espoir, et ils demandèrent : "Qui sont-ils, ô Messager d'Allah ?" Il les décrivit comme ceux qui ne recourent pas à la cautérisation, ne demandent pas la ruqya et s'en remettent à leur Seigneur. Ukkasha ibn Mihsan, qu'Allah l'agrée, n'hésita pas : il se leva aussitôt et dit : "Invoque Allah pour qu'Il fasse de moi l'un d'eux." Le Prophète ﷺ répondit sur-le-champ : "Tu es l'un d'eux." Puis un autre homme se leva — peut-être après avoir hésité un instant — et fit exactement la même demande ; le Prophète ﷺ lui répondit : "Ukkasha t'a devancé." Ukkasha obtint cette faveur par son empressement et sa bonne opinion d'Allah, tandis que l'autre la manqua pour avoir tardé.[^4]
-
-<!-- retelling:end -->
-
-<!-- unit:end -->
-
-<!-- unit:start id="l17-adults-questions" kind="questions" -->
-
-### Questions de réflexion
-
-1. Que signifie entrer au Paradis "sans reddition de comptes" ? En quoi est-ce une faveur particulière ?
-2. Selon le hadith, quelles qualités ont en commun les soixante-dix mille ?
-3. Comment concilier ces hadiths avec le fait, authentiquement établi, que le Prophète ﷺ lui-même a pratiqué la ruqya et qu'on la lui a faite ?
-4. Que retenons-nous de la prompte réaction d'Ukkasha, qu'Allah l'agrée ?
-5. Comment l'homme croyant de la sourate Ghafir a-t-il relié la bonne nouvelle du Paradis au fait de remettre son affaire à Allah ?
-
-<!-- unit:end -->
-
-<!-- unit:start id="l17-adults-activity" kind="activity" -->
-
-### Activité : la poignée de confiance
+### Activité : la balance de la confiance
 
 <!-- activity:start audience="adults" concept_id="lesson.017.activity.handful-of-trust" -->
 
-Préparez un bol rempli d'une grande quantité de haricots, de lentilles ou de petits cailloux — assez pour qu'il soit fastidieux de les compter un à un. Demandez à chaque membre de la famille d'en prendre une seule "poignée", sans compter. Puis discutez ensemble : peut-on dire précisément combien il y a de grains dans une poignée ? Faites le lien avec "les poignées de mon Seigneur" dans le hadith d'Abu Umamah : un don qui dépasse tout dénombrement et tout calcul. Demandez ensuite à chacun de noter une situation de sa vie où il est tenté de compter sur la chance, la superstition ou l'avis des autres plutôt que de se fier à Allah (éviter un certain nombre, être mal à l'aise face à un certain jour ou à un certain bruit), puis de la reformuler en une phrase de tawakkul à prononcer à la place.
+Plongez la main dans un récipient rempli de graines ou de petits cailloux, prenez-en une poignée, puis essayez d'en compter rapidement le contenu avant qu'il ne glisse entre vos doigts : vous verrez que le compte exact vous échappe. C'est une image concrète du sens de *bi-ghayri hisab* : un don trop grand pour être dénombré. Ensuite, tenez pendant une semaine un carnet où vous noterez chaque jour trois choses : une cause légitime que vous avez prise (comme la ruqya conforme à la Loi ou la consultation d'un médecin) sans que votre cœur se mette à en dépendre ; une situation de pessimisme ou de doute obsédant que vous avez laissée de côté pour vous en remettre à Allah ; et une bonne action vers laquelle vous vous êtes empressé sur-le-champ, sans hésiter, comme s'est empressé 'Ukkashah. À la fin de la semaine, relisez votre carnet pour voir où votre confiance a trouvé son équilibre.
 
 <!-- activity:end -->
 
 <!-- unit:end -->
 
-<!-- unit:start id="l17-adults-dua" kind="bedtime-dua" -->
-
-### Invocation avant le coucher
-
-<!-- bedtime-dua:start audience="adults" id="lesson.017.dua.trust-without-account" provenance="lesson_authored" source_id="" attribution="not_prophetic" -->
-
-اللَّهُمَّ اجْعَلْنِي مِمَّنْ يَتَوَكَّلُ عَلَيْكَ وَحْدَكَ، وَلَا يَتَعَلَّقُ قَلْبُهُ بِغَيْرِكَ، وَأَدْخِلْنِي الْجَنَّةَ بِفَضْلِكَ بِغَيْرِ حِسَابٍ، وَاجْعَلْ حَظِّي مِنْ حَثَيَاتِكَ وَافِرًا، يَا أَرْحَمَ الرَّاحِمِينَ.
-
-> "Ô Allah, fais de moi l'un de ceux qui s'en remettent à Toi seul et dont le cœur ne s'attache à nul autre que Toi ; fais-moi entrer au Paradis par Ta grâce, sans reddition de comptes, et accorde-moi une large part de Tes poignées, ô le plus Miséricordieux des miséricordieux."
-
-(Cette invocation a été composée pour la leçon ; ce n'est pas un hadith prophétique.)
-
-<!-- bedtime-dua:end -->
-
-<!-- unit:end -->
-
-<!-- unit:start id="l17-adults-terminology" kind="terminology" -->
-
-### Terminologie
-
-- **Sans reddition de comptes (بِغَيْرِ حِسَابٍ) :** entrer au Paradis sans être interrogé sur ses actes et sans châtiment, par pure faveur d'Allah.
-- **Istirqa' (الاستِرقاء) :** demander à quelqu'un d'autre de pratiquer la ruqya ; ce qui est blâmable, c'est la sollicitation insistante et la dépendance du cœur à son égard, à la place du tawakkul.
-- **Tatayyur (التطيُّر) :** tirer un mauvais présage d'une chose vue ou entendue, d'un nombre ou d'un jour.
-- **Tawakkul (التوكُّل) :** le fait que le cœur s'en remette à Allah seul, tout en recourant aux moyens licites.
-- **Poignées (الحَثَيات) :** pluriel de "hathya", une pleine poignée prise à deux mains ; le terme décrit le don d'Allah, qu'on ne peut compter un à un.
-
-<!-- unit:end -->
-
 <!-- reader:end -->
+
+## Pour les enfants de 4 à 7 ans
 
 <!-- reader:start audience="4-7" estimated_minutes="3.5" -->
 
-## Pour les tout-petits (4-7 ans)
+<!-- unit:start id="4-7.explanation" kind="explanation" -->
 
-<!-- unit:start id="l17-4-7-explanation" kind="explanation" -->
-
-Mon enfant, imagine : Allah aime tellement ceux qui Lui font confiance qu'Il fait entrer certains d'entre eux au Paradis comme un très grand cadeau — si grand qu'on ne peut même pas le compter ! Ce sont des gens qui se disent toujours dans leur cœur : "Allah est avec moi, et je Lui fais confiance." Ils n'ont pas peur des choses que certaines personnes craignent sans vraie raison (comme un certain nombre ou un certain jour).
+Allah aime celui qui a confiance en Lui seul, qui n'a pas peur des mauvais présages, et qui ne compte que sur Allah. Celui qui est comme cela, Allah lui fait un cadeau très, très grand, qu'on ne peut pas compter, et Il le fait entrer dans la Jannah.
 
 <!-- unit:end -->
 
-<!-- unit:start id="l17-4-7-evidence" kind="evidence" -->
+<!-- unit:start id="4-7.primary-story" kind="primary_story" -->
 
-Le Messager d'Allah ﷺ a dit : "Soixante-dix mille personnes de mon Oumma entreront au Paradis sans reddition de comptes... et ils s'en remettent à leur Seigneur."[^4]
+### Une histoire du Coran : l'homme croyant et courageux
 
-Cela veut dire : des gens très, très nombreux entrent au Paradis, comme un cadeau d'Allah, parce qu'ils Lui font toujours confiance.
+<!-- story:start audience="4-7" role="primary" type="quranic" source_id="quran-40-38-45" authenticated="true" -->
 
-<!-- unit:end -->
+**Ceci est une histoire vraie, tirée du Noble Coran. Ce n'est pas une histoire inventée.**
 
-<!-- unit:start id="l17-4-7-story" kind="story" -->
+Il y avait un homme croyant qui vivait au milieu du peuple de Pharaon, des gens qui ne croyaient pas en Allah. Cet homme se leva avec courage devant son peuple et leur dit : « Suivez-moi, je vais vous montrer le bon chemin. » Il leur dit aussi : « Celui qui croit en Allah et fait le bien entrera dans la Jannah, et là-bas, Allah lui fera un cadeau très, très grand, qu'on ne peut ni calculer ni compter. »[^1]
 
-### L'histoire d'Ukkasha le rapide
+Son peuple ne voulut pas l'écouter, et ils voulurent lui faire du mal. Mais il n'eut pas peur d'eux, et il dit : `وَأُفَوِّضُ أَمْرِي إِلَى اللَّهِ` (« Et je remets mon affaire à Allah »). Cela veut dire : « Je confie toutes mes affaires à Allah seul, et j'ai confiance en Lui. » Alors Allah protégea cet homme croyant de tout le mal qu'ils voulaient lui faire.[^1]
 
-<!-- retelling:start source_id="muslim-218a" audience="4-7" -->
+<!-- retelling:start source_id="quran-40-38-45" audience="4-7" -->
 
-Un jour, le Prophète ﷺ dit à ses Compagnons : "Soixante-dix mille personnes de mon Oumma entreront au Paradis — quel immense cadeau !" Un Compagnon qui s'appelait Ukkasha se leva tout de suite, sans attendre une seconde, et dit : "Ô Messager d'Allah, demande à Allah de faire de moi l'un d'eux !" Le Prophète ﷺ lui répondit aussitôt : "Tu es l'un d'eux !" Comme Ukkasha était heureux ! Un peu plus tard, un autre homme se leva et dit les mêmes mots, mais le Prophète ﷺ lui répondit : "Ukkasha t'a devancé !" Tu vois, c'est très beau de se dépêcher pour demander de bonnes choses.
+Tout cela veut dire, tout simplement : cet homme a cru en Allah seul et n'a eu peur de personne, alors Allah l'a protégé et l'a honoré.[^1]
 
 <!-- retelling:end -->
 
-<!-- unit:end -->
-
-<!-- unit:start id="l17-4-7-questions" kind="questions" -->
-
-1. Quel Compagnon s'est levé très vite ?
-2. Qu'est-ce que le Prophète ﷺ lui a dit ?
-3. Veux-tu, toi aussi, te dépêcher de faire le bien comme Ukkasha ?
+<!-- story:end -->
 
 <!-- unit:end -->
 
-<!-- unit:start id="l17-4-7-activity" kind="activity" -->
+<!-- unit:start id="4-7.questions" kind="questions" -->
 
-### Activité : ma poignée de haricots
+### Questions courtes
+
+1. Qu'a dit l'homme croyant à son peuple pour lui montrer le bon chemin ?
+2. Qu'a-t-il dit quand son peuple a voulu lui faire du mal ?
+3. Qui a protégé l'homme croyant du mal ?
+
+<!-- unit:end -->
+
+<!-- unit:start id="4-7.activity" kind="activity" -->
+
+### Activité : une poignée qu'on ne peut pas compter
 
 <!-- activity:start audience="4-7" concept_id="lesson.017.activity.handful-of-trust" -->
 
-Placez devant l'enfant un bol de haricots ou de grosses perles (sous surveillance, pour éviter tout risque d'étouffement). Demandez-lui d'en prendre une "poignée" avec sa petite main, puis dites-lui : "Peux-tu les compter vite ? Il y en a tellement !" Le cadeau d'Allah pour ceux qui Lui font confiance, c'est comme ça : il y en a énormément, beaucoup trop pour qu'on puisse compter. Jouez ensuite à "Qui se dépêche le premier ?" : demandez à l'enfant de faire vite une petite tâche (ranger un jouet, par exemple), et félicitez-le de s'être dépêché, comme Ukkasha.
+Avec l'aide de ton papa ou de ta maman, prends dans ta main de grosses graines (comme des pois chiches ou des fèves) dans un bol, et essaie de les compter très vite avant qu'elles ne tombent de ta main. Tu verras qu'il y en a beaucoup, beaucoup, et que tu n'arrives pas à les compter vite ! Ensuite, dis à tes parents : « Ô Allah, j'ai confiance en Toi seul. » Et souviens-toi : ce qu'Allah donne à celui qui a confiance en Lui est bien plus grand que cette poignée.
 
 <!-- activity:end -->
 
 <!-- unit:end -->
 
-<!-- unit:start id="l17-4-7-dua" kind="bedtime-dua" -->
+<!-- unit:start id="4-7.bedtime-dua" kind="bedtime_dua" -->
 
-### Invocation avant le coucher
+### Du'a avant de dormir
 
 <!-- bedtime-dua:start audience="4-7" id="lesson.017.dua.trust-without-account" provenance="lesson_authored" source_id="" attribution="not_prophetic" -->
 
-اللَّهُمَّ إِنِّي أَثِقُ بِكَ، فَأَدْخِلْنِي جَنَّتَكَ هَدِيَّةً مِنْكَ، يَا أَرْحَمَ الرَّاحِمِينَ.
+**Du'a thématique composée pour cette leçon ; non attribuée au Prophète, paix et bénédictions sur lui.**
 
-> "Ô Allah, je Te fais confiance : fais-moi entrer dans Ton Paradis, comme un cadeau de Ta part, ô le plus Miséricordieux des miséricordieux."
+> اللَّهُمَّ اجْعَلْنِي مِمَّنْ يَتَوَكَّلُ عَلَيْكَ وَحْدَكَ، وَلَا يَتَعَلَّقُ قَلْبُهُ بِغَيْرِكَ، وَأَدْخِلْنِي الْجَنَّةَ بِفَضْلِكَ بِغَيْرِ حِسَابٍ، وَاجْعَلْ حَظِّي مِنْ حَثَيَاتِكَ وَافِرًا، يَا أَرْحَمَ الرَّاحِمِينَ.
+>
+> *« Ô Allah, fais de moi l'un de ceux qui placent leur confiance en Toi seul et dont le cœur ne s'attache à nul autre que Toi ; fais-moi entrer dans la Jannah par Ta grâce, sans reddition de comptes ; et accorde-moi une large part de Tes poignées (hathayat), ô Toi, le plus Miséricordieux des miséricordieux. »*
 
 <!-- bedtime-dua:end -->
 
@@ -273,84 +200,86 @@ Placez devant l'enfant un bol de haricots ou de grosses perles (sous surveillanc
 
 <!-- reader:end -->
 
-<!-- reader:start audience="8-12" estimated_minutes="6.0" -->
+## Pour les enfants de 8 à 12 ans
 
-## Pour les enfants (8-12 ans)
+<!-- reader:start audience="8-12" estimated_minutes="5.5" -->
 
-<!-- unit:start id="l17-8-12-explanation" kind="explanation" -->
+<!-- unit:start id="8-12.explanation" kind="explanation" -->
 
-As-tu déjà entendu parler d'un cadeau si grand qu'on ne peut pas le compter ? Le Prophète ﷺ nous a appris que soixante-dix mille personnes de son Oumma entreront au Paradis "sans reddition de comptes" : elles ne seront pas retenues pour être interrogées sur leurs actes, aucun châtiment ne les touchera, et elles entreront directement, par pure faveur d'Allah. Le Prophète ﷺ les a décrites comme des gens qui ne comptent pas sur les autres pour leur faire la ruqya et qui ne sont pas superstitieux, parce que leur cœur n'est attaché qu'à Allah et s'en remet à Lui. Le tawakkul ne veut pas dire renoncer aux moyens (prendre ses médicaments, bien travailler à l'école…) : c'est les utiliser tout en gardant au cœur la certitude que seul Allah apporte vraiment le bien et éloigne le mal.
-
-<!-- unit:end -->
-
-<!-- unit:start id="l17-8-12-evidence" kind="evidence" -->
-
-<!-- evidence:start id="muslim-218a-b" kind="hadith" mode="canonical" -->
-
-Le Messager d'Allah ﷺ a dit : "Soixante-dix mille personnes de mon Oumma entreront au Paradis sans reddition de comptes." On lui demanda : "Qui sont-ils, ô Messager d'Allah ?" Il répondit : "Ce sont ceux qui ne recourent pas à la cautérisation, ne demandent pas la ruqya et s'en remettent à leur Seigneur."[^4]
-
-**Explication et lien avec la leçon :** Ce hadith nous apprend que la confiance totale en Allah — tout en utilisant les bons moyens — est un chemin merveilleux vers Son agrément, et que cette porte est ouverte à quiconque est sincère dans son tawakkul.
-
-<!-- evidence:end -->
+`بِغَيْرِ حِسَابٍ` (*bi-ghayri hisab*) veut dire : un don d'Allah qui ne se mesure pas et ne se compte pas, et qu'Allah accorde à celui qui réunit la foi, les bonnes œuvres et une confiance sincère en Lui. La confiance en Allah (*at-tawakkul*), c'est compter sur Allah seul dans toutes tes affaires, tout en prenant les moyens permis, et sans que ton cœur s'attache à un présage, à une habitude ou à une personne plus qu'à Allah. Le Prophète, paix et bénédictions sur lui, nous a appris que soixante-dix mille personnes de sa communauté entreront dans la Jannah sans reddition de comptes : ce sont ceux qui ne demandent pas à d'autres de leur faire la ruqya, qui ne tirent pas de mauvais présages, et qui ne demandent pas la cautérisation, mais qui s'en remettent à leur Seigneur seul. Cela dit, aller chez le médecin et prendre un médicament permis, c'est licite, et ce n'est pas un défaut.[^2]
 
 <!-- unit:end -->
 
-<!-- unit:start id="l17-8-12-primary-story" kind="primary_story" -->
+<!-- unit:start id="8-12.primary-story" kind="primary_story" -->
 
-### L'histoire de l'homme croyant de la famille de Pharaon
+### Du Coran : le croyant de la famille de Pharaon
 
 <!-- story:start audience="8-12" role="primary" type="quranic" source_id="quran-40-38-45" authenticated="true" -->
 
-Dans l'entourage même de Pharaon vivait un homme qui croyait en Allah en secret ; personne ne connaissait sa foi. Un jour, il apprit que Pharaon projetait de tuer Moïse, paix sur lui. Il ne put se taire devant une telle injustice : il se leva devant son peuple — tout en sachant que c'était très dangereux pour lui — et dit : "Ô mon peuple, suivez-moi, je vous guiderai sur le bon chemin." Puis il leur expliqua : "Ce monde n'est qu'un plaisir de courte durée, mais l'au-delà est la demeure qui dure. Quiconque croit et fait le bien entrera au Paradis et y recevra un immense cadeau, qu'on ne peut ni mesurer ni compter !"
+**Ceci est une histoire vraie, rapportée dans le Noble Coran, dans la sourate Ghafir. Ce n'est pas une histoire inventée.**
 
-Son peuple essaya de l'intimider, mais il n'eut pas peur et prononça ces dernières paroles : "Vous vous souviendrez un jour de ce que je vous dis, et je remets toute mon affaire à Allah, car Allah voit tout." Et en effet, Allah le protégea de tous les complots qu'ils tramèrent contre lui, tandis que le châtiment s'abattit sur Pharaon et son peuple injuste. Parce que cet homme courageux avait dit la vérité et remis son affaire à Allah, il fut sauvé et triompha.
+Dans la famille de Pharaon, il y avait un homme croyant qui cachait sa foi, par peur de son peuple. Mais quand Pharaon et les siens s'en prirent de plus en plus durement à Moïse, paix sur lui, cet homme ne put plus se taire. Il se leva devant son peuple et déclara : `يَا قَوْمِ اتَّبِعُونِ أَهْدِكُمْ سَبِيلَ الرَّشَادِ` (« Ô mon peuple, suivez-moi : je vous guiderai sur le chemin de la droiture »). Il les avertit que ce monde n'est qu'une jouissance qui passe, que l'au-delà est la Demeure de la stabilité, celle qui dure, et il leur annonça que quiconque croit et fait le bien — homme ou femme — entrera dans la Jannah : `يُرْزَقُونَ فِيهَا بِغَيْرِ حِسَابٍ` (« ils y recevront leur subsistance sans compter »).[^1]
+
+Mais son peuple l'appela à la mécréance. Il leur dit, étonné : `وَيَا قَوْمِ مَا لِي أَدْعُوكُمْ إِلَى النَّجَاةِ وَتَدْعُونَنِي إِلَى النَّارِ` (« Ô mon peuple, comment se fait-il que je vous appelle au salut, alors que vous m'appelez au Feu ? »). Autrement dit : vous m'appelez à mécroire en Allah et à Lui donner des associés, alors que moi, je vous appelle vers Allah, le Tout-Puissant, le Très-Pardonnant. Il leur expliqua aussi que ce qu'ils invoquaient en dehors d'Allah ne servait à rien, ni dans ce monde ni dans l'au-delà. Puis il conclut par la plus grande des paroles : `وَأُفَوِّضُ أَمْرِي إِلَى اللَّهِ ۚ إِنَّ اللَّهَ بَصِيرٌ بِالْعِبَادِ` (« Et je remets mon affaire à Allah. Allah voit parfaitement Ses serviteurs »). Cela veut dire : « Je confie toutes mes affaires à Allah, et je suis sûr qu'Il voit ma situation et qu'Il me protège. »[^1]
+
+Allah le protégea alors de tous les pièges que son peuple voulait lui tendre, et Il fit tomber sur la famille de Pharaon le pire châtiment, qu'elle méritait à cause de sa mécréance.[^1]
+
+<!-- retelling:start source_id="quran-40-38-45" audience="8-12" -->
+
+Autrement dit : un seul homme a proclamé sa foi devant tout son peuple, sans avoir peur des conséquences de ses paroles ; au contraire, il a remis toute son affaire à Allah. Allah l'a alors protégé et sauvé, et ceux qui l'ont traité de menteur et ont voulu lui faire du mal ont péri.[^1]
+
+<!-- retelling:end -->
 
 <!-- story:end -->
 
 <!-- unit:end -->
 
-<!-- unit:start id="l17-8-12-authenticated-story" kind="authenticated_story" -->
+<!-- unit:start id="8-12.terms" kind="terms" -->
 
-### L'histoire d'Ukkasha ibn Mihsan
+<!-- terminology:start source_id="quran-40-38-45" -->
 
-<!-- retelling:start source_id="muslim-218a" audience="8-12" -->
+- **`بِغَيْرِ حِسَابٍ` (*bi-ghayri hisab*)** — un don d'Allah qui ne se mesure pas à la quantité de l'œuvre et qui ne se compte pas : c'est une faveur qui dépasse ce que l'on mérite.[^1]
+- **`التَّوَكُّلُ` (*at-tawakkul*)** — le fait que le cœur compte sur Allah seul dans chaque affaire, tout en prenant les moyens permis, sans les abandonner.[^2]
+- **`التَّطَيُّرُ` (*at-tatayyur*)** — tirer un mauvais présage de quelque chose que l'on voit ou que l'on entend (comme un oiseau, un chiffre ou un jour) et renoncer pour cela à ce que l'on voulait faire ; c'est interdit par la Loi.[^2]
 
-Le Prophète ﷺ annonça à ses Compagnons que soixante-dix mille personnes de son Oumma entreraient au Paradis sans reddition de comptes, et les décrivit comme des gens qui font confiance à Allah et ne comptent pas sur les autres pour leur faire la ruqya. Aussitôt, sans la moindre hésitation, un Compagnon nommé Ukkasha ibn Mihsan se leva et dit : "Ô Messager d'Allah, demande à Allah de faire de moi l'un d'eux." Le Prophète ﷺ lui répondit tout de suite : "Tu es l'un d'eux." Quelques instants plus tard, un autre homme se leva — peut-être après avoir réfléchi et hésité — et fit exactement la même demande ; le Prophète ﷺ lui répondit : "Ukkasha t'a devancé." Cette histoire nous apprend que les occasions de faire le bien n'attendent pas ceux qui hésitent.
-
-<!-- retelling:end -->
-
-<!-- unit:end -->
-
-<!-- unit:start id="l17-8-12-questions" kind="questions" -->
-
-1. Qui est l'homme qui a défendu la vérité dans l'entourage de Pharaon ? Que lui est-il arrivé ?
-2. Pourquoi la demande d'Ukkasha a-t-elle été exaucée alors que la même demande de l'autre homme ne l'a pas été ?
-3. Quelle est la différence entre faire confiance à Allah et renoncer aux moyens appropriés ?
-4. Décris une situation où tu pourrais, comme Ukkasha, te dépêcher de faire le bien.
+<!-- terminology:end -->
 
 <!-- unit:end -->
 
-<!-- unit:start id="l17-8-12-activity" kind="activity" -->
+<!-- unit:start id="8-12.questions" kind="questions" -->
 
-### Activité : le journal d'initiative et de confiance
+### Questions de compréhension et de réflexion
+
+1. Pourquoi était-il dangereux, et courageux, pour l'homme croyant de proclamer sa foi devant son peuple ?
+2. Que veut dire, avec tes propres mots, la phrase `وَأُفَوِّضُ أَمْرِي إِلَى اللَّهِ` (« Et je remets mon affaire à Allah ») ?
+3. Cite les trois qualités par lesquelles le Prophète, paix et bénédictions sur lui, a décrit les soixante-dix mille.
+4. Qu'apprenons-nous de l'empressement de 'Ukkashah ibn Mihsan à demander le bien ? Et qu'ont dit les savants sur la raison pour laquelle le Prophète, paix et bénédictions sur lui, a dit à l'autre homme : « 'Ukkashah t'a devancé » ?
+
+<!-- unit:end -->
+
+<!-- unit:start id="8-12.activity" kind="activity" -->
+
+### Activité : le carnet de l'initiative et de la confiance
 
 <!-- activity:start audience="8-12" concept_id="lesson.017.activity.handful-of-trust" -->
 
-Remplissez un bol de haricots ou de perles. Demandez à chaque enfant d'en prendre une poignée et d'essayer de la compter en une minute exactement — ils verront que c'est très difficile ! Écrivez ensemble : "Le cadeau d'Allah est comme ça : trop grand pour être compté." Puis demandez à chaque enfant de noter dans un petit cahier (le "journal d'initiative") une situation de la semaine où il se dépêchera de faire le bien sans tarder (comme Ukkasha), et une autre où il fera confiance à Allah au lieu de céder à la superstition ou à l'inquiétude.
+Prends dans ta main une poignée de petits cailloux ou de lentilles dans un bol, et essaie de les compter rapidement avant de les remettre : tu découvriras qu'il y en a trop pour les compter vite, et cela t'aidera à comprendre le sens de *bi-ghayri hisab*. Ensuite, ouvre ton « carnet de l'initiative et de la confiance » : sur une page, écris une situation réelle où tu as ressenti du pessimisme ou la peur d'un mauvais présage, ou bien où tu as compté sur une personne plus qu'il ne le fallait, au lieu de compter sur Allah. Puis réécris cette même situation avec une phrase claire de confiance en Allah qui commence par « Je m'en remets à Allah pour… », à la manière de 'Ukkashah, qui s'est empressé avec rapidité et certitude.
 
 <!-- activity:end -->
 
 <!-- unit:end -->
 
-<!-- unit:start id="l17-8-12-dua" kind="bedtime-dua" -->
+<!-- unit:start id="8-12.bedtime-dua" kind="bedtime_dua" -->
 
-### Invocation avant le coucher
+### Du'a avant de dormir
 
 <!-- bedtime-dua:start audience="8-12" id="lesson.017.dua.trust-without-account" provenance="lesson_authored" source_id="" attribution="not_prophetic" -->
 
-اللَّهُمَّ اجْعَلْنِي مِمَّنْ يَتَوَكَّلُ عَلَيْكَ حَقَّ التَّوَكُّلِ، وَبَادِرْ بِي إِلَى كُلِّ خَيْرٍ كَمَا بَادَرَ عُكَّاشَةُ، وَاجْعَلْنِي مِنْ أَهْلِ جَنَّتِكَ بِغَيْرِ حِسَابٍ.
+**Du'a thématique composée pour cette leçon ; non attribuée au Prophète, paix et bénédictions sur lui.**
 
-> "Ô Allah, fais de moi l'un de ceux qui s'en remettent à Toi d'une confiance véritable ; fais que je m'empresse vers tout bien comme Ukkasha s'est empressé, et fais de moi l'un des habitants de Ton Paradis, sans reddition de comptes."
+> اللَّهُمَّ اجْعَلْنِي مِمَّنْ يَتَوَكَّلُ عَلَيْكَ وَحْدَكَ، وَلَا يَتَعَلَّقُ قَلْبُهُ بِغَيْرِكَ، وَأَدْخِلْنِي الْجَنَّةَ بِفَضْلِكَ بِغَيْرِ حِسَابٍ، وَاجْعَلْ حَظِّي مِنْ حَثَيَاتِكَ وَافِرًا، يَا أَرْحَمَ الرَّاحِمِينَ.
+>
+> *« Ô Allah, fais de moi l'un de ceux qui placent leur confiance en Toi seul et dont le cœur ne s'attache à nul autre que Toi ; fais-moi entrer dans la Jannah par Ta grâce, sans reddition de comptes ; et accorde-moi une large part de Tes poignées (hathayat), ô Toi, le plus Miséricordieux des miséricordieux. »*
 
 <!-- bedtime-dua:end -->
 
@@ -358,109 +287,89 @@ Remplissez un bol de haricots ou de perles. Demandez à chaque enfant d'en prend
 
 <!-- reader:end -->
 
-<!-- reader:start audience="13+" estimated_minutes="7.0" -->
+## Pour les adolescents, 13 ans et plus
 
-## Pour les adolescents (13 ans et plus)
+<!-- reader:start audience="13+" estimated_minutes="6.0" -->
 
-<!-- unit:start id="l17-13-explanation" kind="explanation" -->
+<!-- unit:start id="13+.explanation" kind="explanation" -->
 
-On pourrait se demander : comment certaines personnes peuvent-elles entrer au Paradis "sans reddition de comptes", alors que tous les autres seront interrogés sur la moindre de leurs œuvres au Jour du Jugement ? La réponse : c'est une pure faveur d'Allah, qu'Il réserve à ceux qui s'en rendent dignes par un tawakkul sincère et un cœur libre de tout attachement à autre que Lui. Cela ne veut pas dire que ces gens n'avaient pas d'œuvres vertueuses ; c'est plutôt qu'Allah suffisait tant à leurs cœurs qu'ils ne dépendaient plus des gens ni des seuls moyens extérieurs. Allah les a donc traités à la mesure de leurs cœurs : un don au-delà de tout calcul, pour qui n'a remis son affaire qu'à Celui dont le don ne se compte pas.
+*Bi-ghayri hisab* n'est pas seulement la promesse abstraite d'un grand don : elle décrit un état du cœur, un cœur qui ne mesure pas sa relation avec Allah en gains et en pertes, et qui ne s'attache à aucune cause hors d'Allah, même si elle paraît puissante aux yeux des gens. Aujourd'hui, les exemples abondent : la peur d'un chiffre ou d'un jour, l'attachement aux horoscopes, à la chance et aux porte-bonheur, ou le fait de te fier aux pronostics des gens sur ton avenir plus qu'au décret d'Allah. Tout cela touche à ce que le hadith appelle *at-tatayyur* (tirer de mauvais présages) et à l'attachement à autre qu'Allah contre lequel le Coran met en garde, même si le fiqh les classe en chapitres distincts : le pessimisme lié aux chiffres et aux jours est du *tatayyur* proprement dit, les horoscopes relèvent de l'astrologie (*at-tanjim*), et les amulettes (*at-tama'im*) forment un chapitre à part, interdit par la Loi.
 
-Les savants ont débattu d'un point précis : l'expression "la yarqun" (ils ne pratiquent pas la ruqya sur autrui), qui figure dans certaines versions de ce hadith. Certains, comme Cheikh al-Islam Ibn Taymiyya, ont estimé qu'il s'agit d'un ajout qui ne fait pas partie du texte original, car il semble contredire le fait authentiquement établi que le Prophète ﷺ lui-même a pratiqué la ruqya sur autrui et l'a recommandée ; al-Hafiz Ibn Hajar, dans *Fath al-Bari* (11/408-409), a quant à lui examiné ces versions et proposé des moyens de les concilier. C'est un bel exemple de la rigueur des savants du hadith dans l'examen des textes, et cela montre qu'un désaccord sur un détail de formulation n'affaiblit pas le sens central, fermement établi : la confiance sincère en Allah est une cause de cette immense faveur.
-
-<!-- unit:end -->
-
-<!-- unit:start id="l17-13-evidence" kind="evidence" -->
-
-<!-- evidence:start id="bukhari-6541" kind="hadith" mode="canonical" -->
-
-عَنِ ابْنِ عَبَّاسٍ رَضِيَ اللهُ عَنْهُمَا، عَنِ النَّبِيِّ ﷺ قَالَ: "عُرِضَتْ عَلَيَّ الْأُمَمُ، فَرَأَيْتُ النَّبِيَّ وَمَعَهُ الرُّهَيْطُ، وَالنَّبِيَّ وَمَعَهُ الرَّجُلُ وَالرَّجُلَانِ، وَالنَّبِيَّ لَيْسَ مَعَهُ أَحَدٌ، إِذْ رُفِعَ لِي سَوَادٌ عَظِيمٌ، فَظَنَنْتُ أَنَّهُمْ أُمَّتِي، فَقِيلَ لِي: هَذَا مُوسَى وَقَوْمُهُ، وَلَكِنِ انْظُرْ إِلَى الْأُفُقِ، فَنَظَرْتُ فَإِذَا سَوَادٌ عَظِيمٌ، فَقِيلَ لِي: انْظُرْ إِلَى الْأُفُقِ الْآخَرِ، فَإِذَا سَوَادٌ عَظِيمٌ، فَقِيلَ لِي: هَذِهِ أُمَّتُكَ، وَمَعَهُمْ سَبْعُونَ أَلْفًا يَدْخُلُونَ الْجَنَّةَ بِغَيْرِ حِسَابٍ وَلَا عَذَابٍ".
-
-<!-- evidence:translation -->
-
-> Ibn Abbas, qu'Allah les agrée tous deux, rapporte que le Prophète ﷺ a dit : "Les nations me furent présentées. Je vis un prophète accompagné d'un petit groupe, un prophète accompagné d'un ou deux hommes, et un prophète que personne n'accompagnait. Puis une immense multitude se dressa devant moi, et je pensai que c'était mon Oumma, mais on me dit : 'Voici Moïse et son peuple. Regarde plutôt vers l'horizon.' Je regardai, et voici une immense multitude. On me dit : 'Regarde vers l'autre horizon', et voici encore une immense multitude. On me dit : 'Voici ton Oumma, et avec eux soixante-dix mille qui entreront au Paradis sans reddition de comptes ni châtiment.'"[^7]
-
-**Interprétation savante :** Al-Hafiz Ibn Hajar, dans *Fath al-Bari*, note que ce hadith — qui figure dans le Livre des Riqaq (ce qui attendrit les cœurs) du *Sahih* d'al-Bukhari — est un texte fondamental montrant combien l'Oumma de Muhammad ﷺ est nombreuse, et qu'un groupe particulier en son sein — soixante-dix mille — obtient cette faveur considérable.
-
-**Explication et lien avec la leçon :** Ce hadith nous montre la scène sous un autre angle : le Prophète ﷺ voit son Oumma comparée aux autres nations, et distinguée par ce grand nombre qui entre sans reddition de comptes. Cette faveur n'est donc pas une exception marginale, mais un trait marquant de cette Oumma comblée de miséricorde.
-
-<!-- evidence:end -->
-
-<!-- evidence:start id="muslim-220a" kind="hadith" mode="canonical" -->
-
-عَنِ ابْنِ عَبَّاسٍ رَضِيَ اللهُ عَنْهُمَا قَالَ: قَالَ رَسُولُ اللهِ ﷺ: "... هُمُ الَّذِينَ لَا يَسْتَرْقُونَ وَلَا يَتَطَيَّرُونَ، وَعَلَى رَبِّهِمْ يَتَوَكَّلُونَ".
-
-<!-- evidence:translation -->
-
-> Ibn Abbas, qu'Allah les agrée tous deux, rapporte que le Messager d'Allah ﷺ a dit : "… Ce sont ceux qui ne demandent pas la ruqya, ne tirent pas de mauvais présages et s'en remettent à leur Seigneur."[^8]
-
-**Interprétation savante :** Dans cette version d'Ibn Abbas, on remarque la mention "ne pas tirer de mauvais présages" à côté de "ne pas demander la ruqya". Ibn Hajar relève ce point à propos des multiples formulations de ce hadith selon ses diverses chaînes de transmission (Imran ibn Husayn, Ibn Abbas et Sahl ibn Sa'd), qui convergent toutes vers un même sens : un cœur libre de tout attachement à autre qu'Allah.
-
-**Explication et lien avec la leçon :** La mention des mauvais présages élargit le sens : il ne s'agit plus seulement de renoncer à demander la ruqya, mais de rejeter toute forme de superstition, comme celles qui étaient répandues avant l'islam. Le but est d'atteindre un tawakkul complet dans tous les domaines de la vie.
-
-<!-- evidence:end -->
+Le croyant de la famille de Pharaon incarne un modèle plus exigeant encore : il n'affrontait pas seulement un mauvais présage, mais un peuple entier prêt à le tuer parce qu'il s'opposait à l'opinion de tous. Pourtant, il n'a pas marchandé sa conviction, ni cherché un compromis qui contente les deux camps : il a proclamé la vérité et remis l'issue à Allah. Voilà le vrai test du tawakkul : non pas faire confiance à Allah quand cela ne te coûte rien, mais quand le prix social est lourd.
 
 <!-- unit:end -->
 
-<!-- unit:start id="l17-13-primary-story" kind="primary_story" -->
+<!-- unit:start id="13+.primary-story" kind="primary_story" -->
 
-### L'homme croyant de la sourate Ghafir : un modèle de courage et de confiance
+### Du Coran : la prise de position du croyant de la famille de Pharaon au milieu des siens
 
 <!-- story:start audience="13+" role="primary" type="quranic" source_id="quran-40-38-45" authenticated="true" -->
 
-La sourate Ghafir rapporte une scène unique : un homme de l'entourage même de Pharaon qui — comme l'expliquent les commentateurs — avait cru en Moïse, paix sur lui, et cachait sa foi par crainte de la persécution, jusqu'au moment décisif où Pharaon résolut de tuer Moïse. Se taire n'était alors plus possible : il sortit de sa réserve et proclama la vérité devant l'assemblée, au péril de sa vie, pour sauver Moïse et arracher son peuple à l'égarement.
+**Ceci est un récit tiré du texte même du Coran, dans la sourate Ghafir. Ce n'est pas une scène imaginée.**
 
-Son discours, tel que le Coran le rapporte, est un modèle de sagesse et de patience : il commença par proposer une autre voie ("Suivez-moi, je vous guiderai sur le chemin de la droiture"), puis opposa le caractère éphémère de ce monde à la permanence de l'au-delà, avant d'annoncer la plus grande des bonnes nouvelles : l'entrée au Paradis "sans reddition de comptes" pour quiconque croit et fait le bien, alors que la justice d'Allah ne rétribue le mal que par son équivalent. Quand son peuple tenta de le menacer et de l'intimider, il ne faiblit pas, et conclut par la plus haute déclaration de tawakkul : "Je confie mon sort à Allah ; Allah voit parfaitement [Ses] serviteurs."
+Chez les gens de Pharaon, où nul ne pouvait contredire l'opinion de tous, vivait un croyant issu des leurs qui cachait sa foi, au milieu d'un peuple qui menaçait Moïse, paix sur lui, de mort. Mais il ne put se taire plus longtemps : il se dressa devant eux et annonça sa position sans détour : « Ô mon peuple, suivez-moi : je vous guiderai sur le chemin de la droiture. » Puis il alla droit au cœur du sujet : cette vie d'ici-bas, si longue soit-elle, n'est qu'une jouissance passagère ; l'au-delà est la véritable Demeure de la stabilité ; et celui qui croit et fait le bien — homme ou femme — a pour récompense la Jannah, où « ils recevront leur subsistance sans compter ».[^1]
 
-L'issue fut sans appel : "Allah le protégea des méfaits de leurs complots", tandis qu'"un dur châtiment cerna les gens de Pharaon". Cet homme, que le Coran ne nomme jamais, est pour chaque génération le modèle de celui qui unit le courage de dire la vérité à une confiance sincère en Allah, dans les circonstances les plus sombres — exactement ce que les hadiths louent chez les soixante-dix mille.
+À leur appel à la mécréance, il répondit : « Ô mon peuple, comment se fait-il que je vous appelle au salut, alors que vous m'appelez au Feu ? » Et il démonta clairement leur appel : vous m'appelez à mécroire en Allah et à Lui associer ce dont je n'ai aucune connaissance, tandis que moi, je vous appelle vers le Tout-Puissant, le Très-Pardonnant. Il déclara que ce vers quoi l'on appelle en dehors d'Allah — *la jarama*, c'est-à-dire « sans aucun doute » — ne peut répondre à aucun appel, ni ici-bas ni dans l'au-delà, que tous retourneront à Allah, et que ceux qui outrepassent la vérité sont les gens du Feu.[^1]
+
+Puis vint le moment décisif. Il ne menaça pas, il ne recula pas ; il dit : « Vous vous rappellerez bientôt ce que je vous dis. Et je remets mon affaire à Allah. Allah voit parfaitement Ses serviteurs. » Cette dernière phrase, c'est le tawakkul sous sa forme la plus haute : remettre entièrement à Allah l'issue de sa prise de position, sans savoir comment les choses tourneront. Et l'issue fut celle-ci : « Allah le préserva des méfaits de leurs ruses, et le pire châtiment cerna la famille de Pharaon. »[^1]
+
+<!-- retelling:start source_id="quran-40-38-45" audience="13+" -->
+
+En d'autres termes : cet homme avait deux options — se taire et échapper au mal que son peuple pouvait lui faire, ou proclamer la vérité et risquer tout. Il a choisi de parler, et il en a remis l'issue à Allah, sans aucune garantie humaine. Allah l'a alors protégé et sauvé, tandis que ceux qui l'avaient traité de menteur ont été frappés par le pire châtiment, celui dont il les avait avertis.[^1]
+
+<!-- retelling:end -->
 
 <!-- story:end -->
 
 <!-- unit:end -->
 
-<!-- unit:start id="l17-13-authenticated-story" kind="authenticated_story" -->
+<!-- unit:start id="13+.terms" kind="terms" -->
 
-### L'initiative d'Ukkasha : une leçon pour saisir l'occasion
+<!-- terminology:start source_id="muslim-218a" -->
 
-<!-- retelling:start source_id="muslim-218a" audience="13+" -->
+- **`Bi-ghayri hisab` dans son sens large** — pas seulement la quantité de la subsistance ou de la récompense, mais la nature même de la relation avec Allah, qui ne se mesure pas aux calculs de gains et de pertes de ce monde.[^1]
+- **`At-tafwid`** — remettre entièrement l'issue à Allah après avoir fourni l'effort et dit la vérité ; ce n'est ni la résignation passive ni l'abandon des moyens.[^1]
+- **`At-tatayyur` et ce qui s'y rattache aujourd'hui** — tirer un mauvais présage de ce que l'on voit ou entend ; ses formes actuelles incluent le pessimisme lié à un chiffre, à un jour ou à des nombres « de chance ». S'y rattache tout attachement du cœur à un signe ou à un symbole qui remplace la confiance dans le décret d'Allah, comme les horoscopes (de l'astrologie) et les amulettes (un chapitre à part, interdit par la Loi).[^2]
 
-Lorsque les Compagnons apprirent que soixante-dix mille personnes entreraient au Paradis sans reddition de comptes, ils ne savaient pas lesquels d'entre eux en feraient partie. Ukkasha ibn Mihsan al-Asadi ne fit pourtant pas de cette incertitude une raison d'hésiter : il demanda sur-le-champ l'invocation du Prophète ﷺ, fort de sa bonne opinion d'Allah et de la sincérité de sa vie. Le Prophète ﷺ lui répondit aussitôt. Quant au second homme, qui fit la même demande quelques instants plus tard, il lui fut répondu : "Ukkasha t'a devancé." La différence entre les deux hommes ne tenait pas forcément à la sincérité de leur foi, mais — comme le suggère le contexte du hadith — à celui qui avait pris l'initiative le premier. Cela nous rappelle que les portes du bien peuvent s'ouvrir un instant, puis les circonstances changent : l'empressement à les saisir fait partie des qualités des croyants résolus.
-
-<!-- retelling:end -->
-
-<!-- unit:end -->
-
-<!-- unit:start id="l17-13-questions" kind="questions" -->
-
-1. Comment concilier, par la raison et par les textes, la faveur du "sans reddition de comptes" avec la justice d'Allah lorsqu'Il juge le reste de la création ?
-2. En quoi le désaccord des savants sur la formulation "la yarqun" nous aide-t-il à comprendre la méthode des spécialistes du hadith dans l'examen des différentes versions ?
-3. Quels points communs vois-tu entre l'attitude de l'homme croyant de la sourate Ghafir et celle d'Ukkasha, qu'Allah l'agrée ?
-4. Comment le tawakkul sincère peut-il aller de pair avec l'effort et le recours aux moyens appropriés, au lieu de s'y opposer ?
-5. Raconte par écrit une situation de ta vie où tu as dû choisir entre prendre l'initiative et hésiter.
+<!-- terminology:end -->
 
 <!-- unit:end -->
 
-<!-- unit:start id="l17-13-activity" kind="activity" -->
+<!-- unit:start id="13+.questions" kind="questions" -->
 
-### Activité : la balance de la confiance
+### Questions de discussion
+
+1. Quelle différence y a-t-il entre le *tatayyur* décrit par le hadith et les formes actuelles d'attachement aux horoscopes ou à « la chance » ?
+2. Pourquoi la prise de position publique du croyant de la famille de Pharaon était-elle une épreuve du tawakkul plus difficile que le simple refus d'un mauvais présage ?
+3. Comment distingues-tu un moyen légitime que tu prends (étudier, consulter un spécialiste) d'une dépendance de ton cœur envers lui, à la place d'Allah ?
+4. Pourquoi, selon les savants, le Prophète, paix et bénédictions sur lui, a-t-il dit au second homme : « 'Ukkashah t'a devancé », alors que sa demande n'était pas mauvaise en soi ? Et pourquoi ne rien affirmer sur son état que les textes ne disent pas ?
+5. Cite une vraie décision devant laquelle tu hésites à cause de l'avis des gens ou de la peur d'un résultat incertain, et dis comment tu pourrais en remettre l'issue à Allah, comme le croyant de la famille de Pharaon.
+
+<!-- unit:end -->
+
+<!-- unit:start id="13+.activity" kind="activity" -->
+
+### Activité : la balance de la confiance
 
 <!-- activity:start audience="13+" concept_id="lesson.017.activity.handful-of-trust" -->
 
-Prends une seule poignée de haricots ou de perles et essaie de la compter précisément en un temps limité — tu verras que c'est pratiquement impossible. Dans ton journal personnel, note au cours de la semaine trois situations qui mettent ton tawakkul à l'épreuve : une où tu recours à des moyens licites (des révisions sérieuses, un contrôle médical), une où tu rejettes une superstition ou une croyance répandue parmi tes amis, et une où tu te dépêches de faire une bonne action sans attendre, comme Ukkasha. À la fin de la semaine, relis ton journal et demande-toi : me suis-je rapproché de ceux dont il est dit "et ils s'en remettent à leur Seigneur" ?
+Prends une poignée de graines ou de petits cailloux dans un bol, et essaie de les compter avec précision avant qu'ils ne glissent : tu comprendras qu'il y en a trop pour les compter vite — une image concrète du sens de *bi-ghayri hisab*. Ensuite, pendant une semaine, remplis un tableau à trois colonnes : un moyen légitime que tu as pris (étudier, demander conseil, planifier) sans que ton cœur en dépende au point de concurrencer ta confiance en Allah ; une situation de pessimisme, de pression sociale ou de « chance » que tu as laissée de côté pour t'en remettre à Allah ; et une bonne action vers laquelle tu t'es empressé sur-le-champ, sans hésiter ni attendre l'approbation de tous, à l'image de 'Ukkashah ibn Mihsan. En fin de semaine, relis le tableau avec une personne de confiance.
 
 <!-- activity:end -->
 
 <!-- unit:end -->
 
-<!-- unit:start id="l17-13-dua" kind="bedtime-dua" -->
+<!-- unit:start id="13+.bedtime-dua" kind="bedtime_dua" -->
 
-### Invocation avant le coucher
+### Du'a avant de dormir
 
 <!-- bedtime-dua:start audience="13+" id="lesson.017.dua.trust-without-account" provenance="lesson_authored" source_id="" attribution="not_prophetic" -->
 
-اللَّهُمَّ إِنِّي أُفَوِّضُ أَمْرِي كُلَّهُ إِلَيْكَ كَمَا فَوَّضَ الرَّجُلُ الْمُؤْمِنُ أَمْرَهُ، وَأَسْأَلُكَ أَنْ تُطَهِّرَ قَلْبِي مِنَ التَّعَلُّقِ بِغَيْرِكَ، وَأَنْ تَجْعَلَنِي مِمَّنْ يُبَادِرُ لِلْخَيْرِ كَعُكَّاشَةَ، وَأَنْ تُدْخِلَنِي الْجَنَّةَ بِفَضْلِكَ بِغَيْرِ حِسَابٍ.
+**Du'a thématique composée pour cette leçon ; non attribuée au Prophète, paix et bénédictions sur lui.**
 
-> "Ô Allah, je Te confie toute mon affaire, comme l'homme croyant T'a confié la sienne. Je Te demande de purifier mon cœur de tout attachement à autre que Toi, de faire de moi l'un de ceux qui s'empressent vers le bien comme Ukkasha, et de me faire entrer au Paradis par Ta grâce, sans reddition de comptes."
+> اللَّهُمَّ اجْعَلْنِي مِمَّنْ يَتَوَكَّلُ عَلَيْكَ وَحْدَكَ، وَلَا يَتَعَلَّقُ قَلْبُهُ بِغَيْرِكَ، وَأَدْخِلْنِي الْجَنَّةَ بِفَضْلِكَ بِغَيْرِ حِسَابٍ، وَاجْعَلْ حَظِّي مِنْ حَثَيَاتِكَ وَافِرًا، يَا أَرْحَمَ الرَّاحِمِينَ.
+>
+> *« Ô Allah, fais de moi l'un de ceux qui placent leur confiance en Toi seul et dont le cœur ne s'attache à nul autre que Toi ; fais-moi entrer dans la Jannah par Ta grâce, sans reddition de comptes ; et accorde-moi une large part de Tes poignées (hathayat), ô Toi, le plus Miséricordieux des miséricordieux. »*
 
 <!-- bedtime-dua:end -->
 
@@ -468,196 +377,149 @@ Prends une seule poignée de haricots ou de perles et essaie de la compter préc
 
 <!-- reader:end -->
 
-## Plans de leçon détaillés
+## Plans d'enseignement détaillés
 
-<!-- lesson-plan:start audience="adults" minutes="45" -->
+<!-- lesson-plan:start audience="adults" minutes="55" -->
 
-### Plan de leçon : Adultes
+### Les adultes — 55 minutes
 
-<!-- outcomes:start -->
-- L'apprenant pourra expliquer le sens d'entrer au Paradis sans reddition de comptes, avec ses preuves.
-- L'apprenant comparera les différentes versions du hadith des soixante-dix mille et reconnaîtra leurs points de divergence et d'accord.
-- L'apprenant appliquera le sens du tawakkul dans au moins une situation pratique durant la semaine.
-<!-- outcomes:end -->
+<!-- lesson-plan:outcomes -->
+**Résultats d'apprentissage :** l'apprenant explique le sens de *bi-ghayri hisab* et relie le récit du croyant de la famille de Pharaon au hadith des soixante-dix mille ; il applique à une situation réelle de sa vie la distinction entre le recours légitime aux causes et l'attachement du cœur à celles-ci, qui est interdit.
 
-<!-- materials:start -->
-Un bol de haricots ou de petits cailloux, de petits cahiers, une copie de la sourate Ghafir (38-45), des cartes avec les trois textes de hadith.
-<!-- materials:end -->
+<!-- lesson-plan:materials -->
+**Matériel :** une copie de la leçon ; un Coran pour se reporter à la sourate Ghafir ; un récipient rempli de graines ou de petits cailloux pour l'activité ; des carnets vierges.
 
-<!-- preparation:start -->
-Lire à l'avance le tafsir d'Ibn Kathir sur la sourate Ghafir (38-45), revoir la discussion d'Ibn Hajar dans *Fath al-Bari* sur la formulation "la yarqun", et préparer le bol de haricots pour l'activité.
-<!-- preparation:end -->
+<!-- lesson-plan:preparation -->
+**Préparation :** avant la séance, l'enseignant révise les versets Ghafir 40:38-45 et le hadith de Muslim 218a, prépare le récipient de graines pour l'expérience de la poignée, et se prépare à donner un exemple personnel d'un attachement auquel il a renoncé au profit du tawakkul.
 
-<!-- opening:start -->
-Poser une question ouverte : "Si tu savais qu'un groupe de personnes entre au Paradis sans être interrogé, quelle penses-tu que serait leur qualité commune ?" Laisser les participants réfléchir avant de révéler la réponse.
-<!-- opening:end -->
+<!-- lesson-plan:opening -->
+**Ouverture — 5 minutes :** l'enseignant demande : « Vous est-il déjà arrivé de tirer un mauvais présage de quelque chose, ou d'hésiter dans une décision à cause de l'avis des gens plus que de votre propre jugement sur ce qui est juste ? »
 
-<!-- evidence-review:start -->
-Lire attentivement les versets de la sourate Ghafir (38-40 et 44-45) et les trois hadiths (Muslim 218a, Muslim 219, Tirmidhi 2437), puis discuter de la différence entre la rétribution mesurée du mal et la récompense sans mesure du bien.
-<!-- evidence-review:end -->
+<!-- lesson-plan:evidence -->
+**Étude des preuves — 15 minutes :** lire les versets Ghafir 40:38-45 en marquant une pause à chaque tournant de l'attitude de l'homme croyant, puis lire le hadith des soixante-dix mille en entier, en s'arrêtant sur l'attitude de 'Ukkashah et sur celle de l'autre homme.
 
-<!-- instruction:start -->
-Expliquer l'histoire complète de l'homme croyant de la famille de Pharaon, puis présenter l'histoire d'Ukkasha, et demander aux participants d'identifier le point de convergence entre les deux récits (le tawakkul).
-<!-- instruction:end -->
+<!-- lesson-plan:instruction -->
+**Enseignement guidé — 15 minutes :** l'enseignant examine avec les participants la différence entre le recours légitime à la ruqya ou à la cautérisation et la dépendance du cœur envers elles, qui est interdite, et relie cela à la remise de son affaire à Allah par le croyant de la famille de Pharaon.
 
-<!-- activity-time:start -->
-Réaliser l'activité "la poignée de confiance" décrite plus haut, puis discuter des situations notées par chaque participant.
-<!-- activity-time:end -->
+<!-- lesson-plan:activity -->
+**Activité — 15 minutes :** réaliser l'activité « La balance de la confiance » telle que décrite dans l'unité d'activité, en commençant par l'expérience concrète de la poignée.
 
-<!-- assessment:start -->
-Demander à chaque participant de résumer oralement deux qualités des gens des soixante-dix mille, et d'énoncer la leçon tirée de la réponse d'Ukkasha.
-<!-- assessment:end -->
+<!-- lesson-plan:assessment -->
+**Évaluation et clôture — 5 minutes :** chaque participant cite oralement une cause légitime et une situation de tawakkul tirées de sa propre vie ; sa compréhension est évaluée à la clarté avec laquelle il distingue les deux.
 
-<!-- differentiation:start -->
-Pour les apprenants avancés : discuter du désaccord savant sur la formulation "la yarqun" plus en profondeur. Pour les débutants : se concentrer sur le sens général du tawakkul sans entrer dans les détails techniques de la science du hadith.
-<!-- differentiation:end -->
+<!-- lesson-plan:differentiation -->
+**Différenciation :** pour les débutants, se limiter au hadith des soixante-dix mille et à l'attitude de 'Ukkashah ; pour les apprenants avancés, ajouter l'étude de l'ensemble des versets de Ghafir et du commentaire qu'en donne Ibn Kathir.
 
-<!-- safeguards:start -->
-Préciser clairement que ces hadiths n'interdisent ni la ruqya licite ni les soins médicaux permis, et que le vrai tawakkul va de pair avec le recours aux moyens appropriés au lieu de les exclure, afin d'éviter tout malentendu qui pourrait amener quelqu'un à renoncer à la médecine ou aux précautions légitimes.
-<!-- safeguards:end -->
+<!-- lesson-plan:safeguards -->
+**Précautions pédagogiques :** l'enseignant veille à ne pas transformer l'étude de la ruqya et de la cautérisation en avis médical, ni en interdiction absolue de l'une ou de l'autre ; l'accent porte sur l'attachement du cœur, non sur la licéité.
 
 <!-- lesson-plan:end -->
 
 <!-- lesson-plan:start audience="4-7" minutes="20" -->
 
-### Plan de leçon : Tout-Petits (4-7 ans)
+### Les enfants de 4 à 7 ans — 20 minutes
 
-<!-- outcomes:start -->
-- L'enfant reconnaîtra le nom Ukkasha et ce qu'il a fait.
-- L'enfant répétera la phrase "Je fais confiance à Allah" avec ses propres mots.
-<!-- outcomes:end -->
+<!-- lesson-plan:outcomes -->
+**Résultats d'apprentissage :** l'enfant dit que l'homme croyant a eu confiance en Allah et n'a pas eu peur, et il fait l'expérience de la poignée qu'on ne peut pas compter.
 
-<!-- materials:start -->
-Un bol de haricots ou de grosses perles (adaptées à l'âge et surveillées pour éviter tout risque d'étouffement), des images simples.
-<!-- materials:end -->
+<!-- lesson-plan:materials -->
+**Matériel :** un petit bol de pois chiches ou de fèves ; la carte du du'a, écrite lisiblement.
 
-<!-- preparation:start -->
-Préparer le bol et confirmer que les haricots sont de taille appropriée pour l'âge des enfants, et lire l'histoire simplifiée à l'avance pour pouvoir la raconter avec vivacité.
-<!-- preparation:end -->
+<!-- lesson-plan:preparation -->
+**Préparation :** l'éducateur prépare le bol de graines et un endroit propre pour l'expérience de la poignée.
 
-<!-- opening:start -->
-Demander à l'enfant : "As-tu déjà demandé quelque chose rapidement avant qu'il ne soit trop tard ?" Écouter attentivement sa réponse.
-<!-- opening:end -->
+<!-- lesson-plan:opening -->
+**Ouverture — 3 minutes :** demander à l'enfant : « Sais-tu qui te protège toujours, quoi qu'il arrive ? »
 
-<!-- evidence-review:start -->
-Lire à l'enfant un passage simplifié du hadith, d'une voix calme et captivante.
-<!-- evidence-review:end -->
+<!-- lesson-plan:evidence -->
+**Lecture du récit — 6 minutes :** raconter l'histoire de l'homme croyant d'une voix vivante, en mimant la façon dont il s'est levé courageusement devant son peuple.
 
-<!-- instruction:start -->
-Raconter l'histoire d'Ukkasha simplement, comme un conte, avec des mimiques et un ton enthousiaste.
-<!-- instruction:end -->
+<!-- lesson-plan:instruction -->
+**Enseignement guidé — 4 minutes :** l'enseignant rappelle avec des mots simples : Allah protège celui qui a confiance en Lui seul.
 
-<!-- activity-time:start -->
-Réaliser l'activité "ma poignée de haricots" et le jeu "Qui se dépêche le premier ?" décrits plus haut.
-<!-- activity-time:end -->
+<!-- lesson-plan:activity -->
+**Activité — 5 minutes :** l'enfant réalise l'activité « Une poignée qu'on ne peut pas compter » telle que décrite dans l'unité d'activité.
 
-<!-- assessment:start -->
-Demander à l'enfant le nom du Compagnon qui s'est dépêché.
-<!-- assessment:end -->
+<!-- lesson-plan:assessment -->
+**Évaluation et clôture — 2 minutes :** observer si l'enfant arrive à dire « J'ai confiance en Allah » après l'expérience, puis lire le du'a.
 
-<!-- differentiation:start -->
-Pour les plus petits : s'appuyer uniquement sur l'image et l'histoire orale sans activité d'écriture. Pour les enfants un peu plus grands (6-7 ans) : demander un dessin simple d'Ukkasha se levant rapidement.
-<!-- differentiation:end -->
+<!-- lesson-plan:differentiation -->
+**Différenciation :** pour les plus petits, l'éducateur se contente de l'aider entièrement à prendre la poignée et de répéter avec lui la phrase de confiance.
 
-<!-- safeguards:start -->
-Utiliser des perles grandes et sûres sous surveillance directe pour éviter tout risque d'étouffement. Ne pas introduire de détails sur la ruqya ou la cautérisation médicale qui pourraient causer une peur inutile chez les jeunes enfants ; garder l'accent sur le sens de faire confiance à Allah.
-<!-- safeguards:end -->
+<!-- lesson-plan:safeguards -->
+**Précautions pédagogiques :** surveiller l'enfant lorsqu'il manipule les graines, pour éviter tout risque d'étouffement ; préférer de grosses graines, comme les pois chiches, aux petites.
 
 <!-- lesson-plan:end -->
 
-<!-- lesson-plan:start audience="8-12" minutes="30" -->
+<!-- lesson-plan:start audience="8-12" minutes="35" -->
 
-### Plan de leçon : Enfants (8-12 ans)
+### Les enfants de 8 à 12 ans — 35 minutes
 
-<!-- outcomes:start -->
-- L'enfant racontera l'histoire de l'homme croyant et l'histoire d'Ukkasha avec ses propres mots.
-- L'enfant distinguera entre le tawakkul correct et l'abandon des moyens appropriés.
-- L'enfant notera deux situations concrètes dans son journal d'initiative.
-<!-- outcomes:end -->
+<!-- lesson-plan:outcomes -->
+**Résultats d'apprentissage :** l'élève explique le sens de *bi-ghayri hisab*, de *at-tawakkul* et de *at-tatayyur*, et rédige une situation réelle qu'il transforme, du pessimisme à la confiance en Allah.
 
-<!-- materials:start -->
-Un bol de haricots ou de perles, des cahiers pour le "journal d'initiative", des stylos.
-<!-- materials:end -->
+<!-- lesson-plan:materials -->
+**Matériel :** les cartes des trois termes ; un bol de graines ou de lentilles ; les feuilles du « carnet de l'initiative et de la confiance ».
 
-<!-- preparation:start -->
-Préparer le bol et les cahiers, et préparer une version simplifiée des deux histoires à lire ou raconter.
-<!-- preparation:end -->
+<!-- lesson-plan:preparation -->
+**Préparation :** l'éducateur révise les trois définitions de l'unité des termes pour pouvoir les expliquer clairement.
 
-<!-- opening:start -->
-Demander : "Quel est le plus grand nombre que tu peux compter rapidement ?" Puis relier cela à l'idée de "sans reddition de comptes."
-<!-- opening:end -->
+<!-- lesson-plan:opening -->
+**Ouverture — 5 minutes :** demander aux enfants : « Avez-vous déjà eu peur d'un chiffre ou d'un jour précis, sans vraie raison ? »
 
-<!-- evidence-review:start -->
-Lire le hadith d'Imran ibn Husayn (Muslim 218a) et discuter des qualités qui y sont mentionnées.
-<!-- evidence-review:end -->
+<!-- lesson-plan:evidence -->
+**Étude de la preuve — 10 minutes :** raconter en entier le récit du croyant de la famille de Pharaon, puis évoquer le hadith des soixante-dix mille et l'attitude de 'Ukkashah.
 
-<!-- instruction:start -->
-Raconter l'histoire de l'homme croyant de la famille de Pharaon, puis l'histoire d'Ukkasha, et demander aux enfants de comparer le courage de l'homme croyant avec la promptitude d'Ukkasha.
-<!-- instruction:end -->
+<!-- lesson-plan:instruction -->
+**Enseignement guidé — 10 minutes :** l'enseignant discute avec les enfants : pourquoi la prise de parole publique de l'homme croyant était-elle dangereuse ? Et qu'apprenons-nous de l'empressement de 'Ukkashah à demander le bien ?
 
-<!-- activity-time:start -->
-Réaliser l'activité "le journal d'initiative et de confiance" décrite plus haut.
-<!-- activity-time:end -->
+<!-- lesson-plan:activity -->
+**Activité — 7 minutes :** les élèves réalisent l'activité « Le carnet de l'initiative et de la confiance » telle que décrite dans l'unité d'activité, en commençant par l'expérience de la poignée.
 
-<!-- assessment:start -->
-Demander à chaque enfant de nommer une qualité des gens des soixante-dix mille et d'en donner un exemple pratique dans sa propre vie.
-<!-- assessment:end -->
+<!-- lesson-plan:assessment -->
+**Évaluation et clôture — 3 minutes :** la page du carnet est évaluée à la clarté avec laquelle la situation passe du pessimisme à une phrase de confiance en Allah ; puis lire le du'a.
 
-<!-- differentiation:start -->
-Pour les enfants plus âgés de cette tranche : ajouter une discussion du hadith de Sahl ibn Sa'd (Muslim 219) et le sens de se soutenir mutuellement. Pour les enfants plus jeunes de cette tranche : se concentrer uniquement sur l'histoire d'Ukkasha avec l'activité de la poignée.
-<!-- differentiation:end -->
+<!-- lesson-plan:differentiation -->
+**Différenciation :** pour les élèves avancés, ajouter une discussion sur la différence entre prendre les moyens légitimes et cesser d'en dépendre.
 
-<!-- safeguards:start -->
-Clarifier que "ne pas demander la ruqya" ne signifie pas éviter le médecin ou les médicaments, mais éviter la dépendance émotionnelle excessive à l'égard de tout ce qui n'est pas Allah.
-<!-- safeguards:end -->
+<!-- lesson-plan:safeguards -->
+**Précautions pédagogiques :** laisser à l'enfant le choix de ce qu'il partage en public de ses expériences ; il n'est pas obligé de révéler des peurs personnelles sensibles.
 
 <!-- lesson-plan:end -->
 
-<!-- lesson-plan:start audience="13+" minutes="40" -->
+<!-- lesson-plan:start audience="13+" minutes="45" -->
 
-### Plan de leçon : Adolescents (13 ans et plus)
+### Les adolescents, 13 ans et plus — 45 minutes
 
-<!-- outcomes:start -->
-- L'apprenant analysera le désaccord savant concernant les versions du hadith des soixante-dix mille.
-- L'apprenant reliera l'histoire de l'homme croyant au tawakkul pratique dans sa propre vie.
-- L'apprenant mettra en œuvre un plan hebdomadaire d'application du tawakkul (le journal de la balance de la confiance).
-<!-- outcomes:end -->
+<!-- lesson-plan:outcomes -->
+**Résultats d'apprentissage :** l'adolescent analyse l'attitude du croyant de la famille de Pharaon comme un modèle de tawakkul sous la pression sociale, identifie une forme actuelle de *tatayyur* ou d'attachement excessif, et s'engage à une démarche concrète vers une véritable confiance en Allah.
 
-<!-- materials:start -->
-Copies des quatre hadiths et des versets, journaux personnels, un extrait simplifié de Fath al-Bari si disponible.
-<!-- materials:end -->
+<!-- lesson-plan:materials -->
+**Matériel :** une copie de la leçon ; le tableau à trois colonnes de l'activité ; les cartes des termes.
 
-<!-- preparation:start -->
-Revoir la discussion savante concernant "la yarqun" dans Fath al-Bari (11/408-409) afin de pouvoir la simplifier pour les apprenants.
-<!-- preparation:end -->
+<!-- lesson-plan:preparation -->
+**Préparation :** l'enseignant se prépare à une discussion sur les formes actuelles de « chance » et d'horoscopes et sur leur lien avec le *tatayyur*, en distinguant le *tatayyur*, l'astrologie et les amulettes.
 
-<!-- opening:start -->
-Poser un défi : "Comment la justice divine peut-elle coexister avec une faveur qui dépasse tout calcul ?" Ouvrir un espace de discussion libre avant de présenter la réponse scripturaire.
-<!-- opening:end -->
+<!-- lesson-plan:opening -->
+**Ouverture — 5 minutes :** demander aux adolescents : « À quoi vos amis s'attachent-ils le plus aujourd'hui, au lieu de s'en remettre à Allah ? »
 
-<!-- evidence-review:start -->
-Présenter les quatre versions (Bukhari 6541, Muslim 220a, Muslim 218a, Muslim 219) côte à côte, et discuter des points de divergence entre narrateurs et de l'accord sur le sens.
-<!-- evidence-review:end -->
+<!-- lesson-plan:evidence -->
+**Étude des preuves — 12 minutes :** lire l'ensemble des versets de Ghafir en insistant sur le moment de `وَأُفَوِّضُ أَمْرِي إِلَى اللَّهِ` (« Et je remets mon affaire à Allah »), puis discuter du hadith des soixante-dix mille et de l'attitude de 'Ukkashah.
 
-<!-- instruction:start -->
-Expliquer l'histoire coranique complète avec son contexte historique, puis discuter du désaccord savant entre Ibn Taymiyya et Ibn Hajar sur la formulation "la yarqun" comme modèle de la méthodologie de la science du hadith.
-<!-- instruction:end -->
+<!-- lesson-plan:instruction -->
+**Enseignement guidé — 10 minutes :** l'enseignant discute de la différence entre le *tafwid* et la résignation passive, de la manière dont le *tatayyur* apparaît sous des formes actuelles comme le pessimisme lié aux chiffres et aux jours, et de ce qui s'y rattache : l'attachement aux horoscopes (l'astrologie) et aux amulettes.
 
-<!-- activity-time:start -->
-Réaliser l'activité "la balance de la confiance" et commencer le journal hebdomadaire.
-<!-- activity-time:end -->
+<!-- lesson-plan:activity -->
+**Activité — 12 minutes :** les élèves réalisent l'activité « La balance de la confiance » avec le tableau à trois colonnes, telle que décrite dans l'unité d'activité.
 
-<!-- assessment:start -->
-Demander une courte rédaction (une demi-page) expliquant la relation entre le tawakkul et la prise de moyens appropriés, en citant deux situations de la leçon.
-<!-- assessment:end -->
+<!-- lesson-plan:assessment -->
+**Évaluation et clôture — 6 minutes :** une semaine plus tard, l'enseignant vérifie, avec la personne que chaque adolescent a choisie, si la première démarche de tawakkul a été accomplie.
 
-<!-- differentiation:start -->
-Pour les apprenants académiquement avancés : les diriger vers la lecture du texte complet de Fath al-Bari si accessible. Pour ceux ayant besoin de simplification : présenter seulement le résultat du désaccord sans détailler les arguments de chaque côté.
-<!-- differentiation:end -->
+<!-- lesson-plan:differentiation -->
+**Différenciation :** celui qui hésite à partager son tableau en public peut le remplir en privé et le remettre seulement à l'enseignant.
 
-<!-- safeguards:start -->
-Éviter de donner l'impression de mettre en doute l'authenticité du hadith en présentant le désaccord savant sur "la yarqun" ; clarifier que le désaccord concerne une seule formulation à l'intérieur d'un hadith dont le sens est fermement établi, non l'authenticité centrale du hadith. Souligner que la ruqya licite et les soins médicaux demeurent permis.
-<!-- safeguards:end -->
+<!-- lesson-plan:safeguards -->
+**Précautions pédagogiques :** l'enseignant veille à ne faire pression sur aucun adolescent pour qu'il révèle devant le groupe des pressions sociales sensibles.
 
 <!-- lesson-plan:end -->
 
@@ -665,16 +527,7 @@ Pour les apprenants académiquement avancés : les diriger vers la lecture du te
 
 ## Références
 
-[^1]: Sourate Ghafir, versets 38-40 : [quran.com/40/38-40](https://quran.com/40/38-40).
-[^2]: Tafsir d'Ibn Kathir sur la sourate Ghafir : [quran.ksu.edu.sa/tafseer/katheer/sura40-aya38.html](https://quran.ksu.edu.sa/tafseer/katheer/sura40-aya38.html).
-[^3]: Sourate Ghafir, versets 44-45 : [quran.com/40/44-45](https://quran.com/40/44-45).
-[^4]: Sahih Muslim, n° 218a, rapporté par Imran ibn Husayn, qu'Allah l'agrée : [sunnah.com/muslim:218a](https://sunnah.com/muslim:218a).
-[^5]: Sahih Muslim, n° 219, rapporté par Sahl ibn Sa'd, qu'Allah l'agrée : [sunnah.com/muslim:219](https://sunnah.com/muslim:219).
-[^6]: Jami` at-Tirmidhi, n° 2437, rapporté par Abu Umamah, qu'Allah l'agrée, classé hasan : [sunnah.com/tirmidhi:2437](https://sunnah.com/tirmidhi:2437).
-[^7]: Sahih al-Bukhari, n° 6541, Livre de Riqaq, rapporté par Ibn Abbas, qu'Allah les agrée tous les deux : [sunnah.com/bukhari:6541](https://sunnah.com/bukhari:6541).
-[^8]: Sahih Muslim, n° 220a, rapporté par Ibn Abbas, qu'Allah les agrée tous les deux, et Sahih al-Bukhari n° 5705 (Livre de la Médecine) avec le même sens accompagné du récit d'Ukkasha : [sunnah.com/muslim:220a](https://sunnah.com/muslim:220a) | [sunnah.com/bukhari:5705](https://sunnah.com/bukhari:5705).
-[^9]: Ibn Hajar al-Asqalani, *Fath al-Bari*, commentaire du Livre de Riqaq (11/408-409), cité dans : Ibn al-Qayyim, *Hadi al-Arwah ila Bilad al-Afrah*, Chapitre 32.
-[^10]: Ibn al-Qayyim al-Jawziyya, *Hadi al-Arwah ila Bilad al-Afrah*, Chapitre 33, sur les poignées du Seigneur, Béni et Exalté, par lesquelles Il admet des gens au Paradis.
-[^11]: Umar Sulayman al-Ashqar, *al-Jannah wa an-Nar*, Quatrième Discours : Ceux Qui Entrent au Paradis Sans Reddition de Comptes.
+[^1]: Le Noble Coran, sourate Ghafir, versets 38-45 : [le texte coranique](https://quran.com/40/38-45). La traduction française proposée dans cette leçon est une traduction du sens propre au projet.
+[^2]: Sahih Muslim, hadith 218a (par la voie de Muhammad ibn Sirin) et 218b (par la voie d'al-Hakam ibn al-A'raj, avec la formulation « وَلَا يَتَطَيَّرُونَ », « et ils ne tirent pas de mauvais présages »), tous deux rapportés par 'Imran ibn Husayn, qu'Allah soit satisfait de lui et de son père ; authentiques (*sahih*). Dans la version d'Abu Hurayrah, qu'Allah soit satisfait de lui, chez Muslim (216, par la voie de Sa'id ibn al-Musayyab), le second homme est « un homme des Ansar ». Les avis des savants sur le sens de « 'Ukkashah t'a devancé » sont rassemblés dans *Fath al-Bari* d'Ibn Hajar, Livre de l'attendrissement des cœurs (*Kitab ar-Riqaq*), chapitre « Soixante-dix mille entreront dans la Jannah sans reddition de comptes » : [Sunnah.com, version muslim:218a](https://sunnah.com/muslim:218a) et [version muslim:218b](https://sunnah.com/muslim:218b). La traduction française des hadiths proposée dans cette leçon est une traduction du sens propre au projet.
 
 <!-- references:end -->

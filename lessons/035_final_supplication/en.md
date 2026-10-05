@@ -60,7 +60,7 @@ Ibn Kathir, may Allah have mercy on him, explains that the first two ayat descri
 
 For al-Baghawi, `their call` (*da'wahum*) means their speech and their words, though some said it means their supplication; and `Glory be to You, O Allah` (*subhanaka Allahumma*) is a declaration of transcendence, declaring Allah free of every evil. In other words, they open their speech with glorification and seal it with praise.[^2] As-Sa'di says it means their worship of Allah there, which begins with glorification and ends with praise: religious obligations (*taklif*) have fallen away from them in the abode of reward, and what remains is the remembrance of Allah, sweeter to them than any food, which is to them as breathing is, with no effort and no strain.[^3]
 
-At-Tabari reports from Ibn Jurayj, introduced only with "I was told," that whenever one of them desired something he would say, "Glory be to You, O Allah," and it would be brought to him, and when he had eaten he would praise Allah; something similar is reported from Sufyan ath-Thawri. Ibn al-Qayyim comments that these authorities "captured part of the meaning without exhausting it," and that the ayah means something broader: the "call" here is a call of praise with which the people of Jannah are inspired, opening in glorification and closing in praise. They are inspired with both as they are inspired with breath, and these words are not confined to the moment of wanting something.[^4]
+At-Tabari reports from Ibn Jurayj, introduced only with "I was told," that when a bird they desired passed by the people of Jannah, they would say, "Glory be to You, O Allah," and the angel would bring them what they desired, and when they had eaten they would praise Allah; something similar is reported from Sufyan ath-Thawri. Ibn al-Qayyim comments that these authorities "captured part of the meaning without exhausting it," and that the ayah means something broader: the "call" here is a call of praise with which the people of Jannah are inspired, opening in glorification and closing in praise. They are inspired with both as they are inspired with breath, and these words are not confined to the moment of wanting something.[^4]
 
 #### Lesson Explanation
 
@@ -229,7 +229,7 @@ With your mom or dad, draw three pictures on a strip of paper: a plate of food, 
 
 <!-- unit:start id="4-7.bedtime-dua" kind="bedtime_dua" -->
 
-### The Prophet's Bedtime Du'a, Peace and Blessings Be upon Him
+### The Bedtime Du'a of the Prophet, Peace and Blessings Be upon Him
 
 <!-- bedtime-dua:start audience="4-7" id="lesson.035.dua.praise-for-food-and-shelter" provenance="sunnah" source_id="muslim-2715" attribution="prophetic" -->
 
@@ -323,7 +323,7 @@ Draw a chart with three columns: "The Ending," "What I Said First," and "My Prai
 
 <!-- unit:start id="8-12.bedtime-dua" kind="bedtime_dua" -->
 
-### The Prophet's Bedtime Du'a, Peace and Blessings Be upon Him
+### The Bedtime Du'a of the Prophet, Peace and Blessings Be upon Him
 
 <!-- bedtime-dua:start audience="8-12" id="lesson.035.dua.praise-for-food-and-shelter" provenance="sunnah" source_id="muslim-2715" attribution="prophetic" -->
 
@@ -416,7 +416,7 @@ For seven days, keep track of your "endings" in a private notebook: the end of a
 
 <!-- unit:start id="13+.bedtime-dua" kind="bedtime_dua" -->
 
-### The Prophet's Bedtime Du'a, Peace and Blessings Be upon Him
+### The Bedtime Du'a of the Prophet, Peace and Blessings Be upon Him
 
 <!-- bedtime-dua:start audience="13+" id="lesson.035.dua.praise-for-food-and-shelter" provenance="sunnah" source_id="muslim-2715" attribution="prophetic" -->
 
@@ -585,7 +585,7 @@ It is authentically reported that whenever the Prophet, peace and blessings be u
 [^1]: The Noble Qur'an, Surah Yunus, ayat 7-10: [quran.com/10/7-10](https://quran.com/10/7-10). The English rendering in this lesson is a meaning-based project translation. Tafsir Ibn Kathir on ayat 7, 9 and 10 (including the statement of al-Hasan al-Basri on ayah 7, the statement of Mujahid on ayah 9, and the citation of the hadith "they will be inspired with glorification and praise" on ayah 10): [quran.ksu.edu.sa/tafseer/katheer/sura10-aya7.html](https://quran.ksu.edu.sa/tafseer/katheer/sura10-aya7.html), [quran.ksu.edu.sa/tafseer/katheer/sura10-aya9.html](https://quran.ksu.edu.sa/tafseer/katheer/sura10-aya9.html) and [quran.ksu.edu.sa/tafseer/katheer/sura10-aya10.html](https://quran.ksu.edu.sa/tafseer/katheer/sura10-aya10.html).
 [^2]: Al-Baghawi, *Ma'alim at-Tanzil*, commentary on Surah Yunus, ayah 10: [quran.ksu.edu.sa/tafseer/baghawy/sura10-aya10.html](https://quran.ksu.edu.sa/tafseer/baghawy/sura10-aya10.html).
 [^3]: As-Sa'di, *Taysir al-Karim ar-Rahman fi Tafsir Kalam al-Mannan*, commentary on Surah Yunus, ayah 10: [quran.ksu.edu.sa/tafseer/saadi/sura10-aya10.html](https://quran.ksu.edu.sa/tafseer/saadi/sura10-aya10.html).
-[^4]: Ibn Qayyim al-Jawziyyah, *Hadi al-Arwah ila Bilad al-Afrah*, final chapter: "We close this book with what we began it with, namely the close of the call of the people of Jannah" ('Ata'at al-'Ilm edition, pp. 843-849). It contains the report of Ibn Jurayj introduced with "I was told" (recorded by at-Tabari in his tafsir; it is an unattributed report in which the informant is not named, so it cannot be relied upon), the statement of Sufyan ath-Thawri (recorded by Ibn Abi Hatim and at-Tabari, with the chain to him graded authentic by the editor), and Ibn al-Qayyim's comment on both: [shamela.ws/book/13652/895](https://shamela.ws/book/13652/895).
+[^4]: Ibn Qayyim al-Jawziyyah, *Hadi al-Arwah ila Bilad al-Afrah*, final chapter: "We close this book with what we began it with, namely the close of the call of the people of Jannah" ('Ata'at al-'Ilm edition, pp. 843-848). It contains the report of Ibn Jurayj introduced with "I was told" (recorded by at-Tabari in his tafsir; it is an unattributed report in which the informant is not named, so it cannot be relied upon), the statement of Sufyan ath-Thawri (recorded by Ibn Abi Hatim and at-Tabari, with the chain to him graded authentic by the editor), and Ibn al-Qayyim's comment on both: [shamela.ws/book/13652/895](https://shamela.ws/book/13652/895).
 [^5]: The Noble Qur'an, Surah Fatir, ayat 33-35: [quran.com/35/33-35](https://quran.com/35/33-35). The English rendering in this lesson is a meaning-based project translation. Tafsir Ibn Kathir on ayat 34 and 35 (including the statement of Ibn Abbas on `All-Forgiving, Most Appreciative` and the explanation of toil and weariness): [quran.ksu.edu.sa/tafseer/katheer/sura35-aya34.html](https://quran.ksu.edu.sa/tafseer/katheer/sura35-aya34.html) and [quran.ksu.edu.sa/tafseer/katheer/sura35-aya35.html](https://quran.ksu.edu.sa/tafseer/katheer/sura35-aya35.html).
 [^6]: As-Sa'di, *Taysir al-Karim ar-Rahman*, commentary on Surah Fatir, ayah 34: [quran.ksu.edu.sa/tafseer/saadi/sura35-aya34.html](https://quran.ksu.edu.sa/tafseer/saadi/sura35-aya34.html).
 [^7]: Sahih Muslim, Book of Paradise, Its Description, Its Delights and Its People, Chapter on the Attributes of Jannah and Its People and Their Glorification of Allah Therein Morning and Evening, hadith 2835 (2835a in the Sunnah.com numbering), narrated by Jabir ibn Abd Allah, may Allah be pleased with them both; authentic. The two further narrations come via Abu az-Zubayr from Jabir in the same place (Sunnah.com 2835c and 2835d): [sunnah.com/muslim:2835a](https://sunnah.com/muslim:2835a).

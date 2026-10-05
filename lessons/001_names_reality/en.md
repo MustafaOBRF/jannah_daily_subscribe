@@ -63,7 +63,7 @@ So the names of Jannah point to real attributes we hope for, and the fact that J
 
 #### Scholarly Tafsir
 
-The exegetes explain that `Dar as-Salam` (the Home of Peace) is Jannah, so named because its people are safe there from every affliction, worry, sorrow, and death, and because `as-Salam` is one of Allah's names, so attaching the abode to Him is an honorific attribution. The invitation is general, addressed to all people; guidance to the straight path is specific to whomever Allah wills.[^2]
+The exegetes explain that `Dar as-Salam` (the Home of Peace) is Jannah, so named because its people are safe there from afflictions, worries, and sorrows, and secure from the passing away of its bliss. The invitation is general, addressed to all people; guidance to the straight path is specific to whomever Allah wills.[^2]
 
 #### Lesson Explanation
 
@@ -115,7 +115,7 @@ This hadith governs everything we learn about Jannah's names and attributes: wha
 
 ### "I Ask You for Your Companionship in Jannah"
 
-> عَنْ رَبِيعَةَ بْنِ كَعْبٍ الْأَسْلَمِيِّ رضي الله عنه قَالَ: **كُنْتُ أَبِيتُ مَعَ رَسُولِ اللَّهِ صلى الله عليه وسلم فَأَتَيْتُهُ بِوَضُوئِهِ وَحَاجَتِهِ، فَقَالَ لِي: «سَلْ». فَقُلْتُ: أَسْأَلُكَ مُرَافَقَتَكَ فِي الْجَنَّةِ. قَالَ: «أَوْ غَيْرَ ذَٰلِكَ؟». قُلْتُ: هُوَ ذَاكَ. قَالَ: «فَأَعِنِّي عَلَىٰ نَفْسِكَ بِكَثْرَةِ السُّجُودِ».**[^5]
+> عَنْ رَبِيعَةَ بْنِ كَعْبٍ الْأَسْلَمِيِّ رضي الله عنه قَالَ: **كُنْتُ أَبِيتُ مَعَ رَسُولِ اللَّهِ صلى الله عليه وسلم فَأَتَيْتُهُ بِوَضُوئِهِ وَحَاجَتِهِ، فَقَالَ لِي: «سَلْ». فَقُلْتُ: أَسْأَلُكَ مُرَافَقَتَكَ فِي الْجَنَّةِ. قَالَ: «أَوَغَيْرَ ذَٰلِكَ؟». قُلْتُ: هُوَ ذَاكَ. قَالَ: «فَأَعِنِّي عَلَىٰ نَفْسِكَ بِكَثْرَةِ السُّجُودِ».**[^5]
 
 <!-- evidence:translation -->
 
@@ -137,7 +137,7 @@ This encounter ties the greatest hope to the simplest visible action: prostratio
 
 ## Questions for Understanding and Reflection
 
-1. What is the difference between the names of Jannah sharing one referent and differing in the attribute each reveals?
+1. How can the names of Jannah share one referent and yet differ in the attribute each reveals?
 2. How does the sacred hadith "what no eye has seen" prevent us from reducing Jannah to an enlarged earthly image?
 3. Why did the Prophet, peace and blessings be upon him, not simply accept Rabi'ah ibn Ka'b's answer, but instead seek to clarify his request?
 4. How does the Prophet's reply, "Then help me achieve this for you by prostrating often," connect a tremendous hope to a simple, daily action?
@@ -197,7 +197,7 @@ That night, Hana drew a small house next to a big heart and said to her mother, 
 
 <!-- retelling:start source_id="muslim-489" audience="4-7" -->
 
-There was a righteous man named Rabi'ah who used to serve the Prophet, peace and blessings be upon him. One day the Prophet, peace and blessings be upon him, said to him, "Ask for whatever you want." Rabi'ah did not ask for a toy or for money. Instead he said, "I want to be with you in Jannah." The Prophet, peace and blessings be upon him, asked him, "Do you want something else?" Rabi'ah said, "No, I only want this." So the Prophet, peace and blessings be upon him, told him, "Then help me with that by prostrating to Allah often."[^5] That means: the more Rabi'ah prostrated to Allah, the closer he came to his great wish.
+There was a righteous man named Rabi'ah who used to serve the Prophet, peace and blessings be upon him. One night the Prophet, peace and blessings be upon him, said to him, "Ask for whatever you want." Rabi'ah did not ask for a toy or for money. Instead he said, "I want to be with you in Jannah." The Prophet, peace and blessings be upon him, asked him, "Do you want something else?" Rabi'ah said, "No, I only want this." So the Prophet, peace and blessings be upon him, told him, "Then help me with that by doing lots of sujud for Allah."[^5] That means: the more Rabi'ah bowed down in sujud to Allah, with his forehead on the ground, the closer he came to his great wish.
 
 <!-- retelling:end -->
 
@@ -370,7 +370,7 @@ That night, Layla happened to scroll past a lesson she had heard before about th
 
 Layla decided not to delete her worldly vision board — pursuing her studies and success is a legitimate goal — but in a private corner of her notebook, one she would never share with anyone, she added the words: "My first goal: to be among the people of `al-Firdaws`." She wrote nothing beneath it for display, only one practical step, for herself alone: to pray Fajr on time every day this week.
 
-Layla posted her worldly vision board as it was, with no exaggeration and nothing faked, but she understood that the greatest hope in her life was not the one displayed on a screen, but the one she carried in her private prostration — like Rabi'ah ibn Ka'b when he asked for something no one else had asked for.
+Layla posted her worldly vision board as it was, with no exaggeration and nothing faked, but she understood that the greatest hope in her life was not the one displayed on a screen, but the one she carried in her private prostration — like Rabi'ah ibn Ka'b when he asked for the greatest thing anyone could ask for.
 
 <!-- story:end -->
 
@@ -599,7 +599,7 @@ Write a private paragraph (one you will not show anyone) describing the best fut
 ## References
 
 [^1]: The Noble Qur'an, Surah Yunus, ayah 25: [Qur'anic text](https://quran.com/10/25).
-[^2]: Abu al-Fida Isma'il ibn Kathir, *Tafsir al-Qur'an al-'Azim* (Tafsir Ibn Kathir), commentary on Surah Yunus, ayah 25, explaining that `Dar as-Salam` is Jannah, so named because it is safe from all afflictions, deficiencies and calamities: [King Saud University Digital Mushaf](https://quran.ksu.edu.sa/tafseer/katheer/sura10-aya25.html); and Abu 'Abdullah al-Qurtubi, *Al-Jami' li-Ahkam al-Qur'an*, commentary on Surah Yunus, ayah 25, citing Qatadah and al-Hasan that as-Salam is Allah and His abode is Jannah, and stating: "He made the invitation general to establish His proof, and made guidance specific, being free of need of His creation": [King Saud University Digital Mushaf](https://quran.ksu.edu.sa/tafseer/qortobi/sura10-aya25.html).
+[^2]: Abu al-Fida Isma'il ibn Kathir, *Tafsir al-Qur'an al-'Azim* (Tafsir Ibn Kathir), commentary on Surah Yunus, ayah 25, explaining that `Dar as-Salam` is Jannah, so named because it is safe from all afflictions, deficiencies and calamities: [King Saud University Digital Mushaf](https://quran.ksu.edu.sa/tafseer/katheer/sura10-aya25.html); and Abu 'Abdullah al-Qurtubi, *Al-Jami' li-Ahkam al-Qur'an*, commentary on Surah Yunus, ayah 25, citing Qatadah and al-Hasan that as-Salam is Allah and His abode is Jannah, and stating: "He made the invitation general to establish His proof, and made guidance specific, being free of need of His creation": [King Saud University Digital Mushaf](https://quran.ksu.edu.sa/tafseer/qortobi/sura10-aya25.html); and Abu Ja'far Muhammad ibn Jarir al-Tabari, *Jami' al-Bayan 'an Ta'wil Ay al-Qur'an*, commentary on Surah Yunus, ayah 25, explaining that its people are safe there from worries and sorrows and secure from the passing away of its bliss, and citing Qatadah: "Allah is as-Salam, and His abode is Jannah": [King Saud University Digital Mushaf](https://quran.ksu.edu.sa/tafseer/tabary/sura10-aya25.html).
 [^3]: The Noble Qur'an, Surah al-Mu'minun, ayat 10-11: [Qur'anic text](https://quran.com/23/10-11); see also Sahih al-Bukhari, hadith 2790, explaining that `al-Firdaws` is the highest and most central part of Jannah: [Sunnah.com, hadith 2790](https://sunnah.com/bukhari:2790).
 [^4]: Sahih al-Bukhari, hadith 3244, and Sahih Muslim, hadith 2824a, narrated by Abu Hurayrah, may Allah be pleased with him — an agreed-upon (muttafaq 'alayh) sacred hadith: [Sunnah.com, hadith 3244](https://sunnah.com/bukhari:3244), [Sunnah.com, hadith 2824a](https://sunnah.com/muslim:2824a). It includes citation of Surah as-Sajdah, ayah 17: [Qur'anic text](https://quran.com/32/17).
 [^5]: Sahih Muslim, hadith 489, narrated by Rabi'ah ibn Ka'b al-Aslami, may Allah be pleased with him, regarding his asking to accompany the Prophet, peace and blessings be upon him, in Jannah, and being guided to abundant prostration: [Sunnah.com, hadith 489](https://sunnah.com/muslim:489).

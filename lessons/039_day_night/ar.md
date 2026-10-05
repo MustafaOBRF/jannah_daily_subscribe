@@ -150,7 +150,7 @@ bedtime_dua_id: "lesson.039.dua.in-your-name-i-die-and-live"
 
 **هذه قصة حقيقية من القرآن الكريم، وليست قصة متخيلة.**
 
-في سورة مريم يحدثنا الله عن أنبياء كرام كانوا يحبونه كثيرًا. كانوا إذا سمعوا كلام الله سجدوا على الأرض، وبكوا من محبة الله وخشيته.[^1]
+في سورة مريم يحدثنا الله عن أنبياء كرام كانوا يحبونه كثيرًا. كانوا إذا سمعوا كلام الله سجدوا على الأرض، وبكوا من محبة الله وخشيته.[^1][^2]
 
 <!-- retelling:start source_id="quran-19-58-63" audience="4-7" -->
 
@@ -244,7 +244,7 @@ bedtime_dua_id: "lesson.039.dua.in-your-name-i-die-and-live"
 
 **هذه قصة حقيقية من القرآن الكريم، وما فيها من شرح فهو من كلام المفسرين.**
 
-نزلت سورة مريم في مكة، وذكرت أنبياء كثيرين: زكريا ويحيى وإبراهيم وموسى وهارون وإسماعيل وإدريس عليهم السلام. ثم جمعتهم في آية واحدة: كانوا إذا تُليت عليهم آيات الرحمن خرّوا سجّدًا يبكون.[^1]
+نزلت سورة مريم في مكة، وذكرت أنبياء كثيرين، منهم: زكريا ويحيى وعيسى وإبراهيم وإسحاق ويعقوب وموسى وهارون وإسماعيل وإدريس عليهم السلام. ثم وصفتهم في آية واحدة، والمراد بها جنس الأنبياء كلهم لا المذكورون في السورة وحدهم، كما قال ابن كثير: كانوا إذا تُليت عليهم آيات الرحمن خرّوا سجّدًا يبكون.[^1]
 
 <!-- retelling:start source_id="quran-19-58-63" audience="8-12" -->
 
@@ -548,9 +548,9 @@ bedtime_dua_id: "lesson.039.dua.in-your-name-i-die-and-live"
 ## المراجع
 
 [^1]: القرآن الكريم، سورة مريم، الآيات ٥٨-٦٣: [quran.com/19/58-63](https://quran.com/19/58-63)؛ وتفسير ابن كثير للآيات ٥٨ و٥٩ (ومنه أثر ابن مسعود "على مواقيتها" وقول عمر بن عبد العزيز، وتفسير ابن عباس وقتادة للغي) و٦٠ و٦١ و٦٢ (ومنه أقوال قتادة وزهير بن محمد ومجاهد والحسن، والاستشهاد بحديث "أول زمرة"، وحديث "ما من غداة من غدوات الجنة" الذي قال فيه ابن أبي حاتم: هذا حديث منكر) و٦٣: [quran.ksu.edu.sa/tafseer/katheer/sura19-aya58.html](https://quran.ksu.edu.sa/tafseer/katheer/sura19-aya58.html) و[quran.ksu.edu.sa/tafseer/katheer/sura19-aya59.html](https://quran.ksu.edu.sa/tafseer/katheer/sura19-aya59.html) و[quran.ksu.edu.sa/tafseer/katheer/sura19-aya60.html](https://quran.ksu.edu.sa/tafseer/katheer/sura19-aya60.html) و[quran.ksu.edu.sa/tafseer/katheer/sura19-aya61.html](https://quran.ksu.edu.sa/tafseer/katheer/sura19-aya61.html) و[quran.ksu.edu.sa/tafseer/katheer/sura19-aya62.html](https://quran.ksu.edu.sa/tafseer/katheer/sura19-aya62.html) و[quran.ksu.edu.sa/tafseer/katheer/sura19-aya63.html](https://quran.ksu.edu.sa/tafseer/katheer/sura19-aya63.html).
-[^2]: السعدي، تيسير الكريم الرحمن في تفسير كلام المنان، تفسير سورة مريم، الآيتان ٥٩ و٦٢: [quran.ksu.edu.sa/tafseer/saadi/sura19-aya59.html](https://quran.ksu.edu.sa/tafseer/saadi/sura19-aya59.html) و[quran.ksu.edu.sa/tafseer/saadi/sura19-aya62.html](https://quran.ksu.edu.sa/tafseer/saadi/sura19-aya62.html).
+[^2]: السعدي، تيسير الكريم الرحمن في تفسير كلام المنان، تفسير سورة مريم، الآيات ٥٨ (ومنه أن الآيات أثّرت في قلوبهم من الإيمان والرغبة والرهبة ما أوجب لهم البكاء) و٥٩ و٦٢: [quran.ksu.edu.sa/tafseer/saadi/sura19-aya58.html](https://quran.ksu.edu.sa/tafseer/saadi/sura19-aya58.html) و[quran.ksu.edu.sa/tafseer/saadi/sura19-aya59.html](https://quran.ksu.edu.sa/tafseer/saadi/sura19-aya59.html) و[quran.ksu.edu.sa/tafseer/saadi/sura19-aya62.html](https://quran.ksu.edu.sa/tafseer/saadi/sura19-aya62.html).
 [^3]: البغوي، معالم التنزيل، تفسير سورة مريم، الآية ٦٢ (معنى اللغو، وقول أهل التفسير في البكرة والعشي، والقول بأن المراد رفاهية العيش): [quran.ksu.edu.sa/tafseer/baghawy/sura19-aya62.html](https://quran.ksu.edu.sa/tafseer/baghawy/sura19-aya62.html).
-[^4]: صحيح البخاري، كتاب بدء الخلق، حديث ٣٢٤٥، من طريق همام بن منبه عن أبي هريرة رضي الله عنه، صحيح: [sunnah.com/bukhari:3245](https://sunnah.com/bukhari:3245)؛ وفي الحديث التالي (٣٢٤٦) من طريق الأعرج عن أبي هريرة بنحوه، وعقبه قول مجاهد في الإبكار والعشي: [sunnah.com/bukhari:3246](https://sunnah.com/bukhari:3246)؛ وأخرجه مسلم في كتاب الجنة وصفة نعيمها وأهلها بنحوه (حديث ٢٨٣٤ بترقيم محمد فؤاد عبد الباقي): [sunnah.com/muslim:2834a](https://sunnah.com/muslim:2834a).
+[^4]: صحيح البخاري، كتاب بدء الخلق، حديث ٣٢٤٥، من طريق همام بن منبه عن أبي هريرة رضي الله عنه، صحيح: [sunnah.com/bukhari:3245](https://sunnah.com/bukhari:3245)؛ وفي الحديث التالي (٣٢٤٦) من طريق الأعرج عن أبي هريرة بنحوه، وعقبه قول مجاهد في الإبكار والعشي: [sunnah.com/bukhari:3246](https://sunnah.com/bukhari:3246)؛ وأخرجه مسلم في كتاب الجنة وصفة نعيمها وأهلها بنحوه (حديث ٢٨٣٤ بترقيم محمد فؤاد عبد الباقي): [sunnah.com/muslim:2834e](https://sunnah.com/muslim:2834e).
 [^5]: صحيح البخاري، كتاب مواقيت الصلاة، حديث ٥٧٤، من طريق أبي بكر بن أبي موسى عن أبيه أبي موسى الأشعري رضي الله عنه، صحيح: [sunnah.com/bukhari:574](https://sunnah.com/bukhari:574)؛ وأخرجه مسلم في كتاب المساجد ومواضع الصلاة، باب فضل صلاتي الصبح والعصر والمحافظة عليهما، حديث ٦٣٥: [sunnah.com/muslim:635](https://sunnah.com/muslim:635). وتفسير البردين بالفجر والعصر من شرح ابن حجر في فتح الباري على الحديث في كتاب مواقيت الصلاة.
 [^6]: صحيح البخاري، كتاب الدعوات، حديث ٦٣٢٤، من طريق ربعي بن حراش عن حذيفة بن اليمان رضي الله عنه، صحيح: [sunnah.com/bukhari:6324](https://sunnah.com/bukhari:6324)؛ وفي الحديث ٦٣١٢ بلفظ "بِاسْمِكَ أَمُوتُ وَأَحْيَا"، وفي الحديث ٧٣٩٤ بلفظ "اللَّهُمَّ بِاسْمِكَ أَحْيَا وَأَمُوتُ": [sunnah.com/bukhari:6312](https://sunnah.com/bukhari:6312) و[sunnah.com/bukhari:7394](https://sunnah.com/bukhari:7394).
 

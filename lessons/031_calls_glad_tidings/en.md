@@ -22,7 +22,7 @@ bedtime_dua_id: "lesson.031.dua.wellbeing-and-heirs-of-jannah"
 After this lesson, the learner will be able to:
 
 - Narrate the hadith of Sahih Muslim (2837), "A caller will call out: 'It is yours to be healthy and never fall ill, ever...'", in its complete wording; list its four glad tidings: health without illness, life without death, youth without old age, and bliss without misery; and name the ayah it is linked to at its end (al-A'raf 7:43).
-- Put in order three calls found in the texts: the call of safety, `O My servants, no fear shall be upon you this Day, nor shall you grieve` (az-Zukhruf 43:68); the call of congratulation, `And they will be called: "This is Jannah, which you have been made to inherit for what you used to do"` (al-A'raf 7:43); and then the content of the call in the hadith of Muslim.
+- Distinguish three calls found in the texts: the call of safety, `O My servants, no fear shall be upon you this Day, nor shall you grieve` (az-Zukhruf 43:68), which as-Sa'di places on the Day of Resurrection; the call of congratulation, `And they will be called: "This is Jannah, which you have been made to inherit for what you used to do"` (al-A'raf 7:43); and the content of the call in the hadith of Muslim.
 - Explain what "inheriting through deeds" means, drawing on Ibn Kathir and as-Sa'di: righteous deeds are the means by which Allah's mercy is attained, ranks in Jannah differ according to deeds, and entry itself is a favor from Allah.
 - Distinguish the truthful glad tidings carried by the word "ever" in the news of the Hereafter from the overblown promises of this world, which have no power to make anything last.
 - Carry out the "Sealed with the Call" activity: sorting what weighs on the heart (illness, weakness, grief, or the fear of loss) into envelopes bearing the words of the call, then doing a real act of mercy for someone living through one of those states right now.
@@ -369,7 +369,7 @@ What it means: O Allah, give us well-being in this world, make us among the peop
 
 <!-- unit:start id="13+.explanation" kind="explanation" -->
 
-We live surrounded by promises of "forever": beauty that never fades, youth that never ends, happiness "forever after." Not one of the people making those promises can actually keep them. Islam does not stop you from taking care of your body and your health, but it teaches you that the word "ever" is a trust, and that it has only ever been spoken with complete truth in the news of the Hereafter. The Prophet, peace and blessings be upon him, told us that the people of Jannah will hear the call: «إِنَّ لَكُمْ أَنْ تَشِبُّوا فَلَا تَهْرَمُوا أَبَدًا», "It is yours to be young and never grow old, ever,"[^7] and Allah says: `O My servants, no fear shall be upon you this Day, nor shall you grieve`.[^1]
+We live surrounded by promises of "forever": beauty that never fades, youth that never ends, happiness "forever after." Not one of the people making those promises can actually keep them. Islam does not stop you from taking care of your body and your health, but it teaches you that the word "ever" is a trust (*amanah*), and that it has only ever been spoken with complete truth in the news of the Hereafter. The Prophet, peace and blessings be upon him, told us that the people of Jannah will hear the call: «إِنَّ لَكُمْ أَنْ تَشِبُّوا فَلَا تَهْرَمُوا أَبَدًا», "It is yours to be young and never grow old, ever,"[^7] and Allah says: `O My servants, no fear shall be upon you this Day, nor shall you grieve`.[^1]
 
 <!-- unit:end -->
 
@@ -482,13 +482,13 @@ This du'a brings together two requests: well-being in this world, which is a leg
 ### Adults — 60 Minutes
 
 <!-- lesson-plan:outcomes -->
-**Learning Outcomes:** The learner narrates the hadith of Muslim 2837 in its wording and lists its four glad tidings; puts the three calls in order (az-Zukhruf 43:68, al-A'raf 7:43, and the hadith of Muslim); explains inheritance through deeds, drawing on Ibn Kathir and as-Sa'di; composes an honest word of comfort for someone sick, elderly, or grieving that does not make light of their pain; and carries out a real act of mercy.
+**Learning Outcomes:** The learner narrates the hadith of Muslim 2837 in its wording and lists its four glad tidings; distinguishes the three calls (az-Zukhruf 43:68, al-A'raf 7:43, and the hadith of Muslim); explains inheritance through deeds, drawing on Ibn Kathir and as-Sa'di; composes an honest word of comfort for someone sick, elderly, or grieving that does not make light of their pain; and carries out a real act of mercy.
 
 <!-- lesson-plan:materials -->
 **Materials:** Copies of the lesson; a mushaf; a board divided into three columns headed "Safety," "Congratulation," and "Content"; four envelopes and small slips of paper for each learner.
 
 <!-- lesson-plan:preparation -->
-**Preparation:** The teacher reviews the tafsir of as-Sa'di and Ibn Kathir on az-Zukhruf 43:68-72 and al-A'raf 7:43, and the hadith of Muslim 2837 alongside at-Tirmidhi's narration (3246), and writes one of the four phrases of the call on each envelope.
+**Preparation:** The teacher reviews the tafsir of as-Sa'di and Ibn Kathir on az-Zukhruf 43:68-73 and al-A'raf 7:43, and the hadith of Muslim 2837 alongside at-Tirmidhi's narration (3246), and writes one of the four phrases of the call on each envelope.
 
 <!-- lesson-plan:opening -->
 **Opening — 5 minutes:** The teacher asks: "What's the last piece of good news you heard? And what was the 'but' that came after it?" The teacher listens to three answers, then reads the hadith of Muslim without comment.

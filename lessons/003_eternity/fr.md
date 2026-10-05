@@ -76,7 +76,7 @@ Observe les deux descriptions ensemble : `la maqtu'atin` nie que la chose prenne
 
 #### Tafsir savant
 
-Ces versets, dans la même sourate, juste après la description des gens de la droite, décrivent le sort du groupe opposé : un vent brûlant, une eau chaude qui ne désaltère pas, une ombre qui ne rafraîchit ni ne réjouit.
+Ces versets, dans la même sourate, juste après la description des gens de la droite, décrivent le sort du groupe opposé : un vent brûlant, une eau chaude qui ne désaltère pas, une ombre qui ne rafraîchit ni ne réjouit. Ibn 'Abbas, Mujahid, Qatada et d'autres ont expliqué `al-yahmum` comme l'ombre de la fumée, c'est-à-dire une ombre faite d'une fumée d'un noir intense.[^10]
 
 #### Explication de la leçon
 
@@ -96,7 +96,7 @@ Le Coran ne s'est pas contenté de décrire le bonheur des gens de la droite ; i
 
 #### Tafsir savant
 
-Les savants ont précisé que la première mort est celle qui précède l'entrée en Jannah, et que cette exception est discontinue : il ne s'agit pas d'une mort qui surviendrait à l'intérieur de la Jannah, mais d'un rappel que la seule mort que goûtent ses habitants a déjà eu lieu avant qu'ils n'y entrent ; il n'y aura donc plus jamais de mort après elle.[^6]
+Les savants ont précisé que la première mort est celle qui précède l'entrée en Jannah, et que cette exception est discontinue (istithna' munqati') : il ne s'agit pas d'une mort qui surviendrait à l'intérieur de la Jannah, mais d'un rappel que la seule mort que goûtent ses habitants a déjà eu lieu avant qu'ils n'y entrent ; il n'y aura donc plus jamais de mort après elle.[^11]
 
 #### Explication de la leçon
 
@@ -108,11 +108,11 @@ Ce verset répond à la plus profonde des craintes humaines : la peur de la mort
 
 ### Vous serez en bonne santé, sans jamais tomber malades
 
-> عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ وَأَبِي هُرَيْرَةَ رضي الله عنهما، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ: **«يُنَادِي مُنَادٍ: إِنَّ لَكُمْ أَنْ تَصِحُّوا فَلَا تَسْقَمُوا أَبَدًا، وَإِنَّ لَكُمْ أَنْ تَحْيَوْا فَلَا تَمُوتُوا أَبَدًا، وَإِنَّ لَكُمْ أَنْ تَشِبُّوا فَلَا تَهْرَمُوا أَبَدًا، وَإِنَّ لَكُمْ أَنْ تَنْعَمُوا فَلَا تَبْأَسُوا أَبَدًا».**[^5]
+> عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ وَأَبِي هُرَيْرَةَ رضي الله عنهما، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ: **«يُنَادِي مُنَادٍ: إِنَّ لَكُمْ أَنْ تَصِحُّوا فَلَا تَسْقَمُوا أَبَدًا، وَإِنَّ لَكُمْ أَنْ تَحْيَوْا فَلَا تَمُوتُوا أَبَدًا، وَإِنَّ لَكُمْ أَنْ تَشِبُّوا فَلَا تَهْرَمُوا أَبَدًا، وَإِنَّ لَكُمْ أَنْ تَنْعَمُوا فَلَا تَبْأَسُوا أَبَدًا».** فَذَلِكَ قَوْلُهُ عَزَّ وَجَلَّ: ﴿وَنُودُوا أَنْ تِلْكُمُ الْجَنَّةُ أُورِثْتُمُوهَا بِمَا كُنْتُمْ تَعْمَلُونَ﴾ [الأعراف: ٤٣].[^5]
 
 <!-- evidence:translation -->
 
-> D'après Abu Sa'id al-Khudri et Abu Hurayrah, qu'Allah les agrée, le Prophète, paix et bénédictions sur lui, a dit : **« Un héraut appellera : Vous serez en bonne santé, sans jamais tomber malades ; vous vivrez, sans jamais mourir ; vous serez jeunes, sans jamais vieillir ; vous serez comblés, sans jamais connaître le malheur. »**[^5]
+> D'après Abu Sa'id al-Khudri et Abu Hurayrah, qu'Allah les agrée, le Prophète, paix et bénédictions sur lui, a dit : **« Un héraut appellera : Vous serez en bonne santé, sans jamais tomber malades ; vous vivrez, sans jamais mourir ; vous serez jeunes, sans jamais vieillir ; vous serez comblés, sans jamais connaître le malheur. »** Et c'est là la parole d'Allah, Puissant et Majestueux : « Et on leur proclamera : Voilà la Jannah qui vous a été donnée en héritage pour ce que vous faisiez » (Al-A'raf : 43).[^5]
 
 #### Explication savante
 
@@ -162,7 +162,7 @@ Choisis une ressource limitée dont tu dépends réellement dans ta vie, comme t
 
 <!-- unit:start id="4-7.explanation" kind="explanation" -->
 
-Dans ce monde, beaucoup de choses finissent : le bonbon délicieux est vite mangé, le jeu amusant s'arrête, et quand l'enfant s'endort, la belle journée est finie. Mais Allah nous a dit dans le Coran que le bonheur de la Jannah n'est pas du tout comme ça : ses fruits ne finissent jamais, et sa joie ne s'arrête jamais.
+Dans ce monde, beaucoup de choses finissent : le bonbon délicieux est vite mangé, le jeu amusant s'arrête, et quand l'enfant s'endort, la belle journée est finie. Mais Allah nous a dit dans le Coran que le bonheur de la Jannah n'est pas du tout comme ça : ses fruits ne finissent jamais, et sa joie ne s'arrête jamais. Et le Prophète, paix et bénédictions sur lui, nous a dit qu'un héraut appellera les gens de la Jannah : vous serez en bonne santé et ne tomberez jamais malades, vous vivrez et ne mourrez jamais, vous resterez jeunes et ne vieillirez jamais, et vous serez comblés sans jamais connaître la peine ni le malheur.[^5]
 
 <!-- unit:end -->
 
@@ -193,7 +193,7 @@ En termes simples : Allah nous a dit dans le Coran que les fruits des gens de la
 ### Petites questions
 
 1. Que veut dire `la maqtu'atin wa la mamnu'ah` ?
-2. Qu'a dit le héraut aux gens de la Jannah au sujet de la maladie et de la tristesse ?
+2. Qu'a dit le héraut aux gens de la Jannah au sujet de la maladie et de la mort ?
 3. Le bonheur de la Jannah ressemble-t-il aux fruits de ce monde, qui finissent ?
 
 <!-- unit:end -->
@@ -234,7 +234,7 @@ L'adulte prépare un petit verre avec quelques bonbons, et demande à l'enfant d
 
 <!-- unit:start id="8-12.explanation" kind="explanation" -->
 
-Tout bonheur terrestre se heurte à deux limites : soit il finit, soit il t'est refusé, à cause d'une maladie, de la distance ou d'un manque d'argent. Mais Allah a décrit le bonheur de la Jannah comme échappant à ces deux limites : `la maqtu'atin wa la mamnu'ah`. Cette leçon explique une scène coranique complète sur ce bonheur, la met en regard d'un sort tout différent, puis la confirme par un hadith authentique.
+Tout bonheur terrestre se heurte à deux limites : soit il finit, soit il t'est refusé, à cause d'une maladie, de la distance ou d'un manque d'argent. Mais Allah a décrit le bonheur de la Jannah comme échappant à ces deux limites : `la maqtu'atin wa la mamnu'ah`. Cette leçon explique une scène coranique complète sur ce bonheur, la met en regard d'un sort tout différent, puis la confirme par un hadith authentique rapporté par Muslim, dans lequel le Prophète, paix et bénédictions sur lui, nous a appris qu'un héraut appellera les gens de la Jannah : « Vous serez en bonne santé, sans jamais tomber malades ; vous vivrez, sans jamais mourir ; vous serez jeunes, sans jamais vieillir ; vous serez comblés, sans jamais connaître le malheur. »[^5]
 
 <!-- unit:end -->
 
@@ -264,9 +264,9 @@ Autrement dit : Allah décrit les gens de la droite comme jouissant d'un bonheur
 
 <!-- terminology:start source_id="quran-56-27-34" -->
 
-- **`Ashab al-Yamin`** — le groupe qui reçoit le livre de ses actions dans la main droite le Jour de la Résurrection, grâce à ses bonnes œuvres, et dont le sort est le bonheur éternel.
+- **`Ashab al-Yamin`** — le groupe qui reçoit le livre de ses actions dans la main droite le Jour de la Résurrection, grâce à ses bonnes œuvres, que l'on conduit par la droite vers la Jannah, et dont le sort est le bonheur éternel.[^13]
 - **`la maqtu'atin wa la mamnu'ah`** — description des fruits de la Jannah : ils ne s'arrêtent pas à une certaine période comme les fruits terrestres, et aucun des gens de la Jannah n'est empêché d'en cueillir.
-- **`al-mawtata al-ula`** — la mort qui précède l'entrée en Jannah ; c'est la seule mort que goûtent ses habitants, et il n'y a plus jamais de mort après elle.
+- **`al-mawtata al-ula`** (la première mort) — tirée de la parole d'Allah au sujet des gens de la Jannah : « Ils n'y goûteront pas la mort, hormis la première mort. Et Il les aura protégés du châtiment de la Fournaise » (Ad-Dukhan : 56) ; c'est la mort qui précède l'entrée en Jannah, la seule mort que goûtent ses habitants, et il n'y a plus jamais de mort après elle.[^4]
 
 <!-- terminology:end -->
 
@@ -319,7 +319,7 @@ Trace deux colonnes dans ton cahier. Dans la première, écris cinq choses terre
 
 <!-- unit:start id="13+.explanation" kind="explanation" -->
 
-Une bonne partie de ce que nous recherchons aujourd'hui est conçue pour s'évanouir vite : une nouvelle notification quelques minutes après la précédente, une tendance qui change chaque jour, un « j'aime » dont l'effet s'efface en quelques heures. Cette conception n'est pas un hasard : tout ce qui repose sur le « maintenant, et rien d'autre » a besoin d'être sans cesse renouvelé pour te garder accroché. Le Coran propose ici un critère radicalement différent : une scène complète de la sourate Al-Waqi'ah, qui décrit un bonheur qualifié de `la maqtu'atin wa la mamnu'ah`, aussitôt mis en regard d'un autre sort qui ne lui ressemble en rien. Ce contraste n'est pas une simple information doctrinale lointaine ; c'est une invitation à repenser tout ce sur quoi tu fondes ta satisfaction aujourd'hui.
+Une bonne partie de ce que nous recherchons aujourd'hui est conçue pour s'évanouir vite : une nouvelle notification quelques minutes après la précédente, une tendance qui change chaque jour, un « j'aime » dont l'effet s'efface en quelques heures. Cette conception n'est pas un hasard : tout ce qui repose sur le « maintenant, et rien d'autre » a besoin d'être sans cesse renouvelé pour te garder accroché. Le Coran propose ici un critère radicalement différent : une scène complète de la sourate Al-Waqi'ah, qui décrit un bonheur qualifié de `la maqtu'atin wa la mamnu'ah`, aussitôt mis en regard d'un autre sort qui ne lui ressemble en rien. Ce contraste n'est pas une simple information doctrinale lointaine ; c'est une invitation à repenser tout ce sur quoi tu fondes ta satisfaction aujourd'hui. Un hadith authentique rapporté par Muslim confirme ce sens : le Prophète, paix et bénédictions sur lui, nous a appris qu'un héraut appellera les gens de la Jannah pour leur annoncer qu'ils seront en bonne santé sans jamais tomber malades, qu'ils vivront sans jamais mourir, qu'ils resteront jeunes sans jamais vieillir, et qu'ils seront comblés sans jamais connaître le malheur.[^5]
 
 <!-- unit:end -->
 
@@ -351,9 +351,9 @@ Autrement dit : Allah a décrit le bonheur des gens de la droite par une double 
 
 <!-- terminology:start source_id="quran-56-27-34" -->
 
-- **`Ashab al-Yamin` / `Ashab ash-Shimal`** — les deux groupes entre lesquels les gens se répartissent le Jour de la Résurrection selon leurs actions, chacun recevant le livre de ses actions selon ce qu'il mérite.
+- **`Ashab al-Yamin` / `Ashab ash-Shimal`** — les deux groupes entre lesquels les gens se répartissent le Jour de la Résurrection selon leurs actions, chacun recevant le livre de ses actions selon ce qu'il mérite ; les exégètes mentionnent que les gens de la droite reçoivent leur livre dans la main droite et sont conduits par la droite, et que les gens de la gauche le reçoivent dans la main gauche et sont conduits par la gauche.[^13]
 - **`la maqtu'atin wa la mamnu'ah`** — une double description : la négation de toute fin dans le temps et la négation de tout obstacle qui empêcherait d'y accéder ; c'est le sens complet de l'éternité.
-- **L'exception dans la parole d'Allah `illa ma sha'a rabbuk` (Hud : 108)** — mentionnée par les savants pour expliquer que toute chose ne demeure que par la volonté d'Allah, sans contredire l'éternité de la Jannah ; une question qu'Ibn al-Qayyim, qu'Allah lui fasse miséricorde, a exposée en détail.[^6]
+- **L'exception dans la parole d'Allah `wa amma alladhina su'idu fa-fi al-jannati khalidina fiha ma damat as-samawatu wal-ardu illa ma sha'a rabbuk, 'ata'an ghayra majdhudh`** (« Quant à ceux qui sont heureux, ils seront dans la Jannah, pour y demeurer éternellement tant que dureront les cieux et la terre, sauf ce que ton Seigneur veut : un don qui ne sera jamais interrompu », Hud : 108) — les savants ont donné plusieurs explications de `illa ma sha'a rabbuk` (sauf ce que ton Seigneur veut), dont celle-ci : la permanence de leur bonheur dépend de la volonté et de la grâce d'Allah, et n'est pas nécessaire en elle-même ; aucune de ces explications ne contredit l'éternité de la Jannah, puisque le verset lui-même se termine par `'ata'an ghayra majdhudh` (un don qui ne sera jamais interrompu). Ibn al-Qayyim, qu'Allah lui fasse miséricorde, a exposé ces explications en détail.[^9][^12][^6]
 
 <!-- terminology:end -->
 
@@ -559,5 +559,10 @@ Choisis dans ta vie une habitude fondée sur un plaisir qui finit vite, comme le
 [^6]: Muhammad ibn Abi Bakr Ibn Qayyim al-Jawziyya, *Hadi al-Arwah ila Bilad al-Afrah*, chapitre soixante-sept : sur l'éternité de la Jannah, qui ne disparaîtra ni ne périra jamais : [Al-Maktaba al-Shamila](https://shamela.ws/book/13652/770).
 [^7]: 'Umar Sulayman al-Ashqar, *Al-Jannah wal-Nar*, deuxième chapitre : la Jannah est éternelle et ses habitants sont éternels, première section : les textes qui le prouvent : [Al-Maktaba al-Shamila](https://shamela.ws/book/12714/124).
 [^8]: 'Umar Sulayman al-Ashqar, *Al-Jannah wal-Nar*, deuxième section : ceux qui soutiennent que la Jannah disparaîtra : [Al-Maktaba al-Shamila](https://shamela.ws/book/12714/126).
+[^9]: Le Saint Coran, sourate Hud, verset 108 : [Texte coranique](https://quran.com/11/108).
+[^10]: Abu al-Fida Isma'il ibn Kathir, *Tafsir al-Qur'an al-'Azim*, commentaire de la sourate Al-Waqi'ah, versets 41-44, sur le sens de `wa zillin min yahmum` (l'ombre de la fumée, d'après Ibn 'Abbas, Mujahid, 'Ikrima, Qatada et as-Suddi) : [Le Coran électronique, Université King Saud](https://quran.ksu.edu.sa/tafseer/katheer/sura56-aya43.html) ; et Muhammad ibn Jarir at-Tabari, *Jami' al-Bayan*, commentaire de la sourate Al-Waqi'ah, verset 43 (une ombre de fumée d'un noir intense) : [Le Coran électronique, Université King Saud](https://quran.ksu.edu.sa/tafseer/tabary/sura56-aya43.html).
+[^11]: Abu al-Fida Isma'il ibn Kathir, *Tafsir al-Qur'an al-'Azim*, commentaire de la sourate Ad-Dukhan, verset 56 (« cette exception renforce la négation, car c'est une exception discontinue ») : [Le Coran électronique, Université King Saud](https://quran.ksu.edu.sa/tafseer/katheer/sura44-aya56.html) ; et Muhammad ibn Jarir at-Tabari, *Jami' al-Bayan*, commentaire de la sourate Ad-Dukhan, verset 56 : [Le Coran électronique, Université King Saud](https://quran.ksu.edu.sa/tafseer/tabary/sura44-aya56.html).
+[^12]: Abu al-Fida Isma'il ibn Kathir, *Tafsir al-Qur'an al-'Azim*, commentaire de la sourate Hud, verset 108, sur le sens de l'exception et de `'ata'an ghayra majdhudh` (« non interrompu ») : [Le Coran électronique, Université King Saud](https://quran.ksu.edu.sa/tafseer/katheer/sura11-aya108.html).
+[^13]: Abu al-Fida Isma'il ibn Kathir, *Tafsir al-Qur'an al-'Azim*, commentaire de la sourate Al-Waqi'ah, versets 7-10 : [Le Coran électronique, Université King Saud](https://quran.ksu.edu.sa/tafseer/katheer/sura56-aya7.html) ; et Muhammad ibn Jarir at-Tabari, *Jami' al-Bayan*, commentaire de la sourate Al-Waqi'ah, verset 8 : [Le Coran électronique, Université King Saud](https://quran.ksu.edu.sa/tafseer/tabary/sura56-aya8.html).
 
 <!-- references:end -->

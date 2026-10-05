@@ -85,7 +85,7 @@ Dans la promesse, celui qui agit, c'est Allah : « Allah lui bâtit ». L'éd
 
 #### Interprétation Savante
 
-*Al-labin* désigne la brique crue, faite d'argile séchée ; *al-jarid*, les palmes du palmier dattier ; *al-qassah*, le plâtre ; et *as-saj*, le teck, un bois réputé que l'on faisait venir de contrées lointaines.[^9]
+*Al-labin* désigne la brique crue, faite d'argile séchée ; *al-jarid*, les palmes du palmier dattier ; *al-qassah*, le plâtre ; et *as-saj*, le teck, un bois réputé que l'on faisait venir de l'Inde.[^9]
 
 #### Explication De La Leçon
 
@@ -125,7 +125,7 @@ Le mot « bâties » (*mabniyyah*) est un texte coranique explicite : il y a 
 
 #### Traduction Française
 
-> D'après Abu Musa al-Ash'ari, qu'Allah soit satisfait de lui, le Messager d'Allah, paix et bénédictions sur lui, a dit : **« Deux jardins d'argent, leur vaisselle et tout ce qu'ils contiennent ; et deux jardins d'or, leur vaisselle et tout ce qu'ils contiennent. Et rien ne sépare les gens de la vision de leur Seigneur, sinon le manteau de la Grandeur sur Sa Face, dans le Jardin d'Éden. »**[^6]
+> D'après Abu Musa al-Ash'ari, qu'Allah soit satisfait de lui, le Messager d'Allah, paix et bénédictions sur lui, a dit : **« Deux jardins d'argent, leur vaisselle et tout ce qu'ils contiennent ; et deux jardins d'or, leur vaisselle et tout ce qu'ils contiennent. Et rien ne sépare les gens de la vision de leur Seigneur, sinon le manteau de la Grandeur sur Sa Face, dans le jardin de 'Adn. »**[^6]
 
 #### Explication De La Leçon
 
@@ -147,7 +147,7 @@ Le mot « bâties » (*mabniyyah*) est un texte coranique explicite : il y a 
 
 #### Interprétation Savante
 
-At-Tirmidhi a dit : « Sa chaîne n'est pas très solide, et elle n'est pas, selon moi, ininterrompue. » Ahmad Shakir et al-Albani l'ont jugé authentique par l'ensemble de ses voies, et d'autres l'ont jugé faible.[^7] *Al-milat* désigne le mortier, ce que l'on met entre les briques pour les lier.
+At-Tirmidhi a dit : « Sa chaîne n'est pas très solide, et elle n'est pas, selon moi, ininterrompue. » Ahmad Shakir et al-Albani l'ont jugé authentique, et d'autres l'ont jugé faible.[^7] *Al-milat* désigne le mortier, ce que l'on met entre les briques pour les lier.
 
 #### Explication De La Leçon
 
@@ -613,7 +613,7 @@ Sens : Ô Allah, purifie nos intentions, afin que nos œuvres soient pour Toi s
 [^4]: As-Sa'di, *Taysir al-Karim ar-Rahman fi Tafsir Kalam al-Mannan*, tafsir de la sourate az-Zumar, verset 20 : [quran.ksu.edu.sa/tafseer/saadi/sura39-aya20.html](https://quran.ksu.edu.sa/tafseer/saadi/sura39-aya20.html).
 [^5]: Ibn Kathir, *Tafsir al-Qur'an al-'Azim*, tafsir de la sourate az-Zumar, verset 20 : [quran.ksu.edu.sa/tafseer/katheer/sura39-aya20.html](https://quran.ksu.edu.sa/tafseer/katheer/sura39-aya20.html).
 [^6]: Sahih al-Bukhari, Livre de l'exégèse (*Kitab at-Tafsir*), chapitre « Et en deçà de ces deux-là, deux autres jardins », hadith 4878, rapporté par Abu Bakr ibn 'Abd Allah ibn Qays d'après son père, Abu Musa al-Ash'ari, qu'Allah soit satisfait de lui ; authentique : [sunnah.com/bukhari:4878](https://sunnah.com/bukhari:4878). Rapporté aussi par Muslim, Livre de la foi (*Kitab al-Iman*), hadith 180 : [sunnah.com/muslim:180](https://sunnah.com/muslim:180).
-[^7]: Jami' at-Tirmidhi, Livre de la description de la Jannah (*Abwab Sifat al-Jannah*), chapitre de ce qui est rapporté sur la description de la Jannah et de ses délices, hadith 2526, d'après Abu Hurayrah, qu'Allah soit satisfait de lui : [sunnah.com/tirmidhi:2526](https://sunnah.com/tirmidhi:2526). On n'en a reproduit que le passage pertinent, en omettant, à l'endroit marqué, son début (la question des Compagnons au Prophète, paix et bénédictions sur lui, sur l'attendrissement de leurs cœurs en sa présence, et sur la matière dont la création est faite) et sa fin (les trois personnes dont l'invocation n'est pas repoussée) ; cette omission ne change pas le sens du passage reproduit. At-Tirmidhi a dit : « Ce hadith n'a pas une chaîne très solide, et elle n'est pas, selon moi, ininterrompue ; ce hadith a aussi été rapporté d'Abu Hurayrah par une autre chaîne. » Ahmad Shakir et al-Albani l'ont jugé authentique par l'ensemble de ses voies, tandis que Zubayr 'Ali Za'i l'a jugé faible. Les notes de l'éditeur de *Hadi al-Arwah* d'Ibn al-Qayyim (éd. 'Ata'at al-'Ilm, chapitre trente-quatre) indiquent que la voie d'Ahmad repose sur Abu al-Mudillah, qu'Ibn al-Madini a déclaré inconnu : [shamela.ws/book/13652/333](https://shamela.ws/book/13652/333). C'est pourquoi ce récit n'est pas retenu dans cette leçon comme preuve principale. De même, on ne s'est pas appuyé sur les récits détaillant les murs de la Jannah que rapportent Abu Nu'aym dans *Sifat al-Jannah* (chapitre de la description des murs de la Jannah) et Ibn Abi ad-Dunya.
+[^7]: Jami' at-Tirmidhi, Livre de la description de la Jannah (*Abwab Sifat al-Jannah*), chapitre de ce qui est rapporté sur la description de la Jannah et de ses délices, hadith 2526, d'après Abu Hurayrah, qu'Allah soit satisfait de lui : [sunnah.com/tirmidhi:2526](https://sunnah.com/tirmidhi:2526). On n'en a reproduit que le passage pertinent, en omettant, à l'endroit marqué, son début (la question des Compagnons au Prophète, paix et bénédictions sur lui, sur l'attendrissement de leurs cœurs en sa présence, et sur la matière dont la création est faite) et sa fin (les trois personnes dont l'invocation n'est pas repoussée) ; cette omission ne change pas le sens du passage reproduit. At-Tirmidhi a dit : « Ce hadith n'a pas une chaîne très solide, et elle n'est pas, selon moi, ininterrompue ; ce hadith a aussi été rapporté d'Abu Hurayrah par une autre chaîne. » Ahmad Shakir et al-Albani l'ont jugé authentique, tandis que Zubayr 'Ali Za'i l'a jugé faible. Les notes de l'éditeur de *Hadi al-Arwah* d'Ibn al-Qayyim (éd. 'Ata'at al-'Ilm, chapitre trente-quatre) indiquent que la voie d'Ahmad repose sur Abu al-Mudillah, qu'Ibn al-Madini a déclaré inconnu : [shamela.ws/book/13652/333](https://shamela.ws/book/13652/333). C'est pourquoi ce récit n'est pas retenu dans cette leçon comme preuve principale. De même, on ne s'est pas appuyé sur les récits détaillant les murs de la Jannah que rapportent Abu Nu'aym dans *Sifat al-Jannah* (chapitre de la description des murs de la Jannah) et Ibn Abi ad-Dunya.
 [^8]: An-Nawawi, *al-Minhaj Sharh Sahih Muslim ibn al-Hajjaj*, Livre des mosquées et des lieux de prière, chapitre du mérite de la construction des mosquées et de l'incitation à en bâtir, commentaire du hadith 533, sur les deux sens possibles de « son pareil » (*mithlahu*).
 [^9]: Ibn Hajar al-'Asqalani, *Fath al-Bari Sharh Sahih al-Bukhari*, Livre de la prière, chapitre de la construction de la mosquée, commentaire du hadith 446, sur le sens d'*al-qassah* (le plâtre) et d'*as-saj* (le teck) ; et Ibn al-Athir, *an-Nihayah fi Gharib al-Hadith wa al-Athar*, entrées « labin » et « sawj ».
 

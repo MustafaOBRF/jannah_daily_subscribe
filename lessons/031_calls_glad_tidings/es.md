@@ -22,7 +22,7 @@ bedtime_dua_id: "lesson.031.dua.wellbeing-and-heirs-of-jannah"
 Después de esta lección, el aprendiz será capaz de:
 
 - Narrar con sus palabras exactas el hadiz de Sahih Muslim (2837): «Un pregonero proclamará: "Os corresponde estar sanos, y no enfermaréis jamás..."», enumerar las cuatro buenas nuevas que contiene —salud sin enfermedad, vida sin muerte, juventud sin vejez y deleite sin miseria— y citar la aleya con la que se relaciona al final (Al-A'raf 7:43).
-- Ordenar tres proclamas que recogen los textos: la proclama de seguridad, {¡Oh siervos Míos! Hoy no tendréis nada que temer ni estaréis tristes} (Az-Zujruf 43:68); la proclama de felicitación, {Y se les proclamará: «Ese es el Paraíso que se os ha dado en herencia por lo que hacíais»} (Al-A'raf 7:43); y, por último, el contenido de la proclama según el hadiz de Muslim.
+- Distinguir tres proclamas que recogen los textos: la proclama de seguridad, {¡Oh siervos Míos! Hoy no tendréis nada que temer ni estaréis tristes} (Az-Zujruf 43:68), que as-Sa'di sitúa en el Día de la Resurrección; la proclama de felicitación, {Y se les proclamará: «Ese es el Paraíso que se os ha dado en herencia por lo que hacíais»} (Al-A'raf 7:43); y el contenido de la proclama según el hadiz de Muslim.
 - Explicar el sentido de "heredar por las obras" con las palabras de Ibn Kazir y de as-Sa'di: la buena obra es la causa por la que se alcanza la misericordia de Allah, los grados varían según las obras, y la entrada misma es un favor de Allah.
 - Distinguir entre la buena nueva veraz que encierra la palabra "jamás" cuando habla de la Otra Vida y las promesas exageradas de este mundo, que no pueden garantizar que nada dure.
 - Realizar la actividad "Un sobre sellado con la buena nueva": clasificar lo que pesa en el corazón —enfermedad, debilidad, tristeza o miedo a perder a alguien— en sobres que llevan escritas las palabras de la proclama, y después hacer una obra de misericordia real por alguien que esté viviendo ahora mismo una de esas situaciones.
@@ -486,13 +486,13 @@ Esta súplica une la petición de bienestar en este mundo, que es legítima, con
 ### Adultos — 60 minutos
 
 <!-- lesson-plan:outcomes -->
-**Resultados de aprendizaje:** el aprendiz narra con sus palabras exactas el hadiz de Muslim 2837 y enumera sus cuatro buenas nuevas; ordena las tres proclamas (Az-Zujruf 68, Al-A'raf 43 y el hadiz de Muslim); explica el sentido de heredar por las obras con las palabras de Ibn Kazir y de as-Sa'di; formula una frase de consuelo sincera para un enfermo, un anciano o alguien de duelo que no le quite importancia a su dolor; y realiza una obra de misericordia real.
+**Resultados de aprendizaje:** el aprendiz narra con sus palabras exactas el hadiz de Muslim 2837 y enumera sus cuatro buenas nuevas; distingue las tres proclamas (Az-Zujruf 68, Al-A'raf 43 y el hadiz de Muslim); explica el sentido de heredar por las obras con las palabras de Ibn Kazir y de as-Sa'di; formula una frase de consuelo sincera para un enfermo, un anciano o alguien de duelo que no le quite importancia a su dolor; y realiza una obra de misericordia real.
 
 <!-- lesson-plan:materials -->
 **Materiales:** copias de la lección; un mushaf; una pizarra dividida en tres columnas con los títulos "Seguridad", "Felicitación" y "Contenido"; cuatro sobres y papelitos para cada participante.
 
 <!-- lesson-plan:preparation -->
-**Preparación:** el docente repasa el tafsir de as-Sa'di y de Ibn Kazir sobre Az-Zujruf (68-72) y Al-A'raf (43), así como el hadiz de Muslim 2837 junto con la versión de at-Tirmidi 3246, y escribe en cada sobre una de las cuatro expresiones de la proclama.
+**Preparación:** el docente repasa el tafsir de as-Sa'di y de Ibn Kazir sobre Az-Zujruf (68-73) y Al-A'raf (43), así como el hadiz de Muslim 2837 junto con la versión de at-Tirmidi 3246, y escribe en cada sobre una de las cuatro expresiones de la proclama.
 
 <!-- lesson-plan:opening -->
 **Apertura — 5 minutos:** el docente pregunta: «¿Cuál es la última buena noticia que habéis recibido? ¿Y cuál fue el "pero" que llegó detrás?». Escucha tres respuestas y luego lee el hadiz de Muslim sin comentarlo.

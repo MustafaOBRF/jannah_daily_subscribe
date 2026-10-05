@@ -25,7 +25,7 @@ Après cette leçon, l'apprenant sera capable de :
 - Expliquer la parole d'Allah `Certes, Allah a acheté des croyants leurs personnes et leurs biens en échange de la Jannah` (at-Tawbah : 111-112), et montrer que cette vente est un honneur qu'Allah accorde, non un échange entre égaux.
 - Relier les versets d'as-Saff (10-12) et d'az-Zukhruf (72) à l'idée que l'œuvre est une cause réelle de la Jannah, et non un prix indépendant qui dispenserait le serviteur de la grâce d'Allah.
 - Rapporter le hadith `Nul n'entrera en Jannah par son œuvre`, en tirer l'orientation `Soyez droits et rapprochez-vous`, et l'appliquer à la confiance excessive que l'on peut placer dans l'abondance de ses actes.
-- Distinguer le hadith authentique de Sahih al-Bukhari sur la question du Bédouin de formules célèbres mais à la chaîne faible, comme `La clé de la Jannah est l'attestation qu'il n'y a de divinité qu'Allah` et la parole rapportée de Wahb ibn Munabbih, sans les élever au rang de hadith authentique.
+- Distinguer le hadith authentique de Sahih al-Bukhari sur la question du Bédouin de formules célèbres mais à la chaîne faible, comme `La clé de la Jannah est l'attestation qu'il n'y a de divinité qu'Allah`, sans les élever au rang de hadith authentique, ainsi que de la parole rapportée de Wahb ibn Munabbih, qui est le propos d'un Successeur et non un hadith remontant au Prophète.
 - Raconter une histoire éducative sur un gardien de jardin qui ouvre sa porte par miséricorde, et non contre le prix d'une fausse clé, et la relier au hadith de la femme à qui Allah pardonna pour avoir donné à boire à un chien assoiffé, rapporté dans Sahih al-Bukhari, afin de montrer qu'un petit geste sincère est une cause à laquelle répond la miséricorde, et non un prix indépendant qui l'égalerait.
 - Réaliser l'activité « La clé des causes, non le prix du mérite » pour distinguer l'œuvre en tant que cause commandée par Allah de l'illusion d'un prix indépendant équivalant à la Jannah.
 
@@ -145,7 +145,7 @@ Remarque que le Prophète, paix et bénédictions sur lui, n'a pas témoigné qu
 
 <!-- evidence:end -->
 
-<!-- evidence:start id="muslim-2816c" kind="hadith" mode="canonical" -->
+<!-- evidence:start id="bukhari-5673" kind="hadith" mode="canonical" -->
 
 ### Nul N'entrera En Jannah Par Son Œuvre
 
@@ -187,9 +187,9 @@ Ce hadith illustre de façon vivante la distinction sur laquelle repose la leço
 
 ### Remarque Savante : Des Formules Célèbres Qui Ne Sont Pas Un Hadith Authentique
 
-Une formule est sur toutes les lèvres : `La clé de la Jannah est l'attestation qu'il n'y a de divinité qu'Allah`. Mais sa chaîne de transmission n'est pas exempte de faiblesse et de rupture ; on ne peut donc pas l'attribuer au Prophète, paix et bénédictions sur lui, comme un hadith authentique, même si son sens général est juste et confirmé par les hadiths authentiques cités dans cette même leçon. Il n'est donc pas nécessaire de s'appuyer sur une formulation faible quand on dispose de ce qui la rend superflue. Ibn al-Qayyim, qu'Allah lui fasse miséricorde, rapporte que l'on demanda à Wahb ibn Munabbih : « `Il n'y a de divinité qu'Allah` n'est-elle pas la clé de la Jannah ? » Il répondit : « Si, mais toute clé a des dents : si tu viens avec une clé qui a des dents, on t'ouvrira ; sinon, on ne t'ouvrira pas. » Il s'agit d'une parole d'un Successeur (tabi'i, de la génération qui suivit les Compagnons) qui explique de façon éducative le sens de la formule, et non d'un hadith remontant au Prophète, paix et bénédictions sur lui.[^7]
+Une formule est sur toutes les lèvres : `La clé de la Jannah est l'attestation qu'il n'y a de divinité qu'Allah`. Mais sa chaîne de transmission n'est pas exempte de faiblesse et de rupture ; on ne peut donc pas l'attribuer au Prophète, paix et bénédictions sur lui, comme un hadith authentique, même si son sens général est juste et confirmé par les hadiths authentiques cités dans cette même leçon. Il n'est donc pas nécessaire de s'appuyer sur une formulation faible quand on dispose de ce qui la rend superflue. Al-Bukhari, qu'Allah lui fasse miséricorde, mentionne dans son Sahih, au début du Livre des funérailles et sans chaîne de transmission, que l'on demanda à Wahb ibn Munabbih : « `Il n'y a de divinité qu'Allah` n'est-elle pas la clé de la Jannah ? » Il répondit : « Si, mais toute clé a des dents : si tu viens avec une clé qui a des dents, on t'ouvrira ; sinon, on ne t'ouvrira pas. » Al-Bukhari l'a rapportée avec une chaîne complète dans son *at-Tarikh*, comme le signale Ibn Hajar dans *Fath al-Bari*, et Ibn al-Qayyim la cite aussi dans *Hadi al-Arwah*. Il s'agit d'une parole d'un Successeur (tabi'i, de la génération qui suivit les Compagnons) qui explique de façon éducative le sens de la formule, et non d'un hadith remontant au Prophète, paix et bénédictions sur lui.[^7]
 
-De même, une autre parole est répandue : `La marchandise d'Allah est chère ; la marchandise d'Allah, c'est la Jannah`. At-Tirmidhi, qu'Allah lui fasse miséricorde, l'a jugée hasan (« bonne »), tandis que certains spécialistes du hadith ont discuté ses voies de transmission. C'est pourquoi elle n'est pas retenue comme fondement unique dans cette leçon : les versets explicites sur le commerce et les hadiths authentiques déjà cités nous suffisent.[^8]
+De même, une autre parole est répandue : `La marchandise d'Allah est chère ; la marchandise d'Allah, c'est la Jannah`. At-Tirmidhi, qu'Allah lui fasse miséricorde, l'a rapportée (n° 2450) en la jugeant « hasan gharib », tandis que certains spécialistes du hadith ont discuté ses voies de transmission, et les savants ultérieurs divergent sur son degré. C'est pourquoi elle n'est pas retenue comme fondement unique dans cette leçon : les versets explicites sur le commerce et les hadiths authentiques déjà cités nous suffisent.[^8]
 
 ### Comment Concilier « L'Achat » Et « La Miséricorde » ?
 
@@ -259,7 +259,7 @@ Pendant ces mêmes jours, Bilal arrosait un arbre près de la porte du jardin et
 
 **Ceci est un hadith authentique rapporté par Abu Hurayrah, qu'Allah soit satisfait de lui, d'après le Prophète, paix et bénédictions sur lui ; ce n'est pas une histoire imaginée.**
 
-Le Prophète, paix et bénédictions sur lui, nous a raconté qu'une femme vit un chien qui tirait la langue tant il avait soif, près d'un puits. Son cœur fut touché : elle retira sa chaussure, la remplit d'eau et donna à boire au chien jusqu'à ce qu'il n'ait plus soif. Et Allah lui pardonna grâce à ce petit geste.[^9]
+Le Prophète, paix et bénédictions sur lui, nous a raconté qu'une femme vit un chien qui tirait la langue tant il avait soif, près d'un puits. Son cœur fut touché : elle retira sa chaussure, la remplit d'eau et donna à boire au chien. Et Allah lui pardonna grâce à ce petit geste.[^9]
 
 <!-- retelling:start source_id="bukhari-3321" audience="4-7" -->
 
@@ -317,7 +317,7 @@ Un adulte prépare un morceau de papier découpé en forme de clé, avec trois p
 
 <!-- unit:start id="8-12.explanation" kind="explanation" -->
 
-Le tawhid, c'est-à-dire croire qu'Allah est unique, est le fondement du chemin vers la Jannah : c'est la première clé. Mais une vraie clé a des dents : la prière, la sincérité, les obligations que nous respectons. Le Coran décrit parfois notre obéissance comme un « commerce » avec Allah : nous offrons la foi et les bonnes œuvres, et Allah nous donne la Jannah. Pourtant, un hadith authentique nous rappelle une chose importante : quoi que nous fassions, la Jannah reste une miséricorde d'Allah, et pas seulement le résultat d'un calcul de nos actes.
+Le tawhid, c'est-à-dire croire qu'Allah est unique, est le fondement du chemin vers la Jannah : c'est la première clé. Mais une vraie clé a des dents : la prière, la sincérité, les obligations que nous respectons. Le Coran décrit parfois notre obéissance comme un « commerce » avec Allah : nous offrons la foi et les bonnes œuvres, et Allah nous donne la Jannah. Pourtant, le Prophète, paix et bénédictions sur lui, a dit : « Nul n'entrera en Jannah par son œuvre. » Les Compagnons demandèrent : « Pas même toi, ô Messager d'Allah ? » Il répondit : « Non, pas même moi, à moins qu'Allah ne m'enveloppe de Sa grâce et de Sa miséricorde. Soyez donc droits et rapprochez-vous. »[^6]
 
 <!-- unit:end -->
 
@@ -351,7 +351,7 @@ Sur le chemin du retour, Bilal comprit une chose importante : ses bonnes actions
 
 **Ceci est un hadith authentique rapporté par Abu Hurayrah, qu'Allah soit satisfait de lui ; ce n'est pas une histoire imaginée.**
 
-Le Prophète, paix et bénédictions sur lui, parla à ses Compagnons d'une femme connue pour ses péchés et ses fautes. Elle passa à côté d'un chien, au bord d'un puits ; le chien haletait de soif, au point d'en mourir presque. Son cœur fut touché par son état : elle retira sa chaussure (son *khuff*), l'attacha avec son voile, la fit descendre jusqu'à l'eau, puis puisa pour lui et lui donna à boire jusqu'à ce qu'il soit désaltéré.
+Le Prophète, paix et bénédictions sur lui, parla à ses Compagnons d'une femme connue pour ses péchés et ses fautes. Elle passa à côté d'un chien, au bord d'un puits ; le chien haletait de soif, au point d'en mourir presque. Son cœur fut touché par son état : elle retira sa chaussure (son *khuff*), l'attacha avec son voile, la fit descendre jusqu'à l'eau, puis puisa pour lui et lui donna à boire.
 
 Le Prophète, paix et bénédictions sur lui, dit alors : « Elle fut pardonnée grâce à cela », c'est-à-dire qu'Allah lui pardonna ses péchés grâce à ce petit geste de miséricorde.[^9]
 
@@ -424,7 +424,7 @@ Dessine une clé et écris sur sa tête `Il n'y a de divinité qu'Allah`. Sur la
 
 <!-- unit:start id="13+.explanation" kind="explanation" -->
 
-L'expression « la clé de la Jannah » est utile, mais elle demande de la précision : la vraie clé est un tawhid qui réunit connaissance, conviction et soumission, et non une simple parole prononcée. Le langage de « l'achat » et du « commerce » dans le Coran est bien réel, mais il ne fait pas de l'être humain un créancier d'Allah : c'est Allah qui a créé le serviteur, sa capacité et son œuvre, qui l'a guidé, qui a accepté son œuvre et qui la lui a multipliée. Un hadith authentique fixe le juste cadre de tout cela : personne n'entre en Jannah par sa seule œuvre, pas même le Prophète lui-même, paix et bénédictions sur lui.
+L'expression « la clé de la Jannah » est utile, mais elle demande de la précision : la vraie clé est un tawhid qui réunit connaissance, conviction et soumission, et non une simple parole prononcée. Le langage de « l'achat » et du « commerce » dans le Coran est réel, mais il ne fait pas de l'être humain un créancier d'Allah : c'est Allah qui a créé le serviteur, sa capacité et son œuvre, qui l'a guidé, qui a accepté son œuvre et qui la lui a multipliée. Un hadith authentique fixe le juste cadre de tout cela : personne n'entre en Jannah par sa seule œuvre, pas même le Prophète lui-même, paix et bénédictions sur lui. Le Successeur Wahb ibn Munabbih disait : « toute clé a des dents ».[^7]
 
 <!-- unit:end -->
 
@@ -458,7 +458,7 @@ Sur le chemin du retour, Bilal repensa aux paroles de Tariq et à celles du gard
 
 **Ceci est un hadith authentique rapporté par Abu Hurayrah, qu'Allah soit satisfait de lui ; ce n'est pas une histoire imaginée.**
 
-Le Prophète, paix et bénédictions sur lui, parla à ses Compagnons d'une prostituée parmi les Fils d'Israël — c'est-à-dire une femme connue pour la débauche et le péché — qui passa près d'un chien au bord d'un puits ; il haletait de soif, au point d'en mourir presque. Elle retira sa chaussure (son *khuff*), l'attacha avec son voile (son *khimar*, qui lui couvrait la tête), puis puisa de l'eau pour lui et lui donna à boire. Et Allah lui pardonna grâce à ce geste.[^9]
+Le Prophète, paix et bénédictions sur lui, parla à ses Compagnons d'une prostituée parmi les Fils d'Israël[^10] — c'est-à-dire une femme connue pour la débauche et le péché — qui passa près d'un chien au bord d'un puits ; il haletait de soif, au point d'en mourir presque. Elle retira sa chaussure (son *khuff*), l'attacha avec son voile (son *khimar*, qui lui couvrait la tête), puis puisa de l'eau pour lui et lui donna à boire. Et Allah lui pardonna grâce à ce geste.[^9]
 
 <!-- retelling:start source_id="bukhari-3321" audience="13+" -->
 
@@ -536,7 +536,7 @@ Trace deux colonnes. Dans la première, `Causes commandées`, note trois actes d
 **Matériel :** copie complète des versets d'at-Tawbah 111-112, d'as-Saff 10-12 et d'az-Zukhruf 72 ; textes des hadiths de Muslim 26, d'al-Bukhari 1397, d'al-Bukhari 5673 (et, en des termes proches, Muslim 2816) et d'al-Bukhari 3321 ; un modèle de clé en papier ; feuilles et stylos.
 
 <!-- lesson-plan:preparation -->
-**Préparation :** l'enseignant relit ce qu'écrit Ibn al-Qayyim dans *Hadi al-Arwah* sur la parole de Wahb ibn Munabbih et sur le hadith « la marchandise d'Allah est chère », afin d'être prêt à discuter du degré d'authenticité des formules faibles sans les attribuer au Prophète, paix et bénédictions sur lui.
+**Préparation :** l'enseignant relit ce que cite Ibn al-Qayyim dans *Hadi al-Arwah* de la parole de Wahb ibn Munabbih et du hadith « la marchandise d'Allah est chère » (avec le jugement d'at-Tirmidhi et les notes de l'éditeur sur ses chaînes), afin d'être prêt à discuter du degré d'authenticité des formules faibles sans les attribuer au Prophète, paix et bénédictions sur lui.
 
 <!-- lesson-plan:opening -->
 **Ouverture — 5 minutes :** demander : « Penses-tu que l'abondance de tes œuvres te garantit la Jannah comme un dû ? »
@@ -557,7 +557,7 @@ Trace deux colonnes. Dans la première, `Causes commandées`, note trois actes d
 **Différenciation :** donner au débutant un texte abrégé de chaque preuve, avec les mots-clés surlignés, et charger l'apprenant avancé de discuter du degré du hadith « la marchandise d'Allah est chère » chez at-Tirmidhi et les critiques du hadith.
 
 <!-- lesson-plan:safeguards -->
-**Précautions pédagogiques :** ne pas utiliser les textes de l'achat et du commerce pour justifier une violence individuelle sans autorité légitime, ne pas affirmer catégoriquement qu'une seule œuvre garantit la Jannah, et ne pas élever la parole faible au rang de hadith authentique.
+**Précautions pédagogiques :** ne pas utiliser les versets de l'achat et du commerce pour justifier une violence individuelle sans autorité légitime, ne pas affirmer catégoriquement qu'une seule œuvre garantit la Jannah, et ne pas élever la parole faible au rang de hadith authentique.
 
 <!-- lesson-plan:end -->
 
@@ -644,7 +644,7 @@ Trace deux colonnes. Dans la première, `Causes commandées`, note trois actes d
 **Matériel :** dossier des sept preuves ; cartes de vocabulaire ; feuilles à deux colonnes ; billets de sortie.
 
 <!-- lesson-plan:preparation -->
-**Préparation :** l'enseignant prépare un bref résumé de la position d'Ibn al-Qayyim sur la parole de Wahb ibn Munabbih et sur le hadith « la marchandise d'Allah est chère », afin de la présenter avec précision, sans exagération ni simplification excessive.
+**Préparation :** l'enseignant prépare un bref résumé de ce que cite Ibn al-Qayyim de la parole de Wahb ibn Munabbih et du hadith « la marchandise d'Allah est chère », et de ce qui a été dit de leur degré, afin de le présenter avec précision, sans exagération ni simplification excessive.
 
 <!-- lesson-plan:opening -->
 **Ouverture — 5 minutes :** demander : « As-tu déjà entendu une formule qui garantirait la Jannah pour une seule œuvre ? Qu'en penses-tu maintenant ? »
@@ -679,8 +679,9 @@ Trace deux colonnes. Dans la première, `Causes commandées`, note trois actes d
 [^4]: Le Noble Coran, sourate az-Zukhruf, verset 72 : [texte coranique](https://quran.com/43/72).
 [^5]: Sahih al-Bukhari, Livre de la Zakat, hadith 1397 : [Sunnah.com, hadith bukhari:1397](https://sunnah.com/bukhari:1397).
 [^6]: Sahih al-Bukhari, Livre des malades, hadith 5673, rapporté par Abu Hurayrah, qu'Allah soit satisfait de lui (texte cité) ; rapporté aussi par Muslim en des termes proches, Livre de la description du Jour de la Résurrection, du Paradis et de l'Enfer, hadith 2816 : [Sunnah.com, hadith bukhari:5673](https://sunnah.com/bukhari:5673) ; [Sunnah.com, hadith muslim:2816f](https://sunnah.com/muslim:2816f).
-[^7]: Muhammad ibn Abi Bakr Ibn Qayyim al-Jawziyyah, *Hadi al-Arwah ila Bilad al-Afrah*, chapitre XIV : sur la clé de la Jannah, avec la parole rapportée de Wahb ibn Munabbih sur les dents de la clé : [al-Maktaba ash-Shamila](https://shamela.ws/book/13652/189).
-[^8]: Muhammad ibn Abi Bakr Ibn Qayyim al-Jawziyyah, *Hadi al-Arwah ila Bilad al-Afrah*, chapitre XIX : sur la présentation par le Seigneur, Exalté soit-Il, de Sa marchandise, la Jannah, avec une discussion des voies de transmission : [al-Maktaba ash-Shamila](https://shamela.ws/book/13652/220).
+[^7]: Sahih al-Bukhari, début du Livre des funérailles, parole de Wahb ibn Munabbih citée sans chaîne (mu'allaq) ; Ibn Hajar, *Fath al-Bari*, commentaire du même passage, où il signale qu'al-Bukhari l'a rapportée avec une chaîne dans *at-Tarikh* : [IslamWeb](https://islamweb.net/ar/library/content/52/2282/) ; Muhammad ibn Abi Bakr Ibn Qayyim al-Jawziyyah, *Hadi al-Arwah ila Bilad al-Afrah*, chapitre XIV : sur la clé de la Jannah, avec la parole rapportée de Wahb ibn Munabbih sur les dents de la clé : [al-Maktaba ash-Shamila](https://shamela.ws/book/13652/190).
+[^8]: Jami' at-Tirmidhi, Chapitres sur la description du Jour de la Résurrection, l'attendrissement des cœurs et le scrupule, hadith 2450, jugé hasan gharib par at-Tirmidhi : [Sunnah.com, hadith tirmidhi:2450](https://sunnah.com/tirmidhi:2450) ; cité par Ibn al-Qayyim dans *Hadi al-Arwah ila Bilad al-Afrah*, chapitre XIX : sur la présentation par le Seigneur, Exalté soit-Il, de Sa marchandise, la Jannah, avec les notes de l'éditeur sur ses chaînes : [al-Maktaba ash-Shamila](https://shamela.ws/book/13652/224).
 [^9]: Sahih al-Bukhari, Livre du commencement de la création, hadith 3321, rapporté par Abu Hurayrah, qu'Allah soit satisfait de lui : [Sunnah.com, hadith bukhari:3321](https://sunnah.com/bukhari:3321).
+[^10]: Sahih al-Bukhari, Livre des prophètes, hadith 3467, rapporté par Abu Hurayrah, qu'Allah soit satisfait de lui, où elle est décrite comme « une prostituée parmi les prostituées des Fils d'Israël » : [Sunnah.com, hadith bukhari:3467](https://sunnah.com/bukhari:3467).
 
 <!-- references:end -->

@@ -33,7 +33,7 @@ Après cette leçon, l'apprenant sera capable de :
 
 <!-- unit:start id="adults.explanation" kind="explanation" -->
 
-**At-tashmîr** (« se retrousser les manches ») signifie élever sa détermination et redoubler d'effort, à l'image de celui qui relève le bas de son vêtement pour marcher plus vite. Les pieux prédécesseurs ont employé ce mot pour une seule attitude : traiter chaque occasion de bien comme un instant fugace qui n'attend pas l'hésitation. Le Paradis a pour largeur les cieux et la terre, et la vie est une occasion à saisir, non une garantie.
+**At-tashmîr** (« se retrousser les manches ») signifie élever sa détermination et redoubler d'effort, à l'image de celui qui relève le bas de son vêtement pour marcher plus vite. Le terme désigne une attitude de foi précise : traiter chaque occasion de bien comme un instant fugace qui n'attend pas l'hésitation. Le Paradis a pour largeur les cieux et la terre, et la vie est une occasion à saisir, non une garantie.
 
 Cette attitude est le fruit d'une certitude, non un élan émotionnel. Les textes en révèlent trois dimensions :
 
@@ -61,7 +61,7 @@ Cette attitude est le fruit d'une certitude, non un élan émotionnel. Les texte
 
 #### Tafsir et interprétation savante
 
-L'ordre de « rivaliser » (sâbiqû) signifie déployer le maximum d'effort, et non se contenter de suivre le mouvement. Allah a associé le pardon au Paradis parce que l'entrée au Paradis suppose d'être purifié des péchés, et Il a mentionné son immensité pour montrer que la multitude des concurrents ne le rétrécit en rien. Il a clos le verset en rappelant que le Paradis est une faveur qu'Il accorde à qui Il veut, et non un marchandage qui obligerait le Seigneur, gloire à Lui.[^2]
+L'ordre de « rivaliser » (sâbiqû) signifie déployer le maximum d'effort, et non se contenter de suivre le mouvement ; cette course se fait en recherchant les causes du pardon : le repentir sincère et l'éloignement des péchés. Allah a associé le pardon au Paradis parce que l'entrée au Paradis suppose d'être purifié des péchés, et Il a clos le verset en rappelant que le Paradis est une faveur qu'Il accorde à qui Il veut : le Paradis ne s'obtient que par la miséricorde et la grâce d'Allah, jointes aux bonnes œuvres, et non par un marchandage qui obligerait le Seigneur, gloire à Lui.[^2]
 
 #### Explication de la leçon
 
@@ -109,7 +109,7 @@ Ceci se passait le jour de Badr, lorsque le Prophète ﷺ encourageait ses Compa
 
 #### Explication de la leçon
 
-La décision de 'Umayr n'était pas une témérité ; c'était une réponse immédiate à une bonne nouvelle du Prophète ﷺ, dans un contexte légitime. La leçon qui demeure : lorsque tu es certain que le moment d'une action qui te rapproche du Paradis est venu, ne laisse pas un petit plaisir t'en détourner.
+La décision de 'Umayr n'était pas une témérité ; c'était une réponse immédiate à une bonne nouvelle du Prophète ﷺ, dans un contexte légitime. La leçon qui demeure : lorsque vous êtes certain que le moment d'une action qui vous rapproche du Paradis est venu, ne laissez pas un petit plaisir vous en détourner.
 
 <!-- evidence:end -->
 
@@ -123,7 +123,7 @@ La décision de 'Umayr n'était pas une témérité ; c'était une réponse imm�
 2. Quel est le lien entre la comparaison des épreuves à des morceaux de nuit obscure et l'ordre de se hâter ?
 3. Qu'est-ce qui fait de la réponse de 'Umayr, qu'Allah l'agrée, « bakh, bakh », une preuve de sincérité et non une simple réaction émotionnelle ?
 4. Comment distinguer une hâte louable d'une témérité que n'encadre aucune règle de la charia ?
-5. Quelle occasion de bien se présente aujourd'hui devant toi, que tu crains de manquer si tu la reportes ?
+5. Quelle occasion de bien se présente aujourd'hui devant vous, que vous craignez de manquer si vous la reportez ?
 
 <!-- unit:end -->
 
@@ -133,7 +133,7 @@ La décision de 'Umayr n'était pas une témérité ; c'était une réponse imm�
 
 <!-- activity:start audience="adults" concept_id="lesson.012.activity.sabaq-race-card" -->
 
-Choisis une seule bonne action que tu reportes depuis un certain temps : une aumône, un lien de parenté à renouer, le repentir d'un péché précis, ou une quête de science. Écris sur une carte : **l'action, la raison qui t'en détourne habituellement, une échéance ne dépassant pas quarante-huit heures, et la première étape concrète à accomplir.** Réalise l'action à l'échéance fixée, puis écris une seule phrase décrivant ce que tu as ressenti en cessant de la remettre à plus tard, ainsi qu'une comparaison avec ce que tu aurais perdu si tu avais attendu.
+Choisissez une seule bonne action que vous reportez depuis un certain temps : une aumône, un lien de parenté à renouer, le repentir d'un péché précis, ou une quête de science. Écrivez sur une carte : **l'action, la raison qui vous en détourne habituellement, une échéance ne dépassant pas quarante-huit heures, et la première étape concrète à accomplir.** Réalisez l'action à l'échéance fixée, puis écrivez une seule phrase décrivant ce que vous avez ressenti en cessant de la remettre à plus tard, ainsi qu'une comparaison avec ce que vous auriez perdu si vous aviez attendu.
 
 <!-- activity:end -->
 
@@ -203,6 +203,8 @@ Dessine avec ton enfant une ligne représentant un chemin, allant d'une image de
 >
 > Ô Allah, aide-moi à T'évoquer, à Te remercier et à T'adorer de la meilleure façon.[^5]
 
+Le Prophète ﷺ nous a appris à dire cette invocation après chaque prière, et nous pouvons aussi la dire ce soir avant de dormir.
+
 <!-- bedtime-dua:end -->
 
 <!-- unit:end -->
@@ -229,7 +231,7 @@ Dessine avec ton enfant une ligne représentant un chemin, allant d'une image de
 
 Le jour de la bataille de Badr, le Prophète ﷺ dit à ses Compagnons, pour les encourager à tenir bon : « Levez-vous vers un Paradis dont la largeur est celle des cieux et de la terre. » Le Compagnon 'Umayr ibn al-Humâm al-Ansârî lui demanda, étonné : « Ô Messager d'Allah, un Paradis dont la largeur est celle des cieux et de la terre ?! » Le Prophète ﷺ lui répondit : « Oui. » 'Umayr s'exclama : « Bakh, bakh ! » (une expression que l'on emploie pour marquer l'admiration devant une chose immense). Le Prophète ﷺ lui demanda pourquoi il avait dit cela, et 'Umayr jura qu'il ne l'avait dit que dans l'espoir de faire partie des habitants de ce Paradis. Le Prophète ﷺ lui annonça alors : « Tu en fais assurément partie. »
 
-'Umayr portait quelques dattes qu'il était en train de manger. En entendant cette bonne nouvelle, il s'arrêta et réfléchit : s'il restait en vie le temps de finir ces quelques dattes, ce serait une bien longue vie comparée à la récompense qui l'attendait ! Il jeta donc les dattes qu'il tenait, s'élança au combat pour défendre les musulmans, et tomba en martyr, qu'Allah l'agrée.[^4]
+'Umayr portait quelques dattes qu'il était en train de manger. En entendant cette bonne nouvelle, il dit : « Si je vis jusqu'à finir de manger ces dattes, ce sera là une bien longue vie ! » Il voyait que rester en vie le temps de finir ces quelques dattes était une longue vie, comparé à la récompense qui l'attendait. Il jeta donc les dattes qu'il tenait, s'élança au combat pour défendre les musulmans, et tomba en martyr, qu'Allah l'agrée.[^4]
 
 <!-- retelling:end -->
 
@@ -281,6 +283,8 @@ Le jour de la bataille de Badr, le Prophète ﷺ dit à ses Compagnons, pour les
 >
 > Ô Allah, aide-moi à T'évoquer, à Te remercier et à T'adorer de la meilleure façon.[^5]
 
+Le Prophète ﷺ a recommandé à Mu'âdh, qu'Allah l'agrée, de ne jamais délaisser cette invocation à la fin de chaque prière, et il n'y a aucun mal à la dire aussi avant de dormir.
+
 Réfléchis avant de dormir : quelle bonne action vas-tu accomplir demain sans la reporter ?
 
 <!-- bedtime-dua:end -->
@@ -309,7 +313,7 @@ Beaucoup d'entre nous vivent avec un présupposé implicite : les bonnes occasio
 
 <!-- retelling:start source_id="muslim-1901" audience="13+" -->
 
-Au matin de la bataille de Badr, le Prophète ﷺ se tenait debout pour encourager ses Compagnons, peu nombreux, face à un ennemi supérieur en nombre et en équipement, et il dit : « Levez-vous vers un Paradis dont la largeur est celle des cieux et de la terre. » Ce n'était pas un discours général et abstrait ; c'était une promesse précise pour quiconque tiendrait bon dans cette situation même. 'Umayr ibn al-Humâm al-Ansârî, qu'Allah l'agrée, posa la question de celui qui veut s'en assurer, non de celui qui doute : « Un Paradis dont la largeur est celle des cieux et de la terre ? » Lorsque le Prophète ﷺ le lui confirma, il dit : « Bakh, bakh ! » Le Prophète ﷺ lui demanda alors ce qui l'avait poussé à le dire, et il jura que son seul motif était l'espoir d'en faire partie. La réponse lui vint alors, plus explicite encore : « Tu en fais assurément partie. »
+Le jour de Badr, lorsque les associateurs s'approchèrent, le Prophète ﷺ encouragea ses Compagnons, peu nombreux, face à un ennemi supérieur en nombre et en équipement, et il dit : « Levez-vous vers un Paradis dont la largeur est celle des cieux et de la terre. » Ce n'était pas un discours général et abstrait ; c'était une promesse précise pour quiconque tiendrait bon dans cette situation même. 'Umayr ibn al-Humâm al-Ansârî, qu'Allah l'agrée, posa la question de celui qui veut s'en assurer, non de celui qui doute : « Un Paradis dont la largeur est celle des cieux et de la terre ? » Lorsque le Prophète ﷺ le lui confirma, il dit : « Bakh, bakh ! » Le Prophète ﷺ lui demanda alors ce qui l'avait poussé à le dire, et il jura que son seul motif était l'espoir d'en faire partie. La réponse lui vint alors, plus explicite encore : « Tu en fais assurément partie. »
 
 'Umayr fit alors face à un choix qui, en apparence, semblait minime : il portait des dattes, et il comprit que les manger toutes prendrait du temps. Mais il posa la question autrement : quelle valeur a une vie que je devrais attendre, alors que je tiens entre mes mains une promesse sans fin ? Il jeta donc les dattes et combattit jusqu'à obtenir le martyre.[^4]
 
@@ -350,7 +354,7 @@ Cette attitude n'est pas rapportée pour faire croire que l'impulsivité serait 
 
 <!-- activity:start audience="13+" concept_id="lesson.012.activity.sabaq-race-card" -->
 
-Identifie une bonne action que tu as reportée par gêne, par peur, ou en attendant « le bon moment » : des excuses, une aumône discrète, l'abandon d'une habitude, ou la prière en groupe. Écris trois lignes : **la promesse qui mérite qu'on s'y hâte ; le prétexte que j'utilise habituellement (mes dattes) ; l'échéance à laquelle je passerai à l'acte, entre 24 et 72 heures.** Ajoute un repère précis qui te permettra de vérifier que tu as réellement agi, et non simplement eu l'intention. Après l'exécution, écris une ligne décrivant la différence entre ce que tu ressentais avant de reporter et après t'être hâté. Tu n'es pas obligé de partager tes détails personnels avec qui que ce soit.
+Identifie une bonne action que tu as reportée par gêne, par peur, ou en attendant « le bon moment » : des excuses, une aumône discrète, l'abandon d'une habitude, ou la prière en groupe. Écris trois lignes : **la promesse qui mérite qu'on s'y hâte ; le prétexte que j'utilise habituellement (mes dattes) ; l'échéance à laquelle je passerai à l'acte, entre 24 et 72 heures.** Ajoute un repère précis qui te permettra de vérifier que tu as réellement agi, et non simplement eu l'intention. Après l'exécution, écris une ligne décrivant la différence entre ce que tu ressentais tant que tu la reportais et ce que tu as ressenti après t'être hâté. Tu n'es pas obligé de partager tes détails personnels avec qui que ce soit.
 
 <!-- activity:end -->
 
@@ -358,7 +362,7 @@ Identifie une bonne action que tu as reportée par gêne, par peur, ou en attend
 
 <!-- unit:start id="13+.bedtime-dua" kind="bedtime_dua" -->
 
-### Une invocation prophétique complète avant de dormir
+### Une invocation prophétique concise et riche de sens avant de dormir
 
 <!-- bedtime-dua:start audience="13+" id="lesson.012.dua.aid-in-worship" provenance="sunnah" source_id="abudawud-1522" attribution="prophetic" -->
 
@@ -402,7 +406,7 @@ Avant de dormir, nomme pour toi-même l'action à laquelle tu t'es engagé dans 
 **Activité — 15 minutes :** les apprenants réalisent individuellement la carte « course au bien », puis, en binôme, chacun relit la carte de l'autre pour vérifier la présence d'une échéance précise et d'une première étape concrète, sans obliger quiconque à révéler des détails personnels sensibles.
 
 <!-- lesson-plan:assessment -->
-**Évaluation et clôture — 10 minutes :** billet de sortie : « Indique en trois lignes la différence entre la hâte louable et la témérité, puis indique ton échéance pour accomplir ton action reportée. » L'enseignant conclut par la lecture du verset d'Al-Hadîd.
+**Évaluation et clôture — 10 minutes :** billet de sortie : « Indiquez en trois lignes la différence entre la hâte louable et la témérité, puis indiquez votre échéance pour accomplir votre action reportée. » L'enseignant conclut par la lecture du verset d'Al-Hadîd.
 
 <!-- lesson-plan:differentiation -->
 **Différenciation :** on propose au débutant une liste d'actions prêtes à choisir, tandis que l'apprenant avancé est chargé de comparer le sens de « sâbiqû » (rivalisez) dans Al-Hadîd 21 avec celui de « sâri'û » (hâtez-vous) dans Âl 'Imrân 133.
@@ -423,7 +427,7 @@ Avant de dormir, nomme pour toi-même l'action à laquelle tu t'es engagé dans 
 **Matériel :** une feuille avec un chemin dessiné allant d'une maison à un jardin ; des autocollants en forme d'étoiles ; des crayons de couleur sans danger.
 
 <!-- lesson-plan:preparation -->
-**Préparation :** l'enseignant prépare à l'avance le dessin du chemin, s'entraîne à raconter l'histoire simplement sans détailler le combat ou la mort de façon effrayante, et choisit une formule douce comme « Allah lui a accordé un immense honneur » plutôt que de décrire la scène du martyre.
+**Préparation :** l'enseignant prépare à l'avance le dessin du chemin, s'entraîne à raconter l'histoire simplement sans détailler le combat ou la mort de façon effrayante, et choisit une formule douce comme « Allah l'a honoré d'une immense récompense » plutôt que de décrire la scène du martyre.
 
 <!-- lesson-plan:opening -->
 **Ouverture — 4 minutes :** l'enseignant demande : « Aimes-tu faire le bien vite, ou préfères-tu le remettre à plus tard ? » Il écoute les réponses des enfants avec entrain.
@@ -525,9 +529,9 @@ Avant de dormir, nomme pour toi-même l'action à laquelle tu t'es engagé dans 
 ## Références
 
 [^1]: Le Noble Coran, sourate Al-Hadîd, verset 21 : [texte coranique](https://quran.com/57/21). Traduction française du sens : rendu propre au projet, non attribué à une édition publiée.
-[^2]: Interprétation du verset d'après at-Tafsîr al-Muyassar et des ouvrages de tafsir reconnus similaires, sourate Al-Hadîd, verset 21 : [tafsirs du Coran](https://quran.com/57/21/tafsirs/ar-tafsir-al-muyassar).
+[^2]: Interprétation du verset d'après at-Tafsîr al-Muyassar et le Tafsîr d'as-Sa'dî (Taysîr al-Karîm ar-Rahmân), sourate Al-Hadîd, verset 21 : [at-Tafsîr al-Muyassar](https://quran.com/57/21/tafsirs/ar-tafsir-al-muyassar) ; [Tafsîr d'as-Sa'dî](https://quran.com/57/21/tafsirs/ar-tafseer-al-saddi).
 [^3]: Sahih Muslim, Livre de la foi, hadith 118, rapporté par Abû Hurayra, qu'Allah l'agrée : [Sunnah.com, hadith 118](https://sunnah.com/muslim:118).
-[^4]: Sahih Muslim, Livre du commandement (al-Imâra), hadith 1901, rapporté par Anas ibn Mâlik, qu'Allah l'agrée, au sujet de 'Umayr ibn al-Humâm al-Ansârî le jour de Badr : [Sunnah.com, hadith 1901a](https://sunnah.com/muslim:1901a).
+[^4]: Sahih Muslim, Livre du commandement (al-Imâra), hadith 1901, rapporté par Anas ibn Mâlik, qu'Allah l'agrée, au sujet de 'Umayr ibn al-Humâm al-Ansârî le jour de Badr : [Sunnah.com, hadith 1901](https://sunnah.com/muslim:1901).
 [^5]: Sunan Abî Dâwûd, Livre de la prière, hadith 1522, rapporté par Mu'âdh ibn Jabal, qu'Allah l'agrée ; hadith authentique (sahih) : [Sunnah.com, hadith 1522](https://sunnah.com/abudawud:1522).
 
 <!-- references:end -->

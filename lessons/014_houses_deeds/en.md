@@ -62,11 +62,11 @@ The `Rawatib` are the sunnah prayers attached to the obligatory prayers, prayed 
 
 #### Scholarly Tafsir
 
-Allah described the reward of the righteous as `built chambers` — that is, lofty, well-constructed dwellings — and tied this building to righteousness, not to mere wishful thinking. The ayah then reminds the reader that this is a promise from Allah, and Allah never breaks His promise.[^2]
+Allah described the reward of the righteous as `built chambers` — that is, lofty, well-constructed dwellings, the towering palaces of Paradise. The ayah then reminds the reader that this is a promise from Allah, and Allah never breaks His promise.[^2]
 
 #### Lesson Explanation
 
-The ayah establishes the foundational principle: building in Paradise is a reward tied to the deed of righteousness. The hadith that follows spells out this principle in a specific act of worship within every Muslim's reach: the daily sunnah prayers.
+The ayah establishes the foundational principle: building in Paradise is a reward tied to the deed of righteousness, not to mere hope without action. The hadith that follows spells out this principle in a specific act of worship within every Muslim's reach: the daily sunnah prayers.
 
 <!-- evidence:end -->
 
@@ -106,7 +106,7 @@ This narration details the twelve rak'ahs mentioned in the previous report: four
 
 #### Lesson Explanation
 
-This detail makes the worship practical and spread across the whole day, so that a Muslim does not experience it as one heavy burden at a single time, but as a habit spread through the day, accompanying every obligatory prayer.
+This detail makes the worship practical and spread across the whole day, so that a Muslim does not experience it as one heavy burden at a single time, but as a habit spread through the day, accompanying most of the obligatory prayers.
 
 <!-- evidence:end -->
 
@@ -143,7 +143,7 @@ Draw the plan of a house made of five bricks, and write on each brick its time a
 
 ## For Children Ages 4 to 7
 
-We pray the five prayers, and there are extra little prayers we pray alongside them, called the **Rawatib**. Allah has promised to build **a house in Paradise** for whoever prays these little prayers every day. The little house we pray in today becomes the reason for a beautiful house in Paradise!
+We pray the five prayers, and there are extra little prayers we pray alongside them, called the **Rawatib**. Allah has promised to build **a house in Paradise** for whoever prays these little prayers every day. Our little prayers in our home today become the reason for a beautiful house in Paradise!
 
 <!-- unit:end -->
 
@@ -328,7 +328,7 @@ Make a chart with five rows, one for each sunnah prayer time (before the noon pr
 
 ## For Teens, Ages 13+
 
-Many teens focus only on getting the five obligatory prayers done and assume that anything beyond them is secondary and not worth attention in a schedule crowded with school and activities. The hadith of Umm Habibah, may Allah be pleased with her, corrects this assumption: twelve voluntary rak'ahs, spread across the whole day, take very little time, and Allah's promise for them is an entire house in Paradise. The earlier ayah ties this building to righteousness in general, making the hadith of the sunnah prayers a simple, practical application of that principle.
+Many teens focus only on getting the five obligatory prayers done and assume that anything beyond them is secondary and not worth attention in a schedule crowded with school and activities. The hadith of Umm Habibah, may Allah be pleased with her, corrects this assumption: twelve voluntary rak'ahs, spread across the whole day, take very little time, and Allah's promise for them is an entire house in Paradise. The ayah of Az-Zumar (39:20) ties this building to righteousness in general[^1], making the hadith of the sunnah prayers a simple, practical application of that principle.
 
 <!-- unit:end -->
 
@@ -360,7 +360,7 @@ In the first week she struggled, and forgot her sunnah prayers for an entire day
 
 Umm Habibah bint Abi Sufyan, may Allah be pleased with her, wife of the Prophet, peace and blessings be upon him, reported that she heard him say: "Whoever prays twelve rak'ahs in a day and a night, a house will be built for him in Paradise on account of them." She added that she had never given up these rak'ahs since she heard this promise, and some of those who narrated it from her mentioned that they, too, had never given them up since they heard it.[^3]
 
-In a narration recorded by At-Tirmidhi, these rak'ahs are listed in detail: four before the noon prayer, two after it, two after the sunset prayer, two after the night prayer, and two before the dawn prayer.[^4] So this worship is spread across five daily occasions; it does not require setting aside a long stretch of time at once, but rather steady commitment to a few minutes alongside each prayer.
+In a narration recorded by At-Tirmidhi, these rak'ahs are listed in detail: four before the noon prayer, two after it, two after the sunset prayer, two after the night prayer, and two before the dawn prayer.[^4] So this worship is spread across five daily occasions; it does not require setting aside a long stretch of time at once, but rather steady commitment to a few minutes alongside most of the prayers.
 
 <!-- retelling:end -->
 

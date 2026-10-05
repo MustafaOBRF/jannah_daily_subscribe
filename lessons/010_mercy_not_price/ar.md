@@ -10,7 +10,7 @@ story_policy: "rotating_primary_with_authenticated_account_v2"
 primary_story_type: "creative"
 primary_story_source_id: "lesson-authored:lesson.010.primary"
 primary_story_authenticated: "false"
-authenticated_account_id: "muslim-2816c"
+authenticated_account_id: "muslim-2816g"
 activity_concept_id: "lesson.010.activity.claim-classify-repair"
 bedtime_dua_id: "lesson.010.dua.mercy-deeds-jannah"
 ---
@@ -22,7 +22,7 @@ bedtime_dua_id: "lesson.010.dua.mercy-deeds-jannah"
 بعد هذا الدرس، يكون المتعلم قادرًا على:
 
 - التمييز بين العمل بوصفه سببًا مأمورًا به وبين تصوّره ثمنًا يساوي الجنة أو حقًّا يُلزم به العبدُ ربَّه.
-- الجمع بين آيتي `فَضْلًا مِنْ رَبِّكَ` (الدخان) و`بِمَا كُنْتُمْ تَعْمَلُونَ` (الأعراف) دون تعارض، ببيان أن الباء في كل منهما باء سببية لا معاوضة.
+- الجمع بين آيتي `فَضْلًا مِنْ رَبِّكَ` (الدخان) و`بِمَا كُنْتُمْ تَعْمَلُونَ` (الأعراف) دون تعارض، ببيان أن الباء في `بِمَا كُنْتُمْ تَعْمَلُونَ` باء سببية، وأن الباء المنفية في الحديث `بِعَمَلِهِ` باء معاوضة، وأن الفوز كله فضل من الله.
 - سرد حديث «قَارِبُوا وَسَدِّدُوا» وشرح دلالته على أن أحدًا لا ينجو بعمله وحده، حتى النبي صلى الله عليه وسلم، إلا برحمة الله وفضله.
 - التعرّف على القلوب الثلاثة التي يقي منها هذا الفهم: العُجب، والتواكل، واليأس، وتمييز كل واحد منها في عبارة أو موقف معروض.
 - تصنيف عبارة متعلقة بالعمل والجنة إلى صحيحة أو ناقصة أو خاطئة، وإصلاح الناقصة أو الخاطئة بربطها بدليل من النصوص الثلاثة.
@@ -81,7 +81,7 @@ bedtime_dua_id: "lesson.010.dua.mercy-deeds-jannah"
 
 <!-- evidence:end -->
 
-<!-- evidence:start id="muslim-2816c" kind="hadith" mode="canonical" -->
+<!-- evidence:start id="muslim-2816g" kind="hadith" mode="canonical" -->
 
 ### التسديد مع الافتقار إلى الرحمة
 
@@ -130,7 +130,7 @@ bedtime_dua_id: "lesson.010.dua.mercy-deeds-jannah"
 
 ## للأطفال من ٤ إلى ٧ سنوات
 
-نصلي، ونصدق، ونرحم الناس لأن الله يحب الأعمال الطيبة. لكن أعمالنا لا تشتري الجنة مثلما نشتري لعبة. الجنة أعظم من كل ما نستطيع فعله، والله يدخل عباده الجنة برحمته وفضله. لذلك نقول: **أعمل الخير، وأطلب رحمة الله، ولا أفتخر بنفسي.**
+نصلي، وَنَصْدُقُ، ونرحم الناس لأن الله يحب الأعمال الطيبة. لكن أعمالنا لا تشتري الجنة مثلما نشتري لعبة. الجنة أعظم من كل ما نستطيع فعله، والله يدخل عباده الجنة برحمته وفضله. لذلك نقول: **أعمل الخير، وأطلب رحمة الله، ولا أفتخر بنفسي.**
 
 <!-- unit:end -->
 
@@ -156,9 +156,9 @@ bedtime_dua_id: "lesson.010.dua.mercy-deeds-jannah"
 
 ### قصة صحيحة: حتى رسول الله يرجو رحمة الله
 
-<!-- story:start audience="4-7" role="authenticated" type="hadith" source_id="muslim-2816c" authenticated="true" -->
+<!-- story:start audience="4-7" role="authenticated" type="hadith" source_id="muslim-2816g" authenticated="true" -->
 
-<!-- retelling:start source_id="muslim-2816c" audience="4-7" -->
+<!-- retelling:start source_id="muslim-2816g" audience="4-7" -->
 
 قال النبي صلى الله عليه وسلم لأصحابه: حاولوا أن تفعلوا الصواب، واقتربوا منه. ثم علّمهم أن العمل وحده لا يُنجي الإنسان من غير رحمة الله. فسألوه: «ولا أنت يا رسول الله؟» فقال إنه هو أيضًا لا ينجو إلا أن يشمله الله برحمته وفضله.[^5]
 
@@ -242,9 +242,9 @@ bedtime_dua_id: "lesson.010.dua.mercy-deeds-jannah"
 
 ### قصة الحديث: سؤال صريح وجواب يعلّم التواضع
 
-<!-- story:start audience="8-12" role="authenticated" type="hadith" source_id="muslim-2816c" authenticated="true" -->
+<!-- story:start audience="8-12" role="authenticated" type="hadith" source_id="muslim-2816g" authenticated="true" -->
 
-<!-- retelling:start source_id="muslim-2816c" audience="8-12" -->
+<!-- retelling:start source_id="muslim-2816g" audience="8-12" -->
 
 وجّه النبي صلى الله عليه وسلم أصحابه إلى أمرين: أن يقصدوا الصواب، وأن يبذلوا وسعهم في الاقتراب منه. ثم أخبرهم أن أحدًا لا ينجو بعمله وحده. كان السؤال التالي مهمًّا: «ولا أنت يا رسول الله؟» فأجاب بأنه لا ينجو إلا أن يتغمده الله برحمة منه وفضل.[^5]
 
@@ -258,7 +258,7 @@ bedtime_dua_id: "lesson.010.dua.mercy-deeds-jannah"
 
 <!-- unit:start id="8-12.terms" kind="terms" -->
 
-<!-- terminology:start source_id="muslim-2816c" -->
+<!-- terminology:start source_id="muslim-2816g" -->
 
 - **`سَدِّدُوا`** — اقصدوا الصواب والاستقامة في العمل.
 - **`قَارِبُوا`** — إذا لم تبلغوا الكمال فاقتربوا منه بصدق ولا تستسلموا.
@@ -341,9 +341,9 @@ bedtime_dua_id: "lesson.010.dua.mercy-deeds-jannah"
 
 ### موقف نبوي يهدم وهم الاستحقاق
 
-<!-- story:start audience="13+" role="authenticated" type="hadith" source_id="muslim-2816c" authenticated="true" -->
+<!-- story:start audience="13+" role="authenticated" type="hadith" source_id="muslim-2816g" authenticated="true" -->
 
-<!-- retelling:start source_id="muslim-2816c" audience="13+" -->
+<!-- retelling:start source_id="muslim-2816g" audience="13+" -->
 
 في حديث أبي هريرة رضي الله عنه لم يقدّم النبي صلى الله عليه وسلم معادلة مريحة لأحد الطرفين. قال: `قَارِبُوا وَسَدِّدُوا`، فأثبت التكليف والمحاولة. ثم قال إن أحدًا لن ينجو بعمله، فانتقل الصحابة مباشرة إلى أقوى حالة يمكن تصورها: رسول الله نفسه. سألوا: «ولا أنت؟» فجاء الجواب واضحًا: «ولا أنا، إلا أن يتغمدني الله برحمة منه وفضل».[^5]
 
@@ -357,7 +357,7 @@ bedtime_dua_id: "lesson.010.dua.mercy-deeds-jannah"
 
 <!-- unit:start id="13+.terms" kind="terms" -->
 
-<!-- terminology:start source_id="muslim-2816c" -->
+<!-- terminology:start source_id="muslim-2816g" -->
 
 - **باء السببية** — تفيد أن العمل طريق وسبب رتّب الله عليه الجزاء.
 - **باء المعاوضة** — تفيد مقابلة شيء بشيء كثمن المبيع؛ وهذا هو المعنى المنفي عن العمل والجنة.
@@ -560,7 +560,7 @@ bedtime_dua_id: "lesson.010.dua.mercy-deeds-jannah"
 [^1]: القرآن الكريم، سورة الدخان، الآيات ٥١-٥٧: [النص القرآني](https://quran.com/44/51-57).
 [^2]: عبد الرحمن بن ناصر السعدي، *تيسير الكريم الرحمن*، تفسير سورة الدخان، الآية ٥٧، في بيان أن النجاة والنعيم فضل وإحسان من الله: [المصحف الإلكتروني بجامعة الملك سعود](https://quran.ksu.edu.sa/tafseer/saadi/sura44-aya57.html).
 [^3]: القرآن الكريم، سورة الأعراف، الآية ٤٣: [النص القرآني](https://quran.com/7/43).
-[^4]: ابن قيم الجوزية، *حادي الأرواح إلى بلاد الأفراح*، الباب التاسع عشر، فصل الجمع بين دخول الجنة بالعمل ودخولها برحمة الله، وفيه التفريق بين باء المعاوضة وباء السببية: [المكتبة الشاملة](https://shamela.ws/book/13652/229).
+[^4]: ابن قيم الجوزية، *حادي الأرواح إلى بلاد الأفراح*، الباب التاسع عشر (في عرض الرب تعالى سلعته الجنة على عباده وثمنها...)، في الفصل الذي يجمع فيه بين دخول الجنة بالعمل ودخولها برحمة الله، وفيه التفريق بين باء المعاوضة المنفية وباء السببية المثبتة، ط عطاءات العلم ١/١٧٦-١٧٧: [المكتبة الشاملة](https://shamela.ws/book/13652/230).
 [^5]: صحيح مسلم، كتاب صفة القيامة والجنة والنار، حديث ٢٨١٦، من رواية أبي هريرة رضي الله عنه، وهو حديث صحيح: [Sunnah.com، الرواية 2816g](https://sunnah.com/muslim:2816g).
 
 <!-- references:end -->

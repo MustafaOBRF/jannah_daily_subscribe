@@ -47,7 +47,7 @@ This understanding corrects two misconceptions: picturing Jannah as a mere symbo
 
 <!-- evidence:start id="quran-3-133" kind="quran" mode="canonical" -->
 
-#### "A Garden as Wide as the Heavens and Earth, Prepared for the Righteous"
+### "A Garden as Wide as the Heavens and Earth, Prepared for the Righteous"
 
 > **وَسَارِعُوا إِلَىٰ مَغْفِرَةٍ مِنْ رَبِّكُمْ وَجَنَّةٍ عَرْضُهَا السَّمَاوَاتُ وَالْأَرْضُ أُعِدَّتْ لِلْمُتَّقِينَ.** [آل عمران: ١٣٣][^1]
 
@@ -67,7 +67,7 @@ The word `u'iddat` alone corrects a common misconception: that Jannah is a defer
 
 <!-- evidence:start id="bukhari-3244" kind="hadith" mode="canonical" -->
 
-#### "I Have Prepared for My Righteous Servants What No Eye Has Seen"
+### "I Have Prepared for My Righteous Servants What No Eye Has Seen"
 
 > عَنْ أَبِي هُرَيْرَةَ رضي الله عنه، عَنِ النَّبِيِّ صلى الله عليه وسلم، قَالَ: **«قَالَ اللَّهُ: أَعْدَدْتُ لِعِبَادِيَ الصَّالِحِينَ مَا لَا عَيْنٌ رَأَتْ، وَلَا أُذُنٌ سَمِعَتْ، وَلَا خَطَرَ عَلَى قَلْبِ بَشَرٍ، فَاقْرَءُوا إِنْ شِئْتُمْ:»** `فَلَا تَعْلَمُ نَفْسٌ مَا أُخْفِيَ لَهُمْ مِنْ قُرَّةِ أَعْيُنٍ جَزَاءً بِمَا كَانُوا يَعْمَلُونَ.` [السجدة: ١٧][^3][^4]
 
@@ -77,7 +77,7 @@ The word `u'iddat` alone corrects a common misconception: that Jannah is a defer
 
 #### Scholarly Explanation
 
-Here Allah speaks of Himself using `a'dadtu` ("I have prepared"), the same past-tense verb as in Aal 'Imran — confirming that the preparation is an accomplished fact, not merely a future promise. The Prophet, peace and blessings be upon him, cited the ayah of as-Sajdah to show that some details of what has been prepared remain hidden from every soul, even though its existence is established.
+Here Allah speaks of Himself using `a'dadtu` ("I have prepared"), the same past-tense verb as in Aal 'Imran — confirming that the preparation is an accomplished fact, not merely a future promise. The narration then points to the ayah of as-Sajdah to show that some details of what has been prepared remain hidden from every soul, even though its existence is established.
 
 #### Lesson Explanation
 
@@ -87,15 +87,15 @@ This hadith brings together the fact of the preparation and the admission that i
 
 <!-- evidence:start id="bukhari-1052" kind="hadith" mode="canonical" -->
 
-#### "I Saw Jannah, and I Reached Out for a Cluster of Its Fruit"
+### "I Saw Jannah, and I Reached Out for a Cluster of Its Fruit"
 
 When the sun was eclipsed in the time of the Prophet, peace and blessings be upon him, he led the people in an unusually long prayer. During it, the Companions, may Allah be pleased with them, saw him stretch out his hand as if reaching for something, then draw back as if avoiding something. When he finished the prayer, they asked him about what they had seen him do, and he answered them in these authentically reported words:
 
-> عَنِ ابْنِ عَبَّاسٍ رضي الله عنهما، فِي قِصَّةِ صَلَاةِ الْكُسُوفِ، أَنَّ أَصْحَابَ رَسُولِ اللَّهِ صلى الله عليه وسلم قَالُوا لَهُ: يَا رَسُولَ اللَّهِ، رَأَيْنَاكَ تَنَاوَلْتَ شَيْئًا فِي مَقَامِكَ، ثُمَّ رَأَيْنَاكَ كَعْكَعْتَ؟ **فَقَالَ: «إِنِّي رَأَيْتُ الْجَنَّةَ، فَتَنَاوَلْتُ عُنْقُودًا، وَلَوْ أَصَبْتُهُ لَأَكَلْتُمْ مِنْهُ مَا بَقِيَتِ الدُّنْيَا، وَرَأَيْتُ النَّارَ، فَلَمْ أَرَ مَنْظَرًا كَالْيَوْمِ قَطُّ أَفْظَعَ، وَرَأَيْتُ أَكْثَرَ أَهْلِهَا النِّسَاءَ».** قَالُوا: بِمَ يَا رَسُولَ اللَّهِ؟ قَالَ: **«بِكُفْرِهِنَّ».** قِيلَ: يَكْفُرْنَ بِاللَّهِ؟ قَالَ: **«يَكْفُرْنَ الْعَشِيرَ، وَيَكْفُرْنَ الْإِحْسَانَ، لَوْ أَحْسَنْتَ إِلَى إِحْدَاهُنَّ الدَّهْرَ كُلَّهُ، ثُمَّ رَأَتْ مِنْكَ شَيْئًا، قَالَتْ: مَا رَأَيْتُ مِنْكَ خَيْرًا قَطُّ».**[^5]
+> عَنِ ابْنِ عَبَّاسٍ رضي الله عنهما، فِي قِصَّةِ صَلَاةِ الْكُسُوفِ، أَنَّ أَصْحَابَ رَسُولِ اللَّهِ صلى الله عليه وسلم قَالُوا لَهُ: يَا رَسُولَ اللَّهِ، رَأَيْنَاكَ تَنَاوَلْتَ شَيْئًا فِي مَقَامِكَ، ثُمَّ رَأَيْنَاكَ كَعْكَعْتَ؟ **فَقَالَ: «إِنِّي رَأَيْتُ الْجَنَّةَ، فَتَنَاوَلْتُ عُنْقُودًا، وَلَوْ أَصَبْتُهُ لَأَكَلْتُمْ مِنْهُ مَا بَقِيَتِ الدُّنْيَا، وَأُرِيتُ النَّارَ، فَلَمْ أَرَ مَنْظَرًا كَالْيَوْمِ قَطُّ أَفْظَعَ، وَرَأَيْتُ أَكْثَرَ أَهْلِهَا النِّسَاءَ».** قَالُوا: بِمَ يَا رَسُولَ اللَّهِ؟ قَالَ: **«بِكُفْرِهِنَّ».** قِيلَ: يَكْفُرْنَ بِاللَّهِ؟ قَالَ: **«يَكْفُرْنَ الْعَشِيرَ، وَيَكْفُرْنَ الْإِحْسَانَ، لَوْ أَحْسَنْتَ إِلَى إِحْدَاهُنَّ الدَّهْرَ كُلَّهُ، ثُمَّ رَأَتْ مِنْكَ شَيْئًا، قَالَتْ: مَا رَأَيْتُ مِنْكَ خَيْرًا قَطُّ».**[^5]
 
 <!-- evidence:translation -->
 
-> On the authority of Ibn 'Abbas, may Allah be pleased with both of them, regarding the account of the solar-eclipse prayer: the Companions of the Messenger of Allah, peace and blessings be upon him, said to him, "O Messenger of Allah, we saw you reach for something where you stood, then we saw you draw back?" **He said: "I saw Jannah, and I reached out for a cluster of its fruit; had I taken it, you would have eaten from it as long as this world lasted. And I saw the Fire, and I have never seen a sight more dreadful than today's, and I saw that most of its people were women."** They asked, "Why, O Messenger of Allah?" He said: **"Because of their kufr [ingratitude]."** It was asked, "Do they disbelieve in Allah?" He said: **"They are ungrateful to their companions and deny their good treatment. Even if you were good to one of them her whole life, then she saw one thing from you [she disliked], she would say: I have never seen any good from you at all."**[^5]
+> On the authority of Ibn 'Abbas, may Allah be pleased with both of them, regarding the account of the solar-eclipse prayer: the Companions of the Messenger of Allah, peace and blessings be upon him, said to him, "O Messenger of Allah, we saw you reach for something where you stood, then we saw you draw back?" **He said: "I saw Jannah, and I reached out for a cluster of its fruit; had I taken it, you would have eaten from it as long as this world lasted. And I was shown the Fire, and I have never seen a sight more dreadful than today's, and I saw that most of its people were women."** They asked, "Why, O Messenger of Allah?" He said: **"Because of their kufr [ingratitude]."** It was asked, "Do they disbelieve in Allah?" He said: **"They are ungrateful to their companions [their husbands] and deny their good treatment. Even if you were good to one of them her whole life, then she saw one thing from you [she disliked], she would say: I have never seen any good from you at all."**[^5]
 
 #### Scholarly Explanation
 
@@ -153,7 +153,7 @@ Jannah exists right now! Allah created it and prepared it for the righteous serv
 
 <!-- retelling:start source_id="bukhari-1052" audience="4-7" -->
 
-One day, something amazing happened: the sunlight disappeared in the middle of the day! The Prophet, peace and blessings be upon him, stood up and prayed a very long prayer. While he was praying, the Companions saw his hand reach out as if to take something, then pull back suddenly. After the prayer, they asked him, "What did you see, O Messenger of Allah?" He said, **"I saw Jannah, and I reached out my hand to take a cluster of its grapes; had I taken it, everyone would have eaten from it until this world ends."** Then he said, **"And I saw the Fire too, so I drew back from it."**[^5]
+One day, something amazing happened: the sunlight disappeared in the middle of the day! The Prophet, peace and blessings be upon him, stood up and prayed a very long prayer. While he was praying, the Companions saw his hand reach out as if to take something, then pull back suddenly. After the prayer, they asked him, "What did you see, O Messenger of Allah?" He said, "I saw Jannah, and I reached out my hand to take a cluster of its fruit; had I taken it, everyone would have eaten from it until this world ends." He also told them that he had seen the Fire, and so he drew back from it.[^5]
 
 This teaches us that Jannah truly exists now: the Prophet, peace and blessings be upon him, saw it with his own eyes, and its fruit was so close he almost took it with his hand!
 
@@ -221,7 +221,7 @@ Some of us might think Jannah is just an idea that will come true only on the Da
 
 <!-- retelling:start source_id="bukhari-1052" audience="8-12" -->
 
-When the sun was eclipsed in the time of the Prophet, peace and blessings be upon him, he led the people in an unusually long prayer. The Companions, may Allah be pleased with them, noticed that during the prayer he stretched his hand forward as if to take something, then suddenly drew back as if avoiding something else. After the prayer they asked him what they had seen, and he told them: **"I saw Jannah, and I reached out for a cluster of its fruit; had I taken it, you would have eaten from it as long as this world lasted. And I saw the Fire, and I have never seen a sight more dreadful than today's."**[^5] He then told them he saw in the Fire many people who had denied the kindness of those who were good to them, never giving thanks for the good done for them, no matter how long it went on.
+When the sun was eclipsed in the time of the Prophet, peace and blessings be upon him, he led the people in an unusually long prayer. The Companions, may Allah be pleased with them, noticed that during the prayer he stretched his hand forward as if to take something, then suddenly drew back as if avoiding something else. After the prayer they asked him what they had seen, and he told them: "I saw Jannah, and I reached out for a cluster of its fruit; had I taken it, you would have eaten from it as long as this world lasted. And I was shown the Fire, and I have never seen a sight more dreadful than today's."[^5] He then told them he saw in the Fire many people who had denied the kindness of those who were good to them, never giving thanks for the good done for them, no matter how long it went on.
 
 This event really happened: the Prophet, peace and blessings be upon him, did not report about Jannah and the Fire from a distance — he saw them with his own eyes while standing in prayer, so close that the fruit of Jannah nearly touched his hand. Jannah, then, is a reality that exists now, not merely a report or a wish.
 
@@ -304,9 +304,9 @@ This does not mean we grasp every detail of Jannah or delve into fine questions 
 
 <!-- retelling:start source_id="bukhari-1052" audience="13+" -->
 
-Ibn 'Abbas, may Allah be pleased with both of them, reported that when the sun was eclipsed in the time of the Prophet, peace and blessings be upon him, he led the people in an unusually long prayer, and the Companions saw his hand reach out, then suddenly draw back. After the prayer they asked him, and he answered: **"I saw Jannah, and I reached out for a cluster of its fruit; had I taken it, you would have eaten from it as long as this world lasted. And I saw the Fire, and I have never seen a sight more dreadful than today's, and I saw that most of its people were women."** They asked, "Why, O Messenger of Allah?" He said, **"Because of their kufr [ingratitude]."** It was asked, "Do they disbelieve in Allah?" He said, **"They are ungrateful to their companions and deny their good treatment. Even if you were good to one of them her whole life, then she saw one thing from you [she disliked], she would say: I have never seen any good from you at all."**[^5]
+Ibn 'Abbas, may Allah be pleased with both of them, reported that when the sun was eclipsed in the time of the Prophet, peace and blessings be upon him, he led the people in an unusually long prayer, and the Companions saw his hand reach out, then suddenly draw back. After the prayer they asked him, and he answered: "I saw Jannah, and I reached out for a cluster of its fruit; had I taken it, you would have eaten from it as long as this world lasted. And I was shown the Fire, and I have never seen a sight more dreadful than today's, and I saw that most of its people were women." They asked, "Why, O Messenger of Allah?" He said, "Because of their kufr [ingratitude]." It was asked, "Do they disbelieve in Allah?" He said, "They are ungrateful to their companions [their husbands] and deny their good treatment. Even if you were good to one of them her whole life, then she saw one thing from you [she disliked], she would say: I have never seen any good from you at all."[^5]
 
-Notice the precision of the detail: the Prophet, peace and blessings be upon him, did not say, "Jannah will contain fruit," but said, **"I reached out for a cluster,"** using the past tense for something that had actually happened. That is the essential difference between speaking of a hoped-for future and reporting a present that has been witnessed. As for the reference to some women's ingratitude toward their husbands' kindness, it is not a general judgment on all women, but a warning against the trait of ingratitude wherever it is found in any person, male or female; women are singled out here because the Prophet, peace and blessings be upon him, was reporting a reality he had seen, not because ingratitude belongs to one sex alone.
+Notice the precision of the detail: the Prophet, peace and blessings be upon him, did not say, "Jannah will contain fruit," but said, "I reached out for a cluster," using the past tense for something that had actually happened. That is the essential difference between speaking of a hoped-for future and reporting a present that has been witnessed. As for the reference to some women's ingratitude toward their husbands' kindness, it is not a general judgment on all women, but a warning against the trait of ingratitude wherever it is found in any person, male or female; women are singled out here because the Prophet, peace and blessings be upon him, was reporting a reality he had seen, not because ingratitude belongs to one sex alone.
 
 <!-- retelling:end -->
 
@@ -488,7 +488,7 @@ For two weeks, choose someone who needs quiet support (a friend, sibling, or cla
 **Materials:** A handout with the three pieces of evidence; term cards; a model two-week private log; exit slips.
 
 <!-- lesson-plan:preparation -->
-**Preparation:** The teacher reviews the grading of the three hadiths, and prepares a neutral example of the tendency to treat what isn't immediately visible as unreal, without referring to any specific student.
+**Preparation:** The teacher reviews the grading of both hadiths, and prepares a neutral example of the tendency to treat what isn't immediately visible as unreal, without referring to any specific student.
 
 <!-- lesson-plan:opening -->
 **Opening — 5 minutes:** The teacher poses a question: "Can something be entirely real even though you cannot see or measure it right now?" Open a brief discussion before reading the eclipse-prayer hadith.
@@ -519,9 +519,9 @@ For two weeks, choose someone who needs quiet support (a friend, sibling, or cla
 
 [^1]: The Noble Qur'an, Surah Aal 'Imran, ayah 133: [Qur'anic text](https://quran.com/3/133).
 [^2]: Muhammad ibn Ahmad al-Qurtubi, *al-Jami' li-Ahkam al-Qur'an*, commentary on Surah Aal 'Imran, ayah 133, stating that most scholars hold Jannah to be created and existing because of the words `u'iddat lil-muttaqin` ("prepared for the righteous"), against the Mu'tazila, who said it will be created at the time of recompense: [King Saud University Digital Mushaf](https://quran.ksu.edu.sa/tafseer/qortobi/sura3-aya133.html).
-[^3]: Sahih al-Bukhari, hadith 3244, and Sahih Muslim, hadith 2824a, narrated by Abu Hurayrah, may Allah be pleased with him: [Sunnah.com, hadith 3244](https://sunnah.com/bukhari:3244).
+[^3]: Sahih al-Bukhari, hadith 3244, and Sahih Muslim, hadith 2824a, narrated by Abu Hurayrah, may Allah be pleased with him: [Sunnah.com, hadith 3244](https://sunnah.com/bukhari:3244). The words "So recite, if you wish" come within the Prophet's report in al-Bukhari 3244, while in al-Bukhari 4779 they are given as Abu Hurayrah's own words: "Abu Hurayrah said: Recite, if you wish."
 [^4]: The Noble Qur'an, Surah as-Sajdah, ayah 17: [Qur'anic text](https://quran.com/32/17).
-[^5]: Sahih al-Bukhari, hadith 1052 (also reported as hadith 5197), and Sahih Muslim, hadith 907, narrated by 'Abdullah ibn 'Abbas, may Allah be pleased with both of them, regarding the account of the solar-eclipse prayer: [Sunnah.com, hadith 1052](https://sunnah.com/bukhari:1052).
+[^5]: Sahih al-Bukhari, hadith 1052 (also reported as hadith 5197), and Sahih Muslim, hadith 907, narrated by 'Abdullah ibn 'Abbas, may Allah be pleased with both of them, regarding the account of the solar-eclipse prayer: [Sunnah.com, hadith 1052](https://sunnah.com/bukhari:1052). The wording "and I was shown the Fire" (wa-urītu an-nār) is Abu Dharr's transmission of the text; other transmissions read "and I saw the Fire," as Ibn Hajar notes. That he drew back when he saw the Fire is established in the hadith of 'A'ishah, may Allah be pleased with her: "I saw Hell, parts of it crushing other parts, when you saw me step back" (Sahih al-Bukhari, hadith 1212).
 [^6]: Ahmad ibn 'Ali ibn Hajar al-'Asqalani, *Fath al-Bari bi-Sharh Sahih al-Bukhari*, Book of the Eclipse, chapter on praying the eclipse prayer in congregation, commentary on hadith 1052 (volume 2): [IslamWeb](https://www.islamweb.net/ar/library/content/52/1950/).
 [^7]: Muhammad ibn Abi Bakr Ibn Qayyim al-Jawziyyah, *Hadi al-Arwah ila Bilad al-Afrah*, chapter two on the scholars' disagreement over the garden in which Adam, peace be upon him, was settled: [al-Maktaba ash-Shamila](https://shamela.ws/book/13652/100).
 

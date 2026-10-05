@@ -25,7 +25,7 @@ After this lesson, the learner will be able to:
 - Interpret Allah's words `Indeed, Allah has purchased from the believers their lives and their wealth in exchange for Paradise` (at-Tawbah 111-112), and show that this sale is an honor from Allah, not an exchange between equals.
 - Connect the ayat of as-Saff (10-12) and az-Zukhruf (72) to the meaning that a deed is a real cause of Jannah, not an independent price that would let the servant do without Allah's favor.
 - Narrate the hadith `Never will anyone's deeds admit him to Jannah`, draw out the directive `so aim for what is right and draw near` from it, and apply it to overconfidence in the sheer number of one's deeds.
-- Distinguish between the authentic hadith in Sahih al-Bukhari about the Bedouin's question and well-known sayings with weak chains, such as `The key to Jannah is the testimony that there is no god but Allah` and the report from Wahb ibn Munabbih, without elevating them to the rank of an authentic hadith.
+- Distinguish the authentic hadith in Sahih al-Bukhari about the Bedouin's question from well-known sayings with weak chains, such as `The key to Jannah is the testimony that there is no god but Allah`, without elevating them to the rank of an authentic hadith, and from the report of Wahb ibn Munabbih, which is the saying of a Follower, not a hadith traced back to the Prophet.
 - Narrate a lesson-authored story of a garden keeper who opens his gate out of mercy, not because of a fake key bought in the market, and connect it to the hadith of the woman forgiven for giving water to a thirsty dog in Sahih al-Bukhari, to show that a small, sincere deed is a cause that mercy answers, not a price equal to it.
 - Carry out the "Key of Causes, Not the Price of Entitlement" activity to distinguish a deed as a commanded cause from mistaking it for an independent price equal to Jannah.
 
@@ -145,7 +145,7 @@ Notice that the Prophet, peace and blessings be upon him, did not testify to the
 
 <!-- evidence:end -->
 
-<!-- evidence:start id="muslim-2816c" kind="hadith" mode="canonical" -->
+<!-- evidence:start id="bukhari-5673" kind="hadith" mode="canonical" -->
 
 ### Never Will Anyone's Deeds Admit Him To Jannah
 
@@ -187,9 +187,9 @@ This hadith gives the lesson's central distinction a living shape: a small deed 
 
 ### Scholarly Note: Well-Known Sayings That Are Not Authentic Hadith
 
-The saying `The key to Jannah is the testimony that there is no god but Allah` has become widespread, but its chain of transmission is not free of weakness and disconnection, so it is not attributed to the Prophet, peace and blessings be upon him, as an authentic hadith — even though its general meaning is sound and is supported by the authentic hadiths in this very lesson, so there is no need to rely on a weak wording when sound texts already suffice. Ibn al-Qayyim, may Allah have mercy on him, related from Wahb ibn Munabbih that he was asked: Isn't `There is no god but Allah` the key to Jannah? He said: Yes, but no key is without teeth; if you come with a key that has teeth, it will be opened for you, and otherwise it will not be opened for you. This is a report from a Follower explaining the meaning of the declaration for teaching purposes; it is not a hadith traced back to the Prophet, peace and blessings be upon him.[^7]
+The saying `The key to Jannah is the testimony that there is no god but Allah` has become widespread, but its chain of transmission is not free of weakness and disconnection, so it is not attributed to the Prophet, peace and blessings be upon him, as an authentic hadith — even though its general meaning is sound and is supported by the authentic hadiths in this very lesson, so there is no need to rely on a weak wording when sound texts already suffice. Al-Bukhari, may Allah have mercy on him, mentioned in his Sahih, at the opening of the Book of Funerals and without a chain, that Wahb ibn Munabbih was asked: Isn't `There is no god but Allah` the key to Jannah? He said: Yes, but no key is without teeth; if you come with a key that has teeth, it will be opened for you, and otherwise it will not be opened for you. Al-Bukhari gave it a full chain in his *at-Tarikh*, as Ibn Hajar notes in *Fath al-Bari*, and Ibn al-Qayyim also quoted it in *Hadi al-Arwah*. This is a report from a Follower explaining the meaning of the declaration for teaching purposes; it is not a hadith traced back to the Prophet, peace and blessings be upon him.[^7]
 
-Likewise, the saying `Allah's merchandise is precious, Allah's merchandise is Jannah` has become widespread, and at-Tirmidhi, may Allah have mercy on him, graded it hasan, while some hadith scholars discussed its routes of transmission. It is therefore not made a sole foundation in this lesson, and the decisive trade ayat and the preceding authentic hadiths suffice for us.[^8]
+Likewise, the saying `Allah's merchandise is precious, Allah's merchandise is Jannah` has become widespread, and at-Tirmidhi, may Allah have mercy on him, narrated it (no. 2450) and called it "hasan gharib," while some hadith scholars discussed its routes of transmission, and later scholars have differed in grading it. It is therefore not made a sole foundation in this lesson, and the decisive trade ayat and the preceding authentic hadiths suffice for us.[^8]
 
 ### How Do We Reconcile "Purchase" And "Mercy"?
 
@@ -259,7 +259,7 @@ During those same days, Bilal had been watering a tree by the garden gate, and g
 
 **This is an authentic hadith narrated by Abu Hurayrah, may Allah be pleased with him, from the Prophet, peace and blessings be upon him, and it is not an imagined story.**
 
-The Prophet, peace and blessings be upon him, told us about a woman who saw a dog panting from thirst by a well. Her heart was moved, so she took off her shoe, filled it with water, and gave the dog a drink until it was no longer thirsty. So Allah forgave her because of this small deed.[^9]
+The Prophet, peace and blessings be upon him, told us about a woman who saw a dog panting from thirst by a well. Her heart was moved, so she took off her shoe, filled it with water, and gave the dog a drink. So Allah forgave her because of this small deed.[^9]
 
 <!-- retelling:start source_id="bukhari-3321" audience="4-7" -->
 
@@ -317,7 +317,7 @@ A grown-up prepares a piece of paper cut into the shape of a key with three simp
 
 <!-- unit:start id="8-12.explanation" kind="explanation" -->
 
-Tawhid is the foundation of the path to Jannah; it is the first key. But a real key has teeth: prayer, honesty, and obligations we keep to. The Qur'an sometimes describes our obedience as a "trade" with Allah: we give faith and deeds, and Allah gives us Jannah. But an authentic hadith reminds us of something important: however much we do, Jannah is still a gift of Allah's mercy, not just a matter of adding up our deeds.
+Tawhid is the foundation of the path to Jannah; it is the first key. But a real key has teeth: prayer, honesty, and obligations we keep to. The Qur'an sometimes describes our obedience as a "trade" with Allah: we give faith and deeds, and Allah gives us Jannah. But the Prophet, peace and blessings be upon him, said: "Never will anyone's deeds admit him to Jannah." The Companions asked: "Not even you, O Messenger of Allah?" He said: "No, not even me, unless Allah envelops me in favor and mercy. So aim for what is right, and draw near."[^6]
 
 <!-- unit:end -->
 
@@ -351,7 +351,7 @@ On his way home, Bilal understood something important: his good deeds all that w
 
 **This is an authentic hadith narrated by Abu Hurayrah, may Allah be pleased with him, and it is not an imagined story.**
 
-The Prophet, peace and blessings be upon him, told his Companions about a woman who was known for sin and wrongdoing. She passed by a dog near a well, panting from thirst, nearly dying of it. Her heart was moved by its state, so she took off her shoe, tied it with her headscarf, and lowered it into the water, drawing some up until the dog had drunk its fill.
+The Prophet, peace and blessings be upon him, told his Companions about a woman who was known for sin and wrongdoing. She passed by a dog near a well, panting from thirst, nearly dying of it. Her heart was moved by its state, so she took off her shoe, tied it with her headscarf, and lowered it into the water, drawing some up and giving the dog a drink.
 
 The Prophet, peace and blessings be upon him, said: "So she was forgiven because of that" — meaning Allah forgave her sins because of this one small deed of mercy.[^9]
 
@@ -369,7 +369,7 @@ In other words: one small deed — giving a thirsty dog water — was not by its
 
 <!-- terminology:start source_id="bukhari-3321" -->
 
-- **`Mumisah`** — a woman known for sin and wrongdoing (often translated "promiscuous woman"); even so, Allah's mercy answered her one small deed.
+- **`Mumisah`** — a woman known for sin and wrongdoing; even so, Allah's mercy answered her one small deed.
 - **`Rakiyy`** — a well from which water is drawn.
 - **`So she was forgiven because of that`** — a phrase showing that this small deed was the cause by which her sins were forgiven, not a price equal to them.
 
@@ -424,7 +424,7 @@ Draw a key and label its head `There is no god but Allah`. On the first tooth, w
 
 <!-- unit:start id="13+.explanation" kind="explanation" -->
 
-The phrase "the key to Jannah" is useful, but it needs precision: the real key is tawhid that combines knowledge, conviction, and submission — not mere pronunciation. And the language of "purchase" and "trade" in the Qur'an is real, but it does not make a human being Allah's creditor; Allah is the One who created the servant, his ability, and his deed, and guided him, and accepted from him, and multiplied his reward. An authentic hadith sets the correct frame for all of this: no one enters Jannah by his deeds alone, not even the Prophet himself, peace and blessings be upon him.
+The phrase "the key to Jannah" is useful, but it needs precision: the real key is tawhid that combines knowledge, conviction, and submission — not mere pronunciation. And the language of "purchase" and "trade" in the Qur'an is real, but it does not make a human being Allah's creditor; Allah is the One who created the servant, his ability, and his deed, and guided him, and accepted from him, and multiplied his reward. An authentic hadith sets the correct frame for all of this: no one enters Jannah by his deeds alone, not even the Prophet himself, peace and blessings be upon him. The Follower Wahb ibn Munabbih said: "No key is without teeth."[^7]
 
 <!-- unit:end -->
 
@@ -458,7 +458,7 @@ On his way home, Bilal thought about Tariq's words and the keeper's words togeth
 
 **This is an authentic hadith narrated by Abu Hurayrah, may Allah be pleased with him, and it is not an imagined story.**
 
-The Prophet, peace and blessings be upon him, told his Companions about a promiscuous woman of the Children of Israel — that is, someone known for sin and wrongdoing — who passed by a dog at the edge of a well, panting from thirst until it nearly died. She took off her shoe, tied it with her headscarf, and drew up water with it until the dog had drunk. So Allah forgave her because of that deed.[^9]
+The Prophet, peace and blessings be upon him, told his Companions about a promiscuous woman of the Children of Israel[^10] — that is, someone known for sin and wrongdoing — who passed by a dog at the edge of a well, panting from thirst until it nearly died. She took off her shoe, tied it with her headscarf, and drew up water with it until the dog had drunk. So Allah forgave her because of that deed.[^9]
 
 <!-- retelling:start source_id="bukhari-3321" audience="13+" -->
 
@@ -536,7 +536,7 @@ Write two columns. In the first, `Commanded causes`, list three acts of obedienc
 **Materials:** A complete copy of at-Tawbah 111-112, as-Saff 10-12, and az-Zukhruf 72; the texts of Muslim 26 and al-Bukhari 1397 and al-Bukhari 5673 (also Muslim 2816) and al-Bukhari 3321; a model paper key; paper and pens.
 
 <!-- lesson-plan:preparation -->
-**Preparation:** The teacher reviews Ibn al-Qayyim's discussion in *Hadi al-Arwah* of the report from Wahb ibn Munabbih and the hadith "Allah's merchandise is precious," to be ready to discuss the grading of the weak wordings without attributing them to the Prophet, peace and blessings be upon him.
+**Preparation:** The teacher reviews what Ibn al-Qayyim quotes in *Hadi al-Arwah* of the report from Wahb ibn Munabbih and the hadith "Allah's merchandise is precious" (with at-Tirmidhi's grading of it and the editor's notes on its chains), to be ready to discuss the grading of the weak wordings without attributing them to the Prophet, peace and blessings be upon him.
 
 <!-- lesson-plan:opening -->
 **Opening — 5 minutes:** Ask: "Do you think that the abundance of your deeds guarantees you Jannah as an entitlement?"
@@ -644,7 +644,7 @@ Write two columns. In the first, `Commanded causes`, list three acts of obedienc
 **Materials:** A file of the seven pieces of evidence; term cards; two-column worksheets; exit slips.
 
 <!-- lesson-plan:preparation -->
-**Preparation:** The teacher prepares a concise summary of Ibn al-Qayyim's position on the report from Wahb ibn Munabbih and the hadith "Allah's merchandise is precious," to present accurately without exaggeration or oversimplification.
+**Preparation:** The teacher prepares a concise summary of what Ibn al-Qayyim quotes of the report from Wahb ibn Munabbih and the hadith "Allah's merchandise is precious," and of what has been said about their grading, to present accurately without exaggeration or oversimplification.
 
 <!-- lesson-plan:opening -->
 **Opening — 5 minutes:** Ask: "Have you ever heard a phrase claiming that a single deed guarantees Jannah? What do you think of it now?"
@@ -679,8 +679,9 @@ Write two columns. In the first, `Commanded causes`, list three acts of obedienc
 [^4]: The Noble Qur'an, Surah az-Zukhruf, ayah 72: [Qur'anic text](https://quran.com/43/72).
 [^5]: Sahih al-Bukhari, Book of Zakat, hadith 1397: [Sunnah.com, hadith bukhari:1397](https://sunnah.com/bukhari:1397).
 [^6]: Sahih al-Bukhari, Book of the Sick, hadith 5673, narrated by Abu Hurayrah, may Allah be pleased with him (the wording quoted); also reported with similar wording by Muslim, Book of the Description of the Day of Judgment, Paradise and Hell, hadith 2816: [Sunnah.com, hadith bukhari:5673](https://sunnah.com/bukhari:5673); [Sunnah.com, hadith muslim:2816f](https://sunnah.com/muslim:2816f).
-[^7]: Muhammad ibn Abi Bakr Ibn Qayyim al-Jawziyyah, *Hadi al-Arwah ila Bilad al-Afrah*, chapter fourteen: on the key to Jannah, including the report from Wahb ibn Munabbih on the teeth of the key: [al-Maktaba ash-Shamila](https://shamela.ws/book/13652/189).
-[^8]: Muhammad ibn Abi Bakr Ibn Qayyim al-Jawziyyah, *Hadi al-Arwah ila Bilad al-Afrah*, chapter nineteen: on the Lord's presenting His merchandise, Jannah, including a discussion of the reports' routes of transmission: [al-Maktaba ash-Shamila](https://shamela.ws/book/13652/220).
+[^7]: Sahih al-Bukhari, opening of the Book of Funerals, the report of Wahb ibn Munabbih cited without a chain (mu'allaq); Ibn Hajar, *Fath al-Bari*, commentary on the same passage, noting that al-Bukhari gave it a chain in *at-Tarikh*: [IslamWeb](https://islamweb.net/ar/library/content/52/2282/); Muhammad ibn Abi Bakr Ibn Qayyim al-Jawziyyah, *Hadi al-Arwah ila Bilad al-Afrah*, chapter fourteen: on the key to Jannah, including the report from Wahb ibn Munabbih on the teeth of the key: [al-Maktaba ash-Shamila](https://shamela.ws/book/13652/190).
+[^8]: Jami' at-Tirmidhi, Chapters on the Description of the Day of Judgment, Softening of Hearts and Scrupulousness, hadith 2450, which at-Tirmidhi called hasan gharib: [Sunnah.com, hadith tirmidhi:2450](https://sunnah.com/tirmidhi:2450); quoted by Ibn al-Qayyim in *Hadi al-Arwah ila Bilad al-Afrah*, chapter nineteen: on the Lord's presenting His merchandise, Jannah, with the editor's notes on its chains: [al-Maktaba ash-Shamila](https://shamela.ws/book/13652/224).
 [^9]: Sahih al-Bukhari, Book of the Beginning of Creation, hadith 3321, narrated by Abu Hurayrah, may Allah be pleased with him: [Sunnah.com, hadith bukhari:3321](https://sunnah.com/bukhari:3321).
+[^10]: Sahih al-Bukhari, Book of the Prophets, hadith 3467, narrated by Abu Hurayrah, may Allah be pleased with him, which describes her as "a prostitute from among the prostitutes of the Children of Israel": [Sunnah.com, hadith bukhari:3467](https://sunnah.com/bukhari:3467).
 
 <!-- references:end -->

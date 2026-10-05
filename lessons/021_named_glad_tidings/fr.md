@@ -1,5 +1,5 @@
 ---
-title: "Les seigneurs de la Jannah et ceux à qui elle fut annoncée"
+title: "Les seigneurs des gens de la Jannah et ceux à qui elle fut annoncée"
 lesson_id: "lesson.021"
 topic_id: "jannah.021"
 translation_key: "jannah.named_glad_tidings"
@@ -15,7 +15,7 @@ activity_concept_id: "lesson.021.activity.doorkeeper-glad-tidings-card"
 bedtime_dua_id: "lesson.021.dua.love-and-gather-with-companions"
 ---
 
-# Les seigneurs de la Jannah et ceux à qui elle fut annoncée
+# Les seigneurs des gens de la Jannah et ceux à qui elle fut annoncée
 
 ## Objectifs et résultats de la leçon
 
@@ -116,7 +116,7 @@ Dix noms, et derrière chacun une vie de devancier dans la foi et de don de soi.
 
 #### Interprétation savante
 
-Les savants ont expliqué qu'il s'agit soit de leur primauté sur ceux des gens de la Jannah qui sont morts jeunes, soit de leur prééminence sur les gens de la Jannah, à l'exception des prophètes et des califes bien guidés.
+Les savants ont expliqué qu'il s'agit soit de leur primauté sur ceux des gens de la Jannah qui sont morts jeunes, soit de leur prééminence sur les gens de la Jannah, à l'exception des prophètes et des califes bien guidés.[^10]
 
 #### Explication de la leçon
 
@@ -232,7 +232,7 @@ Une bonne nouvelle, c'est une nouvelle qui rend le cœur tout joyeux. Et la plus
 
 <!-- unit:start id="4-7.primary-story" kind="primary_story" -->
 
-### Un récit authentique : le petit portier près du puits
+### Un récit authentique : le portier fidèle près du puits
 
 <!-- story:start audience="4-7" role="primary" type="prophetic_era" source_id="bukhari-3674" authenticated="true" -->
 
@@ -382,7 +382,7 @@ Cette semaine, deviens le « portier du bien ». Observe un camarade, un frèr
 
 > اللَّهُمَّ ارْزُقْنَا حُبَّ نَبِيِّكَ وَأَصْحَابِهِ وَأَهْلِ بَيْتِهِ، وَاجْمَعْنَا بِهِمْ فِي جَنَّاتِ النَّعِيمِ.
 >
-> *« Ô Allah, accorde-nous l'amour de Ton Prophète, de ses Compagnons et des gens de sa maison, et réunis-nous avec eux dans les Jardins de la Félicité. »*
+> *« Ô Allah, mets dans nos cœurs l'amour de Ton Prophète, de ses Compagnons et des gens de sa maison, et réunis-nous avec eux dans les Jardins de la Félicité. »*
 
 <!-- bedtime-dua:end -->
 
@@ -409,7 +409,7 @@ Et voici ce qui surprend : ceux qui ont reçu cette promesse ne s'en sont pas s
 <!-- terminology:start source_id="bukhari-3674" -->
 
 - **`Les promis à la Jannah (al-mubashsharun bil-jannah)`** — ceux dont le Prophète, paix et bénédictions sur lui, a attesté nommément qu'ils sont parmi les gens de la Jannah ; les plus connus sont les Dix.
-- **`La tazkiyah (at-tazkiyah)`** — le fait d'attester la droiture de quelqu'un ; on ne peut l'affirmer avec certitude sur ce qui relève de l'Invisible sans un texte, et Allah a interdit de se décerner à soi-même des éloges par vanité.
+- **`La tazkiyah (at-tazkiyah)`** — le fait d'attester la droiture de quelqu'un ; on ne peut l'affirmer avec certitude sur ce qui relève de l'Invisible sans un texte, et Allah a interdit de se décerner à soi-même des éloges par vanité.[^11]
 - **`Avec une épreuve qui l'atteindra ('ala balwa tusibuh)`** — c'est-à-dire accompagnée d'une rude épreuve qui viendrait le frapper ; les savants l'ont expliquée par la sédition au cours de laquelle 'Uthman, qu'Allah soit satisfait de lui, fut tué injustement.
 
 <!-- terminology:end -->
@@ -474,7 +474,7 @@ Choisis quelqu'un que l'on félicite rarement : un camarade discret, un petit f
 
 > اللَّهُمَّ ارْزُقْنَا حُبَّ نَبِيِّكَ وَأَصْحَابِهِ وَأَهْلِ بَيْتِهِ، وَاجْمَعْنَا بِهِمْ فِي جَنَّاتِ النَّعِيمِ.
 >
-> *« Ô Allah, accorde-nous l'amour de Ton Prophète, de ses Compagnons et des gens de sa maison, et réunis-nous avec eux dans les Jardins de la Félicité. »*
+> *« Ô Allah, mets dans nos cœurs l'amour de Ton Prophète, de ses Compagnons et des gens de sa maison, et réunis-nous avec eux dans les Jardins de la Félicité. »*
 
 <!-- bedtime-dua:end -->
 
@@ -515,7 +515,7 @@ Choisis quelqu'un que l'on félicite rarement : un camarade discret, un petit f
 **Évaluation et clôture — 10 minutes :** carte de sortie : (1) citez cinq des Dix ; (2) écrivez une phrase qui distingue le témoignage de l'espérance ; (3) quelle leçon tirer de la bonne nouvelle de 'Uthman ? Conclure par la question : « Comment serai-je, cette semaine, de ceux qui les ont suivis dans l'excellence ? »
 
 <!-- lesson-plan:differentiation -->
-**Différenciation :** pour les débutants, se limiter au hadith du puits d'Aris, au hadith des Dix et au verset d'at-Tawbah. Demander aux apprenants avancés de comparer la version d'al-Bukhari 3674 avec celle d'Abu 'Uthman an-Nahdi d'après Abu Musa, dans le même chapitre, et de préparer une notice sur l'un des Dix à partir des ouvrages de *sirah*.
+**Différenciation :** pour les débutants, se limiter au hadith du puits d'Aris, au hadith des Dix et au verset d'at-Tawbah. Demander aux apprenants avancés de comparer la version d'al-Bukhari 3674 avec celle d'Abu 'Uthman an-Nahdi d'après Abu Musa, dans le même livre, et de préparer une notice sur l'un des Dix à partir des ouvrages de *sirah*.
 
 <!-- lesson-plan:safeguards -->
 **Précautions pédagogiques :** veiller à ce que la leçon ne tourne pas à une hiérarchisation polémique entre les Compagnons et la famille du Prophète, ni à l'injure ou au dénigrement ; la démarche retenue est de les aimer tous et de n'en parler qu'en bien. Ne permettre à personne d'affirmer la Jannah ou le Feu pour des personnes précises, contemporaines ou décédées. Avoir égard aux sentiments de ceux qui ont perdu un proche : espérer pour lui est légitime et recommandé, et cette leçon n'en retire rien.
@@ -645,5 +645,7 @@ Choisis quelqu'un que l'on félicite rarement : un camarade discret, un petit f
 [^7]: Abu Ja'far at-Tahawi, *al-'Aqidah at-Tahawiyyah*, au sujet du témoignage rendu aux dix que le Messager d'Allah, paix et bénédictions sur lui, a nommés et à qui il a annoncé la Jannah, et du fait de s'abstenir d'assigner à quiconque, parmi les gens de la qiblah, nommément la Jannah ou le Feu ; voir aussi le commentaire d'Ibn Abi al-'Izz al-Hanafi.
 [^8]: Ibn Hajar al-'Asqalani, *Fath al-Bari Sharh Sahih al-Bukhari*, Livre des mérites des Compagnons du Prophète, paix et bénédictions sur lui, commentaire du hadith 3674 (sens d'*al-quff*, interprétation de Sa'id ibn al-Musayyab, et explication de « l'épreuve » par ce qui atteignit 'Uthman, qu'Allah soit satisfait de lui).
 [^9]: Tafsir Ibn Kathir, sourate at-Tawbah, verset 100 : [quran.ksu.edu.sa/tafseer/katheer/sura9-aya100.html](https://quran.ksu.edu.sa/tafseer/katheer/sura9-aya100.html).
+[^10]: Muhammad 'Abd ar-Rahman al-Mubarakfuri, *Tuhfat al-Ahwadhi bi-Sharh Jami' at-Tirmidhi*, Chapitres des mérites (*Abwab al-Manaqib*), commentaire du hadith d'Abu Sa'id al-Khudri, qu'Allah soit satisfait de lui, *Al-Hasan et al-Husayn sont les deux seigneurs de la jeunesse des gens de la Jannah* (at-Tirmidhi 3768). Il explique que cela signifie qu'ils sont les meilleurs de ceux, parmi les gens de la Jannah, qui sont morts jeunes dans le sentier d'Allah, sans viser l'âge qu'ils ont eux-mêmes atteint, ou bien qu'ils sont les seigneurs des gens de la Jannah, à l'exception des prophètes et des califes bien guidés.
+[^11]: Le Noble Coran, sourate an-Najm, verset 32 (*Ne vantez pas votre propre pureté, c'est Lui qui connaît le mieux celui qui Le craint*), voir [quran.com/53/32](https://quran.com/53/32). La traduction française proposée dans cette leçon est une traduction du sens propre au projet.
 
 <!-- references:end -->

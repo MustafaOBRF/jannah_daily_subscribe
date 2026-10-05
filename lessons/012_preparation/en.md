@@ -33,7 +33,7 @@ After this lesson, the learner will be able to:
 
 <!-- unit:start id="adults.explanation" kind="explanation" -->
 
-**Tashmīr** means raising one's resolve and exerting real effort — like someone who lifts the hem of his garment so he can walk faster. The early Muslims used this word for one particular stance: the believer treats an opportunity for good as a fleeting moment that will not wait for hesitation. Jannah is as wide as the heavens and the earth, and life is an opportunity to seize, not a guarantee.
+**Tashmīr** means raising one's resolve and exerting real effort — like someone who lifts the hem of his garment so he can walk faster. The word refers to one particular stance of faith: the believer treats an opportunity for good as a fleeting moment that will not wait for hesitation. Jannah is as wide as the heavens and the earth, and life is an opportunity to seize, not a guarantee.
 
 This stance is the fruit of certainty, not emotional impulse. The texts reveal three dimensions of it:
 
@@ -63,7 +63,7 @@ This stance is the fruit of certainty, not emotional impulse. The texts reveal t
 
 #### Scholarly interpretation
 
-The command to "race" indicates exerting utmost effort, not merely keeping pace. Allah paired forgiveness with Jannah because entry into it requires purification from sins, and He mentioned its vastness to show that no multitude of racers could ever crowd it. He closed the ayah by stating that Jannah is a bounty Allah gives to whomever He wills, not a bargain that places the Lord, glorified is He, under obligation.[^2]
+The command to "race" indicates exerting utmost effort, not merely keeping pace, and this racing is done by striving toward the means of forgiveness: sincere repentance and keeping away from sins. Allah paired forgiveness with Jannah because entry into it requires purification from sins, and He closed the ayah by stating that Jannah is a bounty He gives to whomever He wills; Jannah is attained only through Allah's mercy and favor together with righteous deeds, not through a bargain that places the Lord, glorified is He, under obligation.[^2]
 
 #### Lesson explanation
 
@@ -209,6 +209,8 @@ Draw a line with your child representing a road from a picture of your house to 
 >
 > **O Allah, help me to remember You, to thank You, and to worship You in the best way.**[^5]
 
+The Prophet ﷺ taught us to say this du'a after every prayer, and we can say it tonight before sleep too.
+
 <!-- bedtime-dua:end -->
 
 <!-- unit:end -->
@@ -235,7 +237,7 @@ Draw a line with your child representing a road from a picture of your house to 
 
 On the day of the Battle of Badr, the Prophet ﷺ said to his Companions, urging them to stand firm: "Rise up to a Garden whose width is the heavens and the earth." The Companion 'Umayr ibn al-Ḥumām al-Anṣārī asked him in astonishment, "O Messenger of Allah, a Garden whose width is the heavens and the earth?!" The Prophet ﷺ answered him, "Yes." 'Umayr said, "Bakh, bakh!" — words people said when amazed at something truly great. The Prophet ﷺ asked him why he had said that, and 'Umayr swore that he had said it only in the hope of being among the people of that Garden. The Prophet ﷺ then gave him the glad tidings: "Then you are indeed among its people."
 
-'Umayr was carrying a few dates that he was eating. When he heard this glad news, he stopped and thought: if he stayed alive until he finished eating these few dates, that would be a long life compared with the reward awaiting him! So he threw the dates from his hand and hurried to fight in defense of the Muslims, until he was martyred, may Allah be pleased with him.[^4]
+'Umayr was carrying a few dates that he was eating. When he heard this glad news, he said, "If I should live until I finish eating these dates of mine, that would be a long life indeed!" He saw that staying alive long enough to finish these few dates was a long life compared with the reward awaiting him. So he threw the dates from his hand and hurried to fight in defense of the Muslims, until he was martyred, may Allah be pleased with him.[^4]
 
 <!-- retelling:end -->
 
@@ -287,6 +289,8 @@ Write on a card one righteous deed you have postponed more than once: for exampl
 >
 > **O Allah, help me to remember You, to thank You, and to worship You in the best way.**[^5]
 
+The Prophet ﷺ advised Mu'adh, may Allah be pleased with him, never to leave off this du'a at the end of every prayer, and there is no harm in saying it before sleep as well.
+
 Think before you sleep: what good deed will you hasten to do tomorrow without delay?
 
 <!-- bedtime-dua:end -->
@@ -315,7 +319,7 @@ Many of us live by an unspoken assumption: that good opportunities will remain a
 
 <!-- retelling:start source_id="muslim-1901" audience="13+" -->
 
-On the morning of the Battle of Badr, the Prophet ﷺ stood urging his small band of Companions on against a larger and better-equipped enemy, and said, "Rise up to a Garden whose width is the heavens and the earth." This was not a vague, general speech; it was a specific promise for whoever stood firm in that very moment. 'Umayr ibn al-Ḥumām al-Anṣārī, may Allah be pleased with him, asked the question of someone seeking confirmation, not the question of a doubter: "A Garden whose width is the heavens and the earth?" When the Prophet ﷺ confirmed it to him, he said, "Bakh, bakh!" The Prophet ﷺ then asked him what had made him say it, and he swore that his motive was the hope of being among its people. The clearest possible answer came back: "Then you are indeed among its people."
+On the Day of Badr, as the idolaters drew near, the Prophet ﷺ urged his small band of Companions on against a larger and better-equipped enemy, and said, "Rise up to a Garden whose width is the heavens and the earth." This was not a vague, general speech; it was a specific promise for whoever stood firm in that very moment. 'Umayr ibn al-Ḥumām al-Anṣārī, may Allah be pleased with him, asked the question of someone seeking confirmation, not the question of a doubter: "A Garden whose width is the heavens and the earth?" When the Prophet ﷺ confirmed it to him, he said, "Bakh, bakh!" The Prophet ﷺ then asked him what had made him say it, and he swore that his motive was the hope of being among its people. The clearest possible answer came back: "Then you are indeed among its people."
 
 At that, 'Umayr faced a choice that seemed small on the surface: he was carrying some dates, and he realized that finishing them would take some time. But he reframed the question: what kind of lifetime is worth waiting for when an endless promise lies right before me? So he threw down the dates and fought until he attained martyrdom.[^4]
 
@@ -356,7 +360,7 @@ This moment is not invoked to suggest that recklessness is called for in every s
 
 <!-- activity:start audience="13+" concept_id="lesson.012.activity.sabaq-race-card" -->
 
-Identify a righteous deed you have delayed out of shyness, fear, or waiting for "the right time": an apology, secret charity, breaking a bad habit, or praying in congregation. Write three lines: **the promise worth racing toward; the excuse I usually use (my "dates"); the deadline by which I will act, within 24 to 72 hours**. Add one checkable marker so you know you actually did it, not merely intended to. After carrying it out, write one line describing the difference between how you felt before the delay and after hastening. You do not need to share your personal details with anyone.
+Identify a righteous deed you have delayed out of shyness, fear, or waiting for "the right time": an apology, secret charity, breaking a bad habit, or praying in congregation. Write three lines: **the promise worth racing toward; the excuse I usually use (my "dates"); the deadline by which I will act, within 24 to 72 hours**. Add one checkable marker so you know you actually did it, not merely intended to. After carrying it out, write one line describing the difference between how you felt while putting it off and how you felt after hastening. You do not need to share your personal details with anyone.
 
 <!-- activity:end -->
 
@@ -414,7 +418,7 @@ Before you sleep, name for yourself the deed you committed to carry out in today
 **Differentiation:** a beginner is given a ready-made list of deeds to choose from, while an advanced learner is tasked with comparing the meaning of "race" (sābiqū) in Al-Ḥadīd 21 with "hasten" (sāri'ū) in Āl 'Imrān 133.
 
 <!-- lesson-plan:safeguards -->
-**Teaching cautions:** 'Umayr's stance is never invoked to justify any impulsiveness unrestrained by Sharia boundaries or by a guardian's permission where needed, and no one is encouraged to endanger himself or others under the pretext of "hastening." Make clear that the racing called for today concerns deeds such as charity, maintaining family ties, and repentance — not physical danger.
+**Teaching cautions:** 'Umayr's stance is never invoked to justify any impulsiveness unrestrained by Sharia boundaries or by the permission of the legitimate authority (walī al-amr) where needed, and no one is encouraged to endanger himself or others under the pretext of "hastening." Make clear that the racing called for today concerns deeds such as charity, maintaining family ties, and repentance — not physical danger.
 
 <!-- lesson-plan:end -->
 
@@ -531,9 +535,9 @@ Before you sleep, name for yourself the deed you committed to carry out in today
 ## References
 
 [^1]: Qur'an, Surah Al-Ḥadīd, ayah 21: [Qur'anic text](https://quran.com/57/21). The English rendering here is a meaning-based project translation.
-[^2]: Interpretation of the ayah drawn from recognized tafsir works such as al-Tafsīr al-Muyassar, Surah Al-Ḥadīd, ayah 21: [Qur'an tafsirs](https://quran.com/57/21/tafsirs/ar-tafsir-al-muyassar).
+[^2]: Interpretation of the ayah drawn from al-Tafsīr al-Muyassar and Tafsīr al-Sa'dī (Taysīr al-Karīm al-Raḥmān), Surah Al-Ḥadīd, ayah 21: [al-Tafsīr al-Muyassar](https://quran.com/57/21/tafsirs/ar-tafsir-al-muyassar); [Tafsīr al-Sa'dī](https://quran.com/57/21/tafsirs/ar-tafseer-al-saddi).
 [^3]: Sahih Muslim, Book of Faith, hadith 118, narrated by Abu Hurairah, may Allah be pleased with him: [Sunnah.com, narration 118](https://sunnah.com/muslim:118).
-[^4]: Sahih Muslim, Book of Leadership, hadith 1901, narrated by Anas ibn Malik, may Allah be pleased with him, in the account of 'Umayr ibn al-Ḥumām al-Anṣārī on the Day of Badr: [Sunnah.com, narration 1901a](https://sunnah.com/muslim:1901a).
+[^4]: Sahih Muslim, Book of Leadership, hadith 1901, narrated by Anas ibn Malik, may Allah be pleased with him, in the account of 'Umayr ibn al-Ḥumām al-Anṣārī on the Day of Badr: [Sunnah.com, narration 1901](https://sunnah.com/muslim:1901).
 [^5]: Sunan Abi Dawud, Book of Prayer, hadith 1522, narrated by Mu'adh ibn Jabal, may Allah be pleased with him; graded sahih: [Sunnah.com, narration 1522](https://sunnah.com/abudawud:1522).
 
 <!-- references:end -->

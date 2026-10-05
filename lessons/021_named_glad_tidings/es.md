@@ -1,5 +1,5 @@
 ---
-title: "Los señores del Paraíso y quienes recibieron su buena nueva"
+title: "Los señores de la gente del Paraíso y quienes recibieron su buena nueva"
 lesson_id: "lesson.021"
 topic_id: "jannah.021"
 translation_key: "jannah.named_glad_tidings"
@@ -15,7 +15,7 @@ activity_concept_id: "lesson.021.activity.doorkeeper-glad-tidings-card"
 bedtime_dua_id: "lesson.021.dua.love-and-gather-with-companions"
 ---
 
-# Los señores del Paraíso y quienes recibieron su buena nueva
+# Los señores de la gente del Paraíso y quienes recibieron su buena nueva
 
 ## Objetivos y resultados de la lección
 
@@ -116,7 +116,7 @@ Diez nombres, y detrás de cada uno, una vida de primacía en el islam y de entr
 
 #### Interpretación académica
 
-Los sabios explicaron que se trata de su señorío sobre quienes, de entre la gente del Paraíso, murieron jóvenes; o bien de su preeminencia sobre la gente del Paraíso, exceptuando a los profetas y a los califas bien guiados.
+Los sabios explicaron que se trata de su señorío sobre quienes, de entre la gente del Paraíso, murieron jóvenes; o bien de su preeminencia sobre la gente del Paraíso, exceptuando a los profetas y a los califas bien guiados.[^10]
 
 #### Explicación de la lección
 
@@ -232,7 +232,7 @@ Una buena nueva es una noticia bonita que alegra el corazón. Y la noticia más 
 
 <!-- unit:start id="4-7.primary-story" kind="primary_story" -->
 
-### Una historia verdadera: el pequeño portero junto al pozo
+### Una historia verdadera: el portero fiel junto al pozo
 
 <!-- story:start audience="4-7" role="primary" type="prophetic_era" source_id="bukhari-3674" authenticated="true" -->
 
@@ -382,7 +382,7 @@ Esta semana, sé el "portero del bien". Fíjate en un compañero, en tu hermano 
 
 > اللَّهُمَّ ارْزُقْنَا حُبَّ نَبِيِّكَ وَأَصْحَابِهِ وَأَهْلِ بَيْتِهِ، وَاجْمَعْنَا بِهِمْ فِي جَنَّاتِ النَّعِيمِ.
 >
-> *"Oh Allah, concédenos el amor de Tu Profeta, de sus Compañeros y de la gente de su casa, y reúnenos con ellos en los Jardines de las Delicias."*
+> *"Oh Allah, llena nuestro corazón de amor por Tu Profeta, por sus Compañeros y por la gente de su casa, y reúnenos con ellos en los Jardines de las Delicias."*
 
 <!-- bedtime-dua:end -->
 
@@ -409,7 +409,7 @@ Lo sorprendente es que quienes recibieron la buena nueva no la trataron como un 
 <!-- terminology:start source_id="bukhari-3674" -->
 
 - **`Los que recibieron la buena nueva del Paraíso (al-mubashsharun bil-yanna)`** — aquellos de quienes el Profeta, la paz y las bendiciones de Allah sean con él, dio testimonio, mencionándolos por su nombre, de que serían de la gente del Paraíso; los más conocidos son los diez.
-- **`El aval de rectitud (at-tazkiya)`** — dar testimonio de que una persona es recta; sobre lo oculto no puede afirmarse con certeza sin un texto, y Allah prohibió enaltecerse a uno mismo por vanagloria.
+- **`El aval de rectitud (at-tazkiya)`** — dar testimonio de que una persona es recta; sobre lo oculto no puede afirmarse con certeza sin un texto, y Allah prohibió enaltecerse a uno mismo por vanagloria.[^11]
 - **`Junto con una prueba que le sobrevendrá ('ala balwa tusibuh)`** — es decir, acompañada de una dura prueba que lo alcanzaría; los sabios la explicaron como la sedición en la que Uzmán, que Allah esté complacido con él, fue asesinado injustamente.
 
 <!-- terminology:end -->
@@ -474,7 +474,7 @@ Elige a alguien a quien rara vez se elogia: un compañero callado, un hermano me
 
 > اللَّهُمَّ ارْزُقْنَا حُبَّ نَبِيِّكَ وَأَصْحَابِهِ وَأَهْلِ بَيْتِهِ، وَاجْمَعْنَا بِهِمْ فِي جَنَّاتِ النَّعِيمِ.
 >
-> *"Oh Allah, concédenos el amor de Tu Profeta, de sus Compañeros y de la gente de su casa, y reúnenos con ellos en los Jardines de las Delicias."*
+> *"Oh Allah, llena nuestro corazón de amor por Tu Profeta, por sus Compañeros y por la gente de su casa, y reúnenos con ellos en los Jardines de las Delicias."*
 
 <!-- bedtime-dua:end -->
 
@@ -515,7 +515,7 @@ Elige a alguien a quien rara vez se elogia: un compañero callado, un hermano me
 **Evaluación y cierre — 10 minutos:** tarjeta de salida: (1) nombra a cinco de los diez; (2) escribe una frase que distinga entre el testimonio y la esperanza; (3) ¿qué enseñanza deja la buena nueva de Uzmán? Se cierra con la pregunta: «¿Cómo puedo ser esta semana de quienes los siguieron en el bien?».
 
 <!-- lesson-plan:differentiation -->
-**Diferenciación:** para los principiantes basta con el hadiz del pozo de Aris, el hadiz de los diez y la aleya de At-Tawba. A los más avanzados se les pide comparar la versión de al-Bujari 3674 con la que transmite Abu Uzmán an-Nahdi de Abu Musa en el mismo capítulo, y preparar una semblanza de uno de los diez a partir de los libros de biografía.
+**Diferenciación:** para los principiantes basta con el hadiz del pozo de Aris, el hadiz de los diez y la aleya de At-Tawba. A los más avanzados se les pide comparar la versión de al-Bujari 3674 con la que transmite Abu Uzmán an-Nahdi de Abu Musa en el mismo libro, y preparar una semblanza de uno de los diez a partir de los libros de biografía.
 
 <!-- lesson-plan:safeguards -->
 **Advertencias pedagógicas:** hay que evitar que la lección se convierta en una comparación polémica entre los Compañeros y la familia del Profeta, o en insultos o descalificaciones; el criterio adoptado es amarlos a todos y hablar bien de todos ellos. No se permite afirmar con certeza el Paraíso o el Fuego de personas concretas, contemporáneas o ya fallecidas. Y se tienen en cuenta los sentimientos de quien ha perdido a un ser querido: esperar el Paraíso para él es legítimo y deseable, y esta lección no le resta nada.
@@ -645,5 +645,7 @@ Elige a alguien a quien rara vez se elogia: un compañero callado, un hermano me
 [^7]: Abu Ya'far at-Tahawi, *Al-'Aqida at-Tahawiyya*, sobre el testimonio a favor de los diez a quienes el Mensajero de Allah, la paz y las bendiciones de Allah sean con él, nombró y anunció el Paraíso, y sobre la abstención de declarar a ninguna persona concreta de la gente de la qibla destinada al Paraíso o al Fuego; véase también el comentario de Ibn Abi al-'Izz al-Hanafi.
 [^8]: Ibn Hayar al-Asqalani, *Fath al-Bari sharh Sahih al-Bujari*, Libro de los méritos de los Compañeros del Profeta, la paz y las bendiciones de Allah sean con él, comentario del hadiz 3674 (el sentido de "al-quff", la interpretación de Sa'id ibn al-Musayyab y la explicación de "la prueba" como lo que le sobrevino a Uzmán, que Allah esté complacido con él).
 [^9]: Tafsir de Ibn Kazir, sura At-Tawba, aleya 100: [quran.ksu.edu.sa/tafseer/katheer/sura9-aya100.html](https://quran.ksu.edu.sa/tafseer/katheer/sura9-aya100.html).
+[^10]: Muhammad Abd ar-Rahman al-Mubarakfuri, *Tuhfat al-Ahwadi bi-sharh Yami' at-Tirmidi*, Capítulos de las virtudes (Abwab al-Manaqib), comentario del hadiz de Abu Sa'id al-Judri, que Allah esté complacido con él, «Al-Hasan y al-Husain son los señores de los jóvenes de la gente del Paraíso» (at-Tirmidi 3768): explica que significa que son los mejores de entre la gente del Paraíso que murieron jóvenes en la senda de Allah, sin referirse a la edad que ellos mismos alcanzaron, o bien que son los señores de la gente del Paraíso, exceptuando a los profetas y a los califas bien guiados.
+[^11]: El Noble Corán, sura An-Naym, aleya 32: «No se atribuyan pureza a ustedes mismos; Él sabe mejor quién es temeroso»: [quran.com/53/32](https://quran.com/53/32). La traducción al español de la aleya es una traducción de sentido elaborada para este proyecto.
 
 <!-- references:end -->

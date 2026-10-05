@@ -25,7 +25,7 @@ Después de esta lección, el estudiante será capaz de:
 - Interpretar la aleya `En verdad, Allah ha comprado a los creyentes sus personas y sus bienes a cambio del Paraíso` (at-Tawbah 9:111-112), y mostrar que esta "venta" es un honor que Allah concede, no un trueque entre iguales.
 - Relacionar las aleyas de as-Saff (10-12) y az-Zukhruf (72) con la idea de que la obra es una causa real para alcanzar el Paraíso, no un precio independiente con el que el siervo pueda prescindir del favor de Allah.
 - Narrar el hadiz `A nadie hará entrar su obra en el Paraíso`, extraer de él la instrucción `sed rectos y acercaos [a la perfección]`, y aplicarla a la confianza excesiva en la cantidad de las propias obras.
-- Distinguir entre el hadiz auténtico de Sahih al-Bujari sobre la pregunta del beduino, y expresiones célebres pero de cadena débil, como `La llave del Paraíso es el testimonio de que no hay más divinidad verdadera que Allah` y el dicho de Wahb ibn Munabbih, sin elevarlas al rango de hadiz auténtico.
+- Distinguir entre el hadiz auténtico de Sahih al-Bujari sobre la pregunta del beduino, y expresiones célebres pero de cadena débil, como `La llave del Paraíso es el testimonio de que no hay más divinidad verdadera que Allah`, sin elevarlas al rango de hadiz auténtico, así como del dicho de Wahb ibn Munabbih, que es palabra de un tabi'i y no un hadiz atribuido al Profeta.
 - Narrar una historia de autoría pedagógica sobre un guardián de un jardín que abre su puerta por misericordia, no por una llave falsa comprada en el mercado, y relacionarla con el hadiz de la mujer perdonada por dar de beber a un perro sediento en Sahih al-Bujari, para mostrar que una obra pequeña y sincera es una causa a la que responde la misericordia, no un precio equivalente a ella.
 - Realizar la actividad "La llave de las causas, no el precio del mérito", para distinguir la obra como causa ordenada de la ilusión de considerarla un precio independiente equivalente al Paraíso.
 
@@ -155,7 +155,7 @@ Observa que el Profeta, la paz y las bendiciones de Allah sean con él, no atest
 
 <!-- evidence:end -->
 
-<!-- evidence:start id="muslim-2816c" kind="hadith" mode="canonical" -->
+<!-- evidence:start id="bukhari-5673" kind="hadith" mode="canonical" -->
 
 ### "A nadie hará entrar su obra en el Paraíso"
 
@@ -201,9 +201,9 @@ Este hadiz da forma viva a la distinción central de la lección: una obra peque
 
 ### Nota académica: expresiones célebres que no son un hadiz auténtico
 
-Se ha hecho muy popular el dicho: `La llave del Paraíso es el testimonio de que no hay más divinidad verdadera que Allah`, pero su cadena no está exenta de debilidad e interrupción, por lo que no se atribuye al Profeta, la paz y las bendiciones de Allah sean con él, como un hadiz auténtico, aunque su significado general sea correcto y esté respaldado por los hadices auténticos de esta misma lección; así que no hay necesidad de apoyarse en una expresión débil cuando contamos con textos que bastan en su lugar. Ibn al-Qayyim, que Allah tenga misericordia de él, menciona sobre Wahb ibn Munabbih que se le preguntó: ¿acaso `no hay más divinidad verdadera que Allah` no es la llave del Paraíso? Y él respondió: ciertamente, pero no hay llave sin dientes; si traes una llave con dientes, se te abrirá, y si no, no se te abrirá. Este es un dicho de un discípulo de los Compañeros (tabi'i) que explica el significado de la palabra con fines educativos, y no un hadiz atribuido al Profeta, la paz y las bendiciones de Allah sean con él.[^7]
+Se ha hecho muy popular el dicho: `La llave del Paraíso es el testimonio de que no hay más divinidad verdadera que Allah`, pero su cadena no está exenta de debilidad e interrupción, por lo que no se atribuye al Profeta, la paz y las bendiciones de Allah sean con él, como un hadiz auténtico, aunque su significado general sea correcto y esté respaldado por los hadices auténticos de esta misma lección; así que no hay necesidad de apoyarse en una expresión débil cuando contamos con textos que bastan en su lugar. Al-Bujari, que Allah tenga misericordia de él, menciona en su Sahih, al comienzo del Libro de los funerales y sin cadena de transmisión, que a Wahb ibn Munabbih se le preguntó: ¿acaso `no hay más divinidad verdadera que Allah` no es la llave del Paraíso? Y él respondió: ciertamente, pero no hay llave sin dientes; si traes una llave con dientes, se te abrirá, y si no, no se te abrirá. Al-Bujari lo transmitió con cadena completa en su *at-Tarij*, como señala Ibn Hayar en *Fath al-Bari*, e Ibn al-Qayyim también lo cita en *Hadi al-Arwah*. Este es un dicho de un discípulo de los Compañeros (tabi'i) que explica el significado de la palabra con fines educativos, y no un hadiz atribuido al Profeta, la paz y las bendiciones de Allah sean con él.[^7]
 
-Asimismo se ha difundido el dicho: `La mercancía de Allah es cara, la mercancía de Allah es el Paraíso`, que at-Tirmidhi, que Allah tenga misericordia de él, calificó como hasan (bueno), mientras que algunos especialistas del hadiz discutieron sus vías de transmisión. Por ello no se toma como el único fundamento de esta lección, y nos bastan las aleyas claras e inequívocas sobre el comercio y los hadices auténticos ya mencionados.[^8]
+Asimismo se ha difundido el dicho: `La mercancía de Allah es cara, la mercancía de Allah es el Paraíso`, que at-Tirmidhi, que Allah tenga misericordia de él, transmitió (n.º 2450) y calificó como «hasan garib», mientras que algunos especialistas del hadiz discutieron sus vías de transmisión, y los sabios posteriores difieren en su calificación. Por ello no se toma como el único fundamento de esta lección, y nos bastan las aleyas claras e inequívocas sobre el comercio y los hadices auténticos ya mencionados.[^8]
 
 ### ¿Cómo conciliamos "la compra" y "la misericordia"?
 
@@ -273,7 +273,7 @@ Durante esos mismos días, Bilal regaba un árbol junto a la puerta del jardín,
 
 **Este es un hadiz auténtico narrado por Abu Huraira, que Allah esté complacido con él, del Profeta, la paz y las bendiciones de Allah sean con él; no es una historia imaginada.**
 
-El Profeta, la paz y las bendiciones de Allah sean con él, nos habló de una mujer que vio a un perro jadeando de sed junto a un pozo. Su corazón se conmovió, así que se quitó el calzado, lo llenó de agua y le dio de beber al perro hasta que ya no tuvo más sed. Allah la perdonó por esta pequeña obra.[^9]
+El Profeta, la paz y las bendiciones de Allah sean con él, nos habló de una mujer que vio a un perro jadeando de sed junto a un pozo. Su corazón se conmovió, así que se quitó el calzado, lo llenó de agua y le dio de beber al perro. Allah la perdonó por esta pequeña obra.[^9]
 
 <!-- retelling:start source_id="bukhari-3321" audience="4-7" -->
 
@@ -331,7 +331,7 @@ Un adulto prepara un trozo de papel recortado en forma de llave con tres dientes
 
 <!-- unit:start id="8-12.explanation" kind="explanation" -->
 
-El tawhid es la raíz del camino hacia el Paraíso, y es la primera llave, pero la llave verdadera tiene dientes: la oración, decir la verdad y las obligaciones que cumplimos. El Corán describe a veces nuestra obediencia como un "comercio" con Allah: entregamos la fe y la obra, y Allah nos da el Paraíso. Pero un hadiz auténtico nos recuerda algo importante: por mucho que obremos, el Paraíso sigue siendo por la misericordia de Allah, no solo por el cálculo de nuestras obras.
+El tawhid es la raíz del camino hacia el Paraíso, y es la primera llave, pero la llave verdadera tiene dientes: la oración, decir la verdad y las obligaciones que cumplimos. El Corán describe a veces nuestra obediencia como un "comercio" con Allah: entregamos la fe y la obra, y Allah nos da el Paraíso. Pero el Profeta, la paz y las bendiciones de Allah sean con él, dijo: «A nadie hará entrar su obra en el Paraíso». Los Compañeros le preguntaron: «¿Ni siquiera a ti, Mensajero de Allah?». Respondió: «No, ni siquiera a mí, a menos que Allah me cubra con Su favor y Su misericordia. Así pues, sed rectos y acercaos».[^6]
 
 <!-- unit:end -->
 
@@ -365,7 +365,7 @@ De camino a casa, Bilal comprendió algo importante: su buena obra durante toda 
 
 **Este es un hadiz auténtico narrado por Abu Huraira, que Allah esté complacido con él; no es una historia imaginada.**
 
-El Profeta, la paz y las bendiciones de Allah sean con él, habló a sus Compañeros de una mujer conocida por el pecado y la desobediencia. Pasó junto a un perro cerca de un pozo; jadeaba de sed y estaba a punto de morir. Su corazón se conmovió por su estado, así que se quitó el calzado, lo ató con su pañuelo de cabeza, y lo bajó al agua, sacando un poco hasta que el perro bebió lo suficiente.
+El Profeta, la paz y las bendiciones de Allah sean con él, habló a sus Compañeros de una mujer conocida por el pecado y la desobediencia. Pasó junto a un perro cerca de un pozo; jadeaba de sed y estaba a punto de morir. Su corazón se conmovió por su estado, así que se quitó el calzado, lo ató con su pañuelo de cabeza, y lo bajó al agua, sacando un poco para darle de beber al perro.
 
 El Profeta, la paz y las bendiciones de Allah sean con él, dijo: "Y fue perdonada por ello"; es decir, Allah le perdonó sus pecados por esta pequeña obra de misericordia.[^9]
 
@@ -438,7 +438,7 @@ Dibuja una llave y escribe en su cabeza `No hay más divinidad verdadera que All
 
 <!-- unit:start id="13+.explanation" kind="explanation" -->
 
-La expresión "la llave del Paraíso" es útil, pero necesita precisión: la llave verdadera es un tawhid que reúne conocimiento, convicción y sumisión, no una simple pronunciación con la lengua. Y el lenguaje de "la compra" y "el comercio" en el Corán es real, pero no convierte al ser humano en acreedor de Allah; pues es Allah quien creó al siervo, su capacidad y su obra, lo guio, aceptó de él y le multiplicó la recompensa. Un hadiz auténtico establece el marco correcto para todo esto: nadie entra en el Paraíso solo por su obra, ni siquiera el Profeta mismo, la paz y las bendiciones de Allah sean con él.
+La expresión "la llave del Paraíso" es útil, pero necesita precisión: la llave verdadera es un tawhid que reúne conocimiento, convicción y sumisión, no una simple pronunciación con la lengua. Y el lenguaje de "la compra" y "el comercio" en el Corán es real, pero no convierte al ser humano en acreedor de Allah; pues es Allah quien creó al siervo, su capacidad y su obra, lo guio, aceptó de él y le multiplicó la recompensa. Un hadiz auténtico establece el marco correcto para todo esto: nadie entra en el Paraíso solo por su obra, ni siquiera el Profeta mismo, la paz y las bendiciones de Allah sean con él. El tabi'i Wahb ibn Munabbih decía: «no hay llave sin dientes».[^7]
 
 <!-- unit:end -->
 
@@ -472,7 +472,7 @@ De camino a casa, Bilal pensó en las palabras de Tariq y en las palabras del gu
 
 **Este es un hadiz auténtico narrado por Abu Huraira, que Allah esté complacido con él; no es una historia imaginada.**
 
-El Profeta, la paz y las bendiciones de Allah sean con él, habló a sus Compañeros de una mujer de mala reputación de los Hijos de Israel —es decir, alguien conocida por el pecado y la desobediencia— que pasó junto a un perro al borde de un pozo, jadeando de sed hasta casi morir. Se quitó el calzado, lo ató con su pañuelo de cabeza, y sacó agua con él hasta que le dio de beber al perro. Y Allah la perdonó por esa obra.[^9]
+El Profeta, la paz y las bendiciones de Allah sean con él, habló a sus Compañeros de una mujer de mala reputación de los Hijos de Israel[^10] —es decir, alguien conocida por el pecado y la desobediencia— que pasó junto a un perro al borde de un pozo, jadeando de sed hasta casi morir. Se quitó el calzado, lo ató con su pañuelo de cabeza, y sacó agua con él hasta que le dio de beber al perro. Y Allah la perdonó por esa obra.[^9]
 
 <!-- retelling:start source_id="bukhari-3321" audience="13+" -->
 
@@ -550,7 +550,7 @@ Escribe dos columnas. En la primera, `Causas ordenadas`, menciona tres actos de 
 **Materiales:** una copia completa de las aleyas de at-Tawbah 111-112, as-Saff 10-12 y az-Zukhruf 72; los textos de los hadices de Muslim 26, al-Bujari 1397, al-Bujari 5673 (y Muslim 2816, con palabras parecidas) y al-Bujari 3321; un modelo de la llave de papel; hojas y bolígrafos.
 
 <!-- lesson-plan:preparation -->
-**Preparación:** el docente repasa lo dicho por Ibn al-Qayyim en *Hadi al-Arwah* sobre el dicho de Wahb ibn Munabbih y el hadiz "la mercancía de Allah es cara", para estar preparado para discutir el grado de las expresiones débiles sin atribuirlas al Profeta, la paz y las bendiciones de Allah sean con él.
+**Preparación:** el docente repasa lo que Ibn al-Qayyim cita en *Hadi al-Arwah* del dicho de Wahb ibn Munabbih y del hadiz "la mercancía de Allah es cara" (con la calificación de at-Tirmidhi y las notas del editor sobre sus cadenas), para estar preparado para discutir el grado de las expresiones débiles sin atribuirlas al Profeta, la paz y las bendiciones de Allah sean con él.
 
 <!-- lesson-plan:opening -->
 **Apertura — 5 minutos:** Pregunta: «¿Crees que la cantidad de tus obras te garantiza el Paraíso por mérito propio?»
@@ -571,7 +571,7 @@ Escribe dos columnas. En la primera, `Causas ordenadas`, menciona tres actos de 
 **Diferenciación:** se entrega al principiante un texto resumido de cada evidencia con las palabras clave resaltadas, y se encarga al avanzado discutir el grado del hadiz "la mercancía de Allah es cara" según at-Tirmidhi y los críticos del hadiz.
 
 <!-- lesson-plan:safeguards -->
-**Advertencias pedagógicas:** no se usa el hadiz de la compra y el comercio para justificar violencia individual sin autoridad legítima; no se afirma con certeza que una sola obra garantice el Paraíso; y no se eleva el dicho débil al rango de hadiz auténtico.
+**Advertencias pedagógicas:** no se usan las aleyas de la compra y el comercio para justificar violencia individual sin autoridad legítima; no se afirma con certeza que una sola obra garantice el Paraíso; y no se eleva el dicho débil al rango de hadiz auténtico.
 
 <!-- lesson-plan:end -->
 
@@ -658,7 +658,7 @@ Escribe dos columnas. En la primera, `Causas ordenadas`, menciona tres actos de 
 **Materiales:** una carpeta con las siete evidencias; tarjetas de términos; hojas de las dos columnas; hojas de salida.
 
 <!-- lesson-plan:preparation -->
-**Preparación:** el docente prepara un resumen breve de la postura de Ibn al-Qayyim sobre el dicho de Wahb ibn Munabbih y el hadiz "la mercancía de Allah es cara", para presentarlo con precisión, sin exagerar ni simplificar en exceso.
+**Preparación:** el docente prepara un resumen breve de lo que Ibn al-Qayyim cita del dicho de Wahb ibn Munabbih y del hadiz "la mercancía de Allah es cara", y de lo que se ha dicho sobre su grado, para presentarlo con precisión, sin exagerar ni simplificar en exceso.
 
 <!-- lesson-plan:opening -->
 **Apertura — 5 minutos:** Pregunta: «¿Has escuchado antes alguna expresión que garantice el Paraíso con una sola obra? ¿Qué opinas de ella ahora?»
@@ -693,8 +693,9 @@ Escribe dos columnas. En la primera, `Causas ordenadas`, menciona tres actos de 
 [^4]: El Noble Corán, sura az-Zukhruf, aleya 72: [Texto coránico](https://quran.com/43/72).
 [^5]: Sahih al-Bujari, Libro del Zakat, hadiz 1397: [Sunnah.com, narración bukhari:1397](https://sunnah.com/bukhari:1397).
 [^6]: Sahih al-Bujari, Libro de los enfermos, hadiz 5673, narrado por Abu Huraira, que Allah esté complacido con él (texto citado); también lo recoge Muslim con palabras parecidas en el Libro de la descripción del Día de la Resurrección, el Paraíso y el Fuego, hadiz 2816: [Sunnah.com, narración bukhari:5673](https://sunnah.com/bukhari:5673); [Sunnah.com, narración muslim:2816f](https://sunnah.com/muslim:2816f).
-[^7]: Muhammad ibn Abi Bakr Ibn Qayyim al-Yawziyya, *Hadi al-Arwah ila Bilad al-Afrah*, capítulo catorce: sobre la llave del Paraíso, con el dicho de Wahb ibn Munabbih sobre los dientes de la llave: [al-Maktaba ash-Shamila](https://shamela.ws/book/13652/189).
-[^8]: Muhammad ibn Abi Bakr Ibn Qayyim al-Yawziyya, *Hadi al-Arwah ila Bilad al-Afrah*, capítulo diecinueve: sobre la exposición del Señor, Altísimo, de Su mercancía el Paraíso, con discusión de las vías de transmisión: [al-Maktaba ash-Shamila](https://shamela.ws/book/13652/220).
+[^7]: Sahih al-Bujari, comienzo del Libro de los funerales, dicho de Wahb ibn Munabbih citado sin cadena (mu'allaq); Ibn Hayar, *Fath al-Bari*, comentario del mismo pasaje, donde señala que al-Bujari lo transmitió con cadena en *at-Tarij*: [IslamWeb](https://islamweb.net/ar/library/content/52/2282/); Muhammad ibn Abi Bakr Ibn Qayyim al-Yawziyya, *Hadi al-Arwah ila Bilad al-Afrah*, capítulo catorce: sobre la llave del Paraíso, con el dicho de Wahb ibn Munabbih sobre los dientes de la llave: [al-Maktaba ash-Shamila](https://shamela.ws/book/13652/190).
+[^8]: Yami' at-Tirmidhi, Capítulos sobre la descripción del Día de la Resurrección, el enternecimiento de los corazones y la escrupulosidad, hadiz 2450, que at-Tirmidhi calificó como hasan garib: [Sunnah.com, narración tirmidhi:2450](https://sunnah.com/tirmidhi:2450); citado por Ibn al-Qayyim en *Hadi al-Arwah ila Bilad al-Afrah*, capítulo diecinueve: sobre la exposición del Señor, Altísimo, de Su mercancía el Paraíso, con las notas del editor sobre sus cadenas: [al-Maktaba ash-Shamila](https://shamela.ws/book/13652/224).
 [^9]: Sahih al-Bujari, Libro del comienzo de la creación, hadiz 3321, narrado por Abu Huraira, que Allah esté complacido con él: [Sunnah.com, narración bukhari:3321](https://sunnah.com/bukhari:3321).
+[^10]: Sahih al-Bujari, Libro de los profetas, hadiz 3467, narrado por Abu Huraira, que Allah esté complacido con él, donde se la describe como «una prostituta de entre las prostitutas de los Hijos de Israel»: [Sunnah.com, narración bukhari:3467](https://sunnah.com/bukhari:3467).
 
 <!-- references:end -->

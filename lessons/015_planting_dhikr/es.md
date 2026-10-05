@@ -22,11 +22,11 @@ bedtime_dua_id: "lesson.015.dua.dhikr-lasting-good"
 Al terminar esta lección, el estudiante será capaz de:
 
 - Explicar el hadiz «dos palabras amadas por el Compasivo, ligeras en la lengua, pesadas en la balanza», y aclarar que el peso en la balanza aquí es el peso del valor y la recompensa, no el peso del esfuerzo físico.
-- Vincular la aleya `Y las obras buenas que perduran son mejores ante tu Señor en recompensa y mejores en esperanza` (Al-Kahf: 46) con el tafsir de Ibn Kathir sobre las obras buenas que perduran, identificándolas con las cinco palabras, entre ellas el tasbih y el tahmid.
-- Narrar el hadiz «quien diga: Subhanallahi wa bihamdih, se le plantará una palmera en la Jannah», y explicar que esta plantación es real y del mundo oculto, sin límite en un número determinado.
+- Vincular la aleya `Y las obras buenas que perduran son mejores ante tu Señor en recompensa y mejores en esperanza` (Al-Kahf: 46) con la interpretación que transmite Ibn Kathir de las obras buenas que perduran como las cinco palabras, entre ellas el tasbih y el tahmid, reconociendo que la aleya abarca también todas las demás obras buenas.
+- Narrar el hadiz «quien diga: Subhanallahil Azim wa bihamdih, se le plantará una palmera en la Jannah», y explicar, como señalan los comentaristas del hadiz, que se planta una palmera cada vez que se dice, y que esta plantación pertenece al mundo oculto, sin límite en un número determinado.
 - Distinguir entre tres desviaciones al tratar el dhikr sencillo: subestimarlo por su pequeñez, distraerse de su significado al repetirlo, e interrumpir su continuidad.
 - Distinguir entre medir el valor de una obra por su magnitud visible o el cansancio de quien la realiza, y medirlo correctamente por la sinceridad del corazón y la constancia del hábito, como se mostró en las historias de Sami, Huda y Karim.
-- Practicar un hábito diario de decir «Subhanallahi wa bihamdih» en momentos repetidos que normalmente no se consideran una obra, dando seguimiento a su número y vinculándolo con las tres pruebas (la aleya de Al-Kahf, el hadiz de Abu Huraira y el hadiz de Yabir).
+- Practicar un hábito diario de decir «Subhanallahil Azim wa bihamdih» en momentos repetidos que normalmente no se consideran una obra, dando seguimiento a su número y vinculándolo con las tres pruebas (la aleya de Al-Kahf, el hadiz de Abu Huraira y el hadiz de Yabir).
 
 ## Sección Académica para Adultos
 
@@ -34,7 +34,7 @@ Al terminar esta lección, el estudiante será capaz de:
 
 <!-- unit:start id="adults.explanation" kind="explanation" -->
 
-Las personas tienden a valorar la obra buena según el esfuerzo invertido en ella, y suponen que la recompensa inmensa solo corresponde a una obra ardua o prolongada. Pero la revelación descubre otra economía de la recompensa: un dhikr breve y ligero en la lengua puede ser pesado en la balanza, permanente en su efecto, sin que se interrumpa cuando su autor abandona esta vida. La palabra `Subhanallahi wa bihamdih` no cuesta ningún esfuerzo digno de mención, y sin embargo con ella se planta una palmera real en la Jannah cada vez que se dice con sinceridad.
+Las personas tienden a valorar la obra buena según el esfuerzo invertido en ella, y suponen que la recompensa inmensa solo corresponde a una obra ardua o prolongada. Pero la revelación descubre otra economía de la recompensa: un dhikr breve y ligero en la lengua puede ser pesado en la balanza, con una recompensa que permanece guardada ante Allah. La palabra `Subhanallahil Azim wa bihamdih` no cuesta ningún esfuerzo digno de mención, y sin embargo con ella se planta una palmera real en la Jannah cada vez que se dice con sinceridad.
 
 Esta comprensión protege el corazón de tres desviaciones:
 
@@ -62,7 +62,7 @@ Por ello, esta lección reúne la explicación de la sencillez de la expresión,
 
 #### Explicación Académica
 
-Ibn Kathir mencionó, en su comentario a esta aleya, que un grupo de Compañeros y Seguidores, entre ellos Uzman ibn Affan, que Allah esté complacido con él, y Said ibn al-Musayyib, que Allah tenga misericordia de él, interpretaron `las obras buenas que perduran` como las cinco palabras: `La ilaha illa Allah, wa Subhanallah, wal hamdu lillah, wallahu akbar, wa la hawla wa la quwwata illa billah` («no hay más dios que Allah, y gloria a Allah, y alabado sea Allah, y Allah es el más grande, y no hay poder ni fuerza sino en Allah»), y esta misma interpretación se ha transmitido también, en varias narraciones, con cadena de transmisión que llega hasta el Profeta, la paz y las bendiciones de Allah sean con él.[^2]
+Ibn Kathir recogió, en su comentario a esta aleya, las opiniones de los primeros sabios sobre `las obras buenas que perduran`: transmitió de Ibn Abbas, Said ibn Yubair y otros que son las cinco oraciones diarias, y transmitió de un grupo de Compañeros y Seguidores, entre ellos Uzman ibn Affan, que Allah esté complacido con él, y Said ibn al-Musayyib, que Allah tenga misericordia de él, que son las cinco palabras: `La ilaha illa Allah, wa Subhanallah, wal hamdu lillah, wallahu akbar, wa la hawla wa la quwwata illa billah` («no hay más dios que Allah, y gloria a Allah, y alabado sea Allah, y Allah es el más grande, y no hay poder ni fuerza sino en Allah»), y sobre ello se han transmitido también hadices atribuidos al Profeta, la paz y las bendiciones de Allah sean con él. Después mencionó la opinión de Abd al-Rahman ibn Zayd ibn Aslam de que son todas las obras buenas, y que Ibn Yarir at-Tabari la prefirió; así, las cinco palabras están entre lo más excelso que abarca la aleya, pero no son todo lo que abarca.[^2]
 
 #### Explicación de la Lección
 
@@ -102,7 +102,7 @@ Este hadiz derriba la idea de que la recompensa se mide por el grado de cansanci
 
 #### Explicación Académica
 
-La plantación aquí es real, no una simple representación; forma parte de los asuntos del mundo oculto en los que creemos tal como nos han llegado, sin imaginarles una forma terrenal exactamente equivalente. El hadiz no limitó la recompensa a un número determinado, así que cada tasbih sincero es una causa independiente para una nueva plantación, según la vastedad de la misericordia y el favor de Allah.
+Al-Mubarakfuri explica en *Tuhfat al-Ahwadhi* las palabras «se le plantará una palmera»: «es decir, se le planta una palmera cada vez». El hadiz no limitó la recompensa a un número determinado, y cada vez que el siervo lo dice es causa de una nueva plantación, según la vastedad de la misericordia y el favor de Allah.[^5] En esta lección entendemos la plantación en su sentido literal, no como una simple figura; forma parte de los asuntos del mundo oculto en los que creemos tal como nos han llegado, sin imaginarles una forma terrenal exactamente equivalente.
 
 #### Explicación de la Lección
 
@@ -129,7 +129,7 @@ Este hadiz vincula una expresión sencilla con un efecto duradero que crece en u
 
 <!-- activity:start audience="adults" concept_id="lesson.015.activity.dhikr-tally-garden" -->
 
-Elige tres momentos repetidos de tu día que normalmente no cuentas como una obra (como esperar, desplazarte, o realizar una tarea doméstica rutinaria), y comprométete a decir en ellos `Subhanallahi wa bihamdih` con presencia de corazón. Durante tres días, anota en una tabla sencilla cuántas veces lo dices en cada momento y, al final del tercer día, suma el total. Escribe en dos líneas cómo cambió este número tu manera de ver la «pequeñez» del dhikr, apoyándote en alguna de las tres pruebas.
+Elige tres momentos repetidos de tu día que normalmente no cuentas como una obra (como esperar, desplazarte, o realizar una tarea doméstica rutinaria), y comprométete a decir en ellos `Subhanallahil Azim wa bihamdih` con presencia de corazón. Durante tres días, anota en una tabla sencilla cuántas veces lo dices en cada momento y, al final del tercer día, suma el total. Escribe en dos líneas cómo cambió este número tu manera de ver la «pequeñez» del dhikr, apoyándote en alguna de las tres pruebas.
 
 <!-- activity:end -->
 
@@ -143,7 +143,7 @@ Elige tres momentos repetidos de tu día que normalmente no cuentas como una obr
 
 ## Para Niños de 4 a 7 Años
 
-Cuando decimos **Subhanallahi wa bihamdih**, ¡Allah nos cuenta que con estas palabras nos planta una palmera en la Jannah! La palabra es pequeña y fácil, pero su recompensa es enorme ante Allah. Digámosla muchas veces, mientras nuestro corazón piensa en su significado: Allah está libre de toda imperfección, y a Él pertenece toda alabanza.
+¡El Profeta, la paz y las bendiciones de Allah sean con él, nos contó que cuando decimos **Subhanallahil Azim wa bihamdih**, Allah nos planta con estas palabras una palmera en la Jannah! La palabra es pequeña y fácil, pero su recompensa es enorme ante Allah. Digámosla muchas veces, mientras nuestro corazón piensa en su significado: Allah, el Grandioso, está libre de toda imperfección, y a Él pertenece toda alabanza.
 
 <!-- unit:end -->
 
@@ -157,9 +157,9 @@ Cuando decimos **Subhanallahi wa bihamdih**, ¡Allah nos cuenta que con estas pa
 
 La abuela le dio a Sami una semilla muy pequeña, que apenas se podía ver, y le dijo: «Plántala en el jardín.» Sami miró la maceta grande de su hermana, llena de rosas, y dijo: «¡Mi semilla es tan pequeña que no hará nada importante!» Pero la plantó de todas formas, como su abuela le había pedido.
 
-Por la noche, mientras se preparaba para dormir, su papá le dijo: «¿Sabías que cada vez que dices: Subhanallahi wa bihamdih, Allah te planta con ella una palmera en la Jannah?» Sami se sorprendió: «¿Una palabra pequeña hace una palmera tan grande?» Su papá le respondió: «Sí, igual que tu semilla pequeña que un día crecerá, pero la palmera de la Jannah es más grande y más duradera.»
+Por la noche, mientras se preparaba para dormir, su papá le dijo: «¿Sabías que cada vez que dices: Subhanallahil Azim wa bihamdih, Allah te planta con ella una palmera en la Jannah?» Sami se sorprendió: «¿Una palabra pequeña hace una palmera tan grande?» Su papá le respondió: «Sí, igual que tu semilla pequeña que un día crecerá, pero la palmera de la Jannah es más grande y más duradera.»
 
-Desde aquella noche, Sami empezó a decir muchas veces: «Subhanallahi wa bihamdih», sonriendo, y ya no volvió a decir: «Esto es tan pequeño que no sirve de nada.»
+Desde aquella noche, Sami empezó a decir muchas veces: «Subhanallahil Azim wa bihamdih», sonriendo, y ya no volvió a decir: «Esto es tan pequeño que no sirve de nada.»
 
 <!-- story:end -->
 
@@ -185,7 +185,7 @@ El Profeta, la paz y las bendiciones de Allah sean con él, dijo: quien diga «S
 
 ### Preguntas Cortas
 
-1. ¿Qué sucede en la Jannah cuando decimos: Subhanallahi wa bihamdih?
+1. ¿Qué sucede en la Jannah cuando decimos: Subhanallahil Azim wa bihamdih?
 2. ¿Una palabra pequeña vale poco para Allah?
 3. ¿Cuándo puedes decir esta palabra hoy?
 
@@ -197,7 +197,7 @@ El Profeta, la paz y las bendiciones de Allah sean con él, dijo: quien diga «S
 
 <!-- activity:start audience="4-7" concept_id="lesson.015.activity.dhikr-tally-garden" -->
 
-El adulto dibuja en un papel una palmera grande sin hojas. Cada vez que el niño diga «Subhanallahi wa bihamdih» durante el día, pega o dibuja una pequeña hoja verde en la palmera. Por la noche, el niño cuenta las hojas junto a su familia y dice: «Esta es mi palmera que planté hoy con el dhikr.»
+El adulto dibuja en un papel una palmera grande sin hojas. Cada vez que el niño diga «Subhanallahil Azim wa bihamdih» durante el día, pega o dibuja una pequeña hoja verde en la palmera. Por la noche, el niño cuenta las hojas junto a su familia y dice: «Esta es mi palmera que planté hoy con el dhikr.»
 
 <!-- activity:end -->
 
@@ -226,7 +226,7 @@ El adulto dibuja en un papel una palmera grande sin hojas. Cada vez que el niño
 
 ## Para Niños de 8 a 12 Años
 
-Quizás pienses que la obra que merece una recompensa grande debe ser difícil o visible para los demás, como limpiar o recaudar donativos. Pero Allah nos informó que una palabra sencilla como «Subhanallahi wa bihamdih» hace que se plante una palmera completa en la Jannah, y es una palabra que nadie ve y que no requiere ningún esfuerzo digno de mención. El valor ante Allah no está en lo mucho que uno se cansa, sino en la sinceridad del corazón y la constancia del hábito.
+Quizás pienses que la obra que merece una recompensa grande debe ser difícil o visible para los demás, como limpiar o recaudar donativos. Pero el Profeta, la paz y las bendiciones de Allah sean con él, nos informó que una palabra sencilla como «Subhanallahil Azim wa bihamdih» hace que se plante una palmera completa en la Jannah, y es una palabra que nadie ve y que no requiere ningún esfuerzo digno de mención. El valor ante Allah no está en lo mucho que uno se cansa, sino en la sinceridad del corazón y la constancia del hábito.
 
 <!-- unit:end -->
 
@@ -240,9 +240,9 @@ Quizás pienses que la obra que merece una recompensa grande debe ser difícil o
 
 Huda organizó un «tablero del bien» en su escuela, donde se registraban las obras grandes: limpiar el aula, recaudar donativos y ordenar la biblioteca. Cada mañana esperaba el autobús durante largos minutos y se aburría, pensando que ese tiempo estaba «perdido» que no merecía anotarse en ningún tablero.
 
-Un día, su maestra preguntó a la clase: «¿Conocen una obra que nadie ve, y que sin embargo le planta a su autor una palmera completa en la Jannah?» Luego les narró el hadiz de «Subhanallahi wa bihamdih». Huda comprendió que sus minutos de espera vacía habían sido una oportunidad perdida, no porque carecieran de importancia, sino porque ella no conocía su verdadero valor.
+Un día, su maestra preguntó a la clase: «¿Conocen una obra que nadie ve, y que sin embargo le planta a su autor una palmera completa en la Jannah?» Luego les narró el hadiz de «Subhanallahil Azim wa bihamdih». Huda comprendió que sus minutos de espera vacía habían sido una oportunidad perdida, no porque carecieran de importancia, sino porque ella no conocía su verdadero valor.
 
-Al día siguiente, comenzó a decir «Subhanallahi wa bihamdih» con sinceridad mientras esperaba el autobús, sin anotarlo en ningún tablero visible para los demás. No dejó de participar en las obras visibles del tablero, pero aprendió que sus obras más valiosas podían ser precisamente las que quedaban ocultas a todos, menos a Allah.
+Al día siguiente, comenzó a decir «Subhanallahil Azim wa bihamdih» con sinceridad mientras esperaba el autobús, sin anotarlo en ningún tablero visible para los demás. No dejó de participar en las obras visibles del tablero, pero aprendió que sus obras más valiosas podían ser precisamente las que quedaban ocultas a todos, menos a Allah.
 
 <!-- story:end -->
 
@@ -293,7 +293,7 @@ El Profeta, la paz y las bendiciones de Allah sean con él, informó que a quien
 
 <!-- activity:start audience="8-12" concept_id="lesson.015.activity.dhikr-tally-garden" -->
 
-Elige dos momentos repetidos de tu día que normalmente no cuentas como ninguna obra (como esperar en el auto, o antes de comenzar la tarea). Durante tres días, registra en una tabla el número de veces que dices «Subhanallahi wa bihamdih» en cada momento. Al tercer día, dibuja un pequeño jardín con tantas palmeras como tu total, y escribe debajo una frase que explique lo que aprendiste sobre el valor de la obra pequeña.
+Elige dos momentos repetidos de tu día que normalmente no cuentas como ninguna obra (como esperar en el auto, o antes de comenzar la tarea). Durante tres días, registra en una tabla el número de veces que dices «Subhanallahil Azim wa bihamdih» en cada momento. Al tercer día, dibuja un pequeño jardín con tantas palmeras como tu total, y escribe debajo una frase que explique lo que aprendiste sobre el valor de la obra pequeña.
 
 <!-- activity:end -->
 
@@ -336,7 +336,7 @@ En un mundo donde el logro suele medirse por lo que se publica y se ve, podrías
 
 Karim tenía la costumbre de documentar cada actividad que hacía: un entrenamiento deportivo, un proyecto escolar, una iniciativa de voluntariado, y publicaba fotos que mostraban su esfuerzo. Sentía que esta documentación le daba una identidad de «persona productiva». Un día, un amigo se burló de él diciendo: «Te vi mover los labios mientras esperabas la clase, ¿eso es tasbih? ¡Eso no cuenta como un logro!»
 
-Karim sintió vergüenza, y pensó en abandonar ese hábito discreto porque no añadía nada «visible». Pero recordó lo que había aprendido sobre dos hadices: uno describe la palabra «Subhanallahi wa bihamdih» como ligera en la lengua y pesada en la balanza, y el otro informa que con ella se planta una palmera en la Jannah. Se preguntó: «¿Voy a abandonar una obra que el Profeta, la paz y las bendiciones de Allah sean con él, describió con ese peso, solo porque un amigo no entendió su valor?»
+Karim sintió vergüenza, y pensó en abandonar ese hábito discreto porque no añadía nada «visible». Pero recordó lo que había aprendido sobre dos hadices: uno describe las dos palabras «Subhanallahi wa bihamdih» y «Subhanallahil Azim» como ligeras en la lengua y pesadas en la balanza, y el otro informa que con «Subhanallahil Azim wa bihamdih» se planta una palmera en la Jannah para quien la dice. Se preguntó: «¿Voy a abandonar una obra que el Profeta, la paz y las bendiciones de Allah sean con él, describió con ese peso, solo porque un amigo no entendió su valor?»
 
 Karim decidió continuar con su tasbih discreto sin explicárselo a nadie ni documentarlo, y aprendió a distinguir entre lo que publica para los demás y lo que le pertenece solo a él y a su Señor. No dejó sus proyectos visibles, pero dejó de pensar que el valor de una obra se mide por el número de personas que la ven.
 
@@ -392,7 +392,7 @@ Ambos hadices juntos desmontan una ecuación común: que la recompensa sigue al 
 
 <!-- activity:start audience="13+" concept_id="lesson.015.activity.dhikr-tally-garden" -->
 
-Identifica tres momentos diarios repetidos en los que tienes un hábito que nadie ve (como desbloquear el teléfono, esperar antes de un entrenamiento o clase, o caminar entre aulas). Durante una semana, registra en un rastreador privado el número de veces que dices «Subhanallahi wa bihamdih» en esos momentos, sin compartir el número con nadie. Al final de la semana, escribe un párrafo breve que vincule la constancia de este hábito discreto con los dos hadices, y explique cómo cambió tu manera de ver lo que «cuenta» como una obra de valor.
+Identifica tres momentos diarios repetidos en los que tienes un hábito que nadie ve (como desbloquear el teléfono, esperar antes de un entrenamiento o clase, o caminar entre aulas). Durante una semana, registra en un rastreador privado el número de veces que dices «Subhanallahil Azim wa bihamdih» en esos momentos, sin compartir el número con nadie. Al final de la semana, escribe un párrafo breve que vincule la constancia de este hábito discreto con los dos hadices, y explique cómo cambió tu manera de ver lo que «cuenta» como una obra de valor.
 
 <!-- activity:end -->
 
@@ -458,25 +458,25 @@ Identifica tres momentos diarios repetidos en los que tienes un hábito que nadi
 ### Niños de 4 a 7 — 30 minutos
 
 <!-- lesson-plan:outcomes -->
-**Resultados de aprendizaje:** que el niño diga «Subhanallahi wa bihamdih» y sepa que con estas palabras se planta una palmera en la Jannah, que distinga que una palabra pequeña puede causar un efecto grande, y que practique decirla varias veces durante el día.
+**Resultados de aprendizaje:** que el niño diga «Subhanallahil Azim wa bihamdih» y sepa que con estas palabras se planta una palmera en la Jannah, que distinga que una palabra pequeña puede causar un efecto grande, y que practique decirla varias veces durante el día.
 
 <!-- lesson-plan:materials -->
 **Materiales:** dibujo de una palmera sin hojas; hojas verdes pequeñas o pegatinas; una semilla pequeña real para mostrar si está disponible; tarjeta del du'a con letra clara.
 
 <!-- lesson-plan:preparation -->
-**Preparación:** el maestro prepara con antelación el dibujo de la palmera y las hojas pequeñas, y practica explicar el significado de «Subhanallah» y «bihamdih» con dos frases cortas.
+**Preparación:** el maestro prepara con antelación el dibujo de la palmera y las hojas pequeñas, y practica explicar el significado de «Subhanallah», «al-Azim» y «bihamdih» con unas frases cortas.
 
 <!-- lesson-plan:opening -->
 **Apertura — 4 minutos:** el maestro muestra una semilla pequeña y pregunta: «¿Esta semilla puede convertirse algún día en algo grande?» Acepta las respuestas de los niños y las vincula con el tema de la lección.
 
 <!-- lesson-plan:evidence -->
-**Lectura de la prueba — 6 minutos:** el maestro narra la historia ficticia de Sami, y luego la historia auténtica del hadiz, y los niños repiten con él: «Subhanallahi wa bihamdih.»
+**Lectura de la prueba — 6 minutos:** el maestro narra la historia ficticia de Sami, y luego la historia auténtica del hadiz, y los niños repiten con él: «Subhanallahil Azim wa bihamdih.»
 
 <!-- lesson-plan:instruction -->
 **Enseñanza guiada — 6 minutos:** el maestro aclara que cada tasbih planta una palmera en la Jannah, y que una palabra pequeña no significa un efecto pequeño, usando la comparación entre la semilla y la palmera.
 
 <!-- lesson-plan:activity -->
-**Actividad — 9 minutos:** cada niño dice «Subhanallahi wa bihamdih» y pega una hoja verde en el dibujo de la palmera, repitiéndolo varias veces, y luego los niños cuentan juntos las hojas al final de la actividad.
+**Actividad — 9 minutos:** cada niño dice «Subhanallahil Azim wa bihamdih» y pega una hoja verde en el dibujo de la palmera, repitiéndolo varias veces, y luego los niños cuentan juntos las hojas al final de la actividad.
 
 <!-- lesson-plan:assessment -->
 **Evaluación y cierre — 5 minutos:** pregunta: «¿Qué sucede en la Jannah cuando decimos esta palabra? ¿Es una palabra pequeña o de gran efecto?» Luego lee el du'a una vez, despacio.
@@ -566,8 +566,9 @@ Identifica tres momentos diarios repetidos en los que tienes un hábito que nadi
 ## Referencias
 
 [^1]: El Sagrado Corán, sura Al-Kahf, aleya 46: [Texto coránico](https://quran.com/18/46).
-[^2]: Abu al-Fida Ismail ibn Kathir, *Tafsir al-Qur'an al-'Azim*, comentario a la sura Al-Kahf, aleya 46, sobre la interpretación de las obras buenas que perduran como las cinco palabras, transmitida de un grupo de Compañeros y Seguidores: [El Corán electrónico de la Universidad Rey Saud](https://quran.ksu.edu.sa/tafseer/katheer/sura18-aya46.html).
-[^3]: Sahih Al-Bujari, hadiz 7563, y Sahih Muslim, hadiz 2694, narrado por Abu Huraira, que Allah esté complacido con él, recogido por ambos (muttafaq 'alayh): [Sunnah.com, narración bukhari:7563](https://sunnah.com/bukhari:7563).
-[^4]: Sunan At-Tirmidhi, hadiz 3464, narrado por Yabir ibn Abdullah, que Allah esté complacido con él, hadiz declarado auténtico por Al-Albani: [Sunnah.com, narración tirmidhi:3464](https://sunnah.com/tirmidhi:3464).
+[^2]: Abu al-Fida Ismail ibn Kathir, *Tafsir al-Qur'an al-'Azim*, comentario a la sura Al-Kahf, aleya 46, donde expone las opiniones de los primeros sabios sobre las obras buenas que perduran: las cinco oraciones diarias; las cinco palabras, opinión transmitida de un grupo de Compañeros y Seguidores; y todas las obras buenas, opinión preferida por Ibn Yarir at-Tabari: [El Corán electrónico de la Universidad Rey Saud](https://quran.ksu.edu.sa/tafseer/katheer/sura18-aya46.html).
+[^3]: Sahih Al-Bujari, hadiz 7563, y Sahih Muslim, hadiz 2694, narrado por Abu Huraira, que Allah esté complacido con él, recogido por ambos (muttafaq 'alayh): [Sunnah.com, Sahih al-Bujari 7563](https://sunnah.com/bukhari:7563).
+[^4]: Sunan At-Tirmidhi, hadiz 3464, narrado por Yabir ibn Abdullah, que Allah esté complacido con él. At-Tirmidhi dijo: «hasan sahih garib; solo lo conocemos como hadiz de Abu az-Zubair de Yabir». Después lo transmite (3465) por la vía de Hammad ibn Salama de Abu az-Zubair con la misma redacción, y dice: «hasan garib». Ahmad Shakir y Al-Albani lo declararon auténtico (sahih); Zubair Ali Zai lo declaró débil (da'if): [Sunnah.com, Yami' at-Tirmidhi 3464](https://sunnah.com/tirmidhi:3464).
+[^5]: Muhammad Abd al-Rahman al-Mubarakfuri, *Tuhfat al-Ahwadhi bi Sharh Yami' at-Tirmidhi*, Libro de las súplicas, comentario al hadiz 3464: [Islamweb](https://www.islamweb.net/ar/library/content/56/6691).
 
 <!-- references:end -->

@@ -76,7 +76,7 @@ Observa los dos rasgos juntos: `la maqtu'ah` niega que la cosa misma se termine,
 
 #### Explicación Académica
 
-Estas aleyas, en la misma sura e inmediatamente después de describir a los compañeros de la derecha, describen el destino del grupo opuesto: viento abrasador, agua caliente que no sacia, y una sombra que no refresca ni alegra.
+Estas aleyas, en la misma sura e inmediatamente después de describir a los compañeros de la derecha, describen el destino del grupo opuesto: viento abrasador, agua caliente que no sacia, y una sombra que no refresca ni alegra. Ibn 'Abbas, Muyahid, Qatada y otros explicaron `al-yahmum` como la sombra del humo, es decir, una sombra de humo intensamente negro.[^10]
 
 #### Explicación de la Lección
 
@@ -96,7 +96,7 @@ El Corán no se limitó a describir la dicha de los compañeros de la derecha, s
 
 #### Explicación Académica
 
-Los sabios explicaron que la primera muerte precede a la entrada en la Jannah, y que esta excepción es discontinua: no es una muerte que ocurre dentro de la Jannah, sino un recordatorio de que la única muerte que prueba su gente ya ocurrió antes de que entraran en ella, así que después no habrá muerte jamás.[^6]
+Los sabios explicaron que la primera muerte precede a la entrada en la Jannah, y que esta excepción es discontinua (istizna' munqati'): no es una muerte que ocurre dentro de la Jannah, sino un recordatorio de que la única muerte que prueba su gente ya ocurrió antes de que entraran en ella, así que después no habrá muerte jamás.[^11]
 
 #### Explicación de la Lección
 
@@ -108,11 +108,11 @@ Esta aleya responde al temor más profundo del ser humano: el miedo a la muerte 
 
 ### Tendréis Salud y No Enfermaréis Jamás
 
-> عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ وَأَبِي هُرَيْرَةَ رضي الله عنهما، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ: **«يُنَادِي مُنَادٍ: إِنَّ لَكُمْ أَنْ تَصِحُّوا فَلَا تَسْقَمُوا أَبَدًا، وَإِنَّ لَكُمْ أَنْ تَحْيَوْا فَلَا تَمُوتُوا أَبَدًا، وَإِنَّ لَكُمْ أَنْ تَشِبُّوا فَلَا تَهْرَمُوا أَبَدًا، وَإِنَّ لَكُمْ أَنْ تَنْعَمُوا فَلَا تَبْأَسُوا أَبَدًا».**
+> عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ وَأَبِي هُرَيْرَةَ رضي الله عنهما، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ: **«يُنَادِي مُنَادٍ: إِنَّ لَكُمْ أَنْ تَصِحُّوا فَلَا تَسْقَمُوا أَبَدًا، وَإِنَّ لَكُمْ أَنْ تَحْيَوْا فَلَا تَمُوتُوا أَبَدًا، وَإِنَّ لَكُمْ أَنْ تَشِبُّوا فَلَا تَهْرَمُوا أَبَدًا، وَإِنَّ لَكُمْ أَنْ تَنْعَمُوا فَلَا تَبْأَسُوا أَبَدًا».** فَذَلِكَ قَوْلُهُ عَزَّ وَجَلَّ: ﴿وَنُودُوا أَنْ تِلْكُمُ الْجَنَّةُ أُورِثْتُمُوهَا بِمَا كُنْتُمْ تَعْمَلُونَ﴾ [الأعراف: ٤٣].
 
 <!-- evidence:translation -->
 
-> Narraron Abu Sa'id al-Judri y Abu Hurayrah, que Allah esté complacido con ambos, que el Profeta, que la paz y las bendiciones de Allah sean con él, dijo: **«Un pregonero proclamará: “Tendréis salud y no enfermaréis jamás; tendréis vida y no moriréis jamás; tendréis juventud y no envejeceréis jamás; tendréis dicha y no padeceréis miseria jamás”.»**[^5]
+> Narraron Abu Sa'id al-Judri y Abu Hurayrah, que Allah esté complacido con ambos, que el Profeta, que la paz y las bendiciones de Allah sean con él, dijo: **«Un pregonero proclamará: “Tendréis salud y no enfermaréis jamás; tendréis vida y no moriréis jamás; tendréis juventud y no envejeceréis jamás; tendréis dicha y no padeceréis miseria jamás”.»** Y esa es la palabra de Allah, Poderoso y Majestuoso: «Y se les proclamará: “Esa es la Jannah que habéis heredado por lo que hacíais”» [al-A'raf: 43].[^5]
 
 #### Explicación Académica
 
@@ -162,7 +162,7 @@ Elige un recurso limitado del que dependes realmente en tu vida, como tu tiempo 
 
 <!-- unit:start id="4-7.explanation" kind="explanation" -->
 
-En la dunya, muchas cosas se terminan: se termina el dulce delicioso, se termina el juego divertido, y el niño se duerme y se termina el día bonito. Pero Allah nos dijo en el Corán que la dicha de la Jannah nunca es así: su fruta nunca se termina, y su alegría nunca se interrumpe.
+En la dunya, muchas cosas se terminan: se termina el dulce delicioso, se termina el juego divertido, y el niño se duerme y se termina el día bonito. Pero Allah nos dijo en el Corán que la dicha de la Jannah nunca es así: su fruta nunca se termina, y su alegría nunca se interrumpe. Y el Profeta, que la paz y las bendiciones de Allah sean con él, nos contó que un pregonero llamará a la gente de la Jannah: tendrán salud y nunca se enfermarán, vivirán y nunca morirán, serán jóvenes y nunca envejecerán, y estarán en la dicha y nunca sufrirán penurias ni miseria.[^5]
 
 <!-- unit:end -->
 
@@ -174,7 +174,7 @@ En la dunya, muchas cosas se terminan: se termina el dulce delicioso, se termina
 
 **Esta es una historia real que Allah nos contó en el Corán, y no es una historia inventada.**
 
-Un padre y su hijo miraban una cesta de fruta vacía sobre la mesa. El padre dijo: «Hijo mío, la fruta de la dunya siempre se termina; la comemos y se vacía la cesta, y llega una estación del año en que ya no la encontramos.» El hijo preguntó: «¿Y la fruta de la Jannah, papá?» El padre sonrió, abrió el Mus-haf y dijo: «Allah nos contó que la gente de la Jannah vive bajo una sombra amplia, junto a agua que corre y con fruta abundante, y luego describió esta fruta diciendo: `la maqtu'atin wa la mamnu'ah`, es decir, nunca se termina, y nadie se la prohíbe a quien la quiere.»[^1]
+Un padre y su hijo miraban una cesta de fruta vacía sobre la mesa. El padre dijo: «Hijo mío, la fruta de la dunya siempre se termina; la comemos y se vacía la cesta, y llega una estación del año en que ya no la encontramos.» El hijo preguntó: «¿Y la fruta de la Jannah, papá?» El padre sonrió, abrió el Mus-haf, su ejemplar del Corán, y dijo: «Allah nos contó que la gente de la Jannah vive bajo una sombra amplia, junto a agua que corre y con fruta abundante, y luego describió esta fruta diciendo: `la maqtu'atin wa la mamnu'ah`, es decir, nunca se termina, y nadie se la prohíbe a quien la quiere.»[^1]
 
 El hijo se alegró y dijo: «Entonces, ¿por más que la gente de la Jannah coma de la fruta, la cesta sigue llena?» El padre dijo: «Sí, porque solo Allah puede hacer una dicha que nunca termina.» Luego añadió con voz tranquila: «Allah también nos contó que quien no cree en Él ni en el Día del Juicio tendrá un destino muy distinto, triste y sin alegría.[^3] Por eso aprendemos a obedecer a Allah, para estar entre la gente de esa dicha eterna.»
 
@@ -193,7 +193,7 @@ En palabras sencillas: Allah nos contó en el Corán que la gente de la Jannah t
 ### Preguntas Cortas
 
 1. ¿Qué significa `la maqtu'atin wa la mamnu'ah`?
-2. ¿Qué dijo el pregonero a la gente de la Jannah sobre la enfermedad y la tristeza?
+2. ¿Qué dijo el pregonero a la gente de la Jannah sobre la enfermedad y la muerte?
 3. ¿Se parece la dicha de la Jannah a la fruta de la dunya que se termina?
 
 <!-- unit:end -->
@@ -233,7 +233,7 @@ El adulto prepara un vasito con unos pocos dulces y pide al niño que se los com
 
 <!-- unit:start id="8-12.explanation" kind="explanation" -->
 
-Toda dicha en la dunya tiene dos límites: o se termina, o se te prohíbe, por enfermedad, distancia o falta de dinero. Pero Allah describió la dicha de la Jannah como algo libre de esos dos límites: `la maqtu'atin wa la mamnu'ah`. Esta lección explica una escena coránica completa sobre esta dicha, la contrasta con un destino totalmente distinto, y luego la confirma con un hadiz auténtico.
+Toda dicha en la dunya tiene dos límites: o se termina, o se te prohíbe, por enfermedad, distancia o falta de dinero. Pero Allah describió la dicha de la Jannah como algo libre de esos dos límites: `la maqtu'atin wa la mamnu'ah`. Esta lección explica una escena coránica completa sobre esta dicha, la contrasta con un destino totalmente distinto, y luego la confirma con un hadiz auténtico narrado por Muslim, en el que el Profeta, que la paz y las bendiciones de Allah sean con él, nos contó que un pregonero llamará a la gente de la Jannah: «Tendréis salud y no enfermaréis jamás; tendréis vida y no moriréis jamás; tendréis juventud y no envejeceréis jamás; tendréis dicha y no padeceréis miseria jamás».[^5]
 
 <!-- unit:end -->
 
@@ -263,9 +263,9 @@ Dicho de otro modo: Allah describe la dicha de los compañeros de la derecha, y 
 
 <!-- terminology:start source_id="quran-56-27-34" -->
 
-- **`ashabu al-yamin`** — el grupo al que se le entrega su libro de obras con la mano derecha el Día del Juicio por la rectitud de sus obras, y cuyo destino es la dicha eterna.
+- **`ashabu al-yamin`** — el grupo al que se le entrega su libro de obras con la mano derecha el Día del Juicio por la rectitud de sus obras, y al que se lleva por el lado derecho hacia la Jannah, y cuyo destino es la dicha eterna.[^13]
 - **`la maqtu'atin wa la mamnu'ah`** — descripción de la fruta de la Jannah: no se termina en un momento determinado como la fruta de la dunya, y nadie de la gente de la Jannah es impedido de alcanzarla.
-- **`al-mawtata al-ula`** (la primera muerte) — la muerte que precede a la entrada en la Jannah, la única que prueba su gente; después de ella no habrá muerte jamás.
+- **`al-mawtata al-ula`** (la primera muerte) — de las palabras de Allah sobre la gente de la Jannah: «No probarán en ella la muerte, salvo la primera muerte, y Él los protegió del castigo del Infierno» (ad-Dukhan: 56); es la muerte que precede a la entrada en la Jannah, la única que prueba su gente; después de ella no habrá muerte jamás.[^4]
 
 <!-- terminology:end -->
 
@@ -317,7 +317,7 @@ Haz dos columnas en tu cuaderno. En la primera columna escribe cinco cosas munda
 
 <!-- unit:start id="13+.explanation" kind="explanation" -->
 
-Gran parte de lo que hoy perseguimos está diseñado desde el inicio para terminar rápido: una notificación nueva a los minutos de la anterior, una tendencia que cambia cada día, un «me gusta» cuyo efecto se desvanece en horas. Este diseño no es casualidad; todo lo construido sobre «solo ahora» necesita renovarse constantemente para mantenerte enganchado. El Corán presenta aquí un criterio completamente distinto: una escena completa de la sura al-Waqi'ah que describe una dicha calificada como `la maqtu'atin wa la mamnu'ah`, y luego la contrasta directamente con otro destino que no se le parece en nada. Este contraste no es solo un dato doctrinal lejano; es una invitación a repensar todo aquello sobre lo que construyes hoy tu sensación de plenitud.
+Gran parte de lo que hoy perseguimos está diseñado desde el inicio para terminar rápido: una notificación nueva a los minutos de la anterior, una tendencia que cambia cada día, un «me gusta» cuyo efecto se desvanece en horas. Este diseño no es casualidad; todo lo construido sobre «solo ahora» necesita renovarse constantemente para mantenerte enganchado. El Corán presenta aquí un criterio completamente distinto: una escena completa de la sura al-Waqi'ah que describe una dicha calificada como `la maqtu'atin wa la mamnu'ah`, y luego la contrasta directamente con otro destino que no se le parece en nada. Este contraste no es solo un dato doctrinal lejano; es una invitación a repensar todo aquello sobre lo que construyes hoy tu sensación de plenitud. Un hadiz auténtico narrado por Muslim confirma este sentido: el Profeta, que la paz y las bendiciones de Allah sean con él, nos contó que un pregonero llamará a la gente de la Jannah para anunciarles que tendrán salud y no enfermarán jamás, vivirán y no morirán jamás, serán jóvenes y no envejecerán jamás, y estarán en la dicha y no padecerán miseria jamás.[^5]
 
 <!-- unit:end -->
 
@@ -349,9 +349,9 @@ Dicho de otro modo: Allah describió la dicha de los compañeros de la derecha c
 
 <!-- terminology:start source_id="quran-56-27-34" -->
 
-- **`ashabu al-yamin` / `ashabu ash-shimal`** — los dos grupos en que se divide la gente el Día del Juicio según sus obras, y cada grupo recibe su libro de obras según su merecimiento.
+- **`ashabu al-yamin` / `ashabu ash-shimal`** — los dos grupos en que se divide la gente el Día del Juicio según sus obras, y cada grupo recibe su libro de obras según su merecimiento; los exégetas mencionan que a los compañeros de la derecha se les entrega su libro con la mano derecha y se les lleva por el lado derecho, y a los compañeros de la izquierda, con la mano izquierda, y se les lleva por el lado izquierdo.[^13]
 - **`la maqtu'atin wa la mamnu'ah`** — descripción doble: negación de un final en el tiempo, y negación de todo obstáculo que impida el acceso; es el sentido de la eternidad completa.
-- **La excepción en `illa ma sha'a rabbuka` (Hud: 108)** — mencionada por los sabios para aclarar que la permanencia de todo depende de la voluntad de Allah, no para negar la eternidad de la Jannah, como lo detalló Ibn al-Qayyim, que Allah tenga misericordia de él.[^6]
+- **La excepción en las palabras de Allah `wa amma alladhina su'idu fa-fi al-jannati jalidina fiha ma damat as-samawatu wal-ardu illa ma sha'a rabbuka, 'ata'an gayra mayzudh`** («Y en cuanto a los dichosos, estarán en la Jannah, en la que permanecerán mientras duren los cielos y la tierra, salvo lo que tu Señor quiera: un don que nunca se interrumpe», Hud: 108) — los sabios dieron varias explicaciones de `illa ma sha'a rabbuka` (salvo lo que tu Señor quiera), entre ellas que la permanencia de su dicha depende de la voluntad y el favor de Allah, y no es necesaria por sí misma; ninguna de ellas niega la eternidad de la Jannah, pues la propia aleya termina con `'ata'an gayra mayzudh` (un don que nunca se interrumpe). Ibn al-Qayyim, que Allah tenga misericordia de él, expuso estas explicaciones en detalle.[^9][^12][^6]
 
 <!-- terminology:end -->
 
@@ -556,5 +556,10 @@ Elige un hábito en tu vida construido sobre un placer que termina rápido, como
 [^6]: Muhammad ibn Abi Bakr Ibn Qayyim al-Yawziyya, *Hadi al-Arwah ila Bilad al-Afrah*, capítulo sesenta y siete: sobre la eternidad de la Jannah y que nunca desaparece ni perece: [al-Maktaba ash-Shamila](https://shamela.ws/book/13652/770).
 [^7]: 'Umar Sulayman al-Ashqar, *al-Jannah wa-n-Nar*, capítulo segundo: la Jannah es eterna y su gente es eterna, sección primera: los textos que lo demuestran: [al-Maktaba ash-Shamila](https://shamela.ws/book/12714/124).
 [^8]: 'Umar Sulayman al-Ashqar, *al-Jannah wa-n-Nar*, sección segunda: quienes sostuvieron que la Jannah desaparece: [al-Maktaba ash-Shamila](https://shamela.ws/book/12714/126).
+[^9]: El Sagrado Corán, sura Hud, aleya 108: [Texto coránico](https://quran.com/11/108).
+[^10]: Abu al-Fida Isma'il Ibn Kathir, *Tafsir al-Qur'an al-'Azim*, comentario de la sura al-Waqi'ah, aleyas 41-44, sobre el sentido de `wa zillin min yahmum` (la sombra del humo, según Ibn 'Abbas, Muyahid, 'Ikrima, Qatada y as-Suddi): [El Corán electrónico de la Universidad Rey Saud](https://quran.ksu.edu.sa/tafseer/katheer/sura56-aya43.html); y Muhammad ibn Yarir at-Tabari, *Yami' al-Bayan*, comentario de la sura al-Waqi'ah, aleya 43 (una sombra de humo intensamente negro): [El Corán electrónico de la Universidad Rey Saud](https://quran.ksu.edu.sa/tafseer/tabary/sura56-aya43.html).
+[^11]: Abu al-Fida Isma'il Ibn Kathir, *Tafsir al-Qur'an al-'Azim*, comentario de la sura ad-Dukhan, aleya 56 («esta excepción refuerza la negación, pues es una excepción discontinua»): [El Corán electrónico de la Universidad Rey Saud](https://quran.ksu.edu.sa/tafseer/katheer/sura44-aya56.html); y Muhammad ibn Yarir at-Tabari, *Yami' al-Bayan*, comentario de la sura ad-Dukhan, aleya 56: [El Corán electrónico de la Universidad Rey Saud](https://quran.ksu.edu.sa/tafseer/tabary/sura44-aya56.html).
+[^12]: Abu al-Fida Isma'il Ibn Kathir, *Tafsir al-Qur'an al-'Azim*, comentario de la sura Hud, aleya 108, sobre el sentido de la excepción y de `'ata'an gayra mayzudh` («no interrumpido»): [El Corán electrónico de la Universidad Rey Saud](https://quran.ksu.edu.sa/tafseer/katheer/sura11-aya108.html).
+[^13]: Abu al-Fida Isma'il Ibn Kathir, *Tafsir al-Qur'an al-'Azim*, comentario de la sura al-Waqi'ah, aleyas 7-10: [El Corán electrónico de la Universidad Rey Saud](https://quran.ksu.edu.sa/tafseer/katheer/sura56-aya7.html); y Muhammad ibn Yarir at-Tabari, *Yami' al-Bayan*, comentario de la sura al-Waqi'ah, aleya 8: [El Corán electrónico de la Universidad Rey Saud](https://quran.ksu.edu.sa/tafseer/tabary/sura56-aya8.html).
 
 <!-- references:end -->

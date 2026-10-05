@@ -1,5 +1,5 @@
 ---
-title: "The Leaders of Jannah and Those Promised It by Name"
+title: "The Leaders of the People of Jannah and Those Promised It by Name"
 lesson_id: "lesson.021"
 topic_id: "jannah.021"
 translation_key: "jannah.named_glad_tidings"
@@ -15,7 +15,7 @@ activity_concept_id: "lesson.021.activity.doorkeeper-glad-tidings-card"
 bedtime_dua_id: "lesson.021.dua.love-and-gather-with-companions"
 ---
 
-# The Leaders of Jannah and Those Promised It by Name
+# The Leaders of the People of Jannah and Those Promised It by Name
 
 ## Lesson Objectives and Outcomes
 
@@ -110,7 +110,7 @@ Ten names, and behind each one a life story of being first to believe and of giv
 
 #### Scholarly Explanation
 
-The scholars mention that this means either their leadership over those of the people of Jannah who died young, or their preeminence over the people of Jannah apart from the prophets and the Rightly Guided Caliphs.
+The scholars mention that this means either their leadership over those of the people of Jannah who died young, or their preeminence over the people of Jannah apart from the prophets and the Rightly Guided Caliphs.[^10]
 
 #### Lesson Explanation
 
@@ -220,7 +220,7 @@ Glad tidings are happy news that makes your heart smile. And the happiest news o
 
 <!-- unit:start id="4-7.primary-story" kind="primary_story" -->
 
-### A True Account: The Little Doorkeeper by the Well
+### A True Account: The Trustworthy Doorkeeper by the Well
 
 <!-- story:start audience="4-7" role="primary" type="prophetic_era" source_id="bukhari-3674" authenticated="true" -->
 
@@ -397,7 +397,7 @@ Here is the surprising part: those who were promised Jannah did not treat the pr
 <!-- terminology:start source_id="bukhari-3674" -->
 
 - **`Those promised Jannah (al-mubashsharun bil-jannah)`** — the people whom the Prophet, peace and blessings be upon him, named as being among the people of Jannah; the best known of them are the Ten.
-- **`Vouching (at-tazkiyah)`** — declaring someone righteous; it cannot be asserted with certainty about the unseen without a text, and Allah has forbidden vouching for oneself out of pride.
+- **`Vouching (at-tazkiyah)`** — declaring someone righteous; it cannot be asserted with certainty about the unseen without a text, and Allah has forbidden vouching for oneself out of pride.[^11]
 - **`Along with a trial that will befall him ('ala balwa tusibuh)`** — that is, together with a severe test that would come to him; the scholars explained it as the strife in which Uthman, may Allah be pleased with him, was killed unjustly.
 
 <!-- terminology:end -->
@@ -503,7 +503,7 @@ Choose someone who rarely gets praised: a quiet classmate, a younger brother or 
 **Assessment and Closing — 10 minutes:** Exit card: (1) Name five of the Ten. (2) Write one sentence distinguishing bearing witness from hoping. (3) What is the lesson of Uthman's glad tidings? Close with the question: "How can I be one of those who followed them in excellence this week?"
 
 <!-- lesson-plan:differentiation -->
-**Differentiation:** For beginners, cover only the hadith of the well of Aris, the hadith of the Ten, and the ayah of at-Tawbah. Ask advanced learners to compare the narration in al-Bukhari 3674 with the narration of Abu Uthman al-Nahdi from Abu Musa in the same chapter, and to prepare a short profile of one of the Ten from the books of sirah.
+**Differentiation:** For beginners, cover only the hadith of the well of Aris, the hadith of the Ten, and the ayah of at-Tawbah. Ask advanced learners to compare the narration in al-Bukhari 3674 with the narration of Abu Uthman al-Nahdi from Abu Musa in the same book, and to prepare a short profile of one of the Ten from the books of sirah.
 
 <!-- lesson-plan:safeguards -->
 **Teaching Cautions:** Guard against turning the lesson into a polemical ranking of the Companions against the Prophet's family, or into reviling or attacking anyone; the approach taught here is to love them all and speak of them only with good. Do not allow anyone to declare Jannah or the Fire certain for specific people, whether living or deceased. Be mindful of those who have lost a relative: hoping for their loved one is legitimate and encouraged, and this lesson takes nothing away from it.
@@ -633,5 +633,7 @@ Choose someone who rarely gets praised: a quiet classmate, a younger brother or 
 [^7]: Abu Ja'far at-Tahawi, *al-'Aqidah at-Tahawiyyah*, on bearing witness for the ten whom the Messenger of Allah, peace and blessings be upon him, named and gave the glad tidings of Jannah, and on refraining from assigning any specific person among the people of the qiblah to Jannah or the Fire; see also the commentary on it by Ibn Abi al-'Izz al-Hanafi.
 [^8]: Ibn Hajar al-'Asqalani, *Fath al-Bari Sharh Sahih al-Bukhari*, Book of the Virtues of the Companions of the Prophet, peace and blessings be upon him, commentary on hadith 3674 (the meaning of *al-quff*, Sa'id ibn al-Musayyab's interpretation, and the explanation of "the trial" as what befell Uthman, may Allah be pleased with him).
 [^9]: Tafsir Ibn Kathir, Surah at-Tawbah, ayah 100: [quran.ksu.edu.sa/tafseer/katheer/sura9-aya100.html](https://quran.ksu.edu.sa/tafseer/katheer/sura9-aya100.html).
+[^10]: Muhammad Abd al-Rahman al-Mubarakfuri, *Tuhfat al-Ahwadhi bi-Sharh Jami' at-Tirmidhi*, Chapters on Virtues (*Abwab al-Manaqib*), commentary on the hadith of Abu Sa'id al-Khudri, may Allah be pleased with him, "Al-Hasan and al-Husayn are the leaders of the youth of the people of Jannah" (at-Tirmidhi 3768): he explains that it means they are the best of those of the people of Jannah who died young in the path of Allah, not a reference to their own age, or that they are the leaders of the people of Jannah apart from the prophets and the Rightly Guided Caliphs.
+[^11]: The Noble Qur'an, Surah an-Najm, ayah 32: "So do not claim purity for yourselves; He knows best who is mindful of Him": [quran.com/53/32](https://quran.com/53/32). The English rendering is a meaning-based project translation.
 
 <!-- references:end -->

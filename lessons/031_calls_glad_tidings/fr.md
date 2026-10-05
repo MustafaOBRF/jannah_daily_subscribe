@@ -22,7 +22,7 @@ bedtime_dua_id: "lesson.031.dua.wellbeing-and-heirs-of-jannah"
 Au terme de cette leçon, l'apprenant sera capable de :
 
 - réciter dans son intégralité le hadith de Muslim (2837) : « Un crieur proclamera : il vous est donné d'être en bonne santé, et vous ne tomberez plus jamais malades… », en énumérer les quatre bonnes nouvelles — une santé sans maladie, une vie sans mort, une jeunesse sans décrépitude, une félicité sans misère — et citer le verset auquel il est rattaché à la fin (al-A'raf 7:43) ;
-- ordonner trois appels rapportés par les textes : l'appel de la sécurité, « Ô Mes serviteurs, nulle crainte sur vous aujourd'hui, et vous ne serez point affligés » (az-Zukhruf 43:68) ; l'appel de la félicitation, « Et il leur sera proclamé : “Voici la Jannah qui vous a été donnée en héritage pour ce que vous faisiez” » (al-A'raf 7:43) ; puis le contenu de l'appel dans le hadith de Muslim ;
+- distinguer trois appels rapportés par les textes : l'appel de la sécurité, « Ô Mes serviteurs, nulle crainte sur vous aujourd'hui, et vous ne serez point affligés » (az-Zukhruf 43:68), qu'as-Sa'di situe au Jour de la Résurrection ; l'appel de la félicitation, « Et il leur sera proclamé : “Voici la Jannah qui vous a été donnée en héritage pour ce que vous faisiez” » (al-A'raf 7:43) ; et le contenu de l'appel dans le hadith de Muslim ;
 - expliquer le sens de « l'héritage par les œuvres » à la lumière d'Ibn Kathir et d'as-Sa'di : l'œuvre pieuse est la cause par laquelle on obtient la miséricorde d'Allah, les demeures diffèrent selon les œuvres, et l'entrée elle-même est une grâce d'Allah ;
 - distinguer la bonne nouvelle véridique que porte le mot « jamais » dans l'annonce de l'au-delà, de l'exagération des promesses d'ici-bas, qui ne peuvent garantir aucune permanence ;
 - réaliser l'activité « L'enveloppe scellée par la bonne nouvelle » : répartir ce qui pèse sur le cœur — maladie, faiblesse, tristesse, peur de perdre un être cher — dans des enveloppes portant les mots de l'appel, puis accomplir un geste réel de miséricorde envers une personne qui vit aujourd'hui l'une de ces situations ;
@@ -389,7 +389,7 @@ Nous vivons cernés de promesses d'éternité : une beauté qui ne se fane pas,
 
 Joud a seize ans. Elle publie de courtes vidéos sur l'organisation d'une journée de révisions, suivies par quelques milliers d'abonnés. Un jour, elle reçoit un message d'une marque de cosmétiques : « Proposition de partenariat rémunéré. » La somme suffirait presque à payer l'ordinateur dont elle a besoin. Et le texte à dire est déjà rédigé : « Avec cette crème, tu ne vieilliras jamais. Jeune pour toujours ! »
 
-Joud teste la crème pendant une semaine : une bonne crème hydratante, rien de plus. Son amie Rana hausse les épaules : « Tous les influenceurs disent ça. C'est du marketing, c'est tout. Personne ne va le prendre au pied de la lettre. » L'argument paraît convaincant, et Joud est à deux doigts d'accepter.
+Joud teste la crème pendant une semaine : une bonne crème hydratante, rien de plus. Son amie Rana lui dit : « Tous les influenceurs disent ça. C'est du marketing, c'est tout. Personne ne va le prendre au pied de la lettre. » L'argument paraît convaincant, et Joud est à deux doigts d'accepter.
 
 Ce soir-là, comme chaque soir, elle s'assoit pour faire la lecture à sa grand-mère, qui vit avec eux. Les mains de la vieille dame tremblent autour de sa tasse de thé ; elle demande à Joud de lui lire quelques pages du recueil de hadiths, et les yeux de Joud tombent sur ce hadith du Sahih de Muslim : « إِنَّ لَكُمْ أَنْ تَشِبُّوا فَلَا تَهْرَمُوا أَبَدًا » — « Il vous est donné d'être jeunes, et vous ne vieillirez plus jamais. » Sa grand-mère sourit : « Voilà la seule promesse de jeunesse éternelle à laquelle je crois. »
 
@@ -488,13 +488,13 @@ Cette invocation réunit la demande de bonne santé ici-bas, qui est légitime, 
 ### Les Adultes — 60 Minutes
 
 <!-- lesson-plan:outcomes -->
-**Résultats d'apprentissage :** l'apprenant récite le hadith de Muslim 2837 dans sa formulation exacte et en énumère les quatre bonnes nouvelles ; il ordonne les trois appels (az-Zukhruf 43:68, al-A'raf 7:43, hadith de Muslim) ; il explique le sens de l'héritage par les œuvres à la lumière d'Ibn Kathir et d'as-Sa'di ; il formule, pour un malade, une personne âgée ou une personne endeuillée, une parole de consolation sincère qui ne minimise pas sa douleur ; et il accomplit un geste réel de miséricorde.
+**Résultats d'apprentissage :** l'apprenant récite le hadith de Muslim 2837 dans sa formulation exacte et en énumère les quatre bonnes nouvelles ; il distingue les trois appels (az-Zukhruf 43:68, al-A'raf 7:43, hadith de Muslim) ; il explique le sens de l'héritage par les œuvres à la lumière d'Ibn Kathir et d'as-Sa'di ; il formule, pour un malade, une personne âgée ou une personne endeuillée, une parole de consolation sincère qui ne minimise pas sa douleur ; et il accomplit un geste réel de miséricorde.
 
 <!-- lesson-plan:materials -->
 **Matériel :** des copies de la leçon ; un exemplaire du Coran ; un tableau partagé en trois colonnes intitulées « La sécurité », « La félicitation », « Le contenu » ; quatre enveloppes et de petits papiers pour chaque apprenant.
 
 <!-- lesson-plan:preparation -->
-**Préparation :** l'enseignant révise les commentaires d'as-Sa'di et d'Ibn Kathir sur az-Zukhruf (43:68-72) et al-A'raf (7:43), ainsi que le hadith de Muslim 2837 et la version d'at-Tirmidhi 3246 ; il inscrit sur chaque enveloppe l'une des quatre formules de l'appel.
+**Préparation :** l'enseignant révise les commentaires d'as-Sa'di et d'Ibn Kathir sur az-Zukhruf (43:68-73) et al-A'raf (7:43), ainsi que le hadith de Muslim 2837 et la version d'at-Tirmidhi 3246 ; il inscrit sur chaque enveloppe l'une des quatre formules de l'appel.
 
 <!-- lesson-plan:opening -->
 **Ouverture — 5 minutes :** l'enseignant demande : « Quelle est la dernière bonne nouvelle que vous ayez reçue ? Et quel “mais” l'a suivie ? » Il écoute trois réponses, puis lit le hadith de Muslim sans le commenter.

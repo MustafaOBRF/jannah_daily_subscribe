@@ -33,7 +33,7 @@ Al terminar esta lección, el estudiante será capaz de:
 
 <!-- unit:start id="adults.explanation" kind="explanation" -->
 
-Muchas personas se preguntan: ¿qué es lo mínimo que necesito para ser de la gente de la Jannah? La respuesta profética a esta pregunta no es una lista larga y complicada, sino unos pocos fundamentos claros: la unicidad de Allah, establecer la oración, pagar el zakat y ayunar Ramadán. Estas obras son **causas que Allah dispuso para la entrada a la Jannah**, no porque sean un precio equivalente a ella, sino porque son el camino del monoteísmo y la obediencia por el cual Allah guía a Su siervo, acepta sus obras y lo hace entrar, por Su misericordia, en la morada donde lo honra.
+Muchas personas se preguntan: ¿qué es lo mínimo que necesito para ser de la gente de la Jannah? La respuesta profética a esta pregunta no es una lista larga y complicada, sino unos pocos fundamentos claros: la unicidad de Allah, establecer la oración, pagar el zakat y ayunar Ramadán. Estas obras son **causas que Allah dispuso para la entrada a la Jannah**, no porque sean un precio equivalente a ella, sino porque son el camino del tawhid y la obediencia por el cual Allah guía a Su siervo, acepta sus obras y lo hace entrar, por Su misericordia, en la morada donde lo honra.
 
 El siguiente hadiz enseña una lección importante sobre la **sinceridad consigo mismo**: el hombre que preguntó al Profeta, la paz y las bendiciones de Allah sean con él, no prometió más de lo que podía cumplir, sino que juró que no añadiría nada a lo que se le había ordenado. Y aun así, el Profeta, la paz y las bendiciones de Allah sean con él, atestiguó que sería de la gente de la Jannah. Lo que se pide primero es cumplir los fundamentos con sinceridad y constancia, no aparentar un entusiasmo que no se mantiene ni perdura.
 
@@ -66,7 +66,7 @@ La aleya une la entrada a la Jannah a dos condiciones inseparables: la buena obr
 
 #### Explicación de la Lección
 
-La aleya es general para toda buena obra, y el hadiz siguiente precisa los fundamentos de esa buena obra sin los cuales la fe y la obediencia del siervo no se sostienen: el monoteísmo, la oración, el zakat y el ayuno. Quien quiera quedar incluido en lo que abarca esta aleya debe comenzar por estos fundamentos.
+La aleya es general para toda buena obra, y el hadiz siguiente precisa los fundamentos de esa buena obra sin los cuales la fe y la obediencia del siervo no se sostienen: el tawhid, la oración, el zakat y el ayuno. Quien quiera quedar incluido en lo que abarca esta aleya debe comenzar por estos fundamentos.
 
 <!-- evidence:end -->
 
@@ -82,11 +82,11 @@ La aleya es general para toda buena obra, y el hadiz siguiente precisa los funda
 
 #### Explicación Académica
 
-Un beduino llegó con una pregunta directa, y el Profeta, la paz y las bendiciones de Allah sean con él, le respondió con cuatro fundamentos, y ninguno más en este hadiz: el monoteísmo, la oración prescrita, el zakat obligatorio y el ayuno de Ramadán. El hombre juró que no añadiría nada más allá de esta medida, es decir, que se comprometería solo con lo que Allah le había impuesto, sin cargarse con obras voluntarias que no se le habían pedido. Y el Profeta, la paz y las bendiciones de Allah sean con él, atestiguó que sería de la gente de la Jannah y lo puso como ejemplo en el que fijarse.[^4]
+Un beduino llegó con una pregunta directa, y el Profeta, la paz y las bendiciones de Allah sean con él, le respondió con cuatro fundamentos, y ninguno más en este hadiz: el tawhid, la oración prescrita, el zakat obligatorio y el ayuno de Ramadán. El hombre juró que no añadiría nada más allá de esta medida, es decir, que se comprometería solo con lo que Allah le había impuesto, sin cargarse con obras voluntarias que no se le habían pedido. Y el Profeta, la paz y las bendiciones de Allah sean con él, atestiguó que sería de la gente de la Jannah y lo puso como ejemplo en el que fijarse.[^4]
 
 #### Explicación de la Lección
 
-El Profeta, la paz y las bendiciones de Allah sean con él, no le exigió al hombre obras voluntarias adicionales para garantizarle la Jannah, sino que confirmó que cumplir las cuatro obligaciones con sinceridad basta como causa para entrar en ella. Y fue la sinceridad del hombre al medir su propia capacidad, sin prometer lo que no podría cumplir, lo que lo hizo merecedor del elogio profético; la sinceridad consigo mismo y con Allah es parte de merecer esta buena nueva, no un simple cumplimiento formal.
+El Profeta, la paz y las bendiciones de Allah sean con él, no le exigió al hombre obras voluntarias adicionales para garantizarle la Jannah, sino que confirmó que cumplir las cuatro obligaciones con sinceridad basta como causa para entrar en ella. Esto no significa que queden sin efecto las demás obligaciones, como la peregrinación (hajj) para quien tenga los medios de realizarla, y el abstenerse de lo prohibido; el Profeta, la paz y las bendiciones de Allah sean con él, mencionó en especial estos fundamentos según la situación de quien le preguntaba.[^4] Y fue la sinceridad del hombre al medir su propia capacidad, sin prometer lo que no podría cumplir, lo que lo hizo merecedor del elogio profético; la sinceridad consigo mismo y con Allah es parte de merecer esta buena nueva, no un simple cumplimiento formal.
 
 <!-- evidence:end -->
 
@@ -110,7 +110,7 @@ El Profeta, la paz y las bendiciones de Allah sean con él, no le exigió al hom
 
 <!-- activity:start audience="adults" concept_id="lesson.013.activity.deed-checklist-oath" -->
 
-Elabora una tarjeta de cuatro filas, una por cada fundamento mencionado en el hadiz: el monoteísmo, la oración, el zakat y el ayuno. Escribe con sinceridad, junto a cada fundamento, cómo estás realmente hoy en él, y luego una acción concreta y observable que te comprometas a realizar esta semana para consolidar ese fundamento o corregirlo. Termina la tarjeta con una frase al estilo del juramento del hombre, expresando tu intención sincera, sin prometer más de lo que puedes sostener: «Le pido a Allah que me ayude a…; no prometo más de lo que puedo, y Le pido que acepte mis obras y me conceda la Jannah».
+Elabora una tarjeta de cuatro filas, una por cada fundamento mencionado en el hadiz: el tawhid, la oración, el zakat y el ayuno. Escribe con sinceridad, junto a cada fundamento, cómo estás realmente hoy en él, y luego una acción concreta y observable que te comprometas a realizar esta semana para consolidar ese fundamento o corregirlo. Termina la tarjeta con una frase al estilo del juramento del hombre, expresando tu intención sincera, sin prometer más de lo que puedes sostener: «Le pido a Allah que me ayude a…; no prometo más de lo que puedo, y Le pido que acepte mis obras y me conceda la Jannah».
 
 <!-- activity:end -->
 
@@ -124,7 +124,7 @@ Elabora una tarjeta de cuatro filas, una por cada fundamento mencionado en el ha
 
 ## Para Niños de 4 a 7 Años
 
-El Profeta, la paz y las bendiciones de Allah sean con él, nos enseñó cosas claras que nos hacen desear entrar en la Jannah: adorar solo a Allah, rezar, dar el zakat y ayunar Ramadán. Un hombre del desierto le hizo al Profeta, la paz y las bendiciones de Allah sean con él, una pregunta clara. El Profeta le respondió con estas cuatro cosas, y el hombre prometió hacerlas con sinceridad. Aprendemos de él a **hacer lo que Allah ama con sinceridad, y no prometer algo que no podemos cumplir**.
+El Profeta, la paz y las bendiciones de Allah sean con él, nos enseñó cosas claras que nos acercan a la Jannah: adorar solo a Allah, rezar, dar el zakat y ayunar Ramadán. Un hombre del desierto le hizo al Profeta, la paz y las bendiciones de Allah sean con él, una pregunta clara. El Profeta le respondió con estas cuatro cosas, y el hombre prometió hacerlas con sinceridad. Aprendemos de él a **hacer lo que Allah ama con sinceridad, y no prometer algo que no podemos cumplir**.
 
 <!-- unit:end -->
 
@@ -136,7 +136,7 @@ El Profeta, la paz y las bendiciones de Allah sean con él, nos enseñó cosas c
 
 <!-- retelling:start source_id="bukhari-1397" audience="4-7" -->
 
-Un hombre del desierto vino al Profeta, la paz y las bendiciones de Allah sean con él, y le dijo: «Indícame una obra que, si la hago, me haga entrar en la Jannah». El Profeta, la paz y las bendiciones de Allah sean con él, le dijo: adora solo a Allah, haz la oración, da el zakat y ayuna Ramadán. El hombre dijo: «¡Por Allah, no añadiré nada más!» Y cuando el hombre se fue, el Profeta, la paz y las bendiciones de Allah sean con él, les dijo a sus compañeros: quien quiera ver a un hombre de la gente de la Jannah, que mire a este hombre.[^3]
+Un hombre del desierto vino al Profeta, la paz y las bendiciones de Allah sean con él, y le dijo: «Indícame una obra que, si la hago, me haga entrar en la Jannah». El Profeta, la paz y las bendiciones de Allah sean con él, le dijo: adora solo a Allah, haz la oración, da el zakat y ayuna Ramadán. El hombre juró por Allah que no añadiría nada más. Y cuando el hombre se fue, el Profeta, la paz y las bendiciones de Allah sean con él, les dijo a sus Compañeros: quien quiera ver a un hombre de la gente de la Jannah, que mire a este hombre.[^3]
 
 Aprendemos que el hombre fue sincero consigo mismo: dijo solo lo que podía hacer, y no prometió más. Y prometió con sinceridad hacer estas cuatro cosas, y por eso el Profeta, la paz y las bendiciones de Allah sean con él, nos dijo que sería de la gente de la Jannah.
 
@@ -162,7 +162,7 @@ Aprendemos que el hombre fue sincero consigo mismo: dijo solo lo que podía hace
 
 <!-- activity:start audience="4-7" concept_id="lesson.013.activity.deed-checklist-oath" -->
 
-El adulto dibuja cuatro círculos sencillos frente al niño: un corazón (para el monoteísmo), una alfombra de oración (para la oración), un regalo (para el zakat) y un plato de comida (para el ayuno cuando crezca). El niño colorea el círculo de lo que ya puede hacer ahora, como rezar junto a su familia, y dice una frase sencilla: «Rezaré con sinceridad, y no prometo más de lo que puedo hacer».
+El adulto dibuja cuatro círculos sencillos frente al niño: un corazón (para la unicidad de Allah), una alfombra de oración (para la oración), un regalo (para el zakat) y un plato de comida (para el ayuno cuando crezca). El niño colorea el círculo de lo que ya puede hacer ahora, como rezar junto a su familia, y dice una frase sencilla: «Rezaré con sinceridad, y no prometo más de lo que puedo hacer».
 
 <!-- activity:end -->
 
@@ -191,7 +191,7 @@ El adulto dibuja cuatro círculos sencillos frente al niño: un corazón (para e
 
 ## Para Niños de 8 a 12 Años
 
-Algunas personas piensan que para entrar en la Jannah hace falta una adoración extra y complicada, y otras piensan que los cuatro fundamentos que Allah ordenó —el monoteísmo, la oración, el zakat y el ayuno— son algo simple que se puede retrasar. Ambas ideas son inexactas. Estos fundamentos son la base de la salvación, y lo que se pide primero es la sinceridad al cumplirlos, antes de añadir cualquier obra voluntaria.
+Algunas personas piensan que para entrar en la Jannah hace falta una adoración extra y complicada, y otras piensan que los cuatro fundamentos que Allah ordenó —la unicidad de Allah (tawhid), la oración, el zakat y el ayuno— son algo simple que se puede retrasar. Ambas ideas son inexactas. Estos fundamentos son la base de la salvación, y lo que se pide primero es la sinceridad al cumplirlos, antes de añadir cualquier obra voluntaria.
 
 Imagina a un estudiante que le prometió a su maestro terminar exactamente una tarea que podía hacer, y la terminó con honestidad y a tiempo, en vez de prometer cinco tareas de las que no terminaría ninguna. La sinceridad en una promesa limitada vale más que una gran promesa que nunca se cumple.
 
@@ -205,9 +205,9 @@ Imagina a un estudiante que le prometió a su maestro terminar exactamente una t
 
 <!-- retelling:start source_id="bukhari-1397" audience="8-12" -->
 
-Un beduino —es decir, un hombre que vivía en el desierto— vino al Profeta, la paz y las bendiciones de Allah sean con él, con una pregunta concreta: «Indícame una obra que, si la hago, me haga entrar en la Jannah». El Profeta, la paz y las bendiciones de Allah sean con él, no le pidió una larga lista, sino que dijo: adoras a Allah sin asociarle nada, estableces la oración prescrita, pagas el zakat obligatorio y ayunas Ramadán. El hombre dijo con confianza y sinceridad: «Por Aquel en cuya mano está mi alma, no añadiré nada a esto». Y cuando el hombre se marchó, el Profeta, la paz y las bendiciones de Allah sean con él, dijo a sus compañeros: «A quien le agrade mirar a un hombre de la gente de la Jannah, que mire a este».[^3]
+Un beduino —es decir, un hombre que vivía en el desierto— vino al Profeta, la paz y las bendiciones de Allah sean con él, con una pregunta concreta: «Indícame una obra que, si la hago, me haga entrar en la Jannah». El Profeta, la paz y las bendiciones de Allah sean con él, no le pidió una larga lista, sino que dijo: adoras a Allah sin asociarle nada, estableces la oración prescrita, pagas el zakat obligatorio y ayunas Ramadán. El hombre dijo con confianza y sinceridad: «Por Aquel en cuya mano está mi alma, no añadiré nada a esto». Y cuando el hombre se marchó, el Profeta, la paz y las bendiciones de Allah sean con él, dijo a sus Compañeros: «A quien le agrade mirar a un hombre de la gente de la Jannah, que mire a este».[^3]
 
-Las palabras del hombre, «no añadiré nada a esto», no eran pereza; eran una medida sincera de lo que podía cumplir de manera constante, en vez de prometer muchas obras voluntarias y luego abandonarlas. Y el Profeta, la paz y las bendiciones de Allah sean con él, le atestiguó la Jannah porque cumpliría estos cuatro fundamentos con sinceridad y constancia.
+Las palabras del hombre, «no añadiré nada a esto», no eran pereza; eran una medida sincera de lo que podía cumplir de manera constante, en vez de prometer muchas obras voluntarias y luego abandonarlas. Y el Profeta, la paz y las bendiciones de Allah sean con él, le atestiguó la Jannah, es decir, que si era sincero en su compromiso con estos cuatro fundamentos y perseveraba en ellos, sería de su gente.
 
 <!-- retelling:end -->
 
@@ -219,7 +219,7 @@ Las palabras del hombre, «no añadiré nada a esto», no eran pereza; eran una 
 
 <!-- terminology:start source_id="bukhari-1397" -->
 
-- **`Beduino` (أَعْرَابِيّ)** — un hombre que vivía en el desierto, lejos de la ciudad, y que quizá apenas empezaba a aprender los detalles de la Ley islámica.
+- **`Beduino` (أَعْرَابِيّ)** — un hombre que vivía en el desierto, lejos de Medina, y que quizá apenas empezaba a aprender los detalles de la Ley islámica.
 - **`El zakat obligatorio` (الزَّكَاةَ الْمَفْرُوضَةَ)** — la cantidad obligatoria de dinero que se entrega a los pobres y a quienes Allah mencionó, no la limosna voluntaria adicional.
 - **`A quien le agrade` (مَنْ سَرَّهُ)** — quien quiera alegrarse y tranquilizarse viendo un ejemplo real.
 
@@ -244,7 +244,7 @@ Las palabras del hombre, «no añadiré nada a esto», no eran pereza; eran una 
 
 <!-- activity:start audience="8-12" concept_id="lesson.013.activity.deed-checklist-oath" -->
 
-Elabora una tarjeta con cuatro casillas: el monoteísmo, la oración, el zakat (o ayudar a los necesitados si aún no te corresponde pagar zakat) y el ayuno. Escribe en cada casilla una acción concreta que puedas hacer esta semana con sinceridad, sin sobrepasar tu capacidad, y luego escribe al pie de la tarjeta una frase personal de compromiso al estilo de las palabras del hombre: «Esto es lo que puedo hacer con sinceridad, y le pido a Allah que lo acepte y me mantenga firme en ello». Revisa la tarjeta al final de la semana para comprobar la sinceridad de tu compromiso.
+Elabora una tarjeta con cuatro casillas: el tawhid, la oración, el zakat (o ayudar a los necesitados si aún no te corresponde pagar zakat) y el ayuno. Escribe en cada casilla una acción concreta que puedas hacer esta semana con sinceridad, sin sobrepasar tu capacidad, y luego escribe al pie de la tarjeta una frase personal de compromiso al estilo de las palabras del hombre: «Esto es lo que puedo hacer con sinceridad, y le pido a Allah que lo acepte y me mantenga firme en ello». Revisa la tarjeta al final de la semana para comprobar la sinceridad de tu compromiso.
 
 <!-- activity:end -->
 
@@ -273,9 +273,9 @@ Elabora una tarjeta con cuatro casillas: el monoteísmo, la oración, el zakat (
 
 ## Para Adolescentes 13+
 
-En una etapa de la vida en la que abundan tanto los llamados al rigor religioso extremo como los llamados a la laxitud total, este hadiz ofrece un criterio realista: fundamentos limitados, cumplimiento sincero, y una promesa que no sobrepasa la capacidad real. Esto no significa que las obras voluntarias carezcan de valor; son el camino hacia el amor de Allah y el aumento de grado, y el Profeta, la paz y las bendiciones de Allah sean con él, aclaró en otro hadiz que Allah ama que Su siervo se acerque a Él con obras voluntarias después de las obligatorias.[^5] Pero no son condición para lo esencial de merecer la Jannah, tal como el Profeta se lo enseñó a este hombre.
+En una etapa de la vida en la que abundan tanto los llamados al rigor religioso extremo como los llamados a la laxitud total, este hadiz ofrece un criterio realista: fundamentos limitados, cumplimiento sincero, y una promesa que no sobrepasa la capacidad real. Esto no significa que las obras voluntarias carezcan de valor; son el camino hacia el amor de Allah y el aumento de grado, y el Profeta, la paz y las bendiciones de Allah sean con él, transmitió de su Señor, Poderoso y Majestuoso, que dijo: «Mi siervo no se acerca a Mí con nada que Yo ame más que lo que le he impuesto como obligación, y Mi siervo no deja de acercarse a Mí con obras voluntarias hasta que Yo lo amo».[^5] Así, las obligaciones son lo más amado con lo que el siervo se acerca a su Señor, y la constancia en las obras voluntarias después de ellas es un camino hacia el amor de Allah. Pero las obras voluntarias no son condición para lo esencial de merecer la Jannah, tal como el Profeta se lo enseñó a este hombre.
 
-Este equilibrio resuelve dos problemas contemporáneos: el primero es **la actuación religiosa exagerada frente a los demás**, cuando una persona asume muchos compromisos ante la gente y luego los abandona en silencio, convirtiendo su promesa en actuación, no en sinceridad. El segundo es **la sensación permanente de insuficiencia**, cuando alguien piensa que no merecerá la Jannah sin un esfuerzo excepcional, olvidando que los cuatro fundamentos bien cumplidos bastan como causa, y que ir más allá de ellos es un mérito añadido, no una condición.
+Este equilibrio resuelve dos problemas contemporáneos: el primero es **la actuación religiosa exagerada frente a los demás**, cuando una persona asume muchos compromisos ante la gente y luego los abandona en silencio, convirtiendo su promesa en actuación, no en sinceridad. El segundo es **la sensación permanente de insuficiencia**, cuando alguien piensa que no merecerá la Jannah sin un esfuerzo excepcional, olvidando que los cuatro fundamentos bien cumplidos bastan como causa, y que añadir obras voluntarias más allá de ellos es un mérito añadido, no una condición.
 
 <!-- unit:end -->
 
@@ -287,7 +287,7 @@ Este equilibrio resuelve dos problemas contemporáneos: el primero es **la actua
 
 <!-- retelling:start source_id="bukhari-1397" audience="13+" -->
 
-Narra Abu Huraira, que Allah esté complacido con él, que un beduino vino al Profeta, la paz y las bendiciones de Allah sean con él, con una pregunta directa: «Indícame una obra que, si la hago, me haga entrar en la Jannah». El Profeta, la paz y las bendiciones de Allah sean con él, no se extendió en detalles, sino que precisó cuatro fundamentos: el monoteísmo puro, la oración prescrita, el zakat obligatorio y el ayuno de Ramadán. El hombre juró: «Por Aquel en cuya mano está mi alma, no añadiré nada a esto», es decir, que se comprometería con sinceridad a esta medida exacta, y no prometería más por temor a no poder cumplirlo. Y cuando se marchó, el Profeta, la paz y las bendiciones de Allah sean con él, dijo: «A quien le agrade mirar a un hombre de la gente de la Jannah, que mire a este».[^3]
+Narra Abu Huraira, que Allah esté complacido con él, que un beduino vino al Profeta, la paz y las bendiciones de Allah sean con él, con una pregunta directa: «Indícame una obra que, si la hago, me haga entrar en la Jannah». El Profeta, la paz y las bendiciones de Allah sean con él, no se extendió en detalles, sino que precisó cuatro fundamentos: el tawhid puro, la oración prescrita, el zakat obligatorio y el ayuno de Ramadán. El hombre juró: «Por Aquel en cuya mano está mi alma, no añadiré nada a esto», es decir, que se comprometería con sinceridad a esta medida exacta, y no prometería más por temor a no poder cumplirlo. Y cuando se marchó, el Profeta, la paz y las bendiciones de Allah sean con él, dijo: «A quien le agrade mirar a un hombre de la gente de la Jannah, que mire a este».[^3]
 
 Este testimonio profético no se fundó en la abundancia de promesas, sino en la sinceridad de un compromiso limitado y realista. Esto contradice una imagen extendida que asocia la piedad con la exageración en los compromisos visibles. El hombre no dijo: «Aumentaré la oración nocturna, daré limosna cada día, y ayunaré todos los meses»; más bien definió lo que sabía que podía sostener de manera constante, y esa fue la sinceridad que el Profeta, la paz y las bendiciones de Allah sean con él, elogió.
 
@@ -327,7 +327,7 @@ Este testimonio profético no se fundó en la abundancia de promesas, sino en la
 
 <!-- activity:start audience="13+" concept_id="lesson.013.activity.deed-checklist-oath" -->
 
-Escribe una tarjeta con cuatro fundamentos: el monoteísmo, la oración, el zakat (o la limosna voluntaria si aún no te corresponde pagar zakat) y el ayuno. Frente a cada fundamento, evalúa tu situación con sinceridad en una de tres categorías: **firme**, **inestable** o **deficiente**. Para cada fundamento que no sea firme, escribe una acción concreta y realista que puedas sostener durante dos semanas, no solo una gran promesa difícil de mantener. Termina la tarjeta con una frase personal de compromiso al estilo del juramento del hombre, comprometiéndote solo con lo que puedes hacer con sinceridad, y revisa la tarjeta después de dos semanas para medir tu constancia.
+Escribe una tarjeta con cuatro fundamentos: el tawhid, la oración, el zakat (o la limosna voluntaria si aún no te corresponde pagar zakat) y el ayuno. Frente a cada fundamento, evalúa tu situación con sinceridad en una de tres categorías: **firme**, **inestable** o **deficiente**. Para cada fundamento que no sea firme, escribe una acción concreta y realista que puedas sostener durante dos semanas, no solo una gran promesa difícil de mantener. Termina la tarjeta con una frase personal de compromiso al estilo del juramento del hombre, comprometiéndote solo con lo que puedes hacer con sinceridad, y revisa la tarjeta después de dos semanas para medir tu constancia.
 
 <!-- activity:end -->
 
@@ -444,7 +444,7 @@ Escribe una tarjeta con cuatro fundamentos: el monoteísmo, la oración, el zaka
 **Estudio de la prueba — 10 minutos:** los estudiantes leen el hadiz de Bujari 1397 completo, subrayan los cuatro fundamentos y encierran en un círculo el juramento del hombre y el testimonio del Profeta, la paz y las bendiciones de Allah sean con él.
 
 <!-- lesson-plan:instruction -->
-**Enseñanza guiada — 10 minutos:** el maestro explica los tres términos, y luego construye con la clase la frase: «Los cuatro fundamentos cumplidos con sinceridad bastan como causa para la Jannah, y lo que se añade es un mérito, no una condición».
+**Enseñanza guiada — 10 minutos:** el maestro explica los tres términos, y luego construye con la clase la frase: «Los cuatro fundamentos cumplidos con sinceridad bastan como causa para la Jannah, y lo que se añade de obras voluntarias es un mérito, no una condición».
 
 <!-- lesson-plan:activity -->
 **Actividad — 14 minutos:** los estudiantes diseñan la tarjeta de los cuatro fundamentos, y cada uno escribe una acción realista para cada fundamento que no tenga firme, y luego comparte una versión general con su compañero sin detalles sensibles.
@@ -486,7 +486,7 @@ Escribe una tarjeta con cuatro fundamentos: el monoteísmo, la oración, el zaka
 **Actividad — 15 minutos:** los estudiantes realizan la tarjeta «el compromiso de los cuatro fundamentos», evaluando su situación con sinceridad en cada fundamento y escribiendo una acción realista para dos semanas. La participación detallada es opcional.
 
 <!-- lesson-plan:assessment -->
-**Evaluación y cierre — 10 minutos:** el estudiante escribe una respuesta de cuatro líneas: cuáles son los cuatro fundamentos, qué significa la sinceridad del hombre, y qué acción sincera se compromete a cumplir. El maestro lee el du'a al cierre.
+**Evaluación y cierre — 10 minutos:** el estudiante escribe una respuesta de cuatro líneas: cuáles son los cuatro fundamentos, qué significa la sinceridad del hombre, cuál es la diferencia entre la obligación y la obra voluntaria, y qué acción sincera se compromete a cumplir. El maestro lee el du'a al cierre.
 
 <!-- lesson-plan:differentiation -->
 **Atención a las diferencias:** al que tiene dificultad se le da un esquema parcialmente completado, y al avanzado se le encarga discutir cómo el musulmán equilibra su aspiración a las obras voluntarias con la realidad de cumplir primero las obligaciones.
@@ -501,7 +501,7 @@ Escribe una tarjeta con cuatro fundamentos: el monoteísmo, la oración, el zaka
 ## Referencias
 
 [^1]: El Sagrado Corán, sura An-Nisa, aleya 124: [Texto coránico](https://quran.com/4/124).
-[^2]: Abd al-Rahman ibn Nasir al-Sa'di, *Taysir al-Karim al-Rahman*, comentario a la sura An-Nisa, aleya 124, sobre que Allah no le quita al que obra ni la hendidura del hueso del dátil (naqir): [El Corán electrónico de la Universidad Rey Saud](https://quran.ksu.edu.sa/tafseer/saadi/sura4-aya124.html).
+[^2]: Abd al-Rahman ibn Nasir al-Sa'di, *Taysir al-Karim al-Rahman*, comentario a la sura An-Nisa, aleya 124, sobre que la fe es condición para que las buenas obras sean aceptadas, y que al que obra no se le quita nada de su obra, ni poco ni mucho: [El Corán electrónico de la Universidad Rey Saud](https://quran.ksu.edu.sa/tafseer/saadi/sura4-aya124.html); e Ismail ibn Umar Ibn Kathir, *Tafsir al-Qur'an al-'Azim*, comentario a la misma aleya, donde explica el *naqir* como «la hendidura que hay en el dorso del hueso del dátil»: [Quran.com](https://quran.com/4:124/tafsirs/ar-tafsir-ibn-kathir).
 [^3]: Sahih al-Bujari, libro del zakat, hadiz 1397, narrado por Abu Huraira, que Allah esté complacido con él, y también recogido por Muslim en su Sahih, hadiz 14; es un hadiz auténtico en el que coinciden ambos (muttafaq 'alayh): [Sunnah.com, narración 1397](https://sunnah.com/bukhari:1397).
 [^4]: La Enciclopedia del Hadiz (Fundación Al-Durar al-Saniyya), explicación del hadiz del beduino que preguntó por una obra que lo hiciera entrar en la Jannah: [dorar.net](https://dorar.net/hadith/sharh/4303).
 [^5]: Sahih al-Bujari, libro de las sutilezas del corazón (Ar-Riqaq), hadiz 6502, narrado por Abu Huraira, que Allah esté complacido con él, en el hadiz de los amigos íntimos de Allah y Su amor por acercarse a Él mediante obras voluntarias después de las obligatorias; es un hadiz auténtico: [Sunnah.com, narración 6502](https://sunnah.com/bukhari:6502).

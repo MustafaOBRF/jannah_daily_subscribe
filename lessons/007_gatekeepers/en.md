@@ -6,7 +6,7 @@ translation_key: "jannah.gatekeepers"
 lang: "en"
 status: "translation_draft"
 authoring_standard: "full_text_depth_v2"
-story_policy: "authenticated_primary_v2"
+story_policy: "rotating_primary_with_authenticated_account_v2"
 primary_story_type: "hadith"
 primary_story_source_id: "muslim-197"
 primary_story_authenticated: "true"
@@ -55,7 +55,7 @@ This lesson does not aim to draw an imagined picture of these angels or fill the
 
 #### Scholarly Tafsir
 
-Commentators note that `zumaran` ("in groups") means successive companies, an honor for the God-conscious in their arrival, unlike the driving of the people of the Fire, which uses the same word `zumar` but in a context of humiliation. They explain that the keepers' word `tibtum` ("you have been pure") is a fitting greeting for a home Allah has purified of every impurity, pointing to the purity of its people's hearts and deeds in this world, and that `khalidin` ("to remain forever") is explicit glad tidings that every fear of ending or separation is over.[^2]
+Ibn Kathir explains `zumaran` ("in groups") as "company after company," each group with those who resemble it, and says the angel keepers meet them with glad tidings, greetings of peace, and praise, "not as the guardians of Hell meet the disbelievers, with reproach and rebuke." He explains `tibtum` ("you have been pure") as "your deeds and words have been good, your striving has been good, so your reward is good," and `khalidin` ("to remain forever") as "remaining in it forever, never wishing to leave it."[^2] Al-Sa'di adds that they are driven to Paradise "with honor and dignity," that `salamun 'alaykum` means safety from every harm and evil, and that `tibtum` means "your hearts have become good through knowing Allah, loving Him, and fearing Him, your tongues through remembering Him, and your limbs through obeying Him." Because of that goodness they are told to enter it forever, "for it is the good home, and only the good befit it."[^10]
 
 #### Lesson Explanation
 
@@ -91,7 +91,7 @@ This hadith answers a practical question that might come to mind: how does the k
 
 <!-- evidence:translation -->
 
-> On the authority of Abu Hurayrah, may Allah be pleased with him, from the Prophet, peace and blessings be upon him, who said: **"Whoever spends a pair of something in the way of Allah will be called from the gates of Jannah: 'O servant of Allah, this is good.' So whoever is among the people of prayer is called from the gate of prayer, whoever is among the people of striving is called from the gate of striving, whoever is among the people of fasting is called from the gate of ar-Rayyan, and whoever is among the people of charity is called from the gate of charity."** Abu Bakr, may Allah be pleased with him, said: "May my father and mother be ransomed for you, O Messenger of Allah! Whoever is called from one of those gates has no further need — but can anyone be called from all of those gates together?" He said: **"Yes, and I hope that you will be among them."**[^4]
+> On the authority of Abu Hurayrah, may Allah be pleased with him, from the Prophet, peace and blessings be upon him, who said: **"Whoever spends a pair of anything in the way of Allah will be called from the gates of Jannah: 'O servant of Allah, this is good.' So whoever is among the people of prayer is called from the gate of prayer, whoever is among the people of striving is called from the gate of striving, whoever is among the people of fasting is called from the gate of ar-Rayyan, and whoever is among the people of charity is called from the gate of charity."** Abu Bakr, may Allah be pleased with him, said: "May my father and mother be ransomed for you, O Messenger of Allah! No distress or loss befalls whoever is called from one of those gates — but can anyone be called from all of those gates together?" He said: **"Yes, and I hope that you will be among them."**[^4]
 
 #### Scholarly Explanation
 
@@ -115,7 +115,7 @@ This hadith completes the previous hadith of the request to enter: just as the k
 
 #### Scholarly Tafsir
 
-Commentators explain that this scene describes an added honor beyond simply entering Jannah: the angels visit its people from every gate to congratulate them, tying this honor explicitly to the patience they practiced in the world — in obedience, in avoiding sin, and in facing decreed hardship.
+Commentators explain that this scene describes an added honor beyond simply entering Jannah: the angels visit its people from every gate to congratulate them, tying this honor explicitly to the patience they practiced in the world — in obedience, in avoiding sin, and in facing decreed hardship.[^11]
 
 #### Lesson Explanation
 
@@ -135,7 +135,7 @@ This ayah widens the scene of the keepers at the entrance into a fuller scene: a
 
 #### Scholarly Tafsir
 
-This ayah was revealed about the angels of the Fire and their severity in carrying out Allah's command, but scholars cite its general wording to establish a trait common to all angels, not specific to the angels of the Fire alone: complete obedience, with disobedience being simply impossible for them.
+This ayah was revealed about the angels of the Fire and their severity in carrying out Allah's command, but scholars cite its general wording to establish a trait common to all angels, not specific to the angels of the Fire alone: complete obedience, with disobedience being simply impossible for them. This general trait is supported by Allah's words describing the angels, whom He calls honored servants: `لَا يَسْبِقُونَهُ بِالْقَوْلِ وَهُمْ بِأَمْرِهِ يَعْمَلُونَ` ("They do not precede Him in speech, and they act by His command") (al-Anbiya' 21:27).[^12]
 
 #### Lesson Explanation
 
@@ -155,7 +155,7 @@ This general trait explains the conduct of the keeper of Jannah in the hadith of
 
 #### Scholarly Tafsir
 
-Here the Qur'an names the keeper of the Fire explicitly by his name, `Malik`. This is a decisive text on the name, needing no research or weighing of evidence — unlike what will be explained about the popular name of the keeper of Jannah.
+Here the Qur'an names the keeper of the Fire explicitly by his name, `Malik`. This is a decisive text on the name, needing no research or weighing of evidence — unlike what will be explained about the popular name of the keeper of Jannah. This is why Ibn Kathir says of `ya Malik` ("O Malik"): "He is the keeper of the Fire."[^13]
 
 #### Lesson Explanation
 
@@ -165,7 +165,7 @@ This contrast is deliberate for anyone who reflects on it: when the Qur'an wante
 
 ### Scholarly Note: Is It Established That the Keeper of Jannah Is Named Ridwan?
 
-It is widely said that the chief keeper of Jannah is named `Ridwan`, so much so that many assume it is established the way the name `Malik` is established for the keeper of the Fire. But the reports regarding this name do not include any authentic hadith with an unbroken chain to the Prophet, peace and blessings be upon him; some have a weak chain, and some are objectionable (munkar). Ibn al-Qayyim, may Allah have mercy on him, and the hadith scholar Abu Nu'aym al-Asbahani, may Allah have mercy on him, gathered what has been reported on this subject in their respective books devoted to describing Jannah, and their collections help a researcher trace the chains through which the report came — but a report's mere presence in a book describing Jannah is not by itself enough to judge it established; the authenticity of each report is examined on its own chain. That is why Ibn al-Qayyim himself gives the name `Ridwan` for the chief keeper, while the editor of his book notes that nothing on this subject is authentic.[^8][^9]
+It is widely said that the chief keeper of Jannah is named `Ridwan`, so much so that many assume it is established the way the name `Malik` is established for the keeper of the Fire. But the reports regarding this name do not include any authentic hadith with an unbroken chain to the Prophet, peace and blessings be upon him; some have a weak chain, and some are objectionable (munkar). Ibn al-Qayyim, may Allah have mercy on him, and the hadith scholar Abu Nu'aym al-Asbahani, may Allah have mercy on him, each devoted a chapter to the keepers of Jannah in their books describing Jannah. In it they cited the authentic hadith of asking for the gate to be opened and the hadith of the keepers of Jannah calling the one who spends a pair in the way of Allah; Abu Nu'aym's chapter contains no report naming the chief keeper.[^9] Ibn al-Qayyim, however, states that the chief keeper's name is `Ridwan`, and the editor of his book traced the reports about this name, showing that some are very weak and some objectionable (munkar), and concluded: "Nothing on this subject is authentic."[^8] So a name's appearance in a book describing Jannah is not by itself enough to judge it established, because the authenticity of each report is examined on its own chain.
 
 This caution is not a diminishing of a beautiful meaning the heart loves; it is proper conduct toward the unseen: we affirm with certainty what Allah and His Messenger have told us, and we do not assert with certainty what is not established, however widely it is repeated. The educational fruit is that the believer does not busy himself with an unproven name, but busies himself with the more useful question: am I preparing to hear that greeting of peace myself?
 
@@ -396,7 +396,7 @@ In other words: when the keeper of Jannah gave the Prophet, peace and blessings 
 
 - **`أَسْتَفْتِحُ`** ("I ask that it be opened") — I ask for the gate to be opened; it is a request for permission, not an act done on one's own authority.
 - **`بِكَ أُمِرْتُ`** ("I was commanded regarding you") — a phrase stating that the action rests on a prior command from Allah, not on the keeper's personal judgment or assessment.
-- **`الاسْتِثْنَاءُ فِي التَّسْمِيَةِ`** ("the exception in naming") — a scholarly principle: an unseen figure's name is not established except by evidence specific to it, and it cannot be inferred by analogy to another figure's name even if their description is similar, as in the difference between `Malik`, whose naming is established, and `Ridwan`, whose naming is not established.
+- **`التَّوْقِيفُ فِي أَسْمَاءِ الْغَيْبِ`** ("names in the unseen rest on revealed evidence") — that is, an unseen figure's name is not established except by evidence specific to it, and it cannot be inferred by analogy to another figure's name even if their description is similar, as in the difference between `Malik`, whose naming is established, and `Ridwan`, whose naming is not established.
 
 <!-- terminology:end -->
 
@@ -457,7 +457,7 @@ For one week, record every time you encounter a widely shared piece of religious
 **Materials:** A complete copy of az-Zumar 39:73, ar-Ra'd 13:23-24, at-Tahrim 66:6, and az-Zukhruf 43:77; the text of Sahih Muslim 197 and Sahih al-Bukhari 1897; blank entry cards; paper and pens.
 
 <!-- lesson-plan:preparation -->
-**Preparation:** The teacher reviews the scholarly distinction between the established name `Malik` and the unestablished name `Ridwan`, drawing on the reports gathered by Ibn al-Qayyim and Abu Nu'aym and noting that Ibn al-Qayyim gives the name Ridwan while the editor of his book points out the weakness of its chains, and prepares a neutral example of a popular religious claim for the learners to verify together.
+**Preparation:** The teacher reviews the scholarly distinction between the established name `Malik` and the unestablished name `Ridwan`, drawing on the chapters on the keepers of Jannah by Ibn al-Qayyim and Abu Nu'aym and noting that Ibn al-Qayyim gives the name Ridwan while the editor of his book points out the weakness of its chains, and that Abu Nu'aym cites no report with this name in his chapter, and prepares a neutral example of a popular religious claim for the learners to verify together.
 
 <!-- lesson-plan:opening -->
 **Opening — 5 minutes:** Ask: "If you were entrusted with an important door or account, what is the first thing you would verify before letting anyone in?"
@@ -574,7 +574,7 @@ For one week, record every time you encounter a widely shared piece of religious
 **Studying the Evidence — 12 minutes:** Three groups read az-Zumar 39:73 and the hadiths of Sahih Muslim 197 and Sahih al-Bukhari 1897, and each group works out the meaning of `I was commanded regarding you` and the significance of the gates tied to deeds.
 
 <!-- lesson-plan:instruction -->
-**Guided Instruction — 13 minutes:** The teacher explains the terms of the request to enter and the exception in naming, and briefly discusses the difference between a report with an established chain and a report that is popular but has no chain.
+**Guided Instruction — 13 minutes:** The teacher explains the terms of the request to enter and of names in the unseen resting on revealed evidence, and briefly discusses the difference between a report with an established chain and a report that is popular but has no chain.
 
 <!-- lesson-plan:activity -->
 **Activity — 15 minutes:** Students begin the weekly Door-Keeper Log, plan their week of tracking, and write an opening paragraph about one religious claim they will verify.
@@ -595,13 +595,17 @@ For one week, record every time you encounter a widely shared piece of religious
 ## References
 
 [^1]: The Noble Qur'an, Surah az-Zumar, ayah 73: [Qur'anic text](https://quran.com/39/73).
-[^2]: Abu al-Fida' Isma'il ibn Kathir's commentary and that of the majority of commentators on `zumaran` and `tibtum` in Surah az-Zumar, ayah 73: [King Saud University Digital Mushaf, Ibn Kathir's tafsir](https://quran.ksu.edu.sa/tafseer/katheer/sura39-aya73.html).
+[^2]: Ibn Kathir, *Tafsir al-Qur'an al-'Azim*, commentary on Surah az-Zumar, ayah 73 (on `zumaran`, `tibtum`, and `khalidin`, and the contrast between how the keepers meet the people of Jannah and how the guardians of Hell meet the people of the Fire): [King Saud University Digital Mushaf, Ibn Kathir's tafsir](https://quran.ksu.edu.sa/tafseer/katheer/sura39-aya73.html).
 [^3]: Sahih Muslim, hadith 197, narrated by Anas ibn Malik, may Allah be pleased with him: [Sunnah.com, hadith 197](https://sunnah.com/muslim:197).
 [^4]: Sahih al-Bukhari, hadith 1897 (and Muslim 1027), narrated by Abu Hurayrah, may Allah be pleased with him: [Sunnah.com, hadith 1897](https://sunnah.com/bukhari:1897).
 [^5]: The Noble Qur'an, Surah ar-Ra'd, ayat 23-24: [Qur'anic text](https://quran.com/13/23-24).
 [^6]: The Noble Qur'an, Surah at-Tahrim, ayah 6: [Qur'anic text](https://quran.com/66/6).
 [^7]: The Noble Qur'an, Surah az-Zukhruf, ayah 77: [Qur'anic text](https://quran.com/43/77).
-[^8]: Muhammad ibn Abi Bakr Ibn Qayyim al-Jawziyyah, *Hadi al-Arwah ila Bilad al-Afrah*, chapter twenty-four: on the gatekeepers and keepers of Jannah, with the editor's note on the weakness of the reports regarding the name Ridwan: [al-Maktaba ash-Shamila](https://shamela.ws/book/13652/274).
-[^9]: Abu Nu'aym al-Asbahani, *Sifat al-Jannah*, the chapter on the attendants and keepers of Jannah: [al-Maktaba ash-Shamila](https://shamela.ws/book/21602/222).
+[^8]: Muhammad ibn Abi Bakr Ibn Qayyim al-Jawziyyah, *Hadi al-Arwah ila Bilad al-Afrah* ('Ata'at al-'Ilm edition), chapter twenty-four: on the gatekeepers and keepers of Jannah and the name of their chief, pp. 221-222. On p. 222 Ibn al-Qayyim names the chief keeper Ridwan, and the editor's footnote traces the reports about the name: al-Dahhak from Ibn 'Abbas, in al-Wahidi's *Asbab al-Nuzul* and al-Bayhaqi's *Shu'ab al-Iman* (chain very weak), and Anas, in al-Daraqutni's *al-Ru'yah* (munkar), and states: "Nothing on this subject is authentic": [al-Maktaba ash-Shamila, start of the chapter](https://shamela.ws/book/13652/274), [al-Maktaba ash-Shamila, the naming and the editor's footnote](https://shamela.ws/book/13652/275).
+[^9]: Abu Nu'aym al-Asbahani, *Sifat al-Jannah*, the chapter on the attendants and keepers of Jannah, reports 186-188 (Anas's hadith on asking for the gate to be opened, and the hadiths of Abu Dharr and Abu Hurayrah on the attendants of Jannah calling the one who spends a pair); none of them names the chief keeper: [al-Maktaba ash-Shamila](https://shamela.ws/book/21602/222).
+[^10]: 'Abd al-Rahman ibn Nasir al-Sa'di, *Taysir al-Karim al-Rahman fi Tafsir Kalam al-Mannan*, commentary on Surah az-Zumar, ayah 73: [King Saud University Digital Mushaf, al-Sa'di's tafsir](https://quran.ksu.edu.sa/tafseer/saadi/sura39-aya73.html).
+[^11]: Ibn Kathir, *Tafsir al-Qur'an al-'Azim*, commentary on Surah ar-Ra'd, ayah 24 (the angels enter upon them "to congratulate them on entering Jannah"): [Ibn Kathir's tafsir](https://quran.ksu.edu.sa/tafseer/katheer/sura13-aya24.html); and al-Sa'di, *Taysir al-Karim al-Rahman*, commentary on Surah ar-Ra'd, ayah 22 (patience in doing what is commanded, in refraining from what is forbidden, and with Allah's painful decrees): [al-Sa'di's tafsir](https://quran.ksu.edu.sa/tafseer/saadi/sura13-aya22.html).
+[^12]: The Noble Qur'an, Surah al-Anbiya', ayat 26-27: [Qur'anic text](https://quran.com/21/26-27); and Ibn Kathir, *Tafsir al-Qur'an al-'Azim*, commentary on Surah at-Tahrim, ayah 6: [Ibn Kathir's tafsir](https://quran.ksu.edu.sa/tafseer/katheer/sura66-aya6.html), and on Surah al-Anbiya', ayah 27: [Ibn Kathir's tafsir](https://quran.ksu.edu.sa/tafseer/katheer/sura21-aya27.html).
+[^13]: Ibn Kathir, *Tafsir al-Qur'an al-'Azim*, commentary on Surah az-Zukhruf, ayah 77: [King Saud University Digital Mushaf, Ibn Kathir's tafsir](https://quran.ksu.edu.sa/tafseer/katheer/sura43-aya77.html).
 
 <!-- references:end -->

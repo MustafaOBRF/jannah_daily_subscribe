@@ -19,7 +19,7 @@ bedtime_dua_id: "lesson.020.dua.gentle_mercy"
 
 ## Objetivos y resultados de la lección
 
-Al terminar esta lección, el aprendiz tendrá la certeza de que el niño al que Allah se lleva consigo antes de alcanzar la edad de responsabilidad religiosa no rinde cuentas de nada, porque el Cálamo ha sido levantado de él, y de que, por el favor y la misericordia de Allah, se cuenta entre la gente del Paraíso. Conocerá el hadiz de los "da'amis del Paraíso", que muestra que el niño pequeño no olvida a sus padres, sino que los espera con amor para tomarlos de la ropa y llevarlos al Paraíso, y el hadiz del sueño de Samura ibn Yundab, que Allah esté complacido con él, que presenta al profeta de Allah Ibrahim, la paz sea con él, como el tierno protector de estos niños en un jardín verde y hermoso del Paraíso. Comprenderá que estas dos buenas nuevas son fuente de esperanza y de misericordia, no motivo de tristeza, y que quien pierde a un hijo tiene junto a Allah una recompensa inmensa y una causa para entrar en el Paraíso. Además, cada aprendiz, según su edad, realizará la actividad "El farol del jardín", expresando con un dibujo o con palabras el sentido de la luz serena y de la espera llena de amor que representa esta escena, sin adentrarse en detalles dolorosos; y memorizará la súplica «اللَّهُمَّ ارْحَمْ ضُعَفَاءَ أُمَّتِنَا وَأَطْفَالَنَا» ("Oh Allah, ten misericordia de los más débiles de nuestra comunidad y de nuestros niños"), teniendo presente su significado.
+Al terminar esta lección, el aprendiz tendrá la certeza de que el niño al que Allah se lleva consigo antes de alcanzar la edad de responsabilidad religiosa no rinde cuentas de nada, porque el Cálamo ha sido levantado de él, y de que, por el favor y la misericordia de Allah, se cuenta entre la gente del Paraíso. Conocerá el hadiz de los "da'amis del Paraíso", que muestra que el niño pequeño no olvida a sus padres, sino que los espera con amor para tomarlos de la ropa y llevarlos al Paraíso, y el hadiz del sueño de Samura ibn Yundab, que Allah esté complacido con él, que presenta al profeta de Allah Ibrahim, la paz sea con él, como el tierno protector de estos niños en un jardín inmenso, verde y hermoso, que sabios como el imam an-Nawawi entendieron como una de las escenas del Paraíso. Comprenderá que estas dos buenas nuevas son fuente de esperanza y de misericordia, no motivo de tristeza, y que quien pierde a un hijo tiene junto a Allah una recompensa inmensa y una causa para entrar en el Paraíso. Además, cada aprendiz, según su edad, realizará la actividad "El farol del jardín", expresando con un dibujo o con palabras el sentido de la luz serena y de la espera llena de amor que representa esta escena, sin adentrarse en detalles dolorosos; y memorizará la súplica «اللَّهُمَّ ارْحَمْ ضُعَفَاءَ أُمَّتِنَا وَأَطْفَالَنَا» ("Oh Allah, ten misericordia de los más débiles de nuestra comunidad y de nuestros niños"), teniendo presente su significado.
 
 ## Sección académica para adultos
 
@@ -29,7 +29,7 @@ Al terminar esta lección, el aprendiz tendrá la certeza de que el niño al que
 
 Pocas cosas serenan tanto el corazón del creyente como saber que Allah, Glorificado sea, no hizo al niño responsable de nada hasta que alcance la edad de la responsabilidad religiosa (taklif): el Cálamo ha sido levantado de él, de modo que no se le anota ninguna mala obra ni se le piden cuentas por ninguna falta. Si Allah se lleva consigo a un niño pequeño antes de esa edad, el niño queda junto a su Señor en una misericordia en la que no cabe rendición de cuentas ni castigo, sino solo buena nueva y favor. El Profeta, la paz y las bendiciones de Allah sean con él, anunció esta buena nueva a su comunidad en más de un hadiz auténtico, y prometió a los padres que soportan la pérdida con paciencia y buscan en ella la recompensa de Allah que los hijos que se les adelantaron a la otra vida ocupan junto a Allah un lugar inmenso: están en Su Paraíso, bajo un cuidado generoso, y esperan a sus padres con amor, no con tristeza; más aún, se convierten en causa de que sus padres entren en el Paraíso.
 
-En cuanto a los hijos de los no creyentes que mueren antes de la edad de responsabilidad, sobre ellos hay un texto profético explícito dentro del largo hadiz del sueño que recoge esta lección (véase el último pasaje de la unidad de evidencias), y los sabios lo han debatido con cortesía y respeto mutuo. En todo ello, la referencia última es la justicia de Allah y Su misericordia, que todo lo abarca.
+En cuanto a los hijos de los no creyentes que mueren antes de la edad de responsabilidad, sobre ellos hay un texto profético cuyo sentido aparente los incluye en esta misericordia, dentro del largo hadiz del sueño que recoge esta lección (véase el último pasaje de la unidad de evidencias); y otro hadiz sobre ellos, citado en la interpretación académica de ese pasaje, también toca la cuestión, por lo que los sabios discreparon sobre cómo conciliar ambos, y han debatido la cuestión con cortesía y respeto mutuo. En todo ello, la referencia última es la justicia de Allah y Su misericordia, que todo lo abarca.
 
 <!-- unit:end -->
 
@@ -51,7 +51,7 @@ En cuanto a los hijos de los no creyentes que mueren antes de la edad de respons
 
 #### Interpretación académica
 
-Los exégetas explicaron que esta aleya anuncia a los creyentes que Allah les unirá a su descendencia en el Paraíso, como honra a la fe de los padres, sin que a estos se les reste nada de la recompensa de sus obras. Y más de un sabio se apoyó en esta aleya, junto con otras, como la palabra de Allah, el Altísimo: {Y no castigamos sin antes haber enviado un mensajero} (Al-Isra 17:15), para concluir que la descendencia pequeña no queda en prenda de unas obras que todavía no ha adquirido.
+El hafiz Ibn Kazir explica en su comentario de esta aleya que, cuando la descendencia de los creyentes los sigue en la fe, Allah la eleva al rango de sus padres aunque sus obras no lleguen a las de ellos, como honra a la fe de los padres, sin que a estos se les reste nada de la recompensa de sus obras; y transmite de Ibn Abbas, que Allah esté complacido con ambos, que los hijos pequeños también se unen a sus padres. Y más de un sabio se apoyó en esta aleya, junto con otras, como la palabra de Allah, el Altísimo: {Y no castigamos sin antes haber enviado un mensajero} (Al-Isra 17:15), para concluir que la descendencia pequeña no queda en prenda de unas obras que todavía no ha adquirido.
 
 #### Explicación de la lección
 
@@ -77,11 +77,11 @@ Los comentaristas del hadiz explicaron que "el Cálamo ha sido levantado" signif
 
 #### Explicación de la lección
 
-Este hadiz es el fundamento legal que sostiene todo el título de esta lección: al niño que aún no ha llegado a la pubertad no se le anota ni una sola mala obra; si Allah se lo lleva antes de alcanzarla, no se presenta ante su Señor con un pecado del que deba rendir cuentas, sino puro, tal como nació.
+Este hadiz es el fundamento en la ley revelada que sostiene todo el título de esta lección: al niño que aún no ha llegado a la pubertad no se le anota ni una sola mala obra; si Allah se lo lleva antes de alcanzarla, no se presenta ante su Señor con un pecado del que deba rendir cuentas, sino puro, tal como nació.
 
 <!-- evidence:end -->
 
-<!-- evidence:start id="bukhari.muslim.three_children" kind="hadith" mode="canonical" -->
+<!-- evidence:start id="bukhari.three_children" kind="hadith" mode="canonical" -->
 
 ### «No hay musulmán a quien se le mueran tres hijos que aún no hayan alcanzado la edad de responsabilidad...»
 
@@ -107,13 +107,13 @@ Este hadiz da la vuelta a la mirada del duelo y la convierte en mirada de espera
 
 ### «Sus pequeños son los da'amis del Paraíso»
 
-> عَنْ أَبِي هُرَيْرَةَ رضي الله عنه، عَنِ النَّبِيِّ ﷺ قَالَ: **«صِغَارُهُمْ دَعَامِيصُ الْجَنَّةِ، يَتَلَقَّى أَحَدُهُمْ أَبَاهُ - أَوْ قَالَ: أَبَوَيْهِ - فَيَأْخُذُ بِثَوْبِهِ - أَوْ قَالَ: بِيَدِهِ - كَمَا آخُذُ أَنَا بِصَنِفَةِ ثَوْبِكَ هَذَا، فَلَا يَتَنَاهَى - أَوْ قَالَ: فَلَا يَنْتَهِي - حَتَّى يُدْخِلَهُ اللَّهُ وَأَبَاهُ الْجَنَّةَ»**.[^4]
+> عَنْ أَبِي حَسَّانَ قَالَ: قُلْتُ لِأَبِي هُرَيْرَةَ رضي الله عنه: إِنَّهُ قَدْ مَاتَ لِيَ ابْنَانِ، فَمَا أَنْتَ مُحَدِّثِي عَنْ رَسُولِ اللَّهِ ﷺ بِحَدِيثٍ تُطَيِّبُ بِهِ أَنْفُسَنَا عَنْ مَوْتَانَا؟ قَالَ: نَعَمْ، **«صِغَارُهُمْ دَعَامِيصُ الْجَنَّةِ، يَتَلَقَّى أَحَدُهُمْ أَبَاهُ - أَوْ قَالَ: أَبَوَيْهِ - فَيَأْخُذُ بِثَوْبِهِ - أَوْ قَالَ: بِيَدِهِ - كَمَا آخُذُ أَنَا بِصَنِفَةِ ثَوْبِكَ هَذَا، فَلَا يَتَنَاهَى - أَوْ قَالَ: فَلَا يَنْتَهِي - حَتَّى يُدْخِلَهُ اللَّهُ وَأَبَاهُ الْجَنَّةَ»**.[^4]
 
 <!-- evidence:translation -->
 
 #### Traducción al español
 
-> De Abu Huraira, que Allah esté complacido con él, que el Profeta, la paz y las bendiciones de Allah sean con él, dijo: **«Sus pequeños son los da'amis del Paraíso. Uno de ellos sale al encuentro de su padre —o dijo: de sus padres— y lo toma de la ropa —o dijo: de la mano—, como yo te tomo ahora del borde de esta ropa tuya, y no se detiene —o dijo: no cesa— hasta que Allah lo hace entrar, a él y a su padre, en el Paraíso»**.[^4]
+> Abu Hassan dijo: Le dije a Abu Huraira, que Allah esté complacido con él: «Se me han muerto dos hijos. ¿Me contarás un hadiz del Mensajero de Allah, la paz y las bendiciones de Allah sean con él, que consuele nuestras almas por nuestros muertos?». Respondió: «Sí: **"Sus pequeños son los da'amis del Paraíso. Uno de ellos sale al encuentro de su padre —o dijo: de sus padres— y lo toma de la ropa —o dijo: de la mano—, como yo te tomo ahora del borde de esta ropa tuya, y no se detiene —o dijo: no cesa— hasta que Allah lo hace entrar, a él y a su padre, en el Paraíso"**».[^4]
 
 #### Interpretación académica
 
@@ -139,11 +139,11 @@ Este hadiz dibuja la escena más hermosa de un niño que ha pasado a la miserico
 
 #### Interpretación académica
 
-El Dr. Umar Sulayman al-Ashqar recogió en su libro *Al-Yanna wa an-Nar* este pasaje del largo hadiz del sueño como prueba del destino de los pequeños de quienes creen en la unicidad de Allah, y señaló que las palabras del Profeta, la paz y las bendiciones de Allah sean con él, "Y los hijos de los politeístas" son un texto explícito que toca una cuestión conocida, sobre la que los sabios discreparon desde antiguo: unos se atuvieron al sentido aparente de este añadido y sostuvieron que los hijos de los politeístas también se cuentan entre la gente del Paraíso, conforme a la generalidad de "murieron en la fitra" y al hadiz «Todo recién nacido nace en la fitra»; otros se abstuvieron de pronunciarse sobre ellos y remitieron el asunto al conocimiento y a la voluntad de Allah. Se trata de una discrepancia legítima entre sabios eminentes, cuya referencia última es que Allah no oprime a nadie ni en el peso de una partícula, y que Él es demasiado sabio y misericordioso para pedir cuentas a quien nunca recibió la prueba.
+El imam an-Nawawi cita este pasaje del largo hadiz del sueño en su comentario de Sahih Muslim, y afirma que los sabios musulmanes cuya opinión cuenta están de acuerdo en que todo hijo de musulmanes que muere pequeño se cuenta entre la gente del Paraíso. En cuanto a las palabras del Profeta, la paz y las bendiciones de Allah sean con él, "Y los hijos de los politeístas", su sentido aparente incluye también a los hijos de los politeístas, y tocan una cuestión conocida sobre la que los sabios discreparon desde antiguo. Una de las causas de esa discrepancia es el hadiz que al-Bujari transmite de Abu Huraira, que Allah esté complacido con él: al Profeta, la paz y las bendiciones de Allah sean con él, se le preguntó por la descendencia de los politeístas y respondió: «Allah sabe mejor lo que habrían hecho». Unos se atuvieron al sentido aparente de este añadido y sostuvieron que los hijos de los politeístas también se cuentan entre la gente del Paraíso, conforme a la generalidad de "murieron en la fitra" y al hadiz «Todo recién nacido nace en la fitra»; an-Nawawi la llamó la postura correcta, adoptada por los sabios rigurosos. Otros sostuvieron que serán puestos a prueba el Día de la Resurrección, y que quien de ellos obedezca entrará en el Paraíso; el hafiz Ibn Kazir prefirió esta postura en su comentario de la aleya {Y no castigamos sin antes haber enviado un mensajero}, la atribuyó a la gente de la Sunna y la comunidad (Ahl as-Sunna wal-Yama'a) y dijo que concilia todas las evidencias. Y otros se abstuvieron de pronunciarse sobre ellos y remitieron el asunto al conocimiento y a la voluntad de Allah. Se trata de una discrepancia legítima entre sabios eminentes, cuya referencia última es que Allah no oprime a nadie ni en el peso de una partícula, y que Él es demasiado sabio y misericordioso para pedir cuentas a quien nunca recibió la prueba.
 
 #### Explicación de la lección
 
-Este hadiz es el eje de la lección: el niño que muere pequeño no se marcha hacia lo desconocido ni hacia la soledad, sino a un jardín verde y hermoso del Paraíso, donde lo cuida con ternura el padre de los profetas, Ibrahim, la paz sea con él, como un abuelo compasivo cuida a sus nietos. Esta sola escena basta para transformar el dolor de la pérdida en serenidad y esperanza.
+Este hadiz es el eje de la lección: el niño que muere pequeño no se marcha hacia lo desconocido ni hacia la soledad, sino a un jardín inmenso, verde y hermoso, que sabios como an-Nawawi entendieron que está en el Paraíso, donde lo cuida con ternura el padre de los profetas, Ibrahim, la paz sea con él, como un abuelo compasivo cuida a sus nietos. Esta sola escena basta para transformar el dolor de la pérdida en serenidad y esperanza.
 
 <!-- evidence:end -->
 
@@ -156,7 +156,7 @@ Este hadiz es el eje de la lección: el niño que muere pequeño no se marcha ha
 1. ¿Qué significa que "el Cálamo ha sido levantado" del niño, y qué relación tiene eso con el destino del niño que muere antes de la pubertad?
 2. ¿Cómo transforma el hadiz "No hay musulmán a quien se le mueran tres hijos..." la mirada de los padres, de la pura tristeza a la esperanza?
 3. ¿Qué retrata el hadiz de los "da'amis del Paraíso" acerca del vínculo del niño con sus padres después de pasar a la misericordia de Allah?
-4. ¿Por qué eligió Allah precisamente a Ibrahim, la paz sea con él, para cuidar a los hijos de la gente en aquel jardín, a la luz de lo que sabes de su vida y de su ternura?
+4. ¿Qué significados te sugiere la imagen de Ibrahim, la paz sea con él, padre de los profetas, rodeado de los hijos de la gente en aquel jardín, a la luz de lo que sabes de su vida, de su misericordia, de su paternidad y de su ternura?
 5. ¿Cómo responderías, con delicadeza y compasión, a una familia que ha perdido a un hijo pequeño y te pregunta por su destino junto a Allah?
 
 <!-- unit:end -->
@@ -193,13 +193,13 @@ Cariño, Allah quiere muchísimo a los niños. A veces Allah se lleva con Él a 
 
 **Esto es algo real que nos contó nuestro Profeta Muhammad, la paz y las bendiciones de Allah sean con él, y no una historia inventada.**
 
-Nuestro Profeta, la paz y las bendiciones de Allah sean con él, contó que vio en sueños un jardín verde y precioso, con un árbol enorme, enorme. Junto a ese árbol había un hombre alto, de corazón muy bueno, y a su alrededor muchísimos niños que jugaban felices. El Profeta, la paz y las bendiciones de Allah sean con él, preguntó: "¿Quién es este hombre tan bueno?". Y le dijeron: "Es el profeta de Allah Ibrahim, la paz sea con él, y los niños que lo rodean son niños pequeños a los que Allah quiso tanto que se los llevó con Él cuando todavía eran pequeños".[^5]
+Nuestro Profeta, la paz y las bendiciones de Allah sean con él, contó que vio en sueños un jardín verde y frondoso, lleno de todas las flores bonitas de la primavera. En medio de ese jardín había un hombre altísimo, tan alto que el Profeta, la paz y las bendiciones de Allah sean con él, casi no podía verle la cabeza, y a su alrededor había muchísimos niños, más niños de los que había visto en toda su vida. El Profeta, la paz y las bendiciones de Allah sean con él, preguntó: "¿Qué es esto? ¿Y quiénes son estos?". Y le dijeron: "Es el profeta de Allah Ibrahim, la paz sea con él, y los niños que lo rodean son niños pequeños que Allah se llevó con Él cuando todavía eran pequeños".[^5]
 
-Ibrahim, la paz sea con él, cuida a esos niños en aquel jardín precioso con dulzura y con cariño, como un abuelo tierno cuida a sus nietos. Allí no hay miedo ni tristeza: solo luz y alegría para siempre.
+Podemos imaginar a Ibrahim, la paz sea con él, en aquel jardín precioso con esos niños, cuidándolos con dulzura y con cariño, como un abuelo tierno cuida a sus nietos. Allí no hay miedo ni tristeza: solo luz y alegría para siempre.
 
 <!-- retelling:start source_id="bukhari.tabir.samurah_ruya" audience="4-7" -->
 
-Todo esto quiere decir, de forma sencilla: cada niño pequeño que se va pronto con Allah llega a un jardín precioso del Paraíso, donde lo cuida con todo su amor un profeta muy bueno que se llama Ibrahim, la paz sea con él.[^5]
+Todo esto quiere decir, de forma sencilla: cada niño pequeño que se va pronto con Allah está en la misericordia de Allah, en un jardín precioso donde lo cuida con todo su amor un profeta muy bueno que se llama Ibrahim, la paz sea con él, y su hogar será el Paraíso.[^5]
 
 <!-- retelling:end -->
 
@@ -255,7 +255,7 @@ Junto con tu papá o tu mamá, dibujen un jardín verde y precioso, con árboles
 
 > اللَّهُمَّ ارْحَمْ ضُعَفَاءَ أُمَّتِنَا وَأَطْفَالَنَا، وَاجْمَعْ بَيْنَنَا وَبَيْنَ مَنْ سَبَقَنَا مِنْهُمْ فِي جَنَّتِكَ بِرَحْمَتِكَ يَا أَرْحَمَ الرَّاحِمِينَ.
 >
-> *"Oh Allah, ten misericordia de los más débiles de nuestra comunidad y de nuestros niños, y júntanos en Tu Paraíso con los que llegaron allí antes que nosotros, por Tu misericordia, oh el más Misericordioso de los misericordiosos."*
+> *"Oh Allah, ten misericordia de los más débiles de nuestra comunidad y de nuestros niños, y júntanos en Tu Paraíso con los niños que se nos adelantaron, por Tu misericordia, oh el más Misericordioso de los misericordiosos."*
 
 <!-- bedtime-dua:end -->
 
@@ -285,7 +285,7 @@ El Profeta, la paz y las bendiciones de Allah sean con él, preguntaba a menudo 
 
 <!-- retelling:start source_id="bukhari.tabir.samurah_ruya" audience="8-12" -->
 
-Dicho de otro modo: el Profeta, la paz y las bendiciones de Allah sean con él, vio en sueños un jardín verde y hermoso, donde Ibrahim, la paz sea con él, cuidaba a un gran número de niños que murieron pequeños, antes de llegar a la edad de responsabilidad. Así, el padre de los profetas se convirtió en su tierno protector en aquel precioso jardín del Paraíso.[^5]
+Dicho de otro modo: el Profeta, la paz y las bendiciones de Allah sean con él, vio en sueños un jardín verde y hermoso, donde Ibrahim, la paz sea con él, cuidaba a un gran número de niños que murieron pequeños, antes de llegar a la edad de responsabilidad. Así, el padre de los profetas se convirtió en su tierno protector en aquel precioso jardín, que los sabios entendieron como una de las escenas del Paraíso.[^5]
 
 <!-- retelling:end -->
 
@@ -303,7 +303,7 @@ El Profeta, la paz y las bendiciones de Allah sean con él, dijo: «Sus pequeño
 
 <!-- retelling:start source_id="muslim.ahmad.daaamees_al_jannah" audience="8-12" -->
 
-Imagina conmigo esta escena tan bonita: un niño pequeño espera junto a la puerta del Paraíso; ve llegar a su papá, se agarra con cariño del borde de su ropa y ya no lo suelta hasta que entran juntos en el Paraíso. El niño que pasó a la misericordia de Allah sigue queriendo a sus padres y deseando reencontrarse con ellos.[^4]
+Imagina conmigo esta escena tan bonita: un niño pequeño sale al encuentro de su papá, se agarra con cariño del borde de su ropa y ya no lo suelta hasta que entran juntos en el Paraíso. El niño que pasó a la misericordia de Allah sigue queriendo a sus padres y deseando reencontrarse con ellos.[^4]
 
 <!-- retelling:end -->
 
@@ -370,7 +370,7 @@ Con tu papá o tu mamá, fabrica un "farol del jardín": decora un vaso de vidri
 
 <!-- unit:start id="13+.explanation" kind="explanation" -->
 
-En el islam, el concepto de "edad de responsabilidad" (sinn at-taklif) se basa en que la obligación religiosa depende de la razón y la pubertad: el Cálamo ha sido levantado del niño hasta que alcance la pubertad, y hasta entonces no se le anota ninguna mala obra. Por eso, los hijos de los creyentes que mueren antes de esa edad se cuentan entre la gente del Paraíso por el favor de Allah, no por obras que aún no se les habían anotado. En cuanto a los hijos de los no creyentes que mueren antes de la responsabilidad, sobre ellos hay un texto profético explícito dentro del hadiz del sueño que verás en esta lección; aun así, algunos detalles de la cuestión llevan siglos siendo objeto de razonamiento (iytihad) entre los sabios. Es una discrepancia legítima que no debe inquietar a nadie, porque todo remite, en última instancia, a la justicia de Allah y a Su amplia misericordia.
+En el islam, el concepto de "edad de responsabilidad" (sinn at-taklif) se basa en que la obligación religiosa depende de la razón y la pubertad: el Cálamo ha sido levantado del niño hasta que alcance la pubertad, y hasta entonces no se le anota ninguna mala obra. Por eso, los hijos de los creyentes que mueren antes de esa edad se cuentan entre la gente del Paraíso por el favor de Allah, no por obras que aún no se les habían anotado. En cuanto a los hijos de los no creyentes que mueren antes de la responsabilidad, sobre ellos hay un texto profético que parece incluirlos, dentro del hadiz del sueño que verás en esta lección; aun así, algunos detalles de la cuestión llevan siglos siendo objeto de razonamiento (iytihad) entre los sabios. Es una discrepancia legítima que no debe inquietar a nadie, porque todo remite a la justicia de Allah y a Su amplia misericordia.
 
 <!-- unit:end -->
 
@@ -388,7 +388,7 @@ Al final del sueño, cuando los dos visitantes le explicaron todo lo que había 
 
 <!-- retelling:start source_id="bukhari.tabir.samurah_ruya" audience="13+" -->
 
-Dicho de otro modo: Allah mostró en sueños a Su Profeta, la paz y las bendiciones de Allah sean con él, una escena verdadera de un jardín del Paraíso, donde Ibrahim, la paz sea con él —padre de los profetas y amigo íntimo (Jalil) del Misericordioso—, cuida a todo niño que murió en la fitra antes de ser responsable, con la ternura de un abuelo compasivo hacia sus nietos. Y cuando se le preguntó expresamente por los hijos de los politeístas, el Profeta, la paz y las bendiciones de Allah sean con él, los incluyó en ese mismo dictamen, lo que llevó a los sabios a estudiar la cuestión más a fondo durante siglos, aunque algunos de sus detalles siguen siendo objeto de razonamiento.[^5]
+Dicho de otro modo: Allah mostró en sueños a Su Profeta, la paz y las bendiciones de Allah sean con él, una escena verdadera de un jardín del Paraíso, según los sabios, donde Ibrahim, la paz sea con él —padre de los profetas y amigo íntimo (Jalil) del Misericordioso—, cuida a todo niño que murió en la fitra antes de ser responsable, con la ternura de un abuelo compasivo hacia sus nietos. Y cuando se le preguntó expresamente por los hijos de los politeístas, el Profeta, la paz y las bendiciones de Allah sean con él, aparentemente los incluyó en ese mismo dictamen, lo que llevó a los sabios a estudiar la cuestión más a fondo durante siglos, aunque algunos de sus detalles siguen siendo objeto de razonamiento.[^5]
 
 <!-- retelling:end -->
 
@@ -434,7 +434,7 @@ Este hadiz redefine el sentido mismo de la pérdida: el vínculo entre el niño 
 2. ¿Por qué fue tan importante, en esta cuestión concreta, la respuesta del Profeta, la paz y las bendiciones de Allah sean con él, a la pregunta "¿Y los hijos de los politeístas?"?
 3. ¿Cómo cambia el hadiz de los "da'amis del Paraíso" tu manera de entender lo que significa "perder" a un hijo pequeño?
 4. ¿Cómo puedes ayudar a un amigo o a un familiar que ha perdido a un hijo pequeño a encontrar en estos dos hadices una esperanza real, no simples palabras de consuelo?
-5. ¿Por qué algunos detalles del destino de los hijos de los no creyentes siguen siendo objeto de razonamiento entre los sabios, pese a existir un texto explícito, y cómo puede eso tranquilizarte en lugar de inquietarte?
+5. ¿Por qué algunos detalles del destino de los hijos de los no creyentes siguen siendo objeto de razonamiento entre los sabios, aunque un texto parece incluirlos, y cómo puede eso tranquilizarte en lugar de inquietarte?
 
 <!-- unit:end -->
 
@@ -475,7 +475,7 @@ Escribe un párrafo personal sobre lo que más te ha tocado de los hadices de lo
 ### Adultos — 50 minutos
 
 <!-- lesson-plan:outcomes -->
-**Resultados de aprendizaje:** el aprendiz explica el fundamento legal por el que no se piden cuentas al niño antes de la edad de responsabilidad, narra con fidelidad los hadices de los "da'amis del Paraíso" y del sueño de Samura ibn Yundab, y trata con delicadeza y compasión a quien ha perdido a un hijo pequeño.
+**Resultados de aprendizaje:** el aprendiz explica el fundamento en la ley revelada por el que no se piden cuentas al niño antes de la edad de responsabilidad, narra con fidelidad los hadices de los "da'amis del Paraíso" y del sueño de Samura ibn Yundab, y trata con delicadeza y compasión a quien ha perdido a un hijo pequeño.
 
 <!-- lesson-plan:materials -->
 **Materiales:** una copia de la lección; un mushaf para consultar la aleya de At-Tur; tarjetas pequeñas en blanco para la actividad.
@@ -499,7 +499,7 @@ Escribe un párrafo personal sobre lo que más te ha tocado de los hadices de lo
 **Evaluación y cierre — 3 minutos:** se pide a cada participante que diga, en una sola frase, cómo ha cambiado después de esta lección su manera de ver la pérdida de un hijo pequeño.
 
 <!-- lesson-plan:differentiation -->
-**Diferenciación:** con quienes tengan formación académica se puede profundizar en las posturas de an-Nawawi y de Ibn Taymiyya sobre los hijos de los no creyentes; con los demás basta con las cuatro primeras evidencias y un resumen del quinto hadiz.
+**Diferenciación:** con quienes tengan formación académica se puede profundizar en las posturas de los sabios sobre los hijos de los no creyentes: la de an-Nawawi, que están en el Paraíso; la de Ibn Kazir, que serán puestos a prueba el Día de la Resurrección; y la de quienes se abstuvieron de pronunciarse, apoyándose en el hadiz «Allah sabe mejor lo que habrían hecho»; con los demás basta con las cuatro primeras evidencias y un resumen del quinto hadiz.
 
 <!-- lesson-plan:safeguards -->
 **Advertencias pedagógicas:** queda terminantemente prohibido usar esta lección para emitir un juicio sobre un niño concreto cuya familia esté presente; a quien se vea muy afectado se le ofrece una conversación individual de apoyo después de la sesión; y el encuentro se centra en la misericordia y la esperanza, no en la polémica jurídica.
@@ -562,7 +562,7 @@ Escribe un párrafo personal sobre lo que más te ha tocado de los hadices de lo
 **Estudio de la evidencia — 10 minutos:** se explica brevemente el hadiz de los "tres hijos", luego se cuenta completa la historia del sueño del Profeta, la paz y las bendiciones de Allah sean con él, y después el hadiz de los "da'amis del Paraíso", explicando los términos durante la lectura.
 
 <!-- lesson-plan:instruction -->
-**Instrucción guiada — 8 minutos:** el docente comenta con los estudiantes el significado de "que aún no hayan alcanzado al-hinz", por qué Allah eligió precisamente a Ibrahim, la paz sea con él, para cuidar a los niños, y cómo describe el hadiz de los da'amis el amor del niño por sus padres, que sigue vivo.
+**Instrucción guiada — 8 minutos:** el docente comenta con los estudiantes el significado de "que aún no hayan alcanzado al-hinz", qué sugiere sobre la misericordia y la paternidad la imagen de Ibrahim, la paz sea con él, padre de los profetas, rodeado de los niños, y cómo describe el hadiz de los da'amis el amor del niño por sus padres, que sigue vivo.
 
 <!-- lesson-plan:activity -->
 **Actividad — 6 minutos:** se realiza la actividad "El farol del jardín del Paraíso" tal como se describe en la unidad de actividad.
@@ -595,7 +595,7 @@ Escribe un párrafo personal sobre lo que más te ha tocado de los hadices de lo
 **Apertura — 5 minutos:** se plantea la pregunta: «¿Alguna vez han intentado consolar a alguien que perdió a un hijo pequeño? ¿Qué le dijeron?»
 
 <!-- lesson-plan:evidence -->
-**Estudio de las evidencias — 12 minutos:** se leen los cuatro hadices, con especial atención al hadiz del sueño y a la pregunta "¿Y los hijos de los politeístas?", y se comenta brevemente qué significa que algunos de sus detalles sigan siendo objeto de razonamiento.
+**Estudio de las evidencias — 12 minutos:** se leen los cuatro hadices, con especial atención al hadiz del sueño y a la pregunta "¿Y los hijos de los politeístas?", y se comenta brevemente qué significa que algunos de sus detalles sigan siendo objeto de razonamiento, explicando que una de las causas es la respuesta del Profeta, la paz y las bendiciones de Allah sean con él, cuando se le preguntó por la descendencia de los politeístas: «Allah sabe mejor lo que habrían hecho» (al-Bujari 1384).
 
 <!-- lesson-plan:instruction -->
 **Instrucción guiada — 10 minutos:** el docente aclara que buscar la recompensa de Allah (ihtisab) ante la pérdida de un hijo no es un simple aguantar el dolor, sino una inversión en un vínculo que dará fruto en intercesión y reencuentro; y que respetar la discrepancia académica en los detalles no resta nada a la certeza en la justicia y la misericordia de Allah.
@@ -607,7 +607,7 @@ Escribe un párrafo personal sobre lo que más te ha tocado de los hadices de lo
 **Evaluación y cierre — 5 minutos:** cada estudiante escribe dos frases que resuman cómo cambiará esta lección su manera de consolar a quien pierda a un hijo pequeño.
 
 <!-- lesson-plan:differentiation -->
-**Diferenciación:** para quienes deseen un debate más profundo, se añade una presentación breve de las posturas de an-Nawawi y de Ibn Taymiyya; para quienes prefieran la reflexión serena, basta con la escritura personal, sin debate en grupo.
+**Diferenciación:** para quienes deseen un debate más profundo, se añade una presentación breve de las posturas de los sabios: la de an-Nawawi, que están en el Paraíso; la de Ibn Kazir, que serán puestos a prueba el Día de la Resurrección; y la de quienes se abstuvieron de pronunciarse; para quienes prefieran la reflexión serena, basta con la escritura personal, sin debate en grupo.
 
 <!-- lesson-plan:safeguards -->
 **Advertencias pedagógicas:** el docente debe cuidar de no presionar a ningún adolescente para que comparta ante el grupo una experiencia personal de pérdida; a quien se vea muy afectado se le ofrece una conversación individual de apoyo después del encuentro; y la lección no se usa jamás para emitir un juicio sobre el destino de un niño concreto.
@@ -618,10 +618,10 @@ Escribe un párrafo personal sobre lo que más te ha tocado de los hadices de lo
 
 ## Referencias
 
-[^1]: El Noble Corán, sura At-Tur, aleya 21: [texto coránico](https://quran.com/52/21).
+[^1]: El Noble Corán, sura At-Tur, aleya 21: [texto coránico](https://quran.com/52/21). Véase también el comentario de Ibn Kazir sobre esta aleya, acerca de la elevación de la descendencia al rango de sus padres aunque sus obras no lleguen a las de ellos, y el relato de Ibn Abbas de que los hijos pequeños se unen a ellos: [Tafsir Ibn Kazir, At-Tur 21](https://quran.ksu.edu.sa/tafseer/katheer/sura52-aya21.html).
 [^2]: Hadiz «El Cálamo ha sido levantado de tres», narrado por Aisha, que Allah esté complacido con ella. La redacción recogida aquí es la de Sunan Ibn Mayah (2041), y una similar está en Sunan an-Nasa'i (3432); en Sunan Abi Dawud (4398) dice: «del afligido hasta que se cure, y del niño hasta que crezca». También se narra de Ali ibn Abi Talib, que Allah esté complacido con él, en Abu Dawud (4403), con la redacción «del niño hasta que alcance la pubertad», y en at-Tirmidhi (1423), quien lo calificó de *hasan garib*. Al-Albani lo declaró auténtico (*Sahih Sunan Abi Dawud*) por el conjunto de sus vías: [Sunnah.com, Sunan Abi Dawud 4398](https://sunnah.com/abudawud:4398), [Sunan Ibn Mayah 2041](https://sunnah.com/ibnmajah:2041).
 [^3]: Hadiz «No hay entre la gente ningún musulmán a quien se le mueran tres hijos...», narrado por Anas ibn Malik, que Allah esté complacido con él; recogido por al-Bujari en su Sahih, Libro de los Funerales (1381), cuya redacción es esta, y con redacción similar (1248). En Sahih Muslim (2632) aparece el mismo sentido, de Abu Huraira, que Allah esté complacido con él, con otra redacción: «A ningún musulmán se le mueren tres hijos y luego le toca el Fuego, salvo para cumplir el juramento»: [Sunnah.com, Sahih al-Bujari 1381](https://sunnah.com/bukhari:1381), [Sahih al-Bujari 1248](https://sunnah.com/bukhari:1248).
 [^4]: Hadiz «Sus pequeños son los da'amis del Paraíso», narrado por Abu Huraira, que Allah esté complacido con él; recogido por Muslim en su Sahih, Libro de la Bondad, los Lazos Familiares y los Buenos Modales, capítulo sobre el mérito de aquel a quien se le muere un hijo y espera la recompensa (2635). Abu Huraira lo narró en respuesta a Abu Hassan, que le había dicho: «Se me han muerto dos hijos. ¿Me contarás un hadiz del Mensajero de Allah, la paz y las bendiciones de Allah sean con él, que consuele nuestras almas por nuestros muertos?». También lo recoge Ahmad en su Musnad: [Sunnah.com, Sahih Muslim 2635](https://sunnah.com/muslim:2635a).
-[^5]: Hadiz largo del sueño de Samura ibn Yundab, que Allah esté complacido con él; recogido por al-Bujari en su Sahih, Libro de la Interpretación de los Sueños (Kitab at-Ta'bir), capítulo sobre la interpretación de los sueños después de la oración del alba (7047), cuya redacción se cita aquí. Al-Bujari lo recoge también en una versión más breve y con otra redacción en el Libro de los Funerales (1386), donde dice: «El anciano al pie del árbol es Ibrahim, la paz sea con él, y los niños que lo rodean son los hijos de la gente». El Dr. Umar Sulayman al-Ashqar cita el pasaje pertinente en su libro *Al-Yanna wa an-Nar* (el capítulo dedicado a los hijos de los musulmanes y de los politeístas): [Sunnah.com, Sahih al-Bujari 7047](https://sunnah.com/bukhari:7047), [Sahih al-Bujari 1386](https://sunnah.com/bukhari:1386).
+[^5]: Hadiz largo del sueño de Samura ibn Yundab, que Allah esté complacido con él; recogido por al-Bujari en su Sahih, Libro de la Interpretación de los Sueños (Kitab at-Ta'bir), capítulo sobre la interpretación de los sueños después de la oración del alba (7047), cuya redacción se cita aquí. Al-Bujari lo recoge también en una versión más breve y con otra redacción en el Libro de los Funerales (1386), donde dice: «El anciano al pie del árbol es Ibrahim, la paz sea con él, y los niños que lo rodean son los hijos de la gente». El hadiz «Allah sabe mejor lo que habrían hecho» lo recoge al-Bujari en su Sahih, Libro de los Funerales, capítulo sobre lo que se ha dicho acerca de los hijos de los politeístas (1384), de Abu Huraira, que Allah esté complacido con él. Véase también lo que dice an-Nawawi sobre los hijos de los politeístas en su comentario de Sahih Muslim (Libro del Decreto Divino, capítulo sobre el sentido de «Todo recién nacido nace en la fitra»), y la preferencia de Ibn Kazir por la postura de la prueba en su comentario de la sura Al-Isra (aleya 15): [Sunnah.com, Sahih al-Bujari 7047](https://sunnah.com/bukhari:7047), [Sahih al-Bujari 1386](https://sunnah.com/bukhari:1386), [Sahih al-Bujari 1384](https://sunnah.com/bukhari:1384), [Tafsir Ibn Kazir, Al-Isra 15](https://quran.ksu.edu.sa/tafseer/katheer/sura17-aya15.html).
 
 <!-- references:end -->
