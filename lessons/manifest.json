@@ -1,6 +1,330 @@
 {
   "lessons": [
     {
+      "slug": "050_four_rivers",
+      "order": 50,
+      "langs": [
+        "ar",
+        "en",
+        "ur",
+        "fr",
+        "es"
+      ],
+      "titles": {
+        "ar": "الْأَنْهَارُ الْأَرْبَعَةُ فِي الْجَنَّةِ",
+        "en": "The Four Rivers of Jannah",
+        "ur": "جنت کی چار نہریں",
+        "fr": "Les quatre rivières de la Jannah",
+        "es": "Los cuatro ríos del Paraíso"
+      },
+      "hooks": {
+        "ar": "بعد هذا الدرس، يكون المتعلم قادرًا على:",
+        "en": "After this lesson, the learner will be able to:",
+        "ur": "اس سبق کے بعد سیکھنے والا یہ کر سکے گا:",
+        "fr": "Au terme de cette leçon, l'apprenant sera capable de :",
+        "es": "Después de esta lección, el aprendiz será capaz de:"
+      },
+      "status": {
+        "ar": "arabic_draft",
+        "en": "translation_draft",
+        "ur": "translation_draft",
+        "fr": "translation_draft",
+        "es": "translation_draft"
+      },
+      "under_review": true,
+      "has_illustration": true,
+      "has_audio": false,
+      "has_summary_audio": false
+    },
+    {
+      "slug": "049_rivers_springs",
+      "order": 49,
+      "langs": [
+        "ar",
+        "en",
+        "ur",
+        "fr",
+        "es"
+      ],
+      "titles": {
+        "ar": "أَنْهَارُ الْجَنَّةِ وَعُيُونُهَا",
+        "en": "The Rivers and Springs of Jannah",
+        "ur": "جنت کی نہریں اور چشمے",
+        "fr": "Les rivières et les sources de la Jannah",
+        "es": "Los ríos y los manantiales del Paraíso"
+      },
+      "hooks": {
+        "ar": "بعد هذا الدرس، يكون المتعلم قادرًا على:",
+        "en": "After this lesson, the learner will be able to:",
+        "ur": "اس سبق کے بعد سیکھنے والا یہ کر سکے گا:",
+        "fr": "Au terme de cette leçon, l'apprenant sera capable de :",
+        "es": "Después de esta lección, el aprendiz será capaz de:"
+      },
+      "status": {
+        "ar": "arabic_draft",
+        "en": "translation_draft",
+        "ur": "translation_draft",
+        "fr": "translation_draft",
+        "es": "translation_draft"
+      },
+      "under_review": true,
+      "has_illustration": true,
+      "has_audio": false,
+      "has_summary_audio": false
+    },
+    {
+      "slug": "048_kingdom",
+      "order": 48,
+      "langs": [
+        "ar",
+        "en",
+        "ur",
+        "fr",
+        "es"
+      ],
+      "titles": {
+        "ar": "مُلْكُ أَهْلِ الْجَنَّةِ وَسُلْطَانُهُمْ",
+        "en": "The Kingdom and Dominion of the People of Jannah",
+        "ur": "اہلِ جنت کی بادشاہی اور ان کا اقتدار",
+        "fr": "Le royaume des gens de la Jannah et leur souveraineté",
+        "es": "El reino de la gente del Paraíso y su soberanía"
+      },
+      "hooks": {
+        "ar": "بعد هذا الدرس، يكون المتعلم قادرًا على:",
+        "en": "After this lesson, the learner will be able to:",
+        "ur": "اس سبق کے بعد سیکھنے والا یہ کر سکے گا:",
+        "fr": "Au terme de cette leçon, l'apprenant sera capable de :",
+        "es": "Después de esta lección, el aprendiz será capaz de:"
+      },
+      "status": {
+        "ar": "arabic_draft",
+        "en": "translation_draft",
+        "ur": "translation_draft",
+        "fr": "translation_draft",
+        "es": "translation_draft"
+      },
+      "under_review": true,
+      "has_illustration": true,
+      "has_audio": false,
+      "has_summary_audio": false
+    },
+    {
+      "slug": "047_servants",
+      "order": 47,
+      "langs": [
+        "ar",
+        "en",
+        "ur",
+        "fr",
+        "es"
+      ],
+      "titles": {
+        "ar": "خَدَمُ أَهْلِ الْجَنَّةِ وَغِلْمَانُهُمْ",
+        "en": "The Servants and Young Attendants of the People of Jannah",
+        "ur": "اہلِ جنت کے خدمت گار اور غلمان",
+        "fr": "Les serviteurs des gens de la Jannah et leurs jeunes garçons",
+        "es": "Los servidores de la gente del Paraíso y sus jóvenes sirvientes"
+      },
+      "hooks": {
+        "ar": "بعد هذا الدرس، يكون المتعلم قادرًا على:",
+        "en": "After this lesson, the learner will be able to:",
+        "ur": "اس سبق کے بعد سیکھنے والا یہ کر سکے گا:",
+        "fr": "Au terme de cette leçon, l'apprenant sera capable de :",
+        "es": "Después de esta lección, el aprendiz será capaz de:"
+      },
+      "status": {
+        "ar": "arabic_draft",
+        "en": "translation_draft",
+        "ur": "translation_draft",
+        "fr": "translation_draft",
+        "es": "translation_draft"
+      },
+      "under_review": true,
+      "has_illustration": true,
+      "has_audio": false,
+      "has_summary_audio": false
+    },
+    {
+      "slug": "046_vessels",
+      "order": 46,
+      "langs": [
+        "ar",
+        "en",
+        "ur",
+        "fr",
+        "es"
+      ],
+      "titles": {
+        "ar": "أَوَانِي الْجَنَّةِ وَصِحَافُهَا",
+        "en": "The Vessels and Platters of Jannah",
+        "ur": "جنت کے برتن اور تھالیاں",
+        "fr": "Les récipients et les plats de la Jannah",
+        "es": "Las vasijas y las fuentes del Paraíso"
+      },
+      "hooks": {
+        "ar": "بعد هذا الدرس، يكون المتعلم قادرًا على:",
+        "en": "After this lesson, the learner will be able to:",
+        "ur": "اس سبق کے بعد سیکھنے والا یہ کر سکے گا:",
+        "fr": "Au terme de cette leçon, l'apprenant sera capable de :",
+        "es": "Después de esta lección, el aprendiz será capaz de:"
+      },
+      "status": {
+        "ar": "arabic_draft",
+        "en": "translation_draft",
+        "ur": "translation_draft",
+        "fr": "translation_draft",
+        "es": "translation_draft"
+      },
+      "under_review": true,
+      "has_illustration": true,
+      "has_audio": false,
+      "has_summary_audio": false
+    },
+    {
+      "slug": "045_clothing_jewelry",
+      "order": 45,
+      "langs": [
+        "ar",
+        "en",
+        "ur",
+        "fr",
+        "es"
+      ],
+      "titles": {
+        "ar": "لِبَاسُ أَهْلِ الْجَنَّةِ وَحُلِيُّهُمْ",
+        "en": "The Clothing and Jewelry of the People of Jannah",
+        "ur": "اہلِ جنت کا لباس اور زیور",
+        "fr": "Les vêtements des gens de la Jannah et leurs parures",
+        "es": "La vestimenta y las joyas de la gente del Paraíso"
+      },
+      "hooks": {
+        "ar": "بعد هذا الدرس، يكون المتعلم قادرًا على:",
+        "en": "After this lesson, the learner will be able to:",
+        "ur": "اس سبق کے بعد سیکھنے والا یہ کر سکے گا:",
+        "fr": "Au terme de cette leçon, l'apprenant sera capable de :",
+        "es": "Después de esta lección, el aprendiz será capaz de:"
+      },
+      "status": {
+        "ar": "arabic_draft",
+        "en": "translation_draft",
+        "ur": "translation_draft",
+        "fr": "translation_draft",
+        "es": "translation_draft"
+      },
+      "under_review": true,
+      "has_illustration": true,
+      "has_audio": false,
+      "has_summary_audio": false
+    },
+    {
+      "slug": "044_couches_beds",
+      "order": 44,
+      "langs": [
+        "ar",
+        "en",
+        "ur",
+        "fr",
+        "es"
+      ],
+      "titles": {
+        "ar": "سُرُرُ الْجَنَّةِ وَأَرَائِكُهَا وَفُرُشُهَا",
+        "en": "The Couches, Canopied Seats and Furnishings of Jannah",
+        "ur": "جنت کے تخت، مسہریاں اور بچھونے",
+        "fr": "Les lits de la Jannah, ses divans et ses tapis",
+        "es": "Los lechos, los divanes y los tapices del Paraíso"
+      },
+      "hooks": {
+        "ar": "بعد هذا الدرس، يكون المتعلم قادرًا على:",
+        "en": "After this lesson, the learner will be able to:",
+        "ur": "اس سبق کے بعد سیکھنے والا یہ کر سکے گا:",
+        "fr": "Au terme de cette leçon, l'apprenant sera capable de :",
+        "es": "Después de esta lección, el aprendiz será capaz de:"
+      },
+      "status": {
+        "ar": "arabic_draft",
+        "en": "translation_draft",
+        "ur": "translation_draft",
+        "fr": "translation_draft",
+        "es": "translation_draft"
+      },
+      "under_review": true,
+      "has_illustration": true,
+      "has_audio": false,
+      "has_summary_audio": false
+    },
+    {
+      "slug": "043_tents",
+      "order": 43,
+      "langs": [
+        "ar",
+        "en",
+        "ur",
+        "fr",
+        "es"
+      ],
+      "titles": {
+        "ar": "خِيَامُ الْجَنَّةِ وَمَقَاصِيرُهَا",
+        "en": "The Tents and Sheltered Chambers of Jannah",
+        "ur": "جنت کے خیمے اور اس کے پردہ دار حجرے",
+        "fr": "Les tentes de la Jannah et leurs retraites préservées",
+        "es": "Las tiendas del Paraíso y sus estancias resguardadas"
+      },
+      "hooks": {
+        "ar": "بعد هذا الدرس، يكون المتعلم قادرًا على:",
+        "en": "After this lesson, the learner will be able to:",
+        "ur": "اس سبق کے بعد سیکھنے والا یہ کر سکے گا:",
+        "fr": "Au terme de cette leçon, l'apprenant sera capable de :",
+        "es": "Después de esta lección, el aprendiz será capaz de:"
+      },
+      "status": {
+        "ar": "arabic_draft",
+        "en": "translation_draft",
+        "ur": "translation_draft",
+        "fr": "translation_draft",
+        "es": "translation_draft"
+      },
+      "under_review": true,
+      "has_illustration": true,
+      "has_audio": false,
+      "has_summary_audio": false
+    },
+    {
+      "slug": "042_rooms_upper",
+      "order": 42,
+      "langs": [
+        "ar",
+        "en",
+        "ur",
+        "fr",
+        "es"
+      ],
+      "titles": {
+        "ar": "غُرَفُ الْجَنَّةِ وَعَلَالِيُّهَا",
+        "en": "The Lofty Chambers of Jannah, Rising One Above Another",
+        "ur": "جنت کے بالاخانے اور اونچی منزلیں",
+        "fr": "Les chambres hautes de la Jannah, étage sur étage",
+        "es": "Las cámaras altas del Paraíso y sus aposentos elevados"
+      },
+      "hooks": {
+        "ar": "بعد هذا الدرس، يكون المتعلم قادرًا على:",
+        "en": "After this lesson, the learner will be able to:",
+        "ur": "اس سبق کے بعد سیکھنے والا یہ کر سکے گا:",
+        "fr": "Au terme de cette leçon, l'apprenant sera capable de :",
+        "es": "Después de esta lección, el aprendiz será capaz de:"
+      },
+      "status": {
+        "ar": "arabic_draft",
+        "en": "translation_draft",
+        "ur": "translation_draft",
+        "fr": "translation_draft",
+        "es": "translation_draft"
+      },
+      "under_review": true,
+      "has_illustration": true,
+      "has_audio": false,
+      "has_summary_audio": false
+    },
+    {
       "slug": "041_palaces",
       "order": 41,
       "langs": [
