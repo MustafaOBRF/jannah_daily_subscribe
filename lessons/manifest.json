@@ -1,6 +1,366 @@
 {
   "lessons": [
     {
+      "slug": "070_gatherings_conversation",
+      "order": 70,
+      "langs": [
+        "ar",
+        "en",
+        "ur",
+        "fr",
+        "es"
+      ],
+      "titles": {
+        "ar": "مَجَالِسُ أَهْلِ الْجَنَّةِ وَأَحَادِيثُهُمْ وَضَحِكُهُمْ",
+        "en": "The Gatherings of Jannah: Its People's Conversation and Laughter",
+        "ur": "اہلِ جنت کی مجلسیں، ان کی باتیں اور ان کی ہنسی",
+        "fr": "Assemblées, conversations et rires des gens de la Jannah",
+        "es": "Las tertulias de la gente del Paraíso: sus conversaciones y sus risas"
+      },
+      "hooks": {
+        "ar": "بعد هذا الدرس، يكون المتعلم قادرًا على:",
+        "en": "After this lesson, the learner will be able to:",
+        "ur": "اس سبق کے بعد سیکھنے والا یہ کر سکے گا:",
+        "fr": "Au terme de cette leçon, l'apprenant sera capable de :",
+        "es": "Después de esta lección, el aprendiz será capaz de:"
+      },
+      "status": {
+        "ar": "arabic_draft",
+        "en": "translation_draft",
+        "ur": "translation_draft",
+        "fr": "translation_draft",
+        "es": "translation_draft"
+      },
+      "under_review": true,
+      "has_illustration": true,
+      "has_audio": false,
+      "has_summary_audio": false
+    },
+    {
+      "slug": "069_friendship_visiting",
+      "order": 69,
+      "langs": [
+        "ar",
+        "en",
+        "ur",
+        "fr",
+        "es"
+      ],
+      "titles": {
+        "ar": "الصُّحْبَةُ وَالتَّزَاوُرُ بَيْنَ أَهْلِ الْجَنَّةِ",
+        "en": "Companionship and Visiting Among the People of Jannah",
+        "ur": "اہلِ جنت کی رفاقت اور باہمی ملاقاتیں",
+        "fr": "La compagnie et les visites entre les gens de la Jannah",
+        "es": "La compañía y las visitas entre la gente del Paraíso"
+      },
+      "hooks": {
+        "ar": "بعد هذا الدرس، يكون المتعلم قادرًا على:",
+        "en": "After this lesson, the learner will be able to:",
+        "ur": "اس سبق کے بعد سیکھنے والا یہ کر سکے گا:",
+        "fr": "Au terme de cette leçon, l'apprenant sera capable de :",
+        "es": "Después de esta lección, el aprendiz será capaz de:"
+      },
+      "status": {
+        "ar": "arabic_draft",
+        "en": "translation_draft",
+        "ur": "translation_draft",
+        "fr": "translation_draft",
+        "es": "translation_draft"
+      },
+      "under_review": true,
+      "has_illustration": true,
+      "has_audio": false,
+      "has_summary_audio": false
+    },
+    {
+      "slug": "068_intimacy",
+      "order": 68,
+      "langs": [
+        "ar",
+        "en",
+        "ur",
+        "fr",
+        "es"
+      ],
+      "titles": {
+        "ar": "أَهْلُ الْجَنَّةِ وَأَزْوَاجُهُمْ: نَعِيمٌ طَاهِرٌ",
+        "en": "The People of Jannah and Their Spouses: A Pure Delight",
+        "ur": "اہلِ جنت اور ان کے شریکِ حیات: پاکیزہ نعمت",
+        "fr": "Les gens de la Jannah et leurs conjoints : une félicité pure",
+        "es": "La gente del Paraíso y sus cónyuges: un deleite puro"
+      },
+      "hooks": {
+        "ar": "بعد هذا الدرس، يكون المتعلم قادرًا على:",
+        "en": "After this lesson, the learner will be able to:",
+        "ur": "اس سبق کے بعد سیکھنے والا یہ کر سکے گا:",
+        "fr": "Au terme de cette leçon, l'apprenant sera capable de :",
+        "es": "Después de esta lección, el aprendiz será capaz de:"
+      },
+      "status": {
+        "ar": "arabic_draft",
+        "en": "translation_draft",
+        "ur": "translation_draft",
+        "fr": "translation_draft",
+        "es": "translation_draft"
+      },
+      "under_review": true,
+      "has_illustration": true,
+      "has_audio": false,
+      "has_summary_audio": false
+    },
+    {
+      "slug": "067_hur_al_ayn",
+      "order": 67,
+      "langs": [
+        "ar",
+        "en",
+        "ur",
+        "fr",
+        "es"
+      ],
+      "titles": {
+        "ar": "الْحُورُ الْعِينُ وَصِفَاتُهُنَّ",
+        "en": "The Hur al-'Ayn and Their Qualities",
+        "ur": "حورِ عین اور ان کی صفات",
+        "fr": "Les houris aux grands yeux et leurs qualités",
+        "es": "Las huríes de grandes ojos y sus cualidades"
+      },
+      "hooks": {
+        "ar": "بعد هذا الدرس، يكون المتعلم قادرًا على:",
+        "en": "After this lesson, the learner will be able to:",
+        "ur": "اس سبق کے بعد سیکھنے والا یہ کر سکے گا:",
+        "fr": "Au terme de cette leçon, l'apprenant sera capable de :",
+        "es": "Después de esta lección, el aprendiz será capaz de:"
+      },
+      "status": {
+        "ar": "arabic_draft",
+        "en": "translation_draft",
+        "ur": "translation_draft",
+        "fr": "translation_draft",
+        "es": "translation_draft"
+      },
+      "under_review": true,
+      "has_illustration": true,
+      "has_audio": false,
+      "has_summary_audio": false
+    },
+    {
+      "slug": "066_believing_spouses",
+      "order": 66,
+      "langs": [
+        "ar",
+        "en",
+        "ur",
+        "fr",
+        "es"
+      ],
+      "titles": {
+        "ar": "الْأَزْوَاجُ وَالنِّسَاءُ الْمُؤْمِنَاتُ فِي الْجَنَّةِ",
+        "en": "Believing Spouses and Believing Women in Jannah",
+        "ur": "جنت میں مومن میاں بیوی اور ایمان والی خواتین",
+        "fr": "Les conjoints et les femmes croyantes dans la Jannah",
+        "es": "Los esposos y las mujeres creyentes en el Paraíso"
+      },
+      "hooks": {
+        "ar": "بعد هذا الدرس، يكون المتعلم قادرًا على:",
+        "en": "After this lesson, the learner will be able to:",
+        "ur": "اس سبق کے بعد سیکھنے والا یہ کر سکے گا:",
+        "fr": "Au terme de cette leçon, l'apprenant sera capable de :",
+        "es": "Después de esta lección, el aprendiz será capaz de:"
+      },
+      "status": {
+        "ar": "arabic_draft",
+        "en": "translation_draft",
+        "ur": "translation_draft",
+        "fr": "translation_draft",
+        "es": "translation_draft"
+      },
+      "under_review": true,
+      "has_illustration": true,
+      "has_audio": false,
+      "has_summary_audio": false
+    },
+    {
+      "slug": "065_family_children",
+      "order": 65,
+      "langs": [
+        "ar",
+        "en",
+        "ur",
+        "fr",
+        "es"
+      ],
+      "titles": {
+        "ar": "الْأُسْرَةُ وَالذُّرِّيَّةُ فِي الْجَنَّةِ",
+        "en": "Family and Children in Jannah",
+        "ur": "جنت میں خاندان اور اولاد",
+        "fr": "La famille et la descendance dans la Jannah",
+        "es": "La familia y la descendencia en el Paraíso"
+      },
+      "hooks": {
+        "ar": "بعد هذا الدرس، يكون المتعلم قادرًا على:",
+        "en": "After this lesson, the learner will be able to:",
+        "ur": "اس سبق کے بعد سیکھنے والا یہ کر سکے گا:",
+        "fr": "Au terme de cette leçon, l'apprenant sera capable de :",
+        "es": "Después de esta lección, el aprendiz será capaz de:"
+      },
+      "status": {
+        "ar": "arabic_draft",
+        "en": "translation_draft",
+        "ur": "translation_draft",
+        "fr": "translation_draft",
+        "es": "translation_draft"
+      },
+      "under_review": true,
+      "has_illustration": true,
+      "has_audio": false,
+      "has_summary_audio": false
+    },
+    {
+      "slug": "064_language_speech",
+      "order": 64,
+      "langs": [
+        "ar",
+        "en",
+        "ur",
+        "fr",
+        "es"
+      ],
+      "titles": {
+        "ar": "لِسَانُ أَهْلِ الْجَنَّةِ وَكَلَامُهُمْ",
+        "en": "The Language and Speech of the People of Jannah",
+        "ur": "اہلِ جنت کی زبان اور ان کی گفتگو",
+        "fr": "La langue des gens de la Jannah et leurs paroles",
+        "es": "La lengua de la gente del Paraíso y su manera de hablar"
+      },
+      "hooks": {
+        "ar": "بعد هذا الدرس، يكون المتعلم قادرًا على:",
+        "en": "After this lesson, the learner will be able to:",
+        "ur": "اس سبق کے بعد سیکھنے والا یہ کر سکے گا:",
+        "fr": "Au terme de cette leçon, l'apprenant sera capable de :",
+        "es": "Después de esta lección, el aprendiz será capaz de:"
+      },
+      "status": {
+        "ar": "arabic_draft",
+        "en": "translation_draft",
+        "ur": "translation_draft",
+        "fr": "translation_draft",
+        "es": "translation_draft"
+      },
+      "under_review": true,
+      "has_illustration": true,
+      "has_audio": false,
+      "has_summary_audio": false
+    },
+    {
+      "slug": "063_strength_purity",
+      "order": 63,
+      "langs": [
+        "ar",
+        "en",
+        "ur",
+        "fr",
+        "es"
+      ],
+      "titles": {
+        "ar": "قُوَّةُ أَهْلِ الْجَنَّةِ وَطَهَارَةُ أَجْسَادِهِمْ",
+        "en": "The Strength of Jannah's People and the Purity of Their Bodies",
+        "ur": "اہلِ جنت کی قوت اور ان کے جسموں کی پاکیزگی",
+        "fr": "La force des gens de la Jannah et la pureté de leurs corps",
+        "es": "La fuerza de la gente del Paraíso y la pureza de sus cuerpos"
+      },
+      "hooks": {
+        "ar": "بعد هذا الدرس، يكون المتعلم قادرًا على:",
+        "en": "After this lesson, the learner will be able to:",
+        "ur": "اس سبق کے بعد سیکھنے والا یہ کر سکے گا:",
+        "fr": "Au terme de cette leçon, l'apprenant sera capable de :",
+        "es": "Después de esta lección, el aprendiz será capaz de:"
+      },
+      "status": {
+        "ar": "arabic_draft",
+        "en": "translation_draft",
+        "ur": "translation_draft",
+        "fr": "translation_draft",
+        "es": "translation_draft"
+      },
+      "under_review": true,
+      "has_illustration": true,
+      "has_audio": false,
+      "has_summary_audio": false
+    },
+    {
+      "slug": "062_appearance_age_beauty",
+      "order": 62,
+      "langs": [
+        "ar",
+        "en",
+        "ur",
+        "fr",
+        "es"
+      ],
+      "titles": {
+        "ar": "هَيْئَةُ أَهْلِ الْجَنَّةِ وَأَعْمَارُهُمْ وَجَمَالُهُمْ",
+        "en": "The Form, Age, and Beauty of the People of Jannah",
+        "ur": "اہلِ جنت کی شکل و صورت، عمر اور حسن و جمال",
+        "fr": "L'apparence, l'âge et la beauté des gens de la Jannah",
+        "es": "El aspecto, la edad y la belleza de la gente del Paraíso"
+      },
+      "hooks": {
+        "ar": "بعد هذا الدرس، يكون المتعلم قادرًا على:",
+        "en": "After this lesson, the learner will be able to:",
+        "ur": "اس سبق کے بعد سیکھنے والا یہ کر سکے گا:",
+        "fr": "Au terme de cette leçon, l'apprenant sera capable de :",
+        "es": "Después de esta lección, el aprendiz será capaz de:"
+      },
+      "status": {
+        "ar": "arabic_draft",
+        "en": "translation_draft",
+        "ur": "translation_draft",
+        "fr": "translation_draft",
+        "es": "translation_draft"
+      },
+      "under_review": true,
+      "has_illustration": true,
+      "has_audio": false,
+      "has_summary_audio": false
+    },
+    {
+      "slug": "061_no_impurity",
+      "order": 61,
+      "langs": [
+        "ar",
+        "en",
+        "ur",
+        "fr",
+        "es"
+      ],
+      "titles": {
+        "ar": "طَعَامُ الْجَنَّةِ وَشَرَابُهَا لَا دَنَسَ مَعَهُ",
+        "en": "The Food and Drink of Jannah Leave Nothing Impure",
+        "ur": "جنت کا کھانا پینا: ہر آلودگی سے پاک",
+        "fr": "Nourriture et boisson de la Jannah, sans la moindre souillure",
+        "es": "La comida y la bebida del Paraíso, libres de toda impureza"
+      },
+      "hooks": {
+        "ar": "بعد هذا الدرس، يكون المتعلم قادرًا على:",
+        "en": "After this lesson, the learner will be able to:",
+        "ur": "اس سبق کے بعد سیکھنے والا یہ کر سکے گا:",
+        "fr": "Au terme de cette leçon, l'apprenant sera capable de :",
+        "es": "Después de esta lección, el aprendiz será capaz de:"
+      },
+      "status": {
+        "ar": "arabic_draft",
+        "en": "translation_draft",
+        "ur": "translation_draft",
+        "fr": "translation_draft",
+        "es": "translation_draft"
+      },
+      "under_review": true,
+      "has_illustration": true,
+      "has_audio": false,
+      "has_summary_audio": false
+    },
+    {
       "slug": "060_birds_meat",
       "order": 60,
       "langs": [
