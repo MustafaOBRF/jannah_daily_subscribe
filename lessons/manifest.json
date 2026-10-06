@@ -1,6 +1,294 @@
 {
   "lessons": [
     {
+      "slug": "078_seeing_allah",
+      "order": 78,
+      "langs": [
+        "ar",
+        "en",
+        "ur",
+        "fr",
+        "es"
+      ],
+      "titles": {
+        "ar": "رُؤْيَةُ اللَّهِ تَعَالَى وَالزِّيَادَةُ",
+        "en": "Seeing Allah, Exalted Is He, and “More Besides”",
+        "ur": "اللہ تعالیٰ کا دیدار اور \\\"مزید\\\" انعام",
+        "fr": "La vision d'Allah, exalté soit-Il, et le surcroît",
+        "es": "La visión de Allah, el Altísimo, y el «algo más»"
+      },
+      "hooks": {
+        "ar": "بعد هذا الدرس، يكون المتعلم قادرًا على:",
+        "en": "After this lesson, the learner will be able to:",
+        "ur": "اس سبق کے بعد سیکھنے والا یہ کر سکے گا:",
+        "fr": "Au terme de cette leçon, l'apprenant sera capable de :",
+        "es": "Después de esta lección, el aprendiz será capaz de:"
+      },
+      "status": {
+        "ar": "arabic_draft",
+        "en": "translation_draft",
+        "ur": "translation_draft",
+        "fr": "translation_draft",
+        "es": "translation_draft"
+      },
+      "under_review": true,
+      "has_illustration": true,
+      "has_audio": false,
+      "has_summary_audio": false
+    },
+    {
+      "slug": "077_allah_speech_salam_pleasure",
+      "order": 77,
+      "langs": [
+        "ar",
+        "en",
+        "ur",
+        "fr",
+        "es"
+      ],
+      "titles": {
+        "ar": "سَلَامُ اللَّهِ وَكَلَامُهُ وَرِضْوَانُهُ عَلَى أَهْلِ الْجَنَّةِ",
+        "en": "Allah's Greeting of Peace, His Speech, and His Good Pleasure upon the People of Jannah",
+        "ur": "اہلِ جنت پر اللہ کا سلام، اس کا کلام اور اس کی رضا",
+        "fr": "Le salut d'Allah, Sa parole et Son agrément pour les gens de la Jannah",
+        "es": "El saludo de paz de Allah, Su palabra y Su complacencia para la gente del Paraíso"
+      },
+      "hooks": {
+        "ar": "بعد هذا الدرس، يكون المتعلم قادرًا على:",
+        "en": "After this lesson, the learner will be able to:",
+        "ur": "اس سبق کے بعد سیکھنے والا یہ کر سکے گا:",
+        "fr": "Au terme de cette leçon, l'apprenant sera capable de :",
+        "es": "Después de esta lección, el aprendiz será capaz de:"
+      },
+      "status": {
+        "ar": "arabic_draft",
+        "en": "translation_draft",
+        "ur": "translation_draft",
+        "fr": "translation_draft",
+        "es": "translation_draft"
+      },
+      "under_review": true,
+      "has_illustration": true,
+      "has_audio": false,
+      "has_summary_audio": false
+    },
+    {
+      "slug": "076_dhikr_quran_tasbih",
+      "order": 76,
+      "langs": [
+        "ar",
+        "en",
+        "ur",
+        "fr",
+        "es"
+      ],
+      "titles": {
+        "ar": "الذِّكْرُ وَالْقُرْآنُ وَالتَّسْبِيحُ فِي الْجَنَّةِ",
+        "en": "Remembrance, the Qur'an, and Glorifying Allah in Jannah",
+        "ur": "جنت میں ذکر، قرآن اور تسبیح",
+        "fr": "Le rappel d'Allah, le Coran et la glorification dans la Jannah",
+        "es": "El recuerdo de Allah, el Corán y la glorificación en el Paraíso"
+      },
+      "hooks": {
+        "ar": "بعد هذا الدرس، يكون المتعلم قادرًا على:",
+        "en": "After this lesson, the learner will be able to:",
+        "ur": "اس سبق کے بعد سیکھنے والا یہ کر سکے گا:",
+        "fr": "Au terme de cette leçon, l'apprenant sera capable de :",
+        "es": "Después de esta lección, el aprendiz será capaz de:"
+      },
+      "status": {
+        "ar": "arabic_draft",
+        "en": "translation_draft",
+        "ur": "translation_draft",
+        "fr": "translation_draft",
+        "es": "translation_draft"
+      },
+      "under_review": true,
+      "has_illustration": true,
+      "has_audio": false,
+      "has_summary_audio": false
+    },
+    {
+      "slug": "075_remembering_dunya",
+      "order": 75,
+      "langs": [
+        "ar",
+        "en",
+        "ur",
+        "fr",
+        "es"
+      ],
+      "titles": {
+        "ar": "أَهْلُ الْجَنَّةِ يَتَذَاكَرُونَ الدُّنْيَا: «وَلَوْلَا نِعْمَةُ رَبِّي»",
+        "en": "The People of Jannah Remember This World: \\\"Had It Not Been for the Favor of My Lord\\\"",
+        "ur": "جنت والے دنیا کو یاد کرتے ہیں: «اور اگر میرے رب کا احسان نہ ہوتا»",
+        "fr": "Les gens de la Jannah évoquent la vie d'ici-bas : « Sans le bienfait de mon Seigneur »",
+        "es": "La gente del Paraíso recuerda la vida de este mundo: «De no ser por la gracia de mi Señor»"
+      },
+      "hooks": {
+        "ar": "بعد هذا الدرس، يكون المتعلم قادرًا على:",
+        "en": "After this lesson, the learner will be able to:",
+        "ur": "اس سبق کے بعد سیکھنے والا یہ کر سکے گا:",
+        "fr": "Au terme de cette leçon, l'apprenant sera capable de :",
+        "es": "Después de esta lección, el aprendiz será capaz de:"
+      },
+      "status": {
+        "ar": "arabic_draft",
+        "en": "translation_draft",
+        "ur": "translation_draft",
+        "fr": "translation_draft",
+        "es": "translation_draft"
+      },
+      "under_review": true,
+      "has_illustration": true,
+      "has_audio": false,
+      "has_summary_audio": false
+    },
+    {
+      "slug": "074_wishes_desires",
+      "order": 74,
+      "langs": [
+        "ar",
+        "en",
+        "ur",
+        "fr",
+        "es"
+      ],
+      "titles": {
+        "ar": "أَمَانِيُّ أَهْلِ الْجَنَّةِ وَمَا تَشْتَهِيهِ الْأَنْفُسُ",
+        "en": "The Wishes of the People of Jannah and All That Souls Desire",
+        "ur": "اہلِ جنت کی آرزوئیں اور دلوں کی چاہتیں",
+        "fr": "Les souhaits des gens de la Jannah et tout ce que désirent les âmes",
+        "es": "Los deseos de la gente del Paraíso y todo lo que las almas anhelan"
+      },
+      "hooks": {
+        "ar": "بعد هذا الدرس، يكون المتعلم قادرًا على:",
+        "en": "After this lesson, the learner will be able to:",
+        "ur": "اس سبق کے بعد سیکھنے والا یہ کر سکے گا:",
+        "fr": "Au terme de cette leçon, l'apprenant sera capable de :",
+        "es": "Después de esta lección, el aprendiz será capaz de:"
+      },
+      "status": {
+        "ar": "arabic_draft",
+        "en": "translation_draft",
+        "ur": "translation_draft",
+        "fr": "translation_draft",
+        "es": "translation_draft"
+      },
+      "under_review": true,
+      "has_illustration": true,
+      "has_audio": false,
+      "has_summary_audio": false
+    },
+    {
+      "slug": "073_sounds_singing",
+      "order": 73,
+      "langs": [
+        "ar",
+        "en",
+        "ur",
+        "fr",
+        "es"
+      ],
+      "titles": {
+        "ar": "أَصْوَاتُ الْجَنَّةِ: فِي رَوْضَةٍ يُحْبَرُونَ",
+        "en": "The Sounds of Jannah: In a Garden, Delighted",
+        "ur": "جنت کی آوازیں: وہ ایک باغ میں شاد و مسرور رکھے جائیں گے",
+        "fr": "Les sons de la Jannah : dans un jardin, comblés de joie",
+        "es": "Los sonidos del Paraíso: en un jardín, colmados de dicha"
+      },
+      "hooks": {
+        "ar": "بعد هذا الدرس، يكون المتعلم قادرًا على:",
+        "en": "After this lesson, the learner will be able to:",
+        "ur": "اس سبق کے بعد سیکھنے والا یہ کر سکے گا:",
+        "fr": "Au terme de cette leçon, l'apprenant sera capable de :",
+        "es": "Después de esta lección, el aprendiz será capaz de:"
+      },
+      "status": {
+        "ar": "arabic_draft",
+        "en": "translation_draft",
+        "ur": "translation_draft",
+        "fr": "translation_draft",
+        "es": "translation_draft"
+      },
+      "under_review": true,
+      "has_illustration": true,
+      "has_audio": false,
+      "has_summary_audio": false
+    },
+    {
+      "slug": "072_mounts",
+      "order": 72,
+      "langs": [
+        "ar",
+        "en",
+        "ur",
+        "fr",
+        "es"
+      ],
+      "titles": {
+        "ar": "مَرَاكِبُ أَهْلِ الْجَنَّةِ وَدَوَابُّهُمْ",
+        "en": "The Mounts and Steeds of the People of Jannah",
+        "ur": "جنت والوں کی سواریاں اور ان کے جانور",
+        "fr": "Les montures et les bêtes des gens de la Jannah",
+        "es": "Las monturas y cabalgaduras de la gente del Paraíso"
+      },
+      "hooks": {
+        "ar": "بعد هذا الدرس، يكون المتعلم قادرًا على:",
+        "en": "After this lesson, the learner will be able to:",
+        "ur": "اس سبق کے بعد سیکھنے والا یہ کر سکے گا:",
+        "fr": "Au terme de cette leçon, l'apprenant sera capable de :",
+        "es": "Después de esta lección, el aprendiz será capaz de:"
+      },
+      "status": {
+        "ar": "arabic_draft",
+        "en": "translation_draft",
+        "ur": "translation_draft",
+        "fr": "translation_draft",
+        "es": "translation_draft"
+      },
+      "under_review": true,
+      "has_illustration": true,
+      "has_audio": false,
+      "has_summary_audio": false
+    },
+    {
+      "slug": "071_market",
+      "order": 71,
+      "langs": [
+        "ar",
+        "en",
+        "ur",
+        "fr",
+        "es"
+      ],
+      "titles": {
+        "ar": "سُوقُ الْجَنَّةِ وَمُتَنَزَّهَاتُهَا",
+        "en": "The Market of Jannah and Its Outings",
+        "ur": "جنت کا بازار اور اس کی سیرگاہیں",
+        "fr": "Le marché de la Jannah et ses lieux d'agrément",
+        "es": "El mercado del Paraíso y sus lugares de paseo"
+      },
+      "hooks": {
+        "ar": "بعد هذا الدرس، يكون المتعلم قادرًا على:",
+        "en": "After this lesson, the learner will be able to:",
+        "ur": "اس سبق کے بعد سیکھنے والا یہ کر سکے گا:",
+        "fr": "Au terme de cette leçon, l'apprenant sera capable de :",
+        "es": "Después de esta lección, el aprendiz será capaz de:"
+      },
+      "status": {
+        "ar": "arabic_draft",
+        "en": "translation_draft",
+        "ur": "translation_draft",
+        "fr": "translation_draft",
+        "es": "translation_draft"
+      },
+      "under_review": true,
+      "has_illustration": true,
+      "has_audio": false,
+      "has_summary_audio": false
+    },
+    {
       "slug": "070_gatherings_conversation",
       "order": 70,
       "langs": [
